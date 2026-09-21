@@ -21,7 +21,7 @@
     },
     {
       "text": "The UK contribution to the EU budget",
-      "href": null
+      "href": {}
     }
   ],
   "date_published": "2019-09-29T23:00:00.000Z",
@@ -33,6 +33,7 @@
       "h2": null,
       "h3": null,
       "h4": null,
+      "h5": null,
       "text": "30 September 2019"
     },
     {
@@ -40,6 +41,7 @@
       "h2": null,
       "h3": null,
       "h4": null,
+      "h5": null,
       "text": "The financial relationship between the UK and the European Union (EU) continues to be a talking point."
     },
     {
@@ -47,6 +49,7 @@
       "h2": null,
       "h3": null,
       "h4": null,
+      "h5": null,
       "text": "In 2018 the government spent £864.9 billion on all aspects of public spending, but how much does the UK pay to the EU as a current member?"
     },
     {
@@ -54,6 +57,7 @@
       "h2": null,
       "h3": null,
       "h4": null,
+      "h5": null,
       "text": "What about the adjustment (officially known as the ‘Fontainbleau abatement’, colloquially known as the UK rebate) deducted from the overall theoretical liability, and the net impact of money the UK receives from the EU, for example, through the Agricultural Guarantee Fund?"
     },
     {
@@ -61,6 +65,7 @@
       "h2": null,
       "h3": null,
       "h4": null,
+      "h5": null,
       "text": "Following our previous explainer on this topic, we take another look using latest numbers on the UK’s official transactions with European Union (EU) institutions using data consistent with Table 9.9 of Pink Book 2019 (available in Table 1), as well as data from the European Commission. The rest of the [Pink Book](https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/bulletins/unitedkingdombalanceofpaymentsthepinkbook/previousReleases) will be published as scheduled on 31 October 2019."
     },
     {
@@ -68,6 +73,7 @@
       "h2": null,
       "h3": null,
       "h4": null,
+      "h5": null,
       "text": "In 2018 the UK’s gross contribution to the EU amounted to £20.0 billion; however, this amount of money was never actually transferred to the EU. It is best thought of as a theoretical liability."
     },
     {
@@ -75,6 +81,7 @@
       "h2": null,
       "h3": null,
       "h4": null,
+      "h5": null,
       "text": ""
     },
     {
@@ -82,14 +89,16 @@
       "h2": null,
       "h3": null,
       "h4": null,
+      "h5": null,
       "title": "In 2018 the UK’s gross contribution to the EU amounted to £20.0 billion",
-      "url": "https://www.ons.gov.uk/visualisations/dvc685/1/index.html"
+      "url": "https://onsdigital.github.io/visualisations/dvc685/1/index.html"
     },
     {
       "type": "p",
       "h2": null,
       "h3": null,
       "h4": null,
+      "h5": null,
       "text": "This is because before the UK government transfers any money to the EU, the adjustment (or abatement) is applied."
     },
     {
@@ -97,6 +106,7 @@
       "h2": null,
       "h3": null,
       "h4": null,
+      "h5": null,
       "text": "In 2018 the UK abatement was £4.5 billion. This means £15.5 billion was transferred from the UK government to the EU in official payments."
     },
     {
@@ -104,6 +114,7 @@
       "h2": null,
       "h3": null,
       "h4": null,
+      "h5": null,
       "text": ""
     },
     {
@@ -111,14 +122,16 @@
       "h2": null,
       "h3": null,
       "h4": null,
+      "h5": null,
       "title": "In 2018 the UK abatement was £4.5 billion",
-      "url": "https://www.ons.gov.uk/visualisations/dvc685/2/index.html"
+      "url": "https://onsdigital.github.io/visualisations/dvc685/2/index.html"
     },
     {
       "type": "p",
       "h2": null,
       "h3": null,
       "h4": null,
+      "h5": null,
       "text": "But this only accounts for the money that the UK pays to the EU – some of this £15.5 billion is credited back to the UK public sector, of which a proportion is then paid to the private sector."
     },
     {
@@ -126,6 +139,7 @@
       "h2": null,
       "h3": null,
       "h4": null,
+      "h5": null,
       "text": "The EU pays money to the UK public sector to administer what are known as “shared management” programmes. Under these, the EU makes payments to the UK authorities, which are then distributed in accordance with EU rules, for example, to farmers."
     },
     {
@@ -133,6 +147,7 @@
       "h2": null,
       "h3": null,
       "h4": null,
+      "h5": null,
       "text": "The Office for National Statistics (ONS) reports that £4.5 billion came back to the UK public sector in credits in 2018. This included £2.2 billion that came through the [Agricultural Guarantee Fund](https://ec.europa.eu/agriculture/cap-funding_en) and £0.7 billion that came back through the [European Regional Development Fund](https://ec.europa.eu/regional_policy/en/funding/erdf/)."
     },
     {
@@ -140,6 +155,7 @@
       "h2": null,
       "h3": null,
       "h4": null,
+      "h5": null,
       "text": "Given these figures, the ONS reports that the UK government's net contribution to the EU – that is, the difference between the money it paid to the EU and the money it received – was £11.0 billion in 2018 compared with the £20.0 billion theoretical liability."
     },
     {
@@ -147,6 +163,7 @@
       "h2": null,
       "h3": null,
       "h4": null,
+      "h5": null,
       "text": ""
     },
     {
@@ -154,14 +171,16 @@
       "h2": null,
       "h3": null,
       "h4": null,
+      "h5": null,
       "title": "The ONS reports that the UK government's net contribution to the EU was £11.0 billion in 2018",
-      "url": "https://www.ons.gov.uk/visualisations/dvc685/3/index.html"
+      "url": "https://onsdigital.github.io/visualisations/dvc685/3/index.html"
     },
     {
       "type": "p",
       "h2": null,
       "h3": null,
       "h4": null,
+      "h5": null,
       "text": "But is there anything else we might consider?"
     },
     {
@@ -169,6 +188,7 @@
       "h2": null,
       "h3": null,
       "h4": null,
+      "h5": null,
       "text": "Some have argued that there are other payments that should be considered. The private sector is able to access funding directly from the EU, but these are not considered “official transactions”. The net figure (usually published as part of the Pink Book, available in Table 1) only considers payments the UK government receives from the EU, not payments that the EU makes directly to the UK private sector such as grants to universities."
     },
     {
@@ -176,6 +196,7 @@
       "h2": null,
       "h3": null,
       "h4": null,
+      "h5": null,
       "text": "While the Pink Book table is not designed to capture those payments, the European Commission (EC) provides net figures including payments to the UK public and private sector."
     },
     {
@@ -183,13 +204,24 @@
       "h2": null,
       "h3": null,
       "h4": null,
+      "h5": null,
       "text": "Data from the [European Commission](https://ec.europa.eu/budget/graphs/revenue_expediture.html) (EC) does account for some credits to the private sector. Let's now take a look at how it calculates the UK's contribution using its own figures."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": null,
+      "h4": "European Commission figures, five-year average, 2014 to 2018, £billion",
+      "h5": null,
+      "text": "European Commission figures, five-year average, 2014 to 2018, £billion"
     },
     {
       "type": "p",
       "h2": null,
       "h3": null,
       "h4": "European Commission figures, five-year average, 2014 to 2018, £billion",
+      "h5": null,
       "text": ""
     },
     {
@@ -197,21 +229,33 @@
       "h2": null,
       "h3": null,
       "h4": "European Commission figures, five-year average, 2014 to 2018, £billion",
+      "h5": null,
       "title": "European Commission figures, five-year average, 2014 to 2018, Â£billion",
-      "url": "https://www.ons.gov.uk/visualisations/dvc685/4/index.html"
+      "url": "https://onsdigital.github.io/visualisations/dvc685/4/index.html"
     },
     {
       "type": "p",
       "h2": null,
       "h3": null,
       "h4": "European Commission figures, five-year average, 2014 to 2018, £billion",
-      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc685/datadownloads/contribution.csv)"
+      "h5": null,
+      "text": "[Download the data](https://onsdigital.github.io/visualisations/dvc685/datadownloads/contribution.csv)"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Notes:"
     },
     {
       "type": "li",
       "h2": null,
       "h3": null,
       "h4": "Notes:",
+      "h5": null,
       "text": "Averages have been calculated using unrounded values."
     },
     {
@@ -219,6 +263,7 @@
       "h2": null,
       "h3": null,
       "h4": "Notes:",
+      "h5": null,
       "text": "Using the latest available figures [published by the EC](http://ec.europa.eu/budget/figures/interactive/index_en.cfm), a wider estimate of flows between the UK and the EU can be calculated. This calculation considers the abatement, the money the EU sends to the UK government, and the money the EU sends directly to the UK private sector."
     },
     {
@@ -226,6 +271,7 @@
       "h2": null,
       "h3": null,
       "h4": "Notes:",
+      "h5": null,
       "text": "This is arguably a more complete picture of the money that flows between the UK and the EU and in 2018 the net flow was £8.6 billion."
     },
     {
@@ -233,6 +279,7 @@
       "h2": null,
       "h3": null,
       "h4": "Notes:",
+      "h5": null,
       "text": "However, in the last few years the EC figures have been volatile and so a five-year average has been taken to better represent a “typical” contribution."
     },
     {
@@ -240,20 +287,41 @@
       "h2": null,
       "h3": null,
       "h4": "Notes:",
+      "h5": null,
       "text": "The UK’s annual five-year average (2014 to 2018) net contribution on this wider basis was £7.8 billion; lower than the £9.8 billion ONS estimate of the annual five-year average which only captures official transactions between the EU and the UK government."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Making meaning of large amounts",
+      "h4": null,
+      "h5": null,
+      "text": "Making meaning of large amounts"
     },
     {
       "type": "p",
       "h2": null,
       "h3": "Making meaning of large amounts",
       "h4": null,
+      "h5": null,
       "text": "Often, very large numbers can lose meaning – to help you make sense of them we have created a calculator tool that will break the numbers down for you."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Making meaning of large amounts",
+      "h4": "Context Calculator",
+      "h5": null,
+      "text": "Context Calculator"
     },
     {
       "type": "p",
       "h2": null,
       "h3": "Making meaning of large amounts",
       "h4": "Context Calculator",
+      "h5": null,
       "text": "This handy calculator is here to help you make meaning of the many large numbers used in the EU debate, particularly the figures on the UK's net contribution to the EU."
     },
     {
@@ -261,6 +329,7 @@
       "h2": null,
       "h3": "Making meaning of large amounts",
       "h4": "Context Calculator",
+      "h5": null,
       "text": "Click on either of the two buttons - or just type in a figure - and it will break it down for you."
     },
     {
@@ -268,6 +337,7 @@
       "h2": null,
       "h3": "Making meaning of large amounts",
       "h4": "Context Calculator",
+      "h5": null,
       "text": ""
     },
     {
@@ -275,14 +345,25 @@
       "h2": null,
       "h3": "Making meaning of large amounts",
       "h4": "Context Calculator",
+      "h5": null,
       "title": "This handy calculator is here to help you make meaning of the many large numbers used in the EU debate particularly the figures on the UK's net contribution to the EU. Click on either of the two buttons - or just type in a figure - and it will break it down for you.",
-      "url": "https://www.ons.gov.uk/visualisations/dvc685/calculator/index.html"
+      "url": "https://onsdigital.github.io/visualisations/dvc685/calculator/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "The UK contribution over time",
+      "h4": null,
+      "h5": null,
+      "text": "The UK contribution over time"
     },
     {
       "type": "p",
       "h2": null,
       "h3": "The UK contribution over time",
       "h4": null,
+      "h5": null,
       "text": "The UK’s contribution to the EU budget changes each year as it is dependent on various factors, such as UK gross national income (GNI), the GNI of other EU member states and the size of the Value Added Tax (VAT) base."
     },
     {
@@ -290,13 +371,24 @@
       "h2": null,
       "h3": "The UK contribution over time",
       "h4": null,
+      "h5": null,
       "text": "Here, using ONS figures we take a look at how the UK contribution (after deducting the abatement) has changed since the start of the decade."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "The UK contribution over time",
+      "h4": "UK contributions to the EU budget (after deducting the abatement), £ billions, 2010 to 2018",
+      "h5": null,
+      "text": "UK contributions to the EU budget (after deducting the abatement), £ billions, 2010 to 2018"
     },
     {
       "type": "p",
       "h2": null,
       "h3": "The UK contribution over time",
       "h4": "UK contributions to the EU budget (after deducting the abatement), £ billions, 2010 to 2018",
+      "h5": null,
       "text": ""
     },
     {
@@ -304,21 +396,33 @@
       "h2": null,
       "h3": "The UK contribution over time",
       "h4": "UK contributions to the EU budget (after deducting the abatement), £ billions, 2010 to 2018",
+      "h5": null,
       "title": "UK contributions to the EU budget (after deducting the abatement), Â£ billions, 2010 to 2018",
-      "url": "https://www.ons.gov.uk/visualisations/dvc685/stacked-bar-vertical/index.html"
+      "url": "https://onsdigital.github.io/visualisations/dvc685/stacked-bar-vertical/index.html"
     },
     {
       "type": "p",
       "h2": null,
       "h3": "The UK contribution over time",
       "h4": "UK contributions to the EU budget (after deducting the abatement), £ billions, 2010 to 2018",
-      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc685/datadownloads/contributions-over-time.csv)"
+      "h5": null,
+      "text": "[Download the data](https://onsdigital.github.io/visualisations/dvc685/datadownloads/contributions-over-time.csv)"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Notes",
+      "h4": null,
+      "h5": null,
+      "text": "Notes"
     },
     {
       "type": "p",
       "h2": null,
       "h3": "Notes",
       "h4": null,
+      "h5": null,
       "text": "In the calendar year 2018, total general [government expenditure](https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicspending/bulletins/ukgovernmentdebtanddeficitforeurostatmaast/march2019) was £864.9 billion. Here we have used a wide definition, which includes spending on healthcare, education, defence, and spending on social security benefits. Central government spending and local government spending are both included. The amount covers the whole of the UK."
     },
     {
@@ -326,6 +430,7 @@
       "h2": null,
       "h3": "Notes",
       "h4": null,
+      "h5": null,
       "text": "HM Treasury also [publishes figures](https://www.gov.uk/government/statistics/european-union-finances-2018) on the payments between the EU and the UK government and estimated the net contribution in 2018 to be £8.9 billion. Its figures differ to those reported by the ONS as they are estimates, compared with the final figures used in the ONS publication. Treasury figures are also presented on a cash basis, whereas ONS data are presented on an accruals basis."
     },
     {
@@ -333,6 +438,7 @@
       "h2": null,
       "h3": "Notes",
       "h4": null,
+      "h5": null,
       "text": "European Commission figures are from the data download in their [financial report](https://ec.europa.eu/budget/graphs/revenue_expediture.html) and have been converted into sterling using the annual average exchange rate for each year from the Bank of England website. They account for all payments it receives from the UK government and payments it makes to the UK public and private sector bodies."
     },
     {
@@ -340,6 +446,7 @@
       "h2": null,
       "h3": "Notes",
       "h4": null,
+      "h5": null,
       "text": "A small proportion of spending – just over 2% – cannot be allocated to a specific country and so are not included in the EC’s figures. There are also some payments to the EC that are not allocated to a particular country and are therefore also not included in their figures. An example of this is fines, which is again a small proportion of total spending, typically between 2% and 3% of total expenditure."
     },
     {
@@ -347,6 +454,7 @@
       "h2": null,
       "h3": "Notes",
       "h4": null,
+      "h5": null,
       "text": "[Some commentators](https://fullfact.org/europe/brexit-extension-1-billion/) highlight the complexity in capturing the UK’s financial relationship with the EU. Another important point to consider is that the UK may still be committed to certain types of spending even after leaving the EU, so there may be current contributions that may not be saved. This may include, for example, spending towards overseas aid. In 2018 the [Department for International Development](https://www.gov.uk/government/statistics/statistics-on-international-development-final-uk-aid-spend-2018) paid £452 million in overseas aid via EU institutions while, in total, the UK government paid £951 million; all of which counted towards our overseas aid spending target."
     },
     {
@@ -354,6 +462,7 @@
       "h2": null,
       "h3": "Notes",
       "h4": null,
+      "h5": null,
       "text": ""
     },
     {
@@ -361,6 +470,7 @@
       "h2": null,
       "h3": "Notes",
       "h4": null,
+      "h5": null,
       "caption": "Table 1: UK official transactions with institutions of the EU, £ million, 2010 to 2018",
       "columns": [
         {
@@ -918,28 +1028,40 @@
         }
       ],
       "source": "Source: Office for National Statistics",
-      "footnotes": ["Before 1989 this is netted off the VAT contribution but cannot be identified separately.", "Other capital transfers from EU institutions are included indistinguishably with Agricultural Guarantee Fund receipts before 1996.", "Up to 2006 this series includes the European Agricultural Guidance Fund.", "Also known as EU traditional own resource.", "Also known as third own resource contribution.", "Previously known as GNP fourth own resource contribution.", "A negative balance means the UK pays more to the EU than it receives."]
+      "footnotes": [
+        "Before 1989 this is netted off the VAT contribution but cannot be identified separately.",
+        "Other capital transfers from EU institutions are included indistinguishably with Agricultural Guarantee Fund receipts before 1996.",
+        "Up to 2006 this series includes the European Agricultural Guidance Fund.",
+        "Also known as EU traditional own resource.",
+        "Also known as third own resource contribution.",
+        "Previously known as GNP fourth own resource contribution.",
+        "A negative balance means the UK pays more to the EU than it receives."
+      ]
     },
     {
       "type": "box",
       "h2": null,
       "h3": "Notes",
       "h4": null,
+      "h5": null,
       "box_h2": "You might also be interested in",
       "box_h3": null,
       "box_text": "",
-      "box_items": ["[ONS Pink Book, 2018](https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/bulletins/unitedkingdombalanceofpaymentsthepinkbook/2018)"]
+      "box_items": [
+        "[ONS Pink Book, 2018](https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/bulletins/unitedkingdombalanceofpaymentsthepinkbook/2018)"
+      ]
     },
     {
       "type": "box",
       "h2": null,
       "h3": "Notes",
       "h4": null,
+      "h5": null,
       "box_h2": "Contact",
       "box_h3": null,
       "box_text": "[digitalcontent@ons.gov.uk](mailto:digitalcontent@ons.gov.uk)\n",
       "box_items": []
     }
   ],
-  "scraped_at": "2026-08-04 12:06:17.897241"
+  "scraped_at": "2026-09-21 16:48:11.648747"
 }
