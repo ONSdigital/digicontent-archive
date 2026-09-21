@@ -21,7 +21,7 @@
     },
     {
       "text": "The UK contribution to the EU budget",
-      "href": {}
+      "href": null
     }
   ],
   "date_published": "2019-09-29T23:00:00.000Z",
@@ -1060,7 +1060,7 @@
       "box_h2": "Contact",
       "box_h3": null,
       "box_text": "[digitalcontent@ons.gov.uk](mailto:digitalcontent@ons.gov.uk)\n",
-      "box_items": []
+      "box_items": null
     }
   ],
   "scraped_at": "2026-09-21 16:48:11.648747"
