@@ -1,7 +1,7 @@
 {
   "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/articles/babynamessince1904howhasyoursperformed/2016-09-02",
   "title": "Baby names since 1904: how has yours performed?",
-  "meta_description": null,
+  "meta_description": {},
   "breadcrumb": [
     {
       "text": "Home",
@@ -21,12 +21,12 @@
     },
     {
       "text": "Baby names since 1904: how has yours performed?",
-      "href": null
+      "href": {}
     }
   ],
   "date_published": "2016-09-02T08:30:53.000Z",
   "date_modified": "2016-09-02T08:30:53.000Z",
-  "lede": null,
+  "lede": {},
   "body": [
     {
       "type": "p",
@@ -67,7 +67,7 @@
       "h4": null,
       "h5": null,
       "title": "Baby names interactive",
-      "url": "https://www.ons.gov.uk/visualisations/dvc363/babyindex.html"
+      "url": "https://onsdigital.github.io/visualisations/dvc363/babyindex.html"
     },
     {
       "type": "heading",
@@ -142,7 +142,7 @@
       "h4": "Rank of comeback names for boys for every ten years between 1904 and 1994 and for every year from 1996 onwards",
       "h5": null,
       "title": "Interactive chart",
-      "url": "https://www.ons.gov.uk/visualisations/dvc363/babyindex_noheader.html#0,William,George,Thomas,Henry,Harry,James"
+      "url": "https://onsdigital.github.io/visualisations/dvc363/babyindex_noheader.html#0,William,George,Thomas,Henry,Harry,James"
     },
     {
       "type": "p",
@@ -184,7 +184,7 @@
       "h4": "Rank of comeback names for boys that have returned in a shortened or nickname form for every ten years between 1904 and 1994 and for every year from 1996 onwards",
       "h5": null,
       "title": "Interactive chart",
-      "url": "https://www.ons.gov.uk/visualisations/dvc363/babyindex_noheader.html#0,Charles,Charlie,Frederick,Freddie,Alfred,Alfie"
+      "url": "https://onsdigital.github.io/visualisations/dvc363/babyindex_noheader.html#0,Charles,Charlie,Frederick,Freddie,Alfred,Alfie"
     },
     {
       "type": "p",
@@ -242,7 +242,7 @@
       "h4": "Rank of comeback names for girls for every ten years between 1904 and 1994 and for every year from 1996 onwards",
       "h5": null,
       "title": "Interactive chart",
-      "url": "https://www.ons.gov.uk/visualisations/dvc363/babyindex_noheader.html#1,Alice,Florence,Elsie,Ivy,Violet,Lily"
+      "url": "https://onsdigital.github.io/visualisations/dvc363/babyindex_noheader.html#1,Alice,Florence,Elsie,Ivy,Violet,Lily"
     },
     {
       "type": "heading",
@@ -293,7 +293,7 @@
       "h4": "Rank of the names Gladys, Doris, Hilda and Ethel for every ten years between 1904 and 1994 and for every year from 1996 onwards",
       "h5": null,
       "title": "Interactive chart",
-      "url": "https://www.ons.gov.uk/visualisations/dvc363/babyindex_noheader.html#1,Gladys,Doris,Hilda,Ethel"
+      "url": "https://onsdigital.github.io/visualisations/dvc363/babyindex_noheader.html#1,Gladys,Doris,Hilda,Ethel"
     },
     {
       "type": "p",
@@ -377,7 +377,9 @@
       "box_h2": "You might also be interested in",
       "box_h3": null,
       "box_text": "",
-      "box_items": ["[Baby names in England and Wales: 2015](http://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/babynamesenglandandwales/2015)"]
+      "box_items": [
+        "[Baby names in England and Wales: 2015](http://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/babynamesenglandandwales/2015)"
+      ]
     },
     {
       "type": "box",
@@ -391,5 +393,5 @@
       "box_items": []
     }
   ],
-  "scraped_at": "2026-09-17 15:51:10.668877"
+  "scraped_at": "2026-09-21 16:33:43.646699"
 }
