@@ -1,38 +1,33 @@
 <script>
   import { base } from "$app/paths";
-  import {
-    Header,
-    Section,
-    Grid,
-    Card,
-    Footer,
-  } from "@onsvisual/svelte-components";
+  import { Header, Section, Footer } from "@onsvisual/svelte-components";
+  
+  const data = $props()
+  const jsons = data.data.jsons
+
+  $inspect(jsons)
+
 </script>
 
-<Header title="Svelte Kit starter templates" />
+<Header title="Archived digicontent articles" />
 
-<Section marginTop="{true}">
+<Section marginTop={true}>
   <p>
-    Select a template below to preview. These templates are created using the <a href="https://github.com/ONSvisual/svelte-components/">ONS svelte-components library</a>. To use them in Svelte Kit projects, follow the <a href="https://github.com/ONSvisual/sveltekit-starter/">guidance in this readme</a>.
+    Select a template below to preview. These templates are created using the <a
+      href="https://github.com/ONSvisual/svelte-components/">ONS svelte-components library</a
+    >. To use them in Svelte Kit projects, follow the
+    <a href="https://github.com/ONSvisual/sveltekit-starter/">guidance in this readme</a>.
   </p>
 </Section>
 
-<Grid>
-  <Card title="Regular article" href="{base}/article" mode="featured" baseline>
-    An article page in a style that matches the ONS website.
-  </Card>
-  <Card title="Feature article" href="{base}/feature" mode="featured" baseline>
-    A full page template for scrollytelling or media-rich articles.
-  </Card>
-  <Card title="Embedded interactive" href="{base}/embed" mode="featured" baseline>
-    A template for interactive content to be embedded within an iframe.
-  </Card>
-</Grid>
-
 <Section>
+{#each jsons as json}
   <p>
-    For more documentation and usage examples for the ONS svelte-components library, you can visit the <a href="https://onsvisual.github.io/svelte-components/">Storybook pages</a>.
+    <a href={json.slug}>{json.page_title}</a>
+    {new Date(json.date_published).toLocaleDateString()}
   </p>
+
+{/each}
 </Section>
 
 <Footer compact />
