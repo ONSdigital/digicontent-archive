@@ -1,0 +1,62 @@
+{
+  "essential": {
+    "graphic_data_url": "regions6s.csv",
+    "dateFormat": "%d/%m/%Y",
+    "displayTicksFormat":"'%y",
+    "colour_palette": [{
+        "key": "Change in hours worked",
+        "colour": "#206095"
+      }
+    ],
+    "categorySort": ["All industries"],
+    "sourceText": ["Office for National Statistics – Labour Force Survey"],
+    "xAxisLabel": "Year",
+    "yAxisLabel": "Change in hours worked",
+    "yAxisScale": "auto_min_max_total"
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 40,
+        "right": 15,
+        "bottom": 40,
+        "left": 25
+      },
+      "md": {
+        "top": 45,
+        "right": 15,
+        "bottom": 40,
+        "left": 25
+      },
+      "lg": {
+        "top": 45,
+        "right": 15,
+        "bottom": 40,
+        "left": 25
+      }
+    },
+    "chart_every":{
+      "sm": 1,
+      "md": 2,
+      "lg": 3
+    },
+    "aspectRatio": {
+      "sm": [16, 8],
+      "md": [16, 8],
+      "lg": [16, 10]
+    },
+    "legendHeight":{
+      "sm": 45,
+      "md": 30,
+      "lg": 30
+    },
+
+    "mobileBreakpoint": 480,
+    "middleBreakpoint": 670,
+    "x_ticks_every": {
+      "sm": 9,
+      "md": 11,
+      "lg": 13
+    }
+  }
+}
