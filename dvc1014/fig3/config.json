@@ -1,0 +1,73 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "sort_data": false,
+    "colour_palette": [{
+        "key": "Deaths not involving COVID-19",
+        "colour": "#206095"
+      },
+      {
+        "key": "Deaths involving COVID-19",
+        "colour": "#118C7B"
+      },
+      {
+        "key": "Five-year average (2015-2019)",
+        "colour": "#A8BD3A"
+      }
+    ],
+    "legendLabels": ["All other causes", "Deaths associated with COVID19"],
+    "legendStyle":"rect",
+    "sourceText": "Office for National Statistics – Deaths in private homes, England and Wales",
+    "xAxisLabel":"Age",
+    "yAxisLabel": "Weekly deaths above or below 5 year average",
+    "yAxisScale": "auto_zero_max",
+    "mediumBreakpoint": 680,
+    "mobileBreakpoint": 414
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 20,
+        "right": 20,
+        "bottom": 40,
+        "left": 40
+      },
+      "md": {
+        "top": 20,
+        "right": 20,
+        "bottom": 40,
+        "left": 40
+      },
+      "lg": {
+        "top": 20,
+        "right": 20,
+        "bottom": 40,
+        "left": 40
+      }
+    },
+
+    "aspectRatio": {
+      "sm": [16, 8],
+      "md": [16, 8],
+      "lg": [16, 8]
+    },
+    "chart_every":{
+      "sm": 1,
+      "md": 1,
+      "lg": 2
+    },
+
+    "x_ticks_every": {
+      "sm": 2,
+      "md": 2,
+      "lg": 1
+    },
+    "y_num_ticks": {
+      "sm": 4,
+      "md": 4,
+      "lg": 4
+    },
+    "centre_line": false,
+    "centre_line_value": 0
+  }
+}
