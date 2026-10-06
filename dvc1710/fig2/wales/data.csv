@@ -1,0 +1,11 @@
+﻿category,state,value,LCI,UCI
+Property type (Reference: Flats and maisonettes),Detached house,0.140407125,0.13660198,0.144318266
+Property type (Reference: Flats and maisonettes),Semi-detached house,0.209075359,0.204301318,0.213960958
+Property type (Reference: Flats and maisonettes),Terraced house,0.35273318,0.344944322,0.360697911
+Tenure (Reference: Owner-occupied),Private rent,1.20760725,1.1813579,1.234439851
+Tenure (Reference: Owner-occupied),Social rent,3.010696485,2.954649044,3.067807103
+Central heating fuel (Reference: Mains Gas),Oil,0.377963919,0.364386023,0.392047759
+Central heating fuel (Reference: Mains Gas),Electricity,0.207251186,0.200913489,0.213788802
+Central heating fuel (Reference: Mains Gas),Community heating scheme,1.366841958,1.272995141,1.467607282
+Central heating fuel (Reference: Mains Gas),Heat pump,1.448584916,1.286608829,1.630952789
+Central heating fuel (Reference: Mains Gas),Other,0.056789647,0.051509854,0.062610623
