@@ -1,0 +1,127 @@
+{
+    "essential" : {
+            "graphic_data_url": "datac.csv",
+
+            "colour_palette": ["#0075A3", "#0075A3" ],
+
+            "dateFormat":"%Y",
+
+            "legendLabels" : [],
+
+            "sourceText":["Office for National Statistics"],
+            "sourceURL":["https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/adhocs/009665drugpoisoningsbysingleyearofageandcountryenglandandwalesdeathsregisteredbetween1993and2017"],
+
+			"leftLabels":["1993","1994","1995","1996","1997",	"1998",	"1999",	"2000",	"2001",	"2002",	"2003",	"2004",	"2005",	"2006",	"2007",	"2008",	"2009",	"2010",	"2011",	"2012",	"2013",	"2014",	"2015",	"2016",	"2017"],
+
+			"nudgeBy": 22,
+
+			"lineColours": [
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57",
+			"#003C57"
+				],
+				
+			"medianLines":[38,37,37,35,36,35,36,36,36,36,37,38,38,39,38,39,40,40,42,42,42,43,42,43,44],
+			"startyear":1993,
+			"dotcolour":"none",
+
+            "annotationChart": [
+              "In the 90s, drugs killed  fewer people overall  and the average age of  death was younger  than it is today",
+              "Over time, the ages  at which most people  die have increased",
+			  "In recent years, the  number of deaths  has gone up too",
+			  "Age",
+			  "Hover over the chart  to see individual years"
+            ],
+            "annotationBullet": [
+			
+
+            ],
+            "annotationXY":[
+				[-50,"88"],
+        		[-560,"88"],
+				[-990,"88"],
+				[-1220,"45"],
+				[145,"26"]
+            ],
+            "annotationAlign":[
+				"end",
+				"end",
+				"end",
+				"middle",
+				"middle"
+            ],
+
+            "circles" : false,
+            "annotationCXCY":[
+
+            ],
+
+            "yAxisLabel":"",
+            "yAxisScale": 150,
+            "yAxisBreak": false,
+            "yAxisBreak_sm_md_lg": [75,75,75]
+    },
+    "optional" : {
+            "margin_sm": [0, 40, 80, 10],
+            "margin_md": [0, 40, 80, 10],
+            "margin_lg": [0, 40, 80, 10],
+
+            "aspectRatio_sm" : [9,4],
+            "aspectRatio_md" : [6,2],
+            "aspectRatio_lg" : [10,2],
+
+            "mobileBreakpoint" : 400,
+            "vertical_line" : false,
+            "annotateLineX1_Y1_X2_Y2":[  ],
+            "xAxisTextFormat_sm_md_lg" : ["%Y", "%Y", "%Y"],
+            "x_num_ticks_sm_md_lg" : [10,10,10],
+            "y_num_ticks_sm_md_lg" : [3,3,3],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}
