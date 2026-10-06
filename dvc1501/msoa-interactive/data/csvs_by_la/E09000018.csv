@@ -1,0 +1,85 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02000526,Hounslow 001,Chiswick North East,0,2,2,0,0,1,0,0,0,2,6,0,1,0,covid
+E02000528,Hounslow 003,Brentford East,0,9,1,0,0,1,0,0,2,2,8,4,0,1,covid
+E02000529,Hounslow 004,Heston North,0,3,0,0,0,0,1,0,1,2,9,3,0,0,covid
+E02000530,Hounslow 005,North Hyde & North Cranford,2,5,2,0,0,0,0,1,4,1,5,5,0,0,covid
+E02000531,Hounslow 006,Brentford Central,3,5,0,0,0,0,0,0,0,1,1,4,0,0,covid
+E02000532,Hounslow 007,Chiswick South East,0,4,0,0,0,0,0,0,1,1,1,2,1,0,covid
+E02000533,Hounslow 008,Chiswick South West,1,2,1,1,0,0,0,0,0,0,0,0,0,0,covid
+E02000534,Hounslow 009,Brentford West & Osterley Park,1,3,0,0,0,0,0,0,0,2,4,1,0,0,covid
+E02000535,Hounslow 010,Heston West,4,5,0,0,1,0,0,1,2,2,10,4,0,0,covid
+E02000536,Hounslow 011,Heston Central & Lampton West,0,7,0,0,0,0,0,0,1,0,8,4,2,2,covid
+E02000537,Hounslow 012,Osterley & Lampton East,0,4,2,0,0,0,0,0,0,3,7,4,0,0,covid
+E02000538,Hounslow 013,Cranford,0,6,0,0,0,0,0,0,0,2,9,5,2,0,covid
+E02000539,Hounslow 014,Syon Green,5,6,0,1,0,0,0,0,0,0,6,3,0,0,covid
+E02000540,Hounslow 015,Spring Grove,3,11,2,0,0,0,0,0,1,1,6,1,1,0,covid
+E02000541,Hounslow 016,Hounslow Meadows,0,9,5,1,0,0,0,0,1,5,14,5,3,0,covid
+E02000542,Hounslow 017,Hounslow West,1,12,1,0,0,0,0,0,0,1,6,4,0,3,covid
+E02000543,Hounslow 018,Hounslow High Street,0,7,0,0,0,0,0,0,2,0,2,2,2,0,covid
+E02000544,Hounslow 019,Hounslow East,0,2,0,0,0,0,0,1,2,3,8,1,0,0,covid
+E02000545,Hounslow 020,Isleworth & Ivybridge,1,1,0,0,0,0,0,1,0,2,4,2,0,0,covid
+E02000546,Hounslow 021,Hounslow Heath,0,4,3,0,0,0,0,1,0,0,7,4,1,0,covid
+E02000547,Hounslow 022,North Feltham & Hatton,0,10,0,0,0,0,0,0,3,1,15,10,3,0,covid
+E02000548,Hounslow 023,Bedfont,0,6,0,0,0,0,0,0,1,0,7,6,0,0,covid
+E02000549,Hounslow 024,Feltham East,0,10,3,0,2,0,1,0,2,3,11,4,1,0,covid
+E02000550,Hounslow 025,Feltham Central,0,0,1,1,0,0,0,0,0,2,5,2,0,0,covid
+E02000551,Hounslow 026,Hanworth North,0,3,1,0,0,0,0,0,1,2,4,1,1,0,covid
+E02000552,Hounslow 027,Lower Feltham,0,1,3,0,0,0,1,0,0,0,3,3,0,0,covid
+E02000553,Hounslow 028,Hanworth South,1,5,1,0,0,0,0,0,1,0,4,1,1,0,covid
+E02006792,Hounslow 029,Chiswick Park,1,9,0,0,0,0,0,0,1,0,5,1,0,0,covid
+E02000526,Hounslow 001,Chiswick North East,9,2,4,8,4,4,5,6,5,5,1,2,6,6,noncovid
+E02000528,Hounslow 003,Brentford East,6,7,1,7,11,8,9,5,3,1,11,8,11,7,noncovid
+E02000529,Hounslow 004,Heston North,5,5,6,6,3,5,5,1,3,2,5,5,5,3,noncovid
+E02000530,Hounslow 005,North Hyde & North Cranford,3,4,3,2,3,4,4,2,3,3,3,3,0,1,noncovid
+E02000531,Hounslow 006,Brentford Central,2,10,5,4,6,8,11,2,5,8,7,3,5,5,noncovid
+E02000532,Hounslow 007,Chiswick South East,5,3,2,3,2,8,2,2,4,6,5,2,2,4,noncovid
+E02000533,Hounslow 008,Chiswick South West,7,9,2,4,2,1,3,4,3,1,6,5,3,5,noncovid
+E02000534,Hounslow 009,Brentford West & Osterley Park,5,2,4,1,2,5,2,5,3,5,4,4,3,1,noncovid
+E02000535,Hounslow 010,Heston West,6,4,3,4,4,6,4,6,7,6,5,2,7,6,noncovid
+E02000536,Hounslow 011,Heston Central & Lampton West,3,14,6,1,2,5,6,8,4,4,4,6,6,7,noncovid
+E02000537,Hounslow 012,Osterley & Lampton East,5,3,7,4,2,3,3,5,5,4,2,3,4,6,noncovid
+E02000538,Hounslow 013,Cranford,3,4,1,2,6,3,4,3,6,4,7,4,2,7,noncovid
+E02000539,Hounslow 014,Syon Green,6,13,3,9,4,2,5,2,5,5,5,10,7,8,noncovid
+E02000540,Hounslow 015,Spring Grove,8,7,1,8,4,4,9,7,8,6,3,6,6,1,noncovid
+E02000541,Hounslow 016,Hounslow Meadows,7,13,1,7,3,8,1,6,9,5,8,7,10,5,noncovid
+E02000542,Hounslow 017,Hounslow West,7,13,2,9,7,5,5,5,3,5,4,6,1,9,noncovid
+E02000543,Hounslow 018,Hounslow High Street,8,5,3,2,2,1,4,6,3,1,2,6,2,3,noncovid
+E02000544,Hounslow 019,Hounslow East,6,3,6,7,3,5,2,1,4,1,5,4,5,7,noncovid
+E02000545,Hounslow 020,Isleworth & Ivybridge,6,15,1,6,6,4,5,4,2,1,6,3,3,2,noncovid
+E02000546,Hounslow 021,Hounslow Heath,1,5,4,3,4,3,6,5,2,3,3,4,4,9,noncovid
+E02000547,Hounslow 022,North Feltham & Hatton,5,3,5,4,5,4,8,3,9,4,4,3,4,3,noncovid
+E02000548,Hounslow 023,Bedfont,6,6,5,2,4,6,3,6,3,7,4,6,5,4,noncovid
+E02000549,Hounslow 024,Feltham East,10,16,9,2,8,5,8,8,4,3,5,4,8,10,noncovid
+E02000550,Hounslow 025,Feltham Central,5,9,5,3,7,2,5,5,4,5,3,4,5,5,noncovid
+E02000551,Hounslow 026,Hanworth North,6,7,7,2,7,7,5,2,1,2,2,2,3,3,noncovid
+E02000552,Hounslow 027,Lower Feltham,2,4,1,4,6,2,1,6,2,6,4,4,1,2,noncovid
+E02000553,Hounslow 028,Hanworth South,1,1,2,1,0,4,4,5,1,5,5,1,1,2,noncovid
+E02006792,Hounslow 029,Chiswick Park,3,6,5,4,1,5,3,1,7,5,7,2,5,2,noncovid
+E02000526,Hounslow 001,Chiswick North East,5,3,2,4,3,4,4,3,3,4,6,4,5,3,average
+E02000528,Hounslow 003,Brentford East,8,6,5,7,7,4,6,6,7,5,6,7,8,6,average
+E02000529,Hounslow 004,Heston North,5,4,3,3,2,4,2,4,4,4,4,3,5,4,average
+E02000530,Hounslow 005,North Hyde & North Cranford,1,4,2,3,3,3,2,3,2,3,3,3,1,4,average
+E02000531,Hounslow 006,Brentford Central,5,5,5,6,7,5,7,4,5,8,7,7,5,5,average
+E02000532,Hounslow 007,Chiswick South East,4,2,3,4,3,5,3,4,4,5,4,5,4,2,average
+E02000533,Hounslow 008,Chiswick South West,3,5,4,3,4,3,4,3,4,4,3,4,3,5,average
+E02000534,Hounslow 009,Brentford West & Osterley Park,3,2,4,4,3,4,3,3,1,3,3,3,3,2,average
+E02000535,Hounslow 010,Heston West,4,6,3,4,3,5,5,5,3,4,5,4,4,6,average
+E02000536,Hounslow 011,Heston Central & Lampton West,5,4,5,6,6,4,7,6,4,6,9,8,5,4,average
+E02000537,Hounslow 012,Osterley & Lampton East,3,4,4,3,3,3,3,4,3,4,6,4,3,4,average
+E02000538,Hounslow 013,Cranford,4,3,4,2,4,4,3,5,4,6,6,4,4,3,average
+E02000539,Hounslow 014,Syon Green,7,6,6,8,5,7,4,4,6,8,5,7,7,6,average
+E02000540,Hounslow 015,Spring Grove,4,7,3,4,4,4,4,5,6,3,4,5,4,7,average
+E02000541,Hounslow 016,Hounslow Meadows,4,2,5,4,6,4,3,6,6,5,8,7,4,2,average
+E02000542,Hounslow 017,Hounslow West,7,6,7,5,7,7,6,6,5,7,8,7,7,6,average
+E02000543,Hounslow 018,Hounslow High Street,5,3,5,3,4,4,3,3,4,5,3,2,5,3,average
+E02000544,Hounslow 019,Hounslow East,4,5,3,4,2,5,4,3,4,4,4,4,4,5,average
+E02000545,Hounslow 020,Isleworth & Ivybridge,5,8,5,4,4,4,5,5,6,6,7,5,5,8,average
+E02000546,Hounslow 021,Hounslow Heath,3,4,3,4,5,3,3,4,4,5,3,3,3,4,average
+E02000547,Hounslow 022,North Feltham & Hatton,4,5,4,5,5,5,3,6,4,5,4,6,4,5,average
+E02000548,Hounslow 023,Bedfont,8,5,4,5,6,4,4,4,5,4,7,5,8,5,average
+E02000549,Hounslow 024,Feltham East,9,10,10,8,6,8,7,11,10,10,12,8,9,10,average
+E02000550,Hounslow 025,Feltham Central,5,5,4,3,3,4,4,5,5,3,6,7,5,5,average
+E02000551,Hounslow 026,Hanworth North,4,3,4,4,3,6,2,3,3,5,4,4,4,3,average
+E02000552,Hounslow 027,Lower Feltham,5,5,3,2,2,3,4,4,2,2,5,4,5,5,average
+E02000553,Hounslow 028,Hanworth South,4,4,4,5,2,5,4,5,3,3,4,2,4,4,average
+E02006792,Hounslow 029,Chiswick Park,4,3,5,3,3,3,5,5,4,4,4,4,4,3,average

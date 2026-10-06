@@ -1,0 +1,115 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02002043,Sandwell 001,Wood Green & Old Park,0,6,2,1,0,0,0,1,3,7,7,5,3,0,covid
+E02002044,Sandwell 002,Yew Tree & Tamebridge,0,8,1,0,0,0,0,0,3,0,2,1,1,1,covid
+E02002045,Sandwell 003,Woods & Mesty Croft,0,7,1,1,0,0,0,1,3,2,7,4,1,0,covid
+E02002046,Sandwell 004,Friar Park,0,4,0,0,0,0,0,0,0,0,1,3,2,0,covid
+E02002047,Sandwell 005,Wednesbury,2,18,7,2,0,1,0,0,2,7,3,2,2,1,covid
+E02002048,Sandwell 006,Great Barr,0,2,3,0,0,0,0,2,1,0,5,4,0,0,covid
+E02002049,Sandwell 007,Princes End & Willingsworth,1,2,0,1,0,0,0,0,0,2,2,2,0,0,covid
+E02002051,Sandwell 009,Ocker Hill,0,2,2,2,0,0,0,2,2,0,5,0,1,0,covid
+E02002052,Sandwell 010,Stone Cross & Hateley Heath,0,8,1,0,0,0,0,0,4,3,10,5,1,0,covid
+E02002053,Sandwell 011,Hamstead East,0,4,0,0,0,0,0,1,1,1,0,2,1,0,covid
+E02002054,Sandwell 012,Hamstead West,0,5,0,0,0,0,0,0,0,2,5,3,1,0,covid
+E02002055,Sandwell 013,Wednesbury South,2,3,2,2,1,0,0,0,5,4,9,3,0,0,covid
+E02002056,Sandwell 014,Tibbington,0,4,3,1,0,0,1,0,1,2,13,7,1,0,covid
+E02002057,Sandwell 015,Tipton,0,8,1,0,0,0,0,2,2,7,4,6,1,0,covid
+E02002058,Sandwell 016,Great Bridge & Dudley Port,0,7,7,1,0,0,2,2,5,6,1,3,0,0,covid
+E02002059,Sandwell 017,West Bromwich North,1,8,5,2,0,0,0,1,0,2,4,10,0,0,covid
+E02002060,Sandwell 018,Greets Green West,1,2,1,1,0,0,0,1,5,1,3,4,1,0,covid
+E02002061,Sandwell 019,Greets Green East,0,6,1,0,0,0,0,1,6,4,3,4,4,0,covid
+E02002062,Sandwell 020,West Bromwich East & Kenrick Park,1,13,5,1,0,0,2,0,3,2,8,5,3,0,covid
+E02002063,Sandwell 021,North Tividale,0,3,2,1,0,0,0,0,1,5,7,5,0,0,covid
+E02002064,Sandwell 022,Tividale,1,3,1,0,0,0,0,0,3,4,7,5,1,0,covid
+E02002065,Sandwell 023,Smethwick North & West,0,10,3,2,1,0,0,0,0,4,7,4,3,0,covid
+E02002066,Sandwell 024,Oldbury & Rood End,0,7,1,1,1,0,0,0,1,2,2,3,0,0,covid
+E02002067,Sandwell 025,Rowley West,0,4,1,0,0,0,0,0,3,4,2,4,0,0,covid
+E02002068,Sandwell 026,Smethwick East,2,7,4,0,0,1,0,1,2,3,5,5,2,0,covid
+E02002069,Sandwell 027,Whiteheath,0,5,1,1,0,1,0,0,4,3,7,2,1,0,covid
+E02002070,Sandwell 028,Smethwick South,0,12,4,1,1,1,0,1,1,4,11,9,3,0,covid
+E02002071,Sandwell 029,Rowley East,2,3,0,0,0,0,0,0,3,3,2,1,1,0,covid
+E02002072,Sandwell 030,Langley Green,1,6,3,0,0,0,0,0,3,2,4,2,2,0,covid
+E02002073,Sandwell 031,Warley East,0,7,1,0,0,0,0,1,1,1,6,4,2,1,covid
+E02002074,Sandwell 032,Warley West,0,4,0,0,0,0,0,1,5,2,5,11,0,0,covid
+E02002075,Sandwell 033,Blackheath,1,7,1,2,0,0,0,2,2,2,2,1,0,0,covid
+E02002076,Sandwell 034,Bearwood & Warley Woods,0,3,2,0,0,0,1,0,1,0,5,8,0,0,covid
+E02002077,Sandwell 035,Old Hill,1,6,0,1,0,0,0,1,0,1,11,11,0,0,covid
+E02002078,Sandwell 036,Warley South,1,3,1,0,0,0,0,0,3,0,2,5,0,0,covid
+E02002079,Sandwell 037,Brandhall,0,6,5,0,0,0,1,1,5,0,2,7,0,0,covid
+E02002080,Sandwell 038,Cradley Heath,0,3,1,0,0,0,0,0,0,2,3,7,1,0,covid
+E02006810,Sandwell 039,Charlemont,0,3,3,1,0,0,0,1,4,2,2,9,1,1,covid
+E02002043,Sandwell 001,Wood Green & Old Park,4,17,10,11,11,4,7,8,6,4,5,11,4,6,noncovid
+E02002044,Sandwell 002,Yew Tree & Tamebridge,4,4,5,5,3,4,1,2,6,6,2,1,2,4,noncovid
+E02002045,Sandwell 003,Woods & Mesty Croft,9,7,9,5,6,2,12,3,6,6,7,2,6,7,noncovid
+E02002046,Sandwell 004,Friar Park,4,3,1,3,3,2,2,2,7,4,6,3,5,3,noncovid
+E02002047,Sandwell 005,Wednesbury,7,11,12,6,4,8,10,9,8,9,13,8,12,12,noncovid
+E02002048,Sandwell 006,Great Barr,7,6,4,4,9,2,1,9,8,3,4,4,4,4,noncovid
+E02002049,Sandwell 007,Princes End & Willingsworth,5,5,4,2,2,4,4,3,6,10,4,3,4,2,noncovid
+E02002051,Sandwell 009,Ocker Hill,2,2,5,5,2,4,8,4,3,2,7,4,4,3,noncovid
+E02002052,Sandwell 010,Stone Cross & Hateley Heath,13,13,7,5,8,6,9,9,6,8,7,9,3,10,noncovid
+E02002053,Sandwell 011,Hamstead East,3,8,2,9,7,1,4,6,4,6,5,1,3,5,noncovid
+E02002054,Sandwell 012,Hamstead West,3,7,4,4,6,3,5,7,3,2,6,2,5,2,noncovid
+E02002055,Sandwell 013,Wednesbury South,5,18,5,9,10,7,9,5,7,8,7,6,9,5,noncovid
+E02002056,Sandwell 014,Tibbington,7,8,2,8,7,4,6,4,8,6,15,6,11,7,noncovid
+E02002057,Sandwell 015,Tipton,9,18,12,8,10,5,13,10,8,12,8,14,11,11,noncovid
+E02002058,Sandwell 016,Great Bridge & Dudley Port,13,11,8,8,6,9,16,8,8,9,10,6,8,6,noncovid
+E02002059,Sandwell 017,West Bromwich North,9,11,11,10,12,11,4,11,12,9,10,8,6,6,noncovid
+E02002060,Sandwell 018,Greets Green West,3,4,6,5,7,3,3,5,5,4,3,7,3,5,noncovid
+E02002061,Sandwell 019,Greets Green East,9,7,5,3,6,5,2,4,6,5,8,1,6,5,noncovid
+E02002062,Sandwell 020,West Bromwich East & Kenrick Park,6,12,9,11,6,3,8,7,5,10,5,7,10,3,noncovid
+E02002063,Sandwell 021,North Tividale,6,10,4,5,5,1,6,7,12,9,4,3,2,2,noncovid
+E02002064,Sandwell 022,Tividale,6,14,12,5,6,8,8,4,9,11,13,6,7,10,noncovid
+E02002065,Sandwell 023,Smethwick North & West,10,12,12,6,6,6,4,6,5,4,9,7,6,5,noncovid
+E02002066,Sandwell 024,Oldbury & Rood End,9,6,5,5,3,2,2,1,4,8,3,4,5,5,noncovid
+E02002067,Sandwell 025,Rowley West,3,1,2,4,3,2,7,9,4,6,7,2,8,3,noncovid
+E02002068,Sandwell 026,Smethwick East,8,9,9,7,8,5,5,5,3,7,11,3,7,6,noncovid
+E02002069,Sandwell 027,Whiteheath,5,11,1,7,6,6,5,8,5,2,3,8,13,7,noncovid
+E02002070,Sandwell 028,Smethwick South,10,20,14,4,10,7,7,3,12,10,6,8,11,5,noncovid
+E02002071,Sandwell 029,Rowley East,5,8,6,5,2,6,5,6,5,8,5,2,4,2,noncovid
+E02002072,Sandwell 030,Langley Green,10,5,5,4,8,7,3,6,4,10,8,5,8,5,noncovid
+E02002073,Sandwell 031,Warley East,9,11,6,6,8,7,10,5,8,6,9,5,2,8,noncovid
+E02002074,Sandwell 032,Warley West,11,12,10,12,6,7,5,9,5,9,14,7,9,5,noncovid
+E02002075,Sandwell 033,Blackheath,4,9,8,13,1,3,3,3,8,4,9,8,8,11,noncovid
+E02002076,Sandwell 034,Bearwood & Warley Woods,8,4,8,4,6,9,5,1,7,2,8,1,5,13,noncovid
+E02002077,Sandwell 035,Old Hill,16,6,5,5,4,3,6,9,8,11,11,7,9,7,noncovid
+E02002078,Sandwell 036,Warley South,6,9,6,6,1,4,7,4,2,3,1,3,9,3,noncovid
+E02002079,Sandwell 037,Brandhall,8,9,4,4,9,7,9,8,7,7,10,8,10,5,noncovid
+E02002080,Sandwell 038,Cradley Heath,8,12,2,5,3,8,8,12,7,5,7,10,5,4,noncovid
+E02006810,Sandwell 039,Charlemont,9,7,1,7,4,9,8,8,13,7,14,6,8,6,noncovid
+E02002043,Sandwell 001,Wood Green & Old Park,7,7,8,9,4,4,7,7,8,9,12,9,7,7,average
+E02002044,Sandwell 002,Yew Tree & Tamebridge,4,4,6,4,3,4,1,5,5,4,8,6,4,4,average
+E02002045,Sandwell 003,Woods & Mesty Croft,7,5,6,6,5,7,5,6,5,7,7,5,7,5,average
+E02002046,Sandwell 004,Friar Park,3,4,2,4,3,4,4,4,3,4,5,3,3,4,average
+E02002047,Sandwell 005,Wednesbury,10,9,9,10,9,8,9,8,10,11,15,11,10,9,average
+E02002048,Sandwell 006,Great Barr,5,5,5,5,4,5,3,6,4,6,4,7,5,5,average
+E02002049,Sandwell 007,Princes End & Willingsworth,4,4,3,4,2,5,3,5,4,5,6,6,4,4,average
+E02002051,Sandwell 009,Ocker Hill,3,4,4,4,4,3,3,5,5,3,5,4,3,4,average
+E02002052,Sandwell 010,Stone Cross & Hateley Heath,12,8,10,10,9,8,9,9,9,9,14,12,12,8,average
+E02002053,Sandwell 011,Hamstead East,6,3,5,5,4,4,5,4,5,6,5,5,6,3,average
+E02002054,Sandwell 012,Hamstead West,5,5,4,5,5,5,5,2,5,6,5,4,5,5,average
+E02002055,Sandwell 013,Wednesbury South,6,9,6,6,6,8,6,8,7,7,10,8,6,9,average
+E02002056,Sandwell 014,Tibbington,8,8,6,7,7,8,7,9,7,8,11,9,8,8,average
+E02002057,Sandwell 015,Tipton,10,12,9,10,7,10,6,9,10,11,12,11,10,12,average
+E02002058,Sandwell 016,Great Bridge & Dudley Port,10,9,9,10,7,9,8,11,11,9,12,7,10,9,average
+E02002059,Sandwell 017,West Bromwich North,10,7,11,10,9,7,8,10,9,9,13,10,10,7,average
+E02002060,Sandwell 018,Greets Green West,6,6,3,4,3,3,4,5,4,4,5,6,6,6,average
+E02002061,Sandwell 019,Greets Green East,7,5,4,6,4,5,5,6,5,4,5,7,7,5,average
+E02002062,Sandwell 020,West Bromwich East & Kenrick Park,6,8,7,8,5,6,7,8,7,8,9,6,6,8,average
+E02002063,Sandwell 021,North Tividale,5,5,4,4,5,5,5,5,7,6,8,5,5,5,average
+E02002064,Sandwell 022,Tividale,11,10,9,12,8,7,9,9,9,9,14,11,11,10,average
+E02002065,Sandwell 023,Smethwick North & West,10,6,6,7,5,8,6,5,8,5,10,8,10,6,average
+E02002066,Sandwell 024,Oldbury & Rood End,5,5,6,5,2,2,6,4,3,4,5,4,5,5,average
+E02002067,Sandwell 025,Rowley West,6,5,5,4,5,4,6,4,6,7,9,3,6,5,average
+E02002068,Sandwell 026,Smethwick East,5,4,5,5,5,4,4,5,6,5,6,8,5,4,average
+E02002069,Sandwell 027,Whiteheath,5,6,7,5,5,5,4,7,5,4,8,5,5,6,average
+E02002070,Sandwell 028,Smethwick South,13,9,8,10,8,10,10,8,13,9,11,10,13,9,average
+E02002071,Sandwell 029,Rowley East,5,3,3,5,5,3,4,4,4,4,4,4,5,3,average
+E02002072,Sandwell 030,Langley Green,6,5,6,7,7,5,5,4,6,5,7,7,6,5,average
+E02002073,Sandwell 031,Warley East,5,8,7,9,6,7,8,7,7,6,8,8,5,8,average
+E02002074,Sandwell 032,Warley West,7,6,6,5,6,6,7,7,8,9,10,7,7,6,average
+E02002075,Sandwell 033,Blackheath,9,10,9,6,7,8,6,6,7,8,9,9,9,10,average
+E02002076,Sandwell 034,Bearwood & Warley Woods,6,7,4,6,4,6,5,4,5,5,5,6,6,7,average
+E02002077,Sandwell 035,Old Hill,11,9,9,9,7,5,7,7,8,8,12,9,11,9,average
+E02002078,Sandwell 036,Warley South,4,7,5,4,5,4,5,5,4,4,6,5,4,7,average
+E02002079,Sandwell 037,Brandhall,8,6,7,8,7,5,4,6,6,8,9,9,8,6,average
+E02002080,Sandwell 038,Cradley Heath,9,7,6,6,6,6,6,6,7,6,11,9,9,7,average
+E02006810,Sandwell 039,Charlemont,9,9,8,7,7,6,7,8,8,7,8,8,9,9,average

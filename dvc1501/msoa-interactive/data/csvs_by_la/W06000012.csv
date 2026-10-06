@@ -1,0 +1,58 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+W02000200,Neath Port Talbot 002,Dulais Valley,0,4,1,0,0,0,0,1,0,1,5,1,1,0,covid
+W02000201,Neath Port Talbot 003,Glynneath,0,2,2,0,0,0,0,0,1,0,4,3,0,0,covid
+W02000202,Neath Port Talbot 004,Pontardawe,0,8,0,0,0,0,0,0,11,11,9,1,0,1,covid
+W02000203,Neath Port Talbot 005,Aberdulais & Resolfen,0,1,0,0,0,0,0,0,0,9,12,1,1,0,covid
+W02000204,Neath Port Talbot 006,Cadoxton & Bryn-coch,0,3,1,0,0,0,0,0,1,7,3,0,0,0,covid
+W02000205,Neath Port Talbot 007,Neath Abbey,0,3,0,1,0,0,0,1,4,6,1,2,0,0,covid
+W02000206,Neath Port Talbot 008,Neath Town,0,4,3,0,0,0,0,1,4,6,4,6,2,0,covid
+W02000207,Neath Port Talbot 009,Cimla,0,0,1,3,0,0,0,0,3,8,1,1,0,0,covid
+W02000208,Neath Port Talbot 010,Skewen & Jersey Marine,0,4,1,0,0,0,0,1,6,5,5,3,0,0,covid
+W02000209,Neath Port Talbot 011,Glyncorrwg & Blaengwynfi,0,0,0,1,0,0,0,0,1,6,4,2,0,0,covid
+W02000210,Neath Port Talbot 012,Neath South,0,1,0,0,0,0,0,0,2,3,2,2,0,0,covid
+W02000211,Neath Port Talbot 013,Briton Ferry,0,4,0,0,0,0,0,1,0,5,6,4,0,0,covid
+W02000212,Neath Port Talbot 014,Cwmafan & Bryn,0,4,1,0,0,0,0,0,1,9,2,2,1,0,covid
+W02000213,Neath Port Talbot 015,Baglan,0,1,1,0,0,0,0,0,1,3,6,5,2,0,covid
+W02000214,Neath Port Talbot 016,Sandfields,0,7,1,1,0,0,0,2,11,14,14,2,0,0,covid
+W02000215,Neath Port Talbot 017,Aberafan,0,2,1,0,0,0,0,0,0,7,2,1,0,0,covid
+W02000216,Neath Port Talbot 018,Port Talbot East,0,7,9,0,0,0,0,1,2,12,7,2,1,0,covid
+W02000217,Neath Port Talbot 019,Port Talbot South & Margam,1,0,2,0,0,0,0,1,0,2,2,0,0,0,covid
+W02000417,Neath Port Talbot 020,Ystalyfera & Gwaun-Cae-Gurwen,0,3,2,0,0,0,0,1,2,3,9,1,1,0,covid
+W02000200,Neath Port Talbot 002,Dulais Valley,6,5,7,6,4,3,8,4,1,8,4,4,4,4,noncovid
+W02000201,Neath Port Talbot 003,Glynneath,5,4,3,6,3,8,5,5,4,1,11,2,6,7,noncovid
+W02000202,Neath Port Talbot 004,Pontardawe,15,7,12,4,11,14,9,12,19,12,11,10,10,13,noncovid
+W02000203,Neath Port Talbot 005,Aberdulais & Resolfen,10,12,3,5,8,4,4,7,5,9,11,7,8,8,noncovid
+W02000204,Neath Port Talbot 006,Cadoxton & Bryn-coch,9,5,3,3,4,3,5,5,6,3,5,9,4,8,noncovid
+W02000205,Neath Port Talbot 007,Neath Abbey,9,8,3,4,4,2,8,9,7,7,7,3,8,4,noncovid
+W02000206,Neath Port Talbot 008,Neath Town,11,12,8,8,11,12,6,10,8,9,7,5,6,11,noncovid
+W02000207,Neath Port Talbot 009,Cimla,7,4,5,1,4,3,2,5,2,6,8,5,4,6,noncovid
+W02000208,Neath Port Talbot 010,Skewen & Jersey Marine,14,13,7,12,5,8,10,11,8,9,9,2,9,6,noncovid
+W02000209,Neath Port Talbot 011,Glyncorrwg & Blaengwynfi,10,2,8,4,7,6,5,7,6,8,10,6,4,3,noncovid
+W02000210,Neath Port Talbot 012,Neath South,2,4,3,5,5,2,2,5,2,7,4,5,6,4,noncovid
+W02000211,Neath Port Talbot 013,Briton Ferry,7,8,13,7,4,7,6,5,4,5,5,9,5,9,noncovid
+W02000212,Neath Port Talbot 014,Cwmafan & Bryn,7,8,9,5,5,3,4,6,8,6,12,7,6,6,noncovid
+W02000213,Neath Port Talbot 015,Baglan,9,13,8,7,7,6,6,11,4,11,5,4,8,7,noncovid
+W02000214,Neath Port Talbot 016,Sandfields,6,8,11,11,14,8,12,9,8,14,9,15,15,8,noncovid
+W02000215,Neath Port Talbot 017,Aberafan,10,7,4,8,10,6,12,12,9,12,8,8,3,9,noncovid
+W02000216,Neath Port Talbot 018,Port Talbot East,6,16,10,5,3,7,9,12,4,6,5,9,9,9,noncovid
+W02000217,Neath Port Talbot 019,Port Talbot South & Margam,11,2,4,4,7,6,3,5,5,3,6,5,6,3,noncovid
+W02000417,Neath Port Talbot 020,Ystalyfera & Gwaun-Cae-Gurwen,8,6,14,9,8,6,7,11,5,6,9,7,9,10,noncovid
+W02000200,Neath Port Talbot 002,Dulais Valley,5,6,4,3,3,5,4,3,2,4,6,4,5,6,average
+W02000201,Neath Port Talbot 003,Glynneath,5,6,6,5,5,6,6,3,7,6,6,6,5,6,average
+W02000202,Neath Port Talbot 004,Pontardawe,14,14,10,12,13,12,10,12,13,13,17,12,14,14,average
+W02000203,Neath Port Talbot 005,Aberdulais & Resolfen,8,7,8,7,7,6,7,6,5,7,5,8,8,7,average
+W02000204,Neath Port Talbot 006,Cadoxton & Bryn-coch,7,4,3,4,5,6,4,5,6,4,6,8,7,4,average
+W02000205,Neath Port Talbot 007,Neath Abbey,6,7,5,4,5,4,5,6,6,8,7,6,6,7,average
+W02000206,Neath Port Talbot 008,Neath Town,10,11,10,9,7,10,8,8,9,10,9,11,10,11,average
+W02000207,Neath Port Talbot 009,Cimla,5,5,5,6,5,3,6,5,5,5,8,4,5,5,average
+W02000208,Neath Port Talbot 010,Skewen & Jersey Marine,8,10,10,6,6,8,7,9,7,8,12,8,8,10,average
+W02000209,Neath Port Talbot 011,Glyncorrwg & Blaengwynfi,7,7,7,6,6,5,5,7,5,7,7,6,7,7,average
+W02000210,Neath Port Talbot 012,Neath South,4,4,5,4,4,4,5,4,5,5,4,5,4,4,average
+W02000211,Neath Port Talbot 013,Briton Ferry,8,8,8,7,7,4,7,4,6,9,10,8,8,8,average
+W02000212,Neath Port Talbot 014,Cwmafan & Bryn,7,6,8,6,3,7,5,8,6,8,6,6,7,6,average
+W02000213,Neath Port Talbot 015,Baglan,7,7,8,6,4,8,5,5,6,6,8,7,7,7,average
+W02000214,Neath Port Talbot 016,Sandfields,13,15,11,11,9,12,10,11,12,13,16,14,13,15,average
+W02000215,Neath Port Talbot 017,Aberafan,11,10,8,6,9,10,10,10,9,7,11,10,11,10,average
+W02000216,Neath Port Talbot 018,Port Talbot East,10,8,8,8,8,9,8,8,10,9,12,8,10,8,average
+W02000217,Neath Port Talbot 019,Port Talbot South & Margam,4,4,4,4,5,4,5,5,6,4,5,6,4,4,average
+W02000417,Neath Port Talbot 020,Ystalyfera & Gwaun-Cae-Gurwen,11,8,7,8,8,9,10,11,10,11,12,12,11,8,average

@@ -1,0 +1,73 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02000840,Sutton 001,Middleton Circle,0,1,0,1,0,0,0,0,1,0,3,1,0,0,covid
+E02000841,Sutton 002,St Helier South,0,4,0,1,0,0,0,0,1,1,7,3,2,0,covid
+E02000842,Sutton 003,Stonecot,0,11,3,0,0,0,0,0,0,2,5,2,0,0,covid
+E02000843,Sutton 004,Hackbridge,2,6,0,0,0,0,0,0,0,2,2,0,0,0,covid
+E02000844,Sutton 005,The Wrythe,0,1,0,0,0,0,0,0,0,4,5,4,0,0,covid
+E02000845,Sutton 006,Worcester Park East,0,0,2,1,0,0,0,0,0,1,5,2,1,0,covid
+E02000846,Sutton 007,Sutton North,0,2,2,0,0,0,0,0,2,0,6,5,1,0,covid
+E02000847,Sutton 008,North Cheam West,0,7,1,0,0,0,0,0,1,3,7,6,3,1,covid
+E02000848,Sutton 009,North Cheam East,0,4,1,0,0,0,0,0,2,1,3,4,1,0,covid
+E02000849,Sutton 010,Wallington North,0,5,0,0,0,0,0,0,0,0,6,0,2,0,covid
+E02000850,Sutton 011,Beddington,2,7,1,0,0,0,0,0,0,5,11,4,0,0,covid
+E02000851,Sutton 012,Sutton Central,3,6,2,2,0,0,0,0,0,4,15,4,0,0,covid
+E02000852,Sutton 013,Sutton East,0,5,0,0,0,0,0,0,0,3,3,2,0,0,covid
+E02000853,Sutton 014,Sutton West,0,5,1,1,0,0,0,0,1,2,3,1,0,0,covid
+E02000854,Sutton 015,Carshalton Village,0,2,1,0,0,0,0,0,0,0,2,2,2,0,covid
+E02000855,Sutton 016,Cheam High Street,1,4,2,0,0,0,0,0,0,2,8,3,0,0,covid
+E02000856,Sutton 017,Wallington South,0,4,2,0,1,0,0,0,0,1,5,2,0,0,covid
+E02000857,Sutton 018,Sutton South West,0,11,6,1,0,0,0,0,0,3,8,6,1,0,covid
+E02000858,Sutton 019,Roundshaw,0,3,0,0,0,0,0,0,1,0,4,5,1,0,covid
+E02000859,Sutton 020,Carshalton on the Hill,0,10,1,2,0,0,0,0,0,0,7,5,4,1,covid
+E02000860,Sutton 021,Sutton South & Shanklin,0,5,1,0,0,0,0,0,1,1,3,5,0,0,covid
+E02000861,Sutton 022,Carshalton Beeches & Banstead Road,0,6,1,0,0,0,0,0,0,1,4,3,0,0,covid
+E02000863,Sutton 024,"Orchard Hill, Woodcote Green & Clockhouse",0,3,0,0,0,0,0,0,1,1,4,0,1,0,covid
+E02006836,Sutton 025,Belmont & South Cheam,0,11,1,0,0,0,0,0,0,4,9,7,2,0,covid
+E02000840,Sutton 001,Middleton Circle,5,5,4,4,3,3,3,2,7,3,1,3,2,6,noncovid
+E02000841,Sutton 002,St Helier South,6,6,1,7,6,5,5,6,5,7,3,6,4,2,noncovid
+E02000842,Sutton 003,Stonecot,7,15,4,4,6,3,3,0,11,7,4,4,7,9,noncovid
+E02000843,Sutton 004,Hackbridge,6,1,4,3,1,2,7,0,2,2,4,4,6,4,noncovid
+E02000844,Sutton 005,The Wrythe,3,1,3,2,2,0,5,7,2,5,6,3,4,5,noncovid
+E02000845,Sutton 006,Worcester Park East,6,4,4,1,5,2,2,4,6,3,6,4,8,2,noncovid
+E02000846,Sutton 007,Sutton North,10,8,5,5,2,3,5,7,3,6,4,6,8,4,noncovid
+E02000847,Sutton 008,North Cheam West,6,9,3,7,8,5,5,14,3,3,5,7,2,4,noncovid
+E02000848,Sutton 009,North Cheam East,6,2,1,3,2,5,4,2,3,4,6,9,8,2,noncovid
+E02000849,Sutton 010,Wallington North,8,9,8,4,3,5,6,3,7,5,4,11,8,6,noncovid
+E02000850,Sutton 011,Beddington,7,9,4,7,4,6,5,6,8,5,6,4,5,5,noncovid
+E02000851,Sutton 012,Sutton Central,6,5,2,9,4,7,10,11,6,5,8,6,6,8,noncovid
+E02000852,Sutton 013,Sutton East,6,8,4,4,8,5,5,2,2,6,5,6,9,6,noncovid
+E02000853,Sutton 014,Sutton West,6,5,1,4,6,3,3,4,4,1,5,7,4,5,noncovid
+E02000854,Sutton 015,Carshalton Village,1,2,2,6,4,5,7,7,5,6,2,5,3,1,noncovid
+E02000855,Sutton 016,Cheam High Street,7,6,3,6,3,2,7,2,5,12,6,4,5,9,noncovid
+E02000856,Sutton 017,Wallington South,5,4,2,2,1,4,2,1,5,5,4,1,1,4,noncovid
+E02000857,Sutton 018,Sutton South West,4,18,5,6,6,9,8,8,7,7,9,3,3,10,noncovid
+E02000858,Sutton 019,Roundshaw,6,5,5,7,7,4,3,4,6,9,5,3,5,4,noncovid
+E02000859,Sutton 020,Carshalton on the Hill,11,17,2,6,5,7,9,5,5,6,8,3,9,7,noncovid
+E02000860,Sutton 021,Sutton South & Shanklin,6,14,6,5,5,4,7,4,5,9,10,5,4,4,noncovid
+E02000861,Sutton 022,Carshalton Beeches & Banstead Road,4,7,7,3,3,0,5,4,7,6,7,4,11,3,noncovid
+E02000863,Sutton 024,"Orchard Hill, Woodcote Green & Clockhouse",6,4,4,3,6,3,4,4,7,1,2,0,2,2,noncovid
+E02006836,Sutton 025,Belmont & South Cheam,9,16,8,7,6,5,6,12,6,5,8,7,10,7,noncovid
+E02000840,Sutton 001,Middleton Circle,5,4,5,3,4,2,5,3,5,5,7,4,5,4,average
+E02000841,Sutton 002,St Helier South,6,3,4,5,5,2,5,3,3,5,6,5,6,3,average
+E02000842,Sutton 003,Stonecot,8,4,5,5,5,6,5,5,7,5,8,7,8,4,average
+E02000843,Sutton 004,Hackbridge,3,3,4,4,2,3,2,3,3,5,4,4,3,3,average
+E02000844,Sutton 005,The Wrythe,5,5,3,4,4,3,3,3,5,4,6,6,5,5,average
+E02000845,Sutton 006,Worcester Park East,6,4,3,3,4,3,4,3,5,4,5,3,6,4,average
+E02000846,Sutton 007,Sutton North,6,6,5,5,4,4,5,6,6,5,7,7,6,6,average
+E02000847,Sutton 008,North Cheam West,6,8,7,4,3,6,6,7,5,7,6,5,6,8,average
+E02000848,Sutton 009,North Cheam East,4,4,4,5,5,3,3,4,4,5,6,5,4,4,average
+E02000849,Sutton 010,Wallington North,6,4,3,3,2,5,5,4,5,4,3,6,6,4,average
+E02000850,Sutton 011,Beddington,7,4,8,4,5,4,3,5,6,3,6,6,7,4,average
+E02000851,Sutton 012,Sutton Central,7,7,5,6,7,5,6,5,4,7,9,7,7,7,average
+E02000852,Sutton 013,Sutton East,5,3,6,3,2,3,4,4,3,4,4,4,5,3,average
+E02000853,Sutton 014,Sutton West,4,3,3,3,5,4,3,3,4,3,3,3,4,3,average
+E02000854,Sutton 015,Carshalton Village,4,4,4,3,5,5,4,3,3,4,8,3,4,4,average
+E02000855,Sutton 016,Cheam High Street,6,4,6,6,4,5,5,6,6,5,6,5,6,4,average
+E02000856,Sutton 017,Wallington South,5,2,5,4,5,4,3,4,3,3,5,5,5,2,average
+E02000857,Sutton 018,Sutton South West,8,10,11,8,7,7,6,7,9,11,12,9,8,10,average
+E02000858,Sutton 019,Roundshaw,6,3,4,3,2,5,4,5,3,5,5,5,6,3,average
+E02000859,Sutton 020,Carshalton on the Hill,10,8,8,5,7,6,9,8,8,9,12,11,10,8,average
+E02000860,Sutton 021,Sutton South & Shanklin,8,8,6,7,7,8,6,6,7,8,9,10,8,8,average
+E02000861,Sutton 022,Carshalton Beeches & Banstead Road,5,4,4,5,3,2,3,4,4,3,6,3,5,4,average
+E02000863,Sutton 024,"Orchard Hill, Woodcote Green & Clockhouse",4,6,5,3,4,4,3,4,5,4,5,5,4,6,average
+E02006836,Sutton 025,Belmont & South Cheam,12,9,6,8,8,8,8,8,8,9,13,10,12,9,average

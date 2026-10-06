@@ -1,0 +1,79 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02001019,Bury 001,Ramsbottom,0,5,1,1,0,0,0,1,5,1,4,2,1,0,covid
+E02001020,Bury 002,Summerseat,0,3,1,0,0,0,0,1,0,2,2,1,1,1,covid
+E02001021,Bury 003,Nuttall & Tottington,1,3,1,0,0,0,0,1,1,4,2,0,0,0,covid
+E02001022,Bury 004,Walmersley & Limefield,0,8,4,9,1,0,0,3,2,0,4,5,0,0,covid
+E02001023,Bury 005,Higher Woodhill,0,3,3,0,0,0,0,1,2,2,1,2,3,0,covid
+E02001024,Bury 006,Walshaw & Woolfold,0,5,2,1,0,0,0,1,6,5,0,2,1,0,covid
+E02001025,Bury 007,Fairfield & Jericho,0,5,4,2,0,1,1,0,5,5,2,0,1,0,covid
+E02001026,Bury 008,Fernhill & Pimhole,0,4,1,3,0,1,0,4,1,1,3,2,3,0,covid
+E02001027,Bury 009,Whitehead Park,1,9,4,2,0,0,0,3,3,5,4,2,3,1,covid
+E02001028,Bury 010,Elton Vale,0,5,3,4,1,0,0,0,5,4,1,0,4,1,covid
+E02001029,Bury 011,Buckley Wells & Fishpool,0,4,1,0,0,0,0,3,6,0,7,2,2,0,covid
+E02001030,Bury 012,Ainsworth & Bradley Fold,0,1,0,0,0,0,0,0,2,1,3,0,1,0,covid
+E02001031,Bury 013,Redvales & Hollins,0,2,0,2,0,0,0,0,3,3,1,0,1,0,covid
+E02001032,Bury 014,Black Lane,0,3,1,2,0,0,0,1,1,1,4,0,1,0,covid
+E02001033,Bury 015,Bank Top & Radcliffe Ees,0,1,0,1,0,0,0,0,2,5,0,1,0,0,covid
+E02001034,Bury 016,Radcliffe,0,13,4,0,0,0,0,2,3,4,4,2,2,0,covid
+E02001035,Bury 017,Unsworth,1,4,2,0,1,0,0,0,3,3,4,4,0,1,covid
+E02001036,Bury 018,Outwood Gate,0,4,0,0,0,0,0,1,0,1,3,0,2,0,covid
+E02001037,Bury 019,Whitefield West & Park Lane,1,12,2,1,1,0,0,6,5,0,4,1,0,0,covid
+E02001038,Bury 020,Whitefield East,1,3,0,1,0,0,0,1,3,1,2,1,1,0,covid
+E02001039,Bury 021,Besses,0,3,0,2,1,0,0,2,3,2,1,2,0,0,covid
+E02001040,Bury 022,Kirkhams & Holyrood,0,2,0,0,0,0,1,0,1,0,2,0,0,0,covid
+E02001041,Bury 023,Prestwich East,0,7,2,0,0,0,0,0,3,1,1,2,0,0,covid
+E02001042,Bury 024,Prestwich Central,0,5,1,0,0,0,1,3,2,0,0,0,0,0,covid
+E02001043,Bury 025,Prestwich Clough & Rainsough,1,9,6,3,0,0,0,0,5,1,0,1,1,1,covid
+E02001044,Bury 026,Sedgley Park,1,5,3,1,1,0,0,1,3,4,1,1,0,0,covid
+E02001019,Bury 001,Ramsbottom,5,13,4,4,6,10,0,6,7,4,8,11,7,8,noncovid
+E02001020,Bury 002,Summerseat,5,6,3,4,4,7,4,6,3,10,5,7,9,1,noncovid
+E02001021,Bury 003,Nuttall & Tottington,9,15,5,3,4,7,7,11,4,5,8,8,9,6,noncovid
+E02001022,Bury 004,Walmersley & Limefield,8,13,11,9,13,9,9,12,7,7,11,5,11,11,noncovid
+E02001023,Bury 005,Higher Woodhill,6,6,1,3,8,1,7,2,6,1,1,3,5,1,noncovid
+E02001024,Bury 006,Walshaw & Woolfold,1,5,5,3,4,3,12,4,2,4,6,8,6,3,noncovid
+E02001025,Bury 007,Fairfield & Jericho,17,12,10,4,2,9,7,9,9,6,9,9,9,7,noncovid
+E02001026,Bury 008,Fernhill & Pimhole,3,8,3,6,5,1,10,7,5,4,5,6,6,13,noncovid
+E02001027,Bury 009,Whitehead Park,9,7,7,7,2,7,5,5,11,7,6,10,5,7,noncovid
+E02001028,Bury 010,Elton Vale,3,9,6,5,8,5,8,9,6,7,13,10,10,8,noncovid
+E02001029,Bury 011,Buckley Wells & Fishpool,6,4,2,7,4,1,5,4,3,3,5,3,5,5,noncovid
+E02001030,Bury 012,Ainsworth & Bradley Fold,2,4,2,6,5,4,3,3,6,4,4,6,4,4,noncovid
+E02001031,Bury 013,Redvales & Hollins,4,7,6,3,1,2,4,2,9,10,9,4,4,8,noncovid
+E02001032,Bury 014,Black Lane,7,6,7,1,7,5,4,3,5,4,8,3,4,6,noncovid
+E02001033,Bury 015,Bank Top & Radcliffe Ees,1,3,7,2,4,3,3,5,5,3,4,1,2,3,noncovid
+E02001034,Bury 016,Radcliffe,16,13,13,7,10,4,4,11,9,8,5,11,7,10,noncovid
+E02001035,Bury 017,Unsworth,4,3,5,6,3,6,6,4,7,6,5,1,6,8,noncovid
+E02001036,Bury 018,Outwood Gate,1,4,3,0,3,2,3,5,1,6,2,0,5,5,noncovid
+E02001037,Bury 019,Whitefield West & Park Lane,4,15,6,7,7,7,5,4,10,3,5,6,6,4,noncovid
+E02001038,Bury 020,Whitefield East,2,5,5,5,7,6,4,4,7,6,7,2,10,2,noncovid
+E02001039,Bury 021,Besses,10,9,4,2,8,5,7,6,4,5,6,1,7,3,noncovid
+E02001040,Bury 022,Kirkhams & Holyrood,3,7,4,5,6,4,5,6,5,6,2,6,5,5,noncovid
+E02001041,Bury 023,Prestwich East,1,7,9,8,8,8,8,8,14,10,7,5,8,7,noncovid
+E02001042,Bury 024,Prestwich Central,5,7,2,5,9,5,3,5,7,11,8,3,6,1,noncovid
+E02001043,Bury 025,Prestwich Clough & Rainsough,6,14,6,3,7,7,4,2,5,4,6,5,5,6,noncovid
+E02001044,Bury 026,Sedgley Park,3,5,3,2,3,4,4,3,4,4,3,4,4,6,noncovid
+E02001019,Bury 001,Ramsbottom,7,5,5,5,5,5,4,5,4,4,6,6,7,5,average
+E02001020,Bury 002,Summerseat,6,5,2,6,4,5,5,5,6,6,7,5,6,5,average
+E02001021,Bury 003,Nuttall & Tottington,7,6,7,9,6,6,6,9,8,8,9,8,7,6,average
+E02001022,Bury 004,Walmersley & Limefield,9,10,10,9,10,8,9,10,9,11,11,12,9,10,average
+E02001023,Bury 005,Higher Woodhill,2,4,3,5,4,3,3,3,1,3,4,4,2,4,average
+E02001024,Bury 006,Walshaw & Woolfold,5,6,4,6,5,6,5,5,5,6,7,5,5,6,average
+E02001025,Bury 007,Fairfield & Jericho,7,7,7,7,9,8,6,7,6,7,7,8,7,7,average
+E02001026,Bury 008,Fernhill & Pimhole,7,5,9,5,5,6,4,6,7,7,9,5,7,5,average
+E02001027,Bury 009,Whitehead Park,8,6,7,6,8,5,6,7,7,8,12,7,8,6,average
+E02001028,Bury 010,Elton Vale,7,7,7,5,8,5,5,5,6,7,10,6,7,7,average
+E02001029,Bury 011,Buckley Wells & Fishpool,5,6,5,5,4,5,6,5,5,5,6,6,5,6,average
+E02001030,Bury 012,Ainsworth & Bradley Fold,6,6,5,4,4,4,2,5,4,5,8,3,6,6,average
+E02001031,Bury 013,Redvales & Hollins,5,7,3,4,3,5,4,5,3,4,6,5,5,7,average
+E02001032,Bury 014,Black Lane,7,6,6,4,4,5,5,6,6,5,10,9,7,6,average
+E02001033,Bury 015,Bank Top & Radcliffe Ees,3,3,3,3,4,4,2,4,3,4,3,3,3,3,average
+E02001034,Bury 016,Radcliffe,13,11,9,10,7,11,8,9,9,11,13,11,13,11,average
+E02001035,Bury 017,Unsworth,4,5,6,5,6,6,6,5,5,5,7,7,4,5,average
+E02001036,Bury 018,Outwood Gate,4,3,4,5,3,4,2,3,4,4,5,3,4,3,average
+E02001037,Bury 019,Whitefield West & Park Lane,8,8,6,6,6,5,8,7,9,7,9,9,8,8,average
+E02001038,Bury 020,Whitefield East,6,4,5,5,4,4,3,3,4,6,5,4,6,4,average
+E02001039,Bury 021,Besses,6,8,5,6,5,4,5,4,5,7,5,6,6,8,average
+E02001040,Bury 022,Kirkhams & Holyrood,5,4,5,7,5,4,6,7,5,6,7,7,5,4,average
+E02001041,Bury 023,Prestwich East,6,7,7,5,6,6,4,9,7,10,13,6,6,7,average
+E02001042,Bury 024,Prestwich Central,5,4,5,4,3,4,4,5,4,5,5,4,5,4,average
+E02001043,Bury 025,Prestwich Clough & Rainsough,8,8,7,6,6,6,9,5,7,6,10,7,8,8,average
+E02001044,Bury 026,Sedgley Park,3,3,4,4,2,3,3,3,4,2,2,3,3,3,average

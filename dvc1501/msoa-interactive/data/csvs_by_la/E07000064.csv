@@ -1,0 +1,34 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02004392,Rother 001,"Robertsbridge, Hurst Green & Ticehurst",0,2,1,1,0,0,0,0,0,2,8,0,0,0,covid
+E02004393,Rother 002,"Northiam, Peasmarsh & Camber",0,0,1,0,0,0,0,0,1,1,3,2,0,0,covid
+E02004394,Rother 003,"Burwash, Sedlescombe & Staplecross",0,0,6,1,0,0,0,0,2,4,20,4,0,0,covid
+E02004395,Rother 004,Rye & Winchelsea,0,0,0,0,0,0,0,0,0,2,8,3,0,0,covid
+E02004396,Rother 005,"Westfield, Fairlight & Broad Oak",0,3,0,0,0,0,0,0,0,3,9,5,1,0,covid
+E02004397,Rother 006,Battle & Catsfield,0,1,0,0,0,0,0,0,0,12,16,8,0,0,covid
+E02004398,Rother 007,Bexhill North & Sidley,1,2,0,1,0,1,0,0,0,11,32,3,0,0,covid
+E02004399,Rother 008,Bexhill East & Pebsham,0,4,4,0,1,0,0,0,3,5,10,3,1,0,covid
+E02004400,Rother 009,"Collington, Cooden & Little Common",1,6,3,2,0,0,0,0,1,3,20,8,0,0,covid
+E02004401,Rother 010,Kewhurst,0,0,1,0,0,0,0,0,5,9,16,13,1,0,covid
+E02004402,Rother 011,Bexhill Central,0,1,6,1,1,0,0,0,0,3,28,5,2,1,covid
+E02004392,Rother 001,"Robertsbridge, Hurst Green & Ticehurst",5,4,2,4,7,4,11,4,9,6,11,9,6,9,noncovid
+E02004393,Rother 002,"Northiam, Peasmarsh & Camber",6,13,11,3,7,15,5,12,8,9,6,11,7,5,noncovid
+E02004394,Rother 003,"Burwash, Sedlescombe & Staplecross",10,9,11,17,5,10,5,7,8,8,4,10,7,5,noncovid
+E02004395,Rother 004,Rye & Winchelsea,4,9,13,5,12,8,7,13,8,7,4,3,7,8,noncovid
+E02004396,Rother 005,"Westfield, Fairlight & Broad Oak",17,10,6,5,18,6,10,10,10,8,10,4,7,8,noncovid
+E02004397,Rother 006,Battle & Catsfield,6,6,3,8,8,5,8,15,6,11,17,5,4,5,noncovid
+E02004398,Rother 007,Bexhill North & Sidley,9,17,8,10,11,8,10,10,10,10,8,7,15,6,noncovid
+E02004399,Rother 008,Bexhill East & Pebsham,10,12,18,11,11,10,12,11,23,13,11,12,6,13,noncovid
+E02004400,Rother 009,"Collington, Cooden & Little Common",15,15,10,21,14,13,19,15,18,21,16,14,14,12,noncovid
+E02004401,Rother 010,Kewhurst,14,14,9,12,13,11,10,9,11,25,17,6,12,15,noncovid
+E02004402,Rother 011,Bexhill Central,17,15,9,7,20,13,8,18,13,11,13,13,10,13,noncovid
+E02004392,Rother 001,"Robertsbridge, Hurst Green & Ticehurst",9,6,6,6,5,6,6,7,6,4,6,6,9,6,average
+E02004393,Rother 002,"Northiam, Peasmarsh & Camber",7,5,6,9,5,4,7,8,7,5,7,6,7,5,average
+E02004394,Rother 003,"Burwash, Sedlescombe & Staplecross",9,7,7,5,7,7,9,11,9,8,11,8,9,7,average
+E02004395,Rother 004,Rye & Winchelsea,8,8,10,8,7,7,7,8,9,6,8,7,8,8,average
+E02004396,Rother 005,"Westfield, Fairlight & Broad Oak",11,8,9,7,10,9,7,10,9,9,12,10,11,8,average
+E02004397,Rother 006,Battle & Catsfield,10,6,9,7,7,4,8,6,7,8,9,8,10,6,average
+E02004398,Rother 007,Bexhill North & Sidley,9,10,8,9,11,9,8,7,10,10,14,10,9,10,average
+E02004399,Rother 008,Bexhill East & Pebsham,18,14,16,14,11,11,12,12,15,12,23,14,18,14,average
+E02004400,Rother 009,"Collington, Cooden & Little Common",19,17,17,12,14,12,14,21,19,19,22,18,19,17,average
+E02004401,Rother 010,Kewhurst,15,14,13,12,12,12,9,11,12,14,18,16,15,14,average
+E02004402,Rother 011,Bexhill Central,17,15,13,13,13,12,11,14,15,15,22,16,17,15,average

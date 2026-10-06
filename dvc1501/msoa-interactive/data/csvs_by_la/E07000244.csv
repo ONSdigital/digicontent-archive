@@ -1,0 +1,91 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02006287,Suffolk Coastal 001,"Yoxford, Wenhaston & Walberswick",0,0,0,0,0,0,0,1,0,3,3,10,0,0,covid
+E02006288,Suffolk Coastal 002,Framlingham & Hacheston,0,2,0,0,0,0,0,0,0,2,2,0,0,1,covid
+E02006289,Suffolk Coastal 003,Saxmundham & Coldfair Green,0,2,1,4,0,0,0,0,0,2,1,1,0,1,covid
+E02006290,Suffolk Coastal 004,Leiston & Aldeburgh,0,2,3,1,0,0,0,0,0,0,2,5,1,0,covid
+E02006291,Suffolk Coastal 005,Wickham Market & Melton,0,2,2,0,0,0,0,0,0,1,2,2,0,0,covid
+E02006292,Suffolk Coastal 006,"Westerfield, Grundisburgh & Bredfield",0,6,0,2,0,0,0,0,0,1,2,0,0,0,covid
+E02006293,Suffolk Coastal 007,"Rendlesham, Orford & Hollesley",0,2,4,0,0,0,0,0,1,1,4,1,2,0,covid
+E02006294,Suffolk Coastal 008,Woodbridge,0,6,1,0,0,0,0,0,0,1,10,6,0,0,covid
+E02006295,Suffolk Coastal 009,Kesgrave West & Rushmere,0,7,2,0,0,0,0,0,0,3,2,1,0,1,covid
+E02006296,Suffolk Coastal 010,Kesgrave East & Martlesham,0,5,2,0,0,0,0,0,1,3,6,4,2,0,covid
+E02006297,Suffolk Coastal 011,"Bixley, Warren Heath & Nacton",0,9,1,0,0,0,0,0,1,0,2,4,1,0,covid
+E02006298,Suffolk Coastal 012,Trimley & Kirton,0,2,2,0,0,0,0,0,0,1,7,6,1,1,covid
+E02006299,Suffolk Coastal 013,Felixstowe East,0,4,3,2,0,0,0,0,0,5,13,6,6,0,covid
+E02006300,Suffolk Coastal 014,Felixstowe West,0,1,2,0,0,0,0,0,1,1,4,1,1,1,covid
+E02006301,Suffolk Coastal 015,Felixstowe Seafront,0,5,0,0,0,0,0,0,0,3,4,3,1,0,covid
+E02006302,Waveney 001,"Gunton East, Corton & Somerleyton",0,2,1,0,0,0,0,0,2,0,5,2,0,1,covid
+E02006303,Waveney 002,Gunton West,0,5,8,2,0,0,0,0,0,0,0,2,0,0,covid
+E02006304,Waveney 003,Oulton,0,9,2,1,0,0,0,1,2,0,1,2,0,1,covid
+E02006305,Waveney 004,Lowestoft Central,0,10,2,0,0,0,0,0,1,0,2,3,1,0,covid
+E02006306,Waveney 005,Normanston & Oulton Broad East,0,3,3,1,0,0,0,0,0,2,5,2,0,1,covid
+E02006307,Waveney 006,Oulton Broad West,0,7,0,0,0,0,0,0,1,0,2,4,0,0,covid
+E02006308,Waveney 007,Lowestoft Harbour & Kirkley,0,3,4,1,0,0,0,0,0,0,3,5,0,0,covid
+E02006309,Waveney 008,Pakefield North,0,8,1,1,0,0,0,0,1,0,4,4,2,0,covid
+E02006310,Waveney 009,Carlton Colville,0,3,0,0,0,0,0,0,0,0,2,1,0,0,covid
+E02006311,Waveney 010,Beccles,0,6,8,0,0,0,0,1,2,1,4,4,1,0,covid
+E02006312,Waveney 011,Worlingham & Barnby,0,4,2,1,0,0,0,0,2,1,3,3,2,0,covid
+E02006313,Waveney 012,Pakefield South & Kessingland,0,3,1,1,0,0,0,0,1,2,7,3,2,0,covid
+E02006314,Waveney 013,Bungay & the Saints,0,1,5,0,0,0,0,1,0,1,3,4,2,0,covid
+E02006315,Waveney 014,"Southwold, Reydon & Wrentham",0,1,1,0,0,0,0,0,2,0,2,4,0,0,covid
+E02006316,Waveney 015,Halesworth & Wangford,0,2,4,0,0,0,0,0,0,0,6,3,0,0,covid
+E02006287,Suffolk Coastal 001,"Yoxford, Wenhaston & Walberswick",10,11,6,11,13,7,7,6,3,2,6,1,8,7,noncovid
+E02006288,Suffolk Coastal 002,Framlingham & Hacheston,9,12,3,5,9,10,9,9,7,13,12,6,9,5,noncovid
+E02006289,Suffolk Coastal 003,Saxmundham & Coldfair Green,5,7,6,6,9,9,7,13,7,5,14,6,7,6,noncovid
+E02006290,Suffolk Coastal 004,Leiston & Aldeburgh,8,18,11,12,9,12,9,8,10,15,6,12,15,9,noncovid
+E02006291,Suffolk Coastal 005,Wickham Market & Melton,14,6,3,5,7,4,6,8,3,9,8,7,7,2,noncovid
+E02006292,Suffolk Coastal 006,"Westerfield, Grundisburgh & Bredfield",3,7,5,5,8,0,4,3,1,8,7,3,9,6,noncovid
+E02006293,Suffolk Coastal 007,"Rendlesham, Orford & Hollesley",6,15,12,5,5,6,5,11,8,9,9,12,7,8,noncovid
+E02006294,Suffolk Coastal 008,Woodbridge,14,29,14,9,10,10,9,18,13,8,14,8,14,9,noncovid
+E02006295,Suffolk Coastal 009,Kesgrave West & Rushmere,7,10,11,1,6,7,8,9,8,9,12,10,8,3,noncovid
+E02006296,Suffolk Coastal 010,Kesgrave East & Martlesham,10,20,6,12,10,9,5,7,8,8,10,3,10,10,noncovid
+E02006297,Suffolk Coastal 011,"Bixley, Warren Heath & Nacton",9,13,7,6,6,7,6,5,6,6,2,6,6,7,noncovid
+E02006298,Suffolk Coastal 012,Trimley & Kirton,3,7,6,6,3,7,7,8,4,5,5,8,5,9,noncovid
+E02006299,Suffolk Coastal 013,Felixstowe East,12,17,13,9,11,7,8,13,8,21,12,16,14,11,noncovid
+E02006300,Suffolk Coastal 014,Felixstowe West,6,5,11,10,3,5,4,3,12,11,8,3,8,5,noncovid
+E02006301,Suffolk Coastal 015,Felixstowe Seafront,8,17,4,8,5,9,5,14,8,5,8,12,10,7,noncovid
+E02006302,Waveney 001,"Gunton East, Corton & Somerleyton",8,9,8,3,9,5,8,7,12,7,10,6,8,6,noncovid
+E02006303,Waveney 002,Gunton West,9,6,10,10,6,2,9,2,10,5,13,11,6,6,noncovid
+E02006304,Waveney 003,Oulton,11,15,8,4,11,5,13,11,4,10,7,7,10,10,noncovid
+E02006305,Waveney 004,Lowestoft Central,8,6,7,6,8,5,6,6,4,8,6,11,9,7,noncovid
+E02006306,Waveney 005,Normanston & Oulton Broad East,5,13,8,9,8,8,12,9,7,9,8,10,5,4,noncovid
+E02006307,Waveney 006,Oulton Broad West,10,7,5,9,10,5,5,13,14,10,8,8,9,6,noncovid
+E02006308,Waveney 007,Lowestoft Harbour & Kirkley,9,11,12,10,10,10,6,3,10,7,7,19,9,12,noncovid
+E02006309,Waveney 008,Pakefield North,9,12,19,8,12,7,16,7,8,10,10,13,8,10,noncovid
+E02006310,Waveney 009,Carlton Colville,4,11,7,6,6,3,5,5,10,5,5,4,7,4,noncovid
+E02006311,Waveney 010,Beccles,15,14,16,3,9,10,8,10,8,13,12,8,6,12,noncovid
+E02006312,Waveney 011,Worlingham & Barnby,9,12,6,9,7,5,5,8,4,8,8,3,7,8,noncovid
+E02006313,Waveney 012,Pakefield South & Kessingland,13,12,5,14,5,10,9,13,10,5,14,6,10,9,noncovid
+E02006314,Waveney 013,Bungay & the Saints,10,10,6,4,5,5,6,6,11,9,9,10,5,8,noncovid
+E02006315,Waveney 014,"Southwold, Reydon & Wrentham",8,8,6,3,4,7,4,7,5,11,4,11,2,13,noncovid
+E02006316,Waveney 015,Halesworth & Wangford,8,11,7,9,11,3,5,6,6,10,9,9,16,5,noncovid
+E02006287,Suffolk Coastal 001,"Yoxford, Wenhaston & Walberswick",8,7,7,7,5,6,6,7,6,7,11,10,8,7,average
+E02006288,Suffolk Coastal 002,Framlingham & Hacheston,9,10,7,6,7,8,8,9,7,8,11,10,9,10,average
+E02006289,Suffolk Coastal 003,Saxmundham & Coldfair Green,10,8,8,8,8,7,9,9,9,9,11,9,10,8,average
+E02006290,Suffolk Coastal 004,Leiston & Aldeburgh,11,9,9,11,11,8,9,10,9,11,11,13,11,9,average
+E02006291,Suffolk Coastal 005,Wickham Market & Melton,6,6,5,6,3,4,3,6,5,6,7,8,6,6,average
+E02006292,Suffolk Coastal 006,"Westerfield, Grundisburgh & Bredfield",7,6,5,3,3,2,4,5,5,5,7,5,7,6,average
+E02006293,Suffolk Coastal 007,"Rendlesham, Orford & Hollesley",10,8,8,10,8,8,7,9,8,7,13,10,10,8,average
+E02006294,Suffolk Coastal 008,Woodbridge,14,10,14,11,11,11,12,10,10,10,18,13,14,10,average
+E02006295,Suffolk Coastal 009,Kesgrave West & Rushmere,8,8,10,7,7,5,10,7,8,9,9,10,8,8,average
+E02006296,Suffolk Coastal 010,Kesgrave East & Martlesham,8,7,8,7,9,7,7,8,10,10,10,7,8,7,average
+E02006297,Suffolk Coastal 011,"Bixley, Warren Heath & Nacton",7,8,6,7,4,5,7,6,7,6,8,6,7,8,average
+E02006298,Suffolk Coastal 012,Trimley & Kirton,8,9,7,7,6,7,6,5,9,7,11,8,8,9,average
+E02006299,Suffolk Coastal 013,Felixstowe East,13,13,11,11,11,11,12,13,10,13,17,16,13,13,average
+E02006300,Suffolk Coastal 014,Felixstowe West,5,5,6,6,5,5,4,8,7,6,8,8,5,5,average
+E02006301,Suffolk Coastal 015,Felixstowe Seafront,11,8,10,10,10,8,9,9,9,8,13,9,11,8,average
+E02006302,Waveney 001,"Gunton East, Corton & Somerleyton",7,8,5,5,6,7,8,10,7,7,9,7,7,8,average
+E02006303,Waveney 002,Gunton West,8,7,7,7,6,8,6,7,4,7,10,8,8,7,average
+E02006304,Waveney 003,Oulton,9,10,8,8,9,7,8,8,9,7,15,10,9,10,average
+E02006305,Waveney 004,Lowestoft Central,9,6,9,7,7,7,6,5,8,7,9,8,9,6,average
+E02006306,Waveney 005,Normanston & Oulton Broad East,8,8,9,7,6,7,6,11,7,10,8,8,8,8,average
+E02006307,Waveney 006,Oulton Broad West,11,9,10,8,7,7,11,10,7,11,11,10,11,9,average
+E02006308,Waveney 007,Lowestoft Harbour & Kirkley,11,9,9,6,8,8,7,10,10,9,13,11,11,9,average
+E02006309,Waveney 008,Pakefield North,10,9,9,7,7,7,7,8,9,11,12,14,10,9,average
+E02006310,Waveney 009,Carlton Colville,6,9,6,4,6,6,4,7,6,5,8,7,6,9,average
+E02006311,Waveney 010,Beccles,12,13,10,10,8,12,10,9,8,10,14,12,12,13,average
+E02006312,Waveney 011,Worlingham & Barnby,4,6,5,5,6,5,7,7,7,8,10,5,4,6,average
+E02006313,Waveney 012,Pakefield South & Kessingland,10,12,9,13,11,10,11,10,11,10,16,10,10,12,average
+E02006314,Waveney 013,Bungay & the Saints,9,6,7,9,7,7,8,10,9,7,15,10,9,6,average
+E02006315,Waveney 014,"Southwold, Reydon & Wrentham",9,9,6,6,8,8,8,4,9,7,10,8,9,9,average
+E02006316,Waveney 015,Halesworth & Wangford,11,10,8,10,11,9,10,11,9,9,12,12,11,10,average

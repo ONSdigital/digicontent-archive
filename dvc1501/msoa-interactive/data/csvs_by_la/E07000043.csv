@@ -1,0 +1,43 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02004175,North Devon 001,Ilfracombe East,0,0,0,0,0,0,0,0,0,0,0,1,0,0,covid
+E02004176,North Devon 002,Lynton & Combe Martin,0,0,0,0,0,0,0,0,0,1,2,1,0,0,covid
+E02004177,North Devon 003,Ilfracombe West,0,2,1,0,0,0,0,0,0,0,1,0,0,0,covid
+E02004178,North Devon 004,"Woolacombe, Georgeham & Croyde",0,0,0,0,0,0,0,0,0,1,0,0,0,0,covid
+E02004179,North Devon 005,Braunton,0,2,0,0,0,0,0,0,0,1,0,1,0,0,covid
+E02004180,North Devon 006,"Bratton Fleming, Goodleigh & Kings Heanton",0,3,0,0,0,0,0,0,1,3,0,0,0,0,covid
+E02004181,North Devon 007,Barnstaple Pilton,0,5,1,0,0,0,0,0,0,1,2,0,0,0,covid
+E02004182,North Devon 008,Barnstaple Central,0,1,0,0,0,0,0,0,0,0,0,0,0,0,covid
+E02004183,North Devon 009,Barnstaple Sticklepath,0,0,0,0,0,0,0,0,0,0,0,0,0,0,covid
+E02004184,North Devon 010,Barnstaple South,0,0,1,0,0,0,0,0,2,2,1,0,0,0,covid
+E02004185,North Devon 011,Fremington & Instow,0,0,0,0,0,0,0,0,0,0,0,1,0,0,covid
+E02004186,North Devon 012,Roundswell & Landkey,0,0,0,0,0,0,0,0,1,0,1,1,0,0,covid
+E02004187,North Devon 013,South Molton,0,5,0,0,0,0,0,0,0,1,0,1,0,0,covid
+E02004188,North Devon 014,"Bishop's Nympton, Witheridge & Chulmleigh",0,3,0,0,0,0,0,0,0,3,1,0,0,0,covid
+E02004175,North Devon 001,Ilfracombe East,9,8,5,5,5,7,7,8,5,4,9,9,7,6,noncovid
+E02004176,North Devon 002,Lynton & Combe Martin,10,6,2,8,8,6,4,6,9,7,7,3,9,5,noncovid
+E02004177,North Devon 003,Ilfracombe West,6,10,7,6,5,5,7,5,8,5,10,5,5,6,noncovid
+E02004178,North Devon 004,"Woolacombe, Georgeham & Croyde",7,6,4,8,7,5,3,0,3,8,4,2,6,0,noncovid
+E02004179,North Devon 005,Braunton,10,11,4,9,8,9,9,11,5,11,9,7,11,11,noncovid
+E02004180,North Devon 006,"Bratton Fleming, Goodleigh & Kings Heanton",6,7,4,5,12,3,9,6,3,6,8,4,7,4,noncovid
+E02004181,North Devon 007,Barnstaple Pilton,8,8,4,5,9,3,9,8,6,6,8,3,4,2,noncovid
+E02004182,North Devon 008,Barnstaple Central,8,4,3,7,5,5,7,0,3,3,7,7,5,3,noncovid
+E02004183,North Devon 009,Barnstaple Sticklepath,4,6,5,4,9,6,5,13,12,6,9,5,6,15,noncovid
+E02004184,North Devon 010,Barnstaple South,9,8,5,9,6,5,5,7,2,6,6,3,5,7,noncovid
+E02004185,North Devon 011,Fremington & Instow,11,11,8,7,4,10,9,5,9,12,15,4,9,5,noncovid
+E02004186,North Devon 012,Roundswell & Landkey,6,2,4,9,6,5,5,9,7,7,9,8,10,3,noncovid
+E02004187,North Devon 013,South Molton,10,16,12,6,10,5,7,17,9,16,4,7,13,5,noncovid
+E02004188,North Devon 014,"Bishop's Nympton, Witheridge & Chulmleigh",5,4,8,9,5,2,3,7,7,8,5,8,4,10,noncovid
+E02004175,North Devon 001,Ilfracombe East,8,7,5,5,6,6,7,7,7,7,10,8,8,7,average
+E02004176,North Devon 002,Lynton & Combe Martin,5,6,6,5,5,7,4,6,7,4,6,5,5,6,average
+E02004177,North Devon 003,Ilfracombe West,7,9,7,8,6,6,4,7,6,5,10,5,7,9,average
+E02004178,North Devon 004,"Woolacombe, Georgeham & Croyde",5,4,4,3,3,3,3,6,4,6,5,3,5,4,average
+E02004179,North Devon 005,Braunton,12,12,12,12,9,10,10,10,8,13,14,9,12,12,average
+E02004180,North Devon 006,"Bratton Fleming, Goodleigh & Kings Heanton",7,4,4,6,4,5,4,6,6,5,7,6,7,4,average
+E02004181,North Devon 007,Barnstaple Pilton,4,8,4,4,2,6,4,5,5,7,7,7,4,8,average
+E02004182,North Devon 008,Barnstaple Central,6,7,8,6,6,6,4,6,5,5,4,8,6,7,average
+E02004183,North Devon 009,Barnstaple Sticklepath,8,7,5,6,6,6,8,7,7,6,8,10,8,7,average
+E02004184,North Devon 010,Barnstaple South,6,6,6,8,5,6,6,7,6,6,8,8,6,6,average
+E02004185,North Devon 011,Fremington & Instow,9,8,7,6,9,5,7,8,8,8,11,12,9,8,average
+E02004186,North Devon 012,Roundswell & Landkey,8,5,8,6,5,7,6,6,7,8,10,6,8,5,average
+E02004187,North Devon 013,South Molton,11,11,8,9,9,10,8,9,10,13,14,12,11,11,average
+E02004188,North Devon 014,"Bishop's Nympton, Witheridge & Chulmleigh",7,8,7,6,4,5,4,6,2,6,7,6,7,8,average

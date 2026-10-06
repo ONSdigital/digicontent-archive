@@ -1,0 +1,40 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02006362,Mole Valley 001,Ashtead East,1,3,2,0,0,0,0,0,1,1,3,4,0,0,covid
+E02006363,Mole Valley 002,Ashtead West,0,7,2,0,0,0,0,0,0,0,6,3,4,0,covid
+E02006364,Mole Valley 003,Leatherhead North,0,0,0,0,0,0,0,0,2,1,2,4,1,0,covid
+E02006365,Mole Valley 004,Leatherhead South & Ashtead South,1,9,5,2,0,0,0,0,0,0,4,3,0,0,covid
+E02006366,Mole Valley 005,Fetcham,0,2,1,0,0,0,0,0,0,2,4,3,0,0,covid
+E02006367,Mole Valley 006,Bookham North,0,5,0,0,0,0,0,0,0,1,6,3,1,1,covid
+E02006368,Mole Valley 007,Bookham South,2,7,1,0,0,0,0,0,1,1,5,4,0,0,covid
+E02006369,Mole Valley 008,Box Hill & Brockham,1,9,5,2,0,0,0,0,0,1,3,4,0,0,covid
+E02006370,Mole Valley 009,Dorking North & Westhumble,0,0,2,1,0,0,0,0,0,2,3,4,1,0,covid
+E02006371,Mole Valley 010,Dorking South,0,6,1,1,0,0,0,0,0,0,11,7,1,1,covid
+E02006372,Mole Valley 011,Holmwoods,1,9,2,1,0,0,0,0,0,2,6,4,3,0,covid
+E02006373,Mole Valley 012,"Westcott, Ockley & Capel",0,1,4,1,0,0,0,0,0,1,2,3,3,0,covid
+E02006374,Mole Valley 013,"Charlwood, Newdigate & Beare Green",0,3,2,0,0,0,0,0,0,0,1,3,0,0,covid
+E02006362,Mole Valley 001,Ashtead East,4,14,1,8,6,2,4,3,5,3,6,3,7,3,noncovid
+E02006363,Mole Valley 002,Ashtead West,9,11,3,2,6,3,7,8,7,4,3,6,5,8,noncovid
+E02006364,Mole Valley 003,Leatherhead North,3,10,5,3,5,3,6,4,6,3,7,6,10,6,noncovid
+E02006365,Mole Valley 004,Leatherhead South & Ashtead South,10,12,3,2,6,8,7,1,4,4,5,4,5,4,noncovid
+E02006366,Mole Valley 005,Fetcham,2,10,7,4,5,3,4,3,7,5,4,5,6,8,noncovid
+E02006367,Mole Valley 006,Bookham North,9,13,5,5,5,1,7,7,3,8,1,6,3,3,noncovid
+E02006368,Mole Valley 007,Bookham South,6,7,4,6,5,9,2,2,6,8,1,6,7,5,noncovid
+E02006369,Mole Valley 008,Box Hill & Brockham,9,14,10,7,6,6,6,12,8,2,6,3,5,5,noncovid
+E02006370,Mole Valley 009,Dorking North & Westhumble,9,9,9,13,1,2,6,3,6,7,4,6,9,3,noncovid
+E02006371,Mole Valley 010,Dorking South,12,17,9,8,7,11,12,14,11,3,8,8,11,2,noncovid
+E02006372,Mole Valley 011,Holmwoods,6,3,3,5,6,4,4,5,1,3,11,3,5,2,noncovid
+E02006373,Mole Valley 012,"Westcott, Ockley & Capel",12,10,6,6,9,7,6,6,3,5,4,4,4,8,noncovid
+E02006374,Mole Valley 013,"Charlwood, Newdigate & Beare Green",4,6,4,5,6,4,4,10,5,7,3,4,2,5,noncovid
+E02006362,Mole Valley 001,Ashtead East,4,5,3,4,5,3,3,4,5,6,5,4,4,5,average
+E02006363,Mole Valley 002,Ashtead West,5,7,5,5,4,5,5,6,6,6,8,6,5,7,average
+E02006364,Mole Valley 003,Leatherhead North,4,5,3,6,3,4,3,5,5,4,6,3,4,5,average
+E02006365,Mole Valley 004,Leatherhead South & Ashtead South,6,6,7,7,6,5,4,4,6,6,5,7,6,6,average
+E02006366,Mole Valley 005,Fetcham,5,6,5,5,4,6,4,4,3,5,8,6,5,6,average
+E02006367,Mole Valley 006,Bookham North,6,6,4,4,4,5,5,6,4,5,6,5,6,6,average
+E02006368,Mole Valley 007,Bookham South,7,5,5,6,4,4,5,5,5,4,7,6,7,5,average
+E02006369,Mole Valley 008,Box Hill & Brockham,8,6,7,8,4,6,6,8,5,6,8,9,8,6,average
+E02006370,Mole Valley 009,Dorking North & Westhumble,8,5,4,5,3,5,5,7,5,7,6,4,8,5,average
+E02006371,Mole Valley 010,Dorking South,9,9,6,9,8,6,6,9,7,10,12,11,9,9,average
+E02006372,Mole Valley 011,Holmwoods,3,4,3,4,3,4,4,4,5,2,6,4,3,4,average
+E02006373,Mole Valley 012,"Westcott, Ockley & Capel",8,6,6,7,7,3,5,6,5,6,6,6,8,6,average
+E02006374,Mole Valley 013,"Charlwood, Newdigate & Beare Green",4,6,5,7,3,5,3,4,5,5,3,3,4,6,average

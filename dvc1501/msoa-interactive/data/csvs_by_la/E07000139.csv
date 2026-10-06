@@ -1,0 +1,40 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02005453,North Kesteven 001,Washingborough & Branston,0,1,0,0,0,0,0,0,2,7,5,5,2,0,covid
+E02005455,North Kesteven 003,"Skellingthorpe, Witham & Bassingham",0,6,1,0,0,0,0,0,2,2,7,3,0,0,covid
+E02005456,North Kesteven 004,Bracebridge Heath & Waddington,0,3,2,0,0,0,0,0,1,2,4,4,0,1,covid
+E02005457,North Kesteven 005,"Metheringham, Nocton & Potterhanworth",0,2,0,0,0,0,0,0,1,3,6,0,0,0,covid
+E02005458,North Kesteven 006,"Navenby, Harmston & Brant Broughton",0,2,0,0,0,0,0,2,0,2,4,4,1,0,covid
+E02005459,North Kesteven 007,Ruskington North & Billinghay,0,1,0,0,0,0,0,0,0,2,6,4,0,0,covid
+E02005460,North Kesteven 008,Ruskington West & Cranwell,0,0,0,0,0,0,0,1,0,1,1,1,0,0,covid
+E02005461,North Kesteven 009,"Ruskington South, Leasingham & Osbournby",0,4,0,0,0,0,0,0,1,3,5,1,1,0,covid
+E02005462,North Kesteven 010,Sleaford East,0,2,1,0,1,0,0,0,2,2,2,2,0,0,covid
+E02005463,North Kesteven 011,Sleaford West,0,1,0,0,0,0,0,0,1,1,4,1,0,0,covid
+E02005464,North Kesteven 012,Heckington,0,5,0,0,0,0,0,1,7,11,3,0,0,0,covid
+E02006866,North Kesteven 013,North Hykeham South,0,1,2,2,0,0,0,0,1,5,2,1,3,0,covid
+E02006867,North Kesteven 014,North Hykeham North,0,1,0,0,0,0,0,1,0,2,7,0,1,0,covid
+E02005453,North Kesteven 001,Washingborough & Branston,10,11,3,8,12,9,12,10,5,10,8,5,7,8,noncovid
+E02005455,North Kesteven 003,"Skellingthorpe, Witham & Bassingham",14,21,17,12,7,9,9,8,12,13,10,10,11,13,noncovid
+E02005456,North Kesteven 004,Bracebridge Heath & Waddington,17,20,10,12,8,16,3,8,8,13,14,7,9,8,noncovid
+E02005457,North Kesteven 005,"Metheringham, Nocton & Potterhanworth",8,4,8,8,19,5,6,6,7,15,4,4,7,10,noncovid
+E02005458,North Kesteven 006,"Navenby, Harmston & Brant Broughton",6,4,11,4,8,6,9,8,3,11,7,12,3,6,noncovid
+E02005459,North Kesteven 007,Ruskington North & Billinghay,5,10,11,9,5,7,8,11,7,11,8,12,8,6,noncovid
+E02005460,North Kesteven 008,Ruskington West & Cranwell,1,3,0,6,2,2,2,1,5,3,1,1,2,4,noncovid
+E02005461,North Kesteven 009,"Ruskington South, Leasingham & Osbournby",9,4,3,5,4,5,12,5,6,5,5,7,6,3,noncovid
+E02005462,North Kesteven 010,Sleaford East,16,13,8,8,12,12,14,7,8,4,6,13,5,8,noncovid
+E02005463,North Kesteven 011,Sleaford West,4,7,6,3,4,6,4,7,4,6,5,6,5,6,noncovid
+E02005464,North Kesteven 012,Heckington,9,14,5,5,3,7,10,19,5,15,7,8,8,8,noncovid
+E02006866,North Kesteven 013,North Hykeham South,6,12,3,6,5,14,7,7,13,8,7,7,9,11,noncovid
+E02006867,North Kesteven 014,North Hykeham North,5,13,9,6,4,6,4,6,6,12,3,9,13,13,noncovid
+E02005453,North Kesteven 001,Washingborough & Branston,9,6,11,6,4,8,8,9,6,11,9,9,9,6,average
+E02005455,North Kesteven 003,"Skellingthorpe, Witham & Bassingham",11,13,9,11,7,8,11,10,10,13,12,13,11,13,average
+E02005456,North Kesteven 004,Bracebridge Heath & Waddington,11,12,8,8,6,8,7,10,11,8,15,9,11,12,average
+E02005457,North Kesteven 005,"Metheringham, Nocton & Potterhanworth",9,10,10,9,7,6,7,8,10,8,10,9,9,10,average
+E02005458,North Kesteven 006,"Navenby, Harmston & Brant Broughton",8,7,7,5,5,5,8,7,9,8,11,10,8,7,average
+E02005459,North Kesteven 007,Ruskington North & Billinghay,9,8,7,6,9,8,8,9,10,7,11,9,9,8,average
+E02005460,North Kesteven 008,Ruskington West & Cranwell,4,2,5,4,2,3,3,3,4,3,3,3,4,2,average
+E02005461,North Kesteven 009,"Ruskington South, Leasingham & Osbournby",8,7,7,6,7,6,5,6,5,7,7,8,8,7,average
+E02005462,North Kesteven 010,Sleaford East,11,7,10,9,6,8,9,9,12,9,13,8,11,7,average
+E02005463,North Kesteven 011,Sleaford West,5,4,6,6,5,6,4,4,4,5,7,6,5,4,average
+E02005464,North Kesteven 012,Heckington,12,10,9,9,12,8,9,7,10,9,11,7,12,10,average
+E02006866,North Kesteven 013,North Hykeham South,8,4,8,7,5,8,7,6,9,7,9,9,8,4,average
+E02006867,North Kesteven 014,North Hykeham North,7,7,9,5,7,6,4,6,10,7,10,7,7,7,average

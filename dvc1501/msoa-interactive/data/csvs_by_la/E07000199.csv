@@ -1,0 +1,31 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02006217,Tamworth 001,Coton Farm & Perry Crofts,1,3,0,1,0,0,0,1,9,6,4,6,1,0,covid
+E02006218,Tamworth 002,Central Tamworth,0,8,3,1,0,1,0,1,2,3,10,4,2,0,covid
+E02006219,Tamworth 003,Amington,0,3,1,0,1,0,0,0,2,0,3,2,0,0,covid
+E02006220,Tamworth 004,Bolehall,0,7,1,0,1,1,0,1,1,2,4,2,1,0,covid
+E02006221,Tamworth 005,Kettlebrook,0,2,1,3,1,0,0,0,1,0,1,0,0,0,covid
+E02006222,Tamworth 006,Belgrave,0,4,1,1,0,0,1,0,1,1,2,6,0,0,covid
+E02006223,Tamworth 007,Glascote Heath,0,4,0,1,0,0,0,0,3,3,4,1,1,0,covid
+E02006224,Tamworth 008,Wilnecote East,0,1,1,1,0,0,1,0,2,0,2,2,0,0,covid
+E02006225,Tamworth 009,Dosthill & Two Gates,0,5,0,1,1,0,0,0,2,0,5,7,1,1,covid
+E02006226,Tamworth 010,Wilnecote West & Hockley,0,5,0,0,0,0,1,0,2,0,6,3,0,0,covid
+E02006217,Tamworth 001,Coton Farm & Perry Crofts,7,18,8,6,13,8,4,12,13,9,11,10,8,9,noncovid
+E02006218,Tamworth 002,Central Tamworth,11,7,5,5,10,3,5,11,11,8,4,6,4,10,noncovid
+E02006219,Tamworth 003,Amington,3,7,4,4,5,4,1,9,2,8,3,3,4,4,noncovid
+E02006220,Tamworth 004,Bolehall,5,9,4,7,6,6,7,2,7,5,5,6,3,4,noncovid
+E02006221,Tamworth 005,Kettlebrook,0,5,1,2,5,3,1,5,3,4,1,1,3,3,noncovid
+E02006222,Tamworth 006,Belgrave,5,10,5,5,4,3,3,10,5,5,12,7,5,4,noncovid
+E02006223,Tamworth 007,Glascote Heath,5,4,1,3,3,4,3,3,4,4,4,4,14,5,noncovid
+E02006224,Tamworth 008,Wilnecote East,2,3,2,2,2,3,1,2,4,2,4,3,3,3,noncovid
+E02006225,Tamworth 009,Dosthill & Two Gates,9,15,4,6,8,7,1,5,5,7,7,3,1,3,noncovid
+E02006226,Tamworth 010,Wilnecote West & Hockley,4,6,5,5,8,5,6,4,5,4,5,3,7,5,noncovid
+E02006217,Tamworth 001,Coton Farm & Perry Crofts,11,10,9,10,9,7,11,10,10,11,15,13,11,10,average
+E02006218,Tamworth 002,Central Tamworth,11,5,11,9,8,8,7,8,9,7,13,5,11,5,average
+E02006219,Tamworth 003,Amington,4,3,3,2,6,4,5,2,4,3,6,4,4,3,average
+E02006220,Tamworth 004,Bolehall,5,4,7,6,4,5,5,5,6,5,5,5,5,4,average
+E02006221,Tamworth 005,Kettlebrook,1,3,3,2,3,2,3,2,3,3,3,3,1,3,average
+E02006222,Tamworth 006,Belgrave,6,5,6,6,6,6,6,6,8,6,8,6,6,5,average
+E02006223,Tamworth 007,Glascote Heath,4,4,4,4,4,4,4,4,4,3,5,5,4,4,average
+E02006224,Tamworth 008,Wilnecote East,2,3,3,2,2,2,2,4,4,3,5,2,2,3,average
+E02006225,Tamworth 009,Dosthill & Two Gates,4,4,6,5,4,4,4,6,4,7,8,5,4,4,average
+E02006226,Tamworth 010,Wilnecote West & Hockley,5,4,7,3,5,4,4,5,6,2,5,5,5,4,average

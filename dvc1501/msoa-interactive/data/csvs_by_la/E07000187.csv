@@ -1,0 +1,43 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02006047,Mendip 001,"Rode, Mells & Woodlands",0,1,0,0,0,0,0,0,0,1,2,2,0,0,covid
+E02006048,Mendip 002,"Stratton, Holcombe & Highbury",0,1,0,0,0,0,0,0,0,1,0,0,1,0,covid
+E02006049,Mendip 003,Frome North,0,0,1,0,0,0,0,0,0,1,0,1,1,0,covid
+E02006050,Mendip 004,Frome North,0,0,0,0,0,0,0,0,0,0,2,1,2,0,covid
+E02006051,Mendip 005,"Draycott, Westbury & Wookey",0,3,0,0,0,0,0,1,0,8,3,1,0,0,covid
+E02006052,Mendip 006,"Oakhill, Horrington & Chewton Mendip",0,2,2,0,0,0,0,0,0,17,9,11,0,0,covid
+E02006053,Mendip 007,Frome South & East,0,0,6,1,0,0,1,0,0,1,0,2,0,0,covid
+E02006054,Mendip 008,Wells Town,0,2,0,1,0,0,1,0,1,0,4,6,0,0,covid
+E02006055,Mendip 009,Shepton Mallet,0,1,0,0,0,0,0,0,0,3,3,1,0,0,covid
+E02006056,Mendip 010,Evercreech & Nunney,0,2,0,1,0,0,0,0,0,0,5,6,0,0,covid
+E02006057,Mendip 011,Glastonbury Town,0,0,0,0,0,0,0,1,1,4,1,0,0,0,covid
+E02006058,Mendip 012,Glastonbury West & Street South,0,1,0,0,0,0,0,0,1,3,10,6,0,0,covid
+E02006059,Mendip 013,"Pilton, Butleigh & Alhampton",0,0,0,0,0,0,0,0,0,1,0,3,0,0,covid
+E02006060,Mendip 014,Street Village,0,1,0,1,0,0,0,0,2,3,4,1,2,0,covid
+E02006047,Mendip 001,"Rode, Mells & Woodlands",4,7,6,5,2,3,7,7,10,7,7,1,7,4,noncovid
+E02006048,Mendip 002,"Stratton, Holcombe & Highbury",5,7,5,7,4,9,3,3,8,6,3,4,4,3,noncovid
+E02006049,Mendip 003,Frome North,2,5,7,5,4,6,9,2,5,6,6,2,5,3,noncovid
+E02006050,Mendip 004,Frome North,14,12,4,6,6,8,10,9,8,8,8,9,7,6,noncovid
+E02006051,Mendip 005,"Draycott, Westbury & Wookey",7,9,4,5,4,8,10,6,8,5,8,5,6,8,noncovid
+E02006052,Mendip 006,"Oakhill, Horrington & Chewton Mendip",9,11,9,9,7,8,8,7,10,11,4,8,9,9,noncovid
+E02006053,Mendip 007,Frome South & East,9,12,7,5,8,6,7,11,8,3,3,10,7,4,noncovid
+E02006054,Mendip 008,Wells Town,5,11,7,16,8,8,13,12,9,9,11,4,15,12,noncovid
+E02006055,Mendip 009,Shepton Mallet,8,9,6,7,6,5,9,12,5,6,4,4,6,11,noncovid
+E02006056,Mendip 010,Evercreech & Nunney,4,9,5,14,10,5,4,8,3,4,5,5,5,9,noncovid
+E02006057,Mendip 011,Glastonbury Town,15,9,9,10,9,5,13,9,5,13,5,7,7,10,noncovid
+E02006058,Mendip 012,Glastonbury West & Street South,5,11,4,5,6,5,8,1,6,8,4,2,7,4,noncovid
+E02006059,Mendip 013,"Pilton, Butleigh & Alhampton",1,2,4,7,7,4,6,3,6,4,6,11,5,3,noncovid
+E02006060,Mendip 014,Street Village,7,8,2,9,11,5,11,9,8,6,6,6,11,8,noncovid
+E02006047,Mendip 001,"Rode, Mells & Woodlands",5,4,5,4,4,5,6,6,7,6,7,6,5,4,average
+E02006048,Mendip 002,"Stratton, Holcombe & Highbury",6,6,5,6,5,8,5,6,5,5,6,6,6,6,average
+E02006049,Mendip 003,Frome North,3,4,5,5,5,4,4,6,6,6,6,7,3,4,average
+E02006050,Mendip 004,Frome North,12,9,9,8,8,9,7,11,11,8,11,10,12,9,average
+E02006051,Mendip 005,"Draycott, Westbury & Wookey",9,7,7,6,8,5,8,8,6,7,8,9,9,7,average
+E02006052,Mendip 006,"Oakhill, Horrington & Chewton Mendip",10,11,10,10,11,9,7,10,8,9,11,12,10,11,average
+E02006053,Mendip 007,Frome South & East,8,6,8,4,6,7,7,8,4,7,9,8,8,6,average
+E02006054,Mendip 008,Wells Town,7,8,9,7,8,7,8,11,8,8,7,10,7,8,average
+E02006055,Mendip 009,Shepton Mallet,5,7,5,5,5,5,6,6,5,6,8,9,5,7,average
+E02006056,Mendip 010,Evercreech & Nunney,8,7,7,6,6,5,5,6,5,7,8,4,8,7,average
+E02006057,Mendip 011,Glastonbury Town,9,6,8,8,8,7,6,7,7,7,11,10,9,6,average
+E02006058,Mendip 012,Glastonbury West & Street South,5,6,8,6,6,7,6,6,7,6,9,7,5,6,average
+E02006059,Mendip 013,"Pilton, Butleigh & Alhampton",6,7,6,5,6,6,4,8,4,4,7,4,6,7,average
+E02006060,Mendip 014,Street Village,8,9,7,7,9,6,6,8,10,7,11,9,8,9,average

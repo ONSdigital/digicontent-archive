@@ -1,0 +1,43 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02005850,Broxtowe 001,Eastwood Hall & Brinsley,0,6,11,0,0,0,0,1,8,2,4,2,1,1,covid
+E02005851,Broxtowe 002,Eastwood Town,0,5,0,0,0,0,0,1,3,1,8,3,0,0,covid
+E02005852,Broxtowe 003,Eastwood East,1,2,2,0,0,0,0,0,1,0,0,3,1,1,covid
+E02005853,Broxtowe 004,Kimberley North & Watnall,0,3,1,0,0,0,0,0,0,1,0,4,1,0,covid
+E02005856,Broxtowe 007,Bramcote,1,5,0,0,1,0,0,0,1,3,3,4,0,1,covid
+E02005857,Broxtowe 008,Stapleford North,0,1,1,0,0,0,0,0,2,2,2,1,1,0,covid
+E02005858,Broxtowe 009,Beeston North,0,1,0,0,0,0,0,0,0,2,0,2,0,0,covid
+E02005859,Broxtowe 010,Stapleford South,0,0,0,1,0,0,0,0,1,4,1,6,0,1,covid
+E02005860,Broxtowe 011,Beeston Town,1,10,4,1,1,0,0,0,0,4,14,5,0,0,covid
+E02005861,Broxtowe 012,Beeston Rylands,0,3,0,0,0,0,0,0,2,2,1,1,0,1,covid
+E02005862,Broxtowe 013,Chilwell West,0,1,1,1,0,0,0,0,4,11,2,4,1,1,covid
+E02005863,Broxtowe 014,Attenborough & Chilwell East,0,3,4,0,1,0,0,1,0,0,1,1,1,0,covid
+E02005864,Broxtowe 015,Toton,0,2,0,1,0,0,0,1,1,1,4,3,0,0,covid
+E02006906,Broxtowe 016,"Kimberley South, Trowell & Awsworth",1,9,2,1,1,0,0,1,4,6,3,4,1,1,covid
+E02005850,Broxtowe 001,Eastwood Hall & Brinsley,10,5,6,11,7,7,9,6,8,3,8,8,9,7,noncovid
+E02005851,Broxtowe 002,Eastwood Town,7,7,6,3,6,3,6,10,6,4,2,7,5,9,noncovid
+E02005852,Broxtowe 003,Eastwood East,10,9,7,7,9,7,9,8,8,3,2,5,5,5,noncovid
+E02005853,Broxtowe 004,Kimberley North & Watnall,8,10,3,6,9,6,7,5,4,5,9,8,7,5,noncovid
+E02005856,Broxtowe 007,Bramcote,9,11,9,5,5,10,6,10,2,6,8,7,7,8,noncovid
+E02005857,Broxtowe 008,Stapleford North,1,3,2,3,3,4,5,5,2,3,3,4,3,4,noncovid
+E02005858,Broxtowe 009,Beeston North,5,3,5,1,4,3,4,4,2,4,7,5,5,3,noncovid
+E02005859,Broxtowe 010,Stapleford South,8,4,5,6,11,9,11,6,6,6,2,8,9,5,noncovid
+E02005860,Broxtowe 011,Beeston Town,10,18,8,6,5,7,11,9,10,6,13,14,11,7,noncovid
+E02005861,Broxtowe 012,Beeston Rylands,6,4,5,2,3,6,4,3,1,5,2,5,3,6,noncovid
+E02005862,Broxtowe 013,Chilwell West,7,7,10,6,6,6,7,5,12,5,4,8,5,4,noncovid
+E02005863,Broxtowe 014,Attenborough & Chilwell East,7,16,7,7,9,7,10,11,13,7,12,8,7,6,noncovid
+E02005864,Broxtowe 015,Toton,4,7,2,6,8,1,6,4,6,5,3,7,5,1,noncovid
+E02006906,Broxtowe 016,"Kimberley South, Trowell & Awsworth",9,14,9,5,7,7,6,12,7,6,12,9,9,7,noncovid
+E02005850,Broxtowe 001,Eastwood Hall & Brinsley,9,8,8,7,8,9,8,9,7,7,15,10,9,8,average
+E02005851,Broxtowe 002,Eastwood Town,4,6,6,7,4,5,5,5,4,6,8,6,4,6,average
+E02005852,Broxtowe 003,Eastwood East,6,6,7,7,4,6,6,7,7,7,7,7,6,6,average
+E02005853,Broxtowe 004,Kimberley North & Watnall,9,8,8,7,5,6,4,5,8,5,8,7,9,8,average
+E02005856,Broxtowe 007,Bramcote,9,6,7,7,5,5,6,5,7,6,10,7,9,6,average
+E02005857,Broxtowe 008,Stapleford North,4,3,4,4,2,4,4,5,4,3,5,4,4,3,average
+E02005858,Broxtowe 009,Beeston North,6,3,4,2,5,4,4,5,4,3,3,5,6,3,average
+E02005859,Broxtowe 010,Stapleford South,9,6,5,5,5,6,5,4,7,6,8,6,9,6,average
+E02005860,Broxtowe 011,Beeston Town,12,9,10,11,8,7,10,8,11,9,14,10,12,9,average
+E02005861,Broxtowe 012,Beeston Rylands,5,4,3,4,4,5,5,5,5,6,7,7,5,4,average
+E02005862,Broxtowe 013,Chilwell West,6,6,5,6,7,5,5,7,6,7,11,5,6,6,average
+E02005863,Broxtowe 014,Attenborough & Chilwell East,12,9,11,10,10,7,7,10,10,10,16,11,12,9,average
+E02005864,Broxtowe 015,Toton,7,5,5,4,4,4,5,6,7,5,6,5,7,5,average
+E02006906,Broxtowe 016,"Kimberley South, Trowell & Awsworth",14,9,8,10,9,9,10,10,11,9,17,9,14,9,average

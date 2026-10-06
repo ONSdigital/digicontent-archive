@@ -1,0 +1,82 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02001682,Gateshead 001,Ryton,0,2,2,0,0,0,0,0,4,0,1,4,0,0,covid
+E02001683,Gateshead 002,Crawcrook & Greenside,0,20,11,0,0,0,0,0,4,1,1,2,0,0,covid
+E02001684,Gateshead 003,"Pelaw, Felling Shore & Bill Quay",0,6,3,0,0,0,0,2,3,0,0,0,0,0,covid
+E02001685,Gateshead 004,Blaydon South,0,5,0,1,0,0,0,1,4,1,1,0,0,0,covid
+E02001686,Gateshead 005,Blaydon North & Winlaton Mill,0,5,2,1,0,0,4,0,0,0,0,2,0,0,covid
+E02001688,Gateshead 007,Dunston & Teams,0,11,2,1,0,0,0,0,1,0,4,9,0,0,covid
+E02001689,Gateshead 008,Bensham North,1,6,5,1,1,0,0,12,0,0,4,1,1,0,covid
+E02001690,Gateshead 009,Swalwell,0,2,1,0,0,0,0,0,1,1,2,0,0,0,covid
+E02001691,Gateshead 010,Bensham South & Saltwell,0,1,3,0,0,0,0,2,2,0,2,1,2,0,covid
+E02001692,Gateshead 011,Mount Pleasant & Deckham East,0,4,0,0,0,0,0,0,0,0,1,1,0,0,covid
+E02001693,Gateshead 012,Felling South,0,4,1,0,0,0,0,0,1,1,2,1,1,1,covid
+E02001694,Gateshead 013,Dunston Hill,0,1,0,0,0,0,0,1,0,0,2,2,0,0,covid
+E02001695,Gateshead 014,Wardley,0,4,0,0,0,0,0,0,2,0,0,1,2,0,covid
+E02001696,Gateshead 015,Heworth,0,5,3,1,0,0,1,0,5,0,1,2,0,0,covid
+E02001697,Gateshead 016,Low Fell East,0,12,5,1,0,0,0,2,1,2,1,1,0,0,covid
+E02001698,Gateshead 017,Whickham,0,7,1,0,0,0,0,0,0,1,1,0,0,0,covid
+E02001699,Gateshead 018,Windy Nook & Whitehills,0,2,1,0,0,0,0,1,1,2,1,0,1,0,covid
+E02001700,Gateshead 019,Sunniside & Lobley Hill,0,2,0,0,0,0,1,0,3,0,6,4,1,0,covid
+E02001701,Gateshead 020,Low Fell West,0,4,6,1,0,0,0,1,5,2,2,0,0,0,covid
+E02001702,Gateshead 021,Beacon Lough & Wrekenton,0,2,2,0,0,0,0,2,4,1,2,1,1,0,covid
+E02001703,Gateshead 022,Rowlands Gill & Lockhaugh,0,4,0,0,0,0,0,0,1,0,1,3,1,0,covid
+E02001704,Gateshead 023,Easedale Gardens,0,1,3,0,0,0,0,0,2,1,1,0,0,0,covid
+E02001705,Gateshead 024,Chopwell & High Spen,0,5,2,0,0,0,1,0,0,4,3,3,1,0,covid
+E02001706,Gateshead 025,Birtley North & Kibblesworth,0,9,0,1,0,0,0,0,0,0,3,0,0,0,covid
+E02001707,Gateshead 026,Birtley South,0,12,4,0,0,0,0,1,4,0,6,3,0,0,covid
+E02006841,Gateshead 027,Gateshead Town,0,3,2,0,0,0,0,12,3,2,2,1,0,0,covid
+E02006842,Gateshead 028,Gateshead South,0,11,6,2,0,0,0,0,0,0,0,1,0,0,covid
+E02001682,Gateshead 001,Ryton,3,12,6,4,6,3,9,8,7,8,6,7,9,8,noncovid
+E02001683,Gateshead 002,Crawcrook & Greenside,8,7,6,9,9,5,7,6,8,6,11,7,7,4,noncovid
+E02001684,Gateshead 003,"Pelaw, Felling Shore & Bill Quay",7,8,3,8,8,4,3,7,7,3,3,1,5,4,noncovid
+E02001685,Gateshead 004,Blaydon South,10,11,4,8,5,8,6,7,8,10,15,3,6,4,noncovid
+E02001686,Gateshead 005,Blaydon North & Winlaton Mill,10,11,7,6,4,4,6,6,6,7,5,8,4,1,noncovid
+E02001688,Gateshead 007,Dunston & Teams,8,10,5,3,4,5,10,6,6,2,6,11,0,4,noncovid
+E02001689,Gateshead 008,Bensham North,11,12,7,6,6,11,8,2,4,8,5,3,6,10,noncovid
+E02001690,Gateshead 009,Swalwell,4,5,6,5,7,2,8,5,9,5,12,7,9,4,noncovid
+E02001691,Gateshead 010,Bensham South & Saltwell,6,4,2,2,3,4,1,3,6,4,3,2,5,3,noncovid
+E02001692,Gateshead 011,Mount Pleasant & Deckham East,3,5,2,4,3,2,5,2,2,4,9,6,3,3,noncovid
+E02001693,Gateshead 012,Felling South,4,6,3,6,4,6,4,3,5,6,3,4,8,3,noncovid
+E02001694,Gateshead 013,Dunston Hill,6,5,4,7,5,7,2,5,2,4,5,4,5,7,noncovid
+E02001695,Gateshead 014,Wardley,5,2,8,7,5,5,6,1,2,8,6,4,4,4,noncovid
+E02001696,Gateshead 015,Heworth,6,11,12,9,7,3,4,6,13,10,12,7,9,10,noncovid
+E02001697,Gateshead 016,Low Fell East,10,14,2,5,7,9,5,2,8,6,12,10,6,6,noncovid
+E02001698,Gateshead 017,Whickham,4,9,5,8,6,5,17,10,4,6,6,5,14,7,noncovid
+E02001699,Gateshead 018,Windy Nook & Whitehills,4,7,4,3,6,3,5,9,2,5,7,2,9,3,noncovid
+E02001700,Gateshead 019,Sunniside & Lobley Hill,6,8,10,10,8,12,6,12,4,10,4,2,7,8,noncovid
+E02001701,Gateshead 020,Low Fell West,11,6,4,8,4,7,0,9,11,9,4,5,10,7,noncovid
+E02001702,Gateshead 021,Beacon Lough & Wrekenton,11,9,7,9,8,5,8,11,10,5,11,6,9,8,noncovid
+E02001703,Gateshead 022,Rowlands Gill & Lockhaugh,5,1,5,5,9,3,5,3,5,2,5,7,5,5,noncovid
+E02001704,Gateshead 023,Easedale Gardens,8,3,6,5,6,8,8,5,6,7,9,4,5,8,noncovid
+E02001705,Gateshead 024,Chopwell & High Spen,8,11,5,7,7,11,8,6,6,4,3,10,8,4,noncovid
+E02001706,Gateshead 025,Birtley North & Kibblesworth,5,6,6,1,8,10,3,6,8,4,7,5,5,2,noncovid
+E02001707,Gateshead 026,Birtley South,14,16,12,6,7,11,13,9,7,12,10,10,9,10,noncovid
+E02006841,Gateshead 027,Gateshead Town,12,12,7,3,6,7,9,11,6,4,10,7,9,9,noncovid
+E02006842,Gateshead 028,Gateshead South,8,10,6,5,6,1,6,6,6,11,7,6,3,5,noncovid
+E02001682,Gateshead 001,Ryton,9,7,7,7,8,6,6,8,6,8,6,5,9,7,average
+E02001683,Gateshead 002,Crawcrook & Greenside,6,8,6,8,5,7,7,10,9,9,10,8,6,8,average
+E02001684,Gateshead 003,"Pelaw, Felling Shore & Bill Quay",8,7,6,8,6,6,7,5,8,8,7,8,8,7,average
+E02001685,Gateshead 004,Blaydon South,7,7,6,6,7,6,6,7,7,7,7,4,7,7,average
+E02001686,Gateshead 005,Blaydon North & Winlaton Mill,6,8,6,8,5,5,7,7,8,8,10,6,6,8,average
+E02001688,Gateshead 007,Dunston & Teams,8,5,7,4,8,6,6,6,6,7,9,6,8,5,average
+E02001689,Gateshead 008,Bensham North,9,8,9,9,8,9,10,8,11,13,14,12,9,8,average
+E02001690,Gateshead 009,Swalwell,8,10,6,6,8,7,6,8,7,9,8,9,8,10,average
+E02001691,Gateshead 010,Bensham South & Saltwell,5,5,3,4,5,3,5,6,4,4,6,7,5,5,average
+E02001692,Gateshead 011,Mount Pleasant & Deckham East,5,6,5,3,5,4,4,4,8,6,6,5,5,6,average
+E02001693,Gateshead 012,Felling South,7,5,6,4,6,5,5,7,6,6,8,7,7,5,average
+E02001694,Gateshead 013,Dunston Hill,4,5,3,3,5,5,4,7,5,6,6,5,4,5,average
+E02001695,Gateshead 014,Wardley,3,3,5,3,4,4,3,3,4,3,5,3,3,3,average
+E02001696,Gateshead 015,Heworth,9,7,7,10,9,6,9,9,8,8,11,11,9,7,average
+E02001697,Gateshead 016,Low Fell East,9,9,5,9,6,9,7,8,8,9,11,8,9,9,average
+E02001698,Gateshead 017,Whickham,8,7,6,7,6,6,7,7,5,9,9,7,8,7,average
+E02001699,Gateshead 018,Windy Nook & Whitehills,5,7,7,7,5,6,7,7,6,6,7,6,5,7,average
+E02001700,Gateshead 019,Sunniside & Lobley Hill,6,6,7,5,7,6,8,6,6,8,12,6,6,6,average
+E02001701,Gateshead 020,Low Fell West,6,4,7,6,6,5,8,9,7,9,10,9,6,4,average
+E02001702,Gateshead 021,Beacon Lough & Wrekenton,9,6,6,6,6,7,6,6,6,8,7,7,9,6,average
+E02001703,Gateshead 022,Rowlands Gill & Lockhaugh,6,5,5,6,5,4,5,5,6,6,7,4,6,5,average
+E02001704,Gateshead 023,Easedale Gardens,8,7,6,6,7,6,6,6,5,6,10,7,8,7,average
+E02001705,Gateshead 024,Chopwell & High Spen,8,6,8,5,7,8,5,9,7,9,8,8,8,6,average
+E02001706,Gateshead 025,Birtley North & Kibblesworth,7,7,5,7,6,8,5,5,6,7,8,6,7,7,average
+E02001707,Gateshead 026,Birtley South,12,12,9,10,9,11,8,11,12,10,12,10,12,12,average
+E02006841,Gateshead 027,Gateshead Town,6,8,5,5,6,4,7,7,5,7,7,7,6,8,average
+E02006842,Gateshead 028,Gateshead South,7,6,7,5,4,3,4,5,7,8,5,6,7,6,average

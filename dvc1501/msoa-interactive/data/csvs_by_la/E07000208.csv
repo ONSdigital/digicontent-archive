@@ -1,0 +1,28 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02006335,Epsom and Ewell 001,Worcester Park West,0,3,1,0,0,0,0,1,2,4,6,2,2,0,covid
+E02006336,Epsom and Ewell 002,Ruxley Lane,0,2,0,0,0,0,0,0,0,0,3,1,1,0,covid
+E02006337,Epsom and Ewell 003,Stoneleigh & Auriol,0,5,1,0,0,0,0,0,0,1,5,7,0,0,covid
+E02006338,Epsom and Ewell 004,West Ewell,0,1,1,0,0,0,0,0,0,1,9,4,1,0,covid
+E02006339,Epsom and Ewell 005,Horton & Manor Park,0,15,0,0,0,0,1,0,0,2,6,3,1,0,covid
+E02006341,Epsom and Ewell 007,Epsom North,0,9,3,2,0,0,0,1,1,4,11,4,0,0,covid
+E02006342,Epsom and Ewell 008,Epsom Town,0,2,1,1,0,0,0,0,0,3,8,8,2,1,covid
+E02006343,Epsom and Ewell 009,Epsom Downs & Common,0,5,4,0,0,0,0,0,1,1,3,6,0,0,covid
+E02006837,Epsom and Ewell 010,Ewell East,2,16,1,2,0,0,0,2,0,4,9,8,0,2,covid
+E02006335,Epsom and Ewell 001,Worcester Park West,4,8,3,9,5,2,7,6,2,3,2,2,6,5,noncovid
+E02006336,Epsom and Ewell 002,Ruxley Lane,4,1,4,1,1,5,4,2,5,4,3,2,4,5,noncovid
+E02006337,Epsom and Ewell 003,Stoneleigh & Auriol,5,7,3,2,6,8,6,3,1,9,4,4,3,5,noncovid
+E02006338,Epsom and Ewell 004,West Ewell,2,4,4,6,2,2,4,3,4,4,6,6,7,1,noncovid
+E02006339,Epsom and Ewell 005,Horton & Manor Park,1,5,3,4,1,4,8,5,4,2,2,7,4,8,noncovid
+E02006341,Epsom and Ewell 007,Epsom North,6,11,7,1,4,6,6,5,7,6,9,6,6,7,noncovid
+E02006342,Epsom and Ewell 008,Epsom Town,11,16,6,6,7,5,5,7,5,9,15,9,9,7,noncovid
+E02006343,Epsom and Ewell 009,Epsom Downs & Common,6,6,3,4,1,3,5,8,7,6,2,3,3,6,noncovid
+E02006837,Epsom and Ewell 010,Ewell East,13,20,9,7,13,6,9,10,7,7,7,8,9,5,noncovid
+E02006335,Epsom and Ewell 001,Worcester Park West,5,5,5,5,5,4,4,6,4,5,5,6,5,5,average
+E02006336,Epsom and Ewell 002,Ruxley Lane,5,3,4,3,3,4,4,5,4,4,4,3,5,3,average
+E02006337,Epsom and Ewell 003,Stoneleigh & Auriol,6,4,5,4,4,4,4,4,6,6,5,4,6,4,average
+E02006338,Epsom and Ewell 004,West Ewell,6,4,2,2,5,2,3,3,4,4,5,4,6,4,average
+E02006339,Epsom and Ewell 005,Horton & Manor Park,3,3,3,4,3,3,4,3,3,3,5,3,3,3,average
+E02006341,Epsom and Ewell 007,Epsom North,9,5,7,7,5,5,6,3,5,5,9,8,9,5,average
+E02006342,Epsom and Ewell 008,Epsom Town,8,7,5,8,7,7,7,6,8,7,10,7,8,7,average
+E02006343,Epsom and Ewell 009,Epsom Downs & Common,5,6,4,4,5,4,5,6,5,7,10,7,5,6,average
+E02006837,Epsom and Ewell 010,Ewell East,10,11,8,8,10,7,9,11,8,10,11,11,10,11,average

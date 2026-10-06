@@ -1,0 +1,115 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02002868,Nottingham 001,Rise Park & Top Valley West,0,8,1,0,0,0,0,0,1,1,2,1,2,0,covid
+E02002869,Nottingham 002,Bulwell North,0,2,0,0,0,0,0,1,1,1,2,8,1,0,covid
+E02002871,Nottingham 004,Highbury Vale,0,2,6,1,1,0,0,2,2,1,1,0,3,1,covid
+E02002872,Nottingham 005,Bulwell West,0,3,3,2,0,0,0,1,1,0,4,4,2,0,covid
+E02002873,Nottingham 006,Bestwood,0,7,1,0,0,0,2,0,1,1,2,3,1,1,covid
+E02002874,Nottingham 007,North Sherwood,0,2,0,0,0,0,0,1,5,1,3,1,0,0,covid
+E02002875,Nottingham 008,Basford Park Lane,0,6,0,0,0,0,0,1,1,2,2,2,0,0,covid
+E02002876,Nottingham 009,Old Basford,0,4,5,0,0,0,0,1,1,2,0,5,2,0,covid
+E02002877,Nottingham 010,Sherwood Vale,0,2,1,1,0,0,0,0,2,2,4,3,1,0,covid
+E02002878,Nottingham 011,Broxtowe & Cinderhill,0,2,0,0,0,0,0,0,2,1,4,1,0,0,covid
+E02002879,Nottingham 012,New Basford,0,1,0,1,0,0,0,1,2,1,1,0,1,0,covid
+E02002880,Nottingham 013,Aspley,0,5,1,0,0,0,0,2,2,0,1,4,2,0,covid
+E02002881,Nottingham 014,Bilborough North,0,6,2,0,0,0,0,0,3,5,3,1,0,0,covid
+E02002882,Nottingham 015,Mapperley Park,1,4,5,2,0,0,0,0,6,3,0,8,3,0,covid
+E02002883,Nottingham 016,Thorneywood,0,7,0,0,0,0,0,1,2,5,3,3,0,0,covid
+E02002884,Nottingham 017,Forest Fields,0,1,1,0,0,0,0,0,8,10,3,0,0,0,covid
+E02002885,Nottingham 018,Hyson Green,1,2,0,1,0,0,0,0,3,2,3,4,0,0,covid
+E02002886,Nottingham 019,Bobbers Mill,0,4,0,0,0,0,0,3,2,1,2,4,1,0,covid
+E02002887,Nottingham 020,Beechdale,0,6,13,1,0,0,0,4,7,4,3,5,4,1,covid
+E02002888,Nottingham 021,St Ann's East,0,2,2,1,1,0,0,3,4,3,3,1,2,1,covid
+E02002889,Nottingham 022,"Arboretum, Forest & Trent University",0,0,1,0,0,0,0,0,0,0,0,1,2,0,covid
+E02002890,Nottingham 023,St Ann's West,0,7,0,1,0,0,0,1,2,0,1,1,0,0,covid
+E02002891,Nottingham 024,Bakersfield,0,3,0,0,0,0,0,1,2,0,3,4,2,0,covid
+E02002892,Nottingham 025,Bilborough South,0,3,0,1,0,0,0,1,3,3,6,1,1,0,covid
+E02002893,Nottingham 026,Radford,0,2,1,0,0,0,0,0,2,0,1,3,2,1,covid
+E02002894,Nottingham 027,Wollaton Park,0,6,3,0,0,0,0,1,4,1,2,2,2,1,covid
+E02002895,Nottingham 028,The Park & Castle,0,1,0,0,0,0,0,0,0,0,0,0,0,0,covid
+E02002896,Nottingham 029,Sneinton,2,1,1,0,0,0,0,0,1,1,3,0,1,1,covid
+E02002897,Nottingham 030,Wollaton Vale,0,1,1,2,0,0,0,2,1,3,2,1,1,0,covid
+E02002898,Nottingham 031,Lenton & Dunkirk,0,1,0,0,0,0,0,0,1,1,1,0,0,0,covid
+E02002899,Nottingham 032,"University Park, Lenton Abbey & Jubilee Campus",0,0,0,0,0,0,0,1,0,1,0,1,0,1,covid
+E02002901,Nottingham 034,Wilford & Silverdale,0,2,0,1,0,0,0,0,2,2,5,2,1,0,covid
+E02002902,Nottingham 035,Clifton North,1,5,9,1,0,0,0,1,5,4,2,6,2,0,covid
+E02002903,Nottingham 036,Clifton West,0,4,1,0,0,0,0,2,1,3,4,1,2,0,covid
+E02002904,Nottingham 037,Clifton South,0,13,0,0,0,0,0,0,2,1,1,2,1,0,covid
+E02006834,Nottingham 038,Top Valley East,0,3,3,1,1,0,0,1,1,0,7,4,0,2,covid
+E02006904,Nottingham 039,City Centre & Trent Bridge,0,1,0,0,0,0,0,0,0,0,1,1,1,0,covid
+E02006905,Nottingham 040,Meadows,1,2,0,1,0,1,0,0,2,1,0,2,1,1,covid
+E02002868,Nottingham 001,Rise Park & Top Valley West,5,6,3,7,2,2,3,6,3,5,3,1,4,5,noncovid
+E02002869,Nottingham 002,Bulwell North,8,7,6,5,7,10,6,6,5,8,4,11,10,5,noncovid
+E02002871,Nottingham 004,Highbury Vale,11,12,7,11,6,4,3,3,7,6,4,9,9,6,noncovid
+E02002872,Nottingham 005,Bulwell West,8,9,7,5,8,2,5,8,8,7,5,10,7,5,noncovid
+E02002873,Nottingham 006,Bestwood,4,4,7,6,8,4,9,3,3,7,6,2,4,5,noncovid
+E02002874,Nottingham 007,North Sherwood,7,6,1,6,4,6,1,5,7,1,4,8,6,4,noncovid
+E02002875,Nottingham 008,Basford Park Lane,10,4,8,5,7,6,8,6,7,4,6,8,3,7,noncovid
+E02002876,Nottingham 009,Old Basford,3,4,4,5,3,5,8,5,9,6,6,4,7,5,noncovid
+E02002877,Nottingham 010,Sherwood Vale,15,14,7,5,5,4,4,7,5,7,5,2,10,4,noncovid
+E02002878,Nottingham 011,Broxtowe & Cinderhill,2,7,3,6,7,2,5,2,1,5,4,1,5,3,noncovid
+E02002879,Nottingham 012,New Basford,5,3,5,7,0,0,4,3,5,2,3,2,7,6,noncovid
+E02002880,Nottingham 013,Aspley,8,4,4,4,5,4,4,4,2,4,6,2,7,1,noncovid
+E02002881,Nottingham 014,Bilborough North,5,6,2,7,5,4,3,6,9,5,6,5,13,6,noncovid
+E02002882,Nottingham 015,Mapperley Park,6,9,3,7,6,3,1,5,5,5,6,10,6,6,noncovid
+E02002883,Nottingham 016,Thorneywood,2,6,4,4,5,2,5,3,5,7,3,2,7,7,noncovid
+E02002884,Nottingham 017,Forest Fields,7,4,6,2,9,3,2,4,1,4,3,4,12,3,noncovid
+E02002885,Nottingham 018,Hyson Green,1,3,5,3,4,0,0,5,5,6,1,2,5,2,noncovid
+E02002886,Nottingham 019,Bobbers Mill,7,6,10,9,3,6,6,4,7,3,6,5,10,7,noncovid
+E02002887,Nottingham 020,Beechdale,12,14,8,1,9,8,14,7,10,8,12,4,15,11,noncovid
+E02002888,Nottingham 021,St Ann's East,5,6,1,2,2,4,5,4,4,4,2,5,7,2,noncovid
+E02002889,Nottingham 022,"Arboretum, Forest & Trent University",2,7,3,3,3,0,2,2,3,7,3,1,1,3,noncovid
+E02002890,Nottingham 023,St Ann's West,6,4,5,3,6,6,6,5,4,6,4,8,5,10,noncovid
+E02002891,Nottingham 024,Bakersfield,5,4,3,6,5,1,6,6,4,5,8,11,8,6,noncovid
+E02002892,Nottingham 025,Bilborough South,7,8,6,3,6,3,6,8,8,8,4,1,3,0,noncovid
+E02002893,Nottingham 026,Radford,3,2,1,6,1,1,5,5,4,6,1,7,5,3,noncovid
+E02002894,Nottingham 027,Wollaton Park,6,9,5,5,9,3,7,5,8,6,7,4,6,4,noncovid
+E02002895,Nottingham 028,The Park & Castle,2,1,3,2,2,1,2,0,0,2,5,3,3,1,noncovid
+E02002896,Nottingham 029,Sneinton,6,4,6,4,2,2,3,6,5,4,2,2,5,5,noncovid
+E02002897,Nottingham 030,Wollaton Vale,9,5,5,4,3,2,9,5,9,7,11,5,8,9,noncovid
+E02002898,Nottingham 031,Lenton & Dunkirk,0,2,2,3,3,2,0,1,1,4,2,1,2,1,noncovid
+E02002899,Nottingham 032,"University Park, Lenton Abbey & Jubilee Campus",6,4,5,2,3,5,4,2,2,6,3,3,2,5,noncovid
+E02002901,Nottingham 034,Wilford & Silverdale,7,6,0,5,5,5,6,9,6,5,3,12,6,9,noncovid
+E02002902,Nottingham 035,Clifton North,8,10,6,7,8,3,6,9,6,6,5,2,10,12,noncovid
+E02002903,Nottingham 036,Clifton West,9,10,8,6,5,10,4,6,7,4,7,5,6,6,noncovid
+E02002904,Nottingham 037,Clifton South,2,4,4,6,2,10,6,8,4,6,7,5,5,7,noncovid
+E02006834,Nottingham 038,Top Valley East,9,14,5,7,15,6,5,7,7,7,11,7,8,4,noncovid
+E02006904,Nottingham 039,City Centre & Trent Bridge,5,1,1,3,0,1,3,3,1,3,4,2,1,2,noncovid
+E02006905,Nottingham 040,Meadows,4,2,5,3,1,3,2,7,4,3,1,8,8,4,noncovid
+E02002868,Nottingham 001,Rise Park & Top Valley West,4,5,4,5,4,4,3,5,4,5,6,3,4,5,average
+E02002869,Nottingham 002,Bulwell North,9,8,9,7,8,8,5,7,7,6,10,9,9,8,average
+E02002871,Nottingham 004,Highbury Vale,6,6,5,7,7,6,6,7,7,9,8,8,6,6,average
+E02002872,Nottingham 005,Bulwell West,9,7,7,5,8,6,6,6,7,8,9,8,9,7,average
+E02002873,Nottingham 006,Bestwood,7,5,5,5,5,5,5,6,4,8,8,5,7,5,average
+E02002874,Nottingham 007,North Sherwood,7,4,5,7,4,5,5,4,4,6,7,6,7,4,average
+E02002875,Nottingham 008,Basford Park Lane,7,5,4,7,5,5,5,4,7,5,6,4,7,5,average
+E02002876,Nottingham 009,Old Basford,6,6,4,6,4,4,3,2,4,6,7,5,6,6,average
+E02002877,Nottingham 010,Sherwood Vale,9,7,6,6,8,6,7,6,7,7,10,12,9,7,average
+E02002878,Nottingham 011,Broxtowe & Cinderhill,4,5,4,3,3,2,3,4,4,4,3,3,4,5,average
+E02002879,Nottingham 012,New Basford,4,4,4,7,4,4,4,4,4,5,5,4,4,4,average
+E02002880,Nottingham 013,Aspley,4,4,4,5,5,2,3,4,5,3,7,3,4,4,average
+E02002881,Nottingham 014,Bilborough North,8,7,6,6,5,5,6,7,7,7,10,6,8,7,average
+E02002882,Nottingham 015,Mapperley Park,6,8,7,6,6,7,6,9,6,6,10,8,6,8,average
+E02002883,Nottingham 016,Thorneywood,6,4,5,6,3,5,3,6,5,5,8,5,6,4,average
+E02002884,Nottingham 017,Forest Fields,6,3,3,3,4,3,4,2,4,4,5,4,6,3,average
+E02002885,Nottingham 018,Hyson Green,4,3,3,4,4,4,3,3,3,4,2,2,4,3,average
+E02002886,Nottingham 019,Bobbers Mill,6,4,6,6,4,5,4,5,8,5,8,5,6,4,average
+E02002887,Nottingham 020,Beechdale,9,9,7,11,12,8,8,7,11,10,14,13,9,9,average
+E02002888,Nottingham 021,St Ann's East,5,4,3,5,5,4,5,4,5,5,6,3,5,4,average
+E02002889,Nottingham 022,"Arboretum, Forest & Trent University",4,4,4,4,3,3,3,3,2,3,3,3,4,4,average
+E02002890,Nottingham 023,St Ann's West,7,3,5,4,5,4,4,5,4,5,7,7,7,3,average
+E02002891,Nottingham 024,Bakersfield,7,8,6,6,8,3,5,5,6,4,6,8,7,8,average
+E02002892,Nottingham 025,Bilborough South,6,5,4,6,5,5,6,6,4,6,7,5,6,5,average
+E02002893,Nottingham 026,Radford,4,4,4,4,5,4,4,5,4,4,5,4,4,4,average
+E02002894,Nottingham 027,Wollaton Park,4,5,3,4,4,3,4,4,5,5,6,5,4,5,average
+E02002895,Nottingham 028,The Park & Castle,2,1,1,2,1,2,2,1,1,3,2,2,2,1,average
+E02002896,Nottingham 029,Sneinton,4,5,5,6,5,3,5,3,4,5,5,5,4,5,average
+E02002897,Nottingham 030,Wollaton Vale,6,5,6,6,4,6,5,4,8,6,7,5,6,5,average
+E02002898,Nottingham 031,Lenton & Dunkirk,3,3,3,2,3,2,3,2,2,2,4,3,3,3,average
+E02002899,Nottingham 032,"University Park, Lenton Abbey & Jubilee Campus",3,3,3,4,4,2,4,2,3,3,5,2,3,3,average
+E02002901,Nottingham 034,Wilford & Silverdale,6,4,5,6,5,6,4,6,6,5,10,6,6,4,average
+E02002902,Nottingham 035,Clifton North,11,10,9,6,11,5,8,8,9,11,11,9,11,10,average
+E02002903,Nottingham 036,Clifton West,4,6,6,3,6,7,4,5,7,4,8,7,4,6,average
+E02002904,Nottingham 037,Clifton South,8,5,6,8,7,4,6,6,5,5,7,5,8,5,average
+E02006834,Nottingham 038,Top Valley East,10,9,7,5,7,7,7,7,6,7,8,8,10,9,average
+E02006904,Nottingham 039,City Centre & Trent Bridge,2,1,1,2,2,1,2,2,2,3,2,1,2,1,average
+E02006905,Nottingham 040,Meadows,5,5,4,3,7,3,3,6,4,5,5,5,5,5,average

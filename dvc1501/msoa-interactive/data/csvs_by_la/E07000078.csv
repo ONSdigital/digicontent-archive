@@ -1,0 +1,46 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02004600,Cheltenham 001,Swindon Village & Wyman's Brook,0,3,0,0,0,0,0,0,0,1,1,0,0,0,covid
+E02004601,Cheltenham 002,Prestbury & Racecourse,0,3,2,0,0,1,0,0,0,1,2,0,0,0,covid
+E02004602,Cheltenham 003,Springbank,0,5,4,0,0,0,1,0,0,1,4,0,0,0,covid
+E02004603,Cheltenham 004,St Paul's,0,0,0,0,0,0,0,0,0,1,1,0,0,0,covid
+E02004604,Cheltenham 005,Arle & Hester's Way,0,7,1,0,0,1,0,0,0,1,0,4,0,0,covid
+E02004605,Cheltenham 006,Oakley,0,0,1,1,0,0,0,0,0,1,0,0,0,0,covid
+E02004606,Cheltenham 007,Alstone & St Mark's,0,25,6,0,0,0,0,0,1,0,1,0,0,0,covid
+E02004607,Cheltenham 008,Pittville & Fairview,0,13,3,1,0,0,0,1,1,0,3,0,0,0,covid
+E02004608,Cheltenham 009,Lansdown & Montpellier,0,4,2,0,0,0,0,0,1,2,3,2,1,0,covid
+E02004609,Cheltenham 010,Benhall & The Reddings,0,2,0,2,0,0,0,0,2,14,2,1,0,0,covid
+E02004610,Cheltenham 011,The Park & Warden Hill,0,5,0,0,0,0,0,0,0,1,2,1,0,0,covid
+E02004611,Cheltenham 012,Battledown & Charlton Kings,0,8,6,0,0,0,0,0,0,3,0,0,0,0,covid
+E02004612,Cheltenham 013,Hatherley,0,6,1,0,0,0,0,0,0,3,3,2,0,0,covid
+E02004613,Cheltenham 014,Charlton Park,0,2,0,0,0,0,0,0,0,0,11,1,0,0,covid
+E02004614,Cheltenham 015,Leckhampton,0,13,1,0,0,0,0,0,1,2,2,0,1,0,covid
+E02004600,Cheltenham 001,Swindon Village & Wyman's Brook,6,3,4,4,3,2,2,3,6,2,2,2,1,0,noncovid
+E02004601,Cheltenham 002,Prestbury & Racecourse,6,3,6,8,7,7,4,7,7,5,2,7,6,5,noncovid
+E02004602,Cheltenham 003,Springbank,10,9,4,6,2,4,4,8,1,5,8,4,4,3,noncovid
+E02004603,Cheltenham 004,St Paul's,4,3,4,1,1,3,2,3,4,6,2,2,3,7,noncovid
+E02004604,Cheltenham 005,Arle & Hester's Way,4,6,7,8,9,8,10,5,7,10,4,5,5,5,noncovid
+E02004605,Cheltenham 006,Oakley,0,2,3,3,5,5,3,3,4,4,4,2,4,1,noncovid
+E02004606,Cheltenham 007,Alstone & St Mark's,11,21,8,7,8,12,10,4,13,14,11,14,8,12,noncovid
+E02004607,Cheltenham 008,Pittville & Fairview,8,3,4,3,9,5,4,5,8,8,9,10,10,5,noncovid
+E02004608,Cheltenham 009,Lansdown & Montpellier,9,9,6,8,10,17,8,12,12,10,10,10,9,2,noncovid
+E02004609,Cheltenham 010,Benhall & The Reddings,1,4,6,7,7,7,9,11,7,5,5,2,10,6,noncovid
+E02004610,Cheltenham 011,The Park & Warden Hill,9,8,8,5,9,5,5,13,3,5,6,6,5,4,noncovid
+E02004611,Cheltenham 012,Battledown & Charlton Kings,11,5,8,7,6,9,5,10,11,9,10,6,10,8,noncovid
+E02004612,Cheltenham 013,Hatherley,5,6,5,6,6,3,7,9,5,8,6,7,6,6,noncovid
+E02004613,Cheltenham 014,Charlton Park,6,6,1,5,4,8,9,5,6,3,8,8,2,5,noncovid
+E02004614,Cheltenham 015,Leckhampton,11,6,8,6,5,5,6,7,4,4,7,3,3,3,noncovid
+E02004600,Cheltenham 001,Swindon Village & Wyman's Brook,3,4,1,4,3,3,3,3,3,3,4,4,3,4,average
+E02004601,Cheltenham 002,Prestbury & Racecourse,6,6,6,3,6,5,5,5,5,6,8,5,6,6,average
+E02004602,Cheltenham 003,Springbank,7,4,7,7,6,5,5,7,6,5,7,6,7,4,average
+E02004603,Cheltenham 004,St Paul's,5,4,3,3,4,4,3,6,4,4,5,5,5,4,average
+E02004604,Cheltenham 005,Arle & Hester's Way,8,5,6,7,7,7,3,7,7,7,9,8,8,5,average
+E02004605,Cheltenham 006,Oakley,5,4,4,3,5,5,5,4,6,6,4,6,5,4,average
+E02004606,Cheltenham 007,Alstone & St Mark's,8,6,7,6,4,7,4,7,6,8,8,8,8,6,average
+E02004607,Cheltenham 008,Pittville & Fairview,8,8,5,7,6,5,7,7,8,7,9,7,8,8,average
+E02004608,Cheltenham 009,Lansdown & Montpellier,13,12,10,13,14,11,12,13,13,11,14,14,13,12,average
+E02004609,Cheltenham 010,Benhall & The Reddings,6,7,6,5,7,6,3,3,7,6,7,5,6,7,average
+E02004610,Cheltenham 011,The Park & Warden Hill,8,10,6,7,5,6,7,8,8,8,8,7,8,10,average
+E02004611,Cheltenham 012,Battledown & Charlton Kings,10,12,9,7,8,10,7,7,7,12,10,9,10,12,average
+E02004612,Cheltenham 013,Hatherley,6,8,7,8,5,7,5,7,7,6,7,6,6,8,average
+E02004613,Cheltenham 014,Charlton Park,5,5,7,6,6,4,6,6,3,6,8,4,5,5,average
+E02004614,Cheltenham 015,Leckhampton,8,6,7,6,5,4,6,6,4,5,8,8,8,6,average

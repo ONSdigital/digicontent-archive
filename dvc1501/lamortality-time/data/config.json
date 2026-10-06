@@ -1,0 +1,61 @@
+{"ons":{
+"maptitle": "Time series map about life expectancy",
+"varcolour": ["#9ecae1", "#fdd0a2", "#f16913", "#53200a", "#a63603", "#53200a"],
+"varlabels": ["asmr"],
+"timeload": 0,
+"timepoints": ["March 2020",	"April 2020",	"May 2020",	"June 2020",	"July 2020",	"August 2020",	"September 2020",	"October 2020",	"November 2020",	"December 2020",	"January 2021",	"February 2021",	"March 2021", "April 2021"],
+"varunit": ["Age-standardised mortality rate (all deaths)","gello","gggt","tt"],
+"displaydecimals": 0,
+"legenddecimals": 0,
+"dateParse": "%B %Y",
+"dateFormat": "%b %Y",
+"dateFormatTicks": "%b %Y",
+"breaks": [420,1000,1500,2000,3202],
+"dropticks": false,
+"numberBreaks": 4,
+"sourcetext": "Office for National Statistics",
+"chartLabels": ["1", "2", "3", "4"],
+"timelineLabelsDT":["March 2020","April 2021"],
+"average": {
+  "E": ["1005.3",
+    "1859.6",
+    "1064.3",
+    "886.9",
+    "821.1",
+    "746.3",
+    "882.4",
+    "925.8",
+    "1057.4",
+    "1123.6",
+    "1462.0",
+    "1304.5",
+    "966.3",
+    "851.2"
+  ],
+  "W": [
+    "1103.1",
+    "1651.0",
+    "1019.5",
+    "980.9",
+    "895.0",
+    "835.7",
+    "945.1",
+    "1048.7",
+    "1213.8",
+    "1373.9",
+    "1537.2",
+    "1229.0",
+    "1038.1",
+    "920.0"
+  ]
+},
+"averageText": {
+  "E": "England average",
+  "W": "Wales average"
+},
+"keyMargin": {
+  "top": 110,
+  "right": 37,
+  "left": 60
+}
+}}

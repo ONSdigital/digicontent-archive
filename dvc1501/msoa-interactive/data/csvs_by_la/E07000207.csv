@@ -1,0 +1,55 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02006317,Elmbridge 001,West Molesey North,0,3,1,0,0,0,0,0,0,1,2,3,0,0,covid
+E02006318,Elmbridge 002,East Molesey,0,6,0,1,0,0,0,0,0,0,3,2,0,0,covid
+E02006319,Elmbridge 003,West Molesey South,0,10,2,0,0,0,0,0,1,0,3,3,1,0,covid
+E02006320,Elmbridge 004,Walton North & Molesey Heath,1,0,0,0,0,0,0,0,2,0,0,3,0,0,covid
+E02006321,Elmbridge 005,Thames Ditton,0,5,3,3,1,0,0,0,0,0,8,2,1,0,covid
+E02006322,Elmbridge 006,Long Ditton,0,3,0,0,0,0,0,0,1,0,3,2,0,1,covid
+E02006323,Elmbridge 007,Walton Central,0,3,0,1,1,0,0,0,0,0,3,0,1,0,covid
+E02006324,Elmbridge 008,Walton East,0,5,1,0,0,0,0,0,0,0,8,3,0,0,covid
+E02006325,Elmbridge 009,Hinchley Wood & Weston Green,0,2,0,0,0,0,0,0,1,0,0,3,0,0,covid
+E02006326,Elmbridge 010,Walton Hersham Road,0,4,3,1,0,0,0,0,0,0,3,1,0,0,covid
+E02006327,Elmbridge 011,Oatlands,0,3,0,0,0,0,0,0,2,0,8,3,0,0,covid
+E02006328,Elmbridge 012,Weybridge Riverside,1,4,0,0,0,0,0,0,1,1,3,2,0,0,covid
+E02006329,Elmbridge 013,Esher,0,2,1,0,0,0,0,0,0,1,4,3,0,0,covid
+E02006330,Elmbridge 014,Hersham,0,3,2,0,0,0,0,0,2,1,4,2,0,0,covid
+E02006331,Elmbridge 015,Claygate,2,2,0,0,0,0,0,0,1,1,3,2,0,0,covid
+E02006332,Elmbridge 016,Weybridge St George's Hill,0,5,2,2,0,0,0,0,2,1,12,6,0,0,covid
+E02006333,Elmbridge 017,Cobham,0,4,1,2,1,0,0,0,0,1,12,6,1,0,covid
+E02006334,Elmbridge 018,Oxshott & Stoke D'Abernon,0,5,1,1,1,0,0,0,1,0,8,2,0,0,covid
+E02006317,Elmbridge 001,West Molesey North,5,10,5,7,3,2,6,2,3,1,7,3,4,3,noncovid
+E02006318,Elmbridge 002,East Molesey,3,5,4,5,1,1,4,4,3,4,7,7,1,3,noncovid
+E02006319,Elmbridge 003,West Molesey South,7,4,5,7,7,6,4,4,3,4,3,4,5,4,noncovid
+E02006320,Elmbridge 004,Walton North & Molesey Heath,2,0,3,4,4,2,3,5,1,5,3,4,4,2,noncovid
+E02006321,Elmbridge 005,Thames Ditton,6,8,3,3,9,6,8,7,7,6,5,6,9,1,noncovid
+E02006322,Elmbridge 006,Long Ditton,4,4,1,1,4,6,3,4,1,2,5,3,1,1,noncovid
+E02006323,Elmbridge 007,Walton Central,3,6,6,5,2,7,5,2,0,3,3,4,5,6,noncovid
+E02006324,Elmbridge 008,Walton East,5,9,3,5,4,3,5,7,4,5,6,4,9,6,noncovid
+E02006325,Elmbridge 009,Hinchley Wood & Weston Green,5,2,6,5,2,4,3,6,3,5,5,6,5,0,noncovid
+E02006326,Elmbridge 010,Walton Hersham Road,6,3,3,5,2,2,6,7,2,4,3,3,6,9,noncovid
+E02006327,Elmbridge 011,Oatlands,6,2,2,7,4,7,6,1,4,4,6,3,3,6,noncovid
+E02006328,Elmbridge 012,Weybridge Riverside,8,9,7,6,6,6,10,1,9,4,4,3,7,5,noncovid
+E02006329,Elmbridge 013,Esher,6,4,12,2,1,6,6,3,6,9,8,4,9,3,noncovid
+E02006330,Elmbridge 014,Hersham,4,13,9,15,2,5,7,11,6,3,7,9,11,9,noncovid
+E02006331,Elmbridge 015,Claygate,9,5,4,8,6,0,3,4,5,5,3,9,4,5,noncovid
+E02006332,Elmbridge 016,Weybridge St George's Hill,9,16,6,5,8,4,8,2,6,9,1,6,7,7,noncovid
+E02006333,Elmbridge 017,Cobham,5,14,9,10,8,4,7,5,12,12,6,8,5,10,noncovid
+E02006334,Elmbridge 018,Oxshott & Stoke D'Abernon,9,4,5,4,6,4,3,5,5,6,3,4,4,9,noncovid
+E02006317,Elmbridge 001,West Molesey North,5,5,3,5,5,3,5,5,6,5,8,6,5,5,average
+E02006318,Elmbridge 002,East Molesey,4,5,2,5,3,3,5,4,3,4,5,3,4,5,average
+E02006319,Elmbridge 003,West Molesey South,6,4,4,5,5,4,5,4,5,5,7,5,6,4,average
+E02006320,Elmbridge 004,Walton North & Molesey Heath,4,4,4,2,3,3,2,3,3,3,4,4,4,4,average
+E02006321,Elmbridge 005,Thames Ditton,6,5,5,8,3,7,6,6,8,7,8,8,6,5,average
+E02006322,Elmbridge 006,Long Ditton,4,2,3,4,2,1,3,3,3,3,3,3,4,2,average
+E02006323,Elmbridge 007,Walton Central,2,4,4,4,5,5,3,5,5,3,6,5,2,4,average
+E02006324,Elmbridge 008,Walton East,5,4,5,5,5,4,5,4,4,5,7,6,5,4,average
+E02006325,Elmbridge 009,Hinchley Wood & Weston Green,4,4,3,3,3,5,3,7,4,6,6,6,4,4,average
+E02006326,Elmbridge 010,Walton Hersham Road,5,4,5,4,4,4,4,6,5,6,6,3,5,4,average
+E02006327,Elmbridge 011,Oatlands,5,5,3,4,3,3,4,6,4,5,6,5,5,5,average
+E02006328,Elmbridge 012,Weybridge Riverside,6,7,6,5,4,4,5,6,5,7,10,7,6,7,average
+E02006329,Elmbridge 013,Esher,5,5,5,5,3,4,5,5,5,5,4,3,5,5,average
+E02006330,Elmbridge 014,Hersham,8,9,9,8,10,9,10,10,9,9,14,8,8,9,average
+E02006331,Elmbridge 015,Claygate,8,3,5,4,4,4,5,4,4,5,4,4,8,3,average
+E02006332,Elmbridge 016,Weybridge St George's Hill,6,8,6,5,4,6,5,7,7,7,8,7,6,8,average
+E02006333,Elmbridge 017,Cobham,6,5,6,5,7,5,8,6,6,6,9,5,6,5,average
+E02006334,Elmbridge 018,Oxshott & Stoke D'Abernon,6,7,5,5,5,5,8,5,6,5,8,7,6,7,average

@@ -1,0 +1,85 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02000345,Hackney 001,Stamford Hill North,1,6,0,0,0,1,0,1,1,0,3,2,1,0,covid
+E02000346,Hackney 002,Woodberry Down & Manor House,1,3,3,0,0,0,0,0,1,3,7,2,0,0,covid
+E02000347,Hackney 003,Stamford Hill West,0,6,0,0,0,0,0,0,0,1,1,2,0,0,covid
+E02000348,Hackney 004,Stamford Hill South,0,10,1,0,1,0,0,0,1,2,7,5,1,0,covid
+E02000350,Hackney 006,Stoke Newington East & Cazenove,1,9,1,0,0,0,0,0,0,0,2,1,0,0,covid
+E02000351,Hackney 007,Brownswood,0,3,2,0,0,0,0,0,0,2,2,4,1,0,covid
+E02000352,Hackney 008,Clissold North,0,8,2,0,0,1,0,0,1,1,6,5,0,0,covid
+E02000353,Hackney 009,Stoke Newington North,0,5,0,0,0,0,0,0,2,2,2,2,1,1,covid
+E02000354,Hackney 010,Hackney Downs,0,7,0,0,0,0,0,0,0,3,7,4,2,1,covid
+E02000355,Hackney 011,Lower Clapton,3,10,1,0,0,0,0,0,1,0,7,4,1,0,covid
+E02000356,Hackney 012,Clissold South,0,4,0,0,0,0,0,0,0,0,3,1,0,0,covid
+E02000357,Hackney 013,Hackney Marshes,1,5,1,0,0,0,0,0,0,1,7,2,0,0,covid
+E02000358,Hackney 014,Stoke Newington South,0,10,1,0,0,0,0,0,0,0,10,3,2,1,covid
+E02000359,Hackney 015,Homerton North,2,4,0,0,0,0,0,0,0,0,6,2,0,0,covid
+E02000360,Hackney 016,Amhurst Road & Pembury Estate,0,6,0,0,0,0,0,0,1,1,3,3,1,0,covid
+E02000361,Hackney 017,Hackney Central,0,3,0,0,0,0,0,0,0,0,5,0,1,0,covid
+E02000362,Hackney 018,Hackney Wick,0,0,1,0,0,0,0,0,0,0,1,0,0,1,covid
+E02000363,Hackney 019,Homerton South,0,7,4,0,0,0,0,0,0,1,5,2,0,0,covid
+E02000364,Hackney 020,Dalston East,2,4,2,0,0,0,0,0,1,2,4,2,2,0,covid
+E02000365,Hackney 021,Dalston Kingsland & De Beauvoir,0,7,3,0,0,0,0,0,1,0,9,2,0,1,covid
+E02000366,Hackney 022,South Hackney,1,5,0,0,0,0,0,0,1,0,8,3,1,0,covid
+E02000367,Hackney 023,London Fields & Mare Street,0,5,0,0,1,0,0,0,1,0,3,1,0,1,covid
+E02000368,Hackney 024,Haggerston East,0,5,0,1,1,0,0,0,0,3,3,5,0,1,covid
+E02000369,Hackney 025,Haggerston West & Kingsland Basin,2,12,3,0,0,0,0,1,1,1,4,3,0,0,covid
+E02000370,Hackney 026,Hoxton & Wenlock,2,5,1,0,1,0,0,1,0,0,4,1,0,1,covid
+E02000371,Hackney 027,Shoreditch,0,2,1,0,0,0,0,0,0,2,4,2,0,0,covid
+E02006918,Hackney 028,Clapton Leaside,0,6,2,0,0,0,0,0,0,1,3,2,0,0,covid
+E02006921,Hackney 029,Upper Clapton,0,9,0,0,0,0,0,2,0,0,1,1,0,0,covid
+E02000345,Hackney 001,Stamford Hill North,5,3,3,5,4,1,6,3,1,2,7,1,6,1,noncovid
+E02000346,Hackney 002,Woodberry Down & Manor House,2,2,1,3,4,1,2,2,2,4,5,4,4,4,noncovid
+E02000347,Hackney 003,Stamford Hill West,5,4,2,2,3,2,5,6,6,1,2,4,2,4,noncovid
+E02000348,Hackney 004,Stamford Hill South,4,5,3,1,4,4,2,2,2,4,5,1,5,3,noncovid
+E02000350,Hackney 006,Stoke Newington East & Cazenove,4,1,2,2,2,1,2,1,0,0,3,1,2,5,noncovid
+E02000351,Hackney 007,Brownswood,5,3,1,3,2,3,5,1,2,3,4,4,1,3,noncovid
+E02000352,Hackney 008,Clissold North,4,7,2,2,3,1,3,5,3,3,5,6,1,3,noncovid
+E02000353,Hackney 009,Stoke Newington North,0,2,2,3,2,3,2,1,1,3,6,1,4,2,noncovid
+E02000354,Hackney 010,Hackney Downs,4,7,3,3,5,1,4,5,5,2,2,3,4,2,noncovid
+E02000355,Hackney 011,Lower Clapton,2,18,1,3,6,6,5,8,4,2,6,3,7,2,noncovid
+E02000356,Hackney 012,Clissold South,1,3,2,2,1,2,1,3,4,1,3,1,1,4,noncovid
+E02000357,Hackney 013,Hackney Marshes,4,2,3,3,4,1,1,3,1,4,4,3,4,4,noncovid
+E02000358,Hackney 014,Stoke Newington South,3,7,6,4,4,4,2,6,5,6,3,5,6,1,noncovid
+E02000359,Hackney 015,Homerton North,2,5,4,2,3,2,1,2,2,0,1,3,0,3,noncovid
+E02000360,Hackney 016,Amhurst Road & Pembury Estate,8,7,2,3,5,5,12,5,4,6,9,5,2,2,noncovid
+E02000361,Hackney 017,Hackney Central,2,2,3,0,2,1,1,4,2,3,2,8,4,5,noncovid
+E02000362,Hackney 018,Hackney Wick,2,3,1,3,2,2,5,1,0,3,1,3,1,3,noncovid
+E02000363,Hackney 019,Homerton South,10,4,4,4,4,2,5,7,5,6,4,5,2,6,noncovid
+E02000364,Hackney 020,Dalston East,5,2,5,5,0,4,4,8,5,2,6,2,2,5,noncovid
+E02000365,Hackney 021,Dalston Kingsland & De Beauvoir,2,9,1,8,3,1,6,8,6,6,4,7,4,4,noncovid
+E02000366,Hackney 022,South Hackney,7,7,2,2,4,4,4,1,2,5,5,5,4,4,noncovid
+E02000367,Hackney 023,London Fields & Mare Street,8,1,2,3,2,2,5,2,7,6,4,1,1,5,noncovid
+E02000368,Hackney 024,Haggerston East,9,5,3,3,4,4,6,3,2,1,2,3,1,5,noncovid
+E02000369,Hackney 025,Haggerston West & Kingsland Basin,6,4,6,8,4,2,8,1,1,3,4,2,6,1,noncovid
+E02000370,Hackney 026,Hoxton & Wenlock,3,4,3,3,4,2,3,3,3,1,4,7,4,3,noncovid
+E02000371,Hackney 027,Shoreditch,1,8,3,6,2,3,8,1,3,3,6,2,5,1,noncovid
+E02006918,Hackney 028,Clapton Leaside,2,2,1,2,2,3,5,2,2,3,1,2,4,1,noncovid
+E02006921,Hackney 029,Upper Clapton,4,6,2,2,2,2,4,3,2,5,2,1,2,3,noncovid
+E02000345,Hackney 001,Stamford Hill North,1,2,1,1,2,3,2,2,3,2,4,2,1,2,average
+E02000346,Hackney 002,Woodberry Down & Manor House,5,3,2,2,3,2,3,2,3,4,4,1,5,3,average
+E02000347,Hackney 003,Stamford Hill West,4,3,3,3,2,3,3,2,4,4,3,3,4,3,average
+E02000348,Hackney 004,Stamford Hill South,2,1,3,2,2,1,2,3,4,3,2,3,2,1,average
+E02000350,Hackney 006,Stoke Newington East & Cazenove,4,2,2,2,1,2,2,3,3,2,3,2,4,2,average
+E02000351,Hackney 007,Brownswood,4,3,2,2,1,2,4,2,3,3,2,2,4,3,average
+E02000352,Hackney 008,Clissold North,5,3,5,1,3,2,4,5,3,3,4,4,5,3,average
+E02000353,Hackney 009,Stoke Newington North,3,3,2,2,2,2,2,2,1,2,2,3,3,3,average
+E02000354,Hackney 010,Hackney Downs,6,3,3,4,4,3,2,4,6,5,4,5,6,3,average
+E02000355,Hackney 011,Lower Clapton,7,5,5,3,5,5,2,5,4,6,7,5,7,5,average
+E02000356,Hackney 012,Clissold South,2,3,3,3,2,1,2,3,4,3,3,1,2,3,average
+E02000357,Hackney 013,Hackney Marshes,3,2,3,3,1,2,3,4,3,4,4,3,3,2,average
+E02000358,Hackney 014,Stoke Newington South,5,4,5,4,3,6,6,4,4,4,4,5,5,4,average
+E02000359,Hackney 015,Homerton North,3,3,3,2,2,2,3,4,2,4,3,3,3,3,average
+E02000360,Hackney 016,Amhurst Road & Pembury Estate,5,6,4,6,5,4,5,3,4,5,6,5,5,6,average
+E02000361,Hackney 017,Hackney Central,3,3,2,2,2,2,2,2,3,3,2,1,3,3,average
+E02000362,Hackney 018,Hackney Wick,4,3,2,3,2,2,2,1,3,4,2,3,4,3,average
+E02000363,Hackney 019,Homerton South,5,5,5,4,5,5,3,4,5,4,4,7,5,5,average
+E02000364,Hackney 020,Dalston East,5,3,3,5,4,4,5,3,3,3,3,3,5,3,average
+E02000365,Hackney 021,Dalston Kingsland & De Beauvoir,6,5,5,5,3,6,4,5,7,7,4,5,6,5,average
+E02000366,Hackney 022,South Hackney,4,4,3,3,4,4,3,5,6,4,5,4,4,4,average
+E02000367,Hackney 023,London Fields & Mare Street,2,3,3,2,3,2,4,4,3,2,2,4,2,3,average
+E02000368,Hackney 024,Haggerston East,4,3,4,4,3,5,3,6,6,4,5,4,4,3,average
+E02000369,Hackney 025,Haggerston West & Kingsland Basin,6,6,4,5,4,3,5,4,3,4,5,5,6,6,average
+E02000370,Hackney 026,Hoxton & Wenlock,3,2,3,3,2,3,2,3,4,2,5,3,3,2,average
+E02000371,Hackney 027,Shoreditch,2,2,2,2,2,2,2,2,2,3,4,3,2,2,average
+E02006918,Hackney 028,Clapton Leaside,2,3,3,1,3,3,2,4,3,2,4,3,2,3,average
+E02006921,Hackney 029,Upper Clapton,3,2,2,3,3,2,2,3,3,2,2,3,3,2,average

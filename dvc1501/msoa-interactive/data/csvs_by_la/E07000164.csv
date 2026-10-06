@@ -1,0 +1,34 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02005750,Hambleton 001,Great Ayton & Stokesley,0,6,3,2,0,0,0,0,1,0,3,4,0,0,covid
+E02005751,Hambleton 002,Rudby & Ingleby,0,2,0,1,0,0,0,0,0,0,3,1,2,0,covid
+E02005752,Hambleton 003,"Brompton, Appleton & Thimbleby",0,3,4,0,0,0,0,0,0,1,1,0,1,0,covid
+E02005753,Hambleton 004,Northallerton,0,8,0,3,0,0,0,0,3,3,22,1,0,0,covid
+E02005754,Hambleton 005,Northallerton South & Leeming Bar,0,13,1,0,0,0,0,1,3,0,5,1,0,0,covid
+E02005755,Hambleton 006,Bedale & Snape,0,2,2,0,0,0,1,0,4,2,1,0,0,0,covid
+E02005756,Hambleton 007,"Leeming, Pickhill & Thornton",0,1,1,0,0,0,0,0,1,0,0,0,0,0,covid
+E02005757,Hambleton 008,Thirsk North,1,5,0,1,0,0,0,1,3,0,2,3,1,0,covid
+E02005758,Hambleton 009,Thirsk South & Coxwold,0,3,1,1,0,0,0,1,0,0,4,2,1,1,covid
+E02005759,Hambleton 010,Easingwold & Stillington,0,2,1,1,0,0,0,0,0,3,0,1,0,1,covid
+E02005760,Hambleton 011,"Linton, Tollerton & Raskelf",0,0,0,1,0,0,0,0,1,0,0,0,0,0,covid
+E02005750,Hambleton 001,Great Ayton & Stokesley,6,8,5,5,3,4,11,8,8,12,6,7,8,8,noncovid
+E02005751,Hambleton 002,Rudby & Ingleby,7,9,9,4,2,6,6,5,7,3,11,6,10,12,noncovid
+E02005752,Hambleton 003,"Brompton, Appleton & Thimbleby",5,4,4,8,7,3,5,8,3,2,5,4,3,3,noncovid
+E02005753,Hambleton 004,Northallerton,14,20,14,8,11,10,10,13,10,13,13,13,13,6,noncovid
+E02005754,Hambleton 005,Northallerton South & Leeming Bar,9,14,9,8,7,7,5,10,9,6,6,4,5,14,noncovid
+E02005755,Hambleton 006,Bedale & Snape,9,8,4,4,9,5,10,7,6,8,7,5,10,8,noncovid
+E02005756,Hambleton 007,"Leeming, Pickhill & Thornton",4,6,1,1,8,5,5,2,1,3,4,1,4,3,noncovid
+E02005757,Hambleton 008,Thirsk North,6,11,10,16,4,13,6,10,3,6,3,9,4,6,noncovid
+E02005758,Hambleton 009,Thirsk South & Coxwold,8,7,4,6,5,5,6,4,5,10,4,6,3,8,noncovid
+E02005759,Hambleton 010,Easingwold & Stillington,8,17,7,4,12,3,8,6,8,8,5,5,7,3,noncovid
+E02005760,Hambleton 011,"Linton, Tollerton & Raskelf",9,5,2,3,1,5,3,8,5,8,7,6,3,5,noncovid
+E02005750,Hambleton 001,Great Ayton & Stokesley,6,7,8,7,5,6,5,8,7,8,7,7,6,7,average
+E02005751,Hambleton 002,Rudby & Ingleby,7,5,6,6,7,7,5,7,6,7,7,7,7,5,average
+E02005752,Hambleton 003,"Brompton, Appleton & Thimbleby",5,5,6,4,5,6,3,4,7,4,7,5,5,5,average
+E02005753,Hambleton 004,Northallerton,17,11,13,11,16,12,15,16,15,15,19,16,17,11,average
+E02005754,Hambleton 005,Northallerton South & Leeming Bar,11,6,6,8,7,8,5,8,8,7,10,8,11,6,average
+E02005755,Hambleton 006,Bedale & Snape,6,8,6,6,9,5,6,6,5,6,9,8,6,8,average
+E02005756,Hambleton 007,"Leeming, Pickhill & Thornton",3,3,2,2,4,4,3,4,3,3,4,1,3,3,average
+E02005757,Hambleton 008,Thirsk North,8,7,6,7,6,6,8,9,7,8,9,7,8,7,average
+E02005758,Hambleton 009,Thirsk South & Coxwold,6,7,8,5,6,8,5,8,7,7,8,7,6,7,average
+E02005759,Hambleton 010,Easingwold & Stillington,9,10,7,7,8,6,7,6,6,6,8,9,9,10,average
+E02005760,Hambleton 011,"Linton, Tollerton & Raskelf",8,6,6,5,7,5,6,7,5,7,9,8,8,6,average

@@ -1,0 +1,70 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02002749,North Lincolnshire 001,Barton upon Humber,0,1,2,0,1,0,0,0,2,1,3,4,0,2,covid
+E02002750,North Lincolnshire 002,"Goxhill, Barrow & New Holland",0,1,0,0,0,0,0,0,0,2,2,1,0,0,covid
+E02002751,North Lincolnshire 003,Winterton & Winteringham,0,1,2,0,0,0,0,0,1,1,1,3,0,0,covid
+E02002752,North Lincolnshire 004,"Barnetby, Ulceby & Killingholme",0,1,0,0,0,0,0,0,1,2,2,1,0,0,covid
+E02002753,North Lincolnshire 005,"Burton upon Stather, Alkborough & Gunness",0,4,3,1,0,0,0,0,2,4,3,1,0,0,covid
+E02002754,North Lincolnshire 006,Crowle & Keadby,0,1,0,1,0,0,0,0,1,5,2,1,1,0,covid
+E02002755,North Lincolnshire 007,Scunthorpe North,0,4,8,0,0,0,0,0,3,2,3,1,0,1,covid
+E02002756,North Lincolnshire 008,Scunthorpe Central & Crosby,0,0,1,0,0,0,0,0,6,11,0,0,0,0,covid
+E02002757,North Lincolnshire 009,Scunthorpe Berkeley,0,2,5,2,0,0,1,0,1,1,3,2,0,0,covid
+E02002758,North Lincolnshire 010,Scunthorpe Frodingham,0,0,1,0,0,0,0,0,0,1,0,0,0,0,covid
+E02002759,North Lincolnshire 011,Brigg & South Ferriby,0,2,2,1,0,0,0,0,8,5,2,0,1,1,covid
+E02002760,North Lincolnshire 012,Scunthorpe Central Park,0,5,1,0,0,0,0,0,0,2,1,0,0,0,covid
+E02002761,North Lincolnshire 013,Broughton & Appleby,0,3,0,0,0,0,0,0,0,1,1,0,1,0,covid
+E02002762,North Lincolnshire 014,Scunthorpe Lincoln Gardens,0,0,0,0,0,0,0,0,5,1,5,0,0,0,covid
+E02002763,North Lincolnshire 015,Scunthorpe Lakeside,0,4,0,0,0,0,0,1,2,3,3,0,0,0,covid
+E02002764,North Lincolnshire 016,Scunthorpe Westcliff,0,2,1,0,0,0,0,0,2,2,1,0,0,0,covid
+E02002765,North Lincolnshire 017,Scunthorpe Ashby,0,3,3,0,0,0,0,0,2,3,2,0,0,0,covid
+E02002766,North Lincolnshire 018,Scunthorpe Bottesford,0,5,4,1,0,0,0,1,3,4,1,0,0,1,covid
+E02002767,North Lincolnshire 019,Scunthorpe Yaddlethorpe,0,2,1,0,0,0,0,0,0,2,2,0,0,0,covid
+E02002768,North Lincolnshire 020,Epworth & Bracon,0,0,1,0,0,0,0,0,1,0,5,0,0,0,covid
+E02002769,North Lincolnshire 021,Messingham & Scawby,0,2,3,1,0,0,0,0,0,2,2,2,0,0,covid
+E02002770,North Lincolnshire 022,Kirkton & Hibaldstow,0,1,2,0,0,0,0,0,3,2,0,1,0,0,covid
+E02002771,North Lincolnshire 023,"Westwoodside, Haxley & Owston Ferry",0,0,0,0,0,0,0,2,3,3,5,1,0,0,covid
+E02002749,North Lincolnshire 001,Barton upon Humber,12,17,12,5,6,9,8,17,5,5,13,8,14,10,noncovid
+E02002750,North Lincolnshire 002,"Goxhill, Barrow & New Holland",6,5,2,6,5,3,5,6,4,2,4,3,4,5,noncovid
+E02002751,North Lincolnshire 003,Winterton & Winteringham,2,6,5,7,3,7,8,7,5,2,4,1,4,4,noncovid
+E02002752,North Lincolnshire 004,"Barnetby, Ulceby & Killingholme",3,8,4,3,6,2,6,6,8,6,2,6,5,4,noncovid
+E02002753,North Lincolnshire 005,"Burton upon Stather, Alkborough & Gunness",9,15,10,8,6,8,16,8,16,12,12,6,7,16,noncovid
+E02002754,North Lincolnshire 006,Crowle & Keadby,9,9,8,3,5,7,8,6,6,9,6,4,4,10,noncovid
+E02002755,North Lincolnshire 007,Scunthorpe North,7,13,14,5,9,4,1,5,10,7,6,10,10,9,noncovid
+E02002756,North Lincolnshire 008,Scunthorpe Central & Crosby,7,5,5,6,4,5,6,9,6,4,3,4,6,4,noncovid
+E02002757,North Lincolnshire 009,Scunthorpe Berkeley,3,7,5,4,4,6,6,6,7,5,2,6,6,4,noncovid
+E02002758,North Lincolnshire 010,Scunthorpe Frodingham,2,5,3,3,2,6,6,1,5,5,6,2,3,0,noncovid
+E02002759,North Lincolnshire 011,Brigg & South Ferriby,8,19,11,6,13,5,14,11,6,5,4,8,8,8,noncovid
+E02002760,North Lincolnshire 012,Scunthorpe Central Park,10,4,7,3,2,4,8,8,4,8,6,2,7,5,noncovid
+E02002761,North Lincolnshire 013,Broughton & Appleby,9,9,2,9,5,4,2,4,8,6,5,4,7,7,noncovid
+E02002762,North Lincolnshire 014,Scunthorpe Lincoln Gardens,8,4,1,8,8,6,5,9,6,9,4,10,8,5,noncovid
+E02002763,North Lincolnshire 015,Scunthorpe Lakeside,7,7,4,5,3,6,10,7,4,7,13,10,7,9,noncovid
+E02002764,North Lincolnshire 016,Scunthorpe Westcliff,5,6,6,4,2,1,7,1,3,1,3,5,6,4,noncovid
+E02002765,North Lincolnshire 017,Scunthorpe Ashby,7,4,6,4,4,5,8,5,3,2,7,5,7,3,noncovid
+E02002766,North Lincolnshire 018,Scunthorpe Bottesford,10,8,1,6,6,7,6,9,2,7,5,1,8,10,noncovid
+E02002767,North Lincolnshire 019,Scunthorpe Yaddlethorpe,7,6,4,4,4,2,3,2,2,11,7,8,4,9,noncovid
+E02002768,North Lincolnshire 020,Epworth & Bracon,5,7,4,4,8,3,7,4,3,5,2,4,6,2,noncovid
+E02002769,North Lincolnshire 021,Messingham & Scawby,6,12,7,2,6,3,2,3,4,7,5,4,4,4,noncovid
+E02002770,North Lincolnshire 022,Kirkton & Hibaldstow,6,3,9,11,5,5,3,7,7,3,5,4,7,5,noncovid
+E02002771,North Lincolnshire 023,"Westwoodside, Haxley & Owston Ferry",10,9,3,5,4,5,0,7,6,9,10,4,11,5,noncovid
+E02002749,North Lincolnshire 001,Barton upon Humber,14,9,8,10,10,6,9,10,13,9,13,9,14,9,average
+E02002750,North Lincolnshire 002,"Goxhill, Barrow & New Holland",6,5,4,5,5,3,5,5,5,6,6,7,6,5,average
+E02002751,North Lincolnshire 003,Winterton & Winteringham,5,4,6,5,4,5,3,6,4,4,7,4,5,4,average
+E02002752,North Lincolnshire 004,"Barnetby, Ulceby & Killingholme",7,2,4,4,4,6,4,8,5,5,7,5,7,2,average
+E02002753,North Lincolnshire 005,"Burton upon Stather, Alkborough & Gunness",11,10,10,9,12,8,6,9,9,9,12,12,11,10,average
+E02002754,North Lincolnshire 006,Crowle & Keadby,7,5,5,6,5,6,6,5,5,4,11,10,7,5,average
+E02002755,North Lincolnshire 007,Scunthorpe North,13,8,11,8,7,6,10,8,9,7,14,9,13,8,average
+E02002756,North Lincolnshire 008,Scunthorpe Central & Crosby,7,5,6,4,7,4,4,7,6,5,6,5,7,5,average
+E02002757,North Lincolnshire 009,Scunthorpe Berkeley,5,4,6,3,4,4,4,3,4,4,6,5,5,4,average
+E02002758,North Lincolnshire 010,Scunthorpe Frodingham,6,5,5,3,4,3,4,3,3,3,5,3,6,5,average
+E02002759,North Lincolnshire 011,Brigg & South Ferriby,12,9,14,10,10,11,9,10,10,11,14,10,12,9,average
+E02002760,North Lincolnshire 012,Scunthorpe Central Park,5,5,7,7,5,5,5,5,6,9,9,5,5,5,average
+E02002761,North Lincolnshire 013,Broughton & Appleby,8,7,8,5,7,7,6,6,7,10,9,6,8,7,average
+E02002762,North Lincolnshire 014,Scunthorpe Lincoln Gardens,9,9,7,5,6,5,8,9,8,8,8,8,9,9,average
+E02002763,North Lincolnshire 015,Scunthorpe Lakeside,10,7,8,6,6,5,6,7,7,7,11,10,10,7,average
+E02002764,North Lincolnshire 016,Scunthorpe Westcliff,5,4,3,4,3,3,2,3,4,4,4,4,5,4,average
+E02002765,North Lincolnshire 017,Scunthorpe Ashby,6,7,7,9,6,5,5,5,5,7,9,9,6,7,average
+E02002766,North Lincolnshire 018,Scunthorpe Bottesford,10,8,9,5,9,5,7,8,7,7,10,10,10,8,average
+E02002767,North Lincolnshire 019,Scunthorpe Yaddlethorpe,6,4,5,5,5,4,6,5,5,5,9,7,6,4,average
+E02002768,North Lincolnshire 020,Epworth & Bracon,7,6,7,6,6,4,4,7,7,5,7,6,7,6,average
+E02002769,North Lincolnshire 021,Messingham & Scawby,4,5,4,5,3,4,3,5,4,3,3,6,4,5,average
+E02002770,North Lincolnshire 022,Kirkton & Hibaldstow,6,5,7,7,5,5,5,4,6,3,7,5,6,5,average
+E02002771,North Lincolnshire 023,"Westwoodside, Haxley & Owston Ferry",7,6,9,5,4,4,6,5,7,8,9,8,7,6,average

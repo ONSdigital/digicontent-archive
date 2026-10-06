@@ -1,0 +1,52 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02006439,Waverley 001,Farnham Weybourne & Badshot Lea,0,0,1,0,0,0,0,0,0,0,2,0,0,0,covid
+E02006440,Waverley 002,Farnham Upper Hale,0,0,1,0,0,0,0,0,0,0,3,0,0,0,covid
+E02006441,Waverley 003,Farnham Town,0,5,4,1,0,0,0,0,1,0,9,11,2,0,covid
+E02006442,Waverley 004,Farnham Moor Park & Bourne,0,1,2,0,0,0,0,0,0,0,2,0,0,0,covid
+E02006443,Waverley 005,Farncombe,0,9,9,0,0,0,0,0,1,1,4,1,2,0,covid
+E02006444,Waverley 006,Farnham Shortheath,0,4,2,0,1,0,0,0,0,1,2,2,1,0,covid
+E02006445,Waverley 007,Godalming North,1,3,3,1,1,0,0,0,1,5,2,1,0,0,covid
+E02006446,Waverley 008,"Blackheath, Wonersh & Shamley Green",0,7,3,0,0,0,0,0,4,1,3,1,1,0,covid
+E02006447,Waverley 009,Farnham Wrecclesham,1,2,0,0,0,0,0,0,0,1,3,1,0,0,covid
+E02006448,Waverley 010,Godalming South,0,1,0,1,0,0,0,0,0,0,0,1,0,0,covid
+E02006449,Waverley 011,Elstead & Milford,0,0,1,0,0,0,0,0,0,2,7,5,0,0,covid
+E02006450,Waverley 012,"Wheelerstreet, Wormley & Hambledon",1,7,5,0,0,0,0,0,0,3,1,1,0,0,covid
+E02006451,Waverley 013,Cranleigh,0,5,1,1,0,0,0,0,0,2,11,3,0,0,covid
+E02006453,Waverley 015,Ewhurst & Chiddingfold,0,11,4,0,0,0,0,0,1,1,3,2,0,0,covid
+E02006454,Waverley 016,Haslemere East,0,6,0,0,0,0,0,0,0,0,5,3,1,0,covid
+E02006455,Waverley 017,Haslemere West,0,3,4,1,1,0,0,0,0,2,16,13,0,0,covid
+E02006839,Waverley 018,"Hindhead, Beacon Hill & Frensham",0,6,7,2,0,0,0,0,1,1,7,8,1,0,covid
+E02006439,Waverley 001,Farnham Weybourne & Badshot Lea,1,4,3,5,4,4,7,5,5,2,2,3,2,2,noncovid
+E02006440,Waverley 002,Farnham Upper Hale,3,7,1,9,5,6,4,2,7,4,4,5,3,1,noncovid
+E02006441,Waverley 003,Farnham Town,13,13,7,7,8,6,10,7,10,12,14,6,10,6,noncovid
+E02006442,Waverley 004,Farnham Moor Park & Bourne,4,6,5,3,3,4,4,3,2,6,3,4,3,4,noncovid
+E02006443,Waverley 005,Farncombe,9,13,7,5,4,1,4,8,9,5,7,9,9,2,noncovid
+E02006444,Waverley 006,Farnham Shortheath,11,7,1,5,1,6,5,4,6,3,9,4,2,4,noncovid
+E02006445,Waverley 007,Godalming North,1,6,7,8,5,5,7,6,2,3,5,5,8,7,noncovid
+E02006446,Waverley 008,"Blackheath, Wonersh & Shamley Green",5,7,4,9,8,2,5,7,4,5,7,3,3,4,noncovid
+E02006447,Waverley 009,Farnham Wrecclesham,5,6,1,6,2,4,2,4,7,2,3,9,3,2,noncovid
+E02006448,Waverley 010,Godalming South,2,7,3,4,2,3,3,5,3,7,4,4,7,4,noncovid
+E02006449,Waverley 011,Elstead & Milford,5,12,5,3,5,9,0,4,7,5,8,8,7,4,noncovid
+E02006450,Waverley 012,"Wheelerstreet, Wormley & Hambledon",8,7,8,4,7,2,2,6,4,4,2,4,8,1,noncovid
+E02006451,Waverley 013,Cranleigh,7,6,4,6,8,5,5,5,9,9,8,5,8,12,noncovid
+E02006453,Waverley 015,Ewhurst & Chiddingfold,4,18,8,6,2,5,3,4,8,4,6,5,9,8,noncovid
+E02006454,Waverley 016,Haslemere East,9,5,4,5,6,2,6,3,8,7,6,5,8,6,noncovid
+E02006455,Waverley 017,Haslemere West,8,9,6,8,4,7,13,9,7,7,4,7,5,6,noncovid
+E02006839,Waverley 018,"Hindhead, Beacon Hill & Frensham",15,18,8,4,7,9,8,12,10,5,10,17,5,6,noncovid
+E02006439,Waverley 001,Farnham Weybourne & Badshot Lea,4,4,4,4,4,4,4,4,4,4,3,4,4,4,average
+E02006440,Waverley 002,Farnham Upper Hale,3,4,3,4,5,4,3,3,4,3,5,3,3,4,average
+E02006441,Waverley 003,Farnham Town,9,6,8,7,8,5,6,8,8,7,9,7,9,6,average
+E02006442,Waverley 004,Farnham Moor Park & Bourne,5,5,4,4,5,2,3,4,7,5,7,5,5,5,average
+E02006443,Waverley 005,Farncombe,6,7,5,6,4,6,8,7,8,7,7,8,6,7,average
+E02006444,Waverley 006,Farnham Shortheath,5,6,4,5,3,3,3,5,4,4,6,6,5,6,average
+E02006445,Waverley 007,Godalming North,4,6,5,5,3,7,7,5,4,7,8,5,4,6,average
+E02006446,Waverley 008,"Blackheath, Wonersh & Shamley Green",5,5,4,4,6,4,4,4,3,4,6,6,5,5,average
+E02006447,Waverley 009,Farnham Wrecclesham,5,5,4,4,4,6,3,4,4,4,4,3,5,5,average
+E02006448,Waverley 010,Godalming South,4,3,3,2,2,3,5,4,4,5,6,4,4,3,average
+E02006449,Waverley 011,Elstead & Milford,5,5,9,5,5,5,5,3,5,5,8,5,5,5,average
+E02006450,Waverley 012,"Wheelerstreet, Wormley & Hambledon",6,7,6,5,4,6,8,2,6,7,11,6,6,7,average
+E02006451,Waverley 013,Cranleigh,10,8,8,7,6,8,5,9,7,10,11,9,10,8,average
+E02006453,Waverley 015,Ewhurst & Chiddingfold,9,7,8,7,5,7,7,8,6,9,11,7,9,7,average
+E02006454,Waverley 016,Haslemere East,4,5,5,4,5,4,5,5,3,4,5,6,4,5,average
+E02006455,Waverley 017,Haslemere West,7,8,8,6,6,7,7,10,6,9,11,10,7,8,average
+E02006839,Waverley 018,"Hindhead, Beacon Hill & Frensham",15,10,7,7,9,9,11,11,14,11,19,13,15,10,average

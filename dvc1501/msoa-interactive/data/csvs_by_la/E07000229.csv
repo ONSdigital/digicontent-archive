@@ -1,0 +1,40 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02006621,Worthing 001,High Salvington & Findon Valley,0,6,1,0,0,0,0,0,0,0,4,1,0,0,covid
+E02006622,Worthing 002,Salvington,0,1,2,0,0,0,0,0,1,0,4,0,0,0,covid
+E02006623,Worthing 003,Durrington North,0,2,0,0,0,0,0,0,0,1,6,7,0,0,covid
+E02006624,Worthing 004,Broadwater West,0,2,1,0,0,0,0,1,0,0,4,1,0,1,covid
+E02006625,Worthing 005,Broadwater East,0,2,1,0,0,0,0,0,0,0,1,2,1,0,covid
+E02006626,Worthing 006,Northbrook,0,1,1,1,0,0,0,0,1,0,3,5,0,0,covid
+E02006627,Worthing 007,Durrington South,1,1,0,0,0,0,1,0,0,1,5,3,0,0,covid
+E02006628,Worthing 008,Broadwater South,0,1,2,0,0,0,0,0,1,0,2,11,0,0,covid
+E02006629,Worthing 009,East Worthing,0,0,1,0,0,0,0,0,0,0,2,8,1,0,covid
+E02006630,Worthing 010,Heene,0,11,9,2,0,0,1,1,4,1,9,6,5,1,covid
+E02006631,Worthing 011,Worthing Central,0,0,4,0,0,0,0,0,0,0,6,7,6,0,covid
+E02006632,Worthing 012,West Worthing,0,2,2,0,1,0,0,0,0,0,7,0,1,0,covid
+E02006633,Worthing 013,Goring-by-Sea,0,9,3,0,1,0,0,1,0,0,2,0,0,0,covid
+E02006621,Worthing 001,High Salvington & Findon Valley,9,18,12,7,12,9,5,9,8,6,11,12,9,11,noncovid
+E02006622,Worthing 002,Salvington,4,9,8,5,3,3,8,7,7,7,4,8,13,7,noncovid
+E02006623,Worthing 003,Durrington North,7,4,5,8,7,8,10,4,5,12,6,3,7,5,noncovid
+E02006624,Worthing 004,Broadwater West,6,4,3,3,9,1,4,2,6,4,4,6,6,3,noncovid
+E02006625,Worthing 005,Broadwater East,1,6,2,5,4,3,3,5,4,7,5,4,5,2,noncovid
+E02006626,Worthing 006,Northbrook,9,9,7,6,9,5,9,6,6,9,12,6,4,4,noncovid
+E02006627,Worthing 007,Durrington South,6,8,8,5,4,6,10,3,6,10,12,4,6,5,noncovid
+E02006628,Worthing 008,Broadwater South,8,5,2,8,12,4,7,6,8,6,4,6,7,7,noncovid
+E02006629,Worthing 009,East Worthing,7,9,8,5,7,7,13,9,12,6,8,7,4,6,noncovid
+E02006630,Worthing 010,Heene,26,32,24,16,22,15,25,24,27,16,25,25,28,16,noncovid
+E02006631,Worthing 011,Worthing Central,14,20,13,8,3,5,9,5,13,7,10,7,13,8,noncovid
+E02006632,Worthing 012,West Worthing,19,10,12,6,9,10,9,9,10,9,11,9,15,5,noncovid
+E02006633,Worthing 013,Goring-by-Sea,10,14,3,5,8,10,14,11,3,12,5,13,9,9,noncovid
+E02006621,Worthing 001,High Salvington & Findon Valley,12,8,8,8,10,8,7,7,10,10,15,14,12,8,average
+E02006622,Worthing 002,Salvington,8,5,6,5,5,6,6,8,7,10,7,7,8,5,average
+E02006623,Worthing 003,Durrington North,9,7,8,4,7,4,5,6,7,7,10,9,9,7,average
+E02006624,Worthing 004,Broadwater West,5,7,5,3,3,4,5,5,5,5,4,5,5,7,average
+E02006625,Worthing 005,Broadwater East,5,3,4,3,2,4,4,4,5,3,7,3,5,3,average
+E02006626,Worthing 006,Northbrook,7,6,5,3,5,4,5,6,5,6,7,7,7,6,average
+E02006627,Worthing 007,Durrington South,7,5,8,5,8,7,7,7,10,9,11,8,7,5,average
+E02006628,Worthing 008,Broadwater South,9,7,6,7,5,5,6,6,5,8,10,9,9,7,average
+E02006629,Worthing 009,East Worthing,9,7,7,8,8,7,9,7,11,11,13,9,9,7,average
+E02006630,Worthing 010,Heene,26,21,18,18,18,17,19,19,20,23,30,22,26,21,average
+E02006631,Worthing 011,Worthing Central,12,10,12,9,12,10,11,9,13,12,17,12,12,10,average
+E02006632,Worthing 012,West Worthing,12,12,11,8,11,9,12,8,9,13,11,10,12,12,average
+E02006633,Worthing 013,Goring-by-Sea,13,10,11,9,10,10,11,13,12,8,12,12,13,10,average

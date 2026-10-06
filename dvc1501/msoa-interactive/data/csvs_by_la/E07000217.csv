@@ -1,0 +1,37 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02006456,Woking 001,Byfleet,0,2,3,1,1,0,0,0,0,1,6,0,1,0,covid
+E02006457,Woking 002,West Byfleet & Pyrford North,0,2,2,0,0,0,0,0,1,0,7,11,1,0,covid
+E02006458,Woking 003,Horsell,0,8,4,0,0,0,0,0,1,2,2,1,0,0,covid
+E02006459,Woking 004,Sheerwater,0,2,1,0,0,0,0,1,1,1,7,5,0,1,covid
+E02006460,Woking 005,Goldsworth Park,0,1,0,1,0,0,0,0,1,0,4,2,0,0,covid
+E02006461,Woking 006,Maybury Hill & Pyrford South,0,2,4,1,0,0,1,0,0,0,2,2,1,0,covid
+E02006462,Woking 007,Knaphill,0,5,2,0,0,0,0,1,0,1,2,2,1,0,covid
+E02006463,Woking 008,Woking Central,0,5,6,2,0,0,0,0,2,2,3,2,1,0,covid
+E02006464,Woking 009,St John's,0,4,1,1,0,0,0,0,0,0,1,3,3,0,covid
+E02006465,Woking 010,Hook Heath,0,3,0,1,0,0,0,0,0,3,2,1,0,1,covid
+E02006466,Woking 011,Old Woking & Westfield,0,1,1,1,1,0,0,0,0,7,4,6,0,0,covid
+E02006467,Woking 012,Mayford & Brookwood,0,1,0,0,0,0,0,0,2,0,2,1,0,0,covid
+E02006456,Woking 001,Byfleet,6,9,3,7,5,6,12,8,7,10,9,2,6,1,noncovid
+E02006457,Woking 002,West Byfleet & Pyrford North,15,17,11,20,10,7,11,10,15,15,8,6,7,4,noncovid
+E02006458,Woking 003,Horsell,14,10,5,5,5,8,9,12,7,8,6,3,6,8,noncovid
+E02006459,Woking 004,Sheerwater,10,6,3,7,8,4,7,4,6,6,6,8,6,7,noncovid
+E02006460,Woking 005,Goldsworth Park,4,4,9,7,1,4,6,9,1,2,7,6,1,6,noncovid
+E02006461,Woking 006,Maybury Hill & Pyrford South,5,8,3,8,4,5,4,4,4,4,3,1,7,3,noncovid
+E02006462,Woking 007,Knaphill,5,9,6,2,1,5,3,7,3,5,1,1,3,5,noncovid
+E02006463,Woking 008,Woking Central,6,6,5,5,4,2,7,7,3,3,7,7,6,3,noncovid
+E02006464,Woking 009,St John's,5,5,7,9,2,4,6,4,7,5,2,4,2,7,noncovid
+E02006465,Woking 010,Hook Heath,1,6,4,4,2,8,5,4,3,4,8,2,1,6,noncovid
+E02006466,Woking 011,Old Woking & Westfield,3,5,13,6,9,3,7,1,5,3,4,4,9,5,noncovid
+E02006467,Woking 012,Mayford & Brookwood,5,6,5,4,0,4,8,6,5,5,5,4,4,2,noncovid
+E02006456,Woking 001,Byfleet,6,7,5,4,5,4,6,6,5,6,10,8,6,7,average
+E02006457,Woking 002,West Byfleet & Pyrford North,9,9,9,9,8,8,8,11,8,7,11,11,9,9,average
+E02006458,Woking 003,Horsell,6,7,8,6,5,7,6,9,9,7,10,10,6,7,average
+E02006459,Woking 004,Sheerwater,8,6,6,5,4,5,4,6,6,7,10,7,8,6,average
+E02006460,Woking 005,Goldsworth Park,5,4,5,4,4,3,4,4,5,6,7,5,5,4,average
+E02006461,Woking 006,Maybury Hill & Pyrford South,4,5,4,8,5,6,4,4,4,6,6,3,4,5,average
+E02006462,Woking 007,Knaphill,4,4,4,5,2,3,5,4,4,4,5,3,4,4,average
+E02006463,Woking 008,Woking Central,5,4,5,5,5,6,5,5,4,6,5,4,5,4,average
+E02006464,Woking 009,St John's,3,4,5,4,4,3,5,4,6,3,3,5,3,4,average
+E02006465,Woking 010,Hook Heath,4,3,4,3,2,3,5,6,5,5,5,4,4,3,average
+E02006466,Woking 011,Old Woking & Westfield,7,5,6,6,6,4,5,7,5,5,6,8,7,5,average
+E02006467,Woking 012,Mayford & Brookwood,3,4,4,5,2,6,3,5,4,5,3,3,3,4,average

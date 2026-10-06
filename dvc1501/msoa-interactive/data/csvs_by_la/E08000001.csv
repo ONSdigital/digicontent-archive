@@ -1,0 +1,106 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02000984,Bolton 001,Dunscar & Egerton,0,3,1,0,0,0,0,0,0,1,2,2,1,0,covid
+E02000985,Bolton 002,Bromley Cross & Bradshaw,0,2,3,0,0,0,0,0,2,0,1,1,0,0,covid
+E02000986,Bolton 003,Eagley & Sharples,0,3,4,0,0,0,0,0,1,1,3,6,1,0,covid
+E02000987,Bolton 004,Horwich North,1,8,2,0,0,0,0,1,2,1,4,0,0,0,covid
+E02000988,Bolton 005,Astley Bridge & Waters Meeting,0,7,3,3,0,0,2,4,4,4,1,1,0,1,covid
+E02000989,Bolton 006,Harwood,0,3,3,0,0,0,0,1,3,2,0,3,0,0,covid
+E02000990,Bolton 007,Horwich South & Middlebrook,0,4,1,0,0,0,0,2,0,0,0,3,1,0,covid
+E02000991,Bolton 008,Smithills,1,4,1,0,1,1,0,1,2,3,2,1,0,0,covid
+E02000992,Bolton 009,Blackrod & Butterwick Fields,0,7,0,0,0,0,0,1,1,5,2,1,1,0,covid
+E02000993,Bolton 010,Hall I' th' Wood,0,4,1,1,0,0,0,2,1,1,2,3,0,0,covid
+E02000994,Bolton 011,Halliwell & Brownlow Fold,0,2,0,1,1,0,0,4,2,1,3,1,1,0,covid
+E02000995,Bolton 012,Doffcocker & Moss Bank,0,5,2,0,0,0,0,0,0,2,3,5,1,0,covid
+E02000996,Bolton 013,Breightmet North,0,10,2,0,0,0,0,1,4,0,8,0,1,1,covid
+E02000997,Bolton 014,Horwich East,0,5,8,1,0,0,0,1,2,1,1,2,0,0,covid
+E02000998,Bolton 015,Gilnow & Victory,0,2,1,0,0,0,0,1,0,2,2,5,4,0,covid
+E02000999,Bolton 016,Central Bolton,0,5,2,0,1,0,0,3,4,2,1,1,0,0,covid
+E02001000,Bolton 017,Tonge,0,6,3,1,0,1,0,0,4,5,6,0,3,1,covid
+E02001001,Bolton 018,Heaton & Deane,0,2,5,0,0,0,1,0,2,6,1,2,0,0,covid
+E02001002,Bolton 019,Breightmet South & Darcy Lever,0,4,0,0,1,0,0,0,2,3,2,3,0,0,covid
+E02001003,Bolton 020,Lostock & Ladybridge,0,7,1,1,0,0,0,2,4,0,4,1,1,0,covid
+E02001004,Bolton 021,Rumworth North,0,10,0,0,0,0,1,1,4,5,1,4,2,0,covid
+E02001005,Bolton 022,Springfield & Great Lever,0,10,0,1,2,0,1,2,2,1,1,2,2,0,covid
+E02001006,Bolton 023,Rumworth South,1,8,2,3,0,0,0,1,7,2,2,2,1,1,covid
+E02001007,Bolton 024,Little Lever,0,8,3,1,0,0,0,4,4,3,0,3,0,0,covid
+E02001008,Bolton 025,Lever Edge,0,11,1,0,0,0,0,2,5,3,2,5,0,0,covid
+E02001009,Bolton 026,Daubhill & Fernhill Gate,0,6,0,0,0,0,0,0,4,2,1,1,1,0,covid
+E02001010,Bolton 027,Farnworth North,0,13,8,0,1,0,1,2,0,2,3,2,1,2,covid
+E02001011,Bolton 028,Westhoughton East,0,3,3,1,0,0,0,0,0,1,4,1,1,0,covid
+E02001012,Bolton 029,Harper Green,0,4,3,1,0,0,0,0,2,0,2,1,0,0,covid
+E02001013,Bolton 030,Over Hulton,0,4,1,0,0,0,0,2,1,0,5,0,0,0,covid
+E02001014,Bolton 031,Westhoughton West,2,8,1,0,0,0,0,1,3,1,4,2,0,0,covid
+E02001015,Bolton 032,Farnworth South,0,3,5,0,0,0,0,2,6,1,2,1,0,0,covid
+E02001016,Bolton 033,Highfield & New Bury,0,5,1,0,0,0,0,0,1,1,3,1,0,0,covid
+E02001017,Bolton 034,Kearsley & Stoneclough,0,7,1,0,0,1,0,1,3,2,4,2,1,0,covid
+E02001018,Bolton 035,Westhoughton Daisy Hill,0,1,0,0,0,1,0,1,1,2,2,2,1,0,covid
+E02000984,Bolton 001,Dunscar & Egerton,1,4,4,6,6,6,5,4,4,3,2,7,8,3,noncovid
+E02000985,Bolton 002,Bromley Cross & Bradshaw,8,6,3,11,5,5,4,4,5,11,11,4,8,7,noncovid
+E02000986,Bolton 003,Eagley & Sharples,11,11,5,9,5,7,5,6,12,7,9,4,6,1,noncovid
+E02000987,Bolton 004,Horwich North,9,9,6,6,9,5,9,6,10,6,4,7,6,10,noncovid
+E02000988,Bolton 005,Astley Bridge & Waters Meeting,10,8,7,6,3,7,6,10,9,7,6,3,7,9,noncovid
+E02000989,Bolton 006,Harwood,7,10,2,6,9,7,8,7,8,6,7,3,8,6,noncovid
+E02000990,Bolton 007,Horwich South & Middlebrook,5,4,2,8,3,5,5,5,4,4,5,8,8,3,noncovid
+E02000991,Bolton 008,Smithills,4,12,3,12,5,6,8,7,3,3,10,3,8,5,noncovid
+E02000992,Bolton 009,Blackrod & Butterwick Fields,10,2,8,4,8,6,6,8,6,6,4,9,9,7,noncovid
+E02000993,Bolton 010,Hall I' th' Wood,7,4,6,3,2,4,2,3,5,9,2,1,6,6,noncovid
+E02000994,Bolton 011,Halliwell & Brownlow Fold,6,5,7,6,3,3,7,4,7,6,4,5,6,4,noncovid
+E02000995,Bolton 012,Doffcocker & Moss Bank,10,7,6,4,7,6,11,10,6,3,7,4,11,7,noncovid
+E02000996,Bolton 013,Breightmet North,4,14,4,4,7,6,13,19,9,4,11,6,6,10,noncovid
+E02000997,Bolton 014,Horwich East,8,9,6,2,6,7,2,6,6,5,6,6,8,5,noncovid
+E02000998,Bolton 015,Gilnow & Victory,6,5,5,6,4,5,4,6,7,9,4,8,4,6,noncovid
+E02000999,Bolton 016,Central Bolton,8,12,7,7,2,8,7,6,9,1,8,10,7,7,noncovid
+E02001000,Bolton 017,Tonge,17,13,10,5,13,10,10,9,4,3,7,13,15,10,noncovid
+E02001001,Bolton 018,Heaton & Deane,8,6,6,3,2,4,3,5,5,2,9,8,7,6,noncovid
+E02001002,Bolton 019,Breightmet South & Darcy Lever,9,4,6,1,3,7,3,3,8,9,7,2,7,6,noncovid
+E02001003,Bolton 020,Lostock & Ladybridge,6,9,6,4,5,4,6,8,5,4,6,7,7,4,noncovid
+E02001004,Bolton 021,Rumworth North,4,1,5,5,4,5,4,2,4,4,6,3,3,5,noncovid
+E02001005,Bolton 022,Springfield & Great Lever,6,8,0,3,5,8,10,7,5,8,6,4,5,4,noncovid
+E02001006,Bolton 023,Rumworth South,3,5,1,4,2,3,2,9,4,2,7,5,4,3,noncovid
+E02001007,Bolton 024,Little Lever,11,13,5,5,7,6,6,9,10,6,8,5,6,8,noncovid
+E02001008,Bolton 025,Lever Edge,9,18,9,6,4,10,6,11,11,7,7,11,10,8,noncovid
+E02001009,Bolton 026,Daubhill & Fernhill Gate,5,6,5,8,3,10,4,1,5,5,5,6,4,3,noncovid
+E02001010,Bolton 027,Farnworth North,7,11,6,2,5,5,4,4,7,13,6,2,9,8,noncovid
+E02001011,Bolton 028,Westhoughton East,3,5,8,5,6,7,5,7,6,8,7,5,7,7,noncovid
+E02001012,Bolton 029,Harper Green,13,4,5,2,4,4,5,5,12,4,5,3,5,4,noncovid
+E02001013,Bolton 030,Over Hulton,6,5,5,2,3,0,2,7,8,2,4,2,5,2,noncovid
+E02001014,Bolton 031,Westhoughton West,9,13,3,9,7,4,2,8,4,5,6,6,10,6,noncovid
+E02001015,Bolton 032,Farnworth South,5,13,6,3,6,8,9,5,5,5,4,8,7,8,noncovid
+E02001016,Bolton 033,Highfield & New Bury,8,2,6,6,10,4,5,9,6,2,7,4,4,3,noncovid
+E02001017,Bolton 034,Kearsley & Stoneclough,12,6,7,5,11,4,5,8,6,9,10,8,3,9,noncovid
+E02001018,Bolton 035,Westhoughton Daisy Hill,4,5,6,5,2,3,3,4,4,5,5,3,5,1,noncovid
+E02000984,Bolton 001,Dunscar & Egerton,4,4,4,3,3,4,5,4,4,4,5,3,4,4,average
+E02000985,Bolton 002,Bromley Cross & Bradshaw,7,5,5,5,7,7,5,5,4,5,6,6,7,5,average
+E02000986,Bolton 003,Eagley & Sharples,5,7,6,5,4,7,7,10,7,10,5,5,5,7,average
+E02000987,Bolton 004,Horwich North,12,10,8,8,8,10,7,10,12,10,11,9,12,10,average
+E02000988,Bolton 005,Astley Bridge & Waters Meeting,8,8,8,7,7,7,6,10,7,7,11,7,8,8,average
+E02000989,Bolton 006,Harwood,9,7,8,6,6,7,8,8,6,7,7,8,9,7,average
+E02000990,Bolton 007,Horwich South & Middlebrook,5,6,5,4,5,6,5,4,5,5,5,6,5,6,average
+E02000991,Bolton 008,Smithills,6,5,6,4,6,4,8,5,7,5,6,7,6,5,average
+E02000992,Bolton 009,Blackrod & Butterwick Fields,5,5,4,5,3,4,5,5,5,7,7,6,5,5,average
+E02000993,Bolton 010,Hall I' th' Wood,6,5,3,5,5,6,4,5,5,5,7,6,6,5,average
+E02000994,Bolton 011,Halliwell & Brownlow Fold,6,5,5,5,6,4,3,4,5,6,6,6,6,5,average
+E02000995,Bolton 012,Doffcocker & Moss Bank,8,8,9,5,5,7,6,6,7,6,11,6,8,8,average
+E02000996,Bolton 013,Breightmet North,10,9,8,9,9,8,8,9,8,10,12,9,10,9,average
+E02000997,Bolton 014,Horwich East,7,7,4,5,7,7,5,8,5,6,8,4,7,7,average
+E02000998,Bolton 015,Gilnow & Victory,6,6,4,4,5,4,4,6,5,7,7,6,6,6,average
+E02000999,Bolton 016,Central Bolton,7,7,8,5,4,4,7,6,7,7,9,8,7,7,average
+E02001000,Bolton 017,Tonge,12,9,5,8,6,10,7,8,9,9,11,10,12,9,average
+E02001001,Bolton 018,Heaton & Deane,6,7,3,4,4,5,7,5,7,5,7,7,6,7,average
+E02001002,Bolton 019,Breightmet South & Darcy Lever,7,5,4,5,6,4,7,4,4,7,5,8,7,5,average
+E02001003,Bolton 020,Lostock & Ladybridge,8,5,5,6,6,4,6,6,6,5,6,6,8,5,average
+E02001004,Bolton 021,Rumworth North,3,6,5,3,4,4,5,5,5,3,6,5,3,6,average
+E02001005,Bolton 022,Springfield & Great Lever,6,6,6,6,4,7,3,7,7,10,8,6,6,6,average
+E02001006,Bolton 023,Rumworth South,6,3,5,5,4,5,4,3,5,6,6,4,6,3,average
+E02001007,Bolton 024,Little Lever,7,6,8,8,7,6,8,7,8,9,10,7,7,6,average
+E02001008,Bolton 025,Lever Edge,11,9,8,7,8,10,9,10,9,9,15,10,11,9,average
+E02001009,Bolton 026,Daubhill & Fernhill Gate,7,7,5,6,5,5,5,4,6,5,6,5,7,7,average
+E02001010,Bolton 027,Farnworth North,4,7,6,5,5,4,5,6,2,5,7,7,4,7,average
+E02001011,Bolton 028,Westhoughton East,4,5,6,7,5,4,5,8,6,6,6,3,4,5,average
+E02001012,Bolton 029,Harper Green,6,6,7,7,5,4,5,3,4,4,4,5,6,6,average
+E02001013,Bolton 030,Over Hulton,4,5,4,5,6,6,3,5,3,5,7,7,4,5,average
+E02001014,Bolton 031,Westhoughton West,6,5,7,5,7,7,6,7,6,8,8,7,6,5,average
+E02001015,Bolton 032,Farnworth South,10,8,10,8,9,7,13,11,9,11,13,10,10,8,average
+E02001016,Bolton 033,Highfield & New Bury,7,6,6,4,7,5,4,6,4,7,7,5,7,6,average
+E02001017,Bolton 034,Kearsley & Stoneclough,8,6,6,6,6,8,8,9,9,7,8,7,8,6,average
+E02001018,Bolton 035,Westhoughton Daisy Hill,4,5,3,4,3,2,3,5,3,5,5,3,4,5,average

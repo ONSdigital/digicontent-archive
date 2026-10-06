@@ -1,0 +1,103 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02000093,Brent 001,Queensbury South,1,17,1,0,0,0,0,1,1,1,10,3,1,0,covid
+E02000094,Brent 002,Kingsbury East & Colindale,1,7,2,0,0,0,0,0,0,2,8,1,0,0,covid
+E02000095,Brent 003,Kingsbury West,2,5,0,0,0,0,1,0,0,1,10,4,1,0,covid
+E02000096,Brent 004,Kenton Woodcock Park,3,3,1,0,0,0,0,0,0,4,3,6,1,0,covid
+E02000097,Brent 005,Kingsbury South,0,10,0,0,0,0,0,0,2,4,3,3,0,0,covid
+E02000098,Brent 006,Barnhill The Avenue,1,15,1,1,1,0,0,0,0,1,7,0,1,0,covid
+E02000099,Brent 007,Preston Park & East Lane,2,3,0,2,0,0,0,0,0,1,1,1,0,0,covid
+E02000100,Brent 008,Northwick Park,1,6,6,1,0,0,0,0,1,0,3,1,0,0,covid
+E02000101,Brent 009,Forty Lane,1,22,2,0,1,1,0,0,1,2,7,1,1,1,covid
+E02000102,Brent 010,Welsh Harp,0,10,0,0,0,0,0,0,0,0,3,3,0,1,covid
+E02000103,Brent 011,Dollis Hill,0,5,0,0,1,0,0,0,0,2,9,2,1,0,covid
+E02000104,Brent 012,Wembley North,3,11,2,1,0,0,1,0,0,0,10,2,1,1,covid
+E02000105,Brent 013,Sudbury East,1,5,0,1,0,0,0,0,0,1,7,5,0,0,covid
+E02000106,Brent 014,Neasden,1,12,4,0,0,0,0,1,0,2,6,1,1,0,covid
+E02000107,Brent 015,Cricklewood Anson Road,0,4,1,0,0,0,0,0,1,0,4,1,0,2,covid
+E02000108,Brent 016,Sudbury West,1,6,1,0,0,0,0,0,1,0,2,1,2,0,covid
+E02000109,Brent 017,Tokyngton,2,18,1,2,0,0,1,0,0,0,5,2,1,0,covid
+E02000110,Brent 018,Dudden Hill,2,3,0,0,0,0,0,0,0,1,6,0,0,0,covid
+E02000111,Brent 019,Wembley West,1,11,2,2,0,0,0,0,0,2,4,2,0,1,covid
+E02000112,Brent 020,Wembley East,0,15,3,0,0,0,0,0,1,0,6,3,0,0,covid
+E02000113,Brent 021,St Raphaels,1,10,1,0,1,0,1,0,0,2,8,3,0,0,covid
+E02000114,Brent 022,Willesden Green,1,6,2,0,0,0,0,0,0,0,1,1,0,1,covid
+E02000115,Brent 023,Brondesbury,0,6,1,0,0,0,0,1,0,1,3,5,0,0,covid
+E02000116,Brent 024,Roundwood Park,1,9,2,0,0,0,0,0,0,2,6,4,0,0,covid
+E02000117,Brent 025,Church End,4,30,2,0,0,0,0,1,0,1,6,4,3,1,covid
+E02000118,Brent 026,Alperton East,2,16,3,0,0,0,0,2,0,0,3,3,0,0,covid
+E02000119,Brent 027,Stonebridge,2,21,2,2,1,0,0,0,0,1,2,4,1,0,covid
+E02000120,Brent 028,Kilburn West,1,3,2,0,0,0,0,0,0,2,3,2,0,0,covid
+E02000121,Brent 029,Alperton West,3,14,2,0,0,0,0,1,1,2,6,4,1,0,covid
+E02000122,Brent 030,Brondesbury Park,2,9,1,0,0,0,0,0,0,0,5,1,0,0,covid
+E02000123,Brent 031,Harlesden,1,15,3,0,0,0,0,2,0,1,1,3,0,0,covid
+E02000124,Brent 032,Queens Park,0,4,1,0,0,0,0,0,1,0,3,2,0,0,covid
+E02000125,Brent 033,Kensal Green,0,8,1,0,0,0,0,0,0,1,3,3,0,0,covid
+E02000126,Brent 034,Kilburn Park,0,5,2,0,0,0,0,0,0,1,5,1,1,0,covid
+E02000093,Brent 001,Queensbury South,12,1,6,3,5,4,6,11,5,6,4,6,4,11,noncovid
+E02000094,Brent 002,Kingsbury East & Colindale,3,3,3,4,1,1,4,2,3,3,6,1,1,7,noncovid
+E02000095,Brent 003,Kingsbury West,7,4,6,5,3,0,5,2,5,2,6,3,5,3,noncovid
+E02000096,Brent 004,Kenton Woodcock Park,3,6,4,1,8,5,0,2,4,9,6,6,2,5,noncovid
+E02000097,Brent 005,Kingsbury South,6,6,2,6,2,1,6,1,3,4,6,1,4,5,noncovid
+E02000098,Brent 006,Barnhill The Avenue,9,20,4,1,4,5,6,5,6,5,3,3,1,7,noncovid
+E02000099,Brent 007,Preston Park & East Lane,6,6,3,3,2,2,4,1,3,3,1,1,1,5,noncovid
+E02000100,Brent 008,Northwick Park,5,6,4,3,6,3,4,4,1,4,5,5,4,5,noncovid
+E02000101,Brent 009,Forty Lane,8,10,9,2,2,5,7,4,4,4,3,10,9,4,noncovid
+E02000102,Brent 010,Welsh Harp,4,1,2,3,2,3,1,2,3,4,3,2,3,1,noncovid
+E02000103,Brent 011,Dollis Hill,7,7,6,3,4,1,4,2,2,4,6,4,4,5,noncovid
+E02000104,Brent 012,Wembley North,9,9,6,3,6,3,1,4,3,9,5,10,3,5,noncovid
+E02000105,Brent 013,Sudbury East,4,3,1,4,2,1,5,1,4,6,5,2,5,1,noncovid
+E02000106,Brent 014,Neasden,8,3,5,4,6,2,2,4,1,7,7,1,2,4,noncovid
+E02000107,Brent 015,Cricklewood Anson Road,6,3,2,6,4,4,4,6,1,5,4,6,6,7,noncovid
+E02000108,Brent 016,Sudbury West,3,4,7,6,2,0,0,2,3,4,2,2,8,1,noncovid
+E02000109,Brent 017,Tokyngton,6,7,4,1,4,1,3,4,7,5,4,4,6,2,noncovid
+E02000110,Brent 018,Dudden Hill,8,2,3,2,1,2,4,3,2,4,4,3,6,1,noncovid
+E02000111,Brent 019,Wembley West,7,10,2,4,4,3,5,7,4,11,4,4,4,8,noncovid
+E02000112,Brent 020,Wembley East,0,11,7,5,3,2,5,5,3,7,8,6,5,6,noncovid
+E02000113,Brent 021,St Raphaels,4,7,5,2,5,4,5,4,2,3,7,5,6,6,noncovid
+E02000114,Brent 022,Willesden Green,4,2,2,2,5,3,4,3,0,2,2,3,7,4,noncovid
+E02000115,Brent 023,Brondesbury,7,1,7,5,3,3,3,4,2,2,3,6,5,4,noncovid
+E02000116,Brent 024,Roundwood Park,5,6,4,4,3,5,6,4,6,4,2,3,5,0,noncovid
+E02000117,Brent 025,Church End,7,11,7,4,2,11,7,6,4,6,9,8,8,1,noncovid
+E02000118,Brent 026,Alperton East,1,8,2,5,3,7,2,2,4,7,9,6,2,4,noncovid
+E02000119,Brent 027,Stonebridge,7,6,4,2,7,7,6,10,4,3,5,6,2,3,noncovid
+E02000120,Brent 028,Kilburn West,2,3,2,4,3,3,4,3,6,2,5,4,7,1,noncovid
+E02000121,Brent 029,Alperton West,7,3,7,3,4,3,2,4,1,6,4,4,4,3,noncovid
+E02000122,Brent 030,Brondesbury Park,3,8,3,0,6,6,3,1,6,3,3,4,1,2,noncovid
+E02000123,Brent 031,Harlesden,5,7,8,6,5,6,3,4,3,5,10,2,5,5,noncovid
+E02000124,Brent 032,Queens Park,4,9,3,2,3,2,5,5,5,5,7,3,2,4,noncovid
+E02000125,Brent 033,Kensal Green,4,7,4,3,2,2,3,3,4,2,6,3,5,2,noncovid
+E02000126,Brent 034,Kilburn Park,3,8,2,2,3,3,1,2,2,4,2,2,3,3,noncovid
+E02000093,Brent 001,Queensbury South,7,6,5,6,5,5,4,6,8,5,7,6,7,6,average
+E02000094,Brent 002,Kingsbury East & Colindale,5,5,6,4,5,6,5,5,6,5,8,6,5,5,average
+E02000095,Brent 003,Kingsbury West,6,6,4,3,4,4,4,4,4,4,5,5,6,6,average
+E02000096,Brent 004,Kenton Woodcock Park,5,3,4,4,4,3,3,3,4,4,6,5,5,3,average
+E02000097,Brent 005,Kingsbury South,4,4,5,5,2,5,4,5,5,4,4,3,4,4,average
+E02000098,Brent 006,Barnhill The Avenue,7,6,5,7,5,7,5,8,6,9,11,7,7,6,average
+E02000099,Brent 007,Preston Park & East Lane,3,3,3,2,2,1,3,3,3,3,4,4,3,3,average
+E02000100,Brent 008,Northwick Park,5,5,3,4,3,6,5,4,3,5,6,5,5,5,average
+E02000101,Brent 009,Forty Lane,8,7,5,7,7,4,5,5,7,7,10,5,8,7,average
+E02000102,Brent 010,Welsh Harp,3,4,2,3,3,2,4,2,3,2,3,4,3,4,average
+E02000103,Brent 011,Dollis Hill,3,5,3,3,3,4,2,3,4,4,5,3,3,5,average
+E02000104,Brent 012,Wembley North,8,5,6,3,7,5,4,5,6,7,8,4,8,5,average
+E02000105,Brent 013,Sudbury East,4,4,4,2,5,3,4,2,3,5,5,4,4,4,average
+E02000106,Brent 014,Neasden,4,5,3,2,4,4,3,3,4,3,3,3,4,5,average
+E02000107,Brent 015,Cricklewood Anson Road,3,4,5,3,3,5,5,5,3,3,4,3,3,4,average
+E02000108,Brent 016,Sudbury West,3,3,2,3,5,3,2,3,5,2,3,5,3,3,average
+E02000109,Brent 017,Tokyngton,5,4,4,4,4,3,3,3,5,3,7,4,5,4,average
+E02000110,Brent 018,Dudden Hill,3,2,3,2,3,3,2,2,2,3,5,3,3,2,average
+E02000111,Brent 019,Wembley West,7,6,6,4,4,5,6,5,5,8,6,6,7,6,average
+E02000112,Brent 020,Wembley East,5,6,5,3,5,7,4,4,4,7,5,5,5,6,average
+E02000113,Brent 021,St Raphaels,5,4,4,2,3,3,3,3,4,4,4,4,5,4,average
+E02000114,Brent 022,Willesden Green,4,2,4,1,4,3,2,3,3,4,2,4,4,2,average
+E02000115,Brent 023,Brondesbury,4,2,6,4,3,4,4,6,4,5,4,5,4,2,average
+E02000116,Brent 024,Roundwood Park,2,3,5,2,3,3,3,4,4,3,4,3,2,3,average
+E02000117,Brent 025,Church End,6,8,6,4,5,4,5,4,7,6,7,5,6,8,average
+E02000118,Brent 026,Alperton East,4,4,5,3,3,5,4,2,4,3,5,3,4,4,average
+E02000119,Brent 027,Stonebridge,7,5,7,5,6,6,7,5,5,7,6,6,7,5,average
+E02000120,Brent 028,Kilburn West,3,3,3,3,5,3,2,4,2,3,4,3,3,3,average
+E02000121,Brent 029,Alperton West,4,3,2,2,4,3,3,1,3,2,3,4,4,3,average
+E02000122,Brent 030,Brondesbury Park,4,5,4,3,2,3,3,4,4,5,5,3,4,5,average
+E02000123,Brent 031,Harlesden,5,5,6,5,4,5,5,6,6,5,7,6,5,5,average
+E02000124,Brent 032,Queens Park,3,4,3,3,2,3,5,4,4,2,5,2,3,4,average
+E02000125,Brent 033,Kensal Green,3,4,3,3,4,4,6,5,6,5,6,5,3,4,average
+E02000126,Brent 034,Kilburn Park,2,2,3,2,1,4,2,3,4,6,5,3,2,2,average

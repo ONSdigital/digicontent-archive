@@ -1,0 +1,28 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+W02000116,Ceredigion 001,Borth & Bont-goch,0,0,0,0,0,0,0,0,1,0,0,0,0,0,covid
+W02000117,Ceredigion 002,Aberystwyth North,0,0,0,0,0,0,0,0,0,0,2,0,0,0,covid
+W02000118,Ceredigion 003,Aberystwyth South,0,1,0,0,0,0,0,0,0,0,1,0,0,0,covid
+W02000120,Ceredigion 005,Aberaeron & Llanrhystud,0,0,1,0,0,0,0,0,2,2,4,1,0,0,covid
+W02000122,Ceredigion 007,New Quay & Penbryn,0,0,0,0,0,0,0,1,1,2,2,0,0,0,covid
+W02000123,Ceredigion 008,Lampeter & Llanfihangel Ystrad,0,1,0,0,0,0,0,0,0,4,4,0,0,0,covid
+W02000124,Ceredigion 009,Cardigan & Aber-porth,0,2,0,0,0,0,0,0,1,1,9,6,1,0,covid
+W02000125,Ceredigion 010,"Beulah, Troed-yr-aur & Llandysul",0,0,0,0,0,0,0,0,1,5,6,2,0,0,covid
+W02000421,Ceredigion 011,"Rheidol, Ystwyth & Caron",1,1,0,0,0,0,0,0,9,1,3,0,0,0,covid
+W02000116,Ceredigion 001,Borth & Bont-goch,4,5,9,3,5,6,5,3,6,10,8,7,9,7,noncovid
+W02000117,Ceredigion 002,Aberystwyth North,8,4,1,4,6,4,3,5,5,3,1,1,2,3,noncovid
+W02000118,Ceredigion 003,Aberystwyth South,3,6,3,7,5,5,2,7,7,9,1,4,1,7,noncovid
+W02000120,Ceredigion 005,Aberaeron & Llanrhystud,12,7,2,14,8,8,6,6,10,10,7,6,9,5,noncovid
+W02000122,Ceredigion 007,New Quay & Penbryn,10,11,4,5,11,7,7,4,5,5,3,5,6,5,noncovid
+W02000123,Ceredigion 008,Lampeter & Llanfihangel Ystrad,7,5,9,6,6,7,6,4,9,8,10,4,9,9,noncovid
+W02000124,Ceredigion 009,Cardigan & Aber-porth,15,11,8,11,10,11,4,10,8,7,9,14,19,10,noncovid
+W02000125,Ceredigion 010,"Beulah, Troed-yr-aur & Llandysul",8,6,7,5,6,5,9,11,6,6,10,11,16,5,noncovid
+W02000421,Ceredigion 011,"Rheidol, Ystwyth & Caron",14,14,18,10,17,9,6,7,12,8,10,6,17,16,noncovid
+W02000116,Ceredigion 001,Borth & Bont-goch,8,7,7,7,5,8,4,7,8,7,8,5,8,7,average
+W02000117,Ceredigion 002,Aberystwyth North,3,4,3,3,5,4,3,4,5,6,6,5,3,4,average
+W02000118,Ceredigion 003,Aberystwyth South,7,5,4,5,5,4,4,4,5,4,6,4,7,5,average
+W02000120,Ceredigion 005,Aberaeron & Llanrhystud,9,8,9,6,5,7,6,8,6,9,10,8,9,8,average
+W02000122,Ceredigion 007,New Quay & Penbryn,7,4,5,4,5,5,4,6,7,6,8,5,7,4,average
+W02000123,Ceredigion 008,Lampeter & Llanfihangel Ystrad,8,8,8,9,5,6,8,9,8,9,8,6,8,8,average
+W02000124,Ceredigion 009,Cardigan & Aber-porth,10,10,9,11,9,8,10,11,9,13,12,9,10,10,average
+W02000125,Ceredigion 010,"Beulah, Troed-yr-aur & Llandysul",7,10,7,9,7,8,7,5,9,9,11,7,7,10,average
+W02000421,Ceredigion 011,"Rheidol, Ystwyth & Caron",15,10,11,12,11,8,10,11,12,15,17,11,15,10,average

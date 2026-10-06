@@ -1,0 +1,46 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02005906,Rushcliffe 001,East Bridgford & Aslockton,1,5,0,0,0,0,0,0,2,0,0,1,0,0,covid
+E02005907,Rushcliffe 002,Bingham,0,7,1,0,0,0,0,1,0,1,3,3,1,0,covid
+E02005908,Rushcliffe 003,Radcliffe on Trent & Shelford,0,1,5,0,0,0,0,1,3,0,6,2,1,0,covid
+E02005909,Rushcliffe 004,Lady Bay,0,4,2,0,0,0,0,1,0,2,1,2,0,0,covid
+E02005910,Rushcliffe 005,West Bridgford,1,1,1,0,0,0,0,1,1,0,1,0,2,0,covid
+E02005911,Rushcliffe 006,Gamston & Holme Pierrepoint,0,2,4,1,0,0,0,1,0,1,1,3,0,0,covid
+E02005912,Rushcliffe 007,Compton Acres & Lutterell,0,2,1,2,1,0,0,0,2,3,3,2,0,1,covid
+E02005913,Rushcliffe 008,Edwalton,0,1,0,1,0,0,0,0,1,2,3,2,1,0,covid
+E02005914,Rushcliffe 009,Cotgrave,1,7,1,1,0,0,0,2,1,2,4,2,0,0,covid
+E02005915,Rushcliffe 010,"Cropwell Bishop, Kinoulton & Upper Broughton",0,3,1,0,0,0,0,0,0,1,1,3,1,0,covid
+E02005916,Rushcliffe 011,Ruddington,0,1,1,2,0,0,0,0,3,0,12,6,1,0,covid
+E02005917,Rushcliffe 012,"Keyworth North, Tollerton & Willoughby",0,5,1,0,0,0,0,0,0,0,1,0,1,0,covid
+E02005918,Rushcliffe 013,Keyworth South,0,5,0,0,0,0,0,0,2,0,1,1,0,0,covid
+E02005919,Rushcliffe 014,"Ratcliffe, Sutton Bonington & Gotham",0,1,1,0,0,0,0,0,2,1,2,2,0,0,covid
+E02005920,Rushcliffe 015,East Leake,0,2,0,0,0,0,0,0,2,1,3,5,0,1,covid
+E02005906,Rushcliffe 001,East Bridgford & Aslockton,4,4,3,8,7,3,5,5,2,5,4,4,4,2,noncovid
+E02005907,Rushcliffe 002,Bingham,5,8,5,8,8,7,4,5,5,8,10,5,8,8,noncovid
+E02005908,Rushcliffe 003,Radcliffe on Trent & Shelford,7,6,10,9,11,15,9,7,13,11,7,16,10,5,noncovid
+E02005909,Rushcliffe 004,Lady Bay,1,6,3,3,1,2,2,1,4,3,1,3,2,7,noncovid
+E02005910,Rushcliffe 005,West Bridgford,10,7,6,2,4,7,3,3,3,3,7,7,4,3,noncovid
+E02005911,Rushcliffe 006,Gamston & Holme Pierrepoint,7,4,9,1,4,5,6,6,4,1,6,7,7,10,noncovid
+E02005912,Rushcliffe 007,Compton Acres & Lutterell,3,11,6,6,5,9,9,12,6,3,5,11,13,15,noncovid
+E02005913,Rushcliffe 008,Edwalton,7,6,7,8,2,4,4,4,7,7,3,6,4,6,noncovid
+E02005914,Rushcliffe 009,Cotgrave,11,14,4,5,5,3,5,7,11,5,4,4,8,6,noncovid
+E02005915,Rushcliffe 010,"Cropwell Bishop, Kinoulton & Upper Broughton",2,6,4,3,2,3,3,9,4,3,5,4,6,1,noncovid
+E02005916,Rushcliffe 011,Ruddington,11,14,8,9,6,3,4,4,9,5,4,7,11,4,noncovid
+E02005917,Rushcliffe 012,"Keyworth North, Tollerton & Willoughby",6,9,4,1,4,2,4,6,3,5,6,2,4,8,noncovid
+E02005918,Rushcliffe 013,Keyworth South,5,6,2,2,6,4,4,3,4,3,2,7,1,5,noncovid
+E02005919,Rushcliffe 014,"Ratcliffe, Sutton Bonington & Gotham",4,4,4,3,5,1,7,6,8,2,4,3,7,5,noncovid
+E02005920,Rushcliffe 015,East Leake,4,3,1,5,3,4,4,7,8,7,7,11,10,4,noncovid
+E02005906,Rushcliffe 001,East Bridgford & Aslockton,7,5,6,5,5,6,6,6,5,9,7,6,7,5,average
+E02005907,Rushcliffe 002,Bingham,6,6,7,7,6,5,6,7,10,8,10,6,6,6,average
+E02005908,Rushcliffe 003,Radcliffe on Trent & Shelford,8,10,11,10,8,7,8,9,10,13,15,12,8,10,average
+E02005909,Rushcliffe 004,Lady Bay,4,3,4,5,3,2,3,4,3,3,5,3,4,3,average
+E02005910,Rushcliffe 005,West Bridgford,6,5,5,4,4,3,4,4,4,4,6,6,6,5,average
+E02005911,Rushcliffe 006,Gamston & Holme Pierrepoint,6,5,6,6,6,6,6,7,9,7,9,7,6,5,average
+E02005912,Rushcliffe 007,Compton Acres & Lutterell,9,5,7,7,5,5,5,7,8,9,9,6,9,5,average
+E02005913,Rushcliffe 008,Edwalton,6,8,5,7,6,6,6,6,7,5,9,8,6,8,average
+E02005914,Rushcliffe 009,Cotgrave,7,7,6,6,6,6,6,6,7,6,7,7,7,7,average
+E02005915,Rushcliffe 010,"Cropwell Bishop, Kinoulton & Upper Broughton",3,3,3,5,3,3,2,5,4,4,4,4,3,3,average
+E02005916,Rushcliffe 011,Ruddington,8,7,6,8,10,5,8,9,6,8,10,12,8,7,average
+E02005917,Rushcliffe 012,"Keyworth North, Tollerton & Willoughby",7,5,6,5,4,7,3,5,7,7,6,6,7,5,average
+E02005918,Rushcliffe 013,Keyworth South,3,3,4,5,5,7,4,4,6,4,6,5,3,3,average
+E02005919,Rushcliffe 014,"Ratcliffe, Sutton Bonington & Gotham",6,4,6,3,3,6,4,5,5,4,6,3,6,4,average
+E02005920,Rushcliffe 015,East Leake,8,8,5,5,7,5,5,4,5,8,8,5,8,8,average

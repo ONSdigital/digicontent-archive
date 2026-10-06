@@ -1,0 +1,28 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02005212,Hyndburn 001,Great Harwood,1,8,1,0,0,1,0,1,1,4,8,3,2,0,covid
+E02005213,Hyndburn 002,Clayton-le-Moors & Huncoat,0,4,4,1,0,0,0,1,8,4,12,4,1,0,covid
+E02005214,Hyndburn 003,Rishton,0,3,1,0,0,0,0,1,1,1,3,4,1,0,covid
+E02005215,Hyndburn 004,Accrington North East,1,2,2,1,1,0,1,4,4,3,9,6,0,0,covid
+E02005216,Hyndburn 005,Church,0,0,2,0,0,0,0,0,2,3,2,3,1,0,covid
+E02005217,Hyndburn 006,Accrington West,0,3,2,0,1,0,1,2,4,3,9,4,1,0,covid
+E02005218,Hyndburn 007,Oswaldtwistle,0,1,6,2,1,0,1,1,1,0,6,2,2,0,covid
+E02005219,Hyndburn 008,Accrington South East,0,2,1,0,1,0,1,2,2,5,0,0,1,0,covid
+E02005220,Hyndburn 009,Broadfield & Knuzden,0,3,1,0,0,0,0,1,2,2,1,2,0,0,covid
+E02005212,Hyndburn 001,Great Harwood,9,12,4,5,8,2,13,8,3,9,10,6,11,6,noncovid
+E02005213,Hyndburn 002,Clayton-le-Moors & Huncoat,9,9,10,6,10,11,10,12,15,12,13,8,6,10,noncovid
+E02005214,Hyndburn 003,Rishton,0,9,6,3,7,6,5,10,5,4,4,6,2,5,noncovid
+E02005215,Hyndburn 004,Accrington North East,13,18,10,9,15,8,14,11,9,9,10,13,12,9,noncovid
+E02005216,Hyndburn 005,Church,5,5,2,6,4,0,3,2,3,4,2,11,6,6,noncovid
+E02005217,Hyndburn 006,Accrington West,13,14,12,9,7,2,9,6,8,9,6,8,7,8,noncovid
+E02005218,Hyndburn 007,Oswaldtwistle,7,9,7,3,9,8,7,4,8,10,9,5,5,6,noncovid
+E02005219,Hyndburn 008,Accrington South East,9,7,6,5,6,2,5,4,8,7,3,2,2,7,noncovid
+E02005220,Hyndburn 009,Broadfield & Knuzden,3,10,3,4,6,4,3,5,1,7,6,5,7,5,noncovid
+E02005212,Hyndburn 001,Great Harwood,7,10,8,7,8,10,6,9,9,7,12,9,7,10,average
+E02005213,Hyndburn 002,Clayton-le-Moors & Huncoat,9,11,10,12,9,8,8,14,13,10,14,11,9,11,average
+E02005214,Hyndburn 003,Rishton,5,6,5,5,4,4,5,6,5,5,6,4,5,6,average
+E02005215,Hyndburn 004,Accrington North East,16,13,14,11,13,11,11,11,13,11,17,14,16,13,average
+E02005216,Hyndburn 005,Church,4,5,4,4,4,5,3,7,4,5,5,5,4,5,average
+E02005217,Hyndburn 006,Accrington West,10,12,10,11,7,8,8,10,11,6,12,10,10,12,average
+E02005218,Hyndburn 007,Oswaldtwistle,7,8,7,8,6,7,8,6,8,8,9,7,7,8,average
+E02005219,Hyndburn 008,Accrington South East,5,6,7,8,5,6,7,6,7,7,8,6,5,6,average
+E02005220,Hyndburn 009,Broadfield & Knuzden,5,7,5,6,4,4,4,6,3,4,7,4,5,7,average

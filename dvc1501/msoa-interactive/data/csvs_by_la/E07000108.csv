@@ -1,0 +1,43 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02005041,Dover 001,Ash & Wingham,0,2,2,1,0,0,0,0,1,3,4,1,0,0,covid
+E02005042,Dover 002,Sandwich & Eastry,0,3,1,0,1,0,0,0,0,2,6,3,1,0,covid
+E02005043,Dover 003,Deal North & West,0,2,0,2,0,0,0,0,2,7,7,3,1,1,covid
+E02005044,Dover 004,Deal East,0,5,0,0,2,0,0,0,3,1,5,4,1,0,covid
+E02005045,Dover 005,"Mill Hill, Upper Deal & Northbourne",0,5,0,4,1,0,0,0,0,3,6,3,1,0,covid
+E02005046,Dover 006,Aylesham & Elvington,0,2,1,2,1,0,0,1,0,2,4,3,1,0,covid
+E02005047,Dover 007,Walmer,0,2,0,2,0,0,0,0,2,11,6,4,5,0,covid
+E02005048,Dover 008,Eyethorne & Shepherdswell,0,5,4,2,1,0,0,0,0,4,13,2,0,0,covid
+E02005049,Dover 009,Kingsdown & St Margaret's-at-Cliffe,1,1,2,1,0,0,0,0,0,3,4,0,2,0,covid
+E02005050,Dover 010,"Kearsney, River & Whitfield",0,6,10,7,3,1,0,1,3,5,10,1,0,0,covid
+E02005051,Dover 011,Buckland & St Radigunds,0,1,3,2,2,0,0,0,1,6,6,4,4,1,covid
+E02005052,Dover 012,Dover East,0,4,2,3,0,0,0,0,1,5,6,4,0,0,covid
+E02005053,Dover 013,Dover West,0,5,3,1,0,0,0,0,0,4,6,2,2,0,covid
+E02005054,Dover 014,Elms Vale & Capel-le-Ferne,0,1,3,2,1,0,0,0,0,2,4,3,3,1,covid
+E02005041,Dover 001,Ash & Wingham,11,7,5,5,8,2,6,7,6,4,7,2,4,8,noncovid
+E02005042,Dover 002,Sandwich & Eastry,12,13,6,5,11,5,4,16,7,7,7,6,10,11,noncovid
+E02005043,Dover 003,Deal North & West,9,13,10,9,7,6,13,18,6,7,9,10,10,7,noncovid
+E02005044,Dover 004,Deal East,9,8,9,4,6,5,8,6,7,13,8,5,5,7,noncovid
+E02005045,Dover 005,"Mill Hill, Upper Deal & Northbourne",11,9,4,5,10,6,7,8,13,8,13,12,6,10,noncovid
+E02005046,Dover 006,Aylesham & Elvington,6,8,4,5,3,10,1,8,3,3,7,5,3,6,noncovid
+E02005047,Dover 007,Walmer,10,18,14,10,8,10,7,11,8,12,7,6,13,7,noncovid
+E02005048,Dover 008,Eyethorne & Shepherdswell,6,10,5,10,9,8,11,7,6,7,11,5,7,8,noncovid
+E02005049,Dover 009,Kingsdown & St Margaret's-at-Cliffe,10,6,8,5,8,3,8,12,6,16,7,8,5,11,noncovid
+E02005050,Dover 010,"Kearsney, River & Whitfield",12,17,12,12,6,8,2,7,6,7,19,10,12,8,noncovid
+E02005051,Dover 011,Buckland & St Radigunds,13,7,8,9,5,10,9,14,12,10,9,11,10,7,noncovid
+E02005052,Dover 012,Dover East,13,12,10,6,5,3,5,9,5,13,8,2,6,8,noncovid
+E02005053,Dover 013,Dover West,9,7,4,9,4,6,7,4,4,5,12,8,13,8,noncovid
+E02005054,Dover 014,Elms Vale & Capel-le-Ferne,5,4,5,6,2,4,5,4,5,5,2,4,8,7,noncovid
+E02005041,Dover 001,Ash & Wingham,7,6,7,5,5,5,7,7,7,5,7,8,7,6,average
+E02005042,Dover 002,Sandwich & Eastry,10,8,7,8,8,6,6,9,10,11,12,7,10,8,average
+E02005043,Dover 003,Deal North & West,14,9,9,9,8,7,8,9,7,10,17,8,14,9,average
+E02005044,Dover 004,Deal East,8,7,6,7,4,5,6,7,7,6,9,5,8,7,average
+E02005045,Dover 005,"Mill Hill, Upper Deal & Northbourne",5,8,5,7,6,7,5,8,6,6,6,8,5,8,average
+E02005046,Dover 006,Aylesham & Elvington,8,4,6,5,3,5,4,6,5,2,7,4,8,4,average
+E02005047,Dover 007,Walmer,13,13,9,10,8,9,8,9,8,7,12,9,13,13,average
+E02005048,Dover 008,Eyethorne & Shepherdswell,8,7,6,10,6,5,6,9,8,8,11,7,8,7,average
+E02005049,Dover 009,Kingsdown & St Margaret's-at-Cliffe,8,7,8,7,7,8,8,9,8,8,12,9,8,7,average
+E02005050,Dover 010,"Kearsney, River & Whitfield",12,10,11,13,13,13,9,15,11,11,20,13,12,10,average
+E02005051,Dover 011,Buckland & St Radigunds,8,7,8,8,8,10,7,9,6,8,10,10,8,7,average
+E02005052,Dover 012,Dover East,9,10,9,7,8,7,10,5,7,8,11,5,9,10,average
+E02005053,Dover 013,Dover West,7,7,5,8,7,4,6,7,6,8,6,5,7,7,average
+E02005054,Dover 014,Elms Vale & Capel-le-Ferne,7,5,4,7,6,5,4,5,6,4,9,4,7,5,average

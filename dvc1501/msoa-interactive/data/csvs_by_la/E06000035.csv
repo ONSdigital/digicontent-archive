@@ -1,0 +1,115 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02003314,Medway 001,Hoo Peninsula,0,7,3,0,0,0,0,0,3,2,9,2,0,0,covid
+E02003315,Medway 002,Cliffe,0,1,1,0,0,0,0,0,0,1,4,1,0,0,covid
+E02003316,Medway 003,Hoo St Werburgh & High Halstow,0,5,0,0,0,0,0,0,0,11,7,1,3,0,covid
+E02003317,Medway 004,Wainscott & City Estate,0,5,4,1,1,0,1,0,2,2,5,6,2,0,covid
+E02003318,Medway 005,Broomhill,0,1,2,0,0,0,0,0,0,2,0,4,0,0,covid
+E02003319,Medway 006,Strood North & Frindsbury,0,4,0,0,0,0,0,0,0,8,11,3,0,0,covid
+E02003320,Medway 007,Chatham Maritime,0,1,0,1,0,0,0,0,0,0,4,3,0,0,covid
+E02003321,Medway 008,Rede Common,0,4,1,0,0,0,0,0,5,3,10,3,0,0,covid
+E02003322,Medway 009,Gillingham North,0,1,0,1,0,0,0,0,0,2,5,1,0,0,covid
+E02003323,Medway 010,Gillingham North East,0,4,1,1,0,0,0,0,0,3,2,1,0,0,covid
+E02003324,Medway 011,Strood South & Temple Marsh,0,3,1,0,0,0,0,0,2,2,6,3,0,0,covid
+E02003325,Medway 012,Gillingham Central,0,3,1,1,0,1,0,0,2,4,3,3,1,0,covid
+E02003326,Medway 013,Gillingham East,0,3,1,0,0,0,0,0,0,5,12,0,0,1,covid
+E02003327,Medway 014,Rochester West,0,2,2,0,0,0,0,0,0,3,5,3,0,0,covid
+E02003328,Medway 015,Chatham Central and Rochester Riverside,1,3,1,1,0,0,0,0,1,5,4,2,0,0,covid
+E02003329,Medway 016,Gillingham South,1,2,0,0,1,0,0,0,2,2,5,1,0,0,covid
+E02003330,Medway 017,Rochester East,0,0,1,0,0,0,0,0,0,2,6,0,1,0,covid
+E02003331,Medway 018,Twydall,0,3,0,0,0,1,0,0,3,7,7,5,0,0,covid
+E02003332,Medway 019,Gillingham South East,0,12,6,2,0,0,0,0,4,8,5,1,2,0,covid
+E02003333,Medway 020,Luton,0,2,2,0,0,0,0,0,2,0,6,1,0,0,covid
+E02003334,Medway 021,Chatham South West,0,0,1,0,0,0,0,0,1,8,6,1,0,1,covid
+E02003335,Medway 022,Chatham South East,1,3,1,0,0,0,0,0,2,1,4,2,1,0,covid
+E02003336,Medway 023,Rainham North West,1,2,0,0,0,1,0,0,1,8,6,4,0,0,covid
+E02003337,Medway 024,Rochester South West,0,2,0,0,1,0,0,0,2,4,9,4,1,0,covid
+E02003338,Medway 025,Rainham North East,0,4,1,0,0,0,0,0,1,3,5,6,0,0,covid
+E02003339,Medway 026,Rochester South East,0,8,1,0,1,0,0,0,1,4,7,5,1,0,covid
+E02003340,Medway 027,Wayfield,0,4,2,2,0,0,1,0,0,5,11,3,1,1,covid
+E02003341,Medway 028,Cuxton & Halling,0,0,1,1,0,0,0,0,0,3,5,0,1,0,covid
+E02003342,Medway 029,Rainham South East,0,3,0,0,0,0,1,0,1,2,2,3,0,1,covid
+E02003343,Medway 030,Rainham South West,0,1,1,0,0,0,0,0,1,3,3,1,1,0,covid
+E02003344,Medway 031,Capstone,1,1,0,0,0,0,0,0,0,2,9,2,1,0,covid
+E02003345,Medway 032,Parkwood East,0,1,1,0,0,0,0,0,0,4,2,2,1,0,covid
+E02003346,Medway 033,Horsted,0,3,1,0,0,0,0,0,0,4,8,1,0,0,covid
+E02003347,Medway 034,Settington,0,0,0,1,0,0,1,0,2,1,4,2,0,1,covid
+E02003348,Medway 035,Hempstead & Wigmore,0,4,6,2,0,0,0,0,0,9,12,1,0,0,covid
+E02003349,Medway 036,Parkwood West,0,2,1,0,0,0,0,0,1,1,12,2,2,0,covid
+E02003350,Medway 037,Walderslade,0,3,0,0,1,0,0,1,0,3,8,2,2,0,covid
+E02003351,Medway 038,Lordswood,0,2,3,0,0,0,0,0,2,4,12,6,1,0,covid
+E02003314,Medway 001,Hoo Peninsula,9,3,5,12,8,5,7,9,2,5,12,6,6,6,noncovid
+E02003315,Medway 002,Cliffe,3,3,1,3,1,3,2,1,2,1,3,5,8,3,noncovid
+E02003316,Medway 003,Hoo St Werburgh & High Halstow,5,6,6,0,2,7,8,4,6,7,8,8,5,6,noncovid
+E02003317,Medway 004,Wainscott & City Estate,9,5,7,5,3,7,13,5,3,3,5,4,3,7,noncovid
+E02003318,Medway 005,Broomhill,2,4,2,1,1,3,3,3,4,4,7,7,3,3,noncovid
+E02003319,Medway 006,Strood North & Frindsbury,10,6,4,4,3,5,7,9,4,6,8,7,7,5,noncovid
+E02003320,Medway 007,Chatham Maritime,5,4,4,3,4,6,0,1,5,9,1,4,5,2,noncovid
+E02003321,Medway 008,Rede Common,4,4,3,1,8,4,4,2,7,8,4,8,4,4,noncovid
+E02003322,Medway 009,Gillingham North,3,1,3,4,2,3,2,4,3,4,3,5,0,5,noncovid
+E02003323,Medway 010,Gillingham North East,5,7,3,5,5,1,7,4,3,4,6,8,3,0,noncovid
+E02003324,Medway 011,Strood South & Temple Marsh,6,4,2,4,5,7,8,8,4,7,7,5,9,6,noncovid
+E02003325,Medway 012,Gillingham Central,0,2,2,4,4,6,5,3,7,6,7,6,7,6,noncovid
+E02003326,Medway 013,Gillingham East,1,6,5,2,5,5,8,8,7,3,5,3,2,9,noncovid
+E02003327,Medway 014,Rochester West,3,8,2,2,9,5,6,2,4,7,3,4,4,7,noncovid
+E02003328,Medway 015,Chatham Central and Rochester Riverside,2,4,3,6,2,8,3,6,6,6,7,2,6,6,noncovid
+E02003329,Medway 016,Gillingham South,10,6,3,1,2,6,4,1,3,4,2,3,2,4,noncovid
+E02003330,Medway 017,Rochester East,2,4,3,1,2,1,4,4,2,8,4,3,5,2,noncovid
+E02003331,Medway 018,Twydall,5,8,3,9,8,4,7,4,8,6,7,6,8,6,noncovid
+E02003332,Medway 019,Gillingham South East,11,11,6,7,17,2,10,6,8,7,12,7,6,11,noncovid
+E02003333,Medway 020,Luton,9,6,1,3,4,7,2,6,2,4,9,3,3,4,noncovid
+E02003334,Medway 021,Chatham South West,10,6,4,7,2,2,8,2,3,3,4,3,3,1,noncovid
+E02003335,Medway 022,Chatham South East,1,2,7,4,1,2,6,6,4,2,3,5,2,3,noncovid
+E02003336,Medway 023,Rainham North West,4,5,5,4,4,5,6,5,4,9,6,4,6,6,noncovid
+E02003337,Medway 024,Rochester South West,6,8,1,4,3,3,6,5,6,9,8,3,6,7,noncovid
+E02003338,Medway 025,Rainham North East,6,6,5,3,7,3,5,2,2,2,6,4,7,6,noncovid
+E02003339,Medway 026,Rochester South East,5,13,4,4,6,2,4,5,5,5,6,4,9,7,noncovid
+E02003340,Medway 027,Wayfield,11,13,6,3,5,10,11,9,6,7,10,10,1,10,noncovid
+E02003341,Medway 028,Cuxton & Halling,4,3,10,2,6,2,4,5,5,3,5,3,2,1,noncovid
+E02003342,Medway 029,Rainham South East,5,7,3,3,5,4,12,4,3,5,7,6,6,2,noncovid
+E02003343,Medway 030,Rainham South West,7,5,6,4,8,4,7,2,4,1,4,4,4,1,noncovid
+E02003344,Medway 031,Capstone,4,2,1,4,1,3,3,6,3,3,7,3,3,6,noncovid
+E02003345,Medway 032,Parkwood East,3,2,2,1,0,1,1,3,5,3,3,4,3,3,noncovid
+E02003346,Medway 033,Horsted,7,9,9,3,2,9,8,11,7,12,5,9,7,5,noncovid
+E02003347,Medway 034,Settington,3,2,2,2,1,1,4,1,1,3,3,2,1,6,noncovid
+E02003348,Medway 035,Hempstead & Wigmore,10,10,4,9,10,5,7,10,8,2,8,3,6,8,noncovid
+E02003349,Medway 036,Parkwood West,10,8,8,6,2,6,9,5,3,4,7,3,9,3,noncovid
+E02003350,Medway 037,Walderslade,4,2,5,0,3,5,3,3,10,5,7,3,3,5,noncovid
+E02003351,Medway 038,Lordswood,8,6,3,7,2,7,2,5,3,3,3,5,11,3,noncovid
+E02003314,Medway 001,Hoo Peninsula,5,5,7,6,5,5,6,5,6,3,8,8,5,5,average
+E02003315,Medway 002,Cliffe,2,3,4,3,3,4,1,3,2,3,5,2,2,3,average
+E02003316,Medway 003,Hoo St Werburgh & High Halstow,8,10,5,4,7,5,7,5,6,6,12,5,8,10,average
+E02003317,Medway 004,Wainscott & City Estate,8,9,7,6,7,4,7,5,5,8,8,7,8,9,average
+E02003318,Medway 005,Broomhill,3,4,4,3,3,4,4,3,4,2,4,5,3,4,average
+E02003319,Medway 006,Strood North & Frindsbury,5,7,6,7,7,5,4,7,8,8,8,6,5,7,average
+E02003320,Medway 007,Chatham Maritime,4,2,3,3,2,3,3,3,4,2,5,3,4,2,average
+E02003321,Medway 008,Rede Common,3,4,3,5,3,5,4,5,4,4,7,4,3,4,average
+E02003322,Medway 009,Gillingham North,4,5,5,4,4,3,3,3,5,3,6,3,4,5,average
+E02003323,Medway 010,Gillingham North East,5,4,3,4,5,4,5,5,6,4,6,4,5,4,average
+E02003324,Medway 011,Strood South & Temple Marsh,6,6,5,3,5,5,4,5,4,5,5,4,6,6,average
+E02003325,Medway 012,Gillingham Central,4,4,4,4,5,3,6,4,5,3,5,5,4,4,average
+E02003326,Medway 013,Gillingham East,7,4,8,4,4,5,5,4,5,6,8,7,7,4,average
+E02003327,Medway 014,Rochester West,4,5,4,5,2,3,5,4,5,4,6,6,4,5,average
+E02003328,Medway 015,Chatham Central and Rochester Riverside,8,5,4,5,5,6,3,4,4,5,7,6,8,5,average
+E02003329,Medway 016,Gillingham South,3,5,4,4,4,4,4,3,4,5,6,4,3,5,average
+E02003330,Medway 017,Rochester East,2,3,2,5,2,2,4,3,4,4,4,3,2,3,average
+E02003331,Medway 018,Twydall,7,11,7,9,7,8,6,7,7,9,10,7,7,11,average
+E02003332,Medway 019,Gillingham South East,9,10,9,7,7,6,9,8,9,10,11,12,9,10,average
+E02003333,Medway 020,Luton,5,5,3,5,4,4,4,4,2,3,5,5,5,5,average
+E02003334,Medway 021,Chatham South West,3,4,3,3,5,3,3,4,5,4,7,6,3,4,average
+E02003335,Medway 022,Chatham South East,2,3,3,3,2,4,3,4,4,3,4,3,2,3,average
+E02003336,Medway 023,Rainham North West,5,5,4,5,4,3,3,5,6,7,7,5,5,5,average
+E02003337,Medway 024,Rochester South West,6,7,8,5,6,6,5,5,9,6,10,5,6,7,average
+E02003338,Medway 025,Rainham North East,5,6,5,3,4,5,4,3,6,5,6,6,5,6,average
+E02003339,Medway 026,Rochester South East,7,8,8,6,7,8,5,8,9,8,11,10,7,8,average
+E02003340,Medway 027,Wayfield,9,9,6,7,7,6,5,7,9,8,9,7,9,9,average
+E02003341,Medway 028,Cuxton & Halling,3,3,4,3,4,3,2,2,4,3,4,3,3,3,average
+E02003342,Medway 029,Rainham South East,4,3,3,4,3,4,5,6,4,6,7,5,4,3,average
+E02003343,Medway 030,Rainham South West,4,5,4,3,3,5,3,5,4,4,5,4,4,5,average
+E02003344,Medway 031,Capstone,3,3,5,3,5,4,3,3,5,4,3,4,3,3,average
+E02003345,Medway 032,Parkwood East,2,2,1,3,2,2,1,3,3,4,2,3,2,2,average
+E02003346,Medway 033,Horsted,7,7,5,8,6,4,6,7,7,4,7,6,7,7,average
+E02003347,Medway 034,Settington,2,3,3,1,2,2,1,2,3,3,3,4,2,3,average
+E02003348,Medway 035,Hempstead & Wigmore,8,6,6,7,7,7,7,6,8,6,9,5,8,6,average
+E02003349,Medway 036,Parkwood West,4,6,5,6,7,6,5,4,5,5,7,9,4,6,average
+E02003350,Medway 037,Walderslade,3,4,5,4,3,5,4,5,4,4,6,7,3,4,average
+E02003351,Medway 038,Lordswood,3,4,6,3,4,5,3,5,4,4,8,5,3,4,average

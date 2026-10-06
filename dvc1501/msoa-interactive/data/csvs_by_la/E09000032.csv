@@ -1,0 +1,112 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02000923,Wandsworth 001,Battersea Park,1,8,1,0,0,0,0,0,1,0,1,6,0,0,covid
+E02000924,Wandsworth 002,Nine Elms & Patmore,2,7,2,0,0,0,0,0,0,1,2,2,0,0,covid
+E02000925,Wandsworth 003,Battersea Latchmere,1,5,3,0,0,0,0,0,0,1,2,1,0,0,covid
+E02000926,Wandsworth 004,St Mary's & Cotton Row,0,9,1,1,0,0,0,0,0,0,2,6,0,0,covid
+E02000927,Wandsworth 005,Lavender Hill East,1,3,0,0,0,0,0,1,2,0,4,1,0,0,covid
+E02000928,Wandsworth 006,Putney Embankment & Lower Common,0,0,0,0,0,0,0,0,1,0,1,0,2,0,covid
+E02000929,Wandsworth 007,York Gardens,0,3,0,0,0,0,0,0,0,3,8,2,0,0,covid
+E02000930,Wandsworth 008,Lavender Hill West & Little India,0,1,1,0,0,0,0,0,0,0,3,2,0,1,covid
+E02000931,Wandsworth 009,Clapham Common West,2,1,0,0,0,0,0,0,0,1,1,1,0,0,covid
+E02000932,Wandsworth 010,Putney Town & Wandsworth Park,0,3,0,0,0,0,0,0,0,0,3,1,0,0,covid
+E02000933,Wandsworth 011,Putney West,0,2,1,0,0,0,0,0,0,0,1,0,1,0,covid
+E02000934,Wandsworth 012,Clapham Junction & East Hill,0,1,0,0,0,0,0,0,1,0,2,0,0,0,covid
+E02000935,Wandsworth 013,Roehampton North West,1,0,1,0,0,0,0,0,1,1,5,4,0,0,covid
+E02000936,Wandsworth 014,East Putney,1,2,0,0,0,0,0,0,0,1,7,0,1,1,covid
+E02000937,Wandsworth 015,Wandsworth Common,1,1,0,0,0,0,0,1,0,0,2,1,0,0,covid
+E02000938,Wandsworth 016,Roehampton North East,1,3,5,0,0,0,0,0,3,3,8,5,1,0,covid
+E02000939,Wandsworth 017,Nightingale Lane,2,13,2,0,1,0,0,0,0,1,3,1,0,0,covid
+E02000940,Wandsworth 018,Wandsworth South,0,2,0,0,0,0,0,0,0,0,0,2,0,0,covid
+E02000941,Wandsworth 019,Earlsfield North,1,5,0,0,0,0,0,2,0,0,2,3,0,0,covid
+E02000942,Wandsworth 020,Southfields North,0,5,0,0,0,0,0,0,0,0,3,1,0,0,covid
+E02000943,Wandsworth 021,Balham,0,2,1,0,0,0,0,0,0,0,4,1,0,0,covid
+E02000944,Wandsworth 022,West Hill North,1,6,1,0,1,1,0,1,0,0,6,4,0,0,covid
+E02000945,Wandsworth 023,Roehampton South & Putney Vale,4,5,2,0,0,0,0,0,0,0,3,1,2,1,covid
+E02000946,Wandsworth 024,Earlsfield South,0,3,0,0,0,0,0,0,0,0,5,1,0,0,covid
+E02000947,Wandsworth 025,Merton Road,0,2,0,0,0,0,0,0,0,2,3,0,0,0,covid
+E02000948,Wandsworth 026,Tooting Bec Common,3,4,0,0,0,0,0,1,1,0,7,1,1,0,covid
+E02000949,Wandsworth 027,Springfield,2,6,1,0,0,0,0,0,0,1,3,3,0,0,covid
+E02000950,Wandsworth 028,West Hill South,0,2,1,0,0,0,0,0,0,0,2,2,1,0,covid
+E02000951,Wandsworth 029,Tooting Bec West,1,2,0,0,0,0,0,0,0,1,1,2,0,0,covid
+E02000952,Wandsworth 030,Tooting Bec East,0,3,1,0,0,0,0,0,0,1,5,0,0,0,covid
+E02000953,Wandsworth 031,Summerstown,0,0,0,0,0,0,0,1,0,0,1,0,0,0,covid
+E02000954,Wandsworth 032,Upper Tooting,0,4,2,0,0,0,0,0,0,1,7,0,0,0,covid
+E02000955,Wandsworth 033,Tooting North,0,4,0,0,0,0,0,0,0,0,5,2,0,0,covid
+E02000956,Wandsworth 034,Tooting West,1,4,1,0,0,0,0,0,0,1,4,1,0,0,covid
+E02000957,Wandsworth 035,Tooting East,1,3,0,0,1,0,0,0,0,1,4,3,0,0,covid
+E02000958,Wandsworth 036,Furzedown West,2,4,0,0,0,0,0,0,0,2,3,4,1,0,covid
+E02000959,Wandsworth 037,Furzedown East,0,7,1,0,0,0,0,0,0,3,4,4,0,0,covid
+E02000923,Wandsworth 001,Battersea Park,5,21,4,6,5,8,4,6,3,9,7,3,7,3,noncovid
+E02000924,Wandsworth 002,Nine Elms & Patmore,5,2,6,4,3,7,5,0,5,3,4,5,4,6,noncovid
+E02000925,Wandsworth 003,Battersea Latchmere,1,5,1,6,2,1,0,3,4,4,2,3,0,4,noncovid
+E02000926,Wandsworth 004,St Mary's & Cotton Row,1,4,3,3,3,1,0,4,2,3,5,6,6,2,noncovid
+E02000927,Wandsworth 005,Lavender Hill East,1,4,1,1,4,3,1,3,4,3,3,6,1,2,noncovid
+E02000928,Wandsworth 006,Putney Embankment & Lower Common,4,5,0,2,2,4,3,7,1,2,3,8,3,1,noncovid
+E02000929,Wandsworth 007,York Gardens,1,7,4,6,1,2,3,7,2,6,5,3,4,3,noncovid
+E02000930,Wandsworth 008,Lavender Hill West & Little India,2,5,1,0,3,1,7,1,2,0,2,3,4,3,noncovid
+E02000931,Wandsworth 009,Clapham Common West,2,2,4,2,0,0,1,1,4,1,2,1,1,1,noncovid
+E02000932,Wandsworth 010,Putney Town & Wandsworth Park,4,3,0,3,1,0,2,2,3,5,4,3,0,4,noncovid
+E02000933,Wandsworth 011,Putney West,2,5,2,4,3,2,3,6,2,0,5,2,5,3,noncovid
+E02000934,Wandsworth 012,Clapham Junction & East Hill,1,1,1,2,1,1,2,2,3,3,1,5,2,0,noncovid
+E02000935,Wandsworth 013,Roehampton North West,7,12,4,4,7,3,3,3,3,6,3,3,1,9,noncovid
+E02000936,Wandsworth 014,East Putney,3,5,7,0,4,6,1,10,1,6,4,9,8,3,noncovid
+E02000937,Wandsworth 015,Wandsworth Common,4,4,0,2,2,4,1,1,1,1,4,3,1,2,noncovid
+E02000938,Wandsworth 016,Roehampton North East,6,22,8,7,8,6,9,7,9,8,1,4,6,3,noncovid
+E02000939,Wandsworth 017,Nightingale Lane,7,8,8,4,5,3,5,4,4,7,5,4,5,2,noncovid
+E02000940,Wandsworth 018,Wandsworth South,2,2,3,5,0,4,2,2,1,3,2,3,3,2,noncovid
+E02000941,Wandsworth 019,Earlsfield North,4,2,2,2,3,0,6,3,3,2,2,2,0,4,noncovid
+E02000942,Wandsworth 020,Southfields North,2,4,2,0,6,2,6,3,4,1,4,4,4,2,noncovid
+E02000943,Wandsworth 021,Balham,0,1,4,1,4,1,0,2,5,1,3,6,4,0,noncovid
+E02000944,Wandsworth 022,West Hill North,5,6,5,5,7,2,5,9,3,3,9,3,8,3,noncovid
+E02000945,Wandsworth 023,Roehampton South & Putney Vale,5,5,2,2,3,2,1,3,3,3,1,1,5,5,noncovid
+E02000946,Wandsworth 024,Earlsfield South,4,5,3,2,5,2,2,3,1,2,6,1,0,2,noncovid
+E02000947,Wandsworth 025,Merton Road,1,4,1,2,0,4,4,5,0,5,6,3,4,3,noncovid
+E02000948,Wandsworth 026,Tooting Bec Common,11,11,5,3,6,2,2,8,2,3,1,2,3,4,noncovid
+E02000949,Wandsworth 027,Springfield,9,11,3,4,4,6,5,7,4,4,2,4,2,4,noncovid
+E02000950,Wandsworth 028,West Hill South,3,2,3,4,7,1,3,2,3,3,4,4,2,2,noncovid
+E02000951,Wandsworth 029,Tooting Bec West,7,2,0,2,1,3,2,2,0,2,1,3,1,1,noncovid
+E02000952,Wandsworth 030,Tooting Bec East,1,5,1,2,2,2,2,4,5,1,1,3,3,1,noncovid
+E02000953,Wandsworth 031,Summerstown,2,3,0,2,2,3,1,3,3,2,4,2,2,5,noncovid
+E02000954,Wandsworth 032,Upper Tooting,5,2,1,4,1,1,2,3,2,3,5,2,2,3,noncovid
+E02000955,Wandsworth 033,Tooting North,5,3,2,2,5,4,3,4,3,5,1,3,1,2,noncovid
+E02000956,Wandsworth 034,Tooting West,4,3,1,3,5,4,3,5,1,3,4,5,4,7,noncovid
+E02000957,Wandsworth 035,Tooting East,2,4,3,1,3,2,2,2,2,5,7,6,1,1,noncovid
+E02000958,Wandsworth 036,Furzedown West,7,8,5,4,3,3,5,1,4,5,4,5,5,3,noncovid
+E02000959,Wandsworth 037,Furzedown East,1,3,2,3,1,2,5,2,0,5,5,2,1,1,noncovid
+E02000923,Wandsworth 001,Battersea Park,7,6,8,7,5,5,6,6,7,7,7,7,7,6,average
+E02000924,Wandsworth 002,Nine Elms & Patmore,4,4,5,3,4,3,3,4,5,4,4,4,4,4,average
+E02000925,Wandsworth 003,Battersea Latchmere,5,3,4,2,4,4,3,3,5,4,4,4,5,3,average
+E02000926,Wandsworth 004,St Mary's & Cotton Row,6,3,3,4,4,3,4,3,4,4,6,4,6,3,average
+E02000927,Wandsworth 005,Lavender Hill East,3,2,1,2,3,2,2,2,2,5,5,4,3,2,average
+E02000928,Wandsworth 006,Putney Embankment & Lower Common,3,4,3,3,3,2,4,3,4,3,5,4,3,4,average
+E02000929,Wandsworth 007,York Gardens,3,4,5,4,3,3,4,3,2,2,6,3,3,4,average
+E02000930,Wandsworth 008,Lavender Hill West & Little India,3,2,3,2,2,3,2,2,2,2,4,3,3,2,average
+E02000931,Wandsworth 009,Clapham Common West,2,2,2,2,1,2,2,2,3,2,2,1,2,2,average
+E02000932,Wandsworth 010,Putney Town & Wandsworth Park,3,1,3,4,4,3,2,4,1,2,4,3,3,1,average
+E02000933,Wandsworth 011,Putney West,3,3,3,2,4,4,5,4,3,2,5,3,3,3,average
+E02000934,Wandsworth 012,Clapham Junction & East Hill,2,3,2,3,2,2,3,1,2,3,3,3,2,3,average
+E02000935,Wandsworth 013,Roehampton North West,5,3,3,4,5,6,3,4,3,6,5,5,5,3,average
+E02000936,Wandsworth 014,East Putney,3,4,6,4,2,4,4,4,4,4,5,4,3,4,average
+E02000937,Wandsworth 015,Wandsworth Common,3,2,2,2,2,1,2,3,3,1,3,2,3,2,average
+E02000938,Wandsworth 016,Roehampton North East,8,8,7,8,9,7,7,6,7,9,10,7,8,8,average
+E02000939,Wandsworth 017,Nightingale Lane,7,5,6,5,5,6,6,7,5,6,7,5,7,5,average
+E02000940,Wandsworth 018,Wandsworth South,3,2,4,3,2,3,3,2,3,2,4,2,3,2,average
+E02000941,Wandsworth 019,Earlsfield North,2,4,3,2,3,3,3,2,4,2,4,2,2,4,average
+E02000942,Wandsworth 020,Southfields North,3,3,4,4,2,2,3,1,3,3,4,3,3,3,average
+E02000943,Wandsworth 021,Balham,2,3,2,3,2,3,2,1,1,3,4,1,2,3,average
+E02000944,Wandsworth 022,West Hill North,4,2,3,4,3,4,4,4,4,4,4,4,4,2,average
+E02000945,Wandsworth 023,Roehampton South & Putney Vale,5,4,4,4,4,4,3,3,4,4,5,4,5,4,average
+E02000946,Wandsworth 024,Earlsfield South,2,4,2,3,2,2,2,5,3,1,4,4,2,4,average
+E02000947,Wandsworth 025,Merton Road,2,3,3,4,3,3,2,2,2,1,4,2,2,3,average
+E02000948,Wandsworth 026,Tooting Bec Common,6,3,4,5,5,5,5,6,4,4,8,4,6,3,average
+E02000949,Wandsworth 027,Springfield,6,7,3,5,7,6,4,5,4,5,7,7,6,7,average
+E02000950,Wandsworth 028,West Hill South,3,2,2,3,3,2,3,3,3,3,5,3,3,2,average
+E02000951,Wandsworth 029,Tooting Bec West,5,2,1,2,1,3,2,2,2,1,2,3,5,2,average
+E02000952,Wandsworth 030,Tooting Bec East,2,1,2,2,2,2,1,2,2,2,3,3,2,1,average
+E02000953,Wandsworth 031,Summerstown,3,2,2,2,2,1,1,1,3,3,3,2,3,2,average
+E02000954,Wandsworth 032,Upper Tooting,3,2,2,3,2,1,2,2,2,2,2,3,3,2,average
+E02000955,Wandsworth 033,Tooting North,3,3,2,4,2,1,2,4,3,4,5,2,3,3,average
+E02000956,Wandsworth 034,Tooting West,3,1,3,2,2,3,3,2,3,3,4,3,3,1,average
+E02000957,Wandsworth 035,Tooting East,4,4,3,3,4,3,3,5,3,5,6,6,4,4,average
+E02000958,Wandsworth 036,Furzedown West,6,3,4,2,3,5,4,3,3,3,4,3,6,3,average
+E02000959,Wandsworth 037,Furzedown East,5,2,2,1,3,3,2,2,2,3,5,4,5,2,average

@@ -1,0 +1,46 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02004078,Erewash 001,Cotmanhay,0,3,3,1,0,0,0,0,2,2,2,5,0,0,covid
+E02004080,Erewash 003,Ilkeston Town,0,3,6,2,4,0,0,0,2,2,8,5,1,1,covid
+E02004081,Erewash 004,"Breadsall, Little Eaton & Stanley Common",0,3,0,2,0,0,0,0,5,1,2,2,1,1,covid
+E02004082,Erewash 005,West Hallam,0,3,6,2,1,0,0,0,3,4,2,5,0,0,covid
+E02004083,Erewash 006,Hallam Fields & Greenwood Ave,0,4,1,2,1,0,0,3,1,2,1,1,1,0,covid
+E02004084,Erewash 007,Kirk Hallam,0,3,0,2,0,0,0,1,7,2,6,0,0,0,covid
+E02004085,Erewash 008,Sandiacre & Stanton,0,6,1,0,0,0,0,0,11,3,3,3,1,1,covid
+E02004086,Erewash 009,Borrowash & Ockbrook,0,1,0,2,0,0,0,1,0,1,2,1,0,1,covid
+E02004087,Erewash 010,Long Eaton North,0,1,0,0,0,0,0,0,1,4,3,7,0,0,covid
+E02004088,Erewash 011,Long Eaton West,1,8,2,1,0,0,0,0,1,0,4,2,1,0,covid
+E02004089,Erewash 012,Long Eaton Town,0,4,1,1,0,0,0,0,5,0,4,3,0,1,covid
+E02004090,Erewash 013,Breaston & Draycott,0,1,2,1,0,0,0,1,0,0,3,1,3,0,covid
+E02004091,Erewash 014,Long Eaton South,1,4,2,0,0,0,0,0,4,1,3,11,1,0,covid
+E02004092,Erewash 015,Sawley,0,2,0,1,0,0,0,2,2,0,2,3,0,1,covid
+E02006828,Erewash 016,Shipley,0,1,0,0,0,0,0,1,0,2,2,4,1,0,covid
+E02004078,Erewash 001,Cotmanhay,9,4,8,6,6,1,2,4,2,5,6,9,3,5,noncovid
+E02004080,Erewash 003,Ilkeston Town,14,7,8,7,3,10,11,7,8,11,8,13,8,8,noncovid
+E02004081,Erewash 004,"Breadsall, Little Eaton & Stanley Common",10,5,2,2,4,0,4,6,1,9,4,4,7,2,noncovid
+E02004082,Erewash 005,West Hallam,9,14,9,9,5,6,12,4,5,4,6,3,11,12,noncovid
+E02004083,Erewash 006,Hallam Fields & Greenwood Ave,0,6,7,8,1,5,5,1,4,8,7,3,1,6,noncovid
+E02004084,Erewash 007,Kirk Hallam,11,11,7,6,5,4,6,4,6,3,7,7,3,11,noncovid
+E02004085,Erewash 008,Sandiacre & Stanton,12,7,18,8,9,8,8,12,8,18,7,11,10,11,noncovid
+E02004086,Erewash 009,Borrowash & Ockbrook,2,9,8,11,4,4,5,6,6,10,4,2,9,6,noncovid
+E02004087,Erewash 010,Long Eaton North,3,4,3,4,5,5,11,7,7,6,7,8,5,8,noncovid
+E02004088,Erewash 011,Long Eaton West,9,8,5,3,9,3,2,4,4,2,11,4,9,9,noncovid
+E02004089,Erewash 012,Long Eaton Town,12,7,3,8,5,6,3,2,4,5,2,3,2,3,noncovid
+E02004090,Erewash 013,Breaston & Draycott,6,11,5,7,6,4,3,5,4,7,5,4,8,6,noncovid
+E02004091,Erewash 014,Long Eaton South,6,7,4,11,10,6,12,8,12,9,10,5,5,11,noncovid
+E02004092,Erewash 015,Sawley,9,8,6,8,7,7,12,5,12,5,8,8,11,4,noncovid
+E02006828,Erewash 016,Shipley,8,8,6,2,7,4,5,3,11,4,3,3,2,1,noncovid
+E02004078,Erewash 001,Cotmanhay,8,7,5,6,4,4,6,6,6,6,9,5,8,7,average
+E02004080,Erewash 003,Ilkeston Town,9,12,12,10,9,7,10,11,8,11,13,10,9,12,average
+E02004081,Erewash 004,"Breadsall, Little Eaton & Stanley Common",6,5,3,3,5,4,2,4,5,3,6,4,6,5,average
+E02004082,Erewash 005,West Hallam,10,7,7,3,8,7,9,8,6,8,14,9,10,7,average
+E02004083,Erewash 006,Hallam Fields & Greenwood Ave,2,5,3,4,6,3,5,4,4,4,5,4,2,5,average
+E02004084,Erewash 007,Kirk Hallam,7,7,7,7,5,6,8,9,8,5,10,7,7,7,average
+E02004085,Erewash 008,Sandiacre & Stanton,8,8,9,10,7,5,10,8,6,11,9,10,8,8,average
+E02004086,Erewash 009,Borrowash & Ockbrook,9,10,6,8,9,7,7,10,7,8,10,7,9,10,average
+E02004087,Erewash 010,Long Eaton North,6,4,5,7,5,4,5,5,5,7,10,6,6,4,average
+E02004088,Erewash 011,Long Eaton West,6,6,7,7,4,3,5,6,7,5,8,6,6,6,average
+E02004089,Erewash 012,Long Eaton Town,5,6,5,5,3,4,4,6,6,6,5,6,5,6,average
+E02004090,Erewash 013,Breaston & Draycott,3,5,5,5,6,5,4,6,8,9,8,8,3,5,average
+E02004091,Erewash 014,Long Eaton South,8,6,7,6,5,5,6,10,5,5,8,6,8,6,average
+E02004092,Erewash 015,Sawley,7,6,6,7,6,6,6,7,6,6,11,6,7,6,average
+E02006828,Erewash 016,Shipley,5,5,6,3,3,5,3,4,5,4,4,5,5,5,average

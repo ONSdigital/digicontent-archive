@@ -1,0 +1,43 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02005377,Hinckley and Bosworth 001,Markfield & Thornton,0,5,1,0,0,0,0,0,0,4,2,3,0,1,covid
+E02005378,Hinckley and Bosworth 002,Groby East,0,0,1,0,0,0,0,0,0,0,2,0,0,0,covid
+E02005379,Hinckley and Bosworth 003,Groby West & Ratby,0,1,2,0,0,0,0,0,1,1,2,2,0,0,covid
+E02005380,Hinckley and Bosworth 004,"Market Bosworth, Barlestone & Sheepy Magna",0,1,1,1,0,0,0,1,1,2,2,2,0,0,covid
+E02005381,Hinckley and Bosworth 005,Desford & Newbold Verdon,0,4,5,0,0,0,0,0,3,1,3,2,1,0,covid
+E02005382,Hinckley and Bosworth 006,Earl Shilton,0,4,3,1,0,0,0,1,4,0,2,4,0,0,covid
+E02005383,Hinckley and Bosworth 007,Barwell,0,4,4,4,0,0,0,0,1,1,13,2,0,0,covid
+E02005384,Hinckley and Bosworth 008,"Stoke Golding, Higham & Fenny Drayton",1,4,7,3,0,0,0,0,0,0,1,3,1,0,covid
+E02005385,Hinckley and Bosworth 009,Hinckley East,0,1,0,1,1,0,0,0,1,2,3,1,1,0,covid
+E02005386,Hinckley and Bosworth 010,Hinckley Central,0,9,4,5,1,0,1,0,2,1,2,1,0,0,covid
+E02005387,Hinckley and Bosworth 011,Hinckley West,0,1,0,1,0,0,0,0,1,1,2,2,1,0,covid
+E02005388,Hinckley and Bosworth 012,Hinckley Clarendon Park,0,4,0,1,0,0,0,0,0,0,0,0,0,0,covid
+E02005389,Hinckley and Bosworth 013,Burbage St Catherines,0,5,0,1,1,0,1,0,0,1,5,2,2,0,covid
+E02005390,Hinckley and Bosworth 014,Burbage Sketchley & Stretton,0,2,0,1,0,1,0,1,1,1,2,0,3,0,covid
+E02005377,Hinckley and Bosworth 001,Markfield & Thornton,7,7,9,5,3,9,8,7,2,11,10,5,8,9,noncovid
+E02005378,Hinckley and Bosworth 002,Groby East,5,1,5,4,3,4,3,4,2,2,1,1,3,3,noncovid
+E02005379,Hinckley and Bosworth 003,Groby West & Ratby,7,5,4,7,2,6,3,5,4,7,2,8,8,2,noncovid
+E02005380,Hinckley and Bosworth 004,"Market Bosworth, Barlestone & Sheepy Magna",10,4,8,9,3,4,4,3,10,10,10,10,8,6,noncovid
+E02005381,Hinckley and Bosworth 005,Desford & Newbold Verdon,8,16,6,10,9,5,5,7,4,11,10,4,8,4,noncovid
+E02005382,Hinckley and Bosworth 006,Earl Shilton,17,9,7,5,11,7,8,7,3,10,12,5,7,7,noncovid
+E02005383,Hinckley and Bosworth 007,Barwell,9,13,13,6,10,4,6,7,6,8,5,6,7,9,noncovid
+E02005384,Hinckley and Bosworth 008,"Stoke Golding, Higham & Fenny Drayton",5,9,3,5,6,6,9,9,6,3,3,2,6,6,noncovid
+E02005385,Hinckley and Bosworth 009,Hinckley East,3,7,2,6,3,3,7,3,3,8,4,8,3,5,noncovid
+E02005386,Hinckley and Bosworth 010,Hinckley Central,8,15,9,9,6,4,11,9,7,10,7,6,7,8,noncovid
+E02005387,Hinckley and Bosworth 011,Hinckley West,4,6,3,8,4,3,4,4,5,7,4,4,7,3,noncovid
+E02005388,Hinckley and Bosworth 012,Hinckley Clarendon Park,5,3,3,10,4,4,3,3,3,7,2,3,5,5,noncovid
+E02005389,Hinckley and Bosworth 013,Burbage St Catherines,5,13,4,9,5,8,4,7,7,5,9,11,3,12,noncovid
+E02005390,Hinckley and Bosworth 014,Burbage Sketchley & Stretton,5,5,4,2,3,2,5,2,1,4,8,5,5,15,noncovid
+E02005377,Hinckley and Bosworth 001,Markfield & Thornton,6,7,6,8,9,5,7,6,8,6,9,8,6,7,average
+E02005378,Hinckley and Bosworth 002,Groby East,4,4,2,2,3,3,2,3,3,4,3,3,4,4,average
+E02005379,Hinckley and Bosworth 003,Groby West & Ratby,4,4,4,2,3,4,3,2,3,4,6,4,4,4,average
+E02005380,Hinckley and Bosworth 004,"Market Bosworth, Barlestone & Sheepy Magna",7,7,7,7,7,9,8,7,8,9,8,6,7,7,average
+E02005381,Hinckley and Bosworth 005,Desford & Newbold Verdon,9,9,9,3,9,6,7,11,8,9,10,7,9,9,average
+E02005382,Hinckley and Bosworth 006,Earl Shilton,10,8,7,8,9,8,8,9,7,8,13,10,10,8,average
+E02005383,Hinckley and Bosworth 007,Barwell,9,7,8,6,7,7,10,6,7,7,12,9,9,7,average
+E02005384,Hinckley and Bosworth 008,"Stoke Golding, Higham & Fenny Drayton",7,5,6,6,5,5,6,5,6,5,7,5,7,5,average
+E02005385,Hinckley and Bosworth 009,Hinckley East,3,4,3,4,3,3,3,4,4,3,4,4,3,4,average
+E02005386,Hinckley and Bosworth 010,Hinckley Central,12,9,12,10,8,10,10,9,8,11,12,10,12,9,average
+E02005387,Hinckley and Bosworth 011,Hinckley West,5,3,3,7,5,5,4,4,6,5,6,4,5,3,average
+E02005388,Hinckley and Bosworth 012,Hinckley Clarendon Park,5,5,4,4,4,3,4,3,4,5,7,4,5,5,average
+E02005389,Hinckley and Bosworth 013,Burbage St Catherines,7,9,7,7,5,6,5,7,8,5,11,10,7,9,average
+E02005390,Hinckley and Bosworth 014,Burbage Sketchley & Stretton,9,5,5,5,4,7,5,6,4,5,7,5,9,5,average

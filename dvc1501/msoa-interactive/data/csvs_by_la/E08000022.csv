@@ -1,0 +1,91 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02001738,North Tyneside 001,Whitley Bay North,0,1,3,0,0,0,0,1,0,1,0,3,0,0,covid
+E02001739,North Tyneside 002,Fordley,1,0,2,0,0,0,0,2,6,1,3,1,0,0,covid
+E02001740,North Tyneside 003,Whitley Sands,0,1,0,0,0,0,0,0,0,1,3,3,0,0,covid
+E02001741,North Tyneside 004,Wideopen & Seaton Burn,1,2,0,0,0,0,0,0,3,1,2,4,1,1,covid
+E02001742,North Tyneside 005,West Monkseaton,0,2,1,0,0,0,0,0,0,0,0,1,0,0,covid
+E02001743,North Tyneside 006,Whitley Bay Promenade,0,6,3,0,0,0,0,0,0,5,2,1,1,0,covid
+E02001744,North Tyneside 007,Shiremoor North & South Wellfield,0,1,2,0,0,0,0,0,2,3,10,5,2,0,covid
+E02001745,North Tyneside 008,Killingworth West & Camperdown,0,2,1,0,0,0,0,2,1,1,2,0,1,0,covid
+E02001746,North Tyneside 009,Monkseaton,0,3,6,0,0,0,0,0,1,0,4,1,2,0,covid
+E02001747,North Tyneside 010,Cullercoats,0,1,1,0,0,0,0,1,1,2,0,2,1,0,covid
+E02001748,North Tyneside 011,Shiremoor South & West Allotment,0,3,3,1,0,0,0,0,1,0,2,3,0,0,covid
+E02001749,North Tyneside 012,Killingworth East,0,1,1,0,0,0,0,2,1,3,5,3,3,1,covid
+E02001750,North Tyneside 013,Preston Grange,0,4,6,1,0,0,0,0,2,0,2,1,3,0,covid
+E02001751,North Tyneside 014,Forest Hall & West Moor,0,4,0,0,0,0,0,0,1,2,2,2,1,0,covid
+E02001752,North Tyneside 015,New York,0,4,1,0,0,0,0,2,1,2,4,2,3,0,covid
+E02001753,North Tyneside 016,Tynemouth Priory,0,1,0,0,0,0,0,0,1,0,0,1,2,0,covid
+E02001754,North Tyneside 017,Tynemouth West,1,5,5,1,1,1,0,0,2,0,0,0,0,0,covid
+E02001755,North Tyneside 018,Holystone & Benton,0,2,0,0,0,0,0,1,0,7,1,2,2,0,covid
+E02001756,North Tyneside 019,Longbenton,0,1,1,0,0,0,0,0,10,2,1,2,0,0,covid
+E02001757,North Tyneside 020,Preston Billy Mill,0,0,0,0,0,0,0,1,1,0,3,3,1,0,covid
+E02001758,North Tyneside 021,Battle Hill East,0,1,0,1,0,0,0,0,0,1,3,2,0,0,covid
+E02001759,North Tyneside 022,North Shields,0,1,1,0,0,0,0,1,0,2,6,2,1,1,covid
+E02001760,North Tyneside 023,Chirton,0,4,0,0,0,0,0,0,1,0,1,1,0,1,covid
+E02001761,North Tyneside 024,Battle Hill West,0,2,4,0,0,0,0,1,1,1,4,2,0,0,covid
+E02001762,North Tyneside 025,East Benton,0,0,1,0,0,0,1,0,1,0,1,3,0,1,covid
+E02001763,North Tyneside 026,Howdon,0,3,4,0,1,0,0,0,0,2,1,1,1,0,covid
+E02001764,North Tyneside 027,Percy Main,0,3,1,0,0,0,0,1,5,8,2,3,1,0,covid
+E02001765,North Tyneside 028,Willington Quay,0,7,13,1,1,0,0,0,0,0,1,2,3,0,covid
+E02001766,North Tyneside 029,Wallsend East,0,1,1,0,0,0,0,0,2,0,0,2,0,0,covid
+E02001767,North Tyneside 030,Wallsend West,0,8,3,1,1,0,0,0,0,3,0,13,1,0,covid
+E02001738,North Tyneside 001,Whitley Bay North,7,6,7,4,8,2,3,3,9,7,5,5,11,1,noncovid
+E02001739,North Tyneside 002,Fordley,4,5,8,8,3,4,3,11,13,6,8,5,11,9,noncovid
+E02001740,North Tyneside 003,Whitley Sands,2,6,3,7,5,5,6,2,3,4,3,5,5,4,noncovid
+E02001741,North Tyneside 004,Wideopen & Seaton Burn,6,9,10,7,13,13,5,5,12,9,11,2,7,5,noncovid
+E02001742,North Tyneside 005,West Monkseaton,8,7,7,6,5,4,8,5,9,4,5,5,8,6,noncovid
+E02001743,North Tyneside 006,Whitley Bay Promenade,8,13,9,9,12,9,7,6,6,8,9,6,4,8,noncovid
+E02001744,North Tyneside 007,Shiremoor North & South Wellfield,3,6,6,6,4,4,4,5,4,5,6,2,3,5,noncovid
+E02001745,North Tyneside 008,Killingworth West & Camperdown,1,4,6,4,4,6,3,7,1,5,3,3,8,1,noncovid
+E02001746,North Tyneside 009,Monkseaton,9,11,7,4,1,3,6,5,6,5,6,9,7,7,noncovid
+E02001747,North Tyneside 010,Cullercoats,10,4,9,7,3,2,8,8,3,8,8,6,7,3,noncovid
+E02001748,North Tyneside 011,Shiremoor South & West Allotment,1,5,4,3,6,5,2,3,1,5,7,7,5,4,noncovid
+E02001749,North Tyneside 012,Killingworth East,4,4,4,2,4,3,7,6,2,7,2,3,2,8,noncovid
+E02001750,North Tyneside 013,Preston Grange,3,4,4,2,4,4,6,6,7,8,7,7,6,3,noncovid
+E02001751,North Tyneside 014,Forest Hall & West Moor,7,13,2,7,7,4,11,4,1,4,5,7,5,11,noncovid
+E02001752,North Tyneside 015,New York,4,2,5,7,6,5,2,4,5,4,4,9,2,8,noncovid
+E02001753,North Tyneside 016,Tynemouth Priory,10,5,2,6,4,6,9,6,3,0,2,7,6,1,noncovid
+E02001754,North Tyneside 017,Tynemouth West,5,11,8,3,3,7,11,5,7,14,10,9,8,7,noncovid
+E02001755,North Tyneside 018,Holystone & Benton,6,4,8,6,3,4,5,3,12,11,4,3,6,8,noncovid
+E02001756,North Tyneside 019,Longbenton,10,5,9,14,6,4,5,10,7,5,6,5,13,5,noncovid
+E02001757,North Tyneside 020,Preston Billy Mill,5,3,7,9,11,1,3,5,5,5,6,5,4,2,noncovid
+E02001758,North Tyneside 021,Battle Hill East,5,4,8,2,7,4,2,6,0,1,4,2,3,2,noncovid
+E02001759,North Tyneside 022,North Shields,3,4,9,4,8,4,4,9,12,5,11,12,2,9,noncovid
+E02001760,North Tyneside 023,Chirton,7,3,7,10,4,9,3,3,3,4,5,12,6,10,noncovid
+E02001761,North Tyneside 024,Battle Hill West,5,8,4,6,3,7,6,7,9,13,5,4,6,8,noncovid
+E02001762,North Tyneside 025,East Benton,4,9,2,2,3,3,2,3,4,4,3,4,5,3,noncovid
+E02001763,North Tyneside 026,Howdon,4,5,3,4,3,0,6,1,3,5,8,7,7,6,noncovid
+E02001764,North Tyneside 027,Percy Main,10,4,5,11,9,10,8,11,9,9,12,7,10,9,noncovid
+E02001765,North Tyneside 028,Willington Quay,6,7,9,5,6,10,8,7,11,12,7,3,6,6,noncovid
+E02001766,North Tyneside 029,Wallsend East,4,2,4,8,7,1,3,5,3,6,2,2,4,1,noncovid
+E02001767,North Tyneside 030,Wallsend West,9,14,11,7,6,6,8,7,5,12,13,6,6,13,noncovid
+E02001738,North Tyneside 001,Whitley Bay North,5,6,4,4,5,5,5,4,6,4,7,4,5,6,average
+E02001739,North Tyneside 002,Fordley,8,9,7,4,7,6,6,6,7,5,9,6,8,9,average
+E02001740,North Tyneside 003,Whitley Sands,3,2,4,4,3,3,3,7,4,3,6,5,3,2,average
+E02001741,North Tyneside 004,Wideopen & Seaton Burn,8,6,8,9,8,9,8,8,7,6,10,7,8,6,average
+E02001742,North Tyneside 005,West Monkseaton,6,6,4,6,6,6,5,6,8,7,8,6,6,6,average
+E02001743,North Tyneside 006,Whitley Bay Promenade,8,9,9,7,8,7,8,11,6,9,11,10,8,9,average
+E02001744,North Tyneside 007,Shiremoor North & South Wellfield,5,7,5,5,6,4,5,6,5,5,8,6,5,7,average
+E02001745,North Tyneside 008,Killingworth West & Camperdown,5,4,5,4,4,2,4,3,3,3,3,4,5,4,average
+E02001746,North Tyneside 009,Monkseaton,8,8,6,6,6,4,7,6,6,6,9,7,8,8,average
+E02001747,North Tyneside 010,Cullercoats,8,4,5,5,6,5,7,6,7,6,8,7,8,4,average
+E02001748,North Tyneside 011,Shiremoor South & West Allotment,7,3,5,5,4,4,4,4,4,5,6,5,7,3,average
+E02001749,North Tyneside 012,Killingworth East,8,7,5,5,5,4,4,4,4,4,8,6,8,7,average
+E02001750,North Tyneside 013,Preston Grange,4,6,4,5,5,5,6,7,8,6,7,5,4,6,average
+E02001751,North Tyneside 014,Forest Hall & West Moor,5,7,7,7,5,6,7,7,9,7,7,9,5,7,average
+E02001752,North Tyneside 015,New York,6,4,6,5,4,4,5,3,5,4,6,4,6,4,average
+E02001753,North Tyneside 016,Tynemouth Priory,8,5,5,6,7,5,4,6,6,4,5,6,8,5,average
+E02001754,North Tyneside 017,Tynemouth West,9,8,9,7,6,8,7,8,8,7,9,9,9,8,average
+E02001755,North Tyneside 018,Holystone & Benton,6,8,8,5,6,6,4,5,5,6,9,6,6,8,average
+E02001756,North Tyneside 019,Longbenton,9,11,5,8,9,7,5,6,9,9,11,8,9,11,average
+E02001757,North Tyneside 020,Preston Billy Mill,5,5,5,4,5,7,6,4,6,4,7,6,5,5,average
+E02001758,North Tyneside 021,Battle Hill East,2,2,4,4,3,2,3,4,4,3,3,3,2,2,average
+E02001759,North Tyneside 022,North Shields,7,8,7,6,8,7,6,5,6,7,8,7,7,8,average
+E02001760,North Tyneside 023,Chirton,7,8,7,5,6,6,7,6,9,8,9,9,7,8,average
+E02001761,North Tyneside 024,Battle Hill West,5,8,5,6,5,6,6,7,6,6,7,6,5,8,average
+E02001762,North Tyneside 025,East Benton,3,4,4,4,4,3,2,4,4,3,3,6,3,4,average
+E02001763,North Tyneside 026,Howdon,6,7,4,4,6,6,3,6,5,4,7,8,6,7,average
+E02001764,North Tyneside 027,Percy Main,9,11,10,7,9,8,10,7,9,9,13,6,9,11,average
+E02001765,North Tyneside 028,Willington Quay,9,7,10,8,9,8,8,8,12,13,13,11,9,7,average
+E02001766,North Tyneside 029,Wallsend East,5,3,5,2,4,4,5,4,4,3,5,5,5,3,average
+E02001767,North Tyneside 030,Wallsend West,8,10,6,8,8,7,8,9,10,8,11,9,8,10,average

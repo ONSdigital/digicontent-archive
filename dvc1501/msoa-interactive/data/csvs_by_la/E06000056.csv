@@ -1,0 +1,100 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02003599,Central Bedfordshire 001,Sandy North,0,5,1,2,0,0,0,0,0,0,6,0,0,0,covid
+E02003600,Central Bedfordshire 002,Sandy South,0,7,2,1,0,0,0,0,2,1,2,5,1,0,covid
+E02003601,Central Bedfordshire 003,Potton,0,3,3,0,0,0,0,0,0,0,2,1,0,0,covid
+E02003602,Central Bedfordshire 004,"Blunham, Caldecote & Broom",1,2,2,0,0,0,0,0,2,0,4,1,0,0,covid
+E02003603,Central Bedfordshire 005,Biggleswade West,0,5,4,8,0,0,0,0,0,2,5,5,0,0,covid
+E02003604,Central Bedfordshire 006,Biggleswade East,0,3,6,1,1,0,0,0,1,1,8,1,1,0,covid
+E02003605,Central Bedfordshire 007,Cranfield & Apsley Guise,0,9,2,0,2,0,0,0,0,1,3,1,0,0,covid
+E02003606,Central Bedfordshire 008,Houghton Conquest & Clophill,1,4,2,2,0,0,1,0,1,1,2,5,1,0,covid
+E02003607,Central Bedfordshire 009,"Marston Moretaine, Lidlington & Woburn",0,7,2,1,1,0,0,0,1,1,4,5,0,0,covid
+E02003608,Central Bedfordshire 010,Arlesey & Henlow,1,6,0,0,1,0,0,1,1,0,6,4,0,0,covid
+E02003609,Central Bedfordshire 011,Shefford & Shillington,0,9,4,1,1,0,0,0,0,0,2,2,1,0,covid
+E02003610,Central Bedfordshire 012,Ampthill & Millbrook,0,8,2,0,1,0,0,0,1,0,3,1,1,0,covid
+E02003611,Central Bedfordshire 013,"Clifton, Meppershall & Stondon",0,3,1,1,1,0,0,1,1,2,8,4,1,0,covid
+E02003612,Central Bedfordshire 014,Stotfold,1,1,3,0,0,0,0,0,0,2,1,3,1,0,covid
+E02003613,Central Bedfordshire 015,Flitwick East,1,2,1,1,0,0,0,0,1,1,3,0,1,0,covid
+E02003614,Central Bedfordshire 016,Flitwick West,0,1,1,1,0,0,0,0,1,0,3,2,0,0,covid
+E02003615,Central Bedfordshire 017,"Westoning, Harlington & Silsoe",0,5,1,0,0,0,0,0,0,1,6,8,4,0,covid
+E02003636,Central Bedfordshire 018,Barton-le-Clay & Upper Sundon,0,5,2,0,0,0,0,0,1,0,4,3,0,0,covid
+E02003637,Central Bedfordshire 019,"Toddington, Heath & Reach",1,3,1,2,0,0,0,0,0,3,4,2,2,0,covid
+E02003638,Central Bedfordshire 020,Leighton Buzzard North & East,0,2,1,0,0,0,0,0,0,1,4,3,0,0,covid
+E02003639,Central Bedfordshire 021,Leighton Buzzard Central,0,1,3,3,0,0,0,0,2,9,9,0,1,0,covid
+E02003640,Central Bedfordshire 022,Linslade East,0,3,1,2,0,0,0,0,0,1,2,2,0,0,covid
+E02003641,Central Bedfordshire 023,Linslade West,0,3,1,0,0,0,0,0,0,1,3,0,0,0,covid
+E02003642,Central Bedfordshire 025,Houghton Regis North,1,2,2,2,0,0,0,0,0,0,5,4,0,0,covid
+E02003643,Central Bedfordshire 024,Leighton Buzzard South East,1,1,3,0,0,0,0,0,1,1,2,2,1,0,covid
+E02003644,Central Bedfordshire 026,Houghton Regis South,0,4,5,0,1,0,0,0,0,1,6,1,0,0,covid
+E02003645,Central Bedfordshire 027,Dunstable East,1,2,1,1,0,0,0,0,0,3,3,2,0,1,covid
+E02003646,Central Bedfordshire 028,Dunstable West,1,3,0,2,0,0,0,0,1,1,7,3,0,0,covid
+E02003647,Central Bedfordshire 029,Dunstable Central,0,13,3,0,0,0,0,0,0,4,9,4,1,0,covid
+E02003648,Central Bedfordshire 030,Dunstable Manshead,0,3,4,0,0,0,1,0,0,2,3,0,0,0,covid
+E02003649,Central Bedfordshire 031,Dunstable South,0,2,0,0,0,0,0,0,1,0,3,0,0,0,covid
+E02003650,Central Bedfordshire 032,"Eaton Bray, Whipsnade & Holywell",0,3,5,2,1,0,0,0,0,0,10,2,1,0,covid
+E02003651,Central Bedfordshire 033,Caddington & Slip End,0,6,0,0,2,0,0,1,0,6,8,7,0,0,covid
+E02003599,Central Bedfordshire 001,Sandy North,2,2,1,1,0,2,2,3,1,1,7,5,8,4,noncovid
+E02003600,Central Bedfordshire 002,Sandy South,3,7,1,4,4,4,5,2,3,4,4,5,6,7,noncovid
+E02003601,Central Bedfordshire 003,Potton,6,7,5,5,2,5,2,4,3,4,4,3,2,4,noncovid
+E02003602,Central Bedfordshire 004,"Blunham, Caldecote & Broom",3,7,2,4,3,0,5,4,3,3,8,5,8,7,noncovid
+E02003603,Central Bedfordshire 005,Biggleswade West,5,5,6,4,8,4,11,11,7,3,3,11,9,11,noncovid
+E02003604,Central Bedfordshire 006,Biggleswade East,9,7,10,7,6,2,6,4,5,5,12,6,3,4,noncovid
+E02003605,Central Bedfordshire 007,Cranfield & Apsley Guise,3,5,7,2,2,5,4,2,6,4,4,2,4,13,noncovid
+E02003606,Central Bedfordshire 008,Houghton Conquest & Clophill,4,7,5,5,9,2,4,8,8,3,5,8,7,7,noncovid
+E02003607,Central Bedfordshire 009,"Marston Moretaine, Lidlington & Woburn",3,5,5,9,5,4,9,3,3,7,5,4,8,4,noncovid
+E02003608,Central Bedfordshire 010,Arlesey & Henlow,12,18,7,5,4,8,6,9,7,7,9,7,7,7,noncovid
+E02003609,Central Bedfordshire 011,Shefford & Shillington,5,9,11,3,4,6,9,2,5,8,4,4,8,8,noncovid
+E02003610,Central Bedfordshire 012,Ampthill & Millbrook,4,8,2,6,2,4,1,6,4,7,4,4,5,4,noncovid
+E02003611,Central Bedfordshire 013,"Clifton, Meppershall & Stondon",8,8,3,4,8,10,5,5,8,4,3,5,10,7,noncovid
+E02003612,Central Bedfordshire 014,Stotfold,6,4,5,3,3,3,4,10,5,8,8,8,8,10,noncovid
+E02003613,Central Bedfordshire 015,Flitwick East,6,7,1,2,3,5,3,5,2,6,3,4,8,2,noncovid
+E02003614,Central Bedfordshire 016,Flitwick West,6,7,6,4,2,1,0,2,4,3,4,11,6,4,noncovid
+E02003615,Central Bedfordshire 017,"Westoning, Harlington & Silsoe",2,9,7,8,7,9,2,5,7,6,4,10,6,9,noncovid
+E02003636,Central Bedfordshire 018,Barton-le-Clay & Upper Sundon,5,9,4,1,4,3,7,3,2,7,6,2,3,5,noncovid
+E02003637,Central Bedfordshire 019,"Toddington, Heath & Reach",6,6,7,3,5,7,5,6,8,8,10,8,5,6,noncovid
+E02003638,Central Bedfordshire 020,Leighton Buzzard North & East,13,12,7,3,3,6,9,5,6,6,8,5,6,5,noncovid
+E02003639,Central Bedfordshire 021,Leighton Buzzard Central,11,10,12,6,9,9,7,11,5,5,8,6,9,6,noncovid
+E02003640,Central Bedfordshire 022,Linslade East,8,17,6,3,2,4,3,3,3,5,6,7,4,6,noncovid
+E02003641,Central Bedfordshire 023,Linslade West,3,3,4,1,2,0,0,4,2,3,4,2,3,1,noncovid
+E02003642,Central Bedfordshire 025,Houghton Regis North,4,7,3,6,6,6,5,2,3,4,7,7,4,5,noncovid
+E02003643,Central Bedfordshire 024,Leighton Buzzard South East,11,8,3,6,2,1,7,4,6,9,8,4,5,2,noncovid
+E02003644,Central Bedfordshire 026,Houghton Regis South,8,14,7,7,7,2,7,5,13,8,7,7,6,8,noncovid
+E02003645,Central Bedfordshire 027,Dunstable East,3,5,9,6,4,0,8,3,10,6,5,6,13,3,noncovid
+E02003646,Central Bedfordshire 028,Dunstable West,5,10,5,5,3,3,4,7,6,4,5,5,6,6,noncovid
+E02003647,Central Bedfordshire 029,Dunstable Central,17,24,9,10,10,6,7,12,9,13,11,13,7,11,noncovid
+E02003648,Central Bedfordshire 030,Dunstable Manshead,7,5,7,2,3,0,4,2,1,6,2,4,4,7,noncovid
+E02003649,Central Bedfordshire 031,Dunstable South,4,3,2,7,2,8,5,5,4,3,6,4,2,4,noncovid
+E02003650,Central Bedfordshire 032,"Eaton Bray, Whipsnade & Holywell",8,8,5,1,6,6,1,8,3,5,4,4,5,4,noncovid
+E02003651,Central Bedfordshire 033,Caddington & Slip End,8,4,7,0,8,7,1,8,5,8,6,4,6,7,noncovid
+E02003599,Central Bedfordshire 001,Sandy North,4,4,3,3,4,3,3,3,2,2,4,4,4,4,average
+E02003600,Central Bedfordshire 002,Sandy South,7,6,4,5,5,4,5,5,6,4,4,4,7,6,average
+E02003601,Central Bedfordshire 003,Potton,5,5,5,5,4,6,3,5,3,5,5,6,5,5,average
+E02003602,Central Bedfordshire 004,"Blunham, Caldecote & Broom",5,3,3,5,4,4,3,4,3,4,5,5,5,3,average
+E02003603,Central Bedfordshire 005,Biggleswade West,10,6,3,6,7,6,8,6,6,7,9,7,10,6,average
+E02003604,Central Bedfordshire 006,Biggleswade East,7,6,7,4,6,6,7,5,7,5,6,9,7,6,average
+E02003605,Central Bedfordshire 007,Cranfield & Apsley Guise,4,4,5,4,3,2,4,3,5,4,4,8,4,4,average
+E02003606,Central Bedfordshire 008,Houghton Conquest & Clophill,6,5,4,4,4,3,4,4,5,6,6,5,6,5,average
+E02003607,Central Bedfordshire 009,"Marston Moretaine, Lidlington & Woburn",5,6,5,4,4,3,6,6,6,6,7,6,5,6,average
+E02003608,Central Bedfordshire 010,Arlesey & Henlow,9,7,6,7,9,8,6,8,8,9,11,6,9,7,average
+E02003609,Central Bedfordshire 011,Shefford & Shillington,6,7,6,7,7,5,6,8,4,7,8,8,6,7,average
+E02003610,Central Bedfordshire 012,Ampthill & Millbrook,4,4,5,4,5,4,3,5,6,3,8,6,4,4,average
+E02003611,Central Bedfordshire 013,"Clifton, Meppershall & Stondon",5,6,5,6,4,7,6,6,7,7,5,7,5,6,average
+E02003612,Central Bedfordshire 014,Stotfold,4,3,4,4,4,6,3,4,5,5,6,4,4,3,average
+E02003613,Central Bedfordshire 015,Flitwick East,4,5,4,3,4,3,4,3,4,4,4,4,4,5,average
+E02003614,Central Bedfordshire 016,Flitwick West,2,5,3,4,3,3,4,4,6,3,4,5,2,5,average
+E02003615,Central Bedfordshire 017,"Westoning, Harlington & Silsoe",6,5,5,3,5,4,5,6,7,8,5,6,6,5,average
+E02003636,Central Bedfordshire 018,Barton-le-Clay & Upper Sundon,5,4,5,4,2,3,4,3,3,4,4,4,5,4,average
+E02003637,Central Bedfordshire 019,"Toddington, Heath & Reach",6,8,9,7,7,7,6,8,6,9,8,8,6,8,average
+E02003638,Central Bedfordshire 020,Leighton Buzzard North & East,10,7,6,8,5,6,6,5,6,10,8,7,10,7,average
+E02003639,Central Bedfordshire 021,Leighton Buzzard Central,9,8,7,9,11,8,6,8,12,7,13,11,9,8,average
+E02003640,Central Bedfordshire 022,Linslade East,5,7,5,6,4,4,3,5,6,5,8,6,5,7,average
+E02003641,Central Bedfordshire 023,Linslade West,3,2,3,3,2,3,2,3,2,1,4,1,3,2,average
+E02003642,Central Bedfordshire 025,Houghton Regis North,3,5,5,5,5,5,4,5,5,3,6,6,3,5,average
+E02003643,Central Bedfordshire 024,Leighton Buzzard South East,5,2,3,6,2,4,4,3,4,4,4,4,5,2,average
+E02003644,Central Bedfordshire 026,Houghton Regis South,8,7,6,7,8,6,6,6,6,9,9,7,8,7,average
+E02003645,Central Bedfordshire 027,Dunstable East,7,7,5,5,3,5,5,6,4,6,9,8,7,7,average
+E02003646,Central Bedfordshire 028,Dunstable West,6,6,5,6,5,7,7,8,6,4,6,6,6,6,average
+E02003647,Central Bedfordshire 029,Dunstable Central,7,8,7,8,7,9,7,8,12,7,11,8,7,8,average
+E02003648,Central Bedfordshire 030,Dunstable Manshead,2,4,2,3,4,3,4,5,3,4,5,4,2,4,average
+E02003649,Central Bedfordshire 031,Dunstable South,3,4,3,2,4,3,4,5,4,4,6,4,3,4,average
+E02003650,Central Bedfordshire 032,"Eaton Bray, Whipsnade & Holywell",5,5,7,5,6,5,4,6,6,5,7,5,5,5,average
+E02003651,Central Bedfordshire 033,Caddington & Slip End,6,6,6,7,4,5,4,5,7,6,6,7,6,6,average
