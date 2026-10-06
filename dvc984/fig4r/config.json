@@ -1,0 +1,99 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "reference": "max",
+    "comparison": "min",
+    "dateFormat": "%d/%m/%Y",
+    "legendLabels": [],
+    "LegendPosition_x": [-30, -30, -30],
+    "LegendPosition_y":[-70,-50, -30],
+    "colour_palette": ["#00A7A3", "#dedede","#dedede","#00A7A3"],
+    "legendStyle": ["line", "rect","rect","line"],
+    "plotLines": [{
+      "key": "mean",
+      "colour": "#206095",
+
+      "strokewidth":"2px",
+      "strokedasharray": "3 3"
+    },
+    {
+      "key": "latest",
+      "colour": "#206095",
+
+      "strokewidth":"2px",
+      "strokedasharray":"7 7"
+    }
+
+  ],
+    "directLabels": [{
+        "variable": "mean",
+        "label": "",
+        "colour": "#206095"
+      }
+    ],
+    "sourceText": ["Office for National Statistics – COVID-19 Infection Survey"],
+    "circles": false,
+    "yAxisLabel": "Incidence rate per 10,000 people per day",
+    "xAxisLabel": "",
+    "yAxisScale": [0,4],
+    "yAxisBreak": false,
+    "yAxisBreakValue": {
+      "sm": 10,
+      "md": 10,
+      "lg": 10
+    },
+    "altmeans": [1.10330477765399],
+    "altmins": [0.76697366711143],
+    "altmaxs": [1.51069429365943],
+    "altdates":["04/09/2020"]
+
+  },
+
+
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 30,
+        "right": 35,
+        "bottom": 50,
+        "left": 20
+      },
+      "md": {
+        "top": 30,
+        "right": 100,
+        "bottom": 50,
+        "left": 20
+      },
+      "lg": {
+        "top": 30,
+        "right": 100,
+        "bottom": 50,
+        "left": 20
+      }
+    },
+
+    "aspectRatio": {
+      "sm": [16, 10],
+      "md": [16, 8],
+      "lg": [16, 8]
+    },
+
+    "mobileBreakpoint": 500,
+    "middleBreakpoint": 600,
+
+    "x_ticks_every": {
+      "sm": 21,
+      "md": 21,
+      "lg": 21
+    },
+    "y_num_ticks": {
+      "sm": 6,
+      "md": 6,
+      "lg": 6
+    },
+
+    "lineMarkers": false
+
+
+  }
+}
