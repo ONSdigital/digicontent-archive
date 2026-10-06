@@ -1,0 +1,11 @@
+name,category,value
+Asian,ABES,0.137
+Black,ABES,0.026
+Mixed,ABES,0.048
+White,ABES,0.775
+Other,ABES,0.014
+Asian,Census,0.148
+Black,Census,0.024
+Mixed,Census,0.051
+White,Census,0.745
+Other,Census,0.031
