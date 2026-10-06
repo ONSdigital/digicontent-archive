@@ -1,0 +1,47 @@
+{
+    "essential" : {
+            "data_name": ["causes", "nums", "percentages", "total", "codes"],
+            "sourceText": ["The 21st century mortality files - deaths dataset, England and Wales"],
+            "sourceURL": ["https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/the21stcenturymortalityfilesdeathsdataset"],
+             "varcolour":{                "6":"#3CB371","100":"#3CB371","107":"#3CB371","491":"#3CB371","485":"#3CB371","J18":"#3CB371","9A":"#3CB371", "10":"#3CB371","36":"#3CB371", "A39":"#3CB371", "89&9":"#3CB371",
+"28A":"#3CB371", "31":"#3CB371", "23":"#3CB371", "14":"#3CB371", "13b":"#3CB371", "2":"#3CB371",
+                 
+"174":"#EA1F54", "C50":"#EA1F54", "170":"#EA1F54", "50":"#EA1F54",
+                
+"204":"#DC143C","C34":"#DC143C", "46":"#DC143C", "191":"#DC143C", "C71":"#DC143C", "180":"#DC143C", "44":"#DC143C",
+                
+"812":"#BDB76B", "814":"#BDB76B", "V49":"#BDB76B","813":"#BDB76B", "815":"#BDB76B","170c":"#BDB76B","816":"#BDB76B",
+                 
+"R99":"#607080",
+                
+"950":"#FFA500","970":"#FFA500", "X70":"#FFA500","X42":"#FFA500","952":"#FFA500","953":"#FFA500", "186":"#FFA500", "929":"#FFA500", 
+	 
+"745":"#4169E1", "746":"#4169E1","410":"#4169E1", "I25":"#4169E1", "93b":"#4169E1", "93c":"#4169E1", "422":"#4169E1", "94a":"#4169E1","420":"#4169E1", "79A":"#4169E1",
+                 
+"83a":"#800080", "74a":"#800080", "G40":"#800080", "G80":"#800080", "89&":"#66CDAA",
+	 
+"154B":"#D2691E", "164":"#D2691E", "F03":"#800000"
+	 },
+        "tableData": [{"Tile": "#3CB371", "type": "Infections", "causes": "Tuberculosis, Bronchopneumonia"},
+                      {"Tile": "#db4866", "type": "Cancer", "causes": "Malignant neoplasm of breast, lung, brain, etc."},
+                      {"Tile": "#4169E1", "type": "Heart conditions", "causes": "Myocardial infarction, coronary disease"},
+                      {"Tile": "#FFA500", "type": "External", "causes": "Drug misuse, suicides, self-harm"},
+                      {"Tile": "#BDB76B", "type": "Motor vehicle incidents", "causes": "Collisions with vehicles, cycles, pedestrians"},
+                      {"Tile": "#800080", "type": "Conditions of the nervous system", "causes": "Cerebral palsy, Epilepsy"},
+                      {"Tile": "#800000", "type": "Dementia", "causes": "Unspecified dementia"},
+                      {"Tile": "#D2691E", "type": "Senile decay", "causes": "Senile decay, other forms of senile decay"},
+					  {"Tile": "rgb(96, 112, 128)", "type": "Other", "causes": "Other ill-defined and unspecified causes"}
+                     ]
+    },
+   "optional" : {
+            "margin_sm": [0, 0, 25, 50],
+            "margin_md": [0, 0, 25, 50],
+            "margin_lg": [0, 0, 25, 50],
+        
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,10],
+            "aspectRatio_lg" : [16,9],
+        
+            "mobileBreakpoint" : 600
+    }
+}

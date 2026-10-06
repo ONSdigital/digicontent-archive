@@ -1,0 +1,40 @@
+{
+    "essential" : {
+            "data_name": ["causes", "nums", "percentages", "total", "codes"],
+             "sourceText":["21st century mortality files, ONS"],
+            "sourceURL":["https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/the21stcenturymortalityfilesdeathsdataset"],
+			
+			"sourceText2":["20th century mortality files, ONS"],
+            "sourceURL2":["http://webarchive.nationalarchives.gov.uk/20160108034247/http://www.ons.gov.uk/ons/rel/subnational-health1/the-20th-century-mortality-files/20th-century-deaths/index.html"],
+            "varcolour":{                "6":"#3CB371","100":"#3CB371","107":"#3CB371","491":"#3CB371","485":"#3CB371","J18":"#3CB371","9A":"#3CB371", "10":"#3CB371","36":"#3CB371", "A39":"#3CB371", "89&9":"#3CB371",
+"28A":"#3CB371", "31":"#3CB371", "23":"#3CB371", "14":"#3CB371", "13b":"#3CB371", "2":"#3CB371",
+                 
+"174":"#DC143C", "C50":"#DC143C", "170":"#DC143C", "50":"#DC143C",
+                
+"204":"#DC143C","C34":"#DC143C", "46":"#DC143C", "191":"#DC143C", "C71":"#DC143C", "180":"#DC143C", "44":"#DC143C",
+                
+"812":"#BDB76B", "814":"#BDB76B", "V49":"#BDB76B","813":"#BDB76B", "815":"#BDB76B","170c":"#BDB76B","816":"#BDB76B",
+                 
+"R99":"#607080",
+                
+"950":"#FFA500","970":"#FFA500", "X70":"#FFA500","X42":"#FFA500","952":"#FFA500","953":"#FFA500", "186":"#FFA500", "929":"#FFA500", 
+	 
+"745":"#4169E1", "746":"#4169E1","410":"#4169E1", "I25":"#4169E1", "93b":"#4169E1", "93c":"#4169E1", "422":"#4169E1", "94a":"#4169E1","420":"#4169E1", "79A":"#4169E1",
+                 
+"83a":"#800080", "74a":"#800080", "G40":"#800080", "G80":"#800080", "89&":"#66CDAA",
+	 
+"154B":"#D2691E", "164":"#D2691E", "F03":"#800000"
+	 }
+    },
+    "optional" : {
+            "margin_sm": [0, 0, 25, 50],
+            "margin_md": [0, 0, 25, 50],
+            "margin_lg": [0, 0, 25, 50],
+        
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,10],
+            "aspectRatio_lg" : [16,9],
+        
+            "mobileBreakpoint" : 600
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+        
+            "dateFormat": "%Y",
+            
+            "legendLabels" : ["< 1","1-4","5-9","10-14","15-19"],
+            "legendStyle": "line", 
+            "colour_palette": ["#36ADD9","#444","#777","#aaa","#ddd"],
+            
+            "sourceText":["21st century mortality files, ONS"],
+            "sourceURL":["https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/the21stcenturymortalityfilesdeathsdataset"],
+			
+			"sourceText2":["20th century mortality files, ONS"],
+            "sourceURL2":["http://webarchive.nationalarchives.gov.uk/20160108034247/http://www.ons.gov.uk/ons/rel/subnational-health1/the-20th-century-mortality-files/20th-century-deaths/index.html"],
+            
+			"draggable": false,
+            "annotationChart" : [],
+            
+            "wordwrap":[20,20,10],
+            "annoAlign": ["start", "end"],
+            "annotationBullet" : [],
+        
+            "circles" : false,    
+           "annotationCXCY":[],
+        
+            "yAxisLabel":"Thousand",
+            "yAxisScale":[0,100],   
+            "yAxisBreak": true,
+            "yAxisBreak_sm_md_lg": [20,20,20]            
+    },
+    
+    "optional" : {
+            "margin_sm": [30, 5, 0, 30],
+            "margin_md": [30, 5, 0, 30],
+            "margin_lg": [30, 15, 0, 30],
+        
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+        
+            "mobileBreakpoint" : 600, 
+            
+            "xAxisTextFormat_sm_md_lg" : ["%y", "%Y", "%Y"], 
+                
+            "x_num_ticks_sm_md_lg" : [6,10,10],    
+            "y_num_ticks_sm_md_lg" : [6,6,6],
+        
+            "lineMarkers" : false,
+        
+            "vertical_line" : false,
+            "annotateLineX1_Y1_X2_Y2" : [],
+        
+            "annotateRect" : false,
+            "annotateRectX_Y" : [],
+            "lineColor_opcty" : [],
+        
+            "centre_line" : false,
+            "centre_line_value" : 25
+    }
+}
+
+
