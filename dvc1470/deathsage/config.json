@@ -1,0 +1,65 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "dateFormat": "%d/%m/%Y",
+    "displayTicksFormat":"%d %b",
+    "colour_palette": [{
+        "key": "number of deaths",
+        "colour": "#206095"
+      }],
+    "categorySort": {
+      "on":false,
+      "sortby":[]
+      },
+    "sourceText": ["Office for National Statistics - Deaths registered weekly in England and Wales"],
+    "xAxisLabel": "Week ending",
+    "yAxisLabel": "",
+    "yAxisScale": "auto_zero_max_total",
+    "screenreadertext":""
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 40,
+        "right": 23,
+        "bottom": 45,
+        "left": 50
+      },
+      "md": {
+        "top": 40,
+        "right": 23,
+        "bottom": 50,
+        "left": 50
+      },
+      "lg": {
+        "top": 40,
+        "right": 23,
+        "bottom": 50,
+        "left": 35
+      }
+    },
+    "chart_every":{
+      "sm": 1,
+      "md": 2,
+      "lg": 3
+    },
+    "aspectRatio": {
+      "sm": [16, 8],
+      "md": [16, 8],
+      "lg": [16, 10]
+    },
+    "legendHeight":{
+      "sm": 45,
+      "md": 30,
+      "lg": 30
+    },
+
+    "mobileBreakpoint": 480,
+    "middleBreakpoint": 670,
+    "x_ticks_every": {
+      "sm": 22,
+      "md": 22,
+      "lg": 22
+    }
+  }
+}

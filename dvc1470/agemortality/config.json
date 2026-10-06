@@ -1,0 +1,64 @@
+{
+    "essential" : {
+
+			"GraphType" : "clusterBar" ,
+
+            "graphic_data_url": "data.csv",
+
+            "colour_palette": ["#206095", "#118C7B"],
+
+            "dateFormat":"%Y-%y",
+
+            "legendLabels" :[ "England", "Wales"],
+			"legendStyle": "rect",
+			"sourceText":["Office for National Statistics - Monthly mortality analysis"],
+            "sourceURL":["http://www.ons.gov.uk/ons"],
+
+            "annotationChart": [
+            
+            ],
+            "annotationBullet": [
+            
+            ],
+            "annotationXY":[
+        
+            ],
+            "annotationAlign":[
+                "start"
+            ],
+
+
+
+            "yAxisLabel":"Age-standardised mortality rates",
+            "yAxisScale":[0,700],
+            "yAxisBreak_sm_md_lg": [65,65,65]
+
+    },
+    "optional" : {
+            "margin_sm": [50, 30, 35, 25],
+            "margin_md": [50, 20, 35, 25],
+            "margin_lg": [40, 20, 55, 25],
+
+            "aspectRatio_sm" : [16,16],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+
+            "mobileBreakpoint" : 610,
+
+            "xAxisTextFormat_sm_md_lg" : ["%Y-%y", "%Y-%y", "%Y-%y"],
+
+            "x_num_ticks_sm_md_lg" : [2,2,2],
+            "y_num_ticks_sm_md_lg" : [5,5,5],
+            "vertical_line" : false,
+            "annotateLineX1_Y1_X2_Y2":[
+            
+            ],
+            "annotateRect" : false,
+            "annotateRectX_Y" : [
+            
+            ],
+            "lineColor_opcty" : [["#888", 0.2], ["red", 0.2]],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+            "colour_palette": [ "#27A0CC" ],
+            "negative_colour":["#D32F2F"],
+            "dateFormat":"%d %b %y",
+
+            "legendLabels" : ["Pos", "Neg"],
+
+            "sourceText":["Office for National Statistics – Coronavirus (COVID-19) Infection Survey"],
+            "sourceURL":["http://www.ons.gov.uk/ons/publications/re-reference-tables.html?edition=tcm%3A77-350752"],
+
+            "annotationChart": [
+               "",
+                ""
+            ],
+            "annotationBullet": [
+            ],
+            "annotationXY":[
+                ["1984","-1"],
+                ["2008","3"]
+            ],
+            "annotationAlign":[
+                "middle",
+                "middle"
+            ],
+
+            "yAxisLabel":"%",
+            "yAxisScale":[0,100],
+            "yAxisBreak": true,
+            "yAxisBreak_sm_md_lg": [65,65,65]
+    },
+    "optional" : {
+
+            "margin_sm": [5, 50, 10, 55],
+            "margin_md": [5, 50, 10, 55],
+            "margin_lg": [5, 50, 10, 55],
+
+            "aspectRatio_sm" : [16,10],
+            "aspectRatio_md" : [16,10],
+            "aspectRatio_lg" : [16,10],
+
+            "mobileBreakpoint" : 610,
+
+            "xAxisTextFormat_sm_md_lg" : ["%d %b %y","%d %b %y","%d %b %y"],
+
+            "y_num_ticks_sm_md_lg" : [5,5,5],
+            "vertical_line" : false,
+            "annotateLineX1_Y1_X2_Y2":[
+                [["1995",6],["1995",-3]],
+                [["2013",6],["2013",-3]]
+            ],
+            "annotateRect" : true,
+            "annotateRectX_Y" : [
+                [["1990", -96],["1993", -93]],
+                [["1999", -96],["2001", -93]]
+            ],
+            "lineColor_opcty" : [
+                ["#888", 0.2],
+                ["red", 0.2]
+            ],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}

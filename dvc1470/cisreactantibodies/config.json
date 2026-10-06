@@ -1,0 +1,119 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "reference": "max",
+    "comparison": "min",
+    "dateFormat": "%d/%m/%Y",
+    "legendLabels": [],
+    "LegendPosition_x": [
+      -30,
+      -30,
+      -30
+    ],
+    "LegendPosition_y": [
+      -70,
+      -50,
+      -30
+    ],
+    "colour_palette": [
+      "#206095",
+      "#E2E2E3",
+      "#A8BD3A",
+      "#A8BD3A",
+      "#E2E2E3",
+      "#206095"
+    ],
+    "legendStyle": [
+      "line",
+      "rect",
+      "rect",
+      "line"
+    ],
+    "plotLines": [
+      {
+        "key": "mean",
+        "colour": "#206095",
+        "strokewidth": "2px",
+        "strokedasharray": ""
+      },
+      {
+        "key": "latest",
+        "colour": "#206095",
+        "strokewidth": "2px",
+        "strokedasharray": "7 7"
+      }
+    ],
+    "directLabels": [
+      {
+        "variable": "mean",
+        "label": "",
+        "colour": "#206095"
+      }
+    ],
+    "sourceText": [
+      "Office for National Statistics, UK Health Security Agency and Real-time Assessment of Community Transmission study"
+    ],
+    "circles": false,
+    "yAxisLabel": "Percentage testing positive for COVID-19 antibodies",
+    "xAxisLabel": "",
+    "yAxisScale": [
+      0,
+      100
+    ],
+    "yAxisBreak": false,
+    "yAxisBreakValue": {
+      "sm": 11,
+      "md": 11,
+      "lg": 11
+    }
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 20,
+        "right": 40,
+        "bottom": 50,
+        "left": 30
+      },
+      "md": {
+        "top": 20,
+        "right": 100,
+        "bottom": 50,
+        "left": 30
+      },
+      "lg": {
+        "top": 20,
+        "right": 100,
+        "bottom": 50,
+        "left": 30
+      }
+    },
+    "aspectRatio": {
+      "sm": [
+        16,
+        8
+      ],
+      "md": [
+        16,
+        8
+      ],
+      "lg": [
+        16,
+        8
+      ]
+    },
+    "mobileBreakpoint": 420,
+    "middleBreakpoint": 600,
+    "x_ticks_every": {
+      "sm": 280,
+      "md": 280,
+      "lg": 140
+    },
+    "y_num_ticks": {
+      "sm": 6,
+      "md": 6,
+      "lg": 6
+    },
+    "lineMarkers": false
+  }
+}

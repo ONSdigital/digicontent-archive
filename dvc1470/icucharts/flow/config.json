@@ -1,0 +1,79 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "sort_data": false,
+    "colour_palette": [
+      "#27A0CC",
+      "#206095",
+      "#003C57",
+      "#118C7B",
+      "#A8BD3A"
+    ],
+    "dateFormat": "",
+    "legendLabels": [
+      "Still in critical care",
+      "Discharged from critical care",
+      "Died in critical care"
+    ],
+    "sourceText": [
+      "Intensive Care National Audit and Research Centre (ICNARC) Case Mix Programme"
+    ],
+    "sourceURL": [
+      "http://www.ons.gov.uk/ons/rel/census/2011-census-analysis/overcrowding-and-under-occupation-in-england-and-wales/index.html"
+    ],
+    "annotationChart": [],
+    "annotationBullet": [],
+    "annotationXY": [],
+    "annotationAlign": [],
+    "circles": false,
+    "annotationCXCY": [],
+    "xAxisLabel": "%",
+    "xAxisScale": [0,5972],
+    "xAxisBreak": false,
+    "xAxisBreak_sm_md_lg": []
+  },
+
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 10,
+        "right": 10,
+        "bottom": 10,
+        "left": 10
+      },
+      "md": {
+        "top": 10,
+        "right": 10,
+        "bottom": 10,
+        "left": 10
+      },
+      "lg": {
+        "top": 10,
+        "right": 10,
+        "bottom": 10,
+        "left": 10
+      }
+    },
+    "aspectRatio": {
+      "sm": [
+        16,
+        16
+      ],
+      "md": [
+        16,
+        10
+      ],
+      "lg": [
+        16,
+        10
+      ]
+    },
+    "mobileBreakpoint": 414,
+    "mediumBreakpoint": 600,
+    "x_num_ticks": {
+      "sm": 10,
+      "md": 10,
+      "lg": 10
+    }
+  }
+}

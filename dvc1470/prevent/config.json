@@ -1,0 +1,79 @@
+{
+  "essential": {
+    "graphic_data_url": "regions.csv",
+    "dateFormat": "%d/%m/%Y",
+    "colour_palette": [
+      {
+        "key": "Always or often maintaining social distancing",
+        "colour": "#206095"
+      },
+      {
+        "key": "Very or somewhat worried about new variants of COVID-19",
+        "colour": "#22D0B6"
+      }
+    ],
+    "categorySort": [
+
+    ],
+    "sourceText": [
+      "Office for National Statistics – Opinions and Lifestyle Survey"
+    ],
+    "xAxisLabel": "%",
+    "yAxisLabel": "",
+    "yAxisScale": "auto_zero_max_total",
+    "screenreadertext": "Older people more likely to social distance and worry about new variants"
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 20,
+        "right": 20,
+        "bottom": 50,
+        "left": 20
+      },
+      "md": {
+        "top": 40,
+        "right": 20,
+        "bottom": 50,
+        "left": 20
+      },
+      "lg": {
+        "top": 40,
+        "right": 20,
+        "bottom": 50,
+        "left": 20
+      }
+    },
+    "margin_special_left": 130,
+    "chart_every": {
+      "sm": 1,
+      "md": 1,
+      "lg": 1
+    },
+    "aspectRatio": {
+      "sm": [
+        16,
+        10
+      ],
+      "md": [
+        16,
+        10
+      ],
+      "lg": [
+        16,
+        10
+      ]
+    },
+    "legendHeight": {
+      "sm": 65,
+      "md": 60,
+      "lg": 60
+    },
+    "mobileBreakpoint": 400,
+    "middleBreakpoint": 550,
+    "x_num_ticks_sm_md_lg": [
+      4,
+      4,
+      4]
+  }
+}
