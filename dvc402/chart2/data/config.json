@@ -1,0 +1,78 @@
+{
+    "vars" : { 
+			"groups":[ "grp0" , "grp1"  , "grp2" , "grp3" , "grp4" , "grp5" , "grp6", "Show all" ],
+			"variables":[ "Healthy Life Expectancy" , "Inequality within local authority" , "Healthy Life Expectancy " , "Inequality within local authority " , "var4" , "var5" ],
+            "dropOpt":[""],
+			"units":[ "Unit0" , "Unit1" , "Unit2" , "Unit3" , "Unit4" , "Unit5" ],
+			"labels":[ "y-axis" , "Axis limits" , "x-axis" ],
+			"grpColorArray":[ "#2b8cbe" , "#00ACC3" , "#E7007C" , "#024364" , "#EA6908" , "#662584", "#CDBB00", "#9D9D9D" ],
+			"singleColor":"#bd0021",
+			"tools":[ "Equality line", "Regression line" ],
+			"axisLimits":[ "Data" , "Fixed" ]
+	},
+    "essential" : {
+            "graphic_data_url": "data/trade.csv",
+        
+            "dateFormat":"%b-%y",
+        
+            "legendLabels" : [],
+        
+            "sourceText":["My source information text here"],
+            "sourceURL":["http://www.ons.gov.uk/"],
+        
+            "annotationChart": ["Germany is the UK’s biggest  export market in Europe and the  only EU country which exports a  smaller proportion to the UK than  the UK exports to them.", "The share of UK goods exports to  France has steadily declined over the  past decade – it was 6% in 2015 compared   with 12% in 2006 (the highest in Europe).", "Ireland exported an EU-high 14%  to the UK in 2015 and so will have  a particular interest in Brexit trade  negotiations.","Norway's goods exports to the UK  are strongly influenced by an oil pipeline  that runs between the two countries.  Around half of UK imports of  crude oil come from Norway.","The US is the UK’s largest goods export  market globally. New President Donald Trump  has declared support for Brexit and his  intention to work quickly to reach a trade deal  with the UK."],
+            "annotationBullet": [],
+            "annotationXY":[ [11.2,7.5],[6.9,7],[6.5,14],[1.8,20],[16,5] ],
+            "annotationAlign":["start","start","start","start","end"],
+            "annotationChart2": ["Country exports  bigger share", "UK exports  bigger share"],
+            "annotationXY2":[ [18,21],[18,16] ],
+            "annotationAlign2":["end","start"],                    
+                                
+            "circles" : false,    
+            "annotationCXCY":[],        
+            "xAxisLabel":"xAxisLabel",
+            "yAxisLabel":"yAxisLabel",
+            "AxisScale":[0,25],		
+            "xAxisScaleDivisor":1,
+            "yAxisScaleDivisor":1,
+            "yAxisBreak": false,
+            "yAxisBreak_sm_md_lg": [65,65,65]  ,
+			"dataGroups":[ "dataGroup1" ],
+			"xaxislabelPrecison":0,
+			"yaxislabelPrecison":0
+	},
+    "optional" : {
+            "margin_sm": [15 ,25, 15, 15],
+            "margin_md": [15, 150, 15, 15],
+            "margin_lg": [15, 150, 15, 15],
+            
+        
+            "yline": [12.8,12.5],
+            "xline": [62.6,63.9],
+        
+            "aspectRatio_sm" : [1,1],
+            "aspectRatio_md" : [1,1],
+            "aspectRatio_lg" : [1,1],
+        
+            "mobileBreakpoint" : 610, 
+            
+            "xAxisTextFormat_sm_md_lg" : ["%y", "%Y", "%b %y"], 
+                
+            "x_num_ticks_sm_md_lg" : [6,8,10],    
+            "y_num_ticks_sm_md_lg" : [6,8,10],
+            "centre_line" : false,
+            "centre_line_value" :500,
+        
+            "annotateRect" : false,
+            "annotateRectX_Y" : [ [[0, 25],[25, 0]] ],
+            "lineColor_opcty" : [["#888", 1] ],
+        
+            "vertical_line" : true,
+            "annotateLineX1_Y1_X2_Y2":[ [[0,0],[25,25]] ],
+            
+			"regressionLine":false,
+			"equalityLine":false      
+    }
+}
+
+
