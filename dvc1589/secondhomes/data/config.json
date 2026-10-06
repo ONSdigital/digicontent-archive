@@ -1,0 +1,12 @@
+{"ons":{
+"maptitle": "Map showing % of second homes by local authority",
+"varcolour": ["YlGnBu"],
+"varlabels": ["Second homes"],
+"varload": 0,
+"varunit": ["%"],
+"displaydecimals": 0,
+"legenddecimals": 0,
+"breaks": [[0,2,4,7,28]],
+"dropticks": true,
+"numberBreaks": [4]
+}}
