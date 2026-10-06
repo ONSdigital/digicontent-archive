@@ -1,0 +1,97 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+            "colour_palette": [ "#234D70","#E2BC22" ],
+            "dateFormat":"",
+        
+            "legendLabels" : ["Pos", "Neg"],
+			
+			"varTestName":"16 to 24 (your guess)",
+			
+			"revealValue":"24.5",
+			
+			"headerimage":"../banners/yp2_Influence_decisions_YP_influence_decisions.svg",
+			
+			"toptitle":"What percentage of young people say they can influence decisions affecting their local area?",
+			
+			"subtitle":"% who agree they can influence decisions affecting their local area",
+			
+			"revealtext1":"Most people don’t feel they can influence local decisions – 25% of 16- to 24-year-olds say they can influence decisions affecting their area, compared with 26% of those aged 25 and over.",
+			
+			"revealtext2":"Both of these are unchanged since 2013 to 2014.",
+			
+			"revealtext3":"",
+			
+			"revealtext4":"",
+        
+            "sourceText":["Source: Community Life Survey, 2017 to 2018"],
+            "sourceURL":["http://www.ons.gov.uk"],
+        
+            "annotationChart": [
+				"",
+				"",
+				"26.2%",
+				"",
+				""
+            ],
+			
+			"annotextcolour": ["#234D70","#234D70","#234D70","#234D70","#234D70"],
+						
+            "annotationBullet": [
+              
+            ],
+            "annotationXY":[
+				["16 to 24 (your guess)",7],
+				["16 to 24 (actual data)",6],
+				["25 and over",32],
+				["16 to 24 (your guess)",27],
+				["16 to 24 (your guess)",18]
+            ],
+            "annotationAlign":[
+				"middle",
+				"middle",
+				"middle",
+				"middle",
+				"middle"
+             
+            ],
+        
+            "yAxisLabel":"",
+            "yAxisScale":[0,100],
+            "yAxisBreak": false,
+            "yAxisBreak_sm_md_lg": [65,65,65]            
+    },
+    "optional" : {
+            "margin_sm": [50, 0, 35, 24],
+            "margin_md": [50, 0, 35, 24],
+            "margin_lg": [50, 0, 35, 24],
+        
+            "aspectRatio_sm" : [1,1],
+            "aspectRatio_md" : [1,1],
+            "aspectRatio_lg" : [1,1],
+        
+            "mobileBreakpoint" : 250, 
+                           
+            "y_num_ticks_sm_md_lg" : [10,10,10],
+            "vertical_line" : true,
+            "annotateLineX1_Y1_X2_Y2":[ 
+               
+            ],
+			"isdashed": [
+						
+			],
+			
+            "annotateRect" : true,
+            "annotateRectX_Y" : [ 
+             
+            ],
+            "lineColor_opcty" : [
+                ["#888", 0.16], 
+                ["red", 0.2]
+            ],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}
+
+
