@@ -1,0 +1,60 @@
+{
+    "essential" : {
+            "graphic_data_url": "data1.csv",
+        
+            "dateFormat":"%Y",
+            
+            "legendLabels" : ["Professional","Associate","Elementary","Skilled trade","Care","Sales"],
+            "legendStyle": "line", 
+            "colour_palette": [ "#234D70" , "#0075A3", "#873600", "#BA4A00" ,"#DC7633", "#E59866"],
+            
+            "sourceText":["Office for National Statistics"],
+            "sourceURL":["https://www.ons.gov.uk"],
+            "draggable": false,
+            "annotationsChart": [],
+            
+            "wordwrap": [],
+            "annoAlign": [],
+            "annotationBullet": [],
+        
+            "circles" : false,    
+            "annotationCXCY":[],
+        
+            "xAxisOrdinal" : ["18-21","22-29","30-39","40-49","50-59","60+"],
+            "yAxisLabel":"Pounds",
+            "yAxisScale":[0,45000],   
+            "yAxisBreak": false,
+            "yAxisBreak_sm_md_lg": [65,65,65]            
+    },
+    
+    "optional" : {
+            "margin_sm": [50, 15, 30, 50],
+            "margin_md": [50, 15, 30, 50],
+            "margin_lg": [50, 15, 30, 50],
+        
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+        
+            "mobileBreakpoint" : 610, 
+            
+            "xAxisTextFormat_sm_md_lg" : ["%y", "%Y", "%Y"], 
+                
+            "x_num_ticks_sm_md_lg" : [5,11,11],    
+            "y_num_ticks_sm_md_lg" : [7,7,7],
+        
+            "lineMarkers" : false,
+        
+            "vertical_line" : false,
+            "annotateLineX1_Y1_X2_Y2" : [],
+        
+            "annotateRect" : false,
+            "annotateRectX_Y" : [],
+            "lineColor_opcty" : [["#ABCDEF", 0.2], ["#888", 0.4]],
+        
+            "centre_line" : false,
+            "centre_line_value" : 25
+    }
+}
+
+
