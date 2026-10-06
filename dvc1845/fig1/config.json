@@ -1,0 +1,62 @@
+{
+    "essential" : {
+            "positive_csv": "data_positive.csv",
+
+            "negative_csv": "data_negative.csv",
+                        "all_csv": "data_all.csv",
+
+            "sort_data": false,
+
+            "colour_palette": ["#27A0CC", "#A8BD3A", "#003C57", "#871A5B"],
+
+            "dateFormat":"%d/%m/%Y",
+
+            "legendLabels" : ["16-24","25-34","35-49","50+"],
+
+            "sourceText":["Office for National Statistics – Labour Force Survey"],
+            "sourceURL":[""],
+
+            "annotationChart": [
+
+            ],
+            "annotationBullet": [
+
+            ],
+            "annotationXY":[
+
+            ],
+            "annotationAlign":[
+                "middle",
+                "middle"
+            ],
+
+            "circles" : false,
+            "annotationCXCY":[
+                ["Rail","68.4"],
+                ["Underground","73"]
+            ],
+
+            "yAxisLabel":"%",
+            "yAxisScale":[-119311, 536492],
+            "yAxisBreak": true,
+            "yAxisBreak_sm_md_lg": [65,65,65]
+    },
+    "optional" : {
+            "margin_sm": [20, 15, 35, 60],
+            "margin_md": [20, 10, 35, 60],
+            "margin_lg": [20, 10, 35, 60],
+
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+
+            "mobileBreakpoint" : 610,
+
+            "xAxisTextFormat_sm_md_lg" : ["%b %y", "%b %y", "%b %y"],
+
+            "x_num_ticks_sm_md_lg" : [3,3,6],
+            "y_num_ticks_sm_md_lg" : [6,5,5],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}

@@ -1,0 +1,68 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "legendLabels": ["Q2 to Q3 2019", "Q2 to Q3 2021"],
+    "colour_palette": ["#206095", "#27A0CC"],
+    "sourceText": ["Office for National Statistics – Longitudinal Labour Force Survey"],
+
+    "annotationChart": [
+      "There is a higher flow to inactivity in 2019  compared to 2021 amongst part-time workers  with middle, low or no qualifications only"
+
+    ],
+    "annotationBullet": [],
+    "annotationXY": [
+      [67000,"Middle "]
+    ],
+    "annotationAlign": [
+      "end",
+      "middle"
+    ],
+    "minmaxonly": true,
+    "arrows": false,
+    "tooltip": true,
+    "xAxisLabel": "Volume of workers",
+    "yAxisLabel": "Full-time",
+    "yAxisLabel2": "Part-time",
+    "xAxisScale": [0,95000],
+    "dotsize": 5
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 35,
+        "right": 37,
+        "bottom": 35,
+        "left": 126
+      },
+      "md": {
+        "top": 30,
+        "right": 37,
+        "bottom": 25,
+        "left": 126
+      },
+      "lg": {
+        "top": 30,
+        "right": 37,
+        "bottom": 25,
+        "left": 230
+      }
+    },
+
+    "aspectRatio": {
+      "sm": [4, 8],
+      "md": [3, 3],
+      "lg": [16, 8]
+    },
+
+    "mobileBreakpoint": 414,
+    "middleBreakpoint": 550,
+    "x_ticks": {
+      "sm": [0,90000],
+      "md": [0,30000,60000,90000],
+      "lg": [0,30000,60000,90000]
+    },
+
+    "centre_line": false,
+    "centre_line_value": 0
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "legendLabels": ["Employed", "Self employed"],
+    "legendStyle": "line",
+    "directLabeling": true,
+    "directLabelingAdjust": {
+      "Employed": {
+        "x": 2,
+        "y": 0
+      },
+      "Self employed": {
+        "x": 2,
+        "y": 0
+      }
+    },
+    "colour_palette": {
+      "Employed": "#206095",
+      "Self employed": "#27A0CC"
+    },
+
+    "sourceText": ["Office for National Statistics – Longitudinal Labour Force Survey"],
+    "draggable": false,
+    "annotationsChart": [],
+
+    "wordwrap": [30, 20, 10],
+    "annoAlign": ["middle", "middle", "end"],
+    "annotationBullet": ["An annotation", "Another annotation"],
+
+    "circles": false,
+    "annotationCXCY": [
+      {"cx":"2001/02", "cy":68,"text":"circle annotation"}
+    ],
+    "annotationColour": ["green"],
+
+    "yAxisLabel": "Volume of workers",
+    "yAxisScale": "auto_min_max",
+    "yAxisBreak": false,
+    "yAxisBreak": {"sm":65, "md":65, "lg":65},
+    "ticksEvery":{"sm":1, "md":1, "lg":1}
+  },
+
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 50,
+        "right": 10,
+        "bottom": 55,
+        "left": 60
+      },
+      "md": {
+        "top": 50,
+        "right": 80,
+        "bottom": 55,
+        "left": 60
+      },
+      "lg": {
+        "top": 50,
+        "right": 80,
+        "bottom": 55,
+        "left": 60
+      }
+    },
+
+    "aspectRatio": {
+      "sm":[16, 13],
+      "md":[16, 12],
+      "lg":[16, 10]
+      },
+    "mobileBreakpoint": 414,
+    "midBreakpoint": 600,
+
+    "xAxisTextFormat": {"sm":"%y","md":"%Y","lg":"%b %y"},
+
+    "x_num_ticks": {"sm":6,"md":9,"lg":9},
+    "y_num_ticks": {"sm":5, "md":5, "lg":5},
+
+    "lineMarkers": true,
+
+    "annotateLineX1_Y1_X2_Y2": [
+      [
+        ["1999/00", "200"],
+        ["1999/00", "0"]
+      ]
+    ],
+    "annotateRect": [
+      {
+        "topLeft":["1998/99", 200],
+        "bottomRight":["2001/02", 0],
+        "fill":"#ABCDEF",
+        "opacity":0.4
+      }
+    ],
+    "centre_line": false,
+    "centre_line_value": 25
+  }
+}

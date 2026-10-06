@@ -1,0 +1,90 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "legendLabels": ["Inactivity rate"],
+    "legendStyle": "line",
+    "directLabeling": false,
+    "directLabelingAdjust": {
+      "Blue": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "colour_palette": {
+      "Blue": "#274796"
+    },
+
+    "sourceText": ["Office for National Statistics – Labour Force Survey"],
+    "draggable": false,
+    "annotationsChart": [],
+
+    "wordwrap": [30, 20, 10],
+    "annoAlign": ["middle", "middle", "end"],
+    "annotationBullet": ["An annotation", "Another annotation"],
+
+    "circles": true,
+    "annotationCXCY": [
+      {"cx":"Jan-Mar 2020", "cy":59.5,"text":"Pandemic begins", "cy2": 59.5},
+        {"cx":"Jan-Mar 2020", "cy":59,"text":"at the end of", "cy2": 58.5},
+          {"cx":"Jan-Mar 2020", "cy":58.5,"text":"this quarter", "cy2": 57.5}
+    ],
+    "annotationColour": ["green"],
+
+    "yAxisLabel": "Inactivity rate %",
+    "yAxisScale": [50,60],
+    "yAxisBreak": true,
+    "yAxisBreak": {"sm":50, "md":49, "lg":49.8},
+    "ticksEvery":{"sm":39, "md":18, "lg":12}
+  },
+
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 50,
+        "right": 70,
+        "bottom": 65,
+        "left": 45
+      },
+      "md": {
+        "top": 50,
+        "right": 50,
+        "bottom": 65,
+        "left": 45
+      },
+      "lg": {
+        "top": 50,
+        "right": 50,
+        "bottom": 65,
+        "left": 45
+      }
+    },
+
+    "aspectRatio": {
+      "sm":[16, 13],
+      "md":[16, 12],
+      "lg":[16, 10]
+      },
+    "mobileBreakpoint": 414,
+    "midBreakpoint": 600,
+
+    "xAxisTextFormat": {"sm":"%y","md":"%Y","lg":"%b %y"},
+
+    "x_num_ticks": {"sm":2,"md":5,"lg":5},
+    "y_num_ticks": {"sm":5, "md":5, "lg":5},
+
+    "lineMarkers": false,
+    "vertical_line": true,
+
+    "annotateLineX1_Y1_X2_Y2": [
+      [
+        ["Jan-Mar 2020", "60"],
+        ["Jan-Mar 2020", "48.95"]
+      ]
+    ],
+    "annotateRect": [
+
+    ],
+    "centre_line": false,
+    "centre_line_value": 25
+  }
+}
