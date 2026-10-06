@@ -1,0 +1,52 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+        
+            "dateFormat":"%b-%y",
+        
+            "legendLabels" : [""],
+        
+            "sourceText":["State Pension Administrative Data, Department for Work and Pensions",""],
+            "sourceURL":["https://stat-xplore.dwp.gov.uk/webapi/jsf/login.xhtml", ""],
+        
+            "annotationChart": [
+               
+            ],
+            "annotationXY":[
+               
+            ],
+            "annotationAlign":[
+              
+            ],
+        
+            "circles" : false,    
+            "annotationCXCY":[
+                
+            ],
+        
+            "yAxisLabel":"thousands",
+            "yAxisScale":[310,340],   
+            "yAxisBreak": false,
+            "yAxisBreak_sm_md_lg": [310,310,310]            
+    },
+    "optional" : {
+            "margin_sm": [10, 30, 25, 30],
+            "margin_md": [10, 30, 25, 30],
+            "margin_lg": [10, 30, 25, 30],
+        
+            "aspectRatio_sm" : [8,4],
+            "aspectRatio_md" : [14,6],
+            "aspectRatio_lg" : [14,6],
+        
+            "mobileBreakpoint" : 610, 
+            
+            "xAxisTextFormat_sm_md_lg" : ["%b %y", "%b %Y", "%b %y"], 
+                
+            "x_num_ticks_sm_md_lg" : [7,9,10],    
+            "y_num_ticks_sm_md_lg" : [4,5,5],
+            "centre_line" : false,
+            "centre_line_value" : 150
+    }
+}
+
+
