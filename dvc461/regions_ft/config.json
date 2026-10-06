@@ -1,0 +1,48 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+        
+            "dateFormat":"",
+        
+            "legendLabels" : ["1997","2017"],
+            "legendStyle": "rect",
+            "colour_palette": ["#332288", "#e36a32"],
+        
+            "sourceText":["Annual Survey of Hours and Earnings gender pay gap tables, ONS"],
+            "sourceURL":["https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/annualsurveyofhoursandearningsashegenderpaygaptables"],
+			
+            "annotationChart": [
+                 "Women earn more  than men",
+                "Women earn less  than men "
+            ],
+            "annotationBullet": [],
+            "annotationXY":[
+                ["-2","London"],
+                ["2","North East"]
+            ],
+            "annotationAlign":[
+                "end",
+				"start"
+            ],
+        
+            "xAxisLabel":"Gender Pay Gap, %",
+            "yAxisLabel":"",
+            "xAxisScale":[-15, 25]
+
+    },
+    "optional" : {
+            "margin_sm": [30, 20, 5, 145],
+            "margin_md": [30, 20, 5, 175],
+            "margin_lg": [30, 20, 5, 175],
+        
+            "aspectRatio_sm" : [4,6],
+            "aspectRatio_md" : [3,4],
+            "aspectRatio_lg" : [16,10],
+        
+            "mobileBreakpoint" : 510, 
+                           
+            "x_num_ticks_sm_md_lg" : [6,8,10],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}

@@ -1,0 +1,124 @@
+{   "area_on_off": false,
+    
+    "area_on_off_2": true,
+    
+    "axis_scale_min": -10,
+    "axis_scale_max": 26,
+    
+    "essential" : {
+            "graphic_data_url": "data.csv",
+        
+            "dateFormat":"%Y",
+            
+            "legendLabels" : ["part-time", "full-time"],
+            "legendStyle": "none", 
+            "colour_palette": [ "#332288", "#e36a32" ],
+            
+            "sourceText":["Annual Survey of Hours and Earnings gender pay gap tables, ONS"],
+            "sourceURL":["https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/annualsurveyofhoursandearningsashegenderpaygaptables"],
+			
+			"annotationPlace":[1,2,2,3],
+            "annotationChart":[
+            "The Maternity and Parental Leave Act  is passed, guaranteeing 18 weeks of  paid maternity leave for women. ", 
+		  "EU directive sets out a framework  for equal treatment in  employment and occupation. ", 
+		  "The Equality Act 2010 amalgamates all  previous UK anti-discrimination laws.  Giving rights of equality in pay for  men and women doing equal work. ", 
+		  " As of April employers with 250+ staff required  to publish their own pay gap figures"
+                              ] ,  
+            "annotationXY":[
+                ["1999","22"],
+                ["2000","28"],
+				["2010","28"],
+				["2017","25"]
+            ],
+            "annotationAlign":[
+                "start",
+                "start",
+				"start",
+				"end"
+            ],
+        
+            "circles" : false,    
+            "annotationCXCY":[
+                ["2003","68400"],
+                ["2008","73000"]
+            ],
+
+            "yAxisLabel":"",
+            "yAxisScale":[0,200],   
+            "yAxisBreak": false,
+            "yAxisBreak_sm_md_lg": [65,65,65]            
+    },
+    
+    "optional" : {
+            "margin_sm": [0, 0, 0, 60],
+            "margin_md": [0, 0, 0, 60],
+            "margin_lg": [0, 0, 0, 60],
+        
+            "aspectRatio_sm" : [4,1],
+            "aspectRatio_md" : [5,1],
+            "aspectRatio_lg" : [8,1],
+        
+            "mobileBreakpoint" : 480, 
+            
+            "xAxisTextFormat_sm_md_lg" : ["%Y", "%Y", "%Y"], 
+                
+            "x_num_ticks_sm_md_lg" : [6,12,12],    
+            "y_num_ticks_sm_md_lg" : [11,11,11],
+        
+            "lineMarkers" : true,
+        
+            "vertical_line" : true,
+			"vertical_lines_on": [0,1,2,3,
+                                  0,1,2,3,
+                                  0,1,2,3,
+                                  0,1,2,3],
+			"vertical_line_id":["annoLine0", "annoLine1","annoLine2","annoLine3","annoLine4","annoLine5","annoLine6", "annoLine7", "annoLine8", "annoLine9", "annoLine10", "annoLine11", "annoLine12", "annoLine13", "annoLine14", "annoLine15" ],
+            "annotateLineX1_Y1_X2_Y2" : [ [["1999", "-15"],["1999", "20"]],
+                                          [["1999", "-15"],["1999", "30"]],
+                                          [["1999", "-15"],["1999", "30"]],
+                                          [["1999", "-7"],["1999", "30"]],
+                                         
+                                          [["2000", "-15"],["2000", "20"]],
+                                          [["2000", "-15"],["2000", "30"]],
+                                          [["2000", "-15"],["2000", "30"]],
+                                          [["2000", "-7"],["2000", "30"]],
+                                         
+                                          [["2010", "-15"],["2010", "20"]],
+                                          [["2010", "-15"],["2010", "30"]],
+                                          [["2010", "-15"],["2010", "30"]],
+                                          [["2010", "-7"],["2010", "30"]],
+                                         
+										  [["2017", "-15"],["2017", "20"]], 
+                                          [["2017", "-15"],["2017", "30"]],
+                                          [["2017", "-15"],["2017", "30"]],
+                                          [["2017", "-7"],["2017", "30"]]
+										],
+        
+            "annotateRect" : true,
+			"annotateRect_on" : [],
+            "annotateRectX_Y" : [ [["2008", 230000],["2010", 0]], 
+								  [["2008", 230000],["2010", 0]],
+								  [["2008", 230000],["2010", 0]], 
+								  [["2008", 230000],["2010", 0]],
+								  [["2008", 230000],["2010", 0]], 
+								  [["2008", 230000],["2010", 0]],
+								  [["2008", 230000],["2010", 0]],
+								  [["2008", 230000],["2010", 0]]
+							 ],
+							 
+            "lineColor_opcty" : [["#dadada", 0.5],
+								 ["#dadada", 0.5],
+								 ["#dadada", 0.5],
+								 ["#dadada", 0.5],
+								 ["#dadada", 0.5],
+								 ["#dadada", 0.5],
+								 ["#dadada", 0.5],
+								 ["#dadada", 0.5]
+							],
+        
+            "centre_line" : true,
+            "centre_line_value" : 0
+    }
+}
+
+
