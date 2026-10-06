@@ -1,0 +1,73 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+
+    "sort_data": false,
+
+    "colour_palette": ["#871A5B", "#F66068", "#27A0CC", "#206095", "#003C57"],
+
+    "dateFormat": "",
+
+    "legendLabels": ["Very anxious", "Somewhat anxious", "Neither anxious nor unanxious", "Somewhat unanxious", "Not at all anxious"],
+
+    "sourceText": ["Office for National Statistics – Opinions and Lifestyle Survey"],
+    "sourceURL": [""],
+
+    "annotationChart": [],
+    "annotationBullet": [],
+    "annotationXY": [
+      [90, "Private rented"]
+
+    ],
+    "annotationAlign": [
+      "middle"
+    ],
+
+    "circles": false,
+    "annotationCXCY": [
+      ["60", "Social  rented"]
+
+    ],
+
+    "xAxisLabel": "%",
+    "xAxisScale": "auto_zero_max",
+    "xAxisBreak": true,
+    "xAxisBreak_sm_md_lg": [65, 65, 65]
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 20,
+        "right": 15,
+        "bottom": 35,
+        "left": 75
+      },
+      "md": {
+        "top": 20,
+        "right": 15,
+        "bottom": 35,
+        "left": 75
+      },
+      "lg": {
+        "top": 20,
+        "right": 15,
+        "bottom": 35,
+        "left": 75
+      }
+    },
+    "aspectRatio": {
+      "sm": [16, 44],
+      "md": [16, 20],
+      "lg": [16, 16]
+    },
+    "mobileBreakpoint": 414,
+    "mediumBreakpoint":600,
+
+    "x_num_ticks": {
+      "sm": 6,
+      "md": 8,
+      "lg": 10
+    }
+
+  }
+}
