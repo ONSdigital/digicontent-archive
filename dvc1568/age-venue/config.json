@@ -1,0 +1,65 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "dateFormat": "%d/%m/%Y",
+
+    "colour_palette": [
+      {
+        "key": "perc",
+        "colour": "#A8BD3A"
+      }
+    ],
+    "categorySort": ["Sporting event","Festival","Outdoor concert","Theatre or comedy performance","Indoor concert","Nightclub or bar","Other"],
+    "sourceText": ["Office for National Statistics – Opinions and Lifestyle Survey"],
+    "xAxisLabel": "%",
+    "yAxisLabel": "",
+    "yAxisScale": "auto_zero_max_total",
+    "screenreadertext": "Proof of COVID-19 status by venue and age group"
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 30,
+        "right": 50,
+        "bottom": 45,
+        "left": 5
+      },
+      "md": {
+        "top": 30,
+        "right": 50,
+        "bottom": 45,
+        "left": 5
+      },
+      "lg": {
+        "top": 30,
+        "right": 50,
+        "bottom": 45,
+        "left": 5
+      }
+    },
+    "margin_special_left": 80,
+    "chart_every":{
+      "sm": 1,
+      "md": 2,
+      "lg": 2
+    },
+    "aspectRatio": {
+      "sm": [16, 12],
+      "md": [16, 12],
+      "lg": [16, 12]
+    },
+    "legendHeight":{
+      "sm": 120,
+      "md": 60,
+      "lg": 60
+    },
+
+    "mobileBreakpoint": 400,
+    "middleBreakpoint": 550,
+    "x_ticks_every": {
+      "sm": 2,
+      "md": 2,
+      "lg": 1
+    }
+  }
+}

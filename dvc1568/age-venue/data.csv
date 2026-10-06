@@ -1,0 +1,50 @@
+date,series,chiffre,lower,upper,category
+All persons,perc,22,15,28,Sporting event
+16 to 29,perc,6,0,14,Sporting event
+30 to 49,perc,33,20,47,Sporting event
+50 to 69,perc,20,10,30,Sporting event
+70+,perc,19,9,30,Sporting event
+Men,perc,31,21,41,Sporting event
+Women,perc,12,5,20,Sporting event
+All persons,perc,6,3,9,Nightclub or bar
+16 to 29,perc,11,1,20,Nightclub or bar
+30 to 49,perc,4,0,8,Nightclub or bar
+50 to 69,perc,6,0,12,Nightclub or bar
+70+,perc,null,null,null,Nightclub or bar
+Men,perc,8,2,15,Nightclub or bar
+Women,perc,3,1,6,Nightclub or bar
+All persons,perc,11,7,15,Theatre or comedy performance
+16 to 29,perc,17,4,29,Theatre or comedy performance
+30 to 49,perc,6,1,10,Theatre or comedy performance
+50 to 69,perc,12,6,19,Theatre or comedy performance
+70+,perc,15,3,28,Theatre or comedy performance
+Men,perc,10,4,16,Theatre or comedy performance
+Women,perc,12,7,18,Theatre or comedy performance
+All persons,perc,7,3,10,Indoor concert
+16 to 29,perc,17,5,28,Indoor concert
+30 to 49,perc,4,0,8,Indoor concert
+50 to 69,perc,2,0,5,Indoor concert
+70+,perc,7,0,15,Indoor concert
+Men,perc,6,1,11,Indoor concert
+Women,perc,8,2,13,Indoor concert
+All persons,perc,11,5,16,Outdoor concert
+16 to 29,perc,null,null,null,Outdoor concert
+30 to 49,perc,17,4,30,Outdoor concert
+50 to 69,perc,11,2,21,Outdoor concert
+70+,perc,null,null,null,Outdoor concert
+Men,perc,7,0,15,Outdoor concert
+Women,perc,14,6,23,Outdoor concert
+All persons,perc,20,13,26,Festival
+16 to 29,perc,38,23,54,Festival
+30 to 49,perc,21,9,33,Festival
+50 to 69,perc,8,3,14,Festival
+70+,perc,null,null,null,Festival
+Men,perc,20,10,30,Festival
+Women,perc,20,12,27,Festival
+All persons,perc,33,26,39,Other
+16 to 29,perc,16,6,25,Other
+30 to 49,perc,23,13,32,Other
+50 to 69,perc,48,36,61,Other
+70+,perc,65,50,80,Other
+Men,perc,25,17,34,Other
+Women,perc,39,30,49,Other
