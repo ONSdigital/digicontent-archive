@@ -1,0 +1,61 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+        
+            "colour_palette": ["#395E7E", "#4AB5DD" ],
+        
+            "dateFormat":"%Y",
+        
+            "legendLabels" : ["Household representative aged 65+ living with a partner and no dependent children",  "Household representative aged 65+ and living alone" ],
+        
+            "sourceText":["2014-based household projections: detailed data for modelling and analytical purposes, Household projections stage 2: households, DCLG"],
+            "sourceURL":["https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/550809/Household_Projections_Data_-_Stage_2_-_Households.xlsx"],
+            
+            "annotationChart": [
+               
+                "It is likely more older  people will be living  with a partner than on  their own from 2024"
+            ],
+            "annotationBullet": [
+            
+                "It is likely more  older people will be living  with a partner than on  their own from 2024"
+            ],
+            "annotationXY":[
+             
+              ["2023", 17]
+            ],
+            "annotationAlign":[
+                
+                "middle"
+            ],
+        
+            "circles" : false,    
+            "annotationCXCY":[
+                
+            ],
+        
+            "yAxisLabel":"% of all households",
+            "yAxisScale":[0,20],   
+            "yAxisBreak": false,
+            "yAxisBreak_sm_md_lg": [75,75,75]            
+    },
+    "optional" : {
+            "margin_sm": [25, 30, 5, 30],
+            "margin_md": [25, 30, 5, 30],
+            "margin_lg": [25, 30, 5, 30],
+        
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+        
+            "mobileBreakpoint" : 610, 
+            "vertical_line" : false,
+            "annotateLineX1_Y1_X2_Y2":[  ],            
+            "xAxisTextFormat_sm_md_lg" : ["%Y", "%Y", "%Y"],                 
+            "x_num_ticks_sm_md_lg" : [7,10,10],    
+            "y_num_ticks_sm_md_lg" : [7,8,8],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}
+
+
