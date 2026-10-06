@@ -1,0 +1,238 @@
+:root {
+    --black: #222222;
+    --white: #fff;
+    --blue: #206095;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+ol {
+    list-style: none;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+h2 {
+    padding: 12px;
+    font-size: 22px;
+    color: #222222;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+input[type="radio"] {
+    position: absolute;
+    left: -9999px;
+}
+
+body {
+    max-width: 950px;
+    margin: 0 !important;
+}
+
+
+
+/* FORMATTING
+  –––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.domainHeading {
+    margin-top: 10px;
+    font-weight: 700;
+    font-size: 26px;
+}
+
+.domainExplainerText {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+#domain_dropdown {
+    margin: 10px;
+}
+
+#graphic {
+    margin-left: 10px;
+}
+
+.topTextbox {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+
+}
+
+.backToTop {
+    margin: 20px 10px 30px 10px;
+}
+
+hr {
+    border: 2px solid;
+    margin-bottom: 5px;
+}
+
+.wellbeing {
+    color: #00A3A6;
+    background-color: #00A3A6;
+}
+
+.relationships {
+    color: #902082;
+    background-color: #902082;
+}
+
+.health {
+    color: #DF0667;
+    background-color: #DF0667;
+}
+
+.do {
+    color: #27A0CC;
+    background-color: #27A0CC;
+}
+
+.live {
+    color: #3C388E;
+    background-color: #3C388E;
+}
+
+.finance {
+    color: #FA6401;
+    background-color: #FA6401;
+}
+
+.economy {
+    color: #D0021B;
+    background-color: #D0021B;
+}
+
+.skills {
+    color: #A8BD3A;
+    background-color: #A8BD3A;
+}
+
+.governance {
+    color: #003C57;
+    background-color: #003C57;
+}
+
+.environment {
+    color: #0F8243;
+    background-color: #0F8243;
+}
+
+.innerTextbox{
+    padding: 10px 20px;
+    color: #222222
+}
+
+
+/* FILTERS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– */
+.filters {
+    text-align: left;
+    margin: 10px;
+
+}
+
+.filters * {
+    display: inline-block;
+}
+
+.filters label {
+    padding: 0.5rem 1rem;
+    min-width: 50px;
+    cursor: pointer;
+    transition: all 0.1s;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+.filters label:hover {
+    background: #206095;
+    color: var(--white);
+}
+
+.filters label:focus-within {
+    outline: orange solid 3px;
+    background: #206095;
+    color: var(--white);
+}
+
+.filters label:has(input:checked) {
+    background: #003C57;
+    color: var(--white);
+}
+
+
+
+/* FILTERED ELEMENTS (POSTS)
+  –––––––––––––––––––––––––––––––––––––––––––––––––– */
+.posts {
+    display: grid;
+    grid-gap: 1.5rem;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.posts .post {
+    background: #fafafa;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.posts .post-title {
+    font-size: 1.3rem;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.posts figcaption {
+    padding: 1rem;
+}
+
+.posts .post-categories {
+    margin-bottom: 0.75rem;
+    font-size: 0.75rem;
+}
+
+.posts .post-categories * {
+    display: inline-block;
+}
+
+.posts .post-categories li {
+    margin-bottom: 0.2rem;
+    padding: 0.2rem 0.5rem;
+    border-radius: 1rem;
+    border: 1px solid;
+    line-height: normal;
+}
+
+
+
+/* FILTERING RULES
+  –––––––––––––––––––––––––––––––––––––––––––––––––– */
+[value="all"]:checked~.filters [for="all"],
+[value="positive"]:checked~.filters [for="positive"],
+[value="negative"]:checked~.filters [for="negative"],
+[value="nochange"]:checked~.filters [for="nochange"],
+[value="na"]:checked~.filters [for="na"] {
+    background: var(--blue);
+    color: var(--white);
+}
+
+/* [value="All"]:checked~.charts [data-category] {
+    display: block;
+}
+
+[value="positive"]:checked~.charts .thischart:not([data-category~="positive"]),
+[value="negative"]:checked~.charts .thischart:not([data-category~="negative"]),
+[value="nochange"]:checked~.charts .thischart:not([data-category~="nochange"]),
+[value="na"]:checked~.charts .thischart:not([data-category~="na"])
+
+
+{
+    display: none;
+} */

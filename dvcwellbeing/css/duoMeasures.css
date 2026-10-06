@@ -1,0 +1,53 @@
+
+/* ----- protected areas ----- */
+
+/* land */
+.changeSingle.protectedArea > .percent {
+    color: #118c7b;
+}
+
+.arrow.protectedArea1 > svg > path {
+    stroke:#118c7b;
+}
+
+
+
+/* ----- unpaid work ----- */
+
+/* males */
+.changeSingle.unpaidWork > .percent{
+    color: #2ea1a4; 
+}
+
+.arrow.unpaidWork1 > svg > path {
+    stroke:#2ea1a4;
+}
+
+/* females */
+.changeDuo.unpaidWork > .percent {
+    color: #6749a6;
+}
+
+.arrow.unpaidWork2 > svg > path {
+    stroke:#6749a6;
+}
+
+/* ----- feeling safe ----- */
+
+/* males */
+.changeSingle.feelingSafe > .percent{
+    color: #2ea1a4; 
+}
+
+.arrow.feelingSafe1 > svg > path {
+    stroke:#2ea1a4;
+}
+
+/* females */
+.changeDuo.feelingSafe > .percent {
+    color: #6749a6;
+}
+
+.arrow.feelingSafe2 > svg > path {
+    stroke:#6749a6;
+}

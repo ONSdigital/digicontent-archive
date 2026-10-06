@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+  <title>Measures of National Well-being Interactive Glossary</title>
+
+  <meta name="description" content="">
+  <meta name="robots" content="noindex" />
+  <meta name="googlebot" content="indexifembedded" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+  <link rel="stylesheet" href="../../lib/globalStyle.css" />
+  <link href="css/chosen.css" rel="stylesheet" />
+  <link rel="stylesheet" href="css/glosstyle.css" />
+  <!-- for chosen button -->
+</head>
+
+
+<body>
+
+  <div id="container">
+
+    <div id="banner">
+
+      <h3 id="title">Measures of National Well-being definitions</h3>
+      <!-- <img id="moneyimage" src="../money-icon.svg"> -->
+
+    </div>
+
+    <div id="divider"></div>
+
+    <div id="inputform">
+
+      <label id="selectTermText" for="yearbox" aria-label="Select or search a term to see its description">Select or search a term to see
+        its description</label>
+
+      <div>
+        <select name="select" id="yearbox" class="chosen-select">
+          <option selected="" disabled="">Select or search a term</option>
+        </select>
+      </div>
+
+    </div>
+
+    <div id="resulttext" aria-live="assertive">
+      
+      <p id="yourtermp"></p>
+      <p id="descriptionp"></p>
+    </div>
+
+  </div>
+
+  <script src="https://cdn.ons.gov.uk/vendor/d3/4.2.7/d3.min.js" type="text/javascript"></script>
+  <script src="../../lib/modernizr.svg.min.js" type="text/javascript"></script>
+  <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js" type="text/javascript"></script>
+  <script src="https://cdn.ons.gov.uk/vendor/jquery/2.1.4/jquery.min.js" type="text/javascript"></script>
+  <script src="../../lib/chosen.jquery.js"></script>
+  <script src="../../lib/chosen.order.jquery.min.js"></script>
+
+  <script>
+    var pymChild = null;
+
+    function drawGraphic(width) {
+
+      function populateDropdown(d, i) {
+        for (i = 0; i < graphic_data.length; i++) {
+          d3.select("#yearbox").append('option')
+            .attr('value', graphic_data[i].termID)
+            .text(graphic_data[i].termfull)
+        }
+
+      }
+
+      populateDropdown(graphic_data)
+
+      $(".chosen-select").chosen({
+        allow_single_deselect: true,
+        disable_search: false
+
+      })
+
+      //add event listeners to chosen dropdown
+      d3.select(".chosen-drop").on("click", function () {
+        termselected = d3.select("#yearbox").property("value");
+        givemeaning(termselected);
+      })
+      d3.select(".chosen-drop").on("touchend", function () {
+        termselected = d3.select("#yearbox").property("value");
+        givemeaning(termselected);
+      })
+
+      d3.select(".chosen-drop").on("keyup", function () {
+        if (d3.event.keyCode === 13) {
+          setTimeout(function () {
+            termselected = d3.select("#yearbox").property("value");
+            givemeaning(termselected);
+          }, 100);
+        }
+      })
+
+
+      function givemeaning(termselected) {
+
+
+
+        d3.select("#resulttext").attr("aria-live", "null");
+        description = graphic_data.filter(function (d) { return d.termID == termselected });
+        d3.select("#yourtermp").text(function (d) { return description[0].termfull })
+        d3.select("#descriptionp").html(function (d) { return description[0].descriptiontext })
+        d3.select("#termunderline").style("display", "block");
+
+
+
+        d3.select("#resulttext").attr("aria-live", "assertive");
+        document.getElementById("resulttext").focus()
+        if (pymChild) {
+          pymChild.sendHeight();
+        }
+      }
+
+      //use pym to calculate chart dimensions
+      if (pymChild) {
+        pymChild.sendHeight();
+      }
+    }  // ends draw graphic
+
+    //check whether browser can cope with svg
+    if (Modernizr.svg) {
+      //load config
+      d3.json("config.json", function (error, config) {
+        dvc = config
+
+        //load chart data
+        d3.csv(dvc.essential.graphic_data_url, function (error, data) {
+          graphic_data = data;
+
+          //use pym to create iframed chart dependent on specified variables
+          pymChild = new pym.Child({ renderCallback: drawGraphic });
+        });
+      })
+
+    } else {
+      //use pym to create iframe containing fallback image (which is set as default)
+      pymChild = new pym.Child();
+      if (pymChild) {
+        pymChild.sendHeight();
+      }
+    }
+  </script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a40b51f55853d857',t:'MTc5MDM1Mjg0OA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+
+</html>
