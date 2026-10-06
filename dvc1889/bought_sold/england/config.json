@@ -1,0 +1,94 @@
+{
+  "essential": {
+    "graphic_data_url": "total.csv",
+    "dateFormat": "%d/%m/%Y",
+    "legendLabels": ["All deaths","5 year average"],
+    "colour_palette": ["#206095","#27A0CC","#27A0CC"],
+    "colour_area": "#aecdde",
+    "legendStyle": ["line", "line", "line"],
+    "plotLines": [
+    {
+      "key": "pricebought",
+      "colour": "#206095"
+    },
+    {
+      "key": "pricesold",
+      "colour": "#27A0CC"
+    }
+  ],
+  "directLabels": [{
+      "variable": "pricebought",
+      "label": "Prices bought",
+      "colour": "#206095",
+      "dx":4,
+      "dy":0
+    },
+    {
+      "variable": "pricesold",
+      "label": "Prices sold",
+      "colour": "#27A0CC",
+      "dx":4,
+      "dy":0
+    }
+  ],
+    "sourceText": ["Office for National Statistics"],
+    "circles": false,
+    "yAxisLabel": "percent",
+    "xAxisLabel": "",
+    "yAxisScale": [0, 70],
+    "yAxisBreak": false,
+    "yAxisBreakValue": {
+      "sm": 12,
+      "md": 10,
+      "lg": 10
+    }
+  },
+
+  "optional": {
+    "dxWrap": -10,
+    "margin": {
+      "sm": {
+        "top": 30,
+        "right": 20,
+        "bottom": 50,
+        "left": 25
+      },
+      "md": {
+        "top": 30,
+        "right": 135,
+        "bottom": 50,
+        "left": 25
+      },
+      "lg": {
+        "top": 30,
+        "right": 140,
+        "bottom": 50,
+        "left": 25
+      }
+    },
+
+    "aspectRatio": {
+      "sm": [16, 7],
+      "md": [16, 7],
+      "lg": [16, 5]
+    },
+
+    "mobileBreakpoint": 500,
+    "middleBreakpoint": 600,
+
+    "x_ticks_every": {
+      "sm": 4,
+      "md": 4,
+      "lg": 4
+    },
+    "y_num_ticks": {
+      "sm": 5,
+      "md": 5,
+      "lg": 5
+    },
+
+    "lineMarkers": false
+
+
+  }
+}
