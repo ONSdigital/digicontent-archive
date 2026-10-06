@@ -1,0 +1,82 @@
+name,group,min,max
+16 to 19,"Managers, directors and senior officials",1,2
+20 to 29,"Managers, directors and senior officials",5,7
+30 to 39,"Managers, directors and senior officials",11,15
+40 to 49,"Managers, directors and senior officials",12,20
+50 to 59,"Managers, directors and senior officials",11,19
+60 to 69,"Managers, directors and senior officials",9,18
+70 to 79,"Managers, directors and senior officials",13,24
+80 to 89,"Managers, directors and senior officials",13,23
+90+,"Managers, directors and senior officials",11,19
+16 to 19,Professional occupations,3,4
+20 to 29,Professional occupations,22,18
+30 to 39,Professional occupations,27,22
+40 to 49,Professional occupations,25,20
+50 to 59,Professional occupations,19,17
+60 to 69,Professional occupations,15,15
+70 to 79,Professional occupations,12,16
+80 to 89,Professional occupations,12,14
+90+,Professional occupations,14,13
+16 to 19,Associate professional occupations,6,9
+20 to 29,Associate professional occupations,17,16
+30 to 39,Associate professional occupations,16,14
+40 to 49,Associate professional occupations,14,12
+50 to 59,Associate professional occupations,12,11
+60 to 69,Associate professional occupations,10,9
+70 to 79,Associate professional occupations,9,9
+80 to 89,Associate professional occupations,7,9
+90+,Associate professional occupations,7,10
+16 to 19,Administrative and secretarial occupations,8,4
+20 to 29,Administrative and secretarial occupations,12,6
+30 to 39,Administrative and secretarial occupations,13,4
+40 to 49,Administrative and secretarial occupations,14,4
+50 to 59,Administrative and secretarial occupations,18,4
+60 to 69,Administrative and secretarial occupations,21,4
+70 to 79,Administrative and secretarial occupations,22,4
+80 to 89,Administrative and secretarial occupations,19,5
+90+,Administrative and secretarial occupations,18,4
+16 to 19,Skilled trades occupations,2,21
+20 to 29,Skilled trades occupations,2,17
+30 to 39,Skilled trades occupations,2,17
+40 to 49,Skilled trades occupations,2,16
+50 to 59,Skilled trades occupations,3,18
+60 to 69,Skilled trades occupations,3,20
+70 to 79,Skilled trades occupations,5,19
+80 to 89,Skilled trades occupations,8,23
+90+,Skilled trades occupations,10,26
+16 to 19,"Caring, leisure and other service occupations",20,5
+20 to 29,"Caring, leisure and other service occupations",17,4
+30 to 39,"Caring, leisure and other service occupations",14,3
+40 to 49,"Caring, leisure and other service occupations",15,3
+50 to 59,"Caring, leisure and other service occupations",16,4
+60 to 69,"Caring, leisure and other service occupations",17,4
+70 to 79,"Caring, leisure and other service occupations",13,4
+80 to 89,"Caring, leisure and other service occupations",10,3
+90+,"Caring, leisure and other service occupations",9,3
+16 to 19,Sales and customer service occupations,30,20
+20 to 29,Sales and customer service occupations,13,10
+30 to 39,Sales and customer service occupations,8,5
+40 to 49,Sales and customer service occupations,7,4
+50 to 59,Sales and customer service occupations,9,4
+60 to 69,Sales and customer service occupations,11,4
+70 to 79,Sales and customer service occupations,11,6
+80 to 89,Sales and customer service occupations,11,6
+90+,Sales and customer service occupations,10,5
+16 to 19,"Process, plant and machine operatives",1,5
+20 to 29,"Process, plant and machine operatives",2,8
+30 to 39,"Process, plant and machine operatives",2,10
+40 to 49,"Process, plant and machine operatives",2,12
+50 to 59,"Process, plant and machine operatives",2,15
+60 to 69,"Process, plant and machine operatives",2,16
+70 to 79,"Process, plant and machine operatives",2,11
+80 to 89,"Process, plant and machine operatives",4,9
+90+,"Process, plant and machine operatives",6,11
+16 to 19,Elementary occupations,29,30
+20 to 29,Elementary occupations,10,14
+30 to 39,Elementary occupations,8,9
+40 to 49,Elementary occupations,9,9
+50 to 59,Elementary occupations,10,10
+60 to 69,Elementary occupations,12,11
+70 to 79,Elementary occupations,13,8
+80 to 89,Elementary occupations,15,8
+90+,Elementary occupations,15,8

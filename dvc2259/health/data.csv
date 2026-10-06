@@ -1,0 +1,11 @@
+name,group,min,max
+90+,Group,27,32
+80-89,Group,43,46
+70-79,Group,62,61
+60-69,Group,70,69
+50-59,Group,76,78
+40-49,Group,84,86
+30-39,Group,89,90
+20-29,Group,91,92
+16-19,Group,93,94
+<16,Group,97,96
