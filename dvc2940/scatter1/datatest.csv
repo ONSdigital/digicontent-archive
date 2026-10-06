@@ -1,0 +1,239 @@
+name,value,value2,group,friendly_name
+E02000001,65400,108320,City of London,City of London
+E02000002,39000,35593,Barking and Dagenham,Marks Gate
+E02000003,47800,41774,Barking and Dagenham,Chadwell Heath East
+E02000004,43700,45192,Barking and Dagenham,Eastbrookend
+E02000005,44900,40165,Barking and Dagenham,Becontree Heath
+E02000007,38000,34777,Barking and Dagenham,Central Park & Frizlands Lane
+E02000008,40900,36642,Barking and Dagenham,Becontree East
+E02000009,42300,38578,Barking and Dagenham,Becontree West
+E02000010,40000,37479,Barking and Dagenham,Dagenham North
+E02000011,45000,41651,Barking and Dagenham,Dagenham Eastbrook
+E02000012,46700,45993,Barking and Dagenham,Longbridge & Barking Park
+E02000013,39400,38730,Barking and Dagenham,Becontree South
+E02000014,39900,37719,Barking and Dagenham,Dagenham Central
+E02000015,36400,34560,Barking and Dagenham,Old Dagenham Park & Village
+E02000016,48600,36726,Barking and Dagenham,Barking Central
+E02000017,49900,43381,Barking and Dagenham,Barking East
+E02000018,39500,37174,Barking and Dagenham,Mayesbrook Park & Rippleside
+E02000019,42200,38516,Barking and Dagenham,Goresbrook & Scrattons Farm
+E02000020,42500,38475,Barking and Dagenham,Creekmouth & Barking Riverside
+E02000021,42300,39056,Barking and Dagenham,Rylands Estate & Dagenham Dock
+E02000022,44200,32970,Barking and Dagenham,Gascoigne Estate & Roding Riverside
+E02000023,42300,37374,Barking and Dagenham,Thames View
+E02000024,60200,59499,Barnet,High Barnet & Hadley
+E02000025,55400,50268,Barnet,Hadley Wood
+E02000026,54900,56070,Barnet,Oak Hill
+E02000027,50100,46851,Barnet,Ducks Island & Underhill
+E02000028,61700,58055,Barnet,New Barnet West
+E02000029,55500,49358,Barnet,New Barnet Town & East Barnet
+E02000030,58000,73250,Barnet,Totteridge & Barnet Gate
+E02000031,58400,65858,Barnet,Oakleigh Park
+E02000032,59600,56930,Barnet,Osidge
+E02000033,51100,47744,Barnet,Brunswick Park Road
+E02000034,52200,51279,Barnet,Whetstone East
+E02000035,54500,54039,Barnet,Woodside Park
+E02000036,53800,50562,Barnet,Edgware East
+E02000037,56300,59116,Barnet,Edgware Park
+E02000038,54300,53995,Barnet,Friern Barnet
+E02000039,67000,74054,Barnet,Mill Hill Park
+E02000040,55000,59567,Barnet,Mill Hill East
+E02000041,51300,48882,Barnet,Edgware Central
+E02000042,51100,49612,Barnet,North Finchley
+E02000043,65800,73845,Barnet,West Finchley
+E02000044,49400,48609,Barnet,Mill Hill Broadway
+E02000045,49800,48138,Barnet,Colney Hatch
+E02000046,60600,63995,Barnet,Church End
+E02000047,43800,40968,Barnet,Burnt Oak & Watling Park
+E02000048,58700,59438,Barnet,Copthall & Downage
+E02000049,43400,37599,Barnet,Grahame Park
+E02000050,53100,55911,Barnet,Fallow Corner
+E02000051,58600,64781,Barnet,Finchley Central
+E02000052,58600,60379,Barnet,East Finchley
+E02000053,51100,44816,Barnet,Barnet 030
+E02000054,57000,51073,Barnet,North Hendon & Sunny Hill
+E02000055,50400,52932,Barnet,Hendon Central
+E02000056,71600,110602,Barnet,Hampstead Garden Suburb
+E02000057,54400,55208,Barnet,Hendon Park
+E02000058,58800,65245,Barnet,Temple Fortune
+E02000059,46900,42334,Barnet,West Hendon
+E02000060,49600,52109,Barnet,Golders Green North
+E02000061,65500,84313,Barnet,Golders Green South
+E02000062,45400,41772,Barnet,Brent Cross & Staples Corner
+E02000063,54200,47491,Barnet,North Cricklewood
+E02000064,50100,57065,Barnet,Childs Hill
+E02000065,49800,40623,Bexley,Crossway Park
+E02000066,41400,36664,Bexley,South Thamesmead
+E02000067,45700,46847,Bexley,Belvedere & Lessness Heath
+E02000068,45100,37764,Bexley,Erith East
+E02000069,45800,45735,Bexley,Erith West
+E02000070,50100,47780,Bexley,Lesnes Abbey
+E02000071,51300,46070,Bexley,Northumberland Heath
+E02000072,44200,44044,Bexley,Slade Green & Crayford Marshes
+E02000073,57600,52672,Bexley,Bostall
+E02000074,44900,39556,Bexley,Lesney Farm & Colyers East
+E02000075,53500,50408,Bexley,Bursted Wood
+E02000077,51300,48900,Bexley,St Michael's
+E02000078,55200,51001,Bexley,Barnehurst North
+E02000079,49900,49467,Bexley,Bexleyheath Broadway
+E02000080,50600,49273,Bexley,Welling
+E02000081,51400,47152,Bexley,Barnehurst South
+E02000082,58700,52916,Bexley,Falconwood
+E02000083,49600,44455,Bexley,Crayford
+E02000084,54000,55306,Bexley,Danson Park
+E02000085,51000,47895,Bexley,Blackfen
+E02000086,56500,57332,Bexley,Lamorbey
+E02000087,61700,63117,Bexley,Bexley Village
+E02000088,59400,54448,Bexley,Albany Park
+E02000089,59300,57441,Bexley,Longlands & Halfway
+E02000090,48100,51137,Bexley,Sidcup West
+E02000091,50500,51398,Bexley,Sidcup East
+E02000092,43600,40337,Bexley,Foots Cray Meadows
+E02000093,50200,48396,Brent,Queensbury South
+E02000094,48300,46953,Brent,Kingsbury East
+E02000095,50900,50884,Brent,Kingsbury West
+E02000096,60700,62438,Brent,Kenton Woodcock Park
+E02000097,50000,46288,Brent,Kingsbury South
+E02000098,47800,49584,Brent,Barnhill The Avenue
+E02000099,57200,49020,Brent,Preston Park & East Lane
+E02000100,61900,58285,Brent,Northwick Park
+E02000101,47200,46296,Brent,Forty Lane
+E02000102,43400,42335,Brent,Welsh Harp
+E02000103,45900,49727,Brent,Dollis Hill
+E02000104,50800,48076,Brent,Wembley North
+E02000105,50600,46020,Brent,Sudbury East
+E02000106,46400,42473,Brent,Neasden
+E02000107,50600,52432,Brent,Cricklewood Anson Road
+E02000108,50900,46897,Brent,Sudbury West
+E02000109,52500,47289,Brent,Tokyngton
+E02000110,52600,60057,Brent,Dudden Hill
+E02000111,47800,45234,Brent,Wembley West
+E02000112,50200,48684,Brent,Wembley East
+E02000113,40900,38200,Brent,St Raphaels
+E02000114,50400,48617,Brent,Willesden Green
+E02000115,50600,58902,Brent,Brondesbury
+E02000116,43400,40079,Brent,Roundwood Park
+E02000117,38400,38493,Brent,Church End
+E02000118,48900,45459,Brent,Alperton East
+E02000119,39000,44460,Brent,Stonebridge
+E02000120,51900,64965,Brent,Kilburn West
+E02000121,51400,46128,Brent,Alperton West
+E02000122,54700,70644,Brent,Brondesbury Park
+E02000123,44000,41326,Brent,Harlesden
+E02000124,53700,77251,Brent,Queens Park
+E02000125,52500,59032,Brent,Kensal Green
+E02000126,41300,42520,Brent,Kilburn Park
+E02000127,45800,43050,Bromley,Mottingham
+E02000128,55000,61712,Bromley,Chislehurst North
+E02000130,55200,55149,Bromley,Penge East
+E02000131,54200,48139,Bromley,Crystal Palace Park
+E02000132,56300,55711,Bromley,New Beckenham
+E02000133,72000,102549,Bromley,Chislehurst West & Elmstead
+E02000134,56100,54472,Bromley,Bromley North & Sundridge
+E02000135,43100,37544,Bromley,Anerley North & Penge West
+E02000136,52400,60935,Bromley,Chislehurst East & Hoblingwell Wood
+E02000137,60300,61630,Bromley,Shortlands Bromley Road
+E02000138,60200,66488,Bromley,Beckenham East & Kelsey Park
+E02000139,61300,62945,Bromley,Clock House & Cator Park
+E02000140,42300,39789,Bromley,St Mary Cray North
+E02000141,55700,48846,Bromley,Anerley South
+E02000142,62900,71720,Bromley,Widmore
+E02000144,63100,63457,Bromley,Bromley South
+E02000145,43200,38897,Bromley,St Mary Cray East
+E02000146,60500,54851,Bromley,Bickley West
+E02000147,64600,78995,Bromley,Langley Park
+E02000148,63800,77555,Bromley,Bickley East
+E02000149,49300,48317,Bromley,St Mary Cray South
+E02000150,58300,63478,Bromley,Eden Park & Bethlem
+E02000151,70400,76438,Bromley,Petts Wood
+E02000152,47700,49385,Bromley,Bromley Common
+E02000153,61600,62600,Bromley,Hayes North
+E02000154,59500,61502,Bromley,Orpington West
+E02000155,50900,46388,Bromley,Orpington East
+E02000156,57200,60074,Bromley,West Wickham
+E02000157,66900,64527,Bromley,Crofton
+E02000158,55700,50808,Bromley,Goddington
+E02000159,67300,74193,Bromley,Keston
+E02000160,61700,62439,Bromley,Hayes South & Coney Hall
+E02000161,61600,61186,Bromley,Orpington South
+E02000162,50500,50720,Bromley,Farnborough
+E02000163,59300,73330,Bromley,Chelsfield & Green Street Green
+E02000165,60700,49039,Bromley,Biggin Hill West
+E02000166,52900,75958,Camden,Highgate West
+E02000167,68200,158677,Camden,Hampstead Town
+E02000168,57000,75905,Camden,Tufnell Park West
+E02000169,67300,181154,Camden,Frognal
+E02000170,60500,86222,Camden,Fortune Green
+E02000171,58200,86393,Camden,Mansfield Road & Park Hill Road
+E02000172,45600,47488,Camden,Kentish Town West
+E02000173,65500,126171,Camden,Fitzjohns & Royal Free
+E02000174,50900,56633,Camden,Kentish Town East
+E02000175,64100,81224,Camden,West Hampstead
+E02000176,65400,125091,Camden,Belsize Park
+E02000177,48200,54487,Camden,Chalk Farm
+E02000178,51400,59246,Camden,Kilburn Grange
+E02000179,55700,91005,Camden,Adelaide Road
+E02000180,48800,57244,Camden,Camden Road South
+E02000181,67400,106921,Camden,South Hampstead
+E02000182,60900,88835,Camden,Swiss Cottage
+E02000183,54500,108264,Camden,Primrose Hill
+E02000184,48500,45016,Camden,Camden Street & Elm Village
+E02000185,45700,46555,Camden,Kilburn East
+E02000186,51300,66769,Camden,Camden Town & Mornington Crescent
+E02000187,40700,40471,Camden,Somers Town
+E02000188,41300,38615,Camden,Euston
+E02000189,42300,42919,Camden,Gray's Inn Road
+E02000190,38500,38681,Camden,Bloomsbury East
+E02000191,46800,57722,Camden,Fitzrovia East & Bloomsbury West
+E02000192,50000,54723,Camden,Hatton Garden & Theobalds Road
+E02000193,50200,58487,Camden,"Holborn, St Giles & Bloomsbury South"
+E02000194,54100,48965,Croydon,Crystal Palace Triangle
+E02000195,58200,52870,Croydon,Upper Norwood
+E02000196,54100,45892,Croydon,Norbury East
+E02000197,53100,44834,Croydon,Norbury West
+E02000198,44900,40469,Croydon,Thornton Heath North West
+E02000199,53400,45765,Croydon,Thornton Heath North East
+E02000200,51400,45362,Croydon,South Norwood Hill
+E02000201,45200,36384,Croydon,South Norwood Central
+E02000202,51500,45253,Croydon,Thornton Heath West
+E02000203,44900,39471,Croydon,Thornton Heath Central
+E02000204,49000,50423,Croydon,West Thornton North
+E02000206,45400,37028,Croydon,Selhurst North
+E02000207,50500,41127,Croydon,Woodside & Ashburton
+E02000208,46100,35814,Croydon,University Hospital & Queen's Road
+E02000209,48600,40144,Croydon,West Thornton South & Ampere Way
+E02000210,56400,46506,Croydon,Addiscombe North
+E02000211,56200,50340,Croydon,Monks Orchard
+E02000212,45800,39178,Croydon,Broad Green & Waddon Marsh
+E02000213,46000,36987,Croydon,Selhurst South & West Croydon
+E02000214,59100,55022,Croydon,Addiscombe East
+E02000215,50700,43888,Croydon,Addiscombe West
+E02000216,58200,58268,Croydon,Park Hill & Lloyd Park
+E02000217,52700,39842,Croydon,Croydon Minster & Waddon North
+E02000218,52300,46561,Croydon,Shirley East
+E02000219,60800,57617,Croydon,Shirley West
+E02000220,51400,44460,Croydon,Central Croydon
+E02000221,47600,42740,Croydon,Waddon South
+E02000222,61500,54052,Croydon,Croham
+E02000223,39600,34685,Croydon,New Addington North
+E02000224,62300,53597,Croydon,Purley North
+E02000225,44400,39341,Croydon,New Addington Central
+E02000226,62800,60725,Croydon,Selsdon
+E02000227,54400,46033,Croydon,Forestdale
+E02000228,66500,71984,Croydon,Sanderstead
+E02000229,40100,36360,Croydon,New Addington South
+E02000230,58600,61215,Croydon,Purley Central
+E02000231,67500,82076,Croydon,Woodcote
+E02000232,58700,55525,Croydon,Selsdon Park & Hamsey Green
+E02000233,60700,57127,Croydon,Kenley North
+E02000234,59400,55133,Croydon,Coulsdon
+E02000235,63800,66902,Croydon,Kenley South
+E02000236,63300,60364,Croydon,Woodmansterne
+E02000237,53700,50334,Croydon,Old Coulsdon
+E02000238,50600,47129,Ealing,Whitton Avenue West
+E02000239,54000,51350,Ealing,Horsenden
+E02000240,45700,40519,Ealing,Northolt West
+E02000241,53500,46375,Ealing,Northolt East
+E02000242,52900,47913,Ealing,Bilton Road
+E02000243,52300,44464,Ealing,Greenford North
+E02000244,53900,45554,Ealing,Perivale
