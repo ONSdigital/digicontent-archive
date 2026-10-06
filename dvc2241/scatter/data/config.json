@@ -1,0 +1,48 @@
+{
+    "essential" : {
+            "graphic_data_url": "data/data.csv",
+            "pickxdata":"migrant_ratio",
+            "pickydata":"migrant_HE_plus_perc",
+
+            "sourceText":["Office for National Statistics - Census 2021"],
+            "sourceURL":["http://www.ons.gov.uk/"],
+            "rectannotations":[],
+            "textAnnotations":[{
+                "x":1.05,
+                "y":75,
+                "text":"England and Wales average"
+              },{
+                "x":3,
+                "y":48,
+                "text":"England and Wales average"
+                }],
+            "textAnnotationWrap":100,
+            "d3AnnotationWrap":300,
+            "xAxisLabel":"Migration concentration ratio",
+            "yAxisLabel":"Migrants with Higher Education qualifications",
+            "AxisScale":"",
+      			"xAxisScale":[0,3.5],
+      			"yAxisScale":[0,80]
+
+	},
+    "optional" : {
+            "margin_sm": [50 ,100, 0, 45],
+            "margin_md": [50, 20, 0, 50],
+            "margin_lg": [50, 20, 0, 50],
+
+            "aspectRatio_sm" : [0.8,1],
+            "aspectRatio_md" : [1.2,1],
+            "aspectRatio_lg" : [1.4,1],
+
+            "mobileBreakpoint" : 610,
+
+            "x_num_ticks_sm_md_lg" : [4,4,5],
+            "y_num_ticks_sm_md_lg" : [4,4,5],
+
+            "annotateLineX1_Y1_X2_Y2":[[1,0,1,80],[0,43.78,3.5,43.78]],
+            "annotateLineWidth":[1.2,1.2],
+            "lineColor_opcty" : [0.5,0.5]
+
+
+    }
+}
