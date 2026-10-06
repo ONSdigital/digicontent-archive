@@ -1,0 +1,76 @@
+{
+  "essential": {
+    "screenreadertext": "The chart canvas is hidden from screen readers. The main message is summarised by the chart title and the data behind the chart is available to download below.",
+    "graphic_data_url": "data.csv",
+    "dateFormat": "%d/%m/%Y",
+
+    "colour_palette": {
+      "Exports": "#27A0CC",
+      "Imports": "#003C57"
+    },
+    "categorySort": [
+      "Total Services",
+      "Technical, trade-related and other business services",
+      "Professional and management consulting services",
+      "Explicitly charged and other financial services",
+      "Intellectual Property",
+      "Personal Travel"
+    ],
+    "sourceText": ["ONS analysis of Growing Up in England data"],
+    "xAxisLabel": "%",
+    "yAxisLabel": " ",
+    "yAxisScale": ["auto_min_max_total"]
+  },
+  "optional": {
+    "margin": {
+      "groupMargin": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 210
+      },
+      "sm": {
+        "top": 70,
+        "right":10,
+        "bottom": 45,
+        "left": 10
+      },
+      "md": {
+        "top": 43,
+        "right": 25,
+        "bottom": 45,
+        "left": 10
+      },
+      "lg": {
+        "top": 43,
+        "right": 40,
+        "bottom": 45,
+        "left": 10
+      }
+    },
+    "chart_every":{
+      "sm": 1,
+      "md": 2,
+      "lg": 2
+    },
+    "aspectRatio": {
+      "sm": [1, 2],
+      "md": [16, 14],
+      "lg": [16, 14]
+    },
+    "legendHeight":{
+      "sm": 45,
+      "md": 30,
+      "lg": 30
+    },
+
+    "mobileBreakpoint": 400,
+    "middleBreakpoint": 600,
+    
+    "x_ticks_num": {
+      "sm": 7,
+      "md": 7,
+      "lg": 7
+    }
+  }
+}

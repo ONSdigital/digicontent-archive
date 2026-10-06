@@ -1,0 +1,7 @@
+name,category,value
+Couple family (Married or cohabiting),In care,0.45
+Lone parent family,In care,0.5
+Not in a family,In care,0.06
+Couple family (Married or cohabiting),Not in care,0.71
+Lone parent family,Not in care,0.26
+Not in a family,Not in care,0.02

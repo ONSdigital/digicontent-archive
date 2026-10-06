@@ -1,0 +1,9 @@
+name,category,value
+1 or 2 people,In care,0.11
+3 people,In care,0.21
+4 people,In care,0.26
+5 or more people,In care,0.42
+1 or 2 people,Not in care,0.06
+3 people,Not in care,0.2
+4 people,Not in care,0.39
+5 or more people,Not in care,0.35
