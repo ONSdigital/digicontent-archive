@@ -1,0 +1,210 @@
+AREACD,AREANM,yr1,yr2
+E38000113,Newham,52,63.9
+E38000123,North Manchester,52.7,66.9
+E38000180,Swale,53.7,66
+E38000032,Central Manchester,54.2,70.1
+E38000175,Stoke on Trent,55,66.1
+E38000015,Blackpool,55,67.7
+E38000205,Wigan Borough,55.1,69.5
+E38000182,Tameside and Glossop,55.1,67.6
+E38000171,Southwark,55.3,68.9
+E38000135,Oldham,55.3,67.9
+E38000158,South Manchester,55.4,69.9
+E38000097,Leicester City,55.4,65.9
+E38000065,Greater Preston,55.6,70.2
+E38000071,Hardwick,55.6,68.6
+E38000156,South Kent Coast,55.6,70.7
+E38000141,Rotherham,55.8,69.4
+E38000034,Chorley and South Ribble,55.8,70.4
+E38000035,City and Hackney,55.9,67.7
+E38000143,Salford,56,68.8
+E38000098,Lewisham,56,69
+E38000080,"Heywood, Middleton and Rochdale",56.1,69.1
+E38000008,Bassetlaw,56.2,67.9
+E38000092,Lambeth,56.3,70.3
+E38000014,Blackburn with Darwen,56.4,67.7
+E38000132,Nottingham City,56.4,67.8
+E38000018,Bradford City,56.5,65.8
+E38000006,Barnsley,56.6,68.1
+E38000186,Tower Hamlets,56.7,66.5
+E38000104,Medway,56.7,65.3
+E38000068,Halton,56.8,70.2
+E38000189,Vale Royal,56.9,66
+E38000115,North Derbyshire,57,70.1
+E38000050,East Lancashire,57,69.2
+E38000102,Luton,57.1,65.7
+E38000146,Sheffield,57.1,70.2
+E38000024,Bury,57.1,70.7
+E38000176,Sunderland,57.2,69.4
+E38000122,North Lincolnshire,57.2,69.3
+E38000029,Canterbury and Coastal,57.3,70.3
+E38000016,Bolton,57.3,69.2
+E38000084,Hounslow,57.4,73
+E38000161,South Sefton,57.4,69.1
+E38000060,Fylde & Wyre,57.5,68.9
+E38000004,Barking and Dagenham,57.6,64.9
+E38000192,Waltham Forest,57.6,68.7
+E38000126,North Staffordshire,57.6,68.4
+E38000021,Brighton and Hove,57.6,68.9
+E38000101,Liverpool,57.6,69.5
+E38000093,Lancashire North,57.7,69.6
+E38000210,Wolverhampton,57.7,69.1
+E38000151,South Cheshire,57.9,68.9
+E38000184,Thanet,57.9,65.5
+E38000002,Ashford,58,70.2
+E38000187,Trafford,58.1,72
+E38000144,Sandwell and West Birmingham,58.1,65.8
+E38000058,Erewash,58.1,68
+E38000185,Thurrock,58.1,67.7
+E38000075,Hartlepool and Stockton-on-Tees,58.2,68.1
+E38000076,Hastings and Rother,58.2,67.2
+E38000174,Stockport,58.3,72.3
+E38000201,West Leicestershire,58.3,69.5
+E38000172,St Helens,58.3,70.9
+E38000066,Greenwich,58.3,68.2
+E38000100,Lincolnshire West,58.3,69.9
+E38000103,Mansfield and Ashfield,58.4,66.6
+E38000088,Islington,58.4,70.9
+E38000109,Newark & Sherwood,58.5,71.4
+E38000091,Knowsley,58.5,70.3
+E38000044,Doncaster,58.6,68.5
+E38000025,Calderdale,58.6,66.5
+E38000162,South Tees,58.6,70.1
+E38000191,Walsall,58.7,69.7
+E38000047,"Durham Dales, Easington and Sedgefield",58.7,66.1
+E38000082,Hillingdon,58.8,69.8
+E38000165,South West Lincolnshire,58.8,69.3
+E38000212,Newcastle Gateshead,58.8,68.4
+E38000200,West Lancashire,58.9,72.1
+E38000196,West Cheshire,58.9,71.3
+E38000053,East Staffordshire,58.9,68.7
+E38000107,Milton Keynes,59,70
+E38000048,Ealing,59,69
+E38000117,North East Essex,59,69.3
+E38000183,Telford and Wrekin,59,67.2
+E38000133,Nottingham North and East,59.1,69.6
+E38000119,North East Lincolnshire,59.1,68.5
+E38000127,North Tyneside,59.1,67.7
+E38000169,Southern Derbyshire,59.2,70.5
+E38000099,Lincolnshire East,59.2,68.8
+E38000148,Slough,59.2,68.9
+E38000038,Coventry and Rugby,59.3,68.7
+E38000193,Wandsworth,59.3,70.5
+E38000137,Portsmouth,59.4,68.2
+E38000116,North Durham,59.4,68.8
+E38000130,Northumberland,59.4,68.9
+E38000085,Hull,59.4,65.9
+E38000046,Dudley,59.4,67.3
+E38000208,Wirral,59.5,68.8
+E38000041,Cumbria,59.5,69.8
+E38000019,Bradford Districts,59.5,70.5
+E38000194,Warrington,59.5,69.8
+E38000167,Southampton,59.6,69.6
+E38000138,Redbridge,59.6,67
+E38000157,South Lincolnshire,59.7,71.1
+E38000199,West Kent,59.7,70
+E38000195,Warwickshire North,59.8,69
+E38000072,Haringey,59.8,69.8
+E38000049,East and North Hertfordshire,59.9,70.1
+E38000153,South East Staffordshire and Seisdon Peninsula,60,69.6
+E38000043,"Dartford, Gravesham and Swanley",60,71.4
+E38000108,Nene,60,69.3
+E38000106,Mid Essex,60,70.7
+E38000059,Fareham and Gosport,60,68.4
+E38000168,Southend,60.1,67.2
+E38000051,East Leicestershire and Rutland,60.1,70.2
+E38000007,Basildon and Brentwood,60.2,69
+E38000037,Corby,60.2,67.8
+E38000121,North Kirklees,60.2,68.6
+E38000020,Brent,60.2,71
+E38000063,Great Yarmouth and Waveney,60.3,68.9
+E38000211,Wyre Forest,60.3,66.4
+E38000131,Norwich,60.3,69.5
+E38000057,Enfield,60.3,72.3
+E38000011,Bexley,60.4,70.4
+E38000203,West Norfolk,60.4,70.4
+E38000163,South Tyneside,60.4,67
+E38000129,"Northern, Eastern and Western Devon",60.4,72.1
+E38000081,High Weald Lewes Havens,60.5,68.7
+E38000012,Birmingham CrossCity,60.5,68.6
+E38000190,Wakefield,60.6,68.6
+E38000005,Barnet,60.6,74.5
+E38000010,Bedfordshire,60.6,68.9
+E38000030,Castle Point and Rochford,60.6,69.8
+E38000022,Bristol,60.6,71.4
+E38000079,Herts Valleys,60.6,69.4
+E38000077,Havering,60.7,69.3
+E38000017,Bracknell and Ascot,60.7,68.9
+E38000028,Cannock Chase,60.7,68.9
+E38000142,Rushcliffe,60.7,71
+E38000105,Merton,60.8,71.6
+E38000134,Nottingham West,60.8,69
+E38000013,Birmingham South and Central,60.8,69
+E38000027,Camden,60.9,72
+E38000042,Darlington,60.9,67.1
+E38000204,West Suffolk,60.9,71.8
+E38000054,East Surrey,61,71.1
+E38000026,Cambridgeshire and Peterborough,61.1,71.2
+E38000128,North West Surrey,61.2,71.8
+E38000055,"Eastbourne, Hailsham and Seaford",61.2,68.8
+E38000164,South Warwickshire,61.2,70.7
+E38000178,Surrey Heath,61.2,72.8
+E38000197,West Essex,61.2,70.3
+E38000125,North Somerset,61.2,70.9
+E38000213,Coastal West Sussex,61.4,68.9
+E38000173,Stafford and Surrounds,61.4,68.4
+E38000120,North Hampshire,61.4,70.8
+E38000039,Crawley,61.5,65.4
+E38000095,Leeds South and East,61.5,70.3
+E38000110,Newbury and District,61.6,69
+E38000040,Croydon,61.7,71.2
+E38000159,South Norfolk,61.7,70.5
+E38000031,Central London (Westminster),61.7,73.8
+E38000086,Ipswich and East Suffolk,61.7,68
+E38000023,Bromley,61.7,70.7
+E38000150,Somerset,61.8,71.6
+E38000160,South Reading,61.8,66.1
+E38000064,Greater Huddersfield,61.8,68.4
+E38000124,North Norfolk,61.9,69.9
+E38000056,Eastern Cheshire,61.9,70.9
+E38000181,Swindon,61.9,67.7
+E38000096,Leeds West,62,70.2
+E38000078,Herefordshire,62,68.8
+E38000155,South Gloucestershire,62.1,71.7
+E38000114,North & West Reading,62.2,69.7
+E38000118,North East Hampshire and Farnham,62.2,72.2
+E38000147,Shropshire,62.3,70.5
+E38000062,Gloucestershire,62.3,71.3
+E38000083,Horsham and Mid Sussex,62.4,69
+E38000003,Aylesbury Vale,62.4,70.6
+E38000154,South Eastern Hampshire,62.5,69.6
+E38000090,Kingston,62.5,71.2
+E38000207,"Windsor, Ascot and Maidenhead",62.5,71.5
+E38000179,Sutton,62.6,69.9
+E38000070,Hammersmith and Fulham,62.6,71.7
+E38000170,Southport and Formby,62.6,72.8
+E38000089,Kernow,62.6,71.3
+E38000009,Bath and North East Somerset,62.7,71.6
+E38000069,"Hambleton, Richmondshire and Whitby",62.7,70.8
+E38000166,South Worcestershire,62.7,70
+E38000145,Scarborough and Ryedale,62.7,67.8
+E38000087,Isle of Wight,62.8,69.7
+E38000073,Harrogate and Rural District,63,72.6
+E38000136,Oxfordshire,63.1,72.5
+E38000052,East Riding of Yorkshire,63.2,70.8
+E38000074,Harrow,63.2,74.5
+E38000202,West London,63.3,74.1
+E38000033,Chiltern,63.3,72.5
+E38000149,Solihull,63.3,71
+E38000206,Wiltshire,63.4,70.8
+E38000188,Vale of York,63.6,70.8
+E38000140,Richmond,63.6,73.3
+E38000214,Guildford and Waverley,63.7,72.8
+E38000198,West Hampshire,63.7,73
+E38000209,Wokingham,63.8,70.5
+E38000001,"Airedale, Wharfedale and Craven",63.8,71.6
+E38000152,South Devon and Torbay,64,73.3
+E38000139,Redditch and Bromsgrove,64.1,70
+E38000045,Dorset,64.6,71.6
+E38000177,Surrey Downs,64.6,72.1
+E38000094,Leeds North,64.7,72.2

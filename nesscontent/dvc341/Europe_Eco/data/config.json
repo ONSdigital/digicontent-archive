@@ -1,0 +1,6 @@
+{"vars": ["GDP per capita", "Annual GDP growth rate", "General government gross debt","Employment rate"],
+
+ "filenames": [ "gdppercap.json", "gdpgrowth.json" ,"debt.json","employment.json"],
+
+ "code": ["gdppercap", "gdpgrowth", "debt","employment"]
+}

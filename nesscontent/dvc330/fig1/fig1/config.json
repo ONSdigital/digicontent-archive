@@ -1,0 +1,79 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+        
+            "dateFormat":"%Y",
+			
+            "legendLabels" : ["Net Migration", "Immigration", "Emigration"],
+        
+"sourceText0":["International Migration Time Series "], 
+        
+"sourceText1":["Long-Term International Migration Estimates, ONS"],
+        
+            "sourceURL0":["http://www.neighbourhood.statistics.gov.uk/HTMLDocs/dvc123/data14.xls"],
+        
+            "sourceURL1":["https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/datasets/migrationstatisticsquarterlyreportprovisionallongterminternationalmigrationltimestimates"],
+        
+            "annotationChart": [
+				"More people leaving UK  than arriving",
+				"EU8  join",
+				"EU2  join",
+				"EU2 work  restrictions  lifted",
+				"net migration has exceeded  100,000 every year since 1998"
+			],
+            "annotationBullet": [
+				"1964 to 1982: more people leaving UK  than arriving",
+				"2004: EU8 join th EU",
+				"2007: EU2 join the EU",
+				"2014: EU2 restrictions on employment lifted",
+				"net migration has exceeded  100,000 every year since 1998"
+			],
+            "annotationXY":[
+				["1972", "75"],
+				["2004", "785"],
+				["2007", "785"],
+				["2014", "785"],
+				["2006", "-50"]
+				
+			],
+            "annotationAlign":[
+				"middle",
+				"middle",
+				"middle",
+				"middle",
+				"middle"
+			],
+        
+            "circles" : false,    
+            "annotationCXCY":[
+				["1972", "50"],
+				["2004", "700"],
+				["2007", "700"],
+				["2014", "700"]
+			],
+            "yAxisLabel":"thousands",
+            "yAxisScale":[-200, 800],   
+            "yAxisBreak": false,
+            "yAxisBreak_sm_md_lg": [65,65,65]            
+    },
+    "optional" : {
+            "margin_sm": [10, 30, 22, 40],
+            "margin_md": [10, 30, 22, 40],
+            "margin_lg": [10, 30, 22, 40],
+        
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+        
+            "mobileBreakpoint" : 610, 
+            
+            "xAxisTextFormat_sm_md_lg" : ["%y", "%y", "%y"], 
+                
+            "x_num_ticks_sm_md_lg" : [4,2,2],    
+            "y_num_ticks_sm_md_lg" : [9,9,9],
+            "centre_line" : true,
+            "centre_line_value" : -200
+    }
+}
+
+

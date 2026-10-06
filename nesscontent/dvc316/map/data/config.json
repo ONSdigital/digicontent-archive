@@ -1,0 +1,16 @@
+{"ons":{
+"varlabel": [""],
+"varcolour": [ "#7b3294", "#e7d4e8", "#d9f0d3",  "#008837"],
+    
+   
+"varname": ["percentage point change in one year survival estimates (1997 to 2012"],
+"varload": "yr1",
+"varunit":["% point change"],
+"varprefix":[""],
+"breaks":[[3.5, 6.9, 10.1, 13.4, 16.0]],
+"average":[10.1],
+"averagelabel":"E&W",
+"centre":[53.344,-1.91],
+"zoom":6
+
+}}

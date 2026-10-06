@@ -1,0 +1,60 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+        
+            "dateFormat":"%Y",
+			
+            "legendLabels":[ "Military Equipment",
+"Personnel Costs",
+"Other" ],
+			
+			
+			"sourceText":["Table 3 Departmental Resources Statistical Bulletin 2015, MoD"],
+            "sourceURL":["https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/483749/20151208-NS_Departmental_Resources_tables_December_revision-FINAL.xls"],
+        
+            "annotationChart": [
+            ],
+            "annotationBullet": [        
+			],
+			
+            "annotationXY":[
+                [0,0],
+                [-50,50]
+            ],
+            "annotationAlign":[
+                "middle",
+                "middle"
+            ],
+        
+            "circles" : true,    
+            "annotationCXCY":[
+                [0,0],
+                [-50,50]
+            ],
+        
+            "yAxisLabel":"yAxisUnit",
+            "yAxisScale":"auto_zero_max",   
+            "yAxisBreak": true,
+            "yAxisBreak_sm_md_lg": [65,65,65]            
+    },
+    "optional" : {
+            "margin_sm": [30, 30, 0, 50],
+            "margin_md": [10, 50, 35, 50],
+            "margin_lg": [10, 50, 35, 50],
+        
+            "aspectRatio_sm" : [16,16],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,12],
+        
+            "mobileBreakpoint" : 610, 
+            
+            "xAxisTextFormat_sm_md_lg" : ["%y", "%Y", "%b %y"], 
+                
+            "x_num_ticks_sm_md_lg" : [7,17,17],    
+            "y_num_ticks_sm_md_lg" : [6,8,10],
+            "centre_line" : true,
+            "centre_line_value" : 0
+    }
+}
+
+

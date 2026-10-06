@@ -1,0 +1,259 @@
+
+ <!DOCTYPE html>
+
+<html lang="en">
+
+	<head>
+
+    	<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+    	
+		<link rel="stylesheet" href="male/css/styles.css" media="screen">
+
+          
+
+       
+
+
+
+<style type="text/css">
+		
+
+html, body, div, span, appleft, object, iframe,
+
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+
+a, abbr, acronym, address, big, cite, code,
+
+del, dfn, em, img, ins, kbd, q, s, samp,
+
+small, strike, strong, sub, sup, tt, var,
+
+b, u, i, center,
+
+dl, dt, dd, ol, ul, li,
+
+fieldset, form, label, legend,
+
+table, caption, tbody, tfoot, thead, tr, th, td,
+
+article, aside, canvas, details, embed, 
+
+figure, figcaption, footer, header, hgroup, 
+
+menu, nav, output, ruby, section, summary,
+
+time, mark, audio, video
+
+{
+
+	margin: 0;
+
+	padding: 0;
+
+	border: 0;
+
+	font-size: 100%;
+
+	font: inherit;
+
+	vertical-align: baseline;
+
+}
+
+
+
+  @font-face {
+		font-family: 'open_sanslight';		
+		src: url('male/assets/OpenSans-Light-webfont.woff') format('woff');
+		font-weight: normal;
+		font-style: normal;
+	
+	}
+	
+	@font-face {
+		font-family: 'open_sansitalic';		
+		src: url('male/assets/OpenSans-Italic-webfont.woff') format('woff');
+		font-weight: normal;
+		font-style: normal;
+	
+	}
+	
+	@font-face {
+		font-family: 'open_sansregular';		
+		src: url('male/assets/OpenSans-Regular-webfont.woff') format('woff');
+		font-weight: normal;
+		font-style: normal;
+	
+	}
+	
+	@font-face {
+		font-family: 'open_sanssemibold';		
+		src: url('male/assets/OpenSans-Semibold-webfont.woff') format('woff');
+		font-weight: normal;
+		font-style: normal;
+	
+	}
+
+
+
+
+
+body
+
+{
+
+	font-family:open_sansregular;
+
+	background:#fbfbfb;
+
+	color:#666;
+
+}
+
+	
+		
+
+
+			#menu{
+
+				height:70px;
+
+				width:100%;			
+
+			}
+
+
+
+						#filters{
+							
+							padding-top:30px;
+						}
+
+						#filters li{
+
+							float:none;
+							
+							display:inline;				
+
+						}
+
+						
+
+						#filters a{
+
+							float:left;
+
+							text-align:center;
+
+							cursor:pointer;
+							
+							width:100%;
+							height:38px;
+							line-height:25pt;
+							color:#666;
+							text-decoration: none;
+							/*border-bottom:5px solid #999;*/
+
+						}
+
+						
+
+						#btn1:hover, #btn2:hover, #btn3:hover, #btn4:hover, #btn5:hover{						
+							background:#e1e1e1;
+
+						}
+						
+						a#btn1.highlight, a#btn2.highlight, a#btn3.highlight, a#btn4.highlight, a#btn5.highlight{
+
+							color:white;
+							background:#008cba;
+
+						}
+
+
+	
+
+			
+
+
+</style>		
+
+      
+
+     <!--reference to javascript libraries-->
+
+	
+
+    <script src="male/js/jquery.js"></script>
+ 	<script src="male/js/modernizr.custom.56904.js"></script>
+    <script src="male/js/d3.v3.min.js" charset="utf-8"></script>
+    <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="male/js/bootstrap.min.js"></script>
+
+    </head>
+
+    
+
+	<body>
+ 
+    <div id="menu">
+            <nav id="filters" class="col-sm-5 col-xs-12">
+    
+                        <ul>  
+                        
+                            <li> 
+                                <a id="btn1" class="highlight" onClick="doSomething()">btn1</a>
+                            </li> 
+                            <li>  
+                                <a id="btn2" onClick="doSomething()" >btn2</a>
+                            </li> 
+                            <li> 
+                                <a id="btn3" onClick="doSomething()">btn3</a>
+                            </li> 
+                            <li>  
+                                <a id="btn4" onClick="doSomething()" >btn4</a>
+                            </li> 
+                            <li> 
+                                <a id="btn5" onClick="doSomething()">btn5</a>
+                            </li> 
+                        </ul>  
+    
+                </nav> 
+    </div><!--end menu-->
+
+<script type="text/javascript"> 
+
+
+
+//init function
+
+$(document).ready(function(){
+
+	$('#filters a').click(function(){ 
+
+			$(".highlight").toggleClass("highlight");
+
+			$(this).toggleClass("highlight");
+
+	})
+
+
+
+});
+	
+
+//Function to destroy old information and create new
+
+function doSomething(){
+	alert('function fired');	
+}
+
+
+</script>
+
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a40b5c732c57d857',t:'MTc5MDM1MzI3Nw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+
+        
+
+</html>

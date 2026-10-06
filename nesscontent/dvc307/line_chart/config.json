@@ -1,0 +1,68 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+        
+            "dateFormat":"%d-%b",
+        
+            "legendLabels" : ["Daily births","Average number of births"],
+        
+            "sourceText":["Birth registrations in England and Wales"],
+            "sourceURL":["http://www.ons.gov.uk/ons/rel/vsob1/birth-summary-tables--england-and-wales/2014/stb-births-in-england-and-wales-2014.html"],
+        
+            "annotationChart": [
+                "January 1 sees around 200  fewer babies delivered than  the daily average",
+                "The number of babies born  on February 29 is similar to  the daily average",
+                "September 26 has the highest number  of births at nearly 2,000",
+                "December 25 and 26 are  the least popular days to  give birth, with an average  1,400 births occuring on each"],
+            "annotationBullet": [
+                "January 1 sees around 200 fewer babies delivered than the daily average",
+                "The number of babies born on February 29 is similar to the daily average",
+                "September 26 has the highest number of births at nearly 2,000",
+                "December 25 and 26 are the least popular days to give birth, with an average 1,400 births occuring on each"],
+            "annotationXY":[
+                ["10-Jan","1515"],
+                ["15-Mar","2100"],
+                ["26-Sep","2100"],
+                ["17-Dec","1318"]
+            ],
+            "annotationAlign":[
+                "start",
+                "middle",
+                "middle",
+                "end"
+            ],
+        
+            "circles" : true,    
+            "annotationCXCY":[
+                ["01-Jan","1573.5"],
+                ["29-Feb","1788.2"],
+                ["26-Sep","1973.5"],
+                ["26-Dec","1358.95"]
+            ],
+        
+            "yAxisLabel":"Number of births",
+            "yAxisScale":[800,2200],   
+            "yAxisBreak": true,
+            "yAxisBreak_sm_md_lg": [800,800,800]            
+    },
+    "optional" : {
+            "margin_sm": [20, 10, 40, 40],
+            "margin_md": [20, 10, 40, 40],
+            "margin_lg": [20, 10, 40, 40],
+        
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+        
+            "mobileBreakpoint" : 610, 
+            
+            "xAxisTextFormat_sm_md_lg" : ["%b", "%b", "%b"], 
+                
+            "x_num_ticks_sm_md_lg" : [12,12,12],    
+            "y_num_ticks_sm_md_lg" : [6,8,10],
+            "centre_line" : true,
+            "centre_line_value" : 1800
+    }
+}
+
+

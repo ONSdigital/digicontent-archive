@@ -1,0 +1,20 @@
+{"ons":{
+"varlabel": ["Self employed","Home worker"],
+"varcolour": [
+    "#fddbc7", 
+    "#f4a582", 
+    "#d6604d", 
+    "#b2182b", 
+    "#67001f"
+],
+"varname": ["selfemployed","homeworker"],
+"varload": "selfemployed",
+"varunit":["% of all workers","% of all workers"],
+"varprefix":["",""],
+"breaks":"jenks",
+"average":[24,65.4],
+"averagelabel":"E&W",
+"centre":[53.344,-1.91],
+"zoom":6
+
+}}

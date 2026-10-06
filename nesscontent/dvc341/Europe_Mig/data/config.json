@@ -1,0 +1,6 @@
+{"vars": [ "Immigration", "Emigration","Net migration"],
+
+ "filenames": ["immigration.json","emigration.json","net.json"],
+
+ "code": ["immigration","emigration","net"]
+}

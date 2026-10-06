@@ -1,0 +1,60 @@
+{
+    "essential" : {
+            "graphic_data_url": "data2.csv",
+        
+            "dateFormat":"%b-%y",
+        
+            "legendLabels" : ["GDP", "Employment", "Total hours", "Output per hour"],
+        
+            "sourceText":["Quarterly National Accounts Q1 2015", " Labour Productivity Bulletin Q1 2015"],
+            "sourceURL":["http://www.ons.gov.uk/ons/rel/naa2/quarterly-national-accounts/q1-2015/stb-qna-q1.html", "http://www.ons.gov.uk/ons/rel/productivity/labour-productivity/q1-2015/stbq115.html"],
+        
+            "annotationChart": [
+                "",
+                ""
+            ],
+            "annotationBullet": [
+                "",
+                ""
+            ],
+            "annotationXY":[
+                ["",""],
+                ["",""]
+            ],
+            "annotationAlign":[
+                "middle",
+                "middle"
+            ],
+        
+            "circles" : true,    
+            "annotationCXCY":[
+                ["",""],
+                ["",""]
+            ],
+        
+            "yAxisLabel":"Productivity Index (2008=100)",
+            "yAxisScale":[92,105],
+            "yAxisBreak": true,
+            "yAxisBreak_sm_md_lg": [92,92,92.0]      
+    },
+    "optional" : {
+            "margin_sm": [25, 14, 35, 30],
+            "margin_md": [25, 14, 35, 30],
+            "margin_lg": [25, 14, 35, 30],
+        
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+        
+            "mobileBreakpoint" : 450, 
+            
+            "xAxisTextFormat_sm_md_lg" : ["%y", "%Y", "%Y"], 
+                
+            "x_num_ticks_sm_md_lg" : [10,10,10], 
+            "y_num_ticks_sm_md_lg" : [5,5,5],
+            "centre_line" : true,
+            "centre_line_value" : 100
+    }
+}
+
+

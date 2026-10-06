@@ -1,0 +1,17 @@
+{"ons":{
+"varlabel": ["Average weekly social housing rent"],
+"varcolour":  [ "#ffffff", "#000000", "#d9d9d9",  "#bd0021"],
+"varname": ["rent"],
+"varload": "rent",
+"varunit":["£"],
+"varunit2":[" per week"],
+"varunit3":["£ per week"],
+"varunit4":[""],
+"varprefix":[""],
+"breaks":[[0, 65.50, 77.20, 116.00, 130.00]],
+"average":[92.30],
+"averagelabel":"E&W",
+"centre":[53.344,-1.91],
+"zoom":6
+
+}}

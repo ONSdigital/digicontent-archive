@@ -1,0 +1,16 @@
+{
+    "essential" : {
+            "Labels": ["EU","Non-EU","Britain"],
+                
+            "Values": [270000,277000,83000],
+        
+            "Question" : "In 2015, 630,000 long-term immigrants came to the UK, but what was their citizenship?",
+        
+            "Reveal" : "",
+        
+            "sourceText":["Long-Term International Migration data, ONS"],
+            "sourceURL":["http://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/datasets/migrationstatisticsquarterlyreportprovisionallongterminternationalmigrationltimestimates"]
+    }
+}
+
+

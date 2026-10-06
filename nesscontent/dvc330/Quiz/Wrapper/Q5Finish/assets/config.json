@@ -1,0 +1,16 @@
+{
+    "essential" : {
+            "Labels": ["EU","Non-EU","Britain"],
+                
+            "Values": [2,2,8],
+        
+            "Question" : "Thank you for taking our quiz",
+        
+            "Reveal" : "",
+        
+            "sourceText":["Long-Term International Migration data, ONS"],
+            "sourceURL":["http://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/datasets/migrationstatisticsquarterlyreportprovisionallongterminternationalmigrationltimestimates"]
+    }
+}
+
+

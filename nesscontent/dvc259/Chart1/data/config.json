@@ -1,0 +1,14 @@
+{"ons":{
+"varlabel": ["English not spoken well and not at all, 2011"],
+"varcolour": ["#e1dae8","#c994c7","#e7298a","#980043","#67001f"],
+"varname": ["population_change_2004_2013"],
+"varload": "population_change_2004_2013",
+"varunit":["%"],
+"varprefix":["",""],
+"breaks":[[0.0,0.8,2.0,3.7,6.2,8.7]],
+"average":[63.5,65.4],
+"averagelabel":"E&W",
+"centre":[53.344,-1.91],
+"zoom":6
+
+}}

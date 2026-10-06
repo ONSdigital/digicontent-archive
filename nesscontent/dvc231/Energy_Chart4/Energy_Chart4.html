@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Emissions of greenhouse gases</title>
+
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+    <style type="text/css">
+        /* base styles */
+        html { -webkit-text-size-adjust: none; /* prevent font scaling in landscape */ }
+
+        body {
+            margin: 0;
+            padding: 0%;
+          /*  background-color: #F7F7F7;*/
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        h1 {
+            margin: 0 0 22px 0;
+            font-size: 14px;
+            color: #333;
+        }
+
+        h3 {
+            font-weight: normal;
+            color: #333;
+            font-size: 16px;
+            margin: 0 0 11px 0;
+        }
+
+        a, a:link, a:visited {
+            color: #4774CC;
+            text-decoration: none;
+        }
+        a:hover, a:active { opacity: 0.7; }
+
+        .footnotes { margin-bottom: 20px; }
+        .footnotes h4 {
+            margin: 2px 0 7px 0;
+            color: #666;
+            font-size: 11px;
+        }
+        .footnotes p,
+        .footer p {
+            margin: 2px 0 0 0;
+            font-size: 11px;
+            line-height: 1.3;
+            color: #808080;
+        }
+		
+
+
+        /* chart */
+        #graphic {
+            width: 100%;
+        }
+        #graphic:before,
+        #graphic:after {
+            content: " "; /* 1 */
+            display: table; /* 2 */
+        }
+        #graphic:after { clear: both; }
+
+        #graphic img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        #graphic svg {
+            font-family: Arial, Helvetica, sans-serif;
+            /*margin-bottom: 1em;*/
+        }
+        #graphic .axis {
+            font-size: 12px;
+            fill: #666;
+        }
+		
+		#xAxis text{
+            font-size: 12px;
+            fill: none;
+        }
+        #graphic .axis path {
+            fill: #666;
+            stroke: #666;
+            shape-rendering: crispEdges;
+        }
+		
+		.labels path{
+            fill: none;
+            stroke: none;
+            shape-rendering: crispEdges;
+        }
+		
+        #graphic .axis line {
+            fill: none;
+            stroke: none;
+            shape-rendering: crispEdges;
+        }
+		
+		.labels line {
+			fill: none;
+            stroke: #666;
+            shape-rendering: crispEdges;
+		}
+		
+        #graphic .axis.y path { display: none; }
+        #graphic .axis.y .tick line { display: none; }
+        #graphic .grid path { display: none; }
+        #graphic .grid .tick {
+            stroke: #ccc;
+            /*stroke-dasharray: 1px 3px;*/
+            stroke-width: 1px;
+            shape-rendering: crispEdges;
+        }
+        #graphic .line {
+            fill: none;
+            stroke-width: 3px;
+        }
+		
+		.labels text{
+			font-size:12px;
+			fill:#666666;	
+		}
+        #graphic .axis.x path { display: none; }
+
+/*        #graphic .bars rect { fill: #17807E; }*/
+        #graphic .label text,
+        #graphic .value text {
+            font-weight: normal;
+            font-size: 12px;
+            fill: #333;
+            text-align: right;
+        }
+        #graphic .value text {
+            fill: #fff;
+            font-size: 11px;
+        }
+
+        #graphic .key {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0 0 1em 0;
+            padding: 0;
+            list-style-type: none;
+        }
+
+        #graphic .key .key-item {
+            display: inline-block;
+            margin: 0 18px 0 0;
+            padding: 0;
+            line-height: 15px;
+        }
+
+        #graphic .key .key-item b {
+            display: inline-block;
+            width: 15px;
+            height: 15px;
+            margin-right: 6px;
+            float: left;
+        }
+
+        #graphic .key .key-item label {
+            white-space: nowrap;
+            font-size: 12px;
+            color: #333;
+            font-weight: normal;
+        }
+
+
+        .line-0 { stroke: none; }
+        .line-1 { stroke: #f3942f; }
+        .line-2 { stroke: #e73f40; }
+
+        .key-0 b { background-color: #274796; } /* green */
+        .key-1 b { background-color: #f3942f; } /* blue */
+        .key-2 b { background-color: #e73f40; } /* pink */
+		
+	/*	.bar { fill: #74B630; }*/
+     
+	 
+	 
+		#centreline {stroke:#666; stroke-width:3px;}
+		
+		#ordline{stroke:#666; stroke-width:1px;}
+
+		#graphic .unit {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 12px;
+            fill: #333;
+            text-align: left;
+        }
+
+		.annotext {
+		    font-family: Arial, Helvetica, sans-serif;
+            font-size: 12px;
+			fill: #333;
+		}	
+		
+    </style>
+
+</head>
+<body>
+   <!-- <h1>Long Term International Net Migration by Citizenship, 1975 to 2014</h1>-->
+
+    <div id="graphic"><img src="Energy_Chart4.png" alt="[Chart]" /></div>
+
+
+    <div id="keypoints">
+        <p></p>
+    </div>
+<!--
+    <div class="footnotes">
+        <h4>Note</h4>
+        <p>YE = Year Ending</p>
+        <p>q1 = YE March</p>
+        <p>q2 = YE June</p>
+        <p>1. Figures for 2014 are not yet released and therefore are not shown on Figure 1. All other figures are final calendar year estimates of LTIM.</p>
+        <p>2. Net migration estimates for the period 2001 to 2011 have been revised in light of the 2011 Census. Therefore they will not be consistent with the separate immigreation and emmigration figures shown.</p>
+    </div>
+
+
+-->
+    <div class="footer">
+        <p>Source: <a href="https://www.gov.uk/government/statistics/uk-greenhouse-gas-emissions-2013-final-figures" target="_blank">UK greenhouse gas emissions statistics, Table 1</a>, DECC</p>
+    </div>
+
+
+    <script src="../lib/jquery.js" type="text/javascript"></script>
+    <script src="../lib/d3.v3.min.js" type="text/javascript"></script>
+    <script src="../lib/modernizr.svg.min.js" type="text/javascript"></script>
+    <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js" type="text/javascript" charset="utf-8"></script>
+    <script>
+    
+var $graphic = $('#graphic');
+var $keypoints = $('#keypoints');
+var graphic_data_url = 'Energy_Chart4.csv';
+var graphic_data;
+var graphic_aspect_width = 16;
+var graphic_aspect_height = 11;
+var mobile_threshold = 600;
+var mobile_threshold2 = 800;
+var pymChild = null;
+
+//// Define annotation text - put a double space where you want the line to break
+var annotext = "Revised Net Migration";
+
+	
+// Define whether you want left or right aligned annotation text. Options start | middle | end 
+var annoAlign = 'middle';
+	
+	
+		
+// Define the starting y position for the annotation text
+var annoY = -5;
+ 
+ // Define the starting x position for the annotation text
+var annoX1 = "2001-06";
+var annoX2 = "2007-01";
+var annoX3 = "2012-06";
+var annotext2 = "";
+
+
+//What is the date format in the csv file? e.g %Y-%m-%d would be format for 1970-01-25 - See here https://github.com/mbostock/d3/wiki/Time-Formatting
+var dateForm = "%Y-%m";
+
+
+var labels = [ 'Total CO2', 'Total greenhouse gas emissions' ];
+
+
+function drawGraphic(width) {
+	
+    var margin = {top: 10, right: 45, bottom: 30, left: 30};
+    var width = $graphic.width() - margin.left - margin.right;
+    var height = Math.ceil((width * graphic_aspect_height) / graphic_aspect_width) - margin.top - margin.bottom;
+    var num_ticks = 30;
+    if (width < mobile_threshold) {
+        num_ticks = 5;
+    }
+
+    // clear out existing graphics
+    $graphic.empty();
+	d3.select("#keypoints").select("p").text("");
+	
+
+    var x = d3.time.scale()
+        .range([0, width]);
+
+	var xOrd = d3.scale.ordinal()
+		.rangePoints([0, width])
+		.domain(["1990", "1991", "1992", "1993", "1994", "1995", "1996", "1997", "1998", "1999", "2000", "2001", "2002", "2003", "2004", "2005", "2006", "2007", "2008", "2009", "2010", "2011", "2012", "2013"]);
+
+	var xOrdAxis = d3.svg.axis()
+		.scale(xOrd)
+		.orient("bottom")
+		.tickFormat(function(d,i) {
+            	if (width <= mobile_threshold) {
+                	
+						str = d;
+						return i % 2 ? "": '\u2019' + str.substring(2,4) ; 
+					
+				}
+				
+            	if (width <= mobile_threshold2 ) {
+                	
+						str = d;
+						return i % 1 ? "": '\u2019' + str.substring(2,4); 
+				
+				}
+				
+				else {
+                	
+						return i % 1 ? "" :  d;
+					
+            	}
+        })
+		.tickPadding(5)
+		.ticks(23);
+		
+	
+	
+    var y = d3.scale.linear()
+        .range([height, 0]);
+
+    var formatAsPercentage = d3.formatPrefix('%',0);
+
+    var xAxis = d3.svg.axis()
+        .scale(x)
+        .orient("bottom")
+        .tickFormat(function(d,i) {
+            if (width <= mobile_threshold) {
+                var fmt = d3.time.format('%y');
+                return '\u2019' + fmt(d);
+            } else {
+                var fmt = d3.time.format('%Y');
+                return fmt(d);
+            }
+        })
+		.ticks(23);
+
+	x.domain(d3.extent(graphic_data, function(d) { return d.year; }));	
+	
+
+    
+    var yAxis = d3.svg.axis()
+        .scale(y)
+        .orient('left')
+        .ticks(num_ticks);
+
+    var y_axis_grid = function() { return yAxis; }
+
+    var line = d3.svg.line()
+        .x(function(d) { return x(d.date); })
+        .y(function(d) { return y(d.amt); });
+
+    // parse data into columns
+    var lines = {};
+    for (var column in graphic_data[0]) {
+        if (column == 'date') continue;
+        lines[column] = graphic_data.map(function(d) {
+            return {
+                'date': d.date,
+                'amt': d[column]
+            };
+        });
+    }
+	
+	var insertLinebreaks = function () {
+		
+		var el1 = this.firstChild;
+		var el = el1.data;
+
+		var words = el.split('  ');
+		
+		d3.select(this).text('');
+	
+		for (var i = 0; i < words.length; i++) {
+			var tspan = d3.select(this).append('tspan').text(words[i]);
+			if (i > 0)
+				tspan.attr('x', x(d3.time.format(dateForm).parse(annoX1))).attr('dy', '15');
+		}
+	};		
+		
+	var legend = d3.select('#graphic').append('ul')
+                .attr('class', 'key')
+            .selectAll('g')
+                .data(d3.entries(lines))
+            .enter().append('li')
+                .attr('class', function(d, i) { return 'key-item key-' + i + ' ' + d.key.replace(' ', '-').toLowerCase(); });
+        legend.append('b');
+        legend.append('label')
+            .text(function(d,i) { return labels[i]; });
+			
+			
+			
+//What are the Y-axis units?
+var yUnit = "CO2 equivalent";
+
+
+
+
+//var units = d3.select('#graphic').append("p").attr('class', 'unit').text(function(d,i) { return yUnit; });
+
+	d3.select('#graphic').append("text").append("tspan").attr('class', 'unit').attr('id', 'str1').text("CO");
+	d3.select('#str1').append("tspan").attr('class', 'unit').attr('id', 'str2').text("2").attr("baseline-shift" , "sub");
+	d3.select('#str2').append("tspan").attr('class', 'unit').attr('id', 'str3').text(" equivalent");
+				
+
+    var svg = d3.select('#graphic').append('svg')
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    x.domain(d3.extent(graphic_data, function(d) { return d.date; }));
+
+    y.domain([
+	0, 900
+/*        d3.min(d3.entries(lines), function(c) { return d3.min(c.value, function(v) { var n = v.amt; return Math.floor(n/100)*100; }); }),
+        d3.max(d3.entries(lines), function(c) { return d3.max(c.value, function(v) { var n = v.amt; return Math.ceil(n/100)*100; }); })*/
+    ]);
+
+
+	
+
+    svg.append('g')
+        .attr('class', 'y axis')
+	    .attr("id", "yAxis")
+        .call(yAxis);
+
+/*    svg.append('g')
+        .attr('class', 'x grid')
+        .attr('transform', 'translate(0,' + height + ')')
+        .call(x_axis_grid()
+            .tickSize(-height, 0, 0)
+            .tickFormat('')
+        );*/
+
+    svg.append('g')
+        .attr('class', 'y grid')
+        .call(y_axis_grid()
+            .tickSize(-width, 0, 0)
+            .tickFormat('')
+        );
+
+    svg.append('g').attr("class","lines").selectAll('path')
+        .data(d3.entries(lines))
+        .enter()
+        .append('path')
+            .attr('class', function(d, i) {
+                return 'line line-' + i;
+            })
+            .attr('d', function(d) {
+                return line(d.value);
+            });
+	
+	var startDate = new Date(lines["Net CO2 emissions"][0].date);
+	var endDate = new Date(lines["Net CO2 emissions"][lines["Net CO2 emissions"].length-2].date);
+	var everyDate = d3.time.day.range(startDate, endDate);
+	var barWidth = width/((everyDate.length/365))-5;
+//	var startRNM = 21; // index of bar representing start of Revised Net Migration period
+//	var endRNM = 31; // index of bar representing end of Revised Net Migration period	
+	
+	svg.append('g')
+        .attr('class', 'x axis')
+	    .attr("id", "xAxis")
+        .attr('transform', 'translate('+ barWidth +',' + (height) + ')')
+        .call(xAxis);
+		
+		
+	svg.append('g').attr("class","bars").selectAll('rect')
+		.data(lines["Net CO2 emissions"])
+		.enter()
+		.append('rect')
+		.attr('class', 'bar')
+		.attr('y',function(d){
+			if(d.amt<0) {return y(0)}
+			else {return y(d.amt)}
+		})
+		.attr('x', function(d , i) {return (x(d.date) - barWidth/2);   })
+		.attr('height',function(d){
+			if(d.amt<0) {return (y(d.amt) - y(0))}
+			else {return (y(0) - y(d.amt))}
+		})
+		.attr('width',barWidth)
+		.attr('stroke',"white")
+		.attr('padding',"1px")
+		.attr("fill", "#274796")
+		.attr('opacity'	, 0.9);
+			
+	svg.append("g")
+		.attr("transform","translate(0,"+height+")")
+		.attr("class","labels")
+      	.call(xOrdAxis)
+	  
+	d3.select(".labels").attr("transform", "translate(0,"+y(0) +")")
+		
+	d3.selectAll(".labels").selectAll("text").attr("transform", "translate("+barWidth/2+",0)")
+	d3.selectAll(".labels").selectAll("line").attr("transform", "translate("+barWidth/2+",0)")
+		
+	d3.selectAll(".labels")
+		.selectAll("line")
+		.style("display", function(d, i){ 
+			return i % 2 ? "none": ""
+		
+	})	
+		
+	d3.selectAll(".bars").attr('transform', 'translate('+ barWidth/2 + ',0)')	
+	d3.selectAll(".lines").attr('transform', 'translate('+ (barWidth/2) + ',0)')
+	
+	//get the lines existing length
+	gridlength = d3.select(".grid line").attr("x2");
+	
+	d3.selectAll(".grid line").attr("x2", gridlength*1+barWidth); 	
+
+
+//	var xticks = svg.selectAll('#xAxis').selectAll('.tick');	
+//	xticks.append('svg:line')
+//	  .attr( 'class' , "tick" )
+//	  .attr( 'y0' , 0 )
+//	  .attr( 'y1' , -height )
+//	  .attr( 'x1' , 0 )
+//	  .attr( 'x2',  0 );
+	/*
+	svg.append("line")
+		.attr("id","centreline")
+		.attr('y1',y(0))
+		.attr('y2',y(0))
+		.attr('x1',x(x.domain()[0]))
+		.attr('x2',gridlength*1+barWidth);*/
+	
+	svg.append("line")
+		.attr("id","ordline")
+		.attr('y1',y(0))
+		.attr('y2',y(0))
+		.attr('x1',x(x.domain()[0]))
+		.attr('x2',gridlength*1+barWidth/*x(x.domain()[1])*/);
+		
+		if (width > mobile_threshold) {
+						
+	/*		svg.append( "line" )
+				.attr( "class" , "RNMlines" )
+				.attr( "id" , "RNMline" )
+				.style( "fill" , "#666" )
+				.style( "stroke" , "#666" )
+				.style( "stroke-width" , "1px" )
+				.attr( 'x1' , x(d3.time.format(dateForm).parse(annoX1)) )
+				.attr( 'x2' , x(d3.time.format(dateForm).parse(annoX1)) )
+				.attr( 'y1' , y(0)+10 )
+				.attr( 'y2' , y(0)+15 );
+			
+			svg.append( "line" )
+				.attr( "class" , "RNMlines" )
+				.attr( "id" , "RNMline2" )
+				.style( "fill" , "#666" )
+				.style( "stroke" , "#666" )
+				.style( "stroke-width" , "1px" )
+				.attr( 'x1' ,x(d3.time.format(dateForm).parse(annoX3)))
+				.attr( 'x2' ,x(d3.time.format(dateForm).parse(annoX3)))
+				.attr( 'y1' , y(0)+10 )
+				.attr( 'y2' , y(0)+15 );
+				
+			svg.append( "line" )
+				.attr( "class" , "RNMlines" )
+				.attr( "id" , "RNMline3" )
+				.style( "fill" , "#666" )
+				.style( "stroke" , "#666" )
+				.style( "stroke-width" , "1px" )
+				.attr( 'x1' ,x(d3.time.format(dateForm).parse(annoX1)))
+				.attr( 'x2' ,x(d3.time.format(dateForm).parse(annoX3)))
+				.attr( 'y1' , y(0)+15 )
+				.attr( 'y2' , y(0)+15 );
+			
+			svg.append("text")
+				.text(annotext)
+				.attr("class","annotext")
+				.attr("text-anchor", annoAlign)
+				.attr('y',y(annoY)+25)
+				.attr('x',x(d3.time.format(dateForm).parse(annoX2)));
+	*/				
+			
+			d3.selectAll(".annotext").each(insertLinebreaks);
+		} else {
+			d3.select("#keypoints").select("p").text(annotext2);		
+		}				
+
+    if (pymChild) {
+        pymChild.sendHeight();
+    }
+}
+
+
+if (Modernizr.svg) {
+    d3.csv(graphic_data_url, function(error, data) {
+        graphic_data = data;
+
+        graphic_data.forEach(function(d) {
+            d.date = d3.time.format('%Y').parse(d.date);
+        });
+
+        pymChild = new pym.Child({renderCallback: drawGraphic});
+    });
+} else {
+	 pymChild = new pym.Child();
+	if (pymChild) {
+        pymChild.sendHeight();
+    }
+}
+
+	
+    </script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a40b57ec884dd857',t:'MTc5MDM1MzA5Mg=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

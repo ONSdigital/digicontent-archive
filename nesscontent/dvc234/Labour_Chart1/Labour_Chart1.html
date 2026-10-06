@@ -1,0 +1,1318 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Employment rate for people aged 16 to 64</title>
+
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+    <style type="text/css">
+        html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+		
+		/* base styles */
+        html { -webkit-text-size-adjust: none; /* prevent font scaling in landscape */ }
+
+        body {
+            margin: 0;
+            padding: 0%;
+          /*  background-color: #F7F7F7;*/
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        h1 {
+            margin: 0 0 10px 0;
+            font-size: 14px;
+            color: #333;
+        }
+
+        h3 {
+            font-weight: normal;
+            color: #333;
+            font-size: 12px;
+            margin: 0 0 12px 0;
+        }
+
+        a, a:link, a:visited {
+            color: #4774CC;
+            text-decoration: none;
+        }
+        a:hover, a:active { opacity: 0.7; }
+
+        .footnotes { margin-bottom: 20px; }
+        .footnotes h4 {
+            margin: 2px 0 7px 0;
+            color: #666;
+            font-size: 11px;
+        }
+        .footnotes p,
+        .footer p {
+            margin: 2px 0 0 0;
+            font-size: 11px;
+            line-height: 1.3;
+            color: #808080;
+        }
+		
+		
+        /* chart */
+        #graphic {
+            width: 100%;
+        }
+        #graphic:before,
+        #graphic:after {
+            content: " "; /* 1 */
+            display: table; /* 2 */
+        }
+        #graphic:after { clear: both; }
+
+        #graphic img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        #graphic svg {
+            font-family: Arial, Helvetica, sans-serif;
+            /*margin-bottom: 1em;*/
+        }
+        #graphic .axis {
+            font-size: 12px;
+            fill: #666;
+        }
+        #graphic .axis path{
+            fill: none;
+            stroke: #666;
+            shape-rendering: crispEdges;
+        }
+		
+		#graphic .axis line {
+            fill: none;
+            stroke: none;
+            shape-rendering: crispEdges;
+        }
+		
+        #graphic .axis.y path { display: none; }
+        #graphic .axis.y .tick line { display: none; }
+        #graphic .grid path { display: none; }
+        #graphic .grid .tick {
+            stroke: #ccc;
+            /*stroke-dasharray: 1px 3px;*/
+            stroke-width: 1px;
+            shape-rendering: crispEdges;
+        }
+        #graphic .line {
+            fill: none;
+            stroke-width: 3px;
+			stroke-linecap:round;
+			stroke-linejoin:round;
+        }
+
+        #graphic .bars rect { fill: #17807E; }
+        #graphic .label text,
+        #graphic .value text {
+            font-weight: normal;
+            font-size: 12px;
+            fill: #333;
+            text-align: right;
+        }
+        #graphic .value text {
+            fill: #fff;
+            font-size: 11px;
+        }
+
+   #graphic .key {
+            font-family: Arial, Helvetica, sans-serif;
+          /*  margin: 0 0 1em 0;*/
+            padding: 0;
+            list-style-type: none;
+        }
+
+        #graphic .key li {
+            display: inline-block;
+            margin: 0 18px 0 0;
+            padding: 0;
+            line-height: 15px;
+        }
+
+        #graphic .key  b {
+            display: inline-block;
+            width: 35px;
+            height: 15px;
+            margin-right: 6px;
+            float: left;
+			background-color:none;
+			margin-top:8px;
+        }
+
+        #graphic .key label {
+            white-space: nowrap;
+            font-size: 12px;
+            color: #333;
+            font-weight: normal;
+        }
+		#graphic .unit {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 12px;
+            fill: #333;
+            text-align: left;
+			width:80px;
+			height:20px;
+			display:block;
+			float:left;
+			
+        }
+
+		.annotext1, .annotext2, .annotext3, .annotext4 {
+		    font-family: Arial, Helvetica, sans-serif;
+            font-size: 13px;
+			fill: #666;
+
+		}
+
+        .line-0 { stroke: #274796; }
+        .line-1 { stroke: #F5942F; }
+        .line-2 { stroke: #E73f40; }
+		.line-3 { stroke: #7BCAE2; }
+    
+
+        .key-0 b { background-color: #274796; }
+        .key-1 b { background-color: #F5942F; }
+        .key-2 b { background-color: #E73f40; }
+		.key-2 b { background-color: #7BCAE2; }
+     
+	 	.annocirc1, .annocirc2, .annocirc3, .annocirc4{
+			stroke:#E66500;
+			stroke-width:2px;
+			fill: #E66500;	
+		}
+	 
+	 
+		#centreline {stroke:#666; stroke-width:3px};
+		
+		#icon{
+			
+		}
+		
+		#iconpath path{
+			stroke:#666;
+			fill: none;
+		}
+		
+		.x .tick text {
+			fill:none;	
+		}
+
+		.labels .tick text {
+			font-size:12px;
+			fill:#666;	
+		}
+		
+		.labels .tick line {
+			stroke:#666;	
+		}
+		
+		.domain{
+			fill:none;
+			stroke:none;	
+		}
+		
+		.circles{
+			float:left;	
+		}
+		
+		#keypoints{
+				margin-bottom:10px;
+		}
+    </style>
+
+</head>
+<body>
+
+    <!--This is the title of the overall chart - Interesting/engaging title?-->
+    <!--<h1>The UK populaiton has grown by 7.8 million since 1980</h1>-->
+    
+    <!--This is the sub-title of the overall chart - Boring literal title?-->
+	<!--<h3>Mid-year population estimates, UK, 1980-2013</h3>
+    -->
+    <!--You can specify a fallback image for those that can't view the interactive for some reason - Need to work on a process to generate these (Screenshot and save as png?)-->
+    <div id="graphic"><img src="Labour_Chart1.png" alt="[Chart]" /></div>
+	
+    
+    <div id="keypoints">
+        <p></p>
+    </div>
+
+    
+    <!-- Define some footnotes for underneath the charts - if you don't need all the lines then get rid of it, if you need more add another set of <p>???</p> -->
+    <!--<div class="footnotes">
+    </div>-->
+
+    <!-- Define the source -->
+   <div class="footer">
+        <p>Source: 
+        <a href="http://www.ons.gov.uk/ons/publications/re-reference-tables.html?edition=tcm%3A77-350752" target="_blank">Labour Market Statistics, February 2015, Table A02</a>, ONS
+        </p>
+    </div>
+    
+    
+    
+
+
+    <script src="../lib/jquery.js" type="text/javascript"></script>
+    <script src="../lib/d3.v3.min.js" type="text/javascript"></script>
+    <script src="../lib/modernizr.svg.min.js" type="text/javascript"></script>
+    <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js" type="text/javascript" charset="utf-8"></script>
+    <script>
+	
+// Labels for the key (same order as the columns in your csv file) - The names don't need to match those in the CSV. In fact the names in the csv must be all one string, no gaps or funny characters
+//var labels = ["Poorest fifth of households" , "Richest fifth of households" ];
+var dashArray = ["2px solid #274796", "2px solid #F3942F", "2px solid #E73F40", "2px solid #7BCAE2"];
+
+// Location and name of the file - if the csv is in the same folder then all you need to do is point it to the right filename
+var graphic_data_url = 'Labour_Chart1.csv';
+
+// Define annotation text - put a double space where you want the line to break
+var annotext1 = "The three troughs are due to the economic downturns in the early  1980s, early 1990s and late 2000s. The most recent downturn had  less impact on the employment rate than previous downturns";
+var keypointtext1 = "The three troughs are due to the economic downturns in the early 1980s, early 1990s and late 2000s. The most recent downturn had less impact on the employment rate than previous downturns";
+
+// Define the starting x position for the annotation text
+var annoY1 = 67;
+//var annoCY1 = 65.6;
+
+// Define the starting y position for the annotation text
+var annoX1 = "Jul-03";
+//var annoCX1 = "Feb-83";
+
+
+
+
+// Define the starting x position for the annotation text
+//var annotext2 = "1990s downturn";
+//var keypointtext2 = "The lowest point in the 1990s economic downturn was 68.3% in Dec 1992 - Feb 1993";
+//
+//var annoY2 = 67.9;
+////var annoCY2 = 68.3;
+//
+//// Define the starting y position for the annotation text
+//var annoX2 = "Feb-93";
+////var annoCX2 = "Feb-93";
+//
+//
+//
+//
+//
+//// Define annotation text - put a double space where you want the line to break
+//var annotext3 = "2000s downturn ";
+//var keypointtext3 = "The lowest point in the most recent economic downturn was 70.1% in Jul - Sep 2011";
+//
+//// Define the starting x position for the annotation text
+//var annoY3 = 69.7;
+////var annoCY3 = 70.1;
+//
+//// Define the starting y position for the annotation text
+//var annoX3 = "Jul-11";
+////var annoCX3 = "Jul-11";
+
+
+
+
+
+//// Define annotation text - put a double space where you want the line to break
+//var annotext4 = "2.8%";
+//var keypointtext4 = "2.8%";
+//
+//// Define the starting x position for the annotation text
+//var annoY4 = 2.5;
+//var annoCY4 = 2.8;
+//
+//// Define the starting y position for the annotation text
+//var annoX4 = "2012";
+//var annoCX4 = "2012";
+
+
+
+ 
+// Define whether you want left or right aligned annotation text. Options start | middle | end 
+var annoAlign1 = 'middle';
+var annoAlign2 = 'middle';
+var annoAlign3 = 'middle';
+//var annoAlign4 = 'middle';
+
+//What is the date format in the csv file? e.g %Y-%m-%d would be format for 1970-01-25 - See here https://github.com/mbostock/d3/wiki/Time-Formatting
+var dateForm = "%b-%y";
+var dateForm2 = "%b-%y";
+
+//What are the Y-axis units?
+var yUnit = "%";
+//var yUnit2 = "(2002=100)";
+
+
+
+
+var $graphic = $('#graphic');
+var keypoints = $('#keypoints');
+var graphic_data;
+var graphic_aspect_width = 16;
+var graphic_aspect_height = 10;
+var mobile_threshold1 = 710;
+var mobile_threshold2 = 620;
+var pymChild = null;
+
+
+
+function drawGraphic(width) {
+    var margin = {top: 10, right: 20, bottom: 35, left: 40};
+    var width = $graphic.width() - margin.left - margin.right;
+    var height = Math.ceil((width * graphic_aspect_height) / graphic_aspect_width) - margin.top - margin.bottom + 30;
+    var num_ticks = 10;
+    if (width < mobile_threshold2) {
+        num_ticks = 6;
+    } else if (width < mobile_threshold1){
+		num_ticks = 8;
+	} else {
+		num_ticks = 10;
+	}
+
+    // clear out existing graphics
+    $graphic.empty();
+	keypoints.empty();
+
+    var x = d3.time.scale()
+        .range([0, width]);
+		
+	var xOrd = d3.scale.ordinal()
+		.rangePoints([0, width])
+		.domain([	
+"Dec-Feb 1980",
+"Jan-Mar 1980",
+"Feb-Apr 1980",
+"Mar-May 1980",
+"Apr-Jun 1980",
+"May-Jul 1980",
+"Jun-Aug 1980",
+"Jul-Sep 1980",
+"Aug-Oct 1980",
+"Sep-Nov 1980",
+"Oct-Dec 1980",
+"Nov-Jan 1981",
+"Dec-Feb 1981",
+"Jan-Mar 1981",
+"Feb-Apr 1981",
+"Mar-May 1981",
+"Apr-Jun 1981",
+"May-Jul 1981",
+"Jun-Aug 1981",
+"Jul-Sep 1981",
+"Aug-Oct 1981",
+"Sep-Nov 1981",
+"Oct-Dec 1981",
+"Nov-Jan 1982",
+"Dec-Feb 1982",
+"Jan-Mar 1982",
+"Feb-Apr 1982",
+"Mar-May 1982",
+"Apr-Jun 1982",
+"May-Jul 1982",
+"Jun-Aug 1982",
+"Jul-Sep 1982",
+"Aug-Oct 1982",
+"Sep-Nov 1982",
+"Oct-Dec 1982",
+"Nov-Jan 1983",
+"Dec-Feb 1983",
+"Jan-Mar 1983",
+"Feb-Apr 1983",
+"Mar-May 1983",
+"Apr-Jun 1983",
+"May-Jul 1983",
+"Jun-Aug 1983",
+"Jul-Sep 1983",
+"Aug-Oct 1983",
+"Sep-Nov 1983",
+"Oct-Dec 1983",
+"Nov-Jan 1984",
+"Dec-Feb 1984",
+"Jan-Mar 1984",
+"Feb-Apr 1984",
+"Mar-May 1984",
+"Apr-Jun 1984",
+"May-Jul 1984",
+"Jun-Aug 1984",
+"Jul-Sep 1984",
+"Aug-Oct 1984",
+"Sep-Nov 1984",
+"Oct-Dec 1984",
+"Nov-Jan 1985",
+"Dec-Feb 1985",
+"Jan-Mar 1985",
+"Feb-Apr 1985",
+"Mar-May 1985",
+"Apr-Jun 1985",
+"May-Jul 1985",
+"Jun-Aug 1985",
+"Jul-Sep 1985",
+"Aug-Oct 1985",
+"Sep-Nov 1985",
+"Oct-Dec 1985",
+"Nov-Jan 1986",
+"Dec-Feb 1986",
+"Jan-Mar 1986",
+"Feb-Apr 1986",
+"Mar-May 1986",
+"Apr-Jun 1986",
+"May-Jul 1986",
+"Jun-Aug 1986",
+"Jul-Sep 1986",
+"Aug-Oct 1986",
+"Sep-Nov 1986",
+"Oct-Dec 1986",
+"Nov-Jan 1987",
+"Dec-Feb 1987",
+"Jan-Mar 1987",
+"Feb-Apr 1987",
+"Mar-May 1987",
+"Apr-Jun 1987",
+"May-Jul 1987",
+"Jun-Aug 1987",
+"Jul-Sep 1987",
+"Aug-Oct 1987",
+"Sep-Nov 1987",
+"Oct-Dec 1987",
+"Nov-Jan 1988",
+"Dec-Feb 1988",
+"Jan-Mar 1988",
+"Feb-Apr 1988",
+"Mar-May 1988",
+"Apr-Jun 1988",
+"May-Jul 1988",
+"Jun-Aug 1988",
+"Jul-Sep 1988",
+"Aug-Oct 1988",
+"Sep-Nov 1988",
+"Oct-Dec 1988",
+"Nov-Jan 1989",
+"Dec-Feb 1989",
+"Jan-Mar 1989",
+"Feb-Apr 1989",
+"Mar-May 1989",
+"Apr-Jun 1989",
+"May-Jul 1989",
+"Jun-Aug 1989",
+"Jul-Sep 1989",
+"Aug-Oct 1989",
+"Sep-Nov 1989",
+"Oct-Dec 1989",
+"Nov-Jan 1990",
+"Dec-Feb 1990",
+"Jan-Mar 1990",
+"Feb-Apr 1990",
+"Mar-May 1990",
+"Apr-Jun 1990",
+"May-Jul 1990",
+"Jun-Aug 1990",
+"Jul-Sep 1990",
+"Aug-Oct 1990",
+"Sep-Nov 1990",
+"Oct-Dec 1990",
+"Nov-Jan 1991",
+"Dec-Feb 1991",
+"Jan-Mar 1991",
+"Feb-Apr 1991",
+"Mar-May 1991",
+"Apr-Jun 1991",
+"May-Jul 1991",
+"Jun-Aug 1991",
+"Jul-Sep 1991",
+"Aug-Oct 1991",
+"Sep-Nov 1991",
+"Oct-Dec 1991",
+"Nov-Jan 1992",
+"Dec-Feb 1992",
+"Jan-Mar 1992",
+"Feb-Apr 1992",
+"Mar-May 1992",
+"Apr-Jun 1992",
+"May-Jul 1992",
+"Jun-Aug 1992",
+"Jul-Sep 1992",
+"Aug-Oct 1992",
+"Sep-Nov 1992",
+"Oct-Dec 1992",
+"Nov-Jan 1993",
+"Dec-Feb 1993",
+"Jan-Mar 1993",
+"Feb-Apr 1993",
+"Mar-May 1993",
+"Apr-Jun 1993",
+"May-Jul 1993",
+"Jun-Aug 1993",
+"Jul-Sep 1993",
+"Aug-Oct 1993",
+"Sep-Nov 1993",
+"Oct-Dec 1993",
+"Nov-Jan 1994",
+"Dec-Feb 1994",
+"Jan-Mar 1994",
+"Feb-Apr 1994",
+"Mar-May 1994",
+"Apr-Jun 1994",
+"May-Jul 1994",
+"Jun-Aug 1994",
+"Jul-Sep 1994",
+"Aug-Oct 1994",
+"Sep-Nov 1994",
+"Oct-Dec 1994",
+"Nov-Jan 1995",
+"Dec-Feb 1995",
+"Jan-Mar 1995",
+"Feb-Apr 1995",
+"Mar-May 1995",
+"Apr-Jun 1995",
+"May-Jul 1995",
+"Jun-Aug 1995",
+"Jul-Sep 1995",
+"Aug-Oct 1995",
+"Sep-Nov 1995",
+"Oct-Dec 1995",
+"Nov-Jan 1996",
+"Dec-Feb 1996",
+"Jan-Mar 1996",
+"Feb-Apr 1996",
+"Mar-May 1996",
+"Apr-Jun 1996",
+"May-Jul 1996",
+"Jun-Aug 1996",
+"Jul-Sep 1996",
+"Aug-Oct 1996",
+"Sep-Nov 1996",
+"Oct-Dec 1996",
+"Nov-Jan 1997",
+"Dec-Feb 1997",
+"Jan-Mar 1997",
+"Feb-Apr 1997",
+"Mar-May 1997",
+"Apr-Jun 1997",
+"May-Jul 1997",
+"Jun-Aug 1997",
+"Jul-Sep 1997",
+"Aug-Oct 1997",
+"Sep-Nov 1997",
+"Oct-Dec 1997",
+"Nov-Jan 1998",
+"Dec-Feb 1998",
+"Jan-Mar 1998",
+"Feb-Apr 1998",
+"Mar-May 1998",
+"Apr-Jun 1998",
+"May-Jul 1998",
+"Jun-Aug 1998",
+"Jul-Sep 1998",
+"Aug-Oct 1998",
+"Sep-Nov 1998",
+"Oct-Dec 1998",
+"Nov-Jan 1999",
+"Dec-Feb 1999",
+"Jan-Mar 1999",
+"Feb-Apr 1999",
+"Mar-May 1999",
+"Apr-Jun 1999",
+"May-Jul 1999",
+"Jun-Aug 1999",
+"Jul-Sep 1999",
+"Aug-Oct 1999",
+"Sep-Nov 1999",
+"Oct-Dec 1999",
+"Nov-Jan 2000",
+"Dec-Feb 2000",
+"Jan-Mar 2000",
+"Feb-Apr 2000",
+"Mar-May 2000",
+"Apr-Jun 2000",
+"May-Jul 2000",
+"Jun-Aug 2000",
+"Jul-Sep 2000",
+"Aug-Oct 2000",
+"Sep-Nov 2000",
+"Oct-Dec 2000",
+"Nov-Jan 2001",
+"Dec-Feb 2001",
+"Jan-Mar 2001",
+"Feb-Apr 2001",
+"Mar-May 2001",
+"Apr-Jun 2001",
+"May-Jul 2001",
+"Jun-Aug 2001",
+"Jul-Sep 2001",
+"Aug-Oct 2001",
+"Sep-Nov 2001",
+"Oct-Dec 2001",
+"Nov-Jan 2002",
+"Dec-Feb 2002",
+"Jan-Mar 2002",
+"Feb-Apr 2002",
+"Mar-May 2002",
+"Apr-Jun 2002",
+"May-Jul 2002",
+"Jun-Aug 2002",
+"Jul-Sep 2002",
+"Aug-Oct 2002",
+"Sep-Nov 2002",
+"Oct-Dec 2002",
+"Nov-Jan 2003",
+"Dec-Feb 2003",
+"Jan-Mar 2003",
+"Feb-Apr 2003",
+"Mar-May 2003",
+"Apr-Jun 2003",
+"May-Jul 2003",
+"Jun-Aug 2003",
+"Jul-Sep 2003",
+"Aug-Oct 2003",
+"Sep-Nov 2003",
+"Oct-Dec 2003",
+"Nov-Jan 2004",
+"Dec-Feb 2004",
+"Jan-Mar 2004",
+"Feb-Apr 2004",
+"Mar-May 2004",
+"Apr-Jun 2004",
+"May-Jul 2004",
+"Jun-Aug 2004",
+"Jul-Sep 2004",
+"Aug-Oct 2004",
+"Sep-Nov 2004",
+"Oct-Dec 2004",
+"Nov-Jan 2005",
+"Dec-Feb 2005",
+"Jan-Mar 2005",
+"Feb-Apr 2005",
+"Mar-May 2005",
+"Apr-Jun 2005",
+"May-Jul 2005",
+"Jun-Aug 2005",
+"Jul-Sep 2005",
+"Aug-Oct 2005",
+"Sep-Nov 2005",
+"Oct-Dec 2005",
+"Nov-Jan 2006",
+"Dec-Feb 2006",
+"Jan-Mar 2006",
+"Feb-Apr 2006",
+"Mar-May 2006",
+"Apr-Jun 2006",
+"May-Jul 2006",
+"Jun-Aug 2006",
+"Jul-Sep 2006",
+"Aug-Oct 2006",
+"Sep-Nov 2006",
+"Oct-Dec 2006",
+"Nov-Jan 2007",
+"Dec-Feb 2007",
+"Jan-Mar 2007",
+"Feb-Apr 2007",
+"Mar-May 2007",
+"Apr-Jun 2007",
+"May-Jul 2007",
+"Jun-Aug 2007",
+"Jul-Sep 2007",
+"Aug-Oct 2007",
+"Sep-Nov 2007",
+"Oct-Dec 2007",
+"Nov-Jan 2008",
+"Dec-Feb 2008",
+"Jan-Mar 2008",
+"Feb-Apr 2008",
+"Mar-May 2008",
+"Apr-Jun 2008",
+"May-Jul 2008",
+"Jun-Aug 2008",
+"Jul-Sep 2008",
+"Aug-Oct 2008",
+"Sep-Nov 2008",
+"Oct-Dec 2008",
+"Nov-Jan 2009",
+"Dec-Feb 2009",
+"Jan-Mar 2009",
+"Feb-Apr 2009",
+"Mar-May 2009",
+"Apr-Jun 2009",
+"May-Jul 2009",
+"Jun-Aug 2009",
+"Jul-Sep 2009",
+"Aug-Oct 2009",
+"Sep-Nov 2009",
+"Oct-Dec 2009",
+"Nov-Jan 2010",
+"Dec-Feb 2010",
+"Jan-Mar 2010",
+"Feb-Apr 2010",
+"Mar-May 2010",
+"Apr-Jun 2010",
+"May-Jul 2010",
+"Jun-Aug 2010",
+"Jul-Sep 2010",
+"Aug-Oct 2010",
+"Sep-Nov 2010",
+"Oct-Dec 2010",
+"Nov-Jan 2011",
+"Dec-Feb 2011",
+"Jan-Mar 2011",
+"Feb-Apr 2011",
+"Mar-May 2011",
+"Apr-Jun 2011",
+"May-Jul 2011",
+"Jun-Aug 2011",
+"Jul-Sep 2011",
+"Aug-Oct 2011",
+"Sep-Nov 2011",
+"Oct-Dec 2011",
+"Nov-Jan 2012",
+"Dec-Feb 2012",
+"Jan-Mar 2012",
+"Feb-Apr 2012",
+"Mar-May 2012",
+"Apr-Jun 2012",
+"May-Jul 2012",
+"Jun-Aug 2012",
+"Jul-Sep 2012",
+"Aug-Oct 2012",
+"Sep-Nov 2012",
+"Oct-Dec 2012",
+"Nov-Jan 2013",
+"Dec-Feb 2013",
+"Jan-Mar 2013",
+"Feb-Apr 2013",
+"Mar-May 2013",
+"Apr-Jun 2013",
+"May-Jul 2013",
+"Jun-Aug 2013",
+"Jul-Sep 2013",
+"Aug-Oct 2013",
+"Sep-Nov 2013",
+"Oct-Dec 2013",
+"Nov-Jan 2014",
+"Dec-Feb 2014",
+"Jan-Mar 2014",
+"Feb-Apr 2014",
+"Mar-May 2014",
+"Apr-Jun 2014",
+"May-Jul 2014",
+"Jun-Aug 2014",
+"Jul-Sep 2014",
+"Aug-Oct 2014",
+"Sep-Nov 2014",
+"Oct-Dec 2014"]);
+				
+		
+    var y = d3.scale.linear()
+        .range([height, 0])
+		.domain([64,74]);
+
+
+
+   // var formatAsPercentage = d3.formatPrefix('%',0);
+
+    x.domain(d3.extent(graphic_data, function(d) { return d.date; }));	
+
+    var xAxis = d3.svg.axis()
+        .scale(x)
+        .orient("bottom")
+//        .tickFormat(function(d,i) {
+//            if (width <= mobile_threshold) {
+//                var fmt = d3.time.format('%y');
+//                return '\u2019' + fmt(d);
+//            } else {
+//                var fmt = d3.time.format('%Y');
+//                return fmt(d);
+//            }
+//        })
+//		.tickPadding(1)
+//		.tickValues(x.ticks(12).concat( x.domain() ));
+		
+var xOrdAxis = d3.svg.axis()
+		.scale(xOrd)
+		.orient("bottom")
+		.tickFormat(function(d,i) {
+            	if (width <= 500) {
+                		return '\u2019' + d.substring(10,13)/* + "-"+ str.substring(5,7)*/;
+				} else if (width <= mobile_threshold1){
+						return d.substring(8,13);
+            	} else {
+						return d.substring(8,13);
+				}
+        })
+		.tickPadding(5)
+	
+	if(width<400){
+		xOrdAxis.tickValues(xOrd.domain().filter(function(d, i) { return !(i % 48); }));
+	} else {
+		xOrdAxis.tickValues(xOrd.domain().filter(function(d, i) { return !(i % 24); }));
+	}	
+
+    var yAxis = d3.svg.axis()
+        .scale(y)
+        .orient('left')
+        .ticks(num_ticks);
+
+    var y_axis_grid = function() { return yAxis; }
+
+
+
+
+    var line = d3.svg.line()
+        .x(function(d) { return x(d.date); })
+        .y(function(d) { return y(d.amt); });
+
+    // parse data into columns
+    var lines = {};
+    for (var column in graphic_data[0]) {
+        if (column == 'date') continue;
+        lines[column] = graphic_data.map(function(d) {
+            return {
+                'date': d.date,
+                'amt': d[column]
+            };
+        });
+    }
+	
+//var legend = d3.select('#graphic').append('ul')
+//                .attr('class', 'key')
+//            .selectAll('g')
+//                .data(labels)
+//            .enter().append('li')
+//                //.attr('class', function(d, i) { return 'key-item key-' + i + ' ' + d.key.replace(' ', '-').toLowerCase(); });
+//        legend.append('b')
+//		.style("border-top", function(d,i) { return dashArray[i]; })
+//        legend.append('label')
+//            .html(function(d,i) { return labels[i]; });
+
+	d3.select('#graphic').append("p")
+                .attr('class', 'unit')
+  		        .text(function(d,i) { return yUnit; });
+//	d3.select('#graphic').append("p")
+//                .attr('class', 'unit')
+//  		        .text(function(d,i) { return yUnit2; });
+
+
+    var svg = d3.select('#graphic').append('svg')
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom +30)
+        .append("g")
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+//   y.domain([
+//	64,74
+//        d3.min(d3.entries(lines), function(c) {
+//            return d3.min(c.value, function(v) {
+//                var n = v.amt;
+//                return Math.floor(n);
+//            });
+//        }),
+//	
+//        d3.max(d3.entries(lines), function(c) {
+//            return d3.max(c.value, function(v) {
+//                var n = v.amt;
+//                return Math.ceil(n);
+//            });
+//        })
+//   ]);
+
+    
+    svg.append('g')
+        .attr('class', 'y axis')
+        .call(yAxis);
+
+    svg.append('g')
+        .attr('class', 'y grid')
+        .call(y_axis_grid()
+            .tickSize(-width, 0, 0)
+            .tickFormat('')
+        );
+		
+	svg.append('g')
+        .attr('class', 'x axis')
+        .attr('transform', 'translate(0,' + (height + 30) + ')')
+        .call(xAxis);
+		
+	svg.append("g")
+		.attr("transform","translate(0,"+(height + 30)+")")
+		.attr("class","labels")
+      .call(xOrdAxis)
+		
+	var paths = svg.append("defs")
+                .append("g")
+                .attr("id","icon")
+				.append("g");
+				
+		paths.append("polyline")
+			 .attr("points", "2.881,9.54 7.94,5.061 12.341,9.54 17.77,5.061")
+			 .attr("stroke", "#666")
+			 .attr("fill", "none")
+		paths.append("polyline")
+			.attr("points", "2.881,14.54 7.94,10.061 12.341,14.54 17.77,10.061")
+			.attr("stroke", "#666")
+		 	.attr("fill", "none");
+  
+            
+	
+	svg.append("g").attr("id","iconpath")
+		.attr("transform","translate(-10,3)")
+		.append("use")
+		.attr("xlink:href","#icon")
+		.attr("x", x(x.domain()[0]))
+		.attr("y", function(){ 
+			if (width < mobile_threshold2) {
+			  	return y(64)
+			} else if (width < mobile_threshold1){
+				return y(64)
+			} else {
+				return y(64)
+			}
+		});
+		
+		//.attr("max-height", "50px");
+
+
+			
+			
+
+						
+			
+//	 svg.append("line")
+//		.attr("id","centreline")
+//		.attr('y1',y(100))
+//		.attr('y2',y(100))
+//		.attr('x1',0)
+//		.attr('x2',width);
+
+	
+	var insertLinebreaks1 = function () {
+		
+		var el1 = this.firstChild;
+		var el = el1.data;
+
+		var words = el.split('  ');
+		
+		d3.select(this).text('');
+
+	
+		for (var i = 0; i < words.length; i++) {
+			var tspan = d3.select(this).append('tspan').text(words[i]);
+			if (i > 0)
+				tspan.attr('x', x(d3.time.format(dateForm).parse(annoX1))).attr('dy', '15');
+		}
+	};
+	
+	var insertLinebreaks2 = function () {
+		
+		var el1 = this.firstChild;
+		var el = el1.data;
+
+		var words = el.split('  ');
+		
+		d3.select(this).text('');
+
+	
+		for (var i = 0; i < words.length; i++) {
+			var tspan = d3.select(this).append('tspan').text(words[i]);
+			if (i > 0)
+				tspan.attr('x', x(d3.time.format(dateForm).parse(annoX2))).attr('dy', '15');
+		}
+	};
+	
+	var insertLinebreaks3 = function () {
+		
+		var el1 = this.firstChild;
+		var el = el1.data;
+
+		var words = el.split('  ');
+		
+		d3.select(this).text('');
+
+	
+		for (var i = 0; i < words.length; i++) {
+			var tspan = d3.select(this).append('tspan').text(words[i]);
+			if (i > 0)
+				tspan.attr('x', x(d3.time.format(dateForm).parse(annoX3))).attr('dy', '15');
+		}
+	};
+	
+	var insertLinebreaks4 = function () {
+		
+		var el1 = this.firstChild;
+		var el = el1.data;
+
+		var words = el.split('  ');
+		
+		d3.select(this).text('');
+
+	
+		for (var i = 0; i < words.length; i++) {
+			var tspan = d3.select(this).append('tspan').text(words[i]);
+			if (i > 0)
+				tspan.attr('x', x(d3.time.format(dateForm).parse(annoX4))).attr('dy', '15');
+		}
+	};
+	
+	
+	
+	var createBackRect1  = function(){
+	var BBox = this.getBBox()
+					
+			svg.insert("rect", ".annotext1")
+				.attr("width", BBox.width)
+				.attr("height", BBox.height)
+				.attr("x", BBox.x)
+				.attr("y", BBox.y)
+				.attr("fill", "white")
+				.attr("opacity", 0.7);
+	};
+	
+	
+	
+//	var createBackRect2  = function(){
+//	var BBox = this.getBBox()
+//					
+//			svg.insert("rect", ".annotext2")
+//				.attr("width", BBox.width)
+//				.attr("height", BBox.height)
+//				.attr("x", BBox.x)
+//				.attr("y", BBox.y)
+//				.attr("fill", "white")
+//				.attr("opacity", 0.7);
+//	};
+//	
+//	
+//	
+//	var createBackRect3  = function(){
+//	var BBox = this.getBBox()
+//					
+//			svg.insert("rect", ".annotext3")
+//				.attr("width", BBox.width)
+//				.attr("height", BBox.height)
+//				.attr("x", BBox.x)
+//				.attr("y", BBox.y)
+//				.attr("fill", "white")
+//				.attr("opacity", 0.7);
+//	};
+
+	
+//	
+//	
+//	var createBackRect4  = function(){
+//	var BBox = this.getBBox()
+//					
+//			svg.insert("rect", ".annotext4")
+//				.attr("width", BBox.width)
+//				.attr("height", BBox.height)
+//				.attr("x", BBox.x)
+//				.attr("y", BBox.y)
+//				.attr("fill", "white")
+//				.attr("opacity", 0.7);
+//	};
+
+    
+
+    if (width > 530) {
+		svg.append("text")
+			.text(annotext1)
+			.attr("class","annotext1")
+			.attr("text-anchor", annoAlign1)
+			.attr('y',y(annoY1))
+			.attr('x',x(d3.time.format(dateForm).parse(annoX1)));
+		
+		d3.selectAll(".annotext1").each(insertLinebreaks1)
+			.each(createBackRect1);
+			
+//		
+//		svg.append("text")
+//			.text(annotext2)
+//			.attr("class","annotext2")
+//			.attr("text-anchor", annoAlign2)
+//			.attr('y',y(annoY2))
+//			.attr('x',x(d3.time.format(dateForm).parse(annoX2)));
+//		
+//		d3.selectAll(".annotext2").each(insertLinebreaks2)
+//			.each(createBackRect2);
+//		
+//		svg.append("text")
+//			.text(annotext3)
+//			.attr("class","annotext3")
+//			.attr("text-anchor", annoAlign3)
+//			.attr('y',y(annoY3))
+//			.attr('x',x(d3.time.format(dateForm).parse(annoX3)));
+//		
+//		d3.selectAll(".annotext3").each(insertLinebreaks3)
+//			.each(createBackRect3);
+/*		
+		svg.append("text")
+			.text(annotext4)
+			.attr("class","annotext4")
+			.attr("text-anchor", annoAlign4)
+			.attr('y',y(annoY4))
+			.attr('x',x(d3.time.format(dateForm).parse(annoX4)));
+		
+		d3.selectAll(".annotext4").each(insertLinebreaks4)
+			.each(createBackRect4);*/
+		
+		
+		
+	//	d3.selectAll(".annotext2").each(insertLinebreaks2);
+		
+		
+	} else {
+/*		d3.select("#keypoints").append("svg")
+			.attr("width","20px")
+			.attr("height","15px")
+			.attr("class","circles")
+			.append("circle")
+			.attr("class", "annocirc1")
+			.attr('y',"0px")
+			.attr('x',"0px")
+			.attr("r", "3")
+			.attr('cy',"8px")
+			.attr("cx", "8px");*/
+		
+		d3.select("#keypoints").append("p").text(keypointtext1);
+		
+
+/*		d3.select("#keypoints").append("svg")
+			.attr("width","20px")
+			.attr("height","15px")
+			.attr("class","circles")
+			.append("circle")
+			.attr("class", "annocirc2")
+			.attr('y',"0px")
+			.attr('x',"0px")
+			.attr("r", "3")
+			.attr('cy',"8px")
+			.attr("cx", "8px");*/
+		
+//		d3.select("#keypoints").append("p").text(keypointtext2);
+		
+		
+/*		d3.select("#keypoints").append("svg")
+			.attr("width","20px")
+			.attr("height","15px")
+			.attr("class","circles")
+			.append("circle")
+			.attr("class", "annocirc3")
+			.attr('y',"0px")
+			.attr('x',"0px")
+			.attr("r", "3")
+			.attr('cy',"8px")
+			.attr("cx", "8px");*/
+		
+//		d3.select("#keypoints").append("p").text(keypointtext3);
+		
+/*		
+		d3.select("#keypoints").append("svg")
+			.attr("width","20px")
+			.attr("height","15px")
+			.attr("class","circles")
+			.append("circle")
+			.attr("class", "annocirc4")
+			.attr('y',"0px")
+			.attr('x',"0px")
+			.attr("r", "3")
+			.attr('cy',"8px")
+			.attr("cx", "8px");
+		
+		d3.select("#keypoints").append("p").text(annotext4);*/
+		
+		
+	}
+		
+	    svg.append('g').selectAll('path')
+        .data(d3.entries(lines))
+        .enter()
+        .append('path')
+            .attr('class', function(d, i) {
+                return 'line line-' + i;
+            })
+            .attr('d', function(d) {
+                return line(d.value);
+            });	
+	
+	/*svg.append("circle")
+			.attr("class", "annocirc1")
+			.attr('y',y(annoCY1))
+			.attr('x',x(d3.time.format(dateForm).parse(annoCX1)))
+			.attr("r", "3")
+			.attr('cy',y(annoCY1))
+			.attr("cx", x(d3.time.format(dateForm).parse(annoCX1)));
+		
+	svg.append("circle")
+			.attr("class", "annocirc2")
+			.attr('y',y(annoCY2))
+			.attr('x',x(d3.time.format(dateForm).parse(annoCX2)))
+			.attr("r", "3")
+			.attr('cy',y(annoCY2))
+			.attr("cx", x(d3.time.format(dateForm).parse(annoCX2)));
+		
+		svg.append("circle")
+			.attr("class", "annocirc3")
+			.attr('y',y(annoCY3))
+			.attr('x',x(d3.time.format(dateForm).parse(annoCX3)))
+			.attr("r", "3")
+			.attr('cy',y(annoCY3))
+			.attr("cx", x(d3.time.format(dateForm).parse(annoCX3)));*/
+		
+//		svg.append("circle")
+//			.attr("class", "annocirc4")
+//			.attr('y',y(annoCY4))
+//			.attr('x',x(d3.time.format(dateForm).parse(annoCX4)))
+//			.attr("r", "3")
+//			.attr('cy',y(annoCY4))
+//			.attr("cx", x(d3.time.format(dateForm).parse(annoCX4)));
+						
+		
+    if (pymChild) {
+        pymChild.sendHeight();
+    }
+}
+
+
+if (Modernizr.svg) {
+    d3.csv(graphic_data_url, function(error, data) {
+        graphic_data = data;
+		
+        graphic_data.forEach(function(d) {
+			d.date = d3.time.format(dateForm).parse(d.date); 
+			
+        });
+
+        pymChild = new pym.Child({ renderCallback: drawGraphic});
+    });
+} else {
+	 pymChild = new pym.Child();
+	if (pymChild) {
+        pymChild.sendHeight();
+    }
+}
+
+	
+    </script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a40b5a037decd857',t:'MTc5MDM1MzE3OA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

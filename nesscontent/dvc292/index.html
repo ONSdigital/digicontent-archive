@@ -1,0 +1,1225 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <!--        <link rel="stylesheet" href="./lib/style.css" />-->
+            <link rel="stylesheet" href="./lib/jquery-ui.css" />
+            <link rel="stylesheet" href="./lib/jquery-ui-1.9.2.custom.min.css">
+            <!-- <link rel="stylesheet" href="./lib/globalStyle.css" />-->
+            
+            <!-- Loading in the choosen css http://harvesthq.github.io/chosen/ -->
+            <link rel="stylesheet" href="./lib/chosen.css">
+            
+            <!-- the bootstrap stylesheet -->
+            <link rel="stylesheet" href="./lib/styles.css">
+
+            <script src="./lib/modernizr.js"></script> 
+      	    <script src="./lib/jquery-1.9.1.js"></script>
+            <script src="./lib/jquery-ui.js"></script>
+			<script src="./lib/jquery-ui-1.9.2.custom.min.js"></script>
+			<script src="./lib/bootstrap.min.js"></script>
+<!--
+			<link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
+			<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+  			<script src="//code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
+-->
+
+			<script type="text/javascript" src="./lib/jquery.ui.touch-punch.min.js"></script> 
+            <script type="text/javascript" src="./lib/d3.v3.min.js"></script> 
+            <!-- Loading in the choosen javascript library http://harvesthq.github.io/chosen/ -->
+	        <script type="text/javascript" src="./lib/chosen.jquery.js"></script>
+	        <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js" type="text/javascript" charset="utf-8"></script>
+   
+		
+        	<title>Prototype Pop Prjections</title>
+			
+	</head>
+
+
+<style>
+
+/*html, body, div, span, appleft, object, iframe,
+
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+
+a, abbr, acronym, address, big, cite, code,
+
+del, dfn, em, img, ins, kbd, q, s, samp,
+
+small, strike, strong, sub, sup, tt, var,
+*/
+b, /*u, i, center,
+
+dl, dt, dd, ol, */ul, li,
+
+/*fieldset, form, label, legend,
+
+table, caption, tbody, tfoot, thead, tr, th, td,
+
+article, aside, canvas, details, embed, 
+
+figure, figcaption, footer, header, hgroup, 
+
+menu, nav, output, ruby, section, summary,
+
+time, mark, audio, video
+*/
+{
+
+	margin: 0;
+
+	padding: 0;
+
+	border: 0;
+
+	font-size: 100%;
+
+	font: inherit;
+
+	vertical-align: baseline;
+
+}
+
+
+
+
+
+body
+
+	{
+
+		background:#fff;
+		font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font-size: 13px;
+
+
+}
+
+text {
+	fill:#666;	
+}
+
+
+
+
+						#filters{
+							
+							padding-top:30px;
+						}
+
+						#filters li{
+
+							float:none;
+							padding:4px 0px 4px 5px;
+							display:block;				
+
+						}
+
+						
+
+						#filters a{
+
+							float:center;
+
+							text-align:center;
+
+							cursor:pointer;
+							
+							width:100%;
+							height:38px;
+							line-height:25pt;
+							color:#666;
+							text-decoration: none;
+							/*border-bottom:5px solid #999;*/
+
+						}
+
+						
+						#filters li:hover {
+							background:#e1e1e1;
+						}
+
+
+
+						.selectedli {
+							background:#e1e1e1;
+						}
+
+
+						/*#btn1:hover, #btn2:hover, #btn3:hover, #btn4:hover, #btn5:hover, #btn6:hover, #btn7:hover, #btn8:hover, #btn9:hover{						
+							background:#e1e1e1;
+						}
+						
+						a#btn1.highlight, a#btn2.highlight, a#btn3.highlight, a#btn4.highlight, a#btn5.highlight, a#btn6.highlight, a#btn7.highlight, a#btn8.highlight, a#btn9.highlight{
+
+							color:white;
+							background:#008cba;
+
+						}*/
+
+						#border0, #border1, #border2, #border3, #border4, #border5, #border6, #border7, #border8 {
+
+
+							    display: inline-block;
+							    width: 15px;
+							    height: 15px;
+							    margin-right: 6px;
+							    float: left;
+							    background-color: none;
+							    opacity: 0.8;
+							    margin-top: 16px;
+					
+
+						}
+
+
+/*						b#border1, b#border2, b#border3, b#border4, b#border5, b#border6, b#border7, b#border8, b#border9 {
+							display: inline-block;
+				            width: 12px;
+				            height: 12px;
+				            margin: 4px 7px 10px 5px;
+				            float: left;
+				            color:red;
+								}
+*/
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {
+  display: inline;
+}
+
+.y.axis path {
+  display: none;
+}
+
+
+.line, .linex {
+  fill: none;/*
+  stroke: steelblue;*/
+  stroke-width: 4;
+}
+
+
+ #centreline { 			
+stroke:#666;
+stroke-width:1px;
+}
+
+	
+.axis.y .tick line 		{ 			
+stroke-width:1px; 			
+stroke:#CCC; 			
+stroke-opacity:0.6;	 		
+}
+
+.x path, .x .tick line { 			
+stroke-width:1px; 			
+stroke:#CCC; 				 		
+}
+
+#buttons {
+	background-color: white;	
+}
+
+
+
+#varsel{z-index:50;}
+
+.focus circle {
+ 
+  
+}
+
+#yearLine {stroke:#ccc; stroke-width:1px;}
+
+
+.Fmarkers{
+	fill:white;
+	stroke: #674796;
+	stroke-width:2px;
+}
+		
+/*#selectedCircle{
+	fill:#2ca02c;
+}
+*/		
+.Mmarkers{
+	fill:white;
+	stroke:#74B630;
+	stroke-width:2px;
+}
+		
+#principalCircle{
+	fill:#1f77b4;
+}
+		
+#principalLineText, #selectedLineText{
+	font-size:16px;
+}		
+		
+.area{
+	fill: #DADADA;
+	opacity:0.7;	
+	pointer-events:none;
+}
+
+.svgRect {
+	fill:white;
+	opacity: 0.0;
+	}
+
+.svgEle {
+	pointer-events: none;
+}
+
+ #annotext {
+	pointer-events: auto;
+	cursor: pointer;
+	color:white;
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+ 	font-size: 15px;
+
+}
+
+        /* legend coloured elements */
+        #chart .key b/* required */
+		{
+            display: inline-block;
+            width: 12px;
+            height: 12px;
+            margin: 4px 7px 10px 5px;
+            float: left;
+        }
+
+
+        #chart
+		{
+           padding:0;
+        }
+
+.para {
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+ 	font-size: 15px;
+ 	fill:#666;
+}
+/*#legend {
+	pointer-events: auto;
+}	
+*/
+
+#filters ul {
+	margin-bottom:0px;
+}
+
+#variantText{
+	font-weight:300;
+	line-height:2.5;
+	font-size:19px;
+}
+
+#sel1, #prin1{
+	font-weight:600;
+}
+
+.footer{
+	font-size:15px;
+}
+
+</style>
+<body>
+
+<div class="container-fluid">
+
+    
+<!--         <h1> UK Population Projections </h1>
+        <h2> 2012-based </h2>
+ -->    
+
+    	<div id="controls" class="btn btn-primary visible-xs" style="width:100%"></div>
+
+        <div id="buttons">
+
+        	
+            <!--creating empty div for dropdown to fill later-->
+			<!-- <div id="empty" class="visible-xs" style="height:45px; width:100%; background:#fbfbfb;"></div> -->
+
+
+			 <div id="hideButtons" style="display: none;"> 
+                 
+            	<div class="btn-group btn-group visible-xs" role="group" id="varmenu" style="padding:3px">
+                    
+                      <button id="varsel" class="btn btn-primary dropdown-toggle btn-block" type="button" data-toggle="dropdown" aria-expanded="true">Choose your variant<span class="caret"></span>
+                      </button>      
+                  </div>        
+            </div><!--close hideButtons div -->
+            
+            
+    	</div><!--close buttons div -->
+    
+    
+    <div class="row">  
+    
+        <div id = "chart" class="col-sm-9 col-xs-12"> </div>
+        <div id="legend" class="col-sm-3 col-sm-push-9col-xs-12 "> 
+				
+                    <div id='hideNav"'>
+                        <nav id="filters" >
+    
+                            <ul>  
+                            
+                            </ul>  
+            
+                        </nav>
+                    </div>
+            <div id="keypoints" class="col-sm-12 col-xs-12" ></div><!--close keypoints div-->
+            <div id ="heading" class="hidden-xs" > <h4 id="header"></h4> </div>
+            <div id="commentary"  > </div> 
+         </div>
+       
+
+    </div><!--close row div-->
+        
+	</div> <!--close container div -->
+		
+<script type="text/javascript"> 
+
+//init function
+$(document).ready(function(){
+
+	$('#filters a').click(function(){ 
+
+			$(".highlight").toggleClass("highlight");
+
+			$(this).toggleClass("highlight");
+	})
+});
+
+
+
+</script>
+
+
+
+
+<script src="http://d3js.org/d3.v3.js"></script>
+
+
+
+
+
+
+<script>
+		var pymChild = new pym.Child();
+		var svg;
+
+		// Variable to hold the current page that we're on
+		var pageCounter = 1;
+		// Variable to hold the maximum number of pages
+		var maxPages = 3;
+		// global object variable to contain all variables prefixed with 'dvc.'
+		var dvc = {};
+		// Code for each of the lines		
+		var projPermutations = ["Est", "PPP", "HPP", "LPP", "PHP", "PLP", "PPH", "PPL", "PPZ", "HHH", "LLL"];
+			  
+  		var keypoints = $('#keypoints');
+		var chart = $("#chart");
+		var chartwidth;
+		var height;
+		var margin;
+		var width;
+		var color;
+		var lists;
+		var cloneColour;
+		
+		// Variable to show when on mobile view
+		var	threshold_sm;
+
+	  	//then, onload, check to see if the web browser can handle 'inline svg'
+	  	if (Modernizr.inlinesvg)
+	  	{										
+		  
+		  	// And here's the full-fat code for everyone else		
+		  	// function call to delay displaying opening screen until all data in 'data.js' has loaded			
+			
+			//Calling a function - that starts to build everything
+		  	loadConfiguration();
+		  
+		
+	  
+	  	} // end if ... 
+	  	else
+	  	{
+		  //Use this space to offer the user something else eg upgrade your broswer message or a fallback image.
+			
+		}
+		
+		
+		
+
+	  
+		/*
+			NAME: 			loadConfiguration
+			DESCRIPTION: 	
+			CALLED FROM:	
+			CALLS:			
+			REQUIRES: 		
+			RETURNS: 		
+		*/
+		function loadConfiguration()
+	  	{
+		  
+			
+			// open and load configuration file. 
+			// specify the path of where it sits.  A . means go up a level but not used here					
+			d3.json("lib/config.json", function(json) // Here you're passing the content of this json file into the "json" variable.
+			{			
+			
+				// store read in json data from config file as as global dvc. variable ...	
+				// because the "json" variable is local to this function but we want to be able to use this config anywhere in your code
+				dvc.chartConfig = json;	
+				
+				pymChild = new pym.Child({ renderCallback:makeChart});
+									
+				/* Build DataGroup selection list ... */			
+				// First create an empty array variable that we can populate using the loop below.
+				var valueArray = [];
+				
+				
+				// Pair the arrays together in preparation for building a select / dropdown list. We're going to want to have a visable name but also a code that sits behind. See page here on d3.zip - https://github.com/mbostock/d3/wiki/Arrays eg d3.zip([hello","vicky","how"],[0,1,2] would return [[hello,0],[vicky,1],[how,2]] here paring the variant name with valuearray variable set above to give it a number/index
+				var dataGroupsArrays = d3.zip( dvc.chartConfig.vars.VariantType , projPermutations );
+
+				//Creating a copy of the same variable - not really necessary but leaving in here as the sort bit might be useful for sorting the array by alphabetic order.
+				//slice function starts the array from the specified point/trims the array http://www.w3schools.com/jsref/jsref_slice_array.asp
+				dvc.dataGroupsArrays = dataGroupsArrays.slice(2);/*.sort(function(b, a){ return d3.descending(a[0], b[0])})*/;
+				
+			// Just adding a text label for the buttons we're about to create.
+				dropnext = d3.select("#varmenu").append("ul")
+						.attr("class","dropdown-menu")
+						.attr("role","menu");
+						
+				dropnext.selectAll("li")
+						.data(dvc.dataGroupsArrays)
+						.enter()
+						.append("li")
+						.append("a")
+						.attr("href","#")
+						.attr("value", function(d){	return d[1];})
+						.text(function(d){ return d[0];})
+						.on("click", function(d,i){
+						// create a code to select the lines on click
+							dvc.dataGroup = d3.select(this).attr("value");
+
+							//appending the text of the variant 
+							dvc.modelname = d3.select(this).text();
+							//dvc.chartConfig.vars.AbbreviatedModelType[.dataGroupCode];
+							d3.select("#varmenu").select("#varsel").text(dvc.modelname);
+								
+							transitionData()
+					});
+
+					d3.select("#filters").append("text").attr("id", "variantText").text("Select your variant:")
+					lists = d3.select("#filters").attr("class","hidden-xs", "highlight").style("display","none").selectAll("li")
+						.data(dvc.dataGroupsArrays)
+						.enter()
+						.append("li")
+						.on("click", function(d,i){
+								d3.select("#filters").selectAll("li").attr("class","");
+								d3.select(this).attr("class","selectedli");
+
+								dvc.dataGroup = d3.select(this).select("a").attr("value");
+
+								//appending the text of the variant 
+								d3.select("#varmenu").select("#varsel").text(dvc.modelname).attr("pointer-events", "none");
+									
+								transitionData()
+							});
+
+
+						lists.append("b")
+							.attr("id",function(d,i){return "border" + i})
+							.style("border-top",function(d,i){return "2px solid " + color.range()[i+2]});
+
+
+
+						lists.append("a")
+							.attr("id",function(d,i){return "btn" + (i+1)})
+							.attr("href","#")
+							.attr("value", function(d){	return d[1];})
+							.text(function(d){ return d[0];})
+
+
+//				//Setting the intial state for each of these variables...
+//				
+//				// y- and x-Axis variables ... initialises to first element of "axisType" array in config file 
+				dvc.dataGroup = 0;
+				dvc.dataGroupIndex = dvc.chartConfig.vars.AbbreviatedModelType.indexOf(dvc.dataGroup);
+			
+			});
+	  
+		} // end function loadConfiguration()
+			
+	
+	  
+		/*
+			NAME: 			transitionData
+			DESCRIPTION: 	
+			CALLED FROM:	
+			CALLS:			
+			REQUIRES: 		
+			RETURNS: 		
+		*/
+
+		
+		function transitionData()
+		{
+			  			  
+			//creating a variable to string together the variable set up. Previously with the 3 buttons had to create separate vars for each level and then string together.
+			modelStr = "#" + dvc.dataGroup;
+			  
+			d3.select("#Est").style("stroke" , "#1f77b4").style("opacity", 1.00)
+			d3.select("#PPP").style("stroke" , "#1f77b4").style("opacity" , 1.00)
+		
+	
+			//remove any previously drawn line
+			d3.select("#frontLine").remove();
+
+			//create variable to clone line being drawn so can bring to front next
+			var clonePath = d3.select(modelStr).attr("d");
+			cloneColour = d3.select(modelStr).style("stroke");
+
+			//bring line being drawn to front so not hidden by other transparent lines
+			d3.select("#biggroup").append("path")
+				.attr("class","line")
+				.attr("id", "frontLine")
+				.attr("d", clonePath)
+				//.style("stroke" , "#2ca02c")
+				.style("stroke",cloneColour)
+				//.style("opacity" , 1.0)
+				//.style("stroke-width", 4)
+				.style("opacity", 0.0)
+				.transition()
+				.duration(500)
+				.style("opacity", 1.0)
+				.attr("stroke-linecap","round");
+
+			//create variable to clone line being drawn so can bring to front next
+			var clonePPPPath = d3.select("#PPP").attr("d");
+
+			//bring line being drawn to front so not hidden by other transparent lines
+			d3.select("#biggroup").append("path")
+				.attr("class","line")
+				.attr("id", "PPPFrontLine")
+				.attr("d",clonePPPPath)
+				.style("stroke" , "#1f77b4")
+				.style("opacity" , 1)
+				//.style("stroke-width", 4)
+				.attr("stroke-linecap","round");
+
+			return;		  
+
+
+			  
+		}// end function transitionData() 
+	
+	  
+	  
+	  
+	  
+	  
+		/*
+			NAME: 			makeChart
+			DESCRIPTION: 	
+			CALLED FROM:	
+			CALLS:			
+			REQUIRES: 		
+			RETURNS: 		
+		*/
+		
+		var pymChild = null;
+		
+		function makeChart()
+		{
+			  
+			  
+			//Then start constructing all the variables we'll need to make the chart
+			// Starting with some margins and chart width
+			// Can do some more ambitious width setting here by looking at the width of screen or width of a div
+			// Eg $("chart").width();
+			
+			chartwidth = $("#chart").width();
+			
+			//Define an aspect ratio
+			var aspectwidth = 4;
+			var aspectheight = 3;
+			
+			//Define the threshold 
+			var threshold_md = 780;
+			//Updating value of threshold_sm
+		   	threshold_sm = dvc.chartConfig.vars.mobileBreakpoint; 
+			
+			// Set the margin so that things like the yaxis labels fit in
+			margin = {top: 20, right: 20, bottom: 67, left: 20},
+			width = chartwidth - margin.left - margin.right;
+				
+			height = ((width * aspectheight)/aspectwidth) - margin.top - margin.bottom;
+			
+			 // clear out existing graphics
+		    chart.empty();
+			keypoints.empty();
+			$("#commentary").empty();
+			 pageCounter = 1;
+			
+			// Set up the format to match that of the data that is being read in - have a look here for a list of formats - https://github.com/mbostock/d3/wiki/Time-Formatting
+				parseDate = d3.time.format("%Y").parse;
+				bisectDate = d3.bisector(function(d) { return d.date; }).left;
+				formatValue = d3.format(",.2f");
+				formatCurrency = function(d) { return "$" + formatValue(d); };
+			
+			// Setting up the scaling objects
+			// Really giving d3 the information on how wide  the chart is going to be using the dimensions set above.			
+			x = d3.time.scale()
+				.range([0, width]);
+			
+			// Same for the y axis
+			y = d3.scale.linear()
+				.range([height, 0]);
+			
+			// Same for colour.
+			//color = d3.scale.category10();
+
+			color = d3.scale.ordinal()
+				  .domain(projPermutations)
+				  .range(["#1f77b4", "#1f77b4", "#00438d", "#870b5f", "#e44800", "#878787", "#ffd600", "#33a02c", "#f4aaff", "#5abad3","#b15928"]);
+				   // .range(['rgb(141,211,199)','rgb(255,255,179)','rgb(190,186,218)','rgb(217,217,217)','rgb(128,177,211)','rgb(253,180,98)','rgb(179,222,105)','rgb(252,205,229)','rgb(251,128,114)','rgb(188,128,189)','rgb(204,235,197)']);
+			
+
+			// label
+			d3.select('#chart').append("p")
+		                .attr('class', 'unit')
+		  		        .text(function(d,i) { return dvc.chartConfig.vars.yAxisLabel; });
+
+			//Setting y-axis up here using y scaling object
+			var yAxis = d3.svg.axis()
+				.scale(y)
+				.orient("left")
+				.tickSize(-width)
+		
+				if (chart.width() <= threshold_sm) {
+						yAxis.ticks(dvc.chartConfig.vars.y_num_ticks_sm_md_lg[0])
+					 } else if (chart.width() <= threshold_md){
+						yAxis.ticks(dvc.chartConfig.vars.y_num_ticks_sm_md_lg[1])
+					 } else {
+						yAxis.ticks(dvc.chartConfig.vars.y_num_ticks_sm_md_lg[2])
+					 }
+					 
+			// Setting up a d3 line object - used to draw lines later
+			var line = d3.svg.line() // Set up the line object
+				.defined(function(d) {return d.population !="";})
+				.x(function(d) { return x(d.date); }) // Tell it what you want your x and y variables to be and wrap the values in the x and y caling objects.
+				.y(function(d) { return y(d.population); });
+			
+			
+			// Now to actually make something
+			svg = d3.select("#chart").append("svg") // Select the chart div that already exists and add an SVG element.
+				.attr("class", "svgele") // and give it some attributes such as class and id.
+				.attr("id", "svgEle")  
+				.attr("width", width + margin.left + margin.right) 
+				.attr("height", height + margin.top + margin.bottom)
+			  	.append("g")
+				.attr("id","biggroup") //Append a group - makes it easier to move things about later and style them.
+				.attr("transform", "translate(" + margin.left + "," + margin.top + ")"); // Let's move this a little bit based on the margins
+			
+			
+			// Load in the data now...
+			d3.csv("data.csv", function(error, data) {
+				//saved data content of csv file as a variable stored within dvc object
+				dvc.data = data
+			 
+			 // Not sure what this is doing
+			  color.domain(d3.keys(dvc.data[0]).filter(function(key) { return key !== "date"; }));
+			  
+			  // Take each row and put the date column through the parsedate form we've defined above.	
+			  dvc.data.forEach(function(d) {
+				d.mydate = d.date;
+				//formatting the data to universal time (e.g. Tue Jan 01 2002 00:00:00 GMT+0000 (GMT))
+				d.date = parseDate(d.date);
+				
+			  }); //close forEach function
+
+			  // Building an object with all the data in it
+			  projections = color.domain().map(function(name) {
+				return {
+				  name: name,
+				  values: dvc.data.map(function(d) {
+					return {date: d.date, population: +d[name]};
+					 })
+				};
+			  });
+			
+			  // Set the domain of the x-value
+			  // We've already given the x-scale object a range, now give it a domain
+			  // The domain looks at the minimum and maximum values for the axis - in this case the date variable.
+			  x.domain(d3.extent(dvc.data, function(d) { return d.date; }));
+			  
+			  var ticks = x.ticks(0);
+			  
+			  dvc.chartConfig.vars.xAxisValues.forEach(function(d,i) {
+			  	ticks.push(new Date(d,1,1));
+			  });
+			
+			  // Do the same for the y-axis...[0,800000] by looking at the minimum and maximum for the population variable.
+			  y.domain(
+				dvc.chartConfig.vars.yAxisScale
+			  );
+			  
+			  // Bind the x-axis to the svg object
+			  svg.append("g")
+				  .attr("class", "x axis")
+				  .attr("transform", "translate(0," + (height +30)+ ")")
+				  .call(
+			//Setting x-axis up here using x scaling object
+			d3.svg.axis()
+				.scale(x)
+				.orient("bottom")
+				.tickFormat(function(d,i) {
+		            //specify date format for x axis depending on #chart width
+		            if (chart.width() <= threshold_sm) {
+		                var fmt = d3.time.format(dvc.chartConfig.vars.xAxisTextFormat_sm_md_lg[0]);						
+						return i % 1 ? "":'\u2019' + fmt(d);	
+		            } else if (chart.width() <= threshold_md){
+		                var fmt = d3.time.format(dvc.chartConfig.vars.xAxisTextFormat_sm_md_lg[1]);
+						str= fmt(d);
+						return i % 1 ? "": str;
+						
+		            } else {
+		                var fmt = d3.time.format(dvc.chartConfig.vars.xAxisTextFormat_sm_md_lg[2]);
+						str= fmt(d);
+						return i % 1 ? "":str;
+		            }
+		        })
+				.tickPadding(5)
+				.tickValues(ticks)) // actually attaching the x-axis
+
+				// append the yAxis and add label as before.
+			  svg.append("g")
+				  .attr("class", "y axis")
+				  .attr("id", "#yAxis")
+				  .call(yAxis)
+
+				//create proj  and bind the projections data (we defined earlier) to it.
+				var proj = svg.selectAll(".proj")
+						.data(projections)
+						.enter()
+						.append("g")
+						.attr("class", "proj");
+
+
+	
+				//create icon to symbolise break in y axis if required					
+				if(y.domain()[0] > 0 && dvc.chartConfig.vars.yAxisBreak == true){
+					
+					var paths = svg.append("defs")
+								.append("g")
+								.attr("id","icon")
+								.append("g");
+								
+							paths.append("polyline")
+								 .attr("points", "2.881,9.54 7.94,5.061 12.341,9.54 17.77,5.061")
+								 .attr("stroke", "#666")
+								 .attr("fill", "none")
+							paths.append("polyline")
+								.attr("points", "2.881,14.54 7.94,10.061 12.341,14.54 17.77,10.061")
+								.attr("stroke", "#666")
+								.attr("fill", "none");
+				  
+						//specify position of icon				  
+						svg.append("g").attr("id","iconpath")
+								.attr("transform","translate(-10,3)")
+								.append("use")
+								.attr("xlink:href","#icon")
+								.attr("x", x(x.domain()[0]))
+								.attr("y", function(){ 
+									if (chart.width() < threshold_sm) {
+										return y(dvc.chartConfig.vars.yAxisBreak_sm_md_lg[0])
+									} else if (chart.width() < threshold_md){
+										return y(dvc.chartConfig.vars.yAxisBreak_sm_md_lg[1])
+									} else {
+										return y(dvc.chartConfig.vars.yAxisBreak_sm_md_lg[2])
+									}
+								});
+				}
+
+		
+
+			
+					
+			//creating area for mouseover to interact with whole of chart (before svgRect mouseover was only interacting when on a line, have since removed this code so no longer draws when interacting with line)
+
+				
+				modelStr = "#" + dvc.dataGroup;
+								
+					// Finally drawing the lines
+					proj.append("path")
+						.attr("class", "line")
+						.attr("id" , function(d, i){
+							return projPermutations[i];
+						})
+						.attr("stroke-linecap","round")
+					  .attr("d", function(d,i) {
+						  return line(d.values);
+						 })
+					  .style("stroke", function(d) { return color(d.name); })
+
+				var clonePathP = d3.select("#PPP").attr("d");
+				
+				d3.select("#PPP").remove();
+
+				//bring line being drawn to front so not hidden by other transparent lines
+				d3.select("#biggroup")
+					.append("g")
+					.attr("class","proj")
+					.append("path")
+					.attr("class","linex")
+					.attr("id", "PPP")
+					.attr("d", clonePathP)
+					.style("stroke","#1f77b4")
+					.attr("stroke-linecap","round");
+
+
+function insertLinebreaks() {
+				
+				var str = this;
+
+				var el1 = dvc.chartConfig.vars.annotationChart[0];
+				var el = el1.data;
+		
+				var words = el1.split('  ');
+				
+				d3.select(this/*str*/).text('');
+			
+				for (var j = 0; j < words.length; j++) {
+					var tspan = d3.select(this).append('tspan').text(words[j]);
+					if (j > 0)
+						tspan.attr('x', x(d3.time.format(dvc.chartConfig.vars.dateFormat).parse(dvc.chartConfig.vars.annotationXY[0][0]))).attr('dy', '15');													
+					}//end for
+
+
+				}//end insertLinebreaks
+
+					if ($("body").width() < threshold_sm ) { 
+				d3.select("#controls")
+					.text("Display all projected variants")
+					.on("mousedown", function(d,i){
+						pageCounter ++; 
+						highlightlines()
+				});		
+	
+			} else {
+				
+				xdate = d3.time.format(dvc.chartConfig.vars.dateFormat).parse(dvc.chartConfig.vars.animate[0][0]);
+
+
+				svg.append("g")
+					.attr("id", "join")
+					.append("line")
+					.attr("x1",x(xdate))
+					.attr("y1",y(70))
+					.attr("x2",x(xdate))
+					.attr("y2",height +30)
+					.style("stroke-width" , 3)
+					.attr("stroke-linecap","round")
+					.style("opacity", 0.8)
+					.style("stroke" , "#1f77b4");
+
+
+				svg.append("g")
+					.attr("class", "animate")
+					.attr("id", "animate")
+						.append("circle")
+						.attr('cy',y(dvc.chartConfig.vars.animate[0][1]))
+						.attr('cx',x(xdate))
+						.attr("r", 55)
+						.style("fill" , "#1f77b4")
+						.style("opacity", 1)
+				
+				// draw annotation text based on content of var annotationArray ...
+				svg.append("text")
+					.text(dvc.chartConfig.vars.annotationChart[0])
+					.attr("id","annotext")
+					.attr("text-anchor", dvc.chartConfig.vars.annotationAlign[0])
+					.style("fill" , "white")
+					.attr('y',y(dvc.chartConfig.vars.annotationXY[0][1]))
+					.attr('x',x(xdate))
+					.on("mousedown", function(d,i){
+						pageCounter ++; 
+						highlightlines()
+						d3.select("#join").transition().duration(400).style("opacity", 0)
+						d3.select("#animate").transition().delay(200).duration(400).style("opacity", 0)
+						d3.select("#annotext").transition().duration(400).style("opacity", 0)
+							})
+
+				d3.selectAll("#annotext")				
+					.each(insertLinebreaks);
+
+					svg.append("rect")
+						.attr("class","svgRect overlay")
+						.attr("id","interactRect")
+						.attr("x", x(d3.time.format(dvc.chartConfig.vars.dateFormat).parse(dvc.chartConfig.vars.projStartDate)))
+						.attr("y", 0) 
+						.attr("width", /*chartwidth*/     x(d3.time.format(dvc.chartConfig.vars.dateFormat).parse(dvc.chartConfig.vars.projEndDate)) - x(d3.time.format(dvc.chartConfig.vars.dateFormat).parse(dvc.chartConfig.vars.projStartDate))           )
+						.attr("height", height +30)
+						.on("mouseover", function() { focus.style("display", null); })
+					    .on("mouseout", function() { focus.style("display", "none"); d3.select("#tooltip").attr("opacity",0); })
+					    .on("mousemove", mousemove)//end mousemove;
+			
+
+						var tooltip=svg.append("g").attr("id", "tooltip").attr("opacity",0).attr("transform", "translate(20,30)")
+							
+							tooltip.append("rect")
+								  .attr("id","backrect")
+								  .attr("width",415)
+								  .attr("height",70)
+								  .attr("y",-20)
+								  .attr("x",-30)
+								  .attr("fill","#fff")
+								  .attr("opacity",0.8);
+								  
+							tooltip.append("text")
+								  .attr("id","date")
+								  .style("font-size", "20px");
+								  
+							tooltip.append("text")
+								  .attr("id","principalLineText")
+								  .attr("dy", "1.5em")
+								  .append("tspan")
+								  .attr("id", "prin1");
+								  
+							d3.select("#principalLineText")	
+								.append("tspan")
+								  .attr("id", "prin2");				
+								
+							tooltip.append("text")
+								  .attr("id","selectedLineText")
+								  .attr("dy", "2.9em")
+								  .append("tspan")
+								  .attr("id", "sel1");
+							
+							d3.select("#selectedLineText")	
+								.append("tspan")
+								  .attr("id", "sel2");	
+								  
+							tooltip.append("text")
+								  .attr("id","diff")
+								  .attr("dy", "3.6em");	  
+						
+					var focus = svg.append("g")
+							  .attr("class", "focus")
+							  .style("display", "none");
+						
+					  focus.append("line")
+						  .attr("id","yearLine") 	
+						  .attr('y1',0)
+						  .attr('y2',height +30);
+						  
+					  focus.append("circle")
+						  .attr("id","selectedCircle") 	
+						  .attr("r", 4)
+						  .attr("opacity",0);
+						  
+					  focus.append("circle")
+						  .attr("id","principalCircle") 	
+						  .attr("r", 4);
+			}
+					  
+				highlightlines();	
+		
+		});//close loading data		
+		
+		d3.select(".footer").remove();
+		
+		//create link to source				
+			d3.select(".container-fluid").append("div").attr("class", "footer").append("p")
+				.text("Source: ")
+				.append("a")
+				.attr("href","http://www.ons.gov.uk/ons/rel/npp/national-population-projections/2014-based-projections/index.html")
+				.attr("target", "_blank")
+				.html("2014-based Population Projections, ONS");
+
+
+		if(pymChild){
+		 	pymChild.sendHeight();	  
+		}
+		  } //close makeChart
+
+				//mousemove function for hover over line to provide point values
+		function mousemove() {
+			
+		
+					
+		var x0 = x.invert(d3.mouse(this)[0]),
+					k = bisectDate(dvc.data, x0, 1),
+					d0 = dvc.data[k - 1],
+					d1 = dvc.data[k],
+					d = x0 - d0.date > d1.date - x0 ? d1 : d0;
+					
+		currentline = dvc.dataGroup;
+
+		//attaching circles on the line to show data point			
+		d3.select("#principalCircle").attr("transform", "translate(" + x(d.date) + "," + y(d.PPP) + ")");
+		fmtround = d3.format(".3r");	
+			
+		if(dvc.dataGroup != 0) {
+
+				d3.select("#selectedCircle").attr("fill",cloneColour).attr("opacity",1.0).attr("transform", "translate(" + x(d.date) + "," + y(d[currentline]) + ")");
+				d3.select("#sel1").text(fmtround(d[currentline]))
+				d3.select("#sel2").text(" million according to your selected variant");
+		}
+		//line to show year highlighted
+		d3.select("#yearLine").attr("x1", x(d.date)).attr("x2", x(d.date));
+		
+		
+
+		//Selecting text and data for top left of chart
+		d3.select("#date").text("In " + (d.mydate)+ " the population is projected to reach: ");
+		d3.select("#prin1").text(fmtround(d.PPP));
+		d3.select("#prin2").text(" million according to the principal variant")
+		//working out the difference between the 2 projections. Not needed here as some values would be negative
+		//d3.select("#diff").text("Difference: "+	fmtround(d.PPP - modelStr)+" million");
+		
+		d3.select("#tooltip").attr("opacity",1);
+	  }// close mousemove function
+
+		//having to pass in chartwidth and height as a local argument from makeChart function where originally created
+		function highlightlines() {
+			
+				// Look at what page we're on
+				if(pageCounter == 1 ){
+				//$("#hideButtons").hide();
+				$("#filters").hide();
+				d3.select("#interactRect").style("pointer-events","none");
+				d3.select("#header").text(dvc.chartConfig.vars.heading1);
+				$("#commentary").empty();
+				d3.select("#commentary").append("p").attr("id", "para1").attr("class","para").text(dvc.chartConfig.vars.commentary1);
+
+				 // // First set all the lines to be invisible
+				 d3.selectAll(".line").style("opacity", 0.0);
+				 d3.selectAll(".linex").style("opacity", 0.0);
+				 				  
+					  
+					// Then highlight the main line to be fully visable and give it a thicker stroke
+					d3.select("#Est").style("stroke" , "#1f77b4").style("opacity", 1.0);
+					d3.select("#interactingRect").style("pointer-events","none");
+
+			}
+					  
+			 
+			 else if(pageCounter == 2 ){
+
+				$("#header").hide();
+				if($("body").width() < threshold_sm){
+					$("#commentary").show();
+				} else {
+					$("#commentary").hide();
+				}
+			 	$("#filters").fadeIn(1000);
+
+				d3.select("#interactRect").style("pointer-events","none");
+				d3.selectAll(".line").style("opacity",0.15);
+				d3.select("#PPP").style("stroke" , "#1f77b4").style("opacity" , 1.00);
+				d3.select("#Est").style("opacity",1);
+
+
+						d3.select("#PPP").each(function(d,i){
+						// Work out the total length of the lines 
+						var totalLength = d3.select("#PPP").node().getTotalLength();
+
+
+						if(/Firefox/i.test(navigator.userAgent) ) {
+							d3.selectAll("#PPP").attr("stroke-dasharray", totalLength + " " + totalLength)
+								.attr("stroke-dashoffset", totalLength/4)
+								.transition()
+								.duration(2500)
+								.delay(10*i)
+								.ease("quad") //Try linear, quad, bounce... see other examples here - http://bl.ocks.org/hunzy/9929724
+								.attr("stroke-dashoffset", 0)
+						} else {
+							d3.selectAll("#PPP").attr("stroke-dasharray", totalLength + " " + totalLength)
+								.attr("stroke-dashoffset", totalLength)
+								.transition()
+								.duration(2500)
+								.delay(10*i)
+								.ease("quad") //Try linear, quad, bounce... see other examples here - http://bl.ocks.org/hunzy/9929724
+								.attr("stroke-dashoffset", 0)
+						}  
+						
+						
+						
+						
+							
+							
+
+						})//close function
+				
+						// animate all the lines
+						
+						d3.selectAll(".line").each(function(d,i){
+								
+								// Work out the total length of the lines 
+								var totalLength = d3.select("#" + d.name).node().getTotalLength();
+								
+								//var offset = (/Firefox/i.test(navigator.userAgent)) ? -totalLength : 0;
+								if(/Firefox/i.test(navigator.userAgent) ) {
+									if(d.name != "Est"){
+										d3.selectAll("#" + d.name).attr("stroke-dasharray", totalLength + " " + totalLength)
+										.attr("stroke-dashoffset", (totalLength/4)-5)
+										.transition()
+										.duration(2500)
+										.delay(500 +(100*i))
+										.ease("quad") //Try linear, quad, bounce... see other examples here - http://bl.ocks.org/hunzy/9929724
+										.attr("stroke-dashoffset", 0)
+										}
+								} else {
+									if(d.name != "Est"){
+										d3.selectAll("#" + d.name).attr("stroke-dasharray", totalLength + " " + totalLength)
+										.attr("stroke-dashoffset", totalLength)
+										.transition()
+										.duration(2500)
+										.delay(500 +(100*i))
+										.ease("quad") //Try linear, quad, bounce... see other examples here - http://bl.ocks.org/hunzy/9929724
+										.attr("stroke-dashoffset", 0)
+										}
+
+								}
+
+						})//close function
+
+				
+				
+				d3.selectAll(".backRect").style("display","none");
+				
+				 $("#controls").remove();
+				 $("#hideButtons").fadeIn(1000);
+				 
+				 //make rect overlay active for mouseover
+				 setTimeout(function(){
+				 	d3.select("#interactRect").style("pointer-events","auto");
+				 	},2500);
+
+			}// close else if page counter = 2		
+			 
+			  pymChild.sendHeight();
+			  }  //end highlightlines
+			  
+				
+		
+		
+
+</script><script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a40b5c8f4bb8d857',t:'MTc5MDM1MzI4Mg=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script>

@@ -1,0 +1,72 @@
+{
+    "essential" : {
+            "graphic_data_url": "data2.csv",
+        
+            "dateFormat":"%b-%y",
+        
+            "legendLabels" : [ "Blaenau Gwent (most affordable)", "Westminster (least affordable)", "England & Wales" ],
+        
+            "sourceText":["ONS" , "Annual Survey of Hours and Earnings" ],
+            "sourceURL":["http://www.ons.gov.uk/ons/rel/regional-analysis/house-price-statistics-for-small-areas/1995-2014/index.html" , "http://www.ons.gov.uk/ons/rel/ashe/annual-survey-of-hours-and-earnings/index.html"  ],
+        
+            "annotationChart": [
+				"The house price affordability gap remained fairly  stable until the start of the economic downturn",
+				"After the  economic downturn the  house price affordability  gap grew to more than  double 2002 levels",
+                "No data for  Blaenau Gwent  in 2013",
+				"economic  downturn"
+            ],
+            "annotationBullet": [
+				"The house price affordability gap remained fairly stable until the economic downturn started in 2008",
+				"After the economic downturn the house price  affordability gap grew to more than double 2002 levels",
+                "No data for  Blaenau Gwent  in 2013",
+				"Economic downturn (Quarter 2 2008 until Quarter 2 2009)"
+            ],
+			
+            "annotationXY":[
+               	["Apr-02",10.5],
+                ["Oct-13",14.5],
+                ["Jan-13",4],
+				["Nov-08",25]
+			    
+            ],
+            "annotationAlign":[
+               	"start",
+                "end",
+				"middle",
+                "middle"
+            ],
+        
+            "circles" : true,    
+            "annotationCXCY":[
+                ["Jan-02",10],
+                ["Jan-14",13],
+                ["Jan-13",4],
+				["Jan-15",10]
+            ],
+        
+            "yAxisLabel":"ratio of house price to average salary",
+            "yAxisScale":[0,25],   
+            "yAxisBreak": true,
+            "yAxisBreak_sm_md_lg": [65,65,65]            
+    },
+    "optional" : {
+            "margin_sm": [20, 15, 5, 30],
+            "margin_md": [20, 15, 5, 30],
+            "margin_lg": [20, 15, 5, 30],
+        
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+        
+            "mobileBreakpoint" : 610, 
+            
+            "xAxisTextFormat_sm_md_lg" : ["%Y", "%Y", "%Y"], 
+                
+            "x_num_ticks_sm_md_lg" : [7,17,17],    
+            "y_num_ticks_sm_md_lg" : [8,8,10],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}
+
+
