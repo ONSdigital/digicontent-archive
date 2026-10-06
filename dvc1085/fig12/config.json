@@ -1,0 +1,80 @@
+{
+    "essential" : {
+
+			"GraphType" : "clusterBar" ,
+            "graphic_data_url": "data.csv",
+            "colour_palette": [ "#206095","#118C7B","#003C57","#A8BD3A"],
+
+
+            "dateFormat":"%Y-%y",
+            "legendLabels" :["Unadjusted","Age adjusted","Age, sex, education, socioeconomic adjusted","Fully adjusted"],
+
+      			"legendStyle": "rect",
+      			"sourceText":["Office for National Statistics: Wealth and Assets Survey (WAS)"],
+
+            "annotationChart": [
+
+            ],
+            "annotationBullet": [
+
+            ],
+            "annotationXY":[
+              ["0","Mixed/multiple ethnic groups"],
+              ["0","Mixed/multiple ethnic groups"],
+              ["0","Mixed/multiple ethnic groups"],
+              ["-0.9","White British"],
+              ["-0.9","Pakistani and Bangladeshi"]
+            ],
+            "annotationAlign":[
+              "start",
+              "middle",
+              "end",
+              "start",
+              "start"
+            ],
+            "annotationCXCY":[
+
+            ],
+            "xAxisLabel":"Percentage",
+            "xAxisScale":[0,100],
+            "barHeight" : {
+              "sm":60,
+              "md":60,
+              "lg":60
+            }
+    },
+    "optional" : {
+            "margin": {
+              "sm": {
+                "top": 40,
+                "right": 20,
+                "bottom": 60,
+                "left": 140
+              },
+              "md": {
+                "top": 40,
+                "right": 30,
+                "bottom": 60,
+                "left": 140
+              },
+              "lg": {
+                "top": 40,
+                "right": 20,
+                "bottom": 45,
+                "left": 260
+              }
+            },
+            "aspectRatio_sm" : [10,5],
+            "aspectRatio_md" : [10,8],
+            "aspectRatio_lg" : [20,15],
+
+            "mobileBreakpoint" : 414,
+
+            "xAxisTextFormat_sm_md_lg" : ["%Y-%y", "%Y-%y", "%Y-%y"],
+
+            "x_num_ticks_sm_md_lg" : [4,4,4],
+            "y_num_ticks_sm_md_lg" : [6,8,10],
+            "centre_line" : false,
+            "centre_line_value" : 10
+    }
+}
