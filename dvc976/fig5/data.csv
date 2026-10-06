@@ -1,0 +1,23 @@
+﻿group,EU,Non-EU,tab
+Care workers/home carers,45000,54700,nationality
+Nurses,35600,42600,nationality
+Nursing auxiliaries,16700,21900,nationality
+Medical practitioners,18100,24200,nationality
+Cleaners and domestics,6200,5700,nationality
+Senior care workers,3300,5100,nationality
+Medical secretaries,800,1200,nationality
+Pharmacy,900,2900,nationality
+Managers and directors,1500,1800,nationality
+Physiotherapists,3200,2300,nationality
+Other,56900,28600,nationality
+Care workers/home carers,44700,113800,cob
+Nurses,40500,115600,cob
+Nursing auxiliaries,17200,53700,cob
+Medical practitioners,16700,76100,cob
+Cleaners and domestics,6300,11000,cob
+Senior care workers,3600,10200,cob
+Medical secretaries,1700,5100,cob
+Pharmacy,1500,6400,cob
+Managers and directors,1700,5900,cob
+Physiotherapists,4200,3900,cob
+Other,66000,88600,cob
