@@ -1,0 +1,88 @@
+config = {
+	"essential": {
+		"graphic_data_url": "datanumeric.csv",
+		"colour_palette": [
+			"#2EA1A4",
+			" #6749A6",
+			"#871A5B",
+			"#A8BD3A",
+			"#F66068",
+			"#118C7B"
+		],
+		"text_colour_palette": [
+			"#2EA1A4",
+			"#5C5185",
+			"#871A5B",
+			"#6E7E26",
+			"#F66068",
+			"#118C7B"
+		],
+		"drawLegend": true,
+		"sourceText": "Applicants data from Universities and Colleges Admissions Service (UCAS)",
+		"accessibleSummary": "More women go to university than men.",
+		"lineCurveType": "curveLinear", // Set the default line curve type
+		// Examples of line curve types
+		// "lineCurveType": "curveLinear", // Straight line segments
+		// "lineCurveType": "curveStep", // Step-wise line
+		// "lineCurveType": "curveStepBefore", // Step-before line
+		// "lineCurveType": "curveStepAfter", // Step-after line
+		// "lineCurveType": "curveBasis", // B-spline curve
+		// "lineCurveType": "curveCardinal", // Cardinal spline curve
+		// "lineCurveType": "curveCatmullRom" // Catmull-Rom spline curve
+		// "lineCurveType": "curveMonotoneX" // Monotone spline curve
+		"xDomain": "auto",
+		"yDomain": [0,350],
+		// either "auto" or an array for the x domain e.g. [0,2000]
+		"xAxisTickFormat": {
+			"sm": "%b %y",
+			"md": "%b %y",
+			"lg": "%b %y"
+		},
+		"xAxisNumberFormat": ".0f",
+		"dateFormat": "%d/%m/%Y",
+		"yAxisLabel": "Applicants accepted through UCAS (thousands)",
+		"xAxisLabel": "Year"
+	},
+	"optional": {
+		"aspectRatio": {
+			"sm": [1, 1],
+			"md": [4, 3],
+			"lg": [16, 9]
+		},
+		"margin": {
+			"sm": {
+				"top": 35,
+				"right": 40,
+				"bottom": 50,
+				"left": 35
+			},
+			"md": {
+				"top": 30,
+				"right": 40,
+				"bottom": 50,
+				"left": 40
+			},
+			"lg": {
+				"top": 30,
+				"right": 40,
+				"bottom": 50,
+				"left": 40
+			}
+		},
+		"xAxisTicks": { // this is the number of ticks on the x axis - add the first and last date with the options below
+			"sm": 3,
+			"md": 5,
+			"lg": 7
+		},
+		"yAxisTicks": {
+			"sm": 7,
+			"md": 5,
+			"lg":8
+		},
+		"addFirstDate": true,
+		"addFinalDate": true,
+		"mobileBreakpoint": 510,
+		"mediumBreakpoint": 600
+	},
+	"elements": { "select": 0, "nav": 0, "legend": 1, "titles": 0 }
+};
