@@ -1,0 +1,163 @@
+"occupation","code","earningsa","earningsm","earningsf","hierarchy"
+"Managers, directors and senior officials",1,16.83,16.67,16.87,1
+"Corporate managers and directors",11,18.82,18.95,18.24,1
+"Production Managers and Directors",112,17.64,18.46,16.63,1
+"Production managers and directors in manufacturing",1121,17.57,18.53,16.57,1
+"Functional Managers and Directors",113,22.45,22.54,22.37,1
+"Financial managers and directors",1131,22.41,22.5,22.37,1
+"Marketing, sales and advertising directors",1132,25.34,22.2,28.91,1
+"Managers and Directors in Retail and Wholesale",115,12.01,13.2,11.72,1
+"Managers and directors in retail and wholesale",1150,12.01,13.2,11.72,1
+"Other managers and proprietors",12,13.03,12.6,13.73,1
+"Managers and Proprietors in Hospitality and Leisure Services",122,11.91,11.91,11.82,1
+"Managers in Logistics, Warehousing and Transport",124,12.3,12.02,12.36,1
+"Managers and Proprietors in Other Services",125,13.16,12.22,14.68,1
+"Professional occupations",2,23.12,24.32,22.9,2
+"Science, research, engineering and technology professionals",21,20.37,21.16,19.87,2
+"Engineering Professionals",212,22.72,22.86,21.56,2
+"Information Technology Professionals",213,21.42,22.81,19.79,2
+"Health professionals",22,22.4,24.6,22.2,2
+"Medical Practitioners",221,47.46,50,45.26,2
+"Generalist medical practitioners",2211,48.59,50,47.85,2
+"Specialist medical practitioners",2212,37.71,46.25,34.26,2
+"Therapy Professionals",222,24.02,23.68,24.13,2
+"Nursing Professionals",223,21.05,20.2,21.22,2
+"Other nursing professionals",2237,20.98,19.98,21.08,2
+"Other Health Professionals",225,24.39,24.41,24.38,2
+"Teaching and other educational professionals",23,25.77,26.05,25.76,2
+"Teaching Professionals",231,25.77,25.77,25.76,2
+"Higher education teaching professionals",2311,24.31,24.55,24.03,2
+"Further education teaching professionals",2312,23.53,23.73,22.91,2
+"Secondary education teaching professionals",2313,28,28.29,27.77,2
+"Primary education teaching professionals",2314,25.81,26.68,25.78,2
+"Teaching professionals n.e.c.",2319,23.06,23.4,21.73,2
+"Other Educational Professionals",232,25.82,41.26,21.69,2
+"Head teachers and principals",2321,47.54,48.52,46.93,2
+"Business, media and public service professionals",24,20.64,20.39,20.73,2
+"Finance Professionals",242,20.52,21.01,19.87,2
+"Finance and investment analysts and advisers",2422,18.5,21.2,18.34,2
+"Business, Research and Administrative Professionals",243,20.71,19.1,21.19,2
+"Business and related research professionals",2434,18.64,18.26,19.93,2
+"Business and Financial Project Management Professionals",244,20.24,19.33,22,2
+"Business and financial project management professionals",2440,20.24,19.33,22,2
+"Welfare Professionals",246,20.75,20.65,20.75,2
+"Associate professional occupations",3,13.17,12.88,13.27,3
+"Science, engineering and technology associate professionals",31,12.55,12.49,12.64,3
+"Science, Engineering and Production Technicians",311,12.15,12.2,11.88,3
+"Science, engineering and production technicians n.e.c.",3119,11.7,11.72,11.7,3
+"Information Technology Technicians",313,12.96,12.64,13.21,3
+"IT operations technicians",3131,12.88,10.94,14.57,3
+"Health and social care associate professionals",32,12.5,12.53,12.5,3
+"Welfare and Housing Associate Professionals",322,13.17,12.78,13.42,3
+"Youth and community workers",3221,12.7,12.63,12.7,3
+"Welfare and housing associate professionals n.e.c.",3229,12.95,12.31,12.96,3
+"Culture, media and sports occupations",34,12.53,12.02,12.92,3
+"Artistic, Literary and Media Occupations",341,14.48,13.76,14.93,3
+"Sports and Fitness Occupations",343,12.25,11.85,12.41,3
+"Sports coaches, instructors and officials",3432,12.88,12.76,12.86,3
+"Fitness and wellbeing instructors",3433,10.73,10.53,10.8,3
+"Business and public service associate professionals",35,14.37,14.37,14.36,3
+"Business Associate Professionals",354,13.39,13.55,13.3,3
+"Sales, Marketing and Related Associate Professionals",355,13.49,13.56,13.37,3
+"Marketing associate professionals",3554,12.28,11.34,13.6,3
+"Sales accounts and business development managers",3556,18.26,17.42,18.53,3
+"HR, Training and Other Vocational Associate Guidance Professionals",357,14.38,14.19,14.38,3
+"Other vocational and industrial trainers",3574,14.23,14.19,14.16,3
+"Administrative and secretarial occupations",4,12.32,12,12.4,4
+"Administrative occupations",41,12.66,12.22,12.75,4
+"Administrative Occupations: Government and Related Organisations",411,13.39,12.84,13.4,4
+"National government administrative occupations",4111,13.5,12.9,13.5,4
+"Administrative Occupations: Finance",412,12.92,12.15,13,4
+"Book-keepers, payroll managers and wages clerks",4122,13.25,13.27,13.23,4
+"Bank and post office clerks",4123,12.43,11.62,12.72,4
+"Financial administrative occupations n.e.c.",4129,11.99,11,12.21,4
+"Administrative Occupations: Records",413,11.85,11.63,11.85,4
+"Records clerks and assistants",4131,11.43,11.23,11.44,4
+"Stock control clerks and assistants",4133,11.26,11.45,10.88,4
+"Library clerks and assistants",4135,12.09,11.96,12.18,4
+"Administrative Occupations: Office Managers and Supervisors",414,13.45,11.6,13.81,4
+"Office managers",4141,13.86,12.29,13.99,4
+"Other Administrative Occupations",415,12.6,12.5,12.6,4
+"Other administrative occupations n.e.c.",4159,12.67,12.64,12.67,4
+"Secretarial and related occupations",42,11.5,11.08,11.53,4
+"Secretarial and Related Occupations",421,11.5,11.08,11.53,4
+"Receptionists",4216,11,11.12,11,4
+"Skilled trades occupations",5,11.12,11.12,11.1,5
+"Skilled agricultural and related trades",51,11.5,11.5,11.44,5
+"Agricultural and Related Trades",511,11.5,11.5,11.44,5
+"Skilled metal, electrical and electronic trades",52,12,12.19,11.5,5
+"Metal Machining, Fitting and Instrument Making Trades",522,11.36,11.95,10.96,5
+"Textiles, printing and other skilled trades",54,10.9,10.59,11,5
+"Food Preparation and Hospitality Trades",543,10.83,10.53,11,5
+"Chefs",5434,10.59,10.5,10.82,5
+"Cooks",5435,10.93,10.42,11,5
+"Caring, leisure and other service occupations",6,11.91,11.75,11.95,6
+"Caring personal service occupations",61,12.08,12.03,12.11,6
+"Teaching and Childcare Support Occupations",611,12.13,12.18,12.13,6
+"Teaching assistants",6112,12.54,12.79,12.51,6
+"Educational support assistants",6113,12.02,12.03,11.99,6
+"Animal Care and Control Services",612,10.86,10.99,10.78,6
+"Caring Personal Services",613,12.11,12.01,12.14,6
+"Nursing auxiliaries and assistants",6131,12.77,12.81,12.75,6
+"Care workers and home carers",6135,11.75,11.67,11.78,6
+"Senior care workers",6136,12.08,12,12.08,6
+"Undertakers, mortuary and crematorium assistants",6138,11.57,11.63,11.47,6
+"Leisure, travel and related personal service occupations",62,11.13,11.18,11.09,6
+"Leisure and Travel Services",621,11.55,11.63,11.48,6
+"Sports and leisure assistants",6211,11.17,11.18,11.07,6
+"Air travel assistants",6213,13.83,13.83,13.45,6
+"Housekeeping and Related Services",623,11.2,11.38,11.1,6
+"Housekeepers and related occupations",6231,10.91,10.68,10.96,6
+"Caretakers",6232,11.38,11.38,11.44,6
+"Cleaning and Housekeeping Managers and Supervisors",624,11.38,11.27,11.38,6
+"Cleaning and housekeeping managers and supervisors",6240,11.38,11.27,11.38,6
+"Sales and customer service occupations",7,11,11,11,7
+"Sales occupations",71,11,11,11,7
+"Sales Assistants and Retail Cashiers",711,11,11,11,7
+"Sales and retail assistants",7111,11,11,11,7
+"Retail cashiers and check-out operators",7112,10.5,10.45,10.5,7
+"Pharmacy and optical dispensing assistants",7114,10.92,10.73,10.94,7
+"Sales Related Occupations",712,11.03,11.16,11,7
+"Sales supervisors - retail and wholesale",7132,12.1,12.1,12.1,7
+"Customer service occupations",72,11.34,10.93,11.47,7
+"Customer Service Occupations",721,11.32,10.93,11.47,7
+"Call and contact centre occupations",7211,11.98,11.64,12.45,7
+"Customer service occupations n.e.c.",7219,11.24,10.9,11.44,7
+"Process, plant and machine operatives",8,11.31,11.42,11,8
+"Process, plant and machine operatives",81,11.04,11.27,10.98,8
+"Process Operatives",811,10.87,10.95,10.67,8
+"Food, drink and tobacco process operatives",8111,10.82,10.9,10.6,8
+"Assemblers and Routine Operatives",814,11,10.9,11.03,8
+"Assemblers and routine operatives n.e.c.",8149,11.24,10.68,11.44,8
+"Construction Operatives",815,11.87,11.88,11.65,8
+"Construction operatives n.e.c.",8159,11.79,11.79,11.49,8
+"Transport and mobile machine drivers and operatives",82,11.48,11.5,11.42,8
+"Road Transport Drivers",821,11.42,11.42,11.42,8
+"Bus and coach drivers",8212,12.68,12.79,11.53,8
+"Delivery drivers and couriers",8214,11,11,10.91,8
+"Road transport drivers n.e.c.",8219,10.76,10.75,10.77,8
+"Elementary occupations",9,10.71,10.66,10.72,9
+"Elementary trades and related occupations",91,10.5,10.5,10.5,9
+"Elementary Agricultural Occupations",911,10.5,10.5,10.44,9
+"Elementary Process Plant Occupations",913,10.5,10.5,10.5,9
+"Industrial cleaning process occupations",9131,10.45,10.65,10.42,9
+"Packers, bottlers, canners and fillers",9132,10.54,10.5,10.6,9
+"Elementary administration and service occupations",92,10.72,10.67,10.73,9
+"Elementary Administration Occupations",921,13.48,14.09,11.67,9
+"Postal workers, mail sorters and messengers",9211,14.09,14.17,14.09,9
+"Elementary administration occupations n.e.c.",9219,10.61,10.5,10.71,9
+"Elementary Cleaning Occupations",922,10.9,10.87,10.9,9
+"Cleaners and domestics",9223,10.9,10.87,10.9,9
+"Elementary Security Occupations",923,11.49,11.55,11.49,9
+"Security guards and related occupations",9231,11.47,11.49,11.22,9
+"School midday and crossing patrol occupations",9232,11.26,11.08,11.26,9
+"Exam invigilators",9233,11.92,11.8,12,9
+"Elementary Storage Occupations",925,11.22,11.3,11.12,9
+"Warehouse operatives",9252,11.28,11.3,11.18,9
+"Other Elementary Services Occupations",926,10.48,10.44,10.5,9
+"Bar and catering supervisors",9261,11.5,11.33,11.5,9
+"Kitchen and catering assistants",9263,10.54,10.42,10.6,9
+"Waiters and waitresses",9264,10.34,10.42,10.24,9
+"Bar staff",9265,10.45,10.5,10.42,9
+"Coffee shop workers",9266,10.42,10.47,10.42,9
+"Leisure and theme park attendants",9267,10.9,11,10.88,9
