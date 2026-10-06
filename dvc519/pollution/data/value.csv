@@ -1,0 +1,180 @@
+AREACD,AREANM,total
+UKC11,Hartlepool and Stockton-on-tees,16.53
+UKC12,South Teesside,14.99
+UKC13,Darlington,18.22
+UKC14,Durham,17.00
+UKC21,Northumberland,13.80
+UKC22,Tyneside,14.39
+UKC23,Sunderland,15.22
+UKD11,West Cumbria,12.70
+UKD12,East Cumbria,14.89
+UKD33,Manchester,15.01
+UKD34,Greater Manchester South West,16.67
+UKD35,Greater Manchester South East,16.35
+UKD36,Greater Manchester North West,16.67
+UKD37,Greater Manchester North East,16.97
+UKD41,Blackburn with Darwen,15.73
+UKD42,Blackpool,13.05
+UKD44,Lancaster and Wyre,13.78
+UKD45,Mid Lancashire,15.88
+UKD46,East Lancashire,16.07
+UKD47,Chorley and West Lancashire,16.51
+UKD61,Warrington,17.15
+UKD62,Cheshire East,19.08
+UKD63,Cheshire West and Chester,18.41
+UKD71,East Merseyside,17.05
+UKD72,Liverpool,14.59
+UKD73,Sefton,16.56
+UKD74,Wirral,14.77
+UKE11,Kingston upon Hull,14.50
+UKE12,East Riding of Yorkshire,15.92
+UKE13,North and North East Lincolnshire,16.82
+UKE21,York,17.93
+UKE22,North Yorkshire,17.74
+UKE31,"Barnsley, Doncaster and Rotherham",19.31
+UKE32,Sheffield,17.91
+UKE41,Bradford,17.62
+UKE42,Leeds,17.84
+UKE44,Calderdale and Kirklees,17.72
+UKE45,Wakefield,19.30
+UKF11,Derby,17.72
+UKF12,East Derbyshire,19.01
+UKF13,South and West Derbyshire,19.11
+UKF14,Nottingham,16.76
+UKF15,North Nottinghamshire,18.75
+UKF16,South Nottinghamshire,17.85
+UKF21,Leicester,16.24
+UKF22,Leicestershire and Rutland,17.70
+UKF24,West Northamptonshire,16.82
+UKF25,North Northamptonshire,17.71
+UKF30,Lincolnshire,16.21
+UKG11,Herefordshire,19.53
+UKG12,Worcestershire,20.04
+UKG13,Warwickshire,19.40
+UKG21,Telford and Wrekin,19.83
+UKG22,Shropshire,19.73
+UKG23,Stoke-on-Trent,18.69
+UKG24,Staffordshire,20.39
+UKG31,Birmingham,16.19
+UKG32,Solihull,16.74
+UKG33,Coventry,16.57
+UKG36,Dudley,16.00
+UKG37,Sandwell,15.44
+UKG38,Walsall,16.20
+UKG39,Wolverhampton,16.17
+UKH11,Peterborough,16.04
+UKH12,Cambridgeshire,15.91
+UKH14,Suffolk,14.35
+UKH15,Norwich and East Norfolk,12.41
+UKH16,North and West Norfolk,14.57
+UKH17,Breckland and South Norfolk,15.35
+UKH21,Luton,15.43
+UKH23,Hertfordshire,17.32
+UKH24,Bedford,17.76
+UKH25,Central Bedfordshire,17.56
+UKH31,Southend-on-Sea,10.81
+UKH32,Thurrock,14.32
+UKH34,Essex Haven Gateway,13.47
+UKH35,West Essex,17.60
+UKH36,Heart of Essex,15.21
+UKH37,Essex Thames Gateway,14.71
+UKI31,Camden and City of London,13.99
+UKI32,Westminster,14.96
+UKI33,Hammersmith & Fulham and Kensington & Chelsea,14.94
+UKI34,Wandsworth,15.32
+UKI41,Hackney and Newham,12.99
+UKI42,Tower Hamlets,10.53
+UKI43,Haringey and Islington,12.89
+UKI44,Lewisham and Southwark,11.84
+UKI45,Lambeth,12.31
+UKI51,Bexley and Greenwich,12.67
+UKI52,Barking and Dagenham and Havering,12.63
+UKI53,Redbridge and Waltham Forest,13.83
+UKI54,Enfield,15.14
+UKI61,Bromley,12.75
+UKI62,Croydon,13.12
+UKI63,"Merton, Kingston upon Thames and Sutton",12.57
+UKI71,Barnet,15.05
+UKI72,Brent,13.25
+UKI73,Ealing,14.60
+UKI74,Harrow and Hillingdon,15.93
+UKI75,Hounslow and Richmond upon Thames,15.79
+UKJ11,Berkshire,20.21
+UKJ12,Milton Keynes,16.60
+UKJ13,Buckinghamshire,19.64
+UKJ14,Oxfordshire,18.65
+UKJ21,Brighton and Hove,12.99
+UKJ22,East Sussex,13.65
+UKJ25,West Surrey,19.64
+UKJ26,East Surrey,17.99
+UKJ27,West Sussex (South West),14.29
+UKJ28,West Sussex (North East),18.04
+UKJ31,Portsmouth,13.31
+UKJ32,Southampton,19.27
+UKJ34,Isle of Wight,13.65
+UKJ35,South Hampshire,16.64
+UKJ36,Central Hampshire,20.08
+UKJ37,North Hampshire,19.45
+UKJ41,Medway,12.98
+UKJ43,Kent Thames Gateway,13.68
+UKJ44,East Kent,10.19
+UKJ45,Mid Kent,13.96
+UKJ46,West Kent,16.23
+UKK11,Bristol,16.19
+UKK12,"Bath & North East Somerset, North Somerset & South Gloucestershire",16.96
+UKK13,Gloucestershire,19.07
+UKK14,Swindon,15.78
+UKK15,Wiltshire,17.77
+UKK21,Bournemouth and Poole,13.64
+UKK22,Dorset,14.55
+UKK23,Somerset,14.97
+UKK30,Cornwall and Isles of Scilly,8.04
+UKK41,Plymouth,9.19
+UKK42,Torbay,9.81
+UKK43,Devon,12.23
+UKL11,Isle of Anglesey,9.21
+UKL12,Gwynedd,11.54
+UKL13,Conwy and Denbighshire,11.67
+UKL14,South West Wales,12.30
+UKL15,Central Valleys,17.61
+UKL16,Gwent Valleys,18.36
+UKL17,Bridgend and Neath Port Talbot,15.42
+UKL18,Swansea,12.58
+UKL21,Monmouthshire and Newport,18.68
+UKL22,Cardiff and Vale of Glamorgan,16.15
+UKL23,Flintshire and Wrexham,16.56
+UKL24,Powys,15.91
+UKM50,Aberdeen and Aberdeenshire,9.08
+UKM61,Caithness & Sutherland and Ross & Cromarty,7.59
+UKM62,"Inverness & Nairn and Moray, Badenoch & Strathspey",8.73
+UKM63,"Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute",10.63
+UKM64,Eilean Siar,3.01
+UKM65,Orkney Islands,3.96
+UKM66,Shetland Islands,2.41
+UKM71,Angus and Dundee,9.54
+UKM72,Clackmannanshire and Fife,10.52
+UKM73,East Lothian and Midlothian,10.10
+UKM75,Edinburgh,10.35
+UKM76,Falkirk,11.69
+UKM77,Perth and Kinross and Stirling,10.28
+UKM78,West Lothian,12.68
+UKM81,"East Dunbartonshire, West Dunbartonshire and Helensburgh & Lomond",12.58
+UKM82,Glasgow,11.95
+UKM83,"Inverclyde, East Renfrewshire and Renfrewshire",11.26
+UKM84,North Lanarkshire,13.28
+UKM91,Scottish Borders,13.14
+UKM92,Dumfries and Galloway,14.55
+UKM93,East and North Ayrshire mainland,12.84
+UKM94,South Ayrshire,11.46
+UKM95,South Lanarkshire,12.92
+UKN06,Belfast,9.55
+UKN07,"Armagh City, Banbridge & Craigavon",8.53
+UKN08,"Newry, Mourne and Down",8.53
+UKN09,Ards and North Down,8.79
+UKN10,Derry City and Strabane,7.54
+UKN11,Mid Ulster,8.97
+UKN12,Causeway Coast and Glens,8.95
+UKN13,Antrim and Newtownabbey,9.40
+UKN14,Lisburn and Castlereagh,9.56
+UKN15,Mid and East Antrim,9.68
+UKN16,Fermanagh and Omagh,7.42
