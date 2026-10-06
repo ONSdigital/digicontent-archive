@@ -1,0 +1,308 @@
+,DATANO,DATACD,DATANM,AREACD,AREANM,time1,time2,time3,time4,time5,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24,Unnamed: 25,Unnamed: 26,Unnamed: 27,Unnamed: 28,Unnamed: 29,Unnamed: 30,RGN21CD,RGN21NM,change4,change1
+9,9.0,data9,Access to green space,E06000001,Hartlepool,107.4518,107.4518,107.4518,107.4518,107.4518,,,,,,,,,,,,,,,,,,,,,,E12000001,North East,0.0,0.0
+23,9.0,data9,Access to green space,E06000002,Middlesbrough,106.966,106.966,106.966,106.966,106.966,,,,,,,,,,,,,,,,,,,,,,E12000001,North East,0.0,0.0
+37,9.0,data9,Access to green space,E06000003,Redcar and Cleveland,106.8196,106.8196,106.8196,106.8196,106.8196,,,,,,,,,,,,,,,,,,,,,,E12000001,North East,0.0,0.0
+51,9.0,data9,Access to green space,E06000004,Stockton-on-Tees,105.8667,105.8667,105.8667,105.8667,105.8667,,,,,,,,,,,,,,,,,,,,,,E12000001,North East,0.0,0.0
+65,9.0,data9,Access to green space,E06000005,Darlington,104.9263,104.9263,104.9263,104.9263,104.9263,,,,,,,,,,,,,,,,,,,,,,E12000001,North East,0.0,0.0
+79,9.0,data9,Access to green space,E06000006,Halton,109.5585,109.5585,109.5585,109.5585,109.5585,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+93,9.0,data9,Access to green space,E06000007,Warrington,107.7077,107.7077,107.7077,107.7077,107.7077,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+107,9.0,data9,Access to green space,E06000008,Blackburn with Darwen,106.7782,106.7782,106.7782,106.7782,106.7782,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+121,9.0,data9,Access to green space,E06000009,Blackpool,103.2892,103.2892,103.2892,103.2892,103.2892,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+135,9.0,data9,Access to green space,E06000010,Kingston upon Hull,102.1573,102.1573,102.1573,102.1573,102.1573,,,,,,,,,,,,,,,,,,,,,,E12000003,Yorkshire and The Humber,0.0,0.0
+149,9.0,data9,Access to green space,E06000011,East Riding of Yorkshire,97.03672,97.03672,97.03672,97.03672,97.03672,,,,,,,,,,,,,,,,,,,,,,E12000003,Yorkshire and The Humber,0.0,0.0
+163,9.0,data9,Access to green space,E06000012,North East Lincolnshire,101.466,101.466,101.466,101.466,101.466,,,,,,,,,,,,,,,,,,,,,,E12000003,Yorkshire and The Humber,0.0,0.0
+177,9.0,data9,Access to green space,E06000013,North Lincolnshire,96.76756,96.76756,96.76756,96.76756,96.76756,,,,,,,,,,,,,,,,,,,,,,E12000003,Yorkshire and The Humber,0.0,0.0
+191,9.0,data9,Access to green space,E06000014,York,101.8728,101.8728,101.8728,101.8728,101.8728,,,,,,,,,,,,,,,,,,,,,,E12000003,Yorkshire and The Humber,0.0,0.0
+205,9.0,data9,Access to green space,E06000015,Derby,103.838,103.838,103.838,103.838,103.838,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.0,0.0
+219,9.0,data9,Access to green space,E06000016,Leicester,101.9703,101.9703,101.9703,101.9703,101.9703,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.0,0.0
+233,9.0,data9,Access to green space,E06000017,Rutland,90.49371,90.49371,90.49371,90.49371,90.49371,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.0,0.0
+247,9.0,data9,Access to green space,E06000018,Nottingham,99.05155,99.05155,99.05155,99.05155,99.05155,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.0,0.0
+261,9.0,data9,Access to green space,E06000019,Herefordshire,96.36047,96.36047,96.36047,96.36047,96.36047,,,,,,,,,,,,,,,,,,,,,,E12000005,West Midlands,0.0,0.0
+275,9.0,data9,Access to green space,E06000020,Telford and Wrekin,106.8606,106.8606,106.8606,106.8606,106.8606,,,,,,,,,,,,,,,,,,,,,,E12000005,West Midlands,0.0,0.0
+289,9.0,data9,Access to green space,E06000021,Stoke-on-Trent,114.7095,114.7095,114.7095,114.7095,114.7095,,,,,,,,,,,,,,,,,,,,,,E12000005,West Midlands,0.0,0.0
+303,9.0,data9,Access to green space,E06000022,Bath and North East Somerset,98.45908,98.45908,98.45908,98.45908,98.45908,,,,,,,,,,,,,,,,,,,,,,E12000009,South West,0.0,0.0
+317,9.0,data9,Access to green space,E06000023,Bristol,102.7642,102.7642,102.7642,102.7642,102.7642,,,,,,,,,,,,,,,,,,,,,,E12000009,South West,0.0,0.0
+331,9.0,data9,Access to green space,E06000024,North Somerset,95.72029,95.72029,95.72029,95.72029,95.72029,,,,,,,,,,,,,,,,,,,,,,E12000009,South West,0.0,0.0
+345,9.0,data9,Access to green space,E06000025,South Gloucestershire,100.8258,100.8258,100.8258,100.8258,100.8258,,,,,,,,,,,,,,,,,,,,,,E12000009,South West,0.0,0.0
+359,9.0,data9,Access to green space,E06000026,Plymouth,102.1567,102.1567,102.1567,102.1567,102.1567,,,,,,,,,,,,,,,,,,,,,,E12000009,South West,0.0,0.0
+373,9.0,data9,Access to green space,E06000027,Torbay,104.5576,104.5576,104.5576,104.5576,104.5576,,,,,,,,,,,,,,,,,,,,,,E12000009,South West,0.0,0.0
+387,9.0,data9,Access to green space,E06000030,Swindon,101.9213,101.9213,101.9213,101.9213,101.9213,,,,,,,,,,,,,,,,,,,,,,E12000009,South West,0.0,0.0
+401,9.0,data9,Access to green space,E06000031,Peterborough,103.9037,103.9037,103.9037,103.9037,103.9037,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+415,9.0,data9,Access to green space,E06000032,Luton,100.7916,100.7916,100.7916,100.7916,100.7916,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+429,9.0,data9,Access to green space,E06000033,Southend-on-Sea,99.87686,99.87686,99.87686,99.87686,99.87686,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+443,9.0,data9,Access to green space,E06000034,Thurrock,96.87628,96.87628,96.87628,96.87628,96.87628,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+457,9.0,data9,Access to green space,E06000035,Medway,105.5609,105.5609,105.5609,105.5609,105.5609,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+471,9.0,data9,Access to green space,E06000036,Bracknell Forest,102.5207,102.5207,102.5207,102.5207,102.5207,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+485,9.0,data9,Access to green space,E06000037,West Berkshire,96.62097,96.62097,96.62097,96.62097,96.62097,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+499,9.0,data9,Access to green space,E06000038,Reading,100.0028,100.0028,100.0028,100.0028,100.0028,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+513,9.0,data9,Access to green space,E06000039,Slough,95.68024,95.68024,95.68024,95.68024,95.68024,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+527,9.0,data9,Access to green space,E06000040,Windsor and Maidenhead,100.2059,100.2059,100.2059,100.2059,100.2059,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+541,9.0,data9,Access to green space,E06000041,Wokingham,103.7271,103.7271,103.7271,103.7271,103.7271,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+555,9.0,data9,Access to green space,E06000042,Milton Keynes,100.144,100.144,100.144,100.144,100.144,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+569,9.0,data9,Access to green space,E06000043,Brighton and Hove,100.6668,100.6668,100.6668,100.6668,100.6668,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+583,9.0,data9,Access to green space,E06000044,Portsmouth,101.0961,101.0961,101.0961,101.0961,101.0961,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+597,9.0,data9,Access to green space,E06000045,Southampton,98.1957,98.1957,98.1957,98.1957,98.1957,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+611,9.0,data9,Access to green space,E06000046,Isle of Wight,101.0626,101.0626,101.0626,101.0626,101.0626,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+625,9.0,data9,Access to green space,E06000047,County Durham,102.5154,102.5154,102.5154,102.5154,102.5154,,,,,,,,,,,,,,,,,,,,,,E12000001,North East,0.0,0.0
+639,9.0,data9,Access to green space,E06000049,Cheshire East,99.83911,99.83911,99.83911,99.83911,99.83911,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+653,9.0,data9,Access to green space,E06000050,Cheshire West and Chester,101.3931,101.3931,101.3931,101.3931,101.3931,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+667,9.0,data9,Access to green space,E06000051,Shropshire,90.04931,90.04931,90.04931,90.04931,90.04931,,,,,,,,,,,,,,,,,,,,,,E12000005,West Midlands,0.0,0.0
+681,9.0,data9,Access to green space,E06000052,Cornwall,93.55789,93.55418,93.5393,93.53397,93.52916,,,,,,,,,,,,,,,,,,,,,,E12000009,South West,-0.028729999999995925,-0.004809999999991987
+695,9.0,data9,Access to green space,E06000054,Wiltshire,96.50095,96.50095,96.50095,96.50095,96.50095,,,,,,,,,,,,,,,,,,,,,,E12000009,South West,0.0,0.0
+709,9.0,data9,Access to green space,E06000055,Bedford,101.1508,101.1508,101.1508,101.1508,101.1508,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+723,9.0,data9,Access to green space,E06000056,Central Bedfordshire,95.46653,95.46653,95.46653,95.46653,95.46653,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+737,9.0,data9,Access to green space,E06000057,Northumberland,98.66655,98.66655,98.66655,98.66655,98.66655,,,,,,,,,,,,,,,,,,,,,,E12000001,North East,0.0,0.0
+751,9.0,data9,Access to green space,E06000058,"Bournemouth, Christchurch and Poole",101.4158,101.4158,101.4158,101.4158,101.4158,,,,,,,,,,,,,,,,,,,,,,E12000009,South West,0.0,0.0
+765,9.0,data9,Access to green space,E06000059,Dorset,96.19212,96.19212,96.19212,96.19212,96.19212,,,,,,,,,,,,,,,,,,,,,,E12000009,South West,0.0,0.0
+779,9.0,data9,Access to green space,E06000060,Buckinghamshire,100.2231,100.2231,100.2231,100.2231,100.2231,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+793,9.0,data9,Access to green space,E06000061,North Northamptonshire,101.1,101.1045,101.1112,101.1181,101.1293,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.02930000000000632,0.01120000000000232
+807,9.0,data9,Access to green space,E06000062,West Northamptonshire,96.41105,96.41391,96.38967,96.35155,96.31032,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,-0.10072999999999865,-0.04122999999999877
+821,9.0,data9,Access to green space,E07000008,Cambridge,94.47267,94.47267,94.47267,94.47267,94.47267,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+835,9.0,data9,Access to green space,E07000009,East Cambridgeshire,90.4621,90.4621,90.4621,90.4621,90.4621,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+849,9.0,data9,Access to green space,E07000010,Fenland,90.8159,90.8159,90.8159,90.8159,90.8159,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+863,9.0,data9,Access to green space,E07000011,Huntingdonshire,96.67888,96.67888,96.67888,96.67888,96.67888,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+877,9.0,data9,Access to green space,E07000012,South Cambridgeshire,95.68938,95.68938,95.68938,95.68938,95.68938,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+891,9.0,data9,Access to green space,E07000026,Allerdale,98.15218,98.15218,98.15218,98.15218,98.15218,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+905,9.0,data9,Access to green space,E07000027,Barrow-in-Furness,102.9735,102.9735,102.9735,102.9735,102.9735,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+919,9.0,data9,Access to green space,E07000028,Carlisle,102.6684,102.6684,102.6684,102.6684,102.6684,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+933,9.0,data9,Access to green space,E07000029,Copeland,98.68439,98.68439,98.68439,98.68439,98.68439,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+947,9.0,data9,Access to green space,E07000030,Eden,93.11807,93.11807,93.11807,93.11807,93.11807,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+961,9.0,data9,Access to green space,E07000031,South Lakeland,90.96165,90.96165,90.96165,90.96165,90.96165,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+975,9.0,data9,Access to green space,E07000032,Amber Valley,105.0933,105.0933,105.0933,105.0933,105.0933,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.0,0.0
+989,9.0,data9,Access to green space,E07000033,Bolsover,102.2988,102.2988,102.2988,102.2988,102.2988,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.0,0.0
+1003,9.0,data9,Access to green space,E07000034,Chesterfield,105.9689,105.9689,105.9689,105.9689,105.9689,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.0,0.0
+1017,9.0,data9,Access to green space,E07000035,the Derbyshire Dales,89.76855,89.76855,89.76855,89.76855,89.76855,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.0,0.0
+1031,9.0,data9,Access to green space,E07000036,Erewash,104.9632,104.9632,104.9632,104.9632,104.9632,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.0,0.0
+1045,9.0,data9,Access to green space,E07000037,High Peak,100.8592,100.8592,100.8592,100.8592,100.8592,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.0,0.0
+1059,9.0,data9,Access to green space,E07000038,North East Derbyshire,101.5142,101.5142,101.5142,101.5142,101.5142,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.0,0.0
+1073,9.0,data9,Access to green space,E07000039,South Derbyshire,95.48521,95.48521,95.48521,95.48521,95.48521,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.0,0.0
+1087,9.0,data9,Access to green space,E07000040,East Devon,97.28004,97.28004,97.28004,97.28004,97.28004,,,,,,,,,,,,,,,,,,,,,,E12000009,South West,0.0,0.0
+1101,9.0,data9,Access to green space,E07000041,Exeter,102.0654,102.0654,102.0654,102.0654,102.0654,,,,,,,,,,,,,,,,,,,,,,E12000009,South West,0.0,0.0
+1115,9.0,data9,Access to green space,E07000042,Mid Devon,92.31814,92.31814,92.31814,92.31814,92.31814,,,,,,,,,,,,,,,,,,,,,,E12000009,South West,0.0,0.0
+1129,9.0,data9,Access to green space,E07000043,North Devon,95.73185,95.73185,95.73185,95.73185,95.73185,,,,,,,,,,,,,,,,,,,,,,E12000009,South West,0.0,0.0
+1143,9.0,data9,Access to green space,E07000044,South Hams,91.58982,91.58982,91.58982,91.58982,91.58982,,,,,,,,,,,,,,,,,,,,,,E12000009,South West,0.0,0.0
+1157,9.0,data9,Access to green space,E07000045,Teignbridge,95.68145,95.68145,95.68145,95.68145,95.68145,,,,,,,,,,,,,,,,,,,,,,E12000009,South West,0.0,0.0
+1171,9.0,data9,Access to green space,E07000046,Torridge,89.8447,89.8447,89.8447,89.8447,89.8447,,,,,,,,,,,,,,,,,,,,,,E12000009,South West,0.0,0.0
+1185,9.0,data9,Access to green space,E07000047,West Devon,89.29038,89.29038,89.29038,89.29038,89.29038,,,,,,,,,,,,,,,,,,,,,,E12000009,South West,0.0,0.0
+1199,9.0,data9,Access to green space,E07000061,Eastbourne,99.83689,99.83689,99.83689,99.83689,99.83689,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+1213,9.0,data9,Access to green space,E07000062,Hastings,105.8728,105.8728,105.8728,105.8728,105.8728,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+1227,9.0,data9,Access to green space,E07000063,Lewes,99.74015,99.74015,99.74015,99.74015,99.74015,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+1241,9.0,data9,Access to green space,E07000064,Rother,91.87458,91.87458,91.87458,91.87458,91.87458,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+1255,9.0,data9,Access to green space,E07000065,Wealden,91.95103,91.95103,91.95103,91.95103,91.95103,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+1269,9.0,data9,Access to green space,E07000066,Basildon,102.8011,102.8011,102.8011,102.8011,102.8011,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+1283,9.0,data9,Access to green space,E07000067,Braintree,100.1376,100.1376,100.1376,100.1376,100.1376,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+1297,9.0,data9,Access to green space,E07000068,Brentwood,97.89902,97.89902,97.89902,97.89902,97.89902,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+1311,9.0,data9,Access to green space,E07000069,Castle Point,102.9501,102.9501,102.9501,102.9501,102.9501,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+1325,9.0,data9,Access to green space,E07000070,Chelmsford,98.42356,98.42356,98.42356,98.42356,98.42356,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+1339,9.0,data9,Access to green space,E07000071,Colchester,95.50489,95.50489,95.50489,95.50489,95.50489,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+1353,9.0,data9,Access to green space,E07000072,Epping Forest,96.45772,96.45772,96.45772,96.45772,96.45772,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+1367,9.0,data9,Access to green space,E07000073,Harlow,104.6424,104.6424,104.6424,104.6424,104.6424,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+1381,9.0,data9,Access to green space,E07000074,Maldon,94.46515,94.46515,94.46515,94.46515,94.46515,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+1395,9.0,data9,Access to green space,E07000075,Rochford,99.99137,99.99137,99.99137,99.99137,99.99137,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+1409,9.0,data9,Access to green space,E07000076,Tendring,96.29792,96.29792,96.29792,96.29792,96.29792,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+1423,9.0,data9,Access to green space,E07000077,Uttlesford,95.50494,95.50494,95.50494,95.50494,95.50494,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+1437,9.0,data9,Access to green space,E07000078,Cheltenham,104.2751,104.2751,104.2751,104.2751,104.2751,,,,,,,,,,,,,,,,,,,,,,E12000009,South West,0.0,0.0
+1451,9.0,data9,Access to green space,E07000079,Cotswold,92.89512,92.89512,92.89512,92.89512,92.89512,,,,,,,,,,,,,,,,,,,,,,E12000009,South West,0.0,0.0
+1465,9.0,data9,Access to green space,E07000080,Forest of Dean,87.61838,87.61838,87.61838,87.61838,87.61838,,,,,,,,,,,,,,,,,,,,,,E12000009,South West,0.0,0.0
+1479,9.0,data9,Access to green space,E07000081,Gloucester,105.3083,105.3083,105.3083,105.3083,105.3083,,,,,,,,,,,,,,,,,,,,,,E12000009,South West,0.0,0.0
+1493,9.0,data9,Access to green space,E07000082,Stroud,100.6909,100.6909,100.6909,100.6909,100.6909,,,,,,,,,,,,,,,,,,,,,,E12000009,South West,0.0,0.0
+1507,9.0,data9,Access to green space,E07000083,Tewkesbury,96.37346,96.37346,96.37346,96.37346,96.37346,,,,,,,,,,,,,,,,,,,,,,E12000009,South West,0.0,0.0
+1521,9.0,data9,Access to green space,E07000084,Basingstoke and Deane,101.6017,101.6017,101.6017,101.6017,101.6017,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+1535,9.0,data9,Access to green space,E07000085,East Hampshire,96.60025,96.60025,96.60025,96.60025,96.60025,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+1549,9.0,data9,Access to green space,E07000086,Eastleigh,103.1265,103.1265,103.1265,103.1265,103.1265,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+1563,9.0,data9,Access to green space,E07000087,Fareham,103.9904,103.9904,103.9904,103.9904,103.9904,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+1577,9.0,data9,Access to green space,E07000088,Gosport,104.4816,104.4816,104.4816,104.4816,104.4816,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+1591,9.0,data9,Access to green space,E07000089,Hart,106.1897,106.1897,106.1897,106.1897,106.1897,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+1605,9.0,data9,Access to green space,E07000090,Havant,98.691,98.691,98.691,98.691,98.691,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+1619,9.0,data9,Access to green space,E07000091,New Forest,99.14726,99.14726,99.14726,99.14726,99.14726,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+1633,9.0,data9,Access to green space,E07000092,Rushmoor,104.6431,104.6431,104.6431,104.6431,104.6431,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+1647,9.0,data9,Access to green space,E07000093,Test Valley,96.41548,96.41548,96.41548,96.41548,96.41548,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+1661,9.0,data9,Access to green space,E07000094,Winchester,88.50842,88.50842,88.50842,88.50842,88.50842,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+1675,9.0,data9,Access to green space,E07000095,Broxbourne,102.0424,102.0424,102.0424,102.0424,102.0424,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+1689,9.0,data9,Access to green space,E07000096,Dacorum,97.74266,97.74266,97.74266,97.74266,97.74266,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+1703,9.0,data9,Access to green space,E07000098,Hertsmere,96.17244,96.17244,96.17244,96.17244,96.17244,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+1717,9.0,data9,Access to green space,E07000099,North Hertfordshire,94.60656,94.60656,94.60656,94.60656,94.60656,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+1731,9.0,data9,Access to green space,E07000102,Three Rivers,98.13226,98.13226,98.13226,98.13226,98.13226,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+1745,9.0,data9,Access to green space,E07000103,Watford,95.90599,95.90599,95.90599,95.90599,95.90599,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+1759,9.0,data9,Access to green space,E07000105,Ashford,96.48658,96.48658,96.48658,96.48658,96.48658,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+1773,9.0,data9,Access to green space,E07000106,Canterbury,101.4926,101.4926,101.4926,101.4926,101.4926,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+1787,9.0,data9,Access to green space,E07000107,Dartford,103.2135,103.2135,103.2135,103.2135,103.2135,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+1801,9.0,data9,Access to green space,E07000108,Dover,100.4991,100.4991,100.4991,100.4991,100.4991,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+1815,9.0,data9,Access to green space,E07000109,Gravesham,106.8375,106.8375,106.8375,106.8375,106.8375,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+1829,9.0,data9,Access to green space,E07000110,Maidstone,95.18145,95.18145,95.18145,95.18145,95.18145,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+1843,9.0,data9,Access to green space,E07000111,Sevenoaks,95.5185,95.5185,95.5185,95.5185,95.5185,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+1857,9.0,data9,Access to green space,E07000112,Folkestone and Hythe,102.0916,102.0916,102.0916,102.0916,102.0916,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+1871,9.0,data9,Access to green space,E07000113,Swale,98.87678,98.87678,98.87678,98.87678,98.87678,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+1885,9.0,data9,Access to green space,E07000114,Thanet,107.1329,107.1329,107.1329,107.1329,107.1329,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+1899,9.0,data9,Access to green space,E07000115,Tonbridge and Malling,98.56423,98.56423,98.56423,98.56423,98.56423,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+1913,9.0,data9,Access to green space,E07000116,Tunbridge Wells,95.77287,95.77287,95.77287,95.77287,95.77287,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+1927,9.0,data9,Access to green space,E07000117,Burnley,108.1217,108.1217,108.1217,108.1217,108.1217,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+1941,9.0,data9,Access to green space,E07000118,Chorley,102.5171,102.5171,102.5171,102.5171,102.5171,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+1955,9.0,data9,Access to green space,E07000119,Fylde,98.10837,98.10837,98.10837,98.10837,98.10837,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+1969,9.0,data9,Access to green space,E07000120,Hyndburn,110.6862,110.6862,110.6862,110.6862,110.6862,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+1983,9.0,data9,Access to green space,E07000121,Lancaster,97.93918,97.93918,97.93918,97.93918,97.93918,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+1997,9.0,data9,Access to green space,E07000122,Pendle,105.8439,105.8439,105.8439,105.8439,105.8439,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+2011,9.0,data9,Access to green space,E07000123,Preston,100.159,100.159,100.159,100.159,100.159,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+2025,9.0,data9,Access to green space,E07000124,Ribble Valley,96.19242,96.19242,96.19242,96.19242,96.19242,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+2039,9.0,data9,Access to green space,E07000125,Rossendale,103.4361,103.4361,103.4361,103.4361,103.4361,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+2053,9.0,data9,Access to green space,E07000126,South Ribble,104.4923,104.4923,104.4923,104.4923,104.4923,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+2067,9.0,data9,Access to green space,E07000127,West Lancashire,97.42722,97.42722,97.42722,97.42722,97.42722,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+2081,9.0,data9,Access to green space,E07000128,Wyre,101.8607,101.8607,101.8607,101.8607,101.8607,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+2095,9.0,data9,Access to green space,E07000129,Blaby,97.94594,97.94594,97.94594,97.94594,97.94594,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.0,0.0
+2109,9.0,data9,Access to green space,E07000130,Charnwood,103.3561,103.3561,103.3561,103.3561,103.3561,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.0,0.0
+2123,9.0,data9,Access to green space,E07000131,Harborough,87.97762,87.97762,87.97762,87.97762,87.97762,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.0,0.0
+2137,9.0,data9,Access to green space,E07000132,Hinckley and Bosworth,100.2274,100.2274,100.2274,100.2274,100.2274,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.0,0.0
+2151,9.0,data9,Access to green space,E07000133,Melton,95.53809,95.53809,95.53809,95.53809,95.53809,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.0,0.0
+2165,9.0,data9,Access to green space,E07000134,North West Leicestershire,98.21446,98.21446,98.21446,98.21446,98.21446,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.0,0.0
+2179,9.0,data9,Access to green space,E07000135,Oadby and Wigston,104.6704,104.6704,104.6704,104.6704,104.6704,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.0,0.0
+2193,9.0,data9,Access to green space,E07000136,Boston,98.41354,98.41354,98.41354,98.41354,98.41354,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.0,0.0
+2207,9.0,data9,Access to green space,E07000137,East Lindsey,91.54541,91.54541,91.54541,91.54541,91.54541,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.0,0.0
+2221,9.0,data9,Access to green space,E07000138,Lincoln,103.4167,103.4167,103.4167,103.4167,103.4167,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.0,0.0
+2235,9.0,data9,Access to green space,E07000139,North Kesteven,98.42125,98.42125,98.42125,98.42125,98.42125,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.0,0.0
+2249,9.0,data9,Access to green space,E07000140,South Holland,97.98729,97.98729,97.98729,97.98729,97.98729,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.0,0.0
+2263,9.0,data9,Access to green space,E07000141,South Kesteven,99.03532,99.03532,99.03532,99.03532,99.03532,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.0,0.0
+2277,9.0,data9,Access to green space,E07000142,West Lindsey,93.68931,93.68931,93.68931,93.68931,93.68931,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.0,0.0
+2291,9.0,data9,Access to green space,E07000143,Breckland,95.75646,95.75646,95.75646,95.75646,95.75646,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+2305,9.0,data9,Access to green space,E07000144,Broadland,99.88492,99.88492,99.88492,99.88492,99.88492,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+2319,9.0,data9,Access to green space,E07000145,Great Yarmouth,100.2338,100.2338,100.2338,100.2338,100.2338,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+2333,9.0,data9,Access to green space,E07000146,King's Lynn and West Norfolk,92.77279,92.77279,92.77279,92.77279,92.77279,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+2347,9.0,data9,Access to green space,E07000147,North Norfolk,95.57692,95.57692,95.57692,95.57692,95.57692,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+2361,9.0,data9,Access to green space,E07000148,Norwich,96.41711,96.41711,96.41711,96.41711,96.41711,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+2375,9.0,data9,Access to green space,E07000149,South Norfolk,97.00377,97.00377,97.00377,97.00377,97.00377,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+2389,9.0,data9,Access to green space,E07000163,Craven,91.36773,91.36773,91.36773,91.36773,91.36773,,,,,,,,,,,,,,,,,,,,,,E12000003,Yorkshire and The Humber,0.0,0.0
+2403,9.0,data9,Access to green space,E07000164,Hambleton,93.11515,93.11515,93.11515,93.11515,93.11515,,,,,,,,,,,,,,,,,,,,,,E12000003,Yorkshire and The Humber,0.0,0.0
+2417,9.0,data9,Access to green space,E07000165,Harrogate,100.3267,100.3267,100.3267,100.3267,100.3267,,,,,,,,,,,,,,,,,,,,,,E12000003,Yorkshire and The Humber,0.0,0.0
+2431,9.0,data9,Access to green space,E07000166,Richmondshire,90.94741,90.94741,90.94741,90.94741,90.94741,,,,,,,,,,,,,,,,,,,,,,E12000003,Yorkshire and The Humber,0.0,0.0
+2445,9.0,data9,Access to green space,E07000167,Ryedale,88.80192,88.80192,88.80192,88.80192,88.80192,,,,,,,,,,,,,,,,,,,,,,E12000003,Yorkshire and The Humber,0.0,0.0
+2459,9.0,data9,Access to green space,E07000168,Scarborough,96.93193,96.93193,96.93193,96.93193,96.93193,,,,,,,,,,,,,,,,,,,,,,E12000003,Yorkshire and The Humber,0.0,0.0
+2473,9.0,data9,Access to green space,E07000169,Selby,94.16048,94.16048,94.16048,94.16048,94.16048,,,,,,,,,,,,,,,,,,,,,,E12000003,Yorkshire and The Humber,0.0,0.0
+2487,9.0,data9,Access to green space,E07000170,Ashfield,105.9412,105.9412,105.9412,105.9412,105.9412,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.0,0.0
+2501,9.0,data9,Access to green space,E07000171,Bassetlaw,96.38664,96.38664,96.38664,96.38664,96.38664,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.0,0.0
+2515,9.0,data9,Access to green space,E07000172,Broxtowe,105.9331,105.9331,105.9331,105.9331,105.9331,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.0,0.0
+2529,9.0,data9,Access to green space,E07000173,Gedling,101.7364,101.7364,101.7364,101.7364,101.7364,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.0,0.0
+2543,9.0,data9,Access to green space,E07000174,Mansfield,106.2113,106.2113,106.2113,106.2113,106.2113,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.0,0.0
+2557,9.0,data9,Access to green space,E07000175,Newark and Sherwood,94.12229,94.12229,94.12229,94.12229,94.12229,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.0,0.0
+2571,9.0,data9,Access to green space,E07000176,Rushcliffe,93.37895,93.37895,93.37895,93.37895,93.37895,,,,,,,,,,,,,,,,,,,,,,E12000004,East Midlands,0.0,0.0
+2585,9.0,data9,Access to green space,E07000177,Cherwell,97.165,97.165,97.165,97.165,97.165,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+2599,9.0,data9,Access to green space,E07000178,Oxford,98.74476,98.74476,98.74476,98.74476,98.74476,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+2613,9.0,data9,Access to green space,E07000179,South Oxfordshire,96.82669,96.82669,96.82669,96.82669,96.82669,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+2627,9.0,data9,Access to green space,E07000180,Vale of White Horse,94.42948,94.42948,94.42948,94.42948,94.42948,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+2641,9.0,data9,Access to green space,E07000181,West Oxfordshire,92.5944,92.5944,92.5944,92.5944,92.5944,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+2655,9.0,data9,Access to green space,E07000187,Mendip,96.60866,96.60866,96.60866,96.60866,96.60866,,,,,,,,,,,,,,,,,,,,,,E12000009,South West,0.0,0.0
+2669,9.0,data9,Access to green space,E07000188,Sedgemoor,92.63305,92.63305,92.63305,92.63305,92.63305,,,,,,,,,,,,,,,,,,,,,,E12000009,South West,0.0,0.0
+2683,9.0,data9,Access to green space,E07000189,South Somerset,92.81193,92.81193,92.81193,92.81193,92.81193,,,,,,,,,,,,,,,,,,,,,,E12000009,South West,0.0,0.0
+2697,9.0,data9,Access to green space,E07000192,Cannock Chase,107.7631,107.7631,107.7631,107.7631,107.7631,,,,,,,,,,,,,,,,,,,,,,E12000005,West Midlands,0.0,0.0
+2711,9.0,data9,Access to green space,E07000193,East Staffordshire,93.52503,93.52503,93.52503,93.52503,93.52503,,,,,,,,,,,,,,,,,,,,,,E12000005,West Midlands,0.0,0.0
+2725,9.0,data9,Access to green space,E07000194,Lichfield,100.8475,100.8475,100.8475,100.8475,100.8475,,,,,,,,,,,,,,,,,,,,,,E12000005,West Midlands,0.0,0.0
+2739,9.0,data9,Access to green space,E07000195,Newcastle-under-Lyme,104.1327,104.1327,104.1327,104.1327,104.1327,,,,,,,,,,,,,,,,,,,,,,E12000005,West Midlands,0.0,0.0
+2753,9.0,data9,Access to green space,E07000196,South Staffordshire,99.00846,99.00846,99.00846,99.00846,99.00846,,,,,,,,,,,,,,,,,,,,,,E12000005,West Midlands,0.0,0.0
+2767,9.0,data9,Access to green space,E07000197,Stafford,98.58217,98.58217,98.58217,98.58217,98.58217,,,,,,,,,,,,,,,,,,,,,,E12000005,West Midlands,0.0,0.0
+2781,9.0,data9,Access to green space,E07000198,Staffordshire Moorlands,102.6016,102.6016,102.6016,102.6016,102.6016,,,,,,,,,,,,,,,,,,,,,,E12000005,West Midlands,0.0,0.0
+2795,9.0,data9,Access to green space,E07000199,Tamworth,105.3972,105.3972,105.3972,105.3972,105.3972,,,,,,,,,,,,,,,,,,,,,,E12000005,West Midlands,0.0,0.0
+2809,9.0,data9,Access to green space,E07000200,Babergh,97.30918,97.30918,97.30918,97.30918,97.30918,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+2823,9.0,data9,Access to green space,E07000202,Ipswich,101.8766,101.8766,101.8766,101.8766,101.8766,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+2837,9.0,data9,Access to green space,E07000203,Mid Suffolk,93.54686,93.54686,93.54686,93.54686,93.54686,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+2851,9.0,data9,Access to green space,E07000207,Elmbridge,102.5505,102.5505,102.5505,102.5505,102.5505,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+2865,9.0,data9,Access to green space,E07000208,Epsom and Ewell,103.4534,103.4534,103.4534,103.4534,103.4534,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+2879,9.0,data9,Access to green space,E07000209,Guildford,101.4163,101.4163,101.4163,101.4163,101.4163,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+2893,9.0,data9,Access to green space,E07000210,Mole Valley,99.92363,99.92363,99.92363,99.92363,99.92363,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+2907,9.0,data9,Access to green space,E07000211,Reigate and Banstead,99.03183,99.03183,99.03183,99.03183,99.03183,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+2921,9.0,data9,Access to green space,E07000212,Runnymede,101.9585,101.9585,101.9585,101.9585,101.9585,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+2935,9.0,data9,Access to green space,E07000213,Spelthorne,103.4361,103.4361,103.4361,103.4361,103.4361,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+2949,9.0,data9,Access to green space,E07000214,Surrey Heath,102.9326,102.9326,102.9326,102.9326,102.9326,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+2963,9.0,data9,Access to green space,E07000215,Tandridge,98.34806,98.34806,98.34806,98.34806,98.34806,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+2977,9.0,data9,Access to green space,E07000216,Waverley,100.2875,100.2875,100.2875,100.2875,100.2875,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+2991,9.0,data9,Access to green space,E07000217,Woking,102.554,102.554,102.554,102.554,102.554,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+3005,9.0,data9,Access to green space,E07000218,North Warwickshire,99.08827,99.08827,99.08827,99.08827,99.08827,,,,,,,,,,,,,,,,,,,,,,E12000005,West Midlands,0.0,0.0
+3019,9.0,data9,Access to green space,E07000219,Nuneaton and Bedworth,103.7211,103.7211,103.7211,103.7211,103.7211,,,,,,,,,,,,,,,,,,,,,,E12000005,West Midlands,0.0,0.0
+3033,9.0,data9,Access to green space,E07000220,Rugby,95.6738,95.6738,95.6738,95.6738,95.6738,,,,,,,,,,,,,,,,,,,,,,E12000005,West Midlands,0.0,0.0
+3047,9.0,data9,Access to green space,E07000221,Stratford-on-Avon,91.43704,91.43704,91.43704,91.43704,91.43704,,,,,,,,,,,,,,,,,,,,,,E12000005,West Midlands,0.0,0.0
+3061,9.0,data9,Access to green space,E07000222,Warwick,102.2908,102.2908,102.2908,102.2908,102.2908,,,,,,,,,,,,,,,,,,,,,,E12000005,West Midlands,0.0,0.0
+3075,9.0,data9,Access to green space,E07000223,Adur,103.3058,103.3058,103.3058,103.3058,103.3058,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+3089,9.0,data9,Access to green space,E07000224,Arun,100.2249,100.2249,100.2249,100.2249,100.2249,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+3103,9.0,data9,Access to green space,E07000225,Chichester,91.39438,91.39438,91.39438,91.39438,91.39438,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+3117,9.0,data9,Access to green space,E07000226,Crawley,101.2493,101.2493,101.2493,101.2493,101.2493,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+3131,9.0,data9,Access to green space,E07000227,Horsham,92.6795,92.6795,92.6795,92.6795,92.6795,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+3145,9.0,data9,Access to green space,E07000228,Mid Sussex,96.24998,96.24998,96.24998,96.24998,96.24998,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+3159,9.0,data9,Access to green space,E07000229,Worthing,101.3554,101.3554,101.3554,101.3554,101.3554,,,,,,,,,,,,,,,,,,,,,,E12000008,South East,0.0,0.0
+3173,9.0,data9,Access to green space,E07000234,Bromsgrove,99.24292,99.24292,99.24292,99.24292,99.24292,,,,,,,,,,,,,,,,,,,,,,E12000005,West Midlands,0.0,0.0
+3187,9.0,data9,Access to green space,E07000235,Malvern Hills,97.20694,97.20694,97.20694,97.20694,97.20694,,,,,,,,,,,,,,,,,,,,,,E12000005,West Midlands,0.0,0.0
+3201,9.0,data9,Access to green space,E07000236,Redditch,106.3861,106.3861,106.3861,106.3861,106.3861,,,,,,,,,,,,,,,,,,,,,,E12000005,West Midlands,0.0,0.0
+3215,9.0,data9,Access to green space,E07000237,Worcester,104.1572,104.1572,104.1572,104.1572,104.1572,,,,,,,,,,,,,,,,,,,,,,E12000005,West Midlands,0.0,0.0
+3229,9.0,data9,Access to green space,E07000238,Wychavon,99.44112,99.44112,99.44112,99.44112,99.44112,,,,,,,,,,,,,,,,,,,,,,E12000005,West Midlands,0.0,0.0
+3243,9.0,data9,Access to green space,E07000239,Wyre Forest,102.616,102.616,102.616,102.616,102.616,,,,,,,,,,,,,,,,,,,,,,E12000005,West Midlands,0.0,0.0
+3257,9.0,data9,Access to green space,E07000240,St Albans,98.19553,98.19553,98.19553,98.19553,98.19553,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+3271,9.0,data9,Access to green space,E07000241,Welwyn Hatfield,94.73194,94.73194,94.73194,94.73194,94.73194,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+3285,9.0,data9,Access to green space,E07000242,East Hertfordshire,87.04022,87.04022,87.04022,87.04022,87.04022,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+3299,9.0,data9,Access to green space,E07000243,Stevenage,100.2549,100.2549,100.2549,100.2549,100.2549,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+3313,9.0,data9,Access to green space,E07000244,East Suffolk,100.1442,100.1442,100.1442,100.1442,100.1442,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+3327,9.0,data9,Access to green space,E07000245,West Suffolk,96.80152,96.80152,96.80152,96.80152,96.80152,,,,,,,,,,,,,,,,,,,,,,E12000006,East of England,0.0,0.0
+3341,9.0,data9,Access to green space,E07000246,Somerset West and Taunton,97.08933,97.08933,97.08933,97.08933,97.08933,,,,,,,,,,,,,,,,,,,,,,E12000009,South West,0.0,0.0
+3355,9.0,data9,Access to green space,E08000001,Bolton,104.2937,104.2937,104.2937,104.2937,104.2937,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+3369,9.0,data9,Access to green space,E08000002,Bury,107.636,107.636,107.636,107.636,107.636,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+3383,9.0,data9,Access to green space,E08000003,Manchester,96.38733,96.38733,96.38733,96.38733,96.38733,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+3397,9.0,data9,Access to green space,E08000004,Oldham,102.9105,102.9105,102.9105,102.9105,102.9105,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+3411,9.0,data9,Access to green space,E08000005,Rochdale,104.4915,104.4915,104.4915,104.4915,104.4915,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+3425,9.0,data9,Access to green space,E08000006,Salford,97.21454,97.21454,97.21454,97.21454,97.21454,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+3439,9.0,data9,Access to green space,E08000007,Stockport,105.6523,105.6523,105.6523,105.6523,105.6523,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+3453,9.0,data9,Access to green space,E08000008,Tameside,106.5071,106.5071,106.5071,106.5071,106.5071,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+3467,9.0,data9,Access to green space,E08000009,Trafford,106.62,106.62,106.62,106.62,106.62,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+3481,9.0,data9,Access to green space,E08000010,Wigan,106.1067,106.1067,106.1067,106.1067,106.1067,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+3495,9.0,data9,Access to green space,E08000011,Knowsley,110.7701,110.7701,110.7701,110.7701,110.7701,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+3509,9.0,data9,Access to green space,E08000012,Liverpool,102.2009,102.2009,102.2009,102.2009,102.2009,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+3523,9.0,data9,Access to green space,E08000013,St. Helens,110.7697,110.7697,110.7697,110.7697,110.7697,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+3537,9.0,data9,Access to green space,E08000014,Sefton,106.7356,106.7356,106.7356,106.7356,106.7356,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+3551,9.0,data9,Access to green space,E08000015,Wirral,109.415,109.415,109.415,109.415,109.415,,,,,,,,,,,,,,,,,,,,,,E12000002,North West,0.0,0.0
+3565,9.0,data9,Access to green space,E08000016,Barnsley,104.9168,104.9168,104.9168,104.9168,104.9168,,,,,,,,,,,,,,,,,,,,,,E12000003,Yorkshire and The Humber,0.0,0.0
+3579,9.0,data9,Access to green space,E08000017,Doncaster,101.4137,101.4137,101.4137,101.4137,101.4137,,,,,,,,,,,,,,,,,,,,,,E12000003,Yorkshire and The Humber,0.0,0.0
+3593,9.0,data9,Access to green space,E08000018,Rotherham,105.3268,105.3268,105.3268,105.3268,105.3268,,,,,,,,,,,,,,,,,,,,,,E12000003,Yorkshire and The Humber,0.0,0.0
+3607,9.0,data9,Access to green space,E08000019,Sheffield,100.0083,100.0083,100.0083,100.0083,100.0083,,,,,,,,,,,,,,,,,,,,,,E12000003,Yorkshire and The Humber,0.0,0.0
+3621,9.0,data9,Access to green space,E08000021,Newcastle upon Tyne,104.1366,104.1366,104.1366,104.1366,104.1366,,,,,,,,,,,,,,,,,,,,,,E12000001,North East,0.0,0.0
+3635,9.0,data9,Access to green space,E08000022,North Tyneside,110.3447,110.3447,110.3447,110.3447,110.3447,,,,,,,,,,,,,,,,,,,,,,E12000001,North East,0.0,0.0
+3649,9.0,data9,Access to green space,E08000023,South Tyneside,114.0176,114.0176,114.0176,114.0176,114.0176,,,,,,,,,,,,,,,,,,,,,,E12000001,North East,0.0,0.0
+3663,9.0,data9,Access to green space,E08000024,Sunderland,107.3377,107.3377,107.3377,107.3377,107.3377,,,,,,,,,,,,,,,,,,,,,,E12000001,North East,0.0,0.0
+3677,9.0,data9,Access to green space,E08000025,Birmingham,100.6297,100.6297,100.6297,100.6297,100.6297,,,,,,,,,,,,,,,,,,,,,,E12000005,West Midlands,0.0,0.0
+3691,9.0,data9,Access to green space,E08000026,Coventry,98.03013,98.03013,98.03013,98.03013,98.03013,,,,,,,,,,,,,,,,,,,,,,E12000005,West Midlands,0.0,0.0
+3705,9.0,data9,Access to green space,E08000027,Dudley,106.3242,106.3242,106.3242,106.3242,106.3242,,,,,,,,,,,,,,,,,,,,,,E12000005,West Midlands,0.0,0.0
+3719,9.0,data9,Access to green space,E08000028,Sandwell,107.5377,107.5377,107.5377,107.5377,107.5377,,,,,,,,,,,,,,,,,,,,,,E12000005,West Midlands,0.0,0.0
+3733,9.0,data9,Access to green space,E08000029,Solihull,97.56575,97.56575,97.56575,97.56575,97.56575,,,,,,,,,,,,,,,,,,,,,,E12000005,West Midlands,0.0,0.0
+3747,9.0,data9,Access to green space,E08000030,Walsall,102.5716,102.5716,102.5716,102.5716,102.5716,,,,,,,,,,,,,,,,,,,,,,E12000005,West Midlands,0.0,0.0
+3761,9.0,data9,Access to green space,E08000031,Wolverhampton,101.4636,101.4636,101.4636,101.4636,101.4636,,,,,,,,,,,,,,,,,,,,,,E12000005,West Midlands,0.0,0.0
+3775,9.0,data9,Access to green space,E08000032,Bradford,98.97444,98.97444,98.97444,98.97444,98.97444,,,,,,,,,,,,,,,,,,,,,,E12000003,Yorkshire and The Humber,0.0,0.0
+3789,9.0,data9,Access to green space,E08000033,Calderdale,96.28579,96.28579,96.28579,96.28579,96.28579,,,,,,,,,,,,,,,,,,,,,,E12000003,Yorkshire and The Humber,0.0,0.0
+3803,9.0,data9,Access to green space,E08000034,Kirklees,98.12942,98.12942,98.12942,98.12942,98.12942,,,,,,,,,,,,,,,,,,,,,,E12000003,Yorkshire and The Humber,0.0,0.0
+3817,9.0,data9,Access to green space,E08000035,Leeds,96.37673,96.37673,96.37673,96.37673,96.37673,,,,,,,,,,,,,,,,,,,,,,E12000003,Yorkshire and The Humber,0.0,0.0
+3831,9.0,data9,Access to green space,E08000036,Wakefield,102.5139,102.5139,102.5139,102.5139,102.5139,,,,,,,,,,,,,,,,,,,,,,E12000003,Yorkshire and The Humber,0.0,0.0
+3845,9.0,data9,Access to green space,E08000037,Gateshead,106.8857,106.8857,106.8857,106.8857,106.8857,,,,,,,,,,,,,,,,,,,,,,E12000001,North East,0.0,0.0
+3859,9.0,data9,Access to green space,E09000002,Barking and Dagenham,103.305,103.305,103.305,103.305,103.305,,,,,,,,,,,,,,,,,,,,,,E12000007,London,0.0,0.0
+3873,9.0,data9,Access to green space,E09000003,Barnet,98.00658,98.00658,98.00658,98.00658,98.00658,,,,,,,,,,,,,,,,,,,,,,E12000007,London,0.0,0.0
+3887,9.0,data9,Access to green space,E09000004,Bexley,102.4138,102.4138,102.4138,102.4138,102.4138,,,,,,,,,,,,,,,,,,,,,,E12000007,London,0.0,0.0
+3901,9.0,data9,Access to green space,E09000005,Brent,98.68936,98.68936,98.68936,98.68936,98.68936,,,,,,,,,,,,,,,,,,,,,,E12000007,London,0.0,0.0
+3915,9.0,data9,Access to green space,E09000006,Bromley,100.8062,100.8062,100.8062,100.8062,100.8062,,,,,,,,,,,,,,,,,,,,,,E12000007,London,0.0,0.0
+3929,9.0,data9,Access to green space,E09000007,Camden,87.18741,87.18741,87.18741,87.18741,87.18741,,,,,,,,,,,,,,,,,,,,,,E12000007,London,0.0,0.0
+3943,9.0,data9,Access to green space,E09000008,Croydon,99.18966,99.18966,99.18966,99.18966,99.18966,,,,,,,,,,,,,,,,,,,,,,E12000007,London,0.0,0.0
+3957,9.0,data9,Access to green space,E09000009,Ealing,100.9668,100.9668,100.9668,100.9668,100.9668,,,,,,,,,,,,,,,,,,,,,,E12000007,London,0.0,0.0
+3971,9.0,data9,Access to green space,E09000010,Enfield,100.5095,100.5095,100.5095,100.5095,100.5095,,,,,,,,,,,,,,,,,,,,,,E12000007,London,0.0,0.0
+3985,9.0,data9,Access to green space,E09000011,Greenwich,98.26088,98.26088,98.26088,98.26088,98.26088,,,,,,,,,,,,,,,,,,,,,,E12000007,London,0.0,0.0
+3999,9.0,data9,Access to green space,E09000012,Hackney,93.1593,93.15235,93.14715,93.13277,93.11826,,,,,,,,,,,,,,,,,,,,,,E12000007,London,-0.0410399999999953,-0.014509999999987144
+4013,9.0,data9,Access to green space,E09000013,Hammersmith and Fulham,100.8157,100.8157,100.8157,100.8157,100.8157,,,,,,,,,,,,,,,,,,,,,,E12000007,London,0.0,0.0
+4027,9.0,data9,Access to green space,E09000014,Haringey,103.2367,103.2367,103.2367,103.2367,103.2367,,,,,,,,,,,,,,,,,,,,,,E12000007,London,0.0,0.0
+4041,9.0,data9,Access to green space,E09000015,Harrow,98.03996,98.03996,98.03996,98.03996,98.03996,,,,,,,,,,,,,,,,,,,,,,E12000007,London,0.0,0.0
+4055,9.0,data9,Access to green space,E09000016,Havering,105.1739,105.1739,105.1739,105.1739,105.1739,,,,,,,,,,,,,,,,,,,,,,E12000007,London,0.0,0.0
+4069,9.0,data9,Access to green space,E09000017,Hillingdon,101.2029,101.2029,101.2029,101.2029,101.2029,,,,,,,,,,,,,,,,,,,,,,E12000007,London,0.0,0.0
+4083,9.0,data9,Access to green space,E09000018,Hounslow,98.52228,98.52228,98.52228,98.52228,98.52228,,,,,,,,,,,,,,,,,,,,,,E12000007,London,0.0,0.0
+4097,9.0,data9,Access to green space,E09000019,Islington,95.46879,95.46879,95.46879,95.46879,95.46879,,,,,,,,,,,,,,,,,,,,,,E12000007,London,0.0,0.0
+4111,9.0,data9,Access to green space,E09000020,Kensington and Chelsea,100.2172,100.2172,100.2172,100.2172,100.2172,,,,,,,,,,,,,,,,,,,,,,E12000007,London,0.0,0.0
+4125,9.0,data9,Access to green space,E09000021,Kingston upon Thames,98.79875,98.79875,98.79875,98.79875,98.79875,,,,,,,,,,,,,,,,,,,,,,E12000007,London,0.0,0.0
+4139,9.0,data9,Access to green space,E09000022,Lambeth,96.24857,96.24857,96.24857,96.24857,96.24857,,,,,,,,,,,,,,,,,,,,,,E12000007,London,0.0,0.0
+4153,9.0,data9,Access to green space,E09000023,Lewisham,101.6458,101.6458,101.6458,101.6458,101.6458,,,,,,,,,,,,,,,,,,,,,,E12000007,London,0.0,0.0
+4167,9.0,data9,Access to green space,E09000024,Merton,105.2021,105.2021,105.2021,105.2021,105.2021,,,,,,,,,,,,,,,,,,,,,,E12000007,London,0.0,0.0
+4181,9.0,data9,Access to green space,E09000025,Newham,100.998,100.998,100.998,100.998,100.998,,,,,,,,,,,,,,,,,,,,,,E12000007,London,0.0,0.0
+4195,9.0,data9,Access to green space,E09000026,Redbridge,104.0893,104.0893,104.0893,104.0893,104.0893,,,,,,,,,,,,,,,,,,,,,,E12000007,London,0.0,0.0
+4209,9.0,data9,Access to green space,E09000027,Richmond upon Thames,105.2684,105.2684,105.2684,105.2684,105.2684,,,,,,,,,,,,,,,,,,,,,,E12000007,London,0.0,0.0
+4223,9.0,data9,Access to green space,E09000028,Southwark,92.96588,92.96588,92.96588,92.96588,92.96588,,,,,,,,,,,,,,,,,,,,,,E12000007,London,0.0,0.0
+4237,9.0,data9,Access to green space,E09000029,Sutton,104.0137,104.0137,104.0137,104.0137,104.0137,,,,,,,,,,,,,,,,,,,,,,E12000007,London,0.0,0.0
+4251,9.0,data9,Access to green space,E09000030,Tower Hamlets,90.57349,90.57349,90.57349,90.57349,90.57349,,,,,,,,,,,,,,,,,,,,,,E12000007,London,0.0,0.0
+4265,9.0,data9,Access to green space,E09000031,Waltham Forest,102.4626,102.4626,102.4626,102.4626,102.4626,,,,,,,,,,,,,,,,,,,,,,E12000007,London,0.0,0.0
+4279,9.0,data9,Access to green space,E09000032,Wandsworth,93.16948,93.16948,93.16948,93.16948,93.16948,,,,,,,,,,,,,,,,,,,,,,E12000007,London,0.0,0.0
+4293,9.0,data9,Access to green space,E09000033,Westminster,89.23584,89.23584,89.23584,89.23584,89.23584,,,,,,,,,,,,,,,,,,,,,,E12000007,London,0.0,0.0
