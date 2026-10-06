@@ -1,0 +1,25 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "dateFormat": "%d/%m/%Y",
+    "colour_palette": ["#871A5B", "#206095", "#118C7B", "#27A0CC"],
+    "sourceText": ["Office for National Statistics, Household income, spending and wealth"],
+    "gridWidth":"10",
+    "gridHeight":"10",
+    "widthFirst":true,
+    "dotRadius":6.8,
+    "iconsize": 17
+  },
+
+  "optional": {
+    "margin_sm": [80, 10, 70, 30],
+    "margin_md": [50, 10, 70, 30],
+    "margin_lg": [50, 10, 70, 30],
+
+    "aspectRatio_sm": [16, 13],
+    "aspectRatio_md": [16, 12],
+    "aspectRatio_lg": [16, 10],
+
+    "mobileBreakpoint": 610
+  }
+}
