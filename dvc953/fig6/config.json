@@ -1,0 +1,21 @@
+{
+    "essential" : {
+          "graphic_data_url": "data.csv",
+          "colour_palette":[ "#276d4a","#601552"],
+      		"sourceText":["NSEC mobility for different Ethnicity of children  in comparison to their Parent, ONS Longitudinal Study"],
+          "sourceURL":["https://www.gov.uk/government/publications/adult-education-survey-2016"],
+
+          "xAxisLabel":"%",
+          "xAxisScale":[-100,100],
+          "barHeight_sm_md_lg" : [30,30,30],
+          "legendLabels" : ["increase", "decrease"],
+          "dotsize" : 4
+
+    },
+    "optional" : {
+          "margin_sm": [20, 0, 25, 127],
+          "margin_md": [20, 0, 25, 130],
+          "mobileBreakpoint" : 610
+
+    }
+}
