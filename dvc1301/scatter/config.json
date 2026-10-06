@@ -1,0 +1,64 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+            "pickxdata":"nearestgreenspace",
+            "pickydata":["Spring 2020 lockdown","July and August 2020"],
+            "screenreadertext": [
+              "The closer people were to their nearest park, the more likely they were to visit during lockdown.",
+              "The further people were from their nearest park, the more liekly they were to visit during Summer 2020."
+            ],
+            "sourceText":["Google – COVID-19 Community Mobility Reports, Ordnance Survey – Open Greenspace"],
+            "sourceURL":["http://www.ons.gov.uk/"],
+            "rectannotations":[{
+              "x":-222,
+              "y":-5000,
+              "width":5000,
+              "height":5000,
+              "colour":"grey",
+              "opacity":0.1
+            },
+            {
+              "x":-8000,
+              "y":-1000,
+              "width":8000,
+              "height":8000,
+              "colour":"grey",
+              "opacity":0.1
+            }],
+            "textAnnotations":[{
+                "x":120,
+                "y":380,
+                "text":""
+            }],
+            "textAnnotationWrap":100,
+            "d3AnnotationWrap":300,
+            "xAxisLabel":"Median distance to nearest greenspace (m)",
+            "yAxisLabel":"% change in visits to and time spent in parks",
+            "AxisScale":"NOTauto_min_max",
+      			"xAxisScale":[100,500],
+      			"yAxisScale":[-100,430]
+
+	},
+    "optional" : {
+            "margin_sm": [30 ,20, 0, 30],
+            "margin_md": [30, 20, 0, 30],
+            "margin_lg": [50, 50, 0, 40],
+
+            "aspectRatio_sm" : [6,6],
+            "aspectRatio_md" : [6,8],
+            "aspectRatio_lg" : [2,1],
+
+            "mobileBreakpoint" : 450,
+
+            "x_num_ticks_sm_md_lg" : [4,4,5],
+            "y_num_ticks_sm_md_lg" : [4,4,5],
+
+            "annotateLineX1_Y1_X2_Y2":[
+              [[150,25.256],[500,-2.114]],
+              [[150,44.65],[500,120.845]]
+            ],
+            "lineColor_opcty" : [["#206095", 1],["#206095", 1]]
+
+
+    }
+}
