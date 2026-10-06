@@ -1,0 +1,30 @@
+name,category,value
+1 room,Census (households),1270
+2 rooms,Census (households),7724
+3 rooms,Census (households),11911
+4 rooms,Census (households),10685
+5 rooms,Census (households),13307
+6 rooms,Census (households),3869
+7 rooms,Census (households),1754
+8 rooms,Census (households),926
+9 or more rooms,Census (households),1026
+1 room,ABHS (all addresses),2265
+2 rooms,ABHS (all addresses),9025
+3 rooms,ABHS (all addresses),12945
+4 rooms,ABHS (all addresses),11355
+5 rooms,ABHS (all addresses),13520
+6 rooms,ABHS (all addresses),3720
+7 rooms,ABHS (all addresses),1625
+8 rooms,ABHS (all addresses),800
+9 or more rooms,ABHS (all addresses),765
+Unknown,ABHS (all addresses),3335
+1 room,ABHS (occupied addresses),1165
+2 rooms,ABHS (occupied addresses),6920
+3 rooms,ABHS (occupied addresses),10980
+4 rooms,ABHS (occupied addresses),10270
+5 rooms,ABHS (occupied addresses),12620
+6 rooms,ABHS (occupied addresses),3415
+7 rooms,ABHS (occupied addresses),1485
+8 rooms,ABHS (occupied addresses),700
+9 or more rooms,ABHS (occupied addresses),610
+Unknown,ABHS (occupied addresses),960

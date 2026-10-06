@@ -1,0 +1,70 @@
+{
+  "essential": {
+    "screenreadertext": "Set of small bar charts",
+    "graphic_data_url": "data.csv",
+    "dateFormat": "%d/%m/%Y",
+
+    "colour_palette": {
+      "tenthPercentile": "#003C57",
+      "ninetiethPercentile": "#003C57",
+      "median": "#27A0CC"
+    },
+    "categorySort": [
+    ],
+    "sourceText": ["UK House Price Index, Bank of England"],
+    "xAxisLabel": "Gini coefficient",
+    "yAxisLabel": "Regions and Countries",
+    "yAxisScale": "auto_zero_max_total"
+  },
+  "optional": {
+    "margin": {
+      "groupMargin": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 100
+      },
+      "sm": {
+        "top": 44,
+        "right": 25,
+        "bottom": 35,
+        "left": 10
+      },
+      "md": {
+        "top": 40,
+        "right": 25,
+        "bottom": 35,
+        "left": 10
+      },
+      "lg": {
+        "top": 40,
+        "right": 25,
+        "bottom": 35,
+        "left": 30
+      }
+    },
+    "chart_every":{
+      "sm": 2,
+      "md": 4,
+      "lg": 4
+    },
+    "aspectRatio": {
+      "sm": [16, 32],
+      "md": [16, 60],
+      "lg": [16, 60]
+    },
+    "legendHeight":{
+      "sm": 75,
+      "md": 75,
+      "lg": 75
+    },
+
+    "mobileBreakpoint": 480,
+    "middleBreakpoint": 540,
+    "x_ticks_num": {
+      "sm": 2,
+      "md": 2,
+      "lg": 2
+    }
+  }
+}

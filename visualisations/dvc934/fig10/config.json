@@ -1,0 +1,62 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+            "pickxdata":"pm25",
+            "pickydata":"bame",
+
+            "sourceText":["Office for National Statistics – Coronavirus and the effect of air pollution on mortality in England"],
+            "sourceURL":["http://www.ons.gov.uk/"],
+            "rectannotations":[{
+              "x":-222,
+              "y":-5000,
+              "width":5000,
+              "height":5000,
+              "colour":"grey",
+              "opacity":0.1
+            },
+            {
+              "x":-8000,
+              "y":-10,
+              "width":8000,
+              "height":8000,
+              "colour":"grey",
+              "opacity":0.1
+            }],
+            "textAnnotations":[{
+                "x":1000,
+                "y":4000,
+                "text":"example annotation text"
+              },{
+                "x":-7000,
+                "y":-1000,
+                "text":"example annotation text"
+                }],
+            "textAnnotationWrap":100,
+            "d3AnnotationWrap":300,
+            "xAxisLabel":"Average NO<sub>2</sub> level over 10 years",
+            "yAxisLabel":"BAME proportion of population (%)",
+            "AxisScale":"auto_zero_max",
+      			"xAxisScale":[0,15],
+      			"yAxisScale":[0,60]
+
+	},
+    "optional" : {
+            "margin_sm": [30 ,20, 20, 40],
+            "margin_md": [30, 20, 0, 40],
+            "margin_lg": [50, 50, 0, 40],
+
+            "aspectRatio_sm" : [1.5,1],
+            "aspectRatio_md" : [1.5,1],
+            "aspectRatio_lg" : [1.5,1],
+
+            "mobileBreakpoint" : 610,
+
+            "x_num_ticks_sm_md_lg" : [4,4,5],
+            "y_num_ticks_sm_md_lg" : [4,4,5],
+
+            "annotateLineX1_Y1_X2_Y2":[[[-8000,-4000],[5000,2000]],[[-6000,2000],[-1000,-100]]],
+            "lineColor_opcty" : [["#704C27", 1],["#36ADD9", 0.5]]
+
+
+    }
+}

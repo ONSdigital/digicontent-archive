@@ -1,0 +1,14 @@
+{
+    "essential" : {
+            "graphic_data_url": "data_occs.csv",
+            "colour_palette": ["#206095","#a8bd3a","#dadada"],
+            "sourceText":["ONET - US Department of Labor, Annual Population Survey and Annual Survey of Hours and Earnings - Office for National Statistics"],
+            "xAxisLabel":"",
+            "xAxisScale":[5,0],
+            "svgheight":300
+    },
+    "optional" : {
+            "mobileBreakpoint" : 610,
+            "x_num_ticks_sm_md" : [6,5]
+    }
+}

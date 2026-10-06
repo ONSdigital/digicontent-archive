@@ -1,0 +1,74 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "dateFormat": "%Y",
+    "displayTicksFormat": "",
+    "colour_palette": [{
+        "key": "FSM",
+        "colour": "#27A0CC"
+      },
+      {
+        "key": "Non-FSM",
+        "colour": "#206095"
+      },
+      {
+        "key":"Independent",
+        "colour":"#871A5B"
+      }
+    ],
+    "categorySort": {
+      "on":true,
+      "sortby":["Lowest quintile","2nd quintile","3rd quintile","4th quintile","Highest quintile"]
+      },
+    "sourceText": ["DfE - Longitudinal Education Outcomes"],
+    "xAxisLabel": "Age",
+    "yAxisLabel": "Earnings (£)",
+    "yAxisScale": "auto_zero_max_total",
+    "screenreadertext":"Small multiple line chart of age-earnings profile by KS4 attainment for mean annual PAYE earnings at April 2019 prices. The chart shows that top performing free school meals students earn similarly to average indpendent school pupils."
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 30,
+        "right": 20,
+        "bottom": 40,
+        "left": 50
+      },
+      "md": {
+        "top": 30,
+        "right": 20,
+        "bottom": 40,
+        "left": 50
+      },
+      "lg": {
+        "top": 50,
+        "right": 20,
+        "bottom": 40,
+        "left": 50
+      }
+    },
+    "chart_every":{
+      "sm": 1,
+      "md": 2,
+      "lg": 2
+    },
+    "aspectRatio": {
+      "sm": [16, 8],
+      "md": [16, 8],
+      "lg": [16, 8]
+    },
+    "legendHeight":{
+      "sm": 45,
+      "md": 30,
+      "lg": 30
+    },
+
+    "mobileBreakpoint": 480,
+    "middleBreakpoint": 670,
+    "x_ticks_every": {
+      "sm": 2,
+      "md": 2,
+      "lg": 2
+    }
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "dateFormat": "%d/%m/%Y",
+    "legendLabels": [
+      "Blue",
+      "Green",
+      "Red"
+    ],
+    "legendStyle": "line",
+    "directLabeling": true,
+    "directLabelingAdjust": {
+      "Blue": {
+        "x": 0,
+        "y": 0
+      },
+      "Green": {
+        "x": 0,
+        "y": 0
+      },
+      "Red": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "colour_palette": {
+      "infections": "#206095"
+    },
+    "sourceText": [
+      "Statistics"
+    ],
+    "sourceURL": [
+      "http://www.ons.gov.uk"
+    ],
+    "draggable": false,
+    "annotationsChart": [
+      {
+        "xVal": "2020-07-06T00:00:00.000Z",
+        "yVal": 17,
+        "path": "",
+        "text": "",
+        "textOffset": [
+          0,
+          0
+        ]
+      },
+      {
+        "xVal": "2020-07-06T00:00:00.000Z",
+        "yVal": 15.6,
+        "path": "",
+        "text": "",
+        "textOffset": [
+          0,
+          0
+        ]
+      }
+    ],
+    "wordwrap": [
+      30,
+      20,
+      30
+    ],
+    "annoAlign": [
+      "start",
+      "start",
+      "start"
+    ],
+    "annotationBullet": [],
+    "circles": false,
+    "annotationCXCY": [
+      [
+        "Jan-93",
+        "68.4"
+      ],
+      [
+        "Jan-08",
+        "73"
+      ]
+    ],
+    "annotationColour": [
+      "green"
+    ],
+    "yAxisLabel": "",
+    "yAxisScale": [
+      0,
+      4
+    ],
+    "yAxisBreak": false,
+    "yAxisBreak_sm_md_lg": [
+      65,
+      65,
+      65
+    ]
+  },
+  "optional": {
+    "margin_sm": [
+      10,
+      55,
+      25,
+      35
+    ],
+    "margin_md": [
+      10,
+      55,
+      25,
+      35
+    ],
+    "margin_lg": [
+      10,
+      55,
+      25,
+      35
+    ],
+    "aspectRatio_sm": [
+      30,
+      30
+    ],
+    "aspectRatio_md": [
+      30,
+      30
+    ],
+    "aspectRatio_lg": [
+      30,
+      30
+    ],
+    "mobileBreakpoint": 200,
+    "xAxisTextFormat_sm_md_lg": [
+      "%d %b %y",
+      "%d %b %y",
+      "%d %b %y"
+    ],
+    "x_num_ticks_sm_md_lg": [
+      0,
+      0,
+      5
+    ],
+    "y_num_ticks_sm_md_lg": [
+      3,
+      3,
+      4
+    ],
+    "lineMarkers": false,
+    "vertical_line": false,
+    "annotateLineX1_Y1_X2_Y2": [
+      [
+        [
+          "Apr-00",
+          "1600"
+        ],
+        [
+          "Apr-00",
+          "0"
+        ]
+      ],
+      [
+        [
+          "Jul-08",
+          "100"
+        ],
+        [
+          "Jul-08",
+          "200"
+        ]
+      ]
+    ],
+    "annotateRect": false,
+    "annotateRectX_Y": [
+      [
+        [
+          "Jan-94",
+          200
+        ],
+        [
+          "Jan-96",
+          0
+        ]
+      ],
+      [
+        [
+          "Jul-04",
+          180
+        ],
+        [
+          "Jul-06",
+          40
+        ]
+      ]
+    ],
+    "lineColor_opcty": [
+      [
+        "#ABCDEF",
+        0.2
+      ],
+      [
+        "#888",
+        0.4
+      ]
+    ],
+    "centre_line": false,
+    "centre_line_value": 25
+  }
+}

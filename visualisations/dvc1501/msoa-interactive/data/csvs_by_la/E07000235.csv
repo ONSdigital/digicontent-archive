@@ -1,0 +1,34 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02006710,Malvern Hills 001,"Tenbury Wells, Mamble & Clifton",0,0,1,0,0,0,0,0,1,2,3,3,0,0,covid
+E02006711,Malvern Hills 002,"Abberley, Holt Heath & Hallow",0,3,2,0,1,0,0,0,0,0,2,4,0,0,covid
+E02006712,Malvern Hills 003,"Broadheath, Sinton & Alfrick",1,3,0,0,0,0,0,0,0,1,6,6,1,0,covid
+E02006713,Malvern Hills 004,Malvern Link,0,2,1,0,0,0,0,0,1,0,4,3,1,0,covid
+E02006714,Malvern Hills 005,"Colletts Green, Callow End & Hanley",0,5,1,0,0,0,0,0,0,0,4,2,0,0,covid
+E02006715,Malvern Hills 006,North Malvern,0,2,0,1,0,0,0,0,0,0,2,0,0,0,covid
+E02006716,Malvern Hills 007,Malvern Pickersleigh,0,2,1,0,0,0,0,0,0,0,1,0,1,0,covid
+E02006717,Malvern Hills 008,Kempsey & Ryall,0,3,0,0,0,0,0,0,0,1,2,1,1,0,covid
+E02006718,Malvern Hills 009,Barnard's Green,0,5,2,0,0,0,0,0,0,0,4,1,0,0,covid
+E02006719,Malvern Hills 010,Malvern Wells & Priory,0,7,0,0,0,0,0,0,2,0,5,2,1,0,covid
+E02006720,Malvern Hills 011,"Upton-upon-Severn, Welland & Eldersfield",0,1,0,2,0,0,0,0,2,3,9,2,0,0,covid
+E02006710,Malvern Hills 001,"Tenbury Wells, Mamble & Clifton",9,14,12,8,2,12,10,10,5,8,14,11,10,6,noncovid
+E02006711,Malvern Hills 002,"Abberley, Holt Heath & Hallow",11,11,3,3,11,3,5,2,7,2,10,5,9,2,noncovid
+E02006712,Malvern Hills 003,"Broadheath, Sinton & Alfrick",8,16,2,3,5,3,7,8,5,9,16,5,7,8,noncovid
+E02006713,Malvern Hills 004,Malvern Link,14,10,10,7,5,9,7,6,2,5,11,8,5,6,noncovid
+E02006714,Malvern Hills 005,"Colletts Green, Callow End & Hanley",6,7,7,8,10,7,5,6,12,2,7,6,7,9,noncovid
+E02006715,Malvern Hills 006,North Malvern,6,9,5,5,5,1,3,3,7,7,3,6,9,6,noncovid
+E02006716,Malvern Hills 007,Malvern Pickersleigh,9,10,9,7,7,1,6,6,4,6,6,7,6,1,noncovid
+E02006717,Malvern Hills 008,Kempsey & Ryall,6,15,6,10,7,5,7,8,7,7,6,6,4,11,noncovid
+E02006718,Malvern Hills 009,Barnard's Green,13,7,8,6,9,6,12,4,8,16,4,14,14,8,noncovid
+E02006719,Malvern Hills 010,Malvern Wells & Priory,14,5,6,11,13,7,8,8,4,14,13,5,4,10,noncovid
+E02006720,Malvern Hills 011,"Upton-upon-Severn, Welland & Eldersfield",12,14,11,9,5,11,7,9,8,10,8,3,9,3,noncovid
+E02006710,Malvern Hills 001,"Tenbury Wells, Mamble & Clifton",9,9,7,7,9,10,10,8,9,9,12,10,9,9,average
+E02006711,Malvern Hills 002,"Abberley, Holt Heath & Hallow",9,8,7,8,7,9,8,8,7,9,10,7,9,8,average
+E02006712,Malvern Hills 003,"Broadheath, Sinton & Alfrick",7,8,5,6,6,7,6,9,7,9,10,8,7,8,average
+E02006713,Malvern Hills 004,Malvern Link,11,9,6,6,8,7,6,6,10,9,9,9,11,9,average
+E02006714,Malvern Hills 005,"Colletts Green, Callow End & Hanley",6,9,6,5,5,6,4,7,6,7,8,6,6,9,average
+E02006715,Malvern Hills 006,North Malvern,5,4,6,5,5,6,6,6,6,7,6,9,5,4,average
+E02006716,Malvern Hills 007,Malvern Pickersleigh,5,4,6,4,5,3,5,6,6,4,6,3,5,4,average
+E02006717,Malvern Hills 008,Kempsey & Ryall,10,7,5,7,6,9,5,8,8,6,10,9,10,7,average
+E02006718,Malvern Hills 009,Barnard's Green,10,9,10,8,11,8,9,8,10,9,11,10,10,9,average
+E02006719,Malvern Hills 010,Malvern Wells & Priory,12,9,11,10,8,8,10,9,9,9,13,11,12,9,average
+E02006720,Malvern Hills 011,"Upton-upon-Severn, Welland & Eldersfield",11,8,8,10,11,8,8,8,9,9,11,10,11,8,average

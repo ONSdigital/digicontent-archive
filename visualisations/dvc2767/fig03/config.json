@@ -1,0 +1,36 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+            "colour_palette": [
+                 "#F66068",
+                 "#118C7B",
+                 "#A09FA0",
+                 "#A8BD3A",
+                 "#F66068",
+ 		             "#206095",
+ 		             "#118C7B",
+                 "#22D0B6"
+               ],
+            "source_label":"2 July 2020",
+            "target_label":"8 July 2022",
+            "unit_preffix":"All statuses → ",
+            "unit_preffix2": "→ all outcomes: ",
+            "unit_suffix": "%",
+            "unit_suffix2":"%",
+            "unit_suffix3":"%",
+            "format": ",.1f",
+            "alt_text": "Over half of young people said they were currently studying now and planned to also be studying in two years’ time.",
+            "source":"COVID Social Mobility and Opportunities (COSMO) study: Wave 1 from the University College London, Sutton Trust and Kantar Public"
+    },
+    "optional" : {
+            "margin_sm": [30, 5, 10, 5],
+            "margin_md": [25, 10, 10, 10],
+            "margin_lg": [25, 10, 10, 10],
+
+            "aspectRatio_sm" : [7,11],
+            "aspectRatio_md" : [7,7],
+            "aspectRatio_lg" : [7,7],
+
+            "mobileBreakpoint" : 400
+    }
+}

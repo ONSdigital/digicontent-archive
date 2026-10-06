@@ -1,0 +1,54 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+        
+            "dateFormat":"%Y",
+        
+            "legendLabels" : ["Production", "Construction", "Services"],
+        
+            "sourceText":["Second Estimate of GDP, ONS"],
+            "sourceURL":["https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/secondestimateofgdp/quarter2aprtojun2016"],
+        
+            "annotationChart": [""],
+            "annotationBullet": [""],
+            "annotationXY":[
+                [""],
+                [""]
+            ],
+            "annotationAlign":[
+                "middle",
+                "middle"
+            ],
+        
+            "circles" : false,    
+            "annotationCXCY":[
+                [""],
+                [""]
+            ],
+        
+            "yAxisLabel":"",
+            "yAxisScale":[80,115],   
+            "yAxisBreak": false,
+            "yAxisBreak_sm_md_lg": [65,65,65]            
+    },
+    "optional" : {
+            "margin_sm": [20, 50, 45, 30],
+            "margin_md": [20, 50, 45, 30],
+            "margin_lg": [20, 50, 45, 30],
+        
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+        
+            "mobileBreakpoint" : 610, 
+            
+            "xAxisTextFormat_sm_md_lg" : ["%y", "%Y", "%y"], 
+                
+            "x_num_ticks_sm_md_lg" : [7,17,17],    
+            "y_num_ticks_sm_md_lg" : [6,8,10],
+            "centre_line" : true,
+            "centre_line_value" : 0
+    }
+}
+
+

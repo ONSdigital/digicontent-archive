@@ -1,0 +1,57 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+
+            "sort_data": false,
+
+            "colour_palette": ["#206095",  "#118C7B"],
+
+            "dateFormat":"",
+
+            "legendLabels" : ["Holiday spending abroad","All other spending"],
+
+            "sourceText":["Office for National Statistics - Living Costs and Food Survey"],
+            "sourceURL":["http://www.ons.gov.uk/ons/publications/re-reference-tables.html?edition=tcm%3A77-350752"],
+
+            "annotationChart": [
+                "Spending on  holidays abroad  accounted for  half of spending  falls in the  highest income  households "
+            ],
+            "annotationBullet": [
+            ],
+            "annotationXY":[
+                ["5 (richest)","-30"]
+            ],
+            "annotationAlign":[
+                "start"
+            ],
+
+            "circles" : false,
+            "annotationCXCY":[
+                ["5 (richest)","3"],
+                ["Underground","73"]
+            ],
+
+            "yAxisLabel":"%",
+            "yAxisScale":[-25,0],
+            "yAxisBreak": true,
+            "yAxisBreak_sm_md_lg": [65,65,65]
+    },
+    "optional" : {
+            "margin_sm": [20, 10, 35, 30],
+            "margin_md": [20, 10, 35, 30],
+            "margin_lg": [20, 10, 35, 30],
+
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+
+            "mobileBreakpoint" : 610,
+
+            "xAxisTextFormat_sm_md_lg" : ["%y", "%Y", "%b %y"],
+
+            "x_num_ticks_sm_md_lg" : [4,2,2],
+            "y_num_ticks_sm_md_lg" : [6,6,6],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}

@@ -1,0 +1,89 @@
+{
+  "essential": {
+    "graphic_data_url": "regions.csv",
+    "dateFormat": "%d/%m/%Y",
+    "structure": [{
+        "series": ["Wage growth","Inflation"],
+          "yoffset":{"Arts and recreation": [7,0],
+                    "Education": [5,0],
+                    "Power and water": [5,0],
+                    "Public administration":[5,0],
+                    "Mining": [5,0],
+                    "UK":[5,-2]}}
+    ],
+    "colour_palette": [     
+      {
+        "key": "Wage growth",
+        "colour": "#003C57"
+      },
+      {
+        "key": "Inflation",
+        "colour": "#871A5B"
+      }
+
+    ],
+    "legend_text": [
+
+      {
+        "key":"Wage growth",
+        "text":"Wage growth"
+      },
+      {
+        "key":"Inflation",
+        "text":"Inflation"
+      }
+    ],
+    "categorySort": [
+
+    ],
+    "sourceText": ["Office for National Statistics – Monthly Wages and Salaries Survey and Consumer price inflation"],
+    "xAxisLabel": "",
+    "yAxisLabel": "%",
+    "yAxisScale": "auto_min_max_total"
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 40,
+        "right": 50,
+        "bottom": 45,
+        "left": 20
+      },
+      "md": {
+        "top": 30,
+        "right": 50,
+        "bottom": 50,
+        "left": 20
+      },
+      "lg": {
+        "top": 35,
+        "right": 50,
+        "bottom": 45,
+        "left": 20
+      }
+    },
+    "chart_every":{
+      "sm": 1,
+      "md": 2,
+      "lg": 2
+    },
+    "aspectRatio": {
+      "sm": [16, 8],
+      "md": [16, 8],
+      "lg": [16, 10]
+    },
+    "legendHeight":{
+      "sm": 45,
+      "md": 30,
+      "lg": 30
+    },
+
+    "mobileBreakpoint": 430,
+    "middleBreakpoint": 670,
+    "x_ticks_every": {
+      "sm": 360,
+      "md": 360,
+      "lg": 20
+    }
+  }
+}

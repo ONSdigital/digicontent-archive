@@ -1,0 +1,19 @@
+plot,ycategory,xcategory,value
+Special Educational Needs ,Not recorded with SEN,Satisfactory or inadequate,0.36
+Special Educational Needs ,Not recorded with SEN,Outstanding or good,0.64
+Special Educational Needs ,Recorded with other SEN,Satisfactory or inadequate,0.4
+Special Educational Needs ,Recorded with other SEN,Outstanding or good,0.6
+Special Educational Needs ,Recorded with BESD,Satisfactory or inadequate,0.43
+Special Educational Needs ,Recorded with BESD,Outstanding or good,0.57
+Free school meals,Eligible for free school meals,Satisfactory or inadequate,0.45
+Free school meals,Eligible for free school meals,Outstanding or good,0.55
+Free school meals,Rest of sample (not eligible free school meals),Satisfactory or inadequate,0.34
+Free school meals,Rest of sample (not eligible free school meals),Outstanding or good,0.66
+Children in care,Looked-after children,Satisfactory or inadequate,0.4
+Children in care,Looked-after children,Outstanding or good,0.6
+Children in care,Rest of sample (not looked-after children),Satisfactory or inadequate,0.37
+Children in care,Rest of sample (not looked-after children),Outstanding or good,0.63
+Children in need,Children in need,Satisfactory or inadequate,0.42
+Children in need,Children in need,Outstanding or good,0.58
+Children in need,Rest of sample (not children in need),Satisfactory or inadequate,0.36
+Children in need,Rest of sample (not children in need),Outstanding or good,0.64

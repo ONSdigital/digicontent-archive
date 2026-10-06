@@ -1,0 +1,74 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+
+            "dateFormat":"%Y %b",
+
+            "legendLabels" : ["% changes in real earnings, year on year (3 month average)"],
+            "legendStyle": "line",
+            "colour_palette": [ "#274796"],
+
+            "sourceText":["Average weekly earnings, whole economy, real terms, regular pay (3 month pay growth, seasonally adjusted)"],
+            "sourceURL":["https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/timeseries/a2fa"],
+            "draggable": false,
+           "annotationsChart" : [
+             {
+               "xVal": "Tue Apr 01 2014 01:00:00 GMT+0100 (BST)",
+               "yVal":  1.5,
+               "path": "",
+               "text": "July 2014: prices fall and real wages rise"
+             },
+             {
+               "xVal": "Sun Jan 01 2017 01:00:00 GMT+0100 (BST)",
+               "yVal":  2.5,
+               "path": "",
+               "text": "From November 2015, £ falls in value; prices rise and real wages fall"
+             }
+            ],
+
+            "wordwrap":[10,20,10],
+            "annoAlign": ["middle","middle","end"],
+            "annotationBullet" : [],
+
+            "circles" : false,
+            "annotationCXCY":[
+
+            ],
+
+            "yAxisLabel":"% Change",
+            "yAxisScale":[-3,3],
+            "yAxisZoomScale":[400,450],
+
+            "yAxisBreak": false,
+            "yAxisBreak_sm_md_lg": [65,65,65]
+    },
+
+    "optional" : {
+            "margin_sm": [60, 30, 100, 30],
+            "margin_md": [60, 30, 100, 30],
+            "margin_lg": [60, 30, 100, 30],
+
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+
+            "mobileBreakpoint" : 610,
+
+            "xAxisTextFormat_sm_md_lg" : ["%y", "%Y", "%Y"],
+
+            "x_num_ticks_sm_md_lg" : [6,12,12],
+            "y_num_ticks_sm_md_lg" : [6,6,6],
+
+            "lineMarkers" : false,
+
+            "vertical_line" : false,
+            "annotateLineX1_Y1_X2_Y2" : [ [["2008 04", 500],["2008 04", 0]], [["2009 07", 500],["2009 07", 0]] ],
+
+            "annotateRect" : true,
+            "annotateRectX_Y" : [ [["2008 04", 500],["2009 07", 0]]],
+            "lineColor_opcty" : [["grey", 0.2], ["#888", 0.4]],
+
+            "centre_line" : false,
+            "centre_line_value" : 25
+    }
+}

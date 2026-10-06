@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset='utf-8'>
+	<meta name='viewport' content='width=device-width,initial-scale=1'>
+
+	<title>Svelte app</title>
+
+	<link rel='icon' type='image/png' href='./favicon.png'>
+	<link rel='stylesheet' href='./global.css'>
+	<link rel='stylesheet' href='./build/bundle.css'>
+
+	<script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js"></script>
+	<!-- <script src="https://d3js.org/d3.v4.min.js"></script>	 -->
+	<script src="https://cdn.ons.gov.uk/vendor/d3/4.13.0/d3.min.js"></script>
+
+</head>
+
+<body>
+	<script>
+		document.write('<script defer src="./build/bundle.js"></scr' + 'ipt>');
+	</script>
+	<script>
+		var pymChild = new pym.Child();
+		var body = document.body;
+
+		setInterval(function() {
+			pymChild.sendMessage('height', Math.max( body.scrollHeight, body.offsetHeight ));
+			if (parent.document.body.clientWidth > 767) {
+				d3.selectAll("p.general").style("font-size", "18px");
+				d3.selectAll("h4").style("font-size", "26px;");
+				d3.selectAll("h5").style("font-size", "16px");
+				d3.selectAll("img#imagebanner").style("width", "637px");
+				d3.selectAll("div#topdiv").style("width", "637px");
+			}
+			else {
+				d3.selectAll("p.general").style("font-size", "16px");
+				d3.selectAll("h4").style("font-size", "16px");
+				d3.selectAll("h5").style("font-size", "14px");
+				d3.selectAll("img#imagebanner").style("width", "100%");
+				d3.selectAll("div#topdiv").style("width", "100%");
+			}
+		}, 500);
+
+	</script>
+
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a40b39c29e6b944f',t:'MTc5MDM1MTg1Nw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

@@ -1,0 +1,47 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+
+            "dateFormat":"",
+
+            "legendLabels" : ["2000","2015"],
+            "legendStyle": "rect",
+            "colour_palette": [ "#F5942F" , "#7BCAE2"],
+
+            "sourceText":["2000 and","2015 UK Harmonised Time Use Survey"],
+            "sourceURL":["https://discover.ukdataservice.ac.uk/series/?sn=2000054","https://www.ons.gov.uk/economy/nationalaccounts/satelliteaccounts/articles/leisuretimeintheuk/2015"],
+
+            "annotationChart": [
+"2015", "2000"
+            ],
+            "annotationBullet": [],
+            "annotationXY":[
+                ["25.5","56 and over"],
+                ["27.2","56 and over"]
+            ],
+            "annotationAlign":[
+                "middle",
+                "middle"
+            ],
+
+            "xAxisLabel":"% of time that is active leisure",
+            "yAxisLabel":"",
+            "xAxisScale":[25,37]
+
+    },
+    "optional" : {
+            "margin_sm": [5, 20, 5, 110],
+            "margin_md": [5, 20, 5, 110],
+            "margin_lg": [15, 20, 5, 110],
+			
+            "aspectRatio_sm" : [16,11],
+            "aspectRatio_md" : [16,4],
+            "aspectRatio_lg" : [16,6],
+			
+            "mobileBreakpoint" : 510,
+
+            "x_num_ticks_sm_md_lg" : [6,8,7],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}

@@ -1,0 +1,46 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02005087,Sevenoaks 001,Swanley East & Hextable,1,10,0,0,0,1,0,0,1,2,7,4,0,1,covid
+E02005088,Sevenoaks 002,Swanley West,0,5,2,0,1,0,0,0,3,4,6,4,2,0,covid
+E02005089,Sevenoaks 003,Swanley South & Crockenhill,0,3,2,1,0,0,0,0,1,2,2,1,3,0,covid
+E02005090,Sevenoaks 004,Hartley & Hodsoll Street,0,7,1,0,2,0,1,0,0,1,13,1,0,0,covid
+E02005091,Sevenoaks 005,Darenth Valley,0,8,1,0,3,1,0,0,1,3,6,2,1,0,covid
+E02005093,Sevenoaks 007,West Kingsdown,1,8,0,1,2,0,0,0,1,8,4,5,1,0,covid
+E02005094,Sevenoaks 008,"Knockholt, Shoreham & Dunton Green",0,1,1,0,0,0,0,0,1,0,1,1,0,0,covid
+E02005095,Sevenoaks 009,Kemsing & Otford,0,2,0,0,0,0,0,0,0,2,2,1,0,0,covid
+E02005096,Sevenoaks 010,Sevenoaks North,0,2,2,0,0,0,0,0,0,1,12,4,1,0,covid
+E02005097,Sevenoaks 011,Sevenoaks West & Chevening,0,3,4,1,0,0,0,0,0,0,4,1,0,0,covid
+E02005098,Sevenoaks 012,Sevenoaks Town & Weald,0,12,4,0,0,0,0,0,2,2,11,8,3,0,covid
+E02005099,Sevenoaks 013,Westerham & Brasted,0,1,0,0,0,0,0,0,0,1,2,3,0,0,covid
+E02005100,Sevenoaks 014,Edenbridge,0,1,1,1,0,0,0,0,0,1,5,3,0,0,covid
+E02005101,Sevenoaks 015,"Hever, Leigh & Penshurst",0,2,0,0,0,0,0,0,0,0,2,1,0,0,covid
+E02006832,Sevenoaks 016,New Ash Green,0,0,0,1,0,0,0,1,0,1,6,0,1,0,covid
+E02005087,Sevenoaks 001,Swanley East & Hextable,10,9,7,2,6,5,7,5,2,4,6,8,5,3,noncovid
+E02005088,Sevenoaks 002,Swanley West,11,10,2,12,9,10,6,4,12,8,6,8,9,6,noncovid
+E02005089,Sevenoaks 003,Swanley South & Crockenhill,8,6,2,3,2,1,5,2,5,5,8,3,2,7,noncovid
+E02005090,Sevenoaks 004,Hartley & Hodsoll Street,12,12,3,4,7,4,7,6,4,10,7,7,6,4,noncovid
+E02005091,Sevenoaks 005,Darenth Valley,8,6,4,4,6,4,3,5,8,7,4,6,6,10,noncovid
+E02005093,Sevenoaks 007,West Kingsdown,6,5,5,12,8,7,6,3,4,7,5,9,9,10,noncovid
+E02005094,Sevenoaks 008,"Knockholt, Shoreham & Dunton Green",10,3,3,7,5,3,6,6,5,4,5,10,6,6,noncovid
+E02005095,Sevenoaks 009,Kemsing & Otford,8,4,7,5,6,5,7,5,2,4,8,3,4,5,noncovid
+E02005096,Sevenoaks 010,Sevenoaks North,10,6,8,8,8,9,9,7,9,7,10,20,10,10,noncovid
+E02005097,Sevenoaks 011,Sevenoaks West & Chevening,7,6,8,5,8,3,7,6,4,4,8,3,4,4,noncovid
+E02005098,Sevenoaks 012,Sevenoaks Town & Weald,12,13,5,9,10,4,14,9,3,5,11,15,7,5,noncovid
+E02005099,Sevenoaks 013,Westerham & Brasted,9,3,6,7,4,5,4,4,9,3,4,3,9,4,noncovid
+E02005100,Sevenoaks 014,Edenbridge,8,3,8,10,4,8,2,3,5,5,9,6,7,6,noncovid
+E02005101,Sevenoaks 015,"Hever, Leigh & Penshurst",5,3,5,4,4,0,3,4,3,5,4,6,4,1,noncovid
+E02006832,Sevenoaks 016,New Ash Green,4,3,2,4,1,2,3,3,2,3,6,4,6,2,noncovid
+E02005087,Sevenoaks 001,Swanley East & Hextable,4,5,4,5,3,5,3,7,3,4,7,5,4,5,average
+E02005088,Sevenoaks 002,Swanley West,8,8,7,7,6,5,7,4,7,9,9,6,8,8,average
+E02005089,Sevenoaks 003,Swanley South & Crockenhill,6,2,4,5,5,4,3,5,4,4,6,5,6,2,average
+E02005090,Sevenoaks 004,Hartley & Hodsoll Street,10,9,9,8,7,9,6,7,7,8,11,11,10,9,average
+E02005091,Sevenoaks 005,Darenth Valley,9,8,6,6,6,6,6,6,7,5,6,8,9,8,average
+E02005093,Sevenoaks 007,West Kingsdown,6,8,6,5,8,5,4,6,9,7,9,4,6,8,average
+E02005094,Sevenoaks 008,"Knockholt, Shoreham & Dunton Green",5,4,5,5,4,5,5,4,6,3,6,5,5,4,average
+E02005095,Sevenoaks 009,Kemsing & Otford,3,7,6,5,6,3,5,5,6,6,6,5,3,7,average
+E02005096,Sevenoaks 010,Sevenoaks North,9,7,8,5,7,7,6,8,6,8,10,7,9,7,average
+E02005097,Sevenoaks 011,Sevenoaks West & Chevening,8,7,7,7,6,6,8,8,8,5,10,10,8,7,average
+E02005098,Sevenoaks 012,Sevenoaks Town & Weald,11,7,9,9,8,9,7,9,10,10,13,7,11,7,average
+E02005099,Sevenoaks 013,Westerham & Brasted,6,6,4,4,5,5,5,6,6,4,8,6,6,6,average
+E02005100,Sevenoaks 014,Edenbridge,8,7,8,6,5,6,7,7,9,7,8,7,8,7,average
+E02005101,Sevenoaks 015,"Hever, Leigh & Penshurst",5,5,4,1,5,4,4,3,4,3,6,3,5,5,average
+E02006832,Sevenoaks 016,New Ash Green,3,4,5,3,3,2,4,3,3,3,5,3,3,4,average

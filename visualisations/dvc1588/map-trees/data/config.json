@@ -1,0 +1,10 @@
+{"ons":{
+"maptitle": "Map of % woodland",
+"varcolour": "Greens",
+"varunit": "% woodland",
+"displaydecimals": 0,
+"legenddecimals": 0,
+"breaks": "jenks",
+"dropticks": false,
+"numberBreaks": 4
+}}

@@ -1,0 +1,88 @@
+{
+  "essential": {
+    "graphic_data_url": "ages.csv",
+    "dateFormat": "%d/%m/%Y",
+    "colour_palette": [{
+        "key": "95% credible interval",
+        "colour": "#c5c5c5"
+      },
+      {
+        "key": "Modelled % of adults aged 16 and over testing positive for antibodies",
+        "colour": "#A8BD3A",
+        "smallkey":"Modelled % testing positive for antibodies"
+      },
+      {
+        "key": "Modelled % of adults aged 16 years and over who have reported to have received 1 or more vaccination doses",
+        "colour": "#27A0CC",
+        "smallkey":"Modelled % received 1 or more vaccination dose"
+      },
+      {
+        "key": "Modelled % of adults aged 16 years and over who have reported to have received 2 or more vaccination doses",
+        "colour": "#206095",
+        "smallkey":"Modelled % received 2 or more vacc. doses"
+      }
+    ],
+    "categorySort": [
+      "16 to 24",
+      "25 to 34",
+      "35 to 49",
+      "50 to 59",
+      "60 to 64",
+      "65 to 69",
+      "70 to 74",
+      "75 to 79",
+      "80 and over"
+
+
+    ],
+    "sourceText": ["Office for National Statistics – Coronavirus (COVID-19) Infection Survey"],
+    "xAxisLabel": "Week beginning",
+    "yAxisLabel": "Regions and Countries",
+    "yAxisScale": "auto_zero_max_total"
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 40,
+        "right": 35,
+        "bottom": 45,
+        "left": 32
+      },
+      "md": {
+        "top": 40,
+        "right": 35,
+        "bottom": 50,
+        "left": 32
+      },
+      "lg": {
+        "top": 40,
+        "right": 35,
+        "bottom": 45,
+        "left": 32
+      }
+    },
+    "chart_every":{
+      "sm": 1,
+      "md": 3,
+      "lg": 3
+    },
+    "aspectRatio": {
+      "sm": [16, 8],
+      "md": [16, 8],
+      "lg": [16, 10]
+    },
+    "legendHeight":{
+      "sm": 100,
+      "md": 80,
+      "lg": 80
+    },
+
+    "mobileBreakpoint": 480,
+    "middleBreakpoint": 670,
+    "x_ticks_every": {
+      "sm": 9,
+      "md": 12,
+      "lg": 12
+    }
+  }
+}

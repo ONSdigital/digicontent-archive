@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-SLEEP=10
+SLEEP=2
 
 # get a list of changed files | just print the second element separated by whitespace - the path | split the path on / and take the first element | loop over the list, each iteration becoming 'dir'
 git status --porcelain | awk '{print $2}' | cut -d/ -f1 | sort -u | while read -r dir; do

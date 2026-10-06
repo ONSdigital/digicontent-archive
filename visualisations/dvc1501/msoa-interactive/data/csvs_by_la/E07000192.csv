@@ -1,0 +1,40 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02006118,Cannock Chase 001,Rugeley North & Etchinghill,1,2,2,0,0,0,0,1,3,3,2,4,0,0,covid
+E02006119,Cannock Chase 002,Rugeley Town,0,3,6,0,0,0,0,0,8,4,4,3,0,0,covid
+E02006120,Cannock Chase 003,Rugeley South & Brereton,1,1,3,1,0,0,0,1,2,2,7,4,1,1,covid
+E02006121,Cannock Chase 004,Hednesford Pye Green,0,0,0,0,0,0,1,0,2,1,4,2,1,1,covid
+E02006122,Cannock Chase 005,Hednesford Central,0,2,0,4,0,0,0,2,2,2,3,2,1,0,covid
+E02006123,Cannock Chase 006,Wimblebury & Cannock Wood,0,4,1,0,1,0,0,0,1,9,7,3,0,0,covid
+E02006124,Cannock Chase 007,Cannock North,0,8,0,0,0,0,0,0,2,4,5,4,0,0,covid
+E02006125,Cannock Chase 008,Cannock North East,0,1,1,0,0,0,0,0,3,0,1,1,0,0,covid
+E02006126,Cannock Chase 009,Hednesford South & Heath Hayes,0,5,1,0,0,0,0,0,0,6,18,4,0,0,covid
+E02006127,Cannock Chase 010,Hawks Green,0,9,0,0,0,0,0,0,1,2,3,1,0,0,covid
+E02006128,Cannock Chase 011,Cannock West & Mill Green,2,2,1,0,0,0,0,0,0,3,6,5,3,0,covid
+E02006129,Cannock Chase 012,Cannock South,0,3,2,0,0,0,0,1,2,3,3,4,0,0,covid
+E02006130,Cannock Chase 013,Norton Canes,0,2,1,1,0,0,1,0,3,1,8,2,0,0,covid
+E02006118,Cannock Chase 001,Rugeley North & Etchinghill,3,4,6,5,5,2,4,6,3,6,4,2,9,8,noncovid
+E02006119,Cannock Chase 002,Rugeley Town,9,13,5,6,7,3,6,9,7,10,10,8,11,12,noncovid
+E02006120,Cannock Chase 003,Rugeley South & Brereton,8,9,8,5,9,8,12,2,6,11,19,4,12,8,noncovid
+E02006121,Cannock Chase 004,Hednesford Pye Green,0,2,1,3,2,3,5,3,2,2,4,2,3,5,noncovid
+E02006122,Cannock Chase 005,Hednesford Central,3,4,3,3,3,3,3,4,1,1,2,5,8,4,noncovid
+E02006123,Cannock Chase 006,Wimblebury & Cannock Wood,9,5,7,6,3,7,4,6,5,4,7,4,6,4,noncovid
+E02006124,Cannock Chase 007,Cannock North,8,10,4,6,8,5,11,5,9,12,6,6,7,5,noncovid
+E02006125,Cannock Chase 008,Cannock North East,9,4,4,7,5,4,8,5,3,4,4,4,5,3,noncovid
+E02006126,Cannock Chase 009,Hednesford South & Heath Hayes,7,13,2,8,6,5,5,3,7,12,9,2,8,7,noncovid
+E02006127,Cannock Chase 010,Hawks Green,1,7,6,1,3,5,9,2,3,5,6,6,4,7,noncovid
+E02006128,Cannock Chase 011,Cannock West & Mill Green,5,13,4,7,11,8,5,7,10,5,8,5,11,10,noncovid
+E02006129,Cannock Chase 012,Cannock South,6,5,3,10,5,12,6,8,4,5,10,5,7,3,noncovid
+E02006130,Cannock Chase 013,Norton Canes,4,5,2,7,4,11,9,3,3,9,2,7,6,6,noncovid
+E02006118,Cannock Chase 001,Rugeley North & Etchinghill,6,4,5,6,3,6,6,5,5,4,7,4,6,4,average
+E02006119,Cannock Chase 002,Rugeley Town,7,8,6,9,7,7,7,11,8,8,11,11,7,8,average
+E02006120,Cannock Chase 003,Rugeley South & Brereton,7,6,6,6,7,7,7,8,8,8,8,9,7,6,average
+E02006121,Cannock Chase 004,Hednesford Pye Green,4,5,3,2,4,5,4,3,3,4,6,3,4,5,average
+E02006122,Cannock Chase 005,Hednesford Central,4,5,5,3,6,5,3,4,3,5,6,5,4,5,average
+E02006123,Cannock Chase 006,Wimblebury & Cannock Wood,9,9,6,7,6,7,6,5,6,7,8,6,9,9,average
+E02006124,Cannock Chase 007,Cannock North,6,5,7,6,8,5,4,6,5,6,8,5,6,5,average
+E02006125,Cannock Chase 008,Cannock North East,6,8,6,6,6,4,6,7,7,5,10,6,6,8,average
+E02006126,Cannock Chase 009,Hednesford South & Heath Hayes,10,5,8,7,5,6,9,7,6,7,11,9,10,5,average
+E02006127,Cannock Chase 010,Hawks Green,6,4,5,6,4,2,4,5,3,6,5,4,6,4,average
+E02006128,Cannock Chase 011,Cannock West & Mill Green,9,8,6,9,7,5,7,9,6,6,10,8,9,8,average
+E02006129,Cannock Chase 012,Cannock South,5,6,6,5,7,5,6,5,8,6,8,6,5,6,average
+E02006130,Cannock Chase 013,Norton Canes,5,8,4,5,5,4,4,5,5,4,6,7,5,8,average

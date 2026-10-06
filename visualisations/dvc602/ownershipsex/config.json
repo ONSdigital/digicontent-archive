@@ -1,0 +1,46 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+
+            "sort_data": false,
+
+            "colour_palette": ["#3B7A9E", "#f03b20"],
+
+            "dateFormat":"",
+
+            "legendLabels" : ["Male","Female"],
+
+            "sourceText":["Office for National Statistics - Annual Population Survey"],
+            "sourceURL":[],
+
+            "annotationChart": [],
+            "annotationBullet": [],
+            "annotationXY":[],
+            "annotationAlign":[],
+
+            "circles" : false,
+            "annotationCXCY":[
+                ["60","Social  rented"]
+
+            ],
+
+            "xAxisLabel":"%",
+            "xAxisScale":"auto_zero_max",
+            "xAxisBreak": true,
+            "xAxisBreak_sm_md_lg": [65,65,65]
+    },
+    "optional" : {
+            "margin_sm": [20, 10, 35, 60],
+            "margin_md": [20, 10, 35, 60],
+            "margin_lg": [20, 10, 35, 60],
+
+            "aspectRatio_sm" : [16,16],
+            "aspectRatio_md" : [16,7],
+            "aspectRatio_lg" : [16,10],
+
+            "mobileBreakpoint" : 610,
+
+            "x_num_ticks_sm_md_lg" : [6,8,10]
+
+    }
+}

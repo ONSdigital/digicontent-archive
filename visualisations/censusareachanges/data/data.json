@@ -1,0 +1,228 @@
+{
+  "population": [
+    {
+      "group": "This area", 
+      "category": "Total", 
+      "value": 2413032
+    },
+    {
+      "group": "England and Wales", 
+      "category": "Total", 
+      "value": 55938886
+    }
+  ],
+  "sex": [
+    {
+      "group": "This area", 
+      "category": "Female", 
+      "value": 53
+    },
+    {
+      "group": "This area", 
+      "category": "Male", 
+      "value": 47
+    },
+    {
+      "group": "England and Wales", 
+      "category": "Female", 
+      "value": 51
+    },
+    {
+      "group": "England and Wales", 
+      "category": "Male", 
+      "value": 49
+    }
+  ],
+  "age": [
+    {
+      "group": "This group",
+      "category": "0-4",
+      "value": 13.67
+    },
+    {
+      "group": "Whole population",
+      "category": "0-4",
+      "value": 5.98
+    },
+    {
+      "group": "This group",
+      "category": "5-9",
+      "value": 11.43
+    },
+    {
+      "group": "Whole population",
+      "category": "5-9",
+      "value": 5.56
+    },
+    {
+      "group": "This group",
+      "category": "10-14",
+      "value": 11.10
+    },
+    {
+      "group": "Whole population",
+      "category": "10-14",
+      "value": 5.61
+    },
+    {
+      "group": "This group",
+      "category": "15-19",
+      "value": 12.63
+    },
+    {
+      "group": "Whole population",
+      "category": "15-19",
+      "value": 6.11
+    },
+    {
+      "group": "This group",
+      "category": "20-24",
+      "value": 11.71
+    },
+    {
+      "group": "Whole population",
+      "category": "20-24",
+      "value": 6.71
+    },
+    {
+      "group": "This group",
+      "category": "25-29",
+      "value": 8.54
+    },
+    {
+      "group": "Whole population",
+      "category": "25-29",
+      "value": 6.81
+    },
+    {
+      "group": "This group",
+      "category": "30-34",
+      "value": 6.07
+    },
+    {
+      "group": "Whole population",
+      "category": "30-34",
+      "value": 6.56
+    },
+    {
+      "group": "This group",
+      "category": "35-39",
+      "value": 5.40
+    },
+    {
+      "group": "Whole population",
+      "category": "35-39",
+      "value": 6.82
+    },
+    {
+      "group": "This group",
+      "category": "40-44",
+      "value": 5.57
+    },
+    {
+      "group": "Whole population",
+      "category": "40-44",
+      "value": 7.37
+    },
+    {
+      "group": "This group",
+      "category": "45-49",
+      "value": 4.84
+    },
+    {
+      "group": "Whole population",
+      "category": "45-49",
+      "value": 7.27
+    },
+    {
+      "group": "This group",
+      "category": "50-54",
+      "value": 3.11
+    },
+    {
+      "group": "Whole population",
+      "category": "50-54",
+      "value": 6.62
+    },
+    {
+      "group": "This group",
+      "category": "55-59",
+      "value": 1.49
+    },
+    {
+      "group": "Whole population",
+      "category": "55-59",
+      "value": 5.74
+    },
+    {
+      "group": "This group",
+      "category": "60-64",
+      "value": 0.98
+    },
+    {
+      "group": "Whole population",
+      "category": "60-64",
+      "value": 5.97
+    },
+    {
+      "group": "This group",
+      "category": "65-69",
+      "value": 0.99
+    },
+    {
+      "group": "Whole population",
+      "category": "65-69",
+      "value": 5.18
+    },
+    {
+      "group": "This group",
+      "category": "70-74",
+      "value": 0.70
+    },
+    {
+      "group": "Whole population",
+      "category": "70-74",
+      "value": 4.00
+    },
+    {
+      "group": "This group",
+      "category": "75-79",
+      "value": 0.81
+    },
+    {
+      "group": "Whole population",
+      "category": "75-79",
+      "value": 3.17
+    },
+    {
+      "group": "This group",
+      "category": "80-84",
+      "value": 0.53
+    },
+    {
+      "group": "Whole population",
+      "category": "80-84",
+      "value": 2.35
+    },
+    {
+      "group": "This group",
+      "category": "85-89",
+      "value": 0.26
+    },
+    {
+      "group": "Whole population",
+      "category": "85-89",
+      "value": 1.43
+    },
+    {
+      "group": "This group",
+      "category": "90+",
+      "value": 0.16
+    },
+    {
+      "group": "Whole population",
+      "category": "90+",
+      "value": 0.74
+    }
+  ]
+}

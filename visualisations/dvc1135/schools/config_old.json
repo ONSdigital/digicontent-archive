@@ -1,0 +1,229 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "dateFormat": "%d/%m/%Y",
+    "displayTicksFormat":"%b",
+    "colour_palette": [
+      {
+        "key":"Daily",
+        "colour":"#118C7B"
+      },
+      {
+        "key":"Weekly",
+        "colour":"#206095"
+      }
+
+    ],
+    "categorySort": ["England","Wales","Scotland","Northern Ireland"],
+    "sourceText": ["Department for Education, Welsh Government, Scottish Government and Department of Education Northern Ireland"],
+    "xAxisLabel": "",
+    "yAxisLabel": "% attendance, state-funded schools",
+    "yAxisScale": "auto_zero_max_total",
+    "screenreadertext":"School attendance"
+
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 30,
+        "right": 23,
+        "bottom": 45,
+        "left": 50
+      },
+      "md": {
+        "top": 30,
+        "right": 23,
+        "bottom": 50,
+        "left": 50
+      },
+      "lg": {
+        "top": 30,
+        "right": 23,
+        "bottom": 45,
+        "left": 35
+      }
+    },
+    "chart_every":{
+      "sm": 1,
+      "md": 1,
+      "lg": 1
+    },
+    "aspectRatio": {
+      "sm": [16, 3],
+      "md": [16, 3],
+      "lg": [16, 3]
+    },
+    "legendHeight":{
+      "sm": 45,
+      "md": 30,
+      "lg": 30
+    },
+
+    "mobileBreakpoint": 480,
+    "middleBreakpoint": 670,
+    "x_ticks_every": {
+      "sm": 30,
+      "md": 30,
+      "lg": 30
+    },
+
+    "annotateText" :
+      [{
+        "chartID": "England",
+        "x": "20/10/2020",
+        "y": 30,
+        "text": "Half term",
+        "wrap": 15,
+        "size": 11
+       },{
+        "chartID": "England",
+        "x": "21/12/2020",
+        "y": 30,
+        "text": "Christmas",
+        "wrap": 15,
+        "size": 11
+        },{
+         "chartID": "England",
+         "x": "05/01/2021",
+         "y": 30,
+         "text": "Lockdown",
+         "wrap": 15,
+         "size": 11
+       },{
+        "chartID": "England",
+        "x": "02/01/2021",
+        "y": 105,
+        "text": "❶",
+        "wrap": 15,
+        "size": 18
+        },{
+         "chartID": "Wales",
+         "x": "12/12/2020",
+         "y": 105,
+         "text": "❷",
+         "wrap": 15,
+         "size": 18
+         }
+      ],
+
+      "annotateLine" : [{
+        "chartID": "Wales",
+        "x1": "14/12/2020",
+        "x2": "14/12/2020",
+        "y1": 100,
+        "y2": 0,
+        "note": "Online learning move"
+      },{
+        "chartID": "England",
+        "x1": "04/01/2021",
+        "x2": "04/01/2021",
+        "y1": 100,
+        "y2": 0,
+        "note": "Schools open"
+      }],
+
+    "annotateRectOn" : true,
+    "annotateRect" :
+      [{
+        "chartID": "England",
+        "x1": "16/10/2020",
+        "x2": "03/11/2020",
+        "y1": 100,
+        "y2": 0,
+        "colour": "ABCDEF",
+        "opacity": 0.2,
+        "note": "Half term"
+      },{
+        "chartID": "England",
+        "x1": "17/12/2020",
+        "x2": "03/01/2021",
+        "y1": 100,
+        "y2": 0,
+        "colour": "ABCDEF",
+        "opacity": 0.2,
+        "note": "Christmas"
+      },{
+        "chartID": "England",
+        "x1": "05/01/2021",
+        "x2": "27/01/2021",
+        "y1": 100,
+        "y2": 0,
+        "colour": "F39431",
+        "opacity": 0.2,
+        "note": "Lockdown"
+      },{
+        "chartID": "Wales",
+        "x1": "23/10/2020",
+        "x2": "02/11/2020",
+        "y1": 100,
+        "y2": 0,
+        "colour": "ABCDEF",
+        "opacity": 0.2,
+        "note": "Half term"
+      },{
+        "chartID": "Wales",
+        "x1": "18/12/2020",
+        "x2": "05/01/2021",
+        "y1": 100,
+        "y2": 0,
+        "colour": "ABCDEF",
+        "opacity": 0.2,
+        "note": "Christmas"
+      },{
+        "chartID": "Wales",
+        "x1": "05/01/2021",
+        "x2": "27/01/2021",
+        "y1": 100,
+        "y2": 0,
+        "colour": "F39431",
+        "opacity": 0.2,
+        "note": "Lockdown"
+      },{
+        "chartID": "Scotland",
+        "x1": "23/12/2020",
+        "x2": "05/01/2021",
+        "y1": 100,
+        "y2": 0,
+        "colour": "ABCDEF",
+        "opacity": 0.2,
+        "note": "Christmas"
+      },{
+        "chartID": "Scotland",
+        "x1": "05/01/2021",
+        "x2": "27/01/2021",
+        "y1": 100,
+        "y2": 0,
+        "colour": "F39431",
+        "opacity": 0.2,
+        "note": "Lockdown"
+      },{
+        "chartID": "Northern Ireland",
+        "x1": "16/10/2020",
+        "x2": "06/11/2020",
+        "y1": 100,
+        "y2": 0,
+        "colour": "ABCDEF",
+        "opacity": 0.2,
+        "note": "Half term"
+      },{
+        "chartID": "Northern Ireland",
+        "x1": "18/12/2020",
+        "x2": "05/01/2021",
+        "y1": 100,
+        "y2": 0,
+        "colour": "ABCDEF",
+        "opacity": 0.2,
+        "note": "Christmas"
+      },{
+        "chartID": "Northern Ireland",
+        "x1": "05/01/2021",
+        "x2": "27/01/2021",
+        "y1": 100,
+        "y2": 0,
+        "colour": "F39431",
+        "opacity": 0.2,
+        "note": "Lockdown"
+      }
+    ]
+  }
+}

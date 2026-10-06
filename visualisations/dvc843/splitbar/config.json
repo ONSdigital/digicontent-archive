@@ -1,0 +1,21 @@
+{
+    "essential" : {
+          "graphic_data_url": "gdp.csv",
+          "colour_palette":[ "#0075A3" , "#266D4A", "#234D70", "#601552","#601552" ],
+      		"sourceText":["Office for National Statistics"],
+          "sourceURL":[""],
+          "xAxisScale":[[-45,8],[-11,3]],
+          "average_line":[0, 0],
+          "columnTitles": ["Growth in sector (%)", "Contribution to whole economy change, percentage points"],
+          "barHeight_sm_md_lg" : [30,40,50],
+          "legendLabel" : ["Average across working population"]
+
+
+    },
+    "optional" : {
+          "margin_sm": [8, 0, 25, 150],
+          "margin_md": [8, 0, 25, 150],
+          "mobileBreakpoint" : 610
+
+    }
+}

@@ -1,0 +1,652 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+  <title></title>
+
+  <meta name="description" content="">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+  <link rel="stylesheet" href="../lib/globalStyle.css" />
+  <style type="text/css">
+    text {
+      font-family: 'Open Sans', sans-serif;
+    }
+
+    .background0 {
+      background: #F5942F;
+    }
+
+    .background1 {
+      background: #7BCAE2;
+    }
+
+    #triangleEnd {
+      fill: black;
+    }
+
+    #triangleStart {
+      fill: black;
+    }
+
+    .x.axis path {
+      display: none;
+    }
+
+    .focusCircle {
+      fill: #FF9933;
+    }
+
+    path {
+      fill: none;
+    }
+
+    h6 {
+      font-size: 16px;
+      margin: 16px 0 8px 0;
+      font-weight: 700;
+      color: #323132;
+    }
+
+    .btn {
+      position: relative;
+      padding: 10px 15px;
+      margin: 0 0 20px;
+      line-height: normal;
+      color: #fff;
+      font-size: 1.3em !important;
+      border-radius: 0px;
+      display: inline-block;
+      text-rendering: optimizeLegibility;
+      transition: background-color .2s ease-in, color .2s ease-in;
+    }
+
+    .btn--select {
+      margin-left: 0px !important;
+    }
+
+    .btn--select {
+      color: #206095 !important;
+      border: 2px solid #206095 !important;
+      margin-right: 5px !important;
+      margin-bottom: 15px !important;
+      transition: all ease .2s;
+      /* border-radius: 30px !important; */
+    }
+
+    .btn {
+      font-family: "Open Sans", Helvetica, Arial, sans-serif;
+      font-weight: 400;
+      font-size: 14px;
+      display: inline-block;
+      width: auto;
+      cursor: pointer;
+      padding: 6px 16px 10px 16px;
+      border: 0 none;
+      text-align: center;
+      -webkit-appearance: none;
+      transition: background-color 0.25s ease-out;
+      text-decoration: none;
+      line-height: 24px;
+    }
+
+    .btn {
+      display: inline-block;
+      padding: 6px 12px;
+      margin-bottom: 0;
+      font-size: 14px;
+      font-weight: 400;
+      line-height: 1.42857143;
+      text-align: center;
+      white-space: nowrap;
+      vertical-align: middle;
+      -ms-touch-action: manipulation;
+      touch-action: manipulation;
+      cursor: pointer;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      background-image: none;
+      /* border: 1px solid transparent; */
+      border:0;
+      /* border-radius: 4px; */
+    }
+
+    input[type="checkbox"],
+    input[type="radio"] {
+      -webkit-appearance: none;
+      appearance: none;
+      display: none;
+    }
+
+    input[type="checkbox"],
+    input[type="radio"] {
+      margin: 4px 0 0;
+      margin-top: 1px\9;
+      line-height: normal;
+    }
+
+    input[type="checkbox"],
+    input[type="radio"] {
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;
+      padding: 0;
+    }
+
+    input {
+      border: none;
+      border-bottom-color: currentcolor;
+      border-bottom-style: none;
+      border-bottom-width: medium;
+      border-radius: 0;
+      border-bottom: solid 1px #ddd;
+      font-size: 18px;
+      line-height: 32px;
+      margin: 16px 0;
+      padding: 6px 0 0 0;
+    }
+
+    input,
+    select {
+      font-family: "Open Sans", Helvetica, Arial, sans-serif;
+      font-size: 14px;
+    }
+
+    button,
+    input,
+    select,
+    textarea {
+      font-family: inherit;
+      font-size: inherit;
+      line-height: inherit;
+    }
+
+    input {
+      line-height: normal;
+    }
+
+    button,
+    input,
+    optgroup,
+    select,
+    textarea {
+      margin: 0;
+      font: inherit;
+      font-size: inherit;
+      line-height: inherit;
+      font-family: inherit;
+      color: inherit;
+    }
+
+    .btn-group-vertical>.btn.active,
+    .btn-group-vertical>.btn:active,
+    .btn-group-vertical>.btn:focus,
+    .btn-group-vertical>.btn:hover,
+    .btn-group>.btn.active,
+    .btn-group>.btn:active,
+    .btn-group>.btn:focus,
+    .btn-group>.btn:hover {
+      z-index: 2;
+    }
+
+    .btn:active,
+    .btn.active {
+      background-color: #206095;
+      color: white !important;
+      -webkit-box-shadow: none;
+      box-shadow: 0 0 0pt 3pt orange;
+    }
+
+    .btn--select:hover {
+      background-color: #206095;
+      color: white !important;
+    }
+
+    .btn:focus,
+    btn.focus {
+      outline: none;
+      box-shadow: 0px 0px 0 3px #FFA23A;
+      color: white;
+      outline-offset: 0px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="btn btn--select active" style="top:3px;left:3px;" aria-labelledby="Under 30">
+    <input type="radio" name="age" value="graphic_data" autocomplete="off" tabindex="0" selected> Under 30
+  </div>
+  <div class="btn btn--select" style="top:3px;left:3px;"  tabindex="0" aria-labelledby="Over 30">
+    <input type="radio" name="age" value="over30" autocomplete="off" tabindex="0" checked> Over 30
+  </div>
+
+  <div id="graphic">
+    <img src="fallback.png" alt="[Chart]" />
+  </div>
+
+  <h6 id="source"></h6>
+
+  <div id="keypoints">
+    <p></p>
+  </div>
+
+  <div class="footer">
+  </div>
+
+  <script src="https://cdn.ons.gov.uk/vendor/d3/4.13.0/d3.min.js" type="text/javascript"></script>
+  <script src="../lib/d3-annotation.js" type="text/javascript"></script>
+  <script src="../lib/modernizr.svg.min.js" type="text/javascript"></script>
+  <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js" type="text/javascript"></script>
+  <script>
+    var graphic = d3.select('#graphic');
+    var keypoints = d3.select('#keypoints');
+    var footer = d3.select(".footer");
+    var pymChild = null;
+
+    d3.selectAll('.btn').on('click', function(d) {
+      d3.selectAll('.btn').classed('active', false)
+      d3.select(this).classed('active', true)
+      d3.selectAll('.btn').selectAll('input').property('checked', false)
+      d3.select(this).select('input').property('checked', true)
+
+      file = document.querySelector('input[name="age"]:checked').value;
+      if (file == "graphic_data") {
+        tieFight(graphic_data)
+      } else if (file == "over30") {
+        tieFight(over30)
+      }
+    })
+
+    function drawGraphic() {
+      var threshold_md = 576;
+      var threshold_sm = dvc.optional.mobileBreakpoint; // 510
+
+      //set variables for chart dimensions dependent on width of #graphic
+      if (parseInt(graphic.style("width")) < threshold_sm) {
+        ball = 4;
+        margin = {
+          top: dvc.optional.margin_sm[0],
+          right: dvc.optional.margin_sm[1],
+          bottom: dvc.optional.margin_sm[2],
+          left: dvc.optional.margin_sm[3]
+        };
+        chart_width = parseInt(graphic.style("width")) - margin.left - margin.right;
+        height = Math.ceil((chart_width * dvc.optional.aspectRatio_sm[1]) / dvc.optional.aspectRatio_sm[0]) - margin.top - margin.bottom;
+      } else if (parseInt(graphic.style("width")) < threshold_md) {
+        ball = 4;
+        margin = {
+          top: dvc.optional.margin_md[0],
+          right: dvc.optional.margin_md[1],
+          bottom: dvc.optional.margin_md[2],
+          left: dvc.optional.margin_md[3]
+        };
+        chart_width = parseInt(graphic.style("width")) - margin.left - margin.right;
+        height = Math.ceil((chart_width * dvc.optional.aspectRatio_md[1]) / dvc.optional.aspectRatio_md[0]) - margin.top - margin.bottom;
+      } else {
+        ball = 5;
+        margin = {
+          top: dvc.optional.margin_lg[0],
+          right: dvc.optional.margin_lg[1],
+          bottom: dvc.optional.margin_lg[2],
+          left: dvc.optional.margin_lg[3]
+        }
+        chart_width = parseInt(graphic.style("width")) - margin.left - margin.right;
+        height = Math.ceil((chart_width * dvc.optional.aspectRatio_lg[1]) / dvc.optional.aspectRatio_lg[0]) - margin.top - margin.bottom;
+      }
+
+
+
+      // clear out existing graphics
+      graphic.selectAll("*").remove();
+      keypoints.selectAll("*").remove();
+      footer.selectAll("*").remove();
+
+      x = d3.scaleLinear()
+        .range([0, chart_width]);
+
+      y = d3.scalePoint()
+        .range([0, height], .3);
+
+      y.domain(graphic_data.map(function(d) {
+        return d.name;
+      }));
+
+      yAxis = d3.axisLeft(y)
+
+      xAxis = d3.axisBottom(x);
+
+      //specify number or ticks on x axis
+      if (parseInt(graphic.style("width")) <= threshold_sm) {
+        xAxis.ticks(dvc.optional.x_num_ticks_sm_md_lg[0])
+      } else if (parseInt(graphic.style("width")) <= threshold_md) {
+        xAxis.ticks(dvc.optional.x_num_ticks_sm_md_lg[1])
+      } else {
+        xAxis.ticks(dvc.optional.x_num_ticks_sm_md_lg[2])
+      }
+
+      x.domain(dvc.essential.xAxisScale);
+
+      // sort these hardwired numbers maybe through the dimensions above
+      var legend = d3.select('#graphic').append('svg')
+        .attr("width", chart_width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom + 30)
+        .append("g")
+        .attr("id", "legend")
+
+      //create svg for chart
+      svg = d3.select('svg')
+        .attr("id", "chart")
+        .style("background-color", "#fff")
+        .attr("width", chart_width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom + 80)
+        .append("g")
+        .attr("transform", "translate(" + margin.left + "," + (margin.top + 40) + ")")
+
+      svg.append("rect")
+        .attr("class", "svgRect")
+        .style("fill", "#fff")
+        .attr("width", chart_width)
+        .attr("height", height);
+
+      svg.append('g')
+        .attr('class', 'x axis')
+        .attr("transform", "translate(0, " + height + ")")
+        .call(xAxis.tickSize(-height, 0).tickPadding(15))
+        .selectAll("line")
+        .style("stroke", "#E5E6E7");
+
+
+      svg.select(".x.axis")
+        .append("text")
+        .attr("y", 35)
+        .attr("x", chart_width)
+        .attr("dy", ".71em")
+        .style("text-anchor", "end")
+        .text(dvc.essential.xAxisLabel);
+
+      //create y axis
+      svg.append('g')
+        .attr('class', 'y axis')
+        .call(yAxis);
+
+      d3.select(".y.axis").selectAll("line").remove();
+
+      svg.append("text")
+        .attr('class', 'unit')
+        .attr('transform', "translate(" + -margin.left + "," + eval(-margin.top) + ")")
+        .attr("font-size", "16px")
+        .attr("fill", "#666")
+        .text(dvc.essential.yAxisLabel);
+
+        var lines = {}
+        lines = graphic_data.map(function(d, i) { //console.log(d + " " +i);
+          return {
+            'name': d.name, // might not need since we mapped it in y.domain earlier
+            'mymin': +d.imin, // + changes string to numeric.
+            'mymax': +d.imax,
+          };
+        });
+
+        svg.append('g').attr("class", "line").selectAll('.line')
+          .data(lines)
+          .enter()
+          .append('line')
+          .attr('class', 'tiefighter')
+          .style("stroke", "#D0D2D3")
+          .attr('y1', function(d, i) {
+            return y(d.name);
+          })
+          .attr('y2', function(d) {
+            return y(d.name);
+          })
+          .attr('x1', function(d, i) {
+            return x(d.mymin);
+          })
+          .attr('x2', function(d) {
+            return x(d.mymax);
+          });
+
+        svg.append('g').selectAll('.circle')
+          .data(lines)
+          .enter()
+          .append('circle')
+          // .merge()
+          .attr('class', "circlemin")
+          .attr("fill", dvc.essential.colour_palette[0])
+          .attr('cx', function(d, i) {
+            return x(d.mymin);
+          })
+          .attr('cy', function(d, i) {
+            return y(d.name);
+          })
+          .attr('r', ball);
+
+        svg.append('g').selectAll('.circle')
+          .data(lines)
+          .enter()
+          .append('circle')
+          .attr('class', "circlemax")
+          .attr("fill", dvc.essential.colour_palette[1])
+          .attr('cx', function(d, i) {
+            return x(d.mymax);
+          })
+          .attr('cy', function(d, i) {
+            return y(d.name);
+          })
+          .attr('r', ball);
+
+      annotations = [
+        {
+          note: {
+            label: "The differences between commute times are small for men and women under 30",
+            bgPadding: 5,
+            wrap: x(50)-x(30)
+          },
+          x: x(35) + margin.left+30,
+          y: y("Newcastle") + margin.top+40,
+          dy: 0,
+          dx: 0,
+          type: d3.annotationLabel
+        }
+      ]
+
+      makeAnnotations = d3.annotation()
+          .annotations(annotations)
+
+      if (parseInt(graphic.style("width")) > 444){
+        d3.select("svg")
+          .append("g")
+          .attr("class", "annotation-group")
+          .call(makeAnnotations)
+      }
+
+
+      createLegend();
+
+      function createLegend() {
+
+        var prevX = 0;
+        var prevY = 0;
+        lineNo = 0;
+        var lineNoOld = 0;
+
+        dvc.essential.legendLabels.forEach(function(d, i) {
+          // draw legend text based on content of var legendLabels ...
+          var_group = d3.select("#legend").append("g")
+
+          var_group.append("circle")
+            .attr("class", "rect" + i)
+            .attr("fill", dvc.essential.colour_palette[i])
+            .attr("cx", 20)
+            .attr("cy", 20)
+            .attr("r", ball);
+
+          var_group.append("text")
+            .text(dvc.essential.legendLabels[i])
+            .attr("class", "legend" + i)
+            .attr("text-anchor", "start")
+            .style("font-size", "16px")
+            .style("fill", "#666")
+            .attr('y', 15)
+            .attr('x', 0);
+
+          d3.selectAll(".legend" + (i))
+            .each(calcPosition);
+
+          function calcPosition() {
+            var BBox = this.getBBox()
+
+            d3.select(".legend" + (i))
+              .attr("y", function(d) {
+                if ((prevX + BBox.width + 50) > parseInt(graphic.style("width"))) {
+                  lineNoOld = lineNo;
+                  lineNo = lineNo + 1;
+                  prevX = 0;
+                }
+                return eval((lineNo * 20) + 20);
+              })
+              .attr("x", function(d) {
+                return prevX + 25;
+              })
+
+            d3.select(".rect" + (i))
+              .attr("cy", function(d) {
+                if ((prevX + BBox.width + 50) > parseInt(graphic.style("width"))) {
+                  lineNoOld = lineNo;
+                  lineNo = lineNo + 1;
+                  prevX = 0;
+                }
+                if (dvc.essential.legendStyle == "rect") {
+                  return eval((lineNo * 20) + 15);
+                } else {
+                  return eval((lineNo * 20) + 12);
+                }
+              })
+              .attr("cx", function(d) {
+                return prevX + 10;
+              })
+            prevX = prevX + BBox.width + 50
+          }; // end function calcPosition()
+        }); // end foreach
+      } // end function createLegend()
+
+      // css fix
+      d3.selectAll(".y line")
+        .attr("stroke", "#CCC")
+        .attr("stroke-width", "1px")
+        .style("shape-rendering", "crispEdges");
+
+      //create link to source
+      d3.select('#source')
+        .text('Source: ' + dvc.essential.sourceText);
+
+      //use pym to calculate chart dimensions
+      if (pymChild) {
+        pymChild.sendHeight();
+      }
+    } //end drawGraphic
+
+    function tieFight(draw) {
+
+      var lines = {}
+      lines = draw.map(function(d, i) { //console.log(d + " " +i);
+        return {
+          'name': d.name, // might not need since we mapped it in y.domain earlier
+          'mymin': +d.imin, // + changes string to numeric.
+          'mymax': +d.imax,
+        };
+      });
+
+
+      svg.selectAll('line.tiefighter')
+        .data(lines)
+        .transition()
+        .attr('y1', function(d, i) {
+          return y(d.name);
+        })
+        .attr('y2', function(d) {
+          return y(d.name);
+        })
+        .attr('x1', function(d, i) {
+          return x(d.mymin);
+        })
+        .attr('x2', function(d) {
+          return x(d.mymax);
+        });
+
+      svg.selectAll('circle.circlemin')
+        .data(lines)
+        .transition()
+        .attr('cx', function(d, i) {
+          return x(d.mymin);
+        })
+        .attr('cy', function(d, i) {
+          return y(d.name);
+        })
+        .attr('r', ball);
+
+      svg.selectAll('circle.circlemax')
+        .data(lines)
+        .transition()
+        .attr('cx', function(d, i) {
+          return x(d.mymax);
+        })
+        .attr('cy', function(d, i) {
+          return y(d.name);
+        })
+        .attr('r', ball);
+
+        if(file=="over30"){
+          annotations[0].note.label="These widen for over 30s, as women see their commutes shorten or remain the same while men travel for longer";
+          makeAnnotations.annotations(annotations)
+          makeAnnotations.updateText()
+        }else {
+          annotations[0].note.label="The differences between commute times are small for men and women under 30";
+          makeAnnotations.annotations(annotations)
+          makeAnnotations.updateText()
+        }
+    } //end tieFight
+
+    function loadData(error, results) {
+      if (error) throw error;
+      graphic_data = results[0];
+      over30 = results[1];
+      pymChild = new pym.Child({
+        renderCallback: drawGraphic
+      });
+    }
+
+    //check whether browser can cope with svg
+    if (Modernizr.svg) {
+      //load config
+      d3.json("config.json", function(error, config) {
+        dvc = config;
+
+        //load chart data
+
+        q = d3.queue()
+        dvc.essential.graphic_data_url.forEach(function(d) {
+          q.defer(d3.csv, d)
+        })
+        q.awaitAll(loadData)
+
+      })
+
+    } else {
+      //use pym to create iframe containing fallback image (which is set as default)
+      pymChild = new pym.Child();
+      if (pymChild) {
+        console.log("fallback" + pymChild);
+        pymChild.sendHeight();
+      }
+    }
+  </script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a40b55395c97d857',t:'MTc5MDM1Mjk4MQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+
+</html>

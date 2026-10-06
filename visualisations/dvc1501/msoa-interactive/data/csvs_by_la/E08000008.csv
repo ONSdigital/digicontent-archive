@@ -1,0 +1,91 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02001229,Tameside 001,Mossley,1,5,4,5,1,1,0,1,3,1,1,0,1,1,covid
+E02001230,Tameside 002,Ashton North,0,6,2,1,0,0,2,3,3,1,4,3,0,1,covid
+E02001231,Tameside 003,Carrbrook & Micklehurst,0,4,2,2,0,0,0,0,3,0,1,1,0,0,covid
+E02001232,Tameside 004,Hurst Cross,1,6,0,2,1,0,3,1,1,2,2,2,1,0,covid
+E02001233,Tameside 005,Ashton Waterloo,0,6,5,0,1,4,2,2,7,0,4,2,1,0,covid
+E02001234,Tameside 006,Smallshaw,0,8,2,3,1,0,1,2,5,3,2,3,0,0,covid
+E02001235,Tameside 007,Ashton East,0,7,0,1,0,0,0,1,2,1,2,0,0,0,covid
+E02001236,Tameside 008,Stalybridge North,1,5,2,0,1,0,1,0,3,0,1,3,0,0,covid
+E02001237,Tameside 009,Stalybridge East & Swineshaw,2,3,3,0,1,0,0,2,2,1,2,1,0,0,covid
+E02001238,Tameside 010,Droylsden East,0,5,1,2,0,1,2,0,4,3,0,3,2,0,covid
+E02001239,Tameside 011,Droylsden Central,0,9,3,1,0,2,0,1,2,1,3,1,2,0,covid
+E02001240,Tameside 012,Droylsden West,0,3,1,1,2,2,0,1,2,0,4,0,0,0,covid
+E02001241,Tameside 013,Ashton Central,3,5,2,1,1,1,2,3,4,3,3,0,2,2,covid
+E02001242,Tameside 014,Audenshaw,0,5,2,2,0,1,1,1,3,2,5,1,0,0,covid
+E02001243,Tameside 015,Stalybridge South,0,3,0,1,0,0,0,3,4,1,1,1,0,0,covid
+E02001244,Tameside 016,Dukinfield East & Hough Hill,0,2,2,1,0,0,0,4,1,0,1,1,0,0,covid
+E02001245,Tameside 017,Dukinfield West,0,9,2,2,0,0,1,3,2,0,2,0,0,0,covid
+E02001246,Tameside 018,Newtonmoor,0,4,3,1,0,0,0,3,3,1,1,2,1,0,covid
+E02001247,Tameside 019,Guide Bridge,0,9,3,2,0,0,2,1,1,2,2,2,1,0,covid
+E02001248,Tameside 020,Hyde North,0,4,0,2,0,0,5,2,3,3,1,0,0,1,covid
+E02001249,Tameside 021,Denton North,0,1,1,0,0,0,1,1,3,0,1,2,0,0,covid
+E02001250,Tameside 022,Godley,0,3,2,0,0,0,3,3,2,1,2,0,1,0,covid
+E02001251,Tameside 023,Mottram & Hollingworth,0,4,3,2,0,0,0,5,1,1,1,3,0,0,covid
+E02001252,Tameside 024,Dane Bank,0,7,2,2,1,0,0,3,1,2,6,2,2,0,covid
+E02001253,Tameside 025,Denton West,0,4,2,2,0,0,1,0,3,2,0,0,0,0,covid
+E02001254,Tameside 026,Denton East,0,2,2,0,0,1,1,4,1,2,1,0,4,1,covid
+E02001255,Tameside 027,Hattersley,0,1,2,1,0,0,0,0,2,0,3,0,0,0,covid
+E02001256,Tameside 028,Hyde South,2,9,11,1,1,0,1,1,5,3,4,4,3,1,covid
+E02001257,Tameside 029,Denton South,0,8,4,4,1,0,4,3,3,4,1,2,2,0,covid
+E02001258,Tameside 030,Cheetham Fold & Gee Cross,0,2,1,2,1,0,1,0,2,1,1,1,1,0,covid
+E02001229,Tameside 001,Mossley,5,15,8,4,4,2,5,8,3,3,7,9,3,4,noncovid
+E02001230,Tameside 002,Ashton North,2,4,2,2,2,4,2,1,9,3,4,7,7,5,noncovid
+E02001231,Tameside 003,Carrbrook & Micklehurst,2,11,3,2,0,3,3,3,2,4,5,10,4,1,noncovid
+E02001232,Tameside 004,Hurst Cross,8,6,10,4,9,3,1,3,7,4,10,6,1,9,noncovid
+E02001233,Tameside 005,Ashton Waterloo,11,8,7,9,5,5,12,3,6,9,10,4,9,6,noncovid
+E02001234,Tameside 006,Smallshaw,10,13,3,7,9,8,4,4,4,7,7,5,9,1,noncovid
+E02001235,Tameside 007,Ashton East,3,8,4,2,8,2,4,3,4,4,1,6,3,2,noncovid
+E02001236,Tameside 008,Stalybridge North,8,9,6,4,4,5,4,7,9,6,4,9,7,10,noncovid
+E02001237,Tameside 009,Stalybridge East & Swineshaw,8,15,7,4,4,7,7,3,8,6,4,8,6,9,noncovid
+E02001238,Tameside 010,Droylsden East,8,5,10,3,6,5,8,8,4,10,5,11,6,6,noncovid
+E02001239,Tameside 011,Droylsden Central,5,14,9,7,7,5,10,9,5,6,5,8,2,6,noncovid
+E02001240,Tameside 012,Droylsden West,5,8,2,5,6,1,4,1,2,6,4,4,1,3,noncovid
+E02001241,Tameside 013,Ashton Central,6,10,8,6,6,3,2,7,4,6,8,7,7,5,noncovid
+E02001242,Tameside 014,Audenshaw,7,7,4,3,9,4,6,5,6,4,7,12,3,4,noncovid
+E02001243,Tameside 015,Stalybridge South,9,10,2,7,12,4,6,2,7,5,8,4,5,7,noncovid
+E02001244,Tameside 016,Dukinfield East & Hough Hill,8,8,1,1,3,6,4,3,4,7,7,5,5,3,noncovid
+E02001245,Tameside 017,Dukinfield West,14,9,11,6,14,6,9,13,6,2,8,4,6,7,noncovid
+E02001246,Tameside 018,Newtonmoor,10,12,12,3,6,9,9,11,5,8,9,12,8,7,noncovid
+E02001247,Tameside 019,Guide Bridge,8,4,7,4,3,7,2,6,6,8,9,3,4,2,noncovid
+E02001248,Tameside 020,Hyde North,9,11,6,4,7,6,7,3,10,14,2,6,6,11,noncovid
+E02001249,Tameside 021,Denton North,4,7,2,7,2,3,6,4,2,4,3,2,3,5,noncovid
+E02001250,Tameside 022,Godley,6,8,10,3,9,4,3,7,6,4,3,6,8,3,noncovid
+E02001251,Tameside 023,Mottram & Hollingworth,6,9,4,3,6,6,5,3,9,4,4,6,8,5,noncovid
+E02001252,Tameside 024,Dane Bank,8,10,5,4,5,3,8,4,4,11,5,4,11,4,noncovid
+E02001253,Tameside 025,Denton West,8,11,4,10,4,4,7,7,4,6,3,4,3,4,noncovid
+E02001254,Tameside 026,Denton East,3,5,4,1,4,3,4,5,3,10,4,8,2,2,noncovid
+E02001255,Tameside 027,Hattersley,4,7,6,4,2,4,4,7,7,8,7,3,3,3,noncovid
+E02001256,Tameside 028,Hyde South,20,20,9,13,13,10,14,8,13,3,6,9,11,12,noncovid
+E02001257,Tameside 029,Denton South,13,7,1,6,4,9,6,9,12,8,10,6,8,5,noncovid
+E02001258,Tameside 030,Cheetham Fold & Gee Cross,12,9,3,7,9,3,8,8,7,2,5,9,6,6,noncovid
+E02001229,Tameside 001,Mossley,6,5,9,6,5,5,6,5,7,7,6,6,6,5,average
+E02001230,Tameside 002,Ashton North,4,3,3,3,5,4,5,5,6,4,5,5,4,3,average
+E02001231,Tameside 003,Carrbrook & Micklehurst,3,4,4,2,3,5,4,5,4,3,6,4,3,4,average
+E02001232,Tameside 004,Hurst Cross,7,7,6,6,4,8,6,5,7,7,9,7,7,7,average
+E02001233,Tameside 005,Ashton Waterloo,6,8,8,8,8,7,7,6,8,6,9,9,6,8,average
+E02001234,Tameside 006,Smallshaw,10,8,7,8,9,9,6,9,7,7,11,7,10,8,average
+E02001235,Tameside 007,Ashton East,5,7,5,5,3,5,3,3,6,5,6,5,5,7,average
+E02001236,Tameside 008,Stalybridge North,9,7,6,6,7,6,6,7,9,8,9,9,9,7,average
+E02001237,Tameside 009,Stalybridge East & Swineshaw,8,7,9,5,7,5,6,7,6,7,9,7,8,7,average
+E02001238,Tameside 010,Droylsden East,7,6,9,5,7,4,5,5,5,7,8,7,7,6,average
+E02001239,Tameside 011,Droylsden Central,7,7,6,6,7,5,8,4,10,10,8,9,7,7,average
+E02001240,Tameside 012,Droylsden West,3,4,4,3,5,3,4,5,4,3,4,4,3,4,average
+E02001241,Tameside 013,Ashton Central,8,6,8,7,8,5,7,8,6,6,9,11,8,6,average
+E02001242,Tameside 014,Audenshaw,5,8,7,5,7,3,7,5,7,6,10,9,5,8,average
+E02001243,Tameside 015,Stalybridge South,4,5,4,4,7,6,6,5,5,6,5,6,4,5,average
+E02001244,Tameside 016,Dukinfield East & Hough Hill,3,5,4,3,3,4,3,4,3,3,5,4,3,5,average
+E02001245,Tameside 017,Dukinfield West,8,6,6,7,7,7,6,8,7,9,9,6,8,6,average
+E02001246,Tameside 018,Newtonmoor,8,8,9,8,10,8,8,10,8,9,12,8,8,8,average
+E02001247,Tameside 019,Guide Bridge,7,5,6,6,6,7,7,8,5,7,10,6,7,5,average
+E02001248,Tameside 020,Hyde North,5,7,5,6,6,5,7,4,6,6,7,9,5,7,average
+E02001249,Tameside 021,Denton North,7,5,4,3,5,3,4,6,5,5,6,5,7,5,average
+E02001250,Tameside 022,Godley,5,6,6,5,5,5,4,4,5,4,8,6,5,6,average
+E02001251,Tameside 023,Mottram & Hollingworth,6,5,7,6,4,4,2,5,5,4,7,6,6,5,average
+E02001252,Tameside 024,Dane Bank,7,7,7,6,6,6,7,6,6,9,11,8,7,7,average
+E02001253,Tameside 025,Denton West,6,5,7,7,5,6,6,5,5,6,5,7,6,5,average
+E02001254,Tameside 026,Denton East,5,6,5,5,3,5,3,3,4,4,5,6,5,6,average
+E02001255,Tameside 027,Hattersley,5,5,5,5,4,6,5,6,4,8,7,6,5,5,average
+E02001256,Tameside 028,Hyde South,12,13,12,9,10,8,9,12,11,13,14,11,12,13,average
+E02001257,Tameside 029,Denton South,11,11,11,8,10,10,10,11,7,11,15,10,11,11,average
+E02001258,Tameside 030,Cheetham Fold & Gee Cross,6,9,7,7,9,7,6,7,8,10,8,6,6,9,average

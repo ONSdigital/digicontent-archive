@@ -1,0 +1,11 @@
+name,value,max,min,series
+White [note 1],c,c,c,UK-born
+Asian or Asian British,-0.119,-0.199,-0.043,UK-born
+"Black, African, Caribbean or Black British",-0.065,-0.166,0.028,UK-born
+Mixed or Multiple ethnic groups,-0.046,-0.169,0.064,UK-born
+Other ethnic group,-0.129,-0.498,0.149,UK-born
+White [note 1],-0.065,-0.105,-0.026,Non-UK-born
+Asian or Asian British,0.015,-0.047,0.073,Non-UK-born
+"Black, African, Caribbean or Black British",0.092,0.045,0.136,Non-UK-born
+Mixed or Multiple ethnic groups,-0.172,-0.315,-0.044,Non-UK-born
+Other ethnic group,-0.045,-0.126,0.03,Non-UK-born

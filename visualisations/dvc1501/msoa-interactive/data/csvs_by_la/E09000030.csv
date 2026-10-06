@@ -1,0 +1,97 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02000864,Tower Hamlets 001,Bow North & Fish Island,0,11,1,0,0,0,0,0,1,4,5,2,1,0,covid
+E02000865,Tower Hamlets 002,Bethnal Green North East,0,1,2,0,0,0,0,0,0,0,5,2,0,0,covid
+E02000866,Tower Hamlets 003,Bow West,1,3,1,1,0,0,0,1,2,0,5,2,0,0,covid
+E02000867,Tower Hamlets 004,Bow South,1,3,0,0,0,0,0,0,1,0,5,1,0,0,covid
+E02000868,Tower Hamlets 005,Bethnal Green North West,1,6,1,0,0,0,0,0,0,2,6,1,1,0,covid
+E02000869,Tower Hamlets 006,Columbia Road,0,6,1,0,0,0,0,0,0,0,3,3,2,0,covid
+E02000870,Tower Hamlets 007,Bethnal Green East,1,4,1,0,0,0,0,1,0,4,3,0,1,0,covid
+E02000871,Tower Hamlets 008,Bromley-by-Bow East,1,6,0,0,0,0,0,0,2,3,9,4,0,0,covid
+E02000872,Tower Hamlets 009,Brick Lane North,0,2,0,0,0,0,0,1,2,0,12,3,0,0,covid
+E02000873,Tower Hamlets 010,Mile End West,1,5,0,1,0,0,0,0,0,0,4,3,0,0,covid
+E02000874,Tower Hamlets 011,Bethnal Green Central,0,1,0,0,0,0,0,0,0,1,5,1,0,0,covid
+E02000875,Tower Hamlets 012,Bromley-by-Bow West,1,6,0,1,0,0,0,0,1,4,5,4,0,0,covid
+E02000876,Tower Hamlets 013,Bethnal Green South,0,2,0,0,0,0,0,0,0,0,6,1,0,0,covid
+E02000877,Tower Hamlets 014,Mile End East & Burdett Estate,0,4,1,0,0,0,0,1,0,4,11,2,1,0,covid
+E02000878,Tower Hamlets 015,Spitalfields,0,5,0,0,0,0,0,0,1,1,8,1,0,1,covid
+E02000879,Tower Hamlets 016,Stepney Green,3,5,2,0,0,0,0,1,2,1,7,3,1,0,covid
+E02000880,Tower Hamlets 017,Whitechapel,0,1,1,0,0,0,1,0,0,0,6,1,2,0,covid
+E02000881,Tower Hamlets 018,Poplar Leaside,1,7,2,0,0,0,0,0,0,1,7,0,0,0,covid
+E02000882,Tower Hamlets 019,Limehouse North & Stepney East,3,10,0,0,0,0,1,1,1,4,4,4,0,0,covid
+E02000883,Tower Hamlets 020,Poplar Central,0,7,0,1,0,0,1,0,0,1,5,5,0,0,covid
+E02000884,Tower Hamlets 021,Aldgate,1,1,0,0,0,0,0,1,0,0,4,2,1,0,covid
+E02000885,Tower Hamlets 022,Shadwell North,2,6,0,0,0,0,0,0,1,3,10,3,0,0,covid
+E02000886,Tower Hamlets 023,Limehouse East,0,2,0,0,0,0,0,0,1,2,1,4,0,0,covid
+E02000887,Tower Hamlets 024,Poplar West,1,18,1,1,0,0,0,1,0,2,9,1,0,0,covid
+E02000888,Tower Hamlets 025,Shadwell Basin & Ratcliffe,0,2,0,0,0,0,0,0,1,2,2,1,0,0,covid
+E02000889,Tower Hamlets 026,St George in the East & Wapping North,1,1,0,0,0,0,0,0,2,3,4,1,1,1,covid
+E02000890,Tower Hamlets 027,Tower Hill & Wapping South,0,0,1,0,0,0,0,0,0,0,2,0,0,0,covid
+E02000891,Tower Hamlets 028,Blackwall & Leamouth,1,2,0,0,0,0,0,0,0,0,0,0,0,1,covid
+E02000893,Tower Hamlets 030,Mudchute,1,5,1,0,0,0,0,0,1,0,3,2,0,0,covid
+E02000894,Tower Hamlets 031,Millwall South,2,5,1,0,0,0,0,0,1,1,3,2,0,0,covid
+E02006853,Tower Hamlets 032,Millwall North,1,2,0,0,0,0,0,0,0,0,5,0,1,0,covid
+E02006854,Tower Hamlets 033,Canary Wharf,0,0,0,0,0,0,0,0,0,2,1,0,0,0,covid
+E02000864,Tower Hamlets 001,Bow North & Fish Island,4,7,5,2,2,6,5,3,4,3,1,1,1,10,noncovid
+E02000865,Tower Hamlets 002,Bethnal Green North East,1,2,3,1,1,4,0,3,5,2,4,1,2,4,noncovid
+E02000866,Tower Hamlets 003,Bow West,4,3,4,4,2,0,4,6,4,2,6,4,2,1,noncovid
+E02000867,Tower Hamlets 004,Bow South,4,3,2,2,3,5,2,4,1,3,4,1,3,1,noncovid
+E02000868,Tower Hamlets 005,Bethnal Green North West,6,2,7,4,1,1,1,1,3,1,2,3,4,6,noncovid
+E02000869,Tower Hamlets 006,Columbia Road,0,1,6,2,2,0,3,0,2,1,4,3,2,2,noncovid
+E02000870,Tower Hamlets 007,Bethnal Green East,1,3,3,3,3,3,3,1,3,4,1,1,1,1,noncovid
+E02000871,Tower Hamlets 008,Bromley-by-Bow East,3,3,4,2,3,1,3,1,4,1,3,1,4,7,noncovid
+E02000872,Tower Hamlets 009,Brick Lane North,1,2,2,1,2,1,2,1,3,4,1,3,1,5,noncovid
+E02000873,Tower Hamlets 010,Mile End West,1,4,6,2,4,3,1,3,4,1,2,1,4,1,noncovid
+E02000874,Tower Hamlets 011,Bethnal Green Central,1,2,1,2,3,0,1,1,2,2,4,2,2,4,noncovid
+E02000875,Tower Hamlets 012,Bromley-by-Bow West,3,6,4,1,3,3,4,7,4,6,5,1,6,3,noncovid
+E02000876,Tower Hamlets 013,Bethnal Green South,0,1,2,0,4,1,3,4,1,1,1,1,1,2,noncovid
+E02000877,Tower Hamlets 014,Mile End East & Burdett Estate,0,8,1,5,4,2,5,8,5,8,7,4,5,4,noncovid
+E02000878,Tower Hamlets 015,Spitalfields,2,4,3,3,2,1,6,1,5,3,5,2,3,5,noncovid
+E02000879,Tower Hamlets 016,Stepney Green,6,7,5,1,2,7,3,1,3,4,4,4,7,6,noncovid
+E02000880,Tower Hamlets 017,Whitechapel,1,1,1,1,3,0,3,1,3,2,7,2,1,1,noncovid
+E02000881,Tower Hamlets 018,Poplar Leaside,4,6,4,3,4,3,3,6,4,4,2,1,3,4,noncovid
+E02000882,Tower Hamlets 019,Limehouse North & Stepney East,4,1,6,2,3,2,2,3,5,5,1,4,2,3,noncovid
+E02000883,Tower Hamlets 020,Poplar Central,6,4,2,4,2,3,2,5,3,3,8,5,5,6,noncovid
+E02000884,Tower Hamlets 021,Aldgate,4,4,0,0,1,0,2,1,2,1,1,1,1,1,noncovid
+E02000885,Tower Hamlets 022,Shadwell North,2,4,2,4,2,3,7,2,1,5,1,2,3,3,noncovid
+E02000886,Tower Hamlets 023,Limehouse East,1,3,3,4,0,0,4,3,1,2,1,2,4,3,noncovid
+E02000887,Tower Hamlets 024,Poplar West,2,8,1,4,2,3,4,4,3,2,2,1,6,6,noncovid
+E02000888,Tower Hamlets 025,Shadwell Basin & Ratcliffe,2,4,2,0,3,1,1,4,1,3,2,3,1,2,noncovid
+E02000889,Tower Hamlets 026,St George in the East & Wapping North,2,1,1,3,4,1,3,2,6,1,1,1,1,2,noncovid
+E02000890,Tower Hamlets 027,Tower Hill & Wapping South,4,3,1,1,2,1,1,2,1,6,1,2,3,0,noncovid
+E02000891,Tower Hamlets 028,Blackwall & Leamouth,7,3,1,0,2,1,4,1,3,2,3,2,2,4,noncovid
+E02000893,Tower Hamlets 030,Mudchute,1,1,2,2,3,3,3,1,1,7,1,4,3,0,noncovid
+E02000894,Tower Hamlets 031,Millwall South,1,3,3,4,2,3,3,3,2,3,2,2,0,0,noncovid
+E02006853,Tower Hamlets 032,Millwall North,2,3,1,1,5,1,1,0,0,0,2,5,2,1,noncovid
+E02006854,Tower Hamlets 033,Canary Wharf,1,1,0,1,3,0,0,4,0,2,1,0,1,1,noncovid
+E02000864,Tower Hamlets 001,Bow North & Fish Island,5,5,5,5,5,5,6,4,4,5,6,4,5,5,average
+E02000865,Tower Hamlets 002,Bethnal Green North East,4,3,2,4,3,2,3,3,3,2,5,3,4,3,average
+E02000866,Tower Hamlets 003,Bow West,4,2,3,4,3,3,2,5,3,5,5,3,4,2,average
+E02000867,Tower Hamlets 004,Bow South,4,3,3,1,3,2,3,2,3,3,3,4,4,3,average
+E02000868,Tower Hamlets 005,Bethnal Green North West,3,2,3,2,2,2,3,3,3,3,3,2,3,2,average
+E02000869,Tower Hamlets 006,Columbia Road,4,3,3,3,1,3,3,3,3,3,4,3,4,3,average
+E02000870,Tower Hamlets 007,Bethnal Green East,3,2,3,2,2,2,2,3,4,5,4,2,3,2,average
+E02000871,Tower Hamlets 008,Bromley-by-Bow East,2,3,3,4,2,2,3,3,3,2,3,3,2,3,average
+E02000872,Tower Hamlets 009,Brick Lane North,3,2,2,3,1,2,2,2,2,2,2,2,3,2,average
+E02000873,Tower Hamlets 010,Mile End West,2,3,2,3,2,2,3,4,2,3,3,2,2,3,average
+E02000874,Tower Hamlets 011,Bethnal Green Central,2,1,2,1,3,1,2,2,3,3,2,1,2,1,average
+E02000875,Tower Hamlets 012,Bromley-by-Bow West,4,2,3,3,3,3,3,2,2,2,2,3,4,2,average
+E02000876,Tower Hamlets 013,Bethnal Green South,1,2,1,2,2,1,1,2,2,1,3,3,1,2,average
+E02000877,Tower Hamlets 014,Mile End East & Burdett Estate,4,5,4,3,3,5,2,3,3,4,3,3,4,5,average
+E02000878,Tower Hamlets 015,Spitalfields,4,3,3,4,2,2,3,3,3,3,3,1,4,3,average
+E02000879,Tower Hamlets 016,Stepney Green,6,8,6,6,6,4,6,7,6,5,7,5,6,8,average
+E02000880,Tower Hamlets 017,Whitechapel,2,4,2,2,3,2,2,2,3,3,3,2,2,4,average
+E02000881,Tower Hamlets 018,Poplar Leaside,3,2,3,3,2,4,4,2,4,3,4,2,3,2,average
+E02000882,Tower Hamlets 019,Limehouse North & Stepney East,3,4,4,3,2,5,3,3,4,3,5,3,3,4,average
+E02000883,Tower Hamlets 020,Poplar Central,3,4,5,3,4,3,2,3,5,4,4,4,3,4,average
+E02000884,Tower Hamlets 021,Aldgate,3,2,1,2,2,2,2,3,2,2,1,1,3,2,average
+E02000885,Tower Hamlets 022,Shadwell North,3,4,3,3,2,4,1,3,2,3,4,3,3,4,average
+E02000886,Tower Hamlets 023,Limehouse East,2,2,3,2,1,2,3,2,3,2,2,2,2,2,average
+E02000887,Tower Hamlets 024,Poplar West,6,4,6,4,5,5,5,4,4,5,6,5,6,4,average
+E02000888,Tower Hamlets 025,Shadwell Basin & Ratcliffe,2,3,2,2,2,2,1,3,1,1,2,2,2,3,average
+E02000889,Tower Hamlets 026,St George in the East & Wapping North,1,1,1,3,2,2,2,2,2,3,2,2,1,1,average
+E02000890,Tower Hamlets 027,Tower Hill & Wapping South,2,3,2,2,3,3,2,2,2,2,3,1,2,3,average
+E02000891,Tower Hamlets 028,Blackwall & Leamouth,3,3,2,2,3,3,3,2,2,4,2,3,3,3,average
+E02000893,Tower Hamlets 030,Mudchute,2,4,2,2,3,3,2,3,3,2,3,2,2,4,average
+E02000894,Tower Hamlets 031,Millwall South,2,3,2,3,1,2,1,3,3,1,2,1,2,3,average
+E02006853,Tower Hamlets 032,Millwall North,1,2,2,2,1,2,1,2,1,2,2,2,1,2,average
+E02006854,Tower Hamlets 033,Canary Wharf,1,0,0,1,0,0,1,0,0,1,1,1,1,0,average

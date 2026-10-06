@@ -1,0 +1,147 @@
+body {
+    max-width: 700px;
+    margin: 0px auto;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.visuallyhidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+}
+
+#info {
+    min-height: 25px;
+    width: 100%;
+    font-size: 16px;
+    padding: 10px 0 10px 12px;
+}
+
+#label {
+    font-weight: bold;
+}
+
+g.tick text {
+    font-size: 14px;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: none;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 11px;
+}
+
+#xaxislabel {
+    font-size: 14px;
+    fill: #707071;
+}
+
+.cells path {
+    fill: none;
+    pointer-events: all;
+}
+
+.cellsselected {
+    opacity: 0.75;
+    stroke-width: 2px;
+    stroke: #000;
+    fill: #F4A148;
+    r: 5px;
+}
+
+#source {
+    font-size: 16px;
+    margin: 8px 0 8px 0;
+    font-weight: 400;
+    color: #707071;
+}
+
+.label {
+    white-space: nowrap;
+    font-size: 14px;
+    color: #333;
+    font-weight: normal;
+    font-family: "Open Sans", Helvetica, sans-serif;
+}
+
+/* required */
+.key {
+    display: inline-block;
+    margin: 0 0 1em 0;
+    padding: 0;
+    line-height: 15px;
+}
+
+.key li {
+    display: inline-block;
+    margin: 0 18px 0 0;
+    padding: 0;
+    line-height: 15px;
+}
+
+.key b {
+    display: inline-block;
+    width: 35px;
+    height: 15px;
+    margin-right: 6px;
+    background-color: transparent;
+    margin-top: 8px;
+    border-radius: 15px;
+}
+
+.key label {
+    white-space: nowrap;
+    font-size: 12px;
+    color: #333;
+    font-weight: normal;
+}
+
+/* legend div */
+#legend {
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 10px;
+}
+
+.legend--item {
+    display: flex;
+    padding-right: 40px;
+    padding-bottom: 12px;
+}
+
+.legend--icon--diamond {
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    align-self: center;
+    flex-shrink: 0;
+}
+
+.legend--text {
+    color: #707070;
+    line-height: 14px;
+    font-size: 14px;
+    padding-left: 12px;
+    margin: 0;
+}
+
+@media (max-width: 400px) {
+    #legend {
+        flex-flow: column;
+    }
+
+    .legend--item {
+        padding-bottom: 8px;
+    }
+}

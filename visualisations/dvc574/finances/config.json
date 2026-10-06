@@ -1,0 +1,44 @@
+{
+    "essential" : {
+			"GraphType" : "clusterBar" ,
+            "graphic_data_url": "data.csv",
+            "colour_palette": [ "#0075A3" , "#E2BC22"],
+            "dateFormat":"%Y-%y",
+            "legendLabels" :[ "Sandwich carers" , "The general population"],
+      			"legendStyle": "rect",
+      			"sourceText":["Understanding Society, 2016-2017"],
+            "sourceURL":["http://www.ons.gov.uk/"],
+
+            "annotationChart": [
+            ],
+            "annotationBullet": [
+            ],
+            "annotationXY":[
+            ],
+            "annotationAlign":[
+            ],
+
+            "circles" : false,
+            "annotationCXCY":[
+            ],
+
+            "xAxisLabel":"% of respondents",
+            "xAxisScale":[0,50],
+            "barHeight_sm_md_lg" : [80,80,80]
+
+    },
+    "optional" : {
+            "margin_sm": [40, 10, 45, 120],
+            "margin_md": [20, 130, 45, 150],
+            "margin_lg": [20, 90, 45, 170],
+
+
+            "mobileBreakpoint" : 550,
+
+            "xAxisTextFormat_sm_md_lg" : ["","",""],
+
+            "x_num_ticks_sm_md_lg" : [5,5,5],
+            "centre_line" : false,
+            "centre_line_value" : 10
+    }
+}

@@ -1,0 +1,139 @@
+{
+  "essential": {
+    "graphic_data_url": "total.csv",
+    "dateFormat": "%d/%m/%Y",
+    "legendLabels": ["Care home", "Home","Hospital (acute or community, not psychiatric)", "Hospice","Elsewhere","Other communal establishment"],
+    "colour_palette": ["#003c57", "#206095","#2c776d","#16b9c3","#a8bd3a","#7ec8fa"],
+    "legendStyle": ["line", "line","line","line","line","line"],
+    "plotLines": [
+      {
+      "key": "Care home",
+      "colour": "#003c57"
+      },
+      {
+      "key": "Home",
+      "colour": "#206095"
+      },
+      {
+      "key": "Hospital",
+      "colour": "#2c776d"
+      },
+      {
+      "key": "Hospice",
+      "colour": "#16b9c3"
+      },
+      {
+        "key": "Elsewhere",
+        "colour": "#a8bd3a"
+      },
+      {
+        "key":"Other communal establishment",
+        "colour":"#7ec8fa"
+      }
+
+  ],
+    "directLabels": [
+      {
+        "variable": "Care home",
+        "label": "Care home",
+        "colour": "#003c57",
+        "dx":7,
+        "dy":5
+      },
+      {
+        "variable": "Home",
+        "label": "Private home",
+        "colour": "#206095",
+        "dx":7,
+        "dy":6
+      },
+      {
+        "variable": "Hospital",
+        "label": "Hospital (acute or community, not psychiatric)",
+        "colour":"#2c776d",
+        "dx":7,
+        "dy":-20
+      },
+      {
+        "variable": "Hospice",
+        "label": "Hospice",
+        "colour": "#16b9c3",
+        "dx":7,
+        "dy":11
+      },
+      {
+        "variable": "Elsewhere",
+        "label": "Elsewhere",
+        "colour": "#a8bd3a",
+        "dx":7,
+        "dy":6
+      },
+      {
+        "variable": "Other communal establishment",
+        "label": "Other communal establishment",
+        "colour":"#7ec8fa",
+        "dx":7,
+        "dy":-25
+      }
+
+    ],
+    "sourceText": "Office for National Statistics – Analysis of death registrations not involving coronavirus (COVID-19)",
+    "circles": false,
+    "yAxisLabel": "Excess deaths",
+    "xAxisLabel": "Week ending",
+    "yAxisScale": [-2000, 3000],
+    "yAxisBreak": false,
+    "yAxisBreakValue": {
+      "sm": 12,
+      "md": 10,
+      "lg": 10
+    }
+  },
+
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 120,
+        "right": 20,
+        "bottom": 50,
+        "left": 40
+      },
+      "md": {
+        "top": 30,
+        "right": 120,
+        "bottom": 50,
+        "left": 40
+      },
+      "lg": {
+        "top": 30,
+        "right": 140,
+        "bottom": 50,
+        "left": 40
+      }
+    },
+
+    "aspectRatio": {
+      "sm": [16, 8],
+      "md": [16, 8],
+      "lg": [16, 8]
+    },
+
+    "mobileBreakpoint": 500,
+    "middleBreakpoint": 600,
+
+    "x_ticks_every": {
+      "sm": 4,
+      "md": 3,
+      "lg": 2
+    },
+    "y_num_ticks": {
+      "sm": 5,
+      "md": 5,
+      "lg": 5
+    },
+
+    "lineMarkers": false
+
+
+  }
+}

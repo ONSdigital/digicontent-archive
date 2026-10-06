@@ -1,0 +1,41 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+            "dateFormat":"",
+            "legendLabels" : ["2015-2019 average","2020"],
+            "legendStyle": "circle",
+            "colour_palette": [ "#dadada" , "#0075A3"],
+            "label_average":"",
+            "colour_average": "gray",
+            "stroke_average_line": "gray",
+            "sourceText":["Office for National Statistics"],
+            "sourceURL":[""],
+
+            "annotationChart": [],
+            "annotationBullet": [],
+            "annotationXY":[],
+            "annotationAlign":[],
+			      "minmaxonly":"true",
+
+            "xAxisLabel":"Number of deaths",
+            "yAxisLabel":"",
+            "xAxisScale": [],
+			      "switchSummary": ""
+
+    },
+    "optional" : {
+            "margin_sm": [20, 20, 50, 160],
+            "margin_md": [20, 20, 50, 240],
+            "margin_lg": [20, 20, 50, 240],
+
+            "aspectRatio_sm" : [3,8],
+            "aspectRatio_md" : [4,3],
+            "aspectRatio_lg" : [4,3],
+
+            "mobileBreakpoint" : 510,
+
+            "x_num_ticks_sm_md_lg" : [3,5,7],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}

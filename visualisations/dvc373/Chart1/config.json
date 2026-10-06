@@ -1,0 +1,83 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+        
+            "dateFormat":"%d-%b-%y",
+            
+            "legendLabels" : [],
+            "legendStyle": "line", 
+            "colour_palette": [ "#274796" , "green", "#E73F40", "#7BCAE2" ],
+            
+            "sourceText":["Bank of England"],
+            "sourceURL":["http://www.bankofengland.co.uk/boeapps/iadb/index.asp?Travel=NIxIRx&levels=2&XNotes=Y&A3951XNode3951.x=5&A3951XNode3951.y=1&Nodes=&SectionRequired=I&HideNums=-1&ExtraInfo=true#BM"],
+            "draggable": false,
+           "annotationsChart" : [
+              {
+                "xVal": "2016-02-22T00:00:00.000Z",
+                "yVal": 3,
+                "path": "",
+                "text": "20th Feb 2016 - the date for the EU referendum was announced",
+                "textOffset": [0,0]
+              },
+               
+              {
+                "xVal": "2016-06-26T00:00:00.000Z",
+                "yVal": -3.5,
+                "path": "",
+                "text": "24th Jun 2016 - the result of the EU referendum was announced",
+                "textOffset": [0,0]
+              },
+               
+              {
+                "xVal": "2016-09-30T00:00:00.000Z",
+                "yVal": -13,
+                "path": "",
+                "text": "2nd Oct 2016 - PM Theresa May announces that Article 50 will be triggered by March 2017",
+                "textOffset": [0,0]
+              }
+            ],
+            
+            "wordwrap":[25,32,28],
+            "annoAlign": ["start","start","end"],
+            "annotationBullet" : ["20th Feb 2016 - the date for the EU referendum was announced","24th Jun 2016 - the result of the EU referendum was announced","2nd Oct 2016 - PM Theresa May announces that Article 50 will be triggered March 2017"],
+        
+            "circles" : true,    
+            "annotationCXCY":[["20-Feb-16","0"],["24-Jun-16","-5.2"],["02-Oct-16","-11"]],
+        
+            "yAxisLabel":"% change",
+            "yAxisScale":[-20,10],   
+            "yAxisBreak": false,
+            "yAxisBreak_sm_md_lg": [65,65,65]            
+    },
+    
+    "optional" : {
+            "margin_sm": [50, 10, 55, 30],
+            "margin_md": [50, 10, 55, 30],
+            "margin_lg": [50, 10, 55, 30],
+        
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+        
+            "mobileBreakpoint" : 610, 
+            
+            "xAxisTextFormat_sm_md_lg" : ["%b %y", "%b %y", "%b %y"], 
+                
+            "x_num_ticks_sm_md_lg" : [5,10,10],    
+            "y_num_ticks_sm_md_lg" : [5,10,10],
+        
+            "lineMarkers" : false,
+        
+            "vertical_line" : true,
+            "annotateLineX1_Y1_X2_Y2" : [],
+        
+            "annotateRect" : true,
+            "annotateRectX_Y" : [ [["04-Jan-16", 100],["04-Jan-16", 0]], [["04-Jul-16", 180],["04-Jul-16", 40]] ],
+            "lineColor_opcty" : [["#ABCDEF", 0.2], ["#888", 0.4]],
+        
+            "centre_line" : false,
+            "centre_line_value" : 25
+    }
+}
+
+

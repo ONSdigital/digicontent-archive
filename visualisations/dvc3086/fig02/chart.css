@@ -1,0 +1,33 @@
+line.between{
+  stroke:#c6c6c6;
+  stroke-width:3px;
+}
+
+.y.axis .tick line {
+  stroke: #c6c6c6;
+  stroke-width: 1px;
+  stroke-dasharray: 2px 2px;
+}
+
+.dataLabels{
+  font-weight: 600;
+  font-size: 14px;
+}
+
+p.groupLabels{
+  /* padding-top:15px; */
+  font-weight: 600;
+}
+
+.confidenceBand {
+  opacity: 0.30;
+}
+
+.middleLine {
+  stroke-linecap: round;
+}
+
+/* #source {
+  font-weight: 700 !important;
+  color: #222222 !important;
+} */

@@ -1,0 +1,147 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "reference": "m+sd",
+    "comparison": "m-sd",
+    "dateFormat": "%d/%m/%Y",
+    "legendLabels": ["2020/21", "2016/17 to 2019/20 average", "2016/17 to 2019/20 range"],
+    "colour_palette": ["#206095", "#27A0CC","#9e9e9e"],
+    "legendStyle": ["line","line", "rect"],
+    "plotLines": [{
+      "key": "2020",
+      "colour": "#206095"
+    }, {
+      "key": "mean",
+      "colour": "#27A0CC"
+    }],
+    "directLabels": [
+      {
+        "variable": 2020,
+        "label": "2020/21",
+        "value": 3800
+      },
+      {
+        "variable": "mean",
+        "label": "2016/17 to 2019/20 average",
+        "value": 3100
+      },
+      {
+        "variable": "mean",
+        "label": "and range",
+        "value": 2600
+      }
+
+    ],
+    "sourceText": ["NHS England and NHS Improvement Urgent and Emergency Care Daily Situation Report"],
+    "draggable": false,
+    "annotationsChart" : [
+    {
+        "xVal": "18-Nov",
+        "yVal": 6700,
+        "path": "",
+        "text": "5 Nov - 2 Dec: 2nd national lockdown",
+        "textOffset": [0,0]
+      },
+      {
+          "xVal": "03-Dec",
+          "yVal": 4300,
+          "path": "",
+          "text": "2 Dec: Tier restrictions in effect",
+          "textOffset": [0,0]
+        },
+        {
+            "xVal": "25-Dec",
+            "yVal": 6500,
+            "path": "",
+            "text": "Christmas Day",
+            "textOffset": [0,0]
+          },
+          {
+              "xVal": "27-Dec",
+              "yVal": 5500,
+              "path": "",
+              "text": "26 Dec: Tier restrictions in effect",
+              "textOffset": [0,0]
+            },
+            {
+                "xVal": "09-Feb",
+                "yVal": 6700,
+                "path": "",
+                "text": "5 Jan onwards: 3rd national lockdown",
+                "textOffset": [0,0]
+              }
+    ],
+
+    "wordwrap":[15,12,10,12,15],
+    "annoAlign": ["middle","start","middle", "start", "middle"],
+    "annotationBullet" : [
+            "5 November to 2 December - Second national lockdown",
+            "2 December to 25 December - Tier restrictions",
+            "26 December to 4 January - Tier restrictions",
+            "5 January onwards - Third national lockdown"
+        ],
+
+    "circles": false,
+    "yAxisLabel": "Occupied adult critical care beds",
+    "xAxisLabel": "",
+    "yAxisScale": [2500, 7000],
+    "yAxisBreak": false,
+    "yAxisBreakValue": {
+      "sm": 12,
+      "md": 10,
+      "lg": 10
+    }
+  },
+
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 80,
+        "right": 15,
+        "bottom": 55,
+        "left": 40
+      },
+      "md": {
+        "top": 30,
+        "right": 115,
+        "bottom": 55,
+        "left": 40
+      },
+      "lg": {
+        "top": 30,
+        "right": 115,
+        "bottom": 55,
+        "left": 40
+      }
+    },
+
+    "aspectRatio": {
+      "sm": [16, 8],
+      "md": [16, 8],
+      "lg": [16, 8]
+    },
+
+    "mobileBreakpoint": 414,
+    "middleBreakpoint": 600,
+
+    "x_ticks_every": {
+      "sm": 25,
+      "md": 20,
+      "lg": 20
+    },
+    "y_num_ticks": {
+      "sm": 5,
+      "md": 5,
+      "lg": 5
+    },
+    "vertical_line" : true,
+    "annotateLineX1_Y1_X2_Y2" : [ [["02-Dec", "3276"],["02-Dec", "4100"]], [["25-Dec", "3329"],["25-Dec", "6200"]], [["26-Dec", "3290"],["26-Dec", "5500"]] ],
+
+    "annotateRect" : true,
+    "annotateRectX_Y" : [ [["05-Nov", 7000],["02-Dec", 2200]], [["04-Jan", 7000],["12-Mar", 2200]]] ,
+    "lineColor_opcty" : [["#ABCDEF", 0.2], ["#ABCDEF", 0.2]],
+    "lineMarkers": false
+
+
+  }
+}

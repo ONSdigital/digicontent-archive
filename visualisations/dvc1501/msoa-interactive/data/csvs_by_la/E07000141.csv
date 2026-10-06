@@ -1,0 +1,49 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02005476,South Kesteven 001,"Ancaster, Caythorpe & Claypole",0,1,0,0,0,0,0,0,2,2,1,2,1,0,covid
+E02005477,South Kesteven 002,"Long Bennington, Allington & Barrowby",0,3,0,0,0,0,0,1,0,2,3,4,2,0,covid
+E02005478,South Kesteven 003,Grantham North East,0,0,1,0,0,0,0,0,2,11,8,10,1,0,covid
+E02005479,South Kesteven 004,Grantham North West,0,5,0,1,0,0,0,2,2,5,8,2,1,0,covid
+E02005480,South Kesteven 005,Grantham South West,0,1,0,0,0,0,0,0,0,1,3,1,1,0,covid
+E02005481,South Kesteven 006,Grantham South East,0,2,2,0,0,0,0,0,3,5,6,2,4,0,covid
+E02005482,South Kesteven 007,"Corby Glen, Ropsley & Grantham Outskirts",0,0,1,0,0,1,0,0,2,2,1,0,0,0,covid
+E02005483,South Kesteven 008,Morton & Billingborough,0,0,1,1,0,0,0,0,0,3,1,5,1,0,covid
+E02005484,South Kesteven 009,"Harlaxton, Colsterworth & South Witham",0,1,1,0,0,0,0,0,3,2,1,3,1,0,covid
+E02005485,South Kesteven 010,Bourne West,0,6,3,2,0,0,1,0,0,0,0,4,1,0,covid
+E02005486,South Kesteven 011,Bourne East,0,7,2,0,0,0,0,0,1,1,0,11,1,0,covid
+E02005487,South Kesteven 012,"Langtoft, Thurlby & Uffington",0,1,2,1,0,0,0,1,0,5,13,3,0,0,covid
+E02005488,South Kesteven 013,Market Deeping,0,0,2,2,0,0,0,0,1,1,2,0,0,0,covid
+E02005489,South Kesteven 014,Deeping St James & Frognall,0,1,1,3,1,0,0,0,2,0,2,2,0,0,covid
+E02005490,South Kesteven 015,Stamford North,0,1,1,3,0,0,0,0,0,0,21,2,1,0,covid
+E02005491,South Kesteven 016,"Stamford Central, West and South",0,3,2,0,0,0,0,0,0,2,2,1,1,0,covid
+E02005476,South Kesteven 001,"Ancaster, Caythorpe & Claypole",2,5,4,6,4,10,8,11,6,7,3,5,5,1,noncovid
+E02005477,South Kesteven 002,"Long Bennington, Allington & Barrowby",10,11,9,8,2,8,8,8,5,5,6,8,13,6,noncovid
+E02005478,South Kesteven 003,Grantham North East,12,14,11,11,10,16,3,7,8,12,20,7,11,9,noncovid
+E02005479,South Kesteven 004,Grantham North West,18,16,8,7,9,7,8,8,8,8,9,14,14,12,noncovid
+E02005480,South Kesteven 005,Grantham South West,2,5,2,8,2,2,5,3,4,1,6,3,5,3,noncovid
+E02005481,South Kesteven 006,Grantham South East,10,9,11,8,19,7,6,12,11,12,19,7,9,7,noncovid
+E02005482,South Kesteven 007,"Corby Glen, Ropsley & Grantham Outskirts",5,9,3,5,2,5,5,2,10,6,9,8,3,7,noncovid
+E02005483,South Kesteven 008,Morton & Billingborough,8,13,6,5,8,6,12,5,4,10,7,8,6,4,noncovid
+E02005484,South Kesteven 009,"Harlaxton, Colsterworth & South Witham",4,5,3,7,7,4,3,4,2,9,5,5,4,7,noncovid
+E02005485,South Kesteven 010,Bourne West,6,16,9,3,6,6,12,4,6,7,6,5,6,8,noncovid
+E02005486,South Kesteven 011,Bourne East,12,13,9,6,3,18,14,14,10,17,15,5,8,2,noncovid
+E02005487,South Kesteven 012,"Langtoft, Thurlby & Uffington",6,3,8,10,7,10,7,7,12,7,8,4,9,4,noncovid
+E02005488,South Kesteven 013,Market Deeping,7,4,5,7,6,1,10,5,4,6,7,6,3,7,noncovid
+E02005489,South Kesteven 014,Deeping St James & Frognall,4,6,8,6,4,3,6,7,2,8,7,4,2,0,noncovid
+E02005490,South Kesteven 015,Stamford North,8,11,8,7,10,5,7,8,7,9,15,5,8,3,noncovid
+E02005491,South Kesteven 016,"Stamford Central, West and South",10,11,8,9,7,12,3,7,6,8,9,10,9,9,noncovid
+E02005476,South Kesteven 001,"Ancaster, Caythorpe & Claypole",5,5,7,4,4,4,6,6,5,6,7,4,5,5,average
+E02005477,South Kesteven 002,"Long Bennington, Allington & Barrowby",9,8,9,7,6,8,6,6,8,10,10,10,9,8,average
+E02005478,South Kesteven 003,Grantham North East,16,8,11,13,10,11,7,14,15,10,13,15,16,8,average
+E02005479,South Kesteven 004,Grantham North West,11,10,9,11,11,8,11,9,13,11,14,9,11,10,average
+E02005480,South Kesteven 005,Grantham South West,5,5,3,3,4,3,4,4,3,4,3,4,5,5,average
+E02005481,South Kesteven 006,Grantham South East,11,9,10,9,10,9,8,8,9,10,13,9,11,9,average
+E02005482,South Kesteven 007,"Corby Glen, Ropsley & Grantham Outskirts",7,6,8,6,6,6,5,6,5,6,9,6,7,6,average
+E02005483,South Kesteven 008,Morton & Billingborough,9,6,7,7,7,7,5,7,7,8,7,6,9,6,average
+E02005484,South Kesteven 009,"Harlaxton, Colsterworth & South Witham",4,6,5,4,6,3,6,5,4,4,5,5,4,6,average
+E02005485,South Kesteven 010,Bourne West,7,7,6,6,6,7,7,6,9,7,11,8,7,7,average
+E02005486,South Kesteven 011,Bourne East,12,12,10,8,11,10,11,10,13,11,13,15,12,12,average
+E02005487,South Kesteven 012,"Langtoft, Thurlby & Uffington",8,7,7,4,5,6,5,7,7,7,10,8,8,7,average
+E02005488,South Kesteven 013,Market Deeping,5,6,6,5,4,5,6,6,5,7,5,8,5,6,average
+E02005489,South Kesteven 014,Deeping St James & Frognall,5,4,4,4,5,4,5,5,5,6,4,5,5,4,average
+E02005490,South Kesteven 015,Stamford North,9,7,6,6,8,5,6,8,7,7,10,9,9,7,average
+E02005491,South Kesteven 016,"Stamford Central, West and South",10,8,10,11,7,8,8,9,10,10,11,11,10,8,average

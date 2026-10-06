@@ -1,0 +1,25 @@
+{
+    "essential" : {
+            "dataFile":"data.csv",
+            "sourceText":["Office for National Statistics - Wealth and Assets Survey"],
+            "yAxisScale":[0.40,0.91],
+            "numberFormat":".0%",
+            "gHeight_sm_md_lg":[30,27.5,25],
+            "legendLabels":["Bottom Quintile", "Quintile 2", "Quintile 3", "Quintile 4", "Top Quintile"],
+            "colour_palette":{
+              "Bottom Quintile":"#a3b6c4",
+              "Quintile 2":"#7e96a8",
+              "Quintile 3":"#5a778c",
+              "Quintile 4":"#355972",
+              "Top Quintile":"#053D58"
+            }
+    },
+    "optional" : {
+            "margin_sm": [90, 20, 40, 30],
+            "margin_md": [70, 20, 40, 30],
+            "margin_lg": [50, 20, 20, 30],
+
+            "mobileBreakpoint" : 501,
+            "mediumBreakpoint":600
+    }
+}

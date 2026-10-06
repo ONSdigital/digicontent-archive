@@ -1,0 +1,124 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+
+            "dateFormat":"%b-%y",
+
+            "legendLabels" : [
+              "Manufacture of Food products, beverages and tobacco",
+              "Manufacture of textiles, wearing apparel and leather products",
+              "Manufacture of wood and paper products, and printing",
+              "Manufacture of coke, and refined petroleum products",
+              "Manufacture of chemicals and chemical products",
+              "Manufacture Of Basic Pharmaceutical Products And Pharmaceutical Preparations",
+              "Manufacture of rubber and plastics products, & other non-metallic mineral products",
+              "Manufacture of basic metals and metal products",
+              "Manufacturing of computer, electronic & optical products",
+              "Manufacture of electrical equipment",
+              "Manufacture of machinery and equipment n.e.c.",
+              "Manufacture of transport equipment",
+              "Other manufacturing and repair",
+              "Manufacturing"
+            ],
+            "legendStyle": "line",
+            "directLabeling" : true,
+            "directLabelingAdjust" : {
+              "Manufacture of Food products, beverages and tobacco": {"x": 0, "y": 3},
+              "Manufacture of textiles, wearing apparel and leather products": {"x": 0, "y": -3},
+              "Manufacture of wood and paper products, and printing": {"x": 0, "y": -8},
+              "Manufacture of coke, and refined petroleum products": {"x": 0, "y": 0},
+              "Manufacture of chemicals and chemical products": {"x": 0, "y": -3},
+              "Manufacture Of Basic Pharmaceutical Products And Pharmaceutical Preparations": {"x": 0, "y": 0},
+              "Manufacture of rubber and plastics products, & other non-metallic mineral products": {"x": 0, "y": 0},
+              "Manufacture of basic metals and metal products": {"x": 0, "y": -5},
+              "Manufacturing of computer, electronic & optical products": {"x": 0, "y": -4},
+              "Manufacture of electrical equipment": {"x": 0, "y": -6},
+              "Manufacture of machinery and equipment n.e.c.": {"x": 0, "y": 8},
+              "Manufacture of transport equipment": {"x": 0, "y": 0},
+              "Other manufacturing and repair": {"x": 0, "y": 6},
+              "Manufacturing": {"x": 0, "y": -11}
+            },
+            "colour_palette": {
+              "Manufacture of Food products, beverages and tobacco": "#949494",
+              "Manufacture of textiles, wearing apparel and leather products": "#949494",
+              "Manufacture of wood and paper products, and printing": "#949494",
+              "Manufacture of coke, and refined petroleum products": "#949494",
+              "Manufacture of chemicals and chemical products": "#949494",
+              "Manufacture Of Basic Pharmaceutical Products And Pharmaceutical Preparations": "#949494",
+              "Manufacture of rubber and plastics products, & other non-metallic mineral products": "#949494",
+              "Manufacture of basic metals and metal products": "#949494",
+              "Manufacturing of computer, electronic & optical products": "#949494",
+              "Manufacture of electrical equipment": "#949494",
+              "Manufacture of machinery and equipment n.e.c.": "#949494",
+              "Manufacture of transport equipment": "#949494",
+              "Other manufacturing and repair": "#949494",
+              "Manufacturing": "#00A7A3"
+            },
+
+            "sourceText":["Office for National Statistics"],
+            "sourceURL":["http://www.ons.gov.uk"],
+            "draggable": false,
+           "annotationsChart" : [
+              {
+                "xVal": "2003-06-23T00:00:00.000Z",
+                "yVal": 160,
+                "path": "",
+                "text": "",
+                "textOffset": [0,0]
+              },
+
+              {
+                "xVal": "1995-06-23T00:00:00.000Z",
+                "yVal": 120,
+                "path": "",
+                "text": "",
+                "textOffset": [0,0]
+              }
+            ],
+
+            "wordwrap":[30,20,10],
+            "annoAlign": ["middle","middle","end"],
+            "annotationBullet" : [],
+
+            "circles" : false,
+            "annotationCXCY":[
+                ["Jan-93","68.4"],
+                ["Jan-08","73"]
+            ],
+            "annotationColour": ["green"],
+
+            "yAxisLabel":"%",
+            "yAxisScale":[40,110],
+            "yAxisBreak": false,
+            "yAxisBreak_sm_md_lg": [65,65,65]
+    },
+
+    "optional" : {
+            "margin_sm": [20, 420, 55, 30],
+            "margin_md": [20, 420, 55, 30],
+            "margin_lg": [20, 420, 55, 30],
+
+            "aspectRatio_sm" : [10,27],
+            "aspectRatio_md" : [10,27],
+            "aspectRatio_lg" : [10,27],
+
+            "mobileBreakpoint" : 414,
+
+            "xAxisTextFormat_sm_md_lg" : ["%b", "%b", "%b"],
+
+            "x_num_ticks_sm_md_lg" : [3,3,3],
+            "y_num_ticks_sm_md_lg" : [5,5,5],
+
+            "lineMarkers" : true,
+
+            "vertical_line" : true,
+            "annotateLineX1_Y1_X2_Y2" : [ [["Jul-00", "200"],["Jul-00", "0"]], [["Jul-08", "100"],["Jul-08", "200"]] ],
+
+            "annotateRect" : true,
+            "annotateRectX_Y" : [ [["Jan-94", 200],["Jan-96", 0]], [["Jul-04", 180],["Jul-06", 40]] ],
+            "lineColor_opcty" : [["#ABCDEF", 0.2], ["#888", 0.4]],
+
+            "centre_line" : false,
+            "centre_line_value" : 100
+    }
+}

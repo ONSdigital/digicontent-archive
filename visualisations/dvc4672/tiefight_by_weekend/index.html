@@ -1,0 +1,601 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600|Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+  <title></title>
+
+  <meta name="description" content="">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+  <link rel="stylesheet" href="../lib/globalStyle.css" />
+  <style type="text/css">
+    .line_pos {
+      fill: #F5942F;
+    }
+
+    .line_neg {
+      fill: #7BCAE2;
+    }
+
+    .circle1 {
+      fill: #F5942F;
+    }
+
+    .circle2 {
+      fill: #7BCAE2;
+    }
+
+    .med {
+      fill: #F5942F;
+    }
+
+    .background0 {
+      background: #F5942F;
+    }
+
+    .background1 {
+      background: #7BCAE2;
+    }
+
+    /*#circle1{ fill:#7BCAE2;!important }*/
+  </style>
+</head>
+
+<body>
+
+  <div id="graphic">
+    <img src="fallback.png" alt="[Chart]" />
+  </div>
+
+  <div id="keypoints">
+    <p></p>
+  </div>
+
+  <div class="footer">
+  </div>
+
+
+  <script src="https://cdn.ons.gov.uk/vendor/d3/3.5.17/d3.min.js" type="text/javascript"></script>
+  <script src="../lib/modernizr.svg.min.js" type="text/javascript"></script>
+  <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js" type="text/javascript" charset="utf-8"></script>
+
+  <script>
+    var graphic = d3.select('#graphic');
+    var keypoints = d3.select('#keypoints');
+    var footer = d3.select(".footer");
+    var pymChild = null;
+
+    function drawGraphic() {
+      var threshold_md = 788;
+      var threshold_sm = dvc.optional.mobileBreakpoint; // 510
+
+      //set variables for chart dimensions dependent on width of #graphic
+      if (parseInt(graphic.style("width")) < threshold_sm) {
+        var ball = 4;
+        var margin = {
+          top: dvc.optional.margin_sm[0],
+          right: dvc.optional.margin_sm[1],
+          bottom: dvc.optional.margin_sm[2],
+          left: dvc.optional.margin_sm[3]
+        };
+        var chart_width = parseInt(graphic.style("width")) - margin.left - margin.right;
+        var height = Math.ceil((chart_width * dvc.optional.aspectRatio_sm[1]) / dvc.optional.aspectRatio_sm[0]) - margin.top - margin.bottom;
+      } else if (parseInt(graphic.style("width")) < threshold_md) {
+        var ball = 4;
+        var margin = {
+          top: dvc.optional.margin_md[0],
+          right: dvc.optional.margin_md[1],
+          bottom: dvc.optional.margin_md[2],
+          left: dvc.optional.margin_md[3]
+        };
+        var chart_width = parseInt(graphic.style("width")) - margin.left - margin.right;
+        var height = Math.ceil((chart_width * dvc.optional.aspectRatio_md[1]) / dvc.optional.aspectRatio_md[0]) - margin.top - margin.bottom;
+      } else {
+        var ball = 5;
+        var margin = {
+          top: dvc.optional.margin_lg[0],
+          right: dvc.optional.margin_lg[1],
+          bottom: dvc.optional.margin_lg[2],
+          left: dvc.optional.margin_lg[3]
+        }
+        var chart_width = parseInt(graphic.style("width")) - margin.left - margin.right;
+        var height = Math.ceil((chart_width * dvc.optional.aspectRatio_lg[1]) / dvc.optional.aspectRatio_lg[0]) - margin.top - margin.bottom;
+      }
+
+
+
+      // clear out existing graphics
+      graphic.selectAll("*").remove();
+      keypoints.selectAll("*").remove();
+      footer.selectAll("*").remove();
+
+      var x = d3.scale.linear()
+        .range([0, chart_width]);
+
+      var y = d3.scale.ordinal()
+        .rangePoints([0, height], .4);
+      //.rangeRoundBands([0, height]);  // .1
+      y.domain(graphic_data.map(function(d) {
+        return d.name;
+      }));
+
+      var yAxis = d3.svg.axis()
+        .scale(y)
+        .orient("left")
+
+      var xAxis = d3.svg.axis()
+        .scale(x)
+        .orient('bottom');
+
+      //specify number or ticks on x axis
+      if (parseInt(graphic.style("width")) <= threshold_sm) {
+        xAxis.ticks(dvc.optional.x_num_ticks_sm_md_lg[0])
+      } else if (parseInt(graphic.style("width")) <= threshold_md) {
+        xAxis.ticks(dvc.optional.x_num_ticks_sm_md_lg[1])
+      } else {
+        xAxis.ticks(dvc.optional.x_num_ticks_sm_md_lg[2])
+      }
+
+
+      lines = graphic_data.map(function(d, i) { //console.log(d + " " +i);
+        return {
+          //	lines.x: csv.column_headings
+          'name': d.name, // might not need since we mappe it in y.domain earlier
+          'mymin': +d.imin, // + changes string to numeric.
+          'mymax': +d.imax,
+        };
+      });
+
+      var memax = d3.max(lines, function(d) {
+        return d.mymax;
+      });
+      //console.log("memax: "+memax);
+
+      var memin = d3.min(lines, function(d) {
+        return d.mymin;
+      });
+
+      //x domain calculations	: zero to intelligent max choice, or intelligent min and max choice,  or interval chosen manually
+      if (dvc.essential.xAxisScale == "auto_zero_max") {
+        var xDomain = [0, Math.ceil(d3.max(lines, function(d) {
+          return d.mymax;
+        }))];
+
+
+      } else if (dvc.essential.xAxisScale == "auto_min_max") {
+        var xDomain = [Math.floor(d3.min(lines, function(d) {
+            return d.mymin;
+          })),
+          Math.ceil(d3.max(lines, function(d) {
+            return d.mymax;
+          }))
+        ];
+
+        /*var yDomain = [ Math.floor(d3.min(dvc.yData)/dvc.essential.yAxisScaleDivisor)*dvc.essential.yAxisScaleDivisor , Math.ceil(d3.max(dvc.yData)/dvc.essential.yAxisScaleDivisor)*dvc.essential.yAxisScaleDivisor ];*/
+
+      } else {
+        var xDomain = dvc.essential.xAxisScale;
+        var yDomain = dvc.essential.yAxisScale;
+      }
+
+      console.log(xDomain);
+
+      x.domain(xDomain);
+
+      // sort these hardwired numbers maybe through the dimensions above
+      var legend = d3.select('#graphic').append('svg')
+        .attr("width", chart_width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom + 30)
+        .append("g")
+        .attr("id", "legend")
+
+      //create svg for chart
+      var svg = d3.select('svg')
+        .attr("id", "chart")
+        .style("background-color", "#fff")
+        .attr("width", chart_width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom + 80)
+        .append("g")
+        .attr("transform", "translate(" + margin.left + "," + (margin.top + 40) + ")")
+
+
+
+      svg.append("rect")
+        .attr("class", "svgRect")
+        .style("fill", "#fff")
+        .attr("width", chart_width)
+        .attr("height", height);
+
+      svg.append('g')
+        .attr('class', 'x axis')
+        .attr("transform", "translate(0, " + height + ")")
+        .call(xAxis.tickSize(-height, 0))
+
+      svg.select(".x.axis")
+        .append("text")
+        .attr("y", 25)
+        .attr("x", chart_width)
+        .attr("dy", ".71em")
+        .style("text-anchor", "end")
+        .text(dvc.essential.xAxisLabel);
+
+      //create y axis, if x axis doesn't start at 0 drop x axis accordingly
+      svg.append('g')
+        .attr('class', 'y axis')
+        .attr('transform', function(d) {
+          if (xDomain[0] != 0) {
+            return 'translate(' + (-20) + ',0)'
+          } else {
+            return 'translate(' + 0 + ', 0)'
+          }
+        })
+        .call(yAxis);
+
+      d3.select(".y.axis").selectAll("line").remove();
+
+      svg.append("text")
+        .attr('class', 'unit')
+        .attr('transform', "translate(" + -margin.left + "," + eval(-margin.top) + ")") // + (lineNo+1)*20 or -10
+        .attr("font-size", "12px")
+        .attr("fill", "#666")
+        .text(dvc.essential.yAxisLabel);
+
+
+
+      tieFight();
+
+      function tieFight() {
+        //console.log("ball "+ ball);
+
+        svg.append('g').attr("class", "line").selectAll('.line')
+          .data(lines) //  ["value"]
+          .enter()
+          .append('line')
+          .attr('class', function(d, i) {
+            if (d.mymin < 0) {
+              return 'tiefighter line_neg';
+            } else {
+              return 'tiefighter line_pos';
+            }
+          })
+          .style("stroke", "#abc")
+          .attr('y1', function(d, i) { //console.log("y1 "+i+" "+y(d.name));
+            return y(d.name);
+          })
+          .attr('y2', function(d) {
+            return y(d.name);
+          })
+          .attr('x1', function(d, i) { //console.log("x1 "+i+" "+x(d.mymin));
+            return x(d.mymin);
+          }) //d.mymin
+          .attr('x2', function(d) {
+            return x(d.mymax);
+          });
+
+        //svg.selectAll('.tiefighter')//.append("svg")
+        svg.append('g').selectAll('.circle')
+          .data(lines)
+          .enter()
+          .append('circle')
+          .attr("class", "circle1")
+          .attr('cx', function(d, i) {
+            return x(d.mymin);
+          })
+          .attr('cy', function(d, i) {
+            return y(d.name);
+          })
+          .attr('r', ball);
+
+        svg.append('g').selectAll('.circle')
+          .data(lines)
+          .enter()
+          .append('circle')
+          .attr("class", "circle2") // make it .circle2 for different end colour
+          .attr('cx', function(d, i) {
+            return x(d.mymax);
+          })
+          .attr('cy', function(d, i) {
+            return y(d.name);
+          })
+          .attr('r', ball); // (1/lines.length)*40);
+
+
+
+        columnH = d3.keys(graphic_data[0]).filter(function(key) {
+          return key;
+        });
+        if (columnH[3] == "median") {
+          svg.append('g').selectAll('.med')
+            .data(lines)
+            .enter()
+            .append('circle')
+            .attr("class", "med")
+            .attr('cx', function(d, i) {
+              return x(d.mymedian);
+            })
+            .attr('cy', function(d, i) {
+              return y(d.name);
+            })
+            .attr('r', ball * 1.5);
+        }
+      }
+
+
+      //create centre line if required
+      if (dvc.optional.centre_line == true) {
+        svg.append("line")
+          .attr("id", "centreline")
+          .attr('y1', 0)
+          .attr('y2', height)
+          .attr('x1', x(dvc.optional.centre_line_value))
+          .attr('x2', x(dvc.optional.centre_line_value));
+
+      } else if (xDomain[0] < 0) {
+        //svg.append("line")
+        svg.append("line")
+          .attr("id", "centreline")
+          .attr('y1', 0)
+          .attr('y2', height)
+          .attr('x1', x(0))
+          .attr('x2', x(0));
+      }
+
+      writeAnnotation();
+
+      function writeAnnotation() {
+
+        if (parseInt(graphic.style("width")) < threshold_sm) {
+
+          dvc.essential.annotationBullet.forEach(function(d, i) {
+
+            d3.select("#keypoints").append("svg")
+              .attr("width", "20px")
+              .attr("height", "20px")
+              .attr("class", "circles")
+              .append("circle")
+              .attr("class", "annocirc" + (i))
+              .attr("r", "2")
+              .attr('cy', "12px")
+              .attr("cx", "10px");
+
+            d3.select("#keypoints").append("p").text(dvc.essential.annotationBullet[i]);
+
+          }) // end foreach
+        } else {
+
+          dvc.essential.annotationChart.forEach(function(d, i) {
+
+            // draw annotation text based on content of var annotationArray ...
+            svg.append("text")
+              .text(dvc.essential.annotationChart[i])
+              .attr("class", "annotext" + i)
+              .attr("text-anchor", dvc.essential.annotationAlign[i])
+              .attr('y', y(dvc.essential.annotationXY[i][1])+4)
+              .attr('x', x(dvc.essential.annotationXY[i][0]));
+
+            d3.selectAll(".annotext" + (i))
+              .each(insertLinebreaks)
+              .each(createBackRect);
+
+
+            function insertLinebreaks() {
+
+              var str = this;
+
+              var el1 = dvc.essential.annotationChart[i];
+              var el = el1.data;
+
+              var words = el1.split('  ');
+
+              d3.select(this /*str*/ ).text('');
+
+              for (var j = 0; j < words.length; j++) {
+                var tspan = d3.select(this).append('tspan').text(words[j]);
+                if (j > 0)
+                  tspan.attr('x', x(dvc.essential.annotationXY[i][0])).attr('dy', '22');
+              }
+            };
+
+            function createBackRect() {
+
+              var BBox = this.getBBox()
+
+              svg.insert("rect", ".annotext" + (i))
+                .attr("width", BBox.width)
+                .attr("height", BBox.height)
+                .attr("x", BBox.x)
+                .attr("y", BBox.y)
+                .attr("fill", "white")
+                .attr("opacity", 0.4);
+
+            }; // end function createBackRect()
+
+          }); // end foreach
+
+        } // end else ...
+
+        // If you have labels rather than years then you can split the lines using a double space (in the CSV file).
+
+
+        function insertLinebreaksLabels() {
+          var str = this.textContent;
+
+          var words = str.split('  ');
+
+          d3.select(this /*str*/ ).text('');
+
+          for (var j = 0; j < words.length; j++) {
+            var tspan = d3.select(this).append('tspan').text(words[j]);
+            if (j > 0)
+              tspan
+              .attr('x', -10)
+              .attr('dy', '1em');
+          }
+        };
+
+        d3.selectAll(".y text").each(insertLinebreaksLabels)
+
+
+      } // end function writeAnnotation()
+
+
+      createLegend();
+
+      function createLegend() {
+
+        var prevX = 0;
+        var prevY = 0;
+        lineNo = 0;
+        var lineNoOld = 0;
+
+        dvc.essential.legendLabels.forEach(function(d, i) {
+
+          // draw legend text based on content of var legendLabels ...
+          var_group = d3.select("#legend").append("g")
+
+          var_group.append("rect")
+            .attr("class", "rect" + i)
+            .attr("fill", dvc.essential.colour_palette[i])
+            .attr("x", 0)
+            .attr("y", 0)
+            .attr("width", function(d) {
+              if (dvc.essential.legendStyle == "rect") {
+                return 15;
+              } else {
+                return 20;
+              }
+            })
+            .attr("height", function(d) {
+              if (dvc.essential.legendStyle == "rect") {
+                return 15;
+              } else {
+                return 3;
+              }
+            })
+
+          var_group.append("text")
+            .text(dvc.essential.legendLabels[i])
+            .attr("class", "legend" + i)
+            .attr("text-anchor", "start")
+            .style("font-size", "12px")
+            .style("fill", "#666")
+            .attr('y', 15)
+            .attr('x', 0);
+
+
+          d3.selectAll(".legend" + (i))
+            .each(calcPosition);
+
+          function calcPosition() {
+
+
+            var BBox = this.getBBox()
+
+
+            //prevY =BBox.width
+            d3.select(".legend" + (i))
+              .attr("y", function(d) {
+                if ((prevX + BBox.width + 50) > parseInt(graphic.style("width"))) {
+                  lineNoOld = lineNo;
+                  lineNo = lineNo + 1;
+                  prevX = 0;
+                }
+                return eval((lineNo * 20) + 20);
+              })
+              .attr("x", function(d) {
+                return prevX + 25;
+              })
+
+
+            d3.select(".rect" + (i))
+              .attr("y", function(d) {
+
+                if ((prevX + BBox.width + 50) > parseInt(graphic.style("width"))) {
+                  lineNoOld = lineNo;
+                  lineNo = lineNo + 1;
+                  prevX = 0;
+                }
+
+                if (dvc.essential.legendStyle == "rect") {
+                  return eval((lineNo * 20) + 5);
+                } else {
+                  return eval((lineNo * 20) + 12);
+
+                }
+              })
+              .attr("x", function(d) {
+                return prevX;
+              })
+
+            prevX = prevX + BBox.width + 50
+
+
+
+          }; // end function calcPosition()
+        }); // end foreach
+      } // end function createLegend()
+
+      // css fix
+      d3.selectAll("path").attr("fill", "none");
+
+      d3.selectAll("text").attr("font-family", "'Open Sans', sans-serif");
+
+      d3.selectAll(".x text").attr("font-size", "12px").attr("fill", "#666");
+      d3.selectAll(".y text").attr("font-size", "12px").attr("fill", "#666");
+
+      d3.selectAll(".y line")
+        .attr("stroke", "#CCC")
+        .attr("stroke-width", "1px")
+        .style("shape-rendering", "crispEdges");
+
+
+
+
+      //create link to source
+      d3.select(".footer").append("p")
+        .text("Source: ")
+        .append("a")
+        .attr("href", dvc.essential.sourceURL)
+        .attr("target", "_blank")
+        .html(dvc.essential.sourceText);
+
+      //use pym to calculate chart dimensions
+      if (pymChild) {
+        pymChild.sendHeight();
+      }
+    }
+
+
+    //check whether browser can cope with svg
+    if (Modernizr.svg) {
+      //load config
+      d3.json("config.json", function(error, config) {
+        dvc = config;
+
+        //load chart data
+        d3.csv(dvc.essential.graphic_data_url, function(error, data) {
+          graphic_data = data;
+
+          //use pym to create iframed chart dependent on specified variables
+          pymChild = new pym.Child({
+            renderCallback: drawGraphic
+          });
+        });
+
+      })
+
+    } else {
+      //use pym to create iframe containing fallback image (which is set as default)
+      pymChild = new pym.Child();
+      if (pymChild) {
+        console.log("fallback" + pymChild);
+        pymChild.sendHeight();
+      }
+    }
+  </script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a40b19c0cf97a598',t:'MTc5MDM1MDU0Ng=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+
+</html>

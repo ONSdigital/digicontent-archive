@@ -1,0 +1,13 @@
+{"ons":{
+"varlabel": ["Within LA moves","Older resident migration (65+)"],
+"varcolour": "YlOrRd[5]",
+"varname": ["internal","older"],
+"varload": "internal",
+"varunit":["% moving within area","% with different address 1 year ago"],
+"varprefix":["",""],
+"breaks":"jenks",
+"average":[15.4,10.4],
+"averagelabel":"E&W",
+"centre":[53.344,-1.91],
+"zoom":6
+}}

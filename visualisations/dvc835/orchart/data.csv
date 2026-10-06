@@ -1,0 +1,46 @@
+name,value,lowerci,upperci
+How often do you feel lonely?,,,
+Reference: Never,,,
+Hardly ever,1.321605,1.0374249,1.683631
+Occasionally,1.788209,1.3861889,2.306822
+Some of the time,2.788338,2.0685837,3.758527
+Often/always,4.718125,3.1059573,7.167099
+Sex,,,
+Reference: Male,,,
+Female,1.556472,1.3225602,1.831755
+Legal martital status,,,
+Reference: Widowed,,,
+Separated / Divorced,1.5133315,1.080866,2.1188316
+Single,1.7576643,1.24771,2.4760429
+Married or civil partnership,2.1483531,1.593673,2.8960903
+How safe or unsafe do you feel in your home?,,,
+Reference: Very safe,,,
+Safe,1.407146,1.1844213,1.671754
+Neither safe nor unsafe,1.427791,1.0671624,1.910287
+Unsafe / Very unsafe,2.984,1.7260684,5.158694
+In which ways is COVID-19 affecting your life?,,,
+Reference: Did not say affecting my work,,,
+Affecting my work,1.499683,1.2394824,1.814508
+Disability,,,
+Reference: Not disabled,,,
+Refusal/Don't know,1.334762,1.1211268,1.589107
+Disabled,1.516814,1.2553528,1.83273
+Age of respondent (5 groupings),,,
+Reference: Aged 16 to 24 years old,,,
+Aged 25 to 44 years old,1.524787,1.094992,2.123282
+Aged 45 to 64 years old,1.333978,-1.060049583,1.886355
+Aged 65 to 74 years old,1.898037,1.3010241,2.769006
+Aged 75 years old and over,1.956313,1.3015418,2.940483
+How have your household finances been affected?,,,
+Reference: Not borrowing money or using credit,,,
+Borrowing money or using credit,2.157881,1.1897478,3.913813
+Pension value affected by economic instability ,,,
+Reference: Pension value not affected,,,
+Pension value affected,1.651096,1.1278848,2.417018
+Country of residence,,,
+Reference: England,,,
+Wales,1.270338,-1.058004907,1.707364
+Scotland,-1.395457229,-1.870778238,-1.040904421
+Which relationships have you been most worried about?,,,
+Reference: Did not say grandparents,,,
+Most worried about grandparents,1.770716,1.0269969,3.053012

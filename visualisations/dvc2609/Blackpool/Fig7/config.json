@@ -1,0 +1,70 @@
+{
+  "essential": {
+    "screenreadertext": "Lollipop graph showing variation of income between 5-category ethnic groups in England. The underlying data is available in the accompanying data download.",
+    "graphic_data_url": "data.csv",
+    "dateFormat": "%d/%m/%Y",
+
+    "colour_palette": {
+      "tenthPercentile": ["#003C57", "#003C57", "#003C57"],
+      "ninetiethPercentile": "#003C57",
+      "median": "#27A0CC"
+    },
+    "categorySort": [
+    ],
+    "sourceText": ["Office for National Statistics"],
+    "xAxisLabel": "Gini coefficient",
+    "yAxisLabel": "Regions and Countries",
+    "yAxisScale": "this does nothing"
+  },
+  "optional": {
+    "margin": {
+      "groupMargin": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 130
+      },
+      "sm": {
+        "top": 0,
+        "right": 26,
+        "bottom": 20,
+        "left": 10
+      },
+      "md": {
+        "top": 0,
+        "right": 26,
+        "bottom": 20,
+        "left": 10
+      },
+      "lg": {
+        "top": 0,
+        "right": 26,
+        "bottom": 20,
+        "left": 10
+      }
+    },
+    "chart_every":{
+      "sm": 1,
+      "md": 1,
+      "lg": 1
+    },
+    "aspectRatio": {
+      "sm": [16, 28],
+      "md": [16, 20],
+      "lg": [16, 12]
+    },
+    "legendHeight":{
+      "sm": 75,
+      "md": 75,
+      "lg": 75
+    },
+
+    "mobileBreakpoint": 400,
+    "middleBreakpoint": 520,
+    "x_ticks_num": {
+      "sm": 4,
+      "md": 4,
+      "lg": 6
+    }
+  }
+}

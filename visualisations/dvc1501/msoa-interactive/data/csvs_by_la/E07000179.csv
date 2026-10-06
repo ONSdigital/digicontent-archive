@@ -1,0 +1,61 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02005958,South Oxfordshire 001,Thame North,0,0,1,0,0,0,0,0,0,0,1,0,0,0,covid
+E02005959,South Oxfordshire 002,Beckley & Horspath,0,2,1,0,0,0,0,0,0,2,1,0,0,0,covid
+E02005960,South Oxfordshire 003,Thame South,0,1,5,0,1,0,0,0,0,0,4,2,0,0,covid
+E02005961,South Oxfordshire 004,Wheatley & Great Haseley,1,2,0,0,0,0,0,0,0,1,0,0,0,0,covid
+E02005962,South Oxfordshire 005,Chinnor & Tetsworth,0,4,3,1,0,1,0,0,0,1,8,1,2,0,covid
+E02005963,South Oxfordshire 006,Berinsfield & Wittenham,1,3,0,0,0,0,0,0,0,3,5,1,1,0,covid
+E02005964,South Oxfordshire 007,"Chalgrove, Stadhampton & Dorchester",0,4,1,0,0,0,0,0,0,0,0,3,0,0,covid
+E02005965,South Oxfordshire 008,Watlington & Nettlebed,0,9,2,0,0,0,0,0,0,0,1,0,0,0,covid
+E02005966,South Oxfordshire 009,Didcot Ladygrove,0,0,0,0,0,0,0,0,0,1,0,0,0,0,covid
+E02005967,South Oxfordshire 010,Didcot West,0,0,4,1,0,0,0,0,0,0,2,0,0,0,covid
+E02005968,South Oxfordshire 011,Benson & Crowmarsh Gifford,0,4,2,1,0,0,0,0,0,0,1,2,0,0,covid
+E02005969,South Oxfordshire 012,Wallingford & Brightwell,0,4,3,0,0,0,0,0,0,0,1,1,0,0,covid
+E02005970,South Oxfordshire 013,Didcot South East,0,0,1,0,0,0,0,1,0,0,2,1,0,0,covid
+E02005971,South Oxfordshire 014,Didcot South West,0,1,1,0,0,0,0,0,0,2,6,1,0,0,covid
+E02005972,South Oxfordshire 015,"Hagbourne, Moreton & Cholsey",0,1,1,0,0,0,0,1,0,1,4,3,0,0,covid
+E02005973,South Oxfordshire 016,Henley North,0,12,5,0,0,0,1,2,1,0,3,3,0,0,covid
+E02005974,South Oxfordshire 017,Henley South,0,4,1,0,0,0,0,0,1,2,6,2,0,0,covid
+E02005975,South Oxfordshire 018,"Goring, Woodcote & Whitchurch",0,2,0,0,0,0,0,0,0,1,1,0,0,0,covid
+E02005976,South Oxfordshire 019,Shiplake & Binfield Heath,0,5,0,0,0,0,0,0,1,1,1,0,0,0,covid
+E02005977,South Oxfordshire 020,Sonning Common & Kidmore End,1,1,10,1,0,0,0,0,0,0,1,1,0,0,covid
+E02005958,South Oxfordshire 001,Thame North,5,2,1,3,1,1,4,2,4,0,1,4,2,5,noncovid
+E02005959,South Oxfordshire 002,Beckley & Horspath,1,6,1,5,2,2,2,3,6,3,3,1,3,2,noncovid
+E02005960,South Oxfordshire 003,Thame South,6,7,3,9,3,7,4,4,5,6,5,10,7,3,noncovid
+E02005961,South Oxfordshire 004,Wheatley & Great Haseley,2,2,1,8,3,1,6,6,6,5,3,4,5,7,noncovid
+E02005962,South Oxfordshire 005,Chinnor & Tetsworth,9,6,6,6,2,5,7,3,8,4,4,5,7,4,noncovid
+E02005963,South Oxfordshire 006,Berinsfield & Wittenham,6,12,6,8,5,6,8,6,10,8,7,7,8,8,noncovid
+E02005964,South Oxfordshire 007,"Chalgrove, Stadhampton & Dorchester",2,9,3,5,8,6,3,3,3,4,6,9,5,3,noncovid
+E02005965,South Oxfordshire 008,Watlington & Nettlebed,6,9,4,3,2,4,1,2,4,3,4,6,6,6,noncovid
+E02005966,South Oxfordshire 009,Didcot Ladygrove,0,1,3,1,2,3,1,1,1,1,4,2,3,1,noncovid
+E02005967,South Oxfordshire 010,Didcot West,4,4,5,5,2,4,1,2,6,6,2,3,4,4,noncovid
+E02005968,South Oxfordshire 011,Benson & Crowmarsh Gifford,2,7,4,4,6,6,1,4,2,5,2,4,4,6,noncovid
+E02005969,South Oxfordshire 012,Wallingford & Brightwell,12,18,11,10,7,5,5,6,4,7,7,8,7,10,noncovid
+E02005970,South Oxfordshire 013,Didcot South East,6,4,1,3,5,3,2,1,2,2,3,1,1,0,noncovid
+E02005971,South Oxfordshire 014,Didcot South West,2,7,4,6,2,5,6,9,3,2,5,1,2,4,noncovid
+E02005972,South Oxfordshire 015,"Hagbourne, Moreton & Cholsey",4,4,7,7,7,6,3,5,6,8,9,7,6,7,noncovid
+E02005973,South Oxfordshire 016,Henley North,3,2,6,2,5,6,6,10,3,7,4,5,11,5,noncovid
+E02005974,South Oxfordshire 017,Henley South,7,3,3,5,6,10,4,3,10,5,7,4,0,3,noncovid
+E02005975,South Oxfordshire 018,"Goring, Woodcote & Whitchurch",11,8,5,8,1,2,5,9,10,9,8,5,7,8,noncovid
+E02005976,South Oxfordshire 019,Shiplake & Binfield Heath,4,5,7,3,4,2,4,5,5,6,1,4,4,4,noncovid
+E02005977,South Oxfordshire 020,Sonning Common & Kidmore End,8,5,4,5,3,5,3,1,5,6,4,5,5,5,noncovid
+E02005958,South Oxfordshire 001,Thame North,2,3,2,2,2,3,3,2,2,3,4,1,2,3,average
+E02005959,South Oxfordshire 002,Beckley & Horspath,5,3,3,5,3,3,4,2,3,4,4,5,5,3,average
+E02005960,South Oxfordshire 003,Thame South,7,7,8,5,6,4,8,3,7,6,8,5,7,7,average
+E02005961,South Oxfordshire 004,Wheatley & Great Haseley,5,5,5,4,4,4,7,6,6,4,5,4,5,5,average
+E02005962,South Oxfordshire 005,Chinnor & Tetsworth,5,7,6,4,5,5,5,5,4,7,5,6,5,7,average
+E02005963,South Oxfordshire 006,Berinsfield & Wittenham,8,8,9,7,8,9,8,9,9,8,14,8,8,8,average
+E02005964,South Oxfordshire 007,"Chalgrove, Stadhampton & Dorchester",6,3,5,3,4,3,6,3,4,3,4,4,6,3,average
+E02005965,South Oxfordshire 008,Watlington & Nettlebed,5,6,4,4,4,4,5,5,5,5,7,7,5,6,average
+E02005966,South Oxfordshire 009,Didcot Ladygrove,2,2,1,2,1,1,1,1,1,2,1,2,2,2,average
+E02005967,South Oxfordshire 010,Didcot West,4,5,6,6,5,5,4,4,5,5,8,5,4,5,average
+E02005968,South Oxfordshire 011,Benson & Crowmarsh Gifford,4,4,2,4,5,4,4,3,4,4,4,5,4,4,average
+E02005969,South Oxfordshire 012,Wallingford & Brightwell,11,11,9,8,6,9,8,10,10,9,12,12,11,11,average
+E02005970,South Oxfordshire 013,Didcot South East,2,1,4,3,2,3,3,3,5,2,2,3,2,1,average
+E02005971,South Oxfordshire 014,Didcot South West,5,5,5,5,3,4,5,3,5,3,6,5,5,5,average
+E02005972,South Oxfordshire 015,"Hagbourne, Moreton & Cholsey",7,6,6,4,5,5,6,6,6,5,8,7,7,6,average
+E02005973,South Oxfordshire 016,Henley North,6,6,4,7,6,5,6,7,7,6,6,6,6,6,average
+E02005974,South Oxfordshire 017,Henley South,7,7,5,3,6,5,5,6,6,6,7,4,7,7,average
+E02005975,South Oxfordshire 018,"Goring, Woodcote & Whitchurch",9,6,8,8,7,5,6,6,7,5,10,7,9,6,average
+E02005976,South Oxfordshire 019,Shiplake & Binfield Heath,3,6,4,3,4,6,5,3,5,3,4,4,3,6,average
+E02005977,South Oxfordshire 020,Sonning Common & Kidmore End,6,7,4,6,6,5,7,5,6,7,5,6,6,7,average

@@ -1,0 +1,31 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02003977,Barrow-in-Furness 001,Askam & Dalton North,0,3,0,0,0,0,0,0,1,1,1,0,0,0,covid
+E02003978,Barrow-in-Furness 002,Dalton South,0,1,3,0,0,0,0,1,4,1,1,1,0,0,covid
+E02003979,Barrow-in-Furness 003,Hawcoat & Furness Abbey,1,9,0,1,0,1,1,1,5,2,5,2,2,0,covid
+E02003980,Barrow-in-Furness 004,Orsmgill & Hindpool,0,5,0,0,1,0,0,1,3,5,0,1,0,0,covid
+E02003981,Barrow-in-Furness 005,Parkside,0,1,1,0,0,1,0,1,3,0,1,2,1,0,covid
+E02003982,Barrow-in-Furness 006,Roose,0,11,1,0,0,0,0,1,4,0,2,4,0,0,covid
+E02003983,Barrow-in-Furness 007,Abbotsmead & Salthouse,0,7,1,0,1,0,0,0,0,0,3,0,0,0,covid
+E02003984,Barrow-in-Furness 008,Barrow Central,0,9,1,0,0,0,0,2,4,0,1,2,0,1,covid
+E02003985,Barrow-in-Furness 009,Walney Island North,1,4,1,0,1,0,0,2,3,0,5,1,1,0,covid
+E02003986,Barrow-in-Furness 010,Walney Island South & Barrow Island,1,6,1,0,0,0,0,1,2,1,3,0,1,0,covid
+E02003977,Barrow-in-Furness 001,Askam & Dalton North,6,7,6,5,4,7,2,6,2,5,4,3,3,5,noncovid
+E02003978,Barrow-in-Furness 002,Dalton South,7,7,4,5,2,4,5,7,3,3,7,8,2,6,noncovid
+E02003979,Barrow-in-Furness 003,Hawcoat & Furness Abbey,6,8,15,12,6,9,11,4,11,5,7,6,7,13,noncovid
+E02003980,Barrow-in-Furness 004,Orsmgill & Hindpool,4,9,4,2,10,5,7,7,5,3,6,6,7,6,noncovid
+E02003981,Barrow-in-Furness 005,Parkside,2,9,8,6,8,8,4,7,5,6,7,5,10,6,noncovid
+E02003982,Barrow-in-Furness 006,Roose,6,13,5,4,6,11,9,14,6,6,8,4,5,10,noncovid
+E02003983,Barrow-in-Furness 007,Abbotsmead & Salthouse,10,5,6,10,10,9,8,3,4,8,6,4,7,9,noncovid
+E02003984,Barrow-in-Furness 008,Barrow Central,14,15,8,12,6,6,10,12,11,8,7,5,8,12,noncovid
+E02003985,Barrow-in-Furness 009,Walney Island North,9,6,4,7,5,3,6,8,7,5,3,4,4,8,noncovid
+E02003986,Barrow-in-Furness 010,Walney Island South & Barrow Island,2,6,6,4,5,6,5,4,5,8,9,5,4,7,noncovid
+E02003977,Barrow-in-Furness 001,Askam & Dalton North,5,4,7,3,4,6,5,6,4,5,7,4,5,4,average
+E02003978,Barrow-in-Furness 002,Dalton South,5,5,6,4,4,6,4,5,4,6,7,7,5,5,average
+E02003979,Barrow-in-Furness 003,Hawcoat & Furness Abbey,9,9,11,8,8,12,9,11,10,9,14,12,9,9,average
+E02003980,Barrow-in-Furness 004,Orsmgill & Hindpool,6,8,8,6,4,5,8,5,6,5,6,7,6,8,average
+E02003981,Barrow-in-Furness 005,Parkside,5,8,5,7,4,4,4,5,6,4,8,6,5,8,average
+E02003982,Barrow-in-Furness 006,Roose,8,7,5,7,6,7,6,4,6,7,7,6,8,7,average
+E02003983,Barrow-in-Furness 007,Abbotsmead & Salthouse,5,6,5,6,6,6,6,6,4,5,7,6,5,6,average
+E02003984,Barrow-in-Furness 008,Barrow Central,10,7,8,8,8,10,8,9,9,11,12,10,10,7,average
+E02003985,Barrow-in-Furness 009,Walney Island North,6,4,7,5,6,5,5,8,7,4,8,7,6,4,average
+E02003986,Barrow-in-Furness 010,Walney Island South & Barrow Island,6,7,4,4,4,4,5,8,6,5,6,5,6,7,average

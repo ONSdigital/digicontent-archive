@@ -1,0 +1,100 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02000807,Southwark 001,Rotherhithe,0,2,1,0,0,0,0,0,1,0,2,1,1,0,covid
+E02000808,Southwark 002,Borough & Southwark Street,0,2,0,0,0,1,0,0,0,1,1,0,0,0,covid
+E02000809,Southwark 003,Bermondsey North,0,2,0,0,0,0,0,0,0,0,0,0,1,0,covid
+E02000810,Southwark 004,Bermondsey East,1,0,0,0,0,0,0,0,0,0,2,2,0,0,covid
+E02000812,Southwark 006,London Bridge & Bermondsey West,3,13,8,0,0,0,0,0,0,1,0,3,0,2,covid
+E02000813,Southwark 007,Canada Water,0,4,0,0,0,0,0,0,0,1,3,0,0,0,covid
+E02000814,Southwark 008,Surrey Quays,4,10,1,0,0,0,0,0,0,1,4,3,2,0,covid
+E02000815,Southwark 009,Elephant & Castle,0,3,0,0,0,0,0,0,0,0,1,1,0,0,covid
+E02000816,Southwark 010,South Bermondsey Central,1,7,1,0,0,0,0,0,0,2,3,1,0,0,covid
+E02000817,Southwark 011,South Bermondsey East,1,7,2,0,0,0,0,0,0,1,2,0,2,0,covid
+E02000818,Southwark 012,Walworth North,0,4,2,0,0,1,0,0,0,0,2,4,3,0,covid
+E02000819,Southwark 013,South Bermondsey West,0,8,0,0,0,0,0,0,1,2,2,0,1,2,covid
+E02000820,Southwark 014,Kennington East,1,2,1,0,0,0,0,0,0,0,1,0,1,0,covid
+E02000821,Southwark 015,Burgess Park,0,7,0,0,0,0,0,0,0,0,2,1,0,0,covid
+E02000822,Southwark 016,Walworth South,1,6,1,0,0,0,0,0,0,0,2,0,1,1,covid
+E02000823,Southwark 017,Burgess Park West & John Ruskin Street,0,3,0,0,0,0,0,0,0,0,4,0,0,0,covid
+E02000824,Southwark 018,Peckham Park Road,0,6,3,0,0,0,0,0,0,0,3,1,0,0,covid
+E02000825,Southwark 019,Peckham North West,4,6,2,0,0,0,0,0,0,0,9,6,1,1,covid
+E02000826,Southwark 020,Camberwell North,2,10,1,0,0,1,0,0,0,0,3,0,0,0,covid
+E02000827,Southwark 021,Camberwell Green,1,1,0,0,1,0,0,0,0,1,4,3,2,0,covid
+E02000828,Southwark 022,Peckham North,0,7,0,0,1,0,0,0,0,0,1,3,0,0,covid
+E02000829,Southwark 023,Queens Road Peckham,0,18,3,0,0,0,0,0,0,1,6,4,1,2,covid
+E02000830,Southwark 024,Camberwell South,0,5,0,2,0,0,0,0,0,0,0,2,0,0,covid
+E02000831,Southwark 025,Peckham Rye,2,4,0,0,0,0,0,0,1,0,2,2,0,0,covid
+E02000832,Southwark 026,Nunhead North,1,3,2,1,0,0,0,0,0,1,5,2,0,0,covid
+E02000833,Southwark 027,North Dulwich,2,1,2,0,0,0,0,0,0,0,1,0,1,0,covid
+E02000834,Southwark 028,Peckham Rye Common,2,5,2,0,0,0,0,0,0,0,3,1,0,0,covid
+E02000835,Southwark 029,Nunhead South & Newlands,0,2,1,0,0,0,0,0,0,0,5,1,0,0,covid
+E02000836,Southwark 030,East Dulwich,1,3,1,0,0,0,0,0,0,0,3,0,0,0,covid
+E02000837,Southwark 031,Herne Hill & Dulwich Park,0,2,0,1,0,0,0,0,0,0,8,1,1,0,covid
+E02000838,Southwark 032,Dulwich Hill,0,3,0,1,0,0,0,0,0,0,3,2,0,0,covid
+E02000839,Southwark 033,Sydenham Hill,0,1,2,0,0,0,0,0,0,0,3,1,0,1,covid
+E02006802,Southwark 034,Southwark St George's,1,8,1,0,0,0,0,0,0,0,2,0,0,0,covid
+E02000807,Southwark 001,Rotherhithe,1,3,3,2,2,2,3,4,5,3,3,1,3,1,noncovid
+E02000808,Southwark 002,Borough & Southwark Street,3,1,2,0,2,1,1,4,5,2,6,5,0,4,noncovid
+E02000809,Southwark 003,Bermondsey North,5,2,0,2,2,3,4,1,3,3,1,1,4,0,noncovid
+E02000810,Southwark 004,Bermondsey East,4,2,5,2,2,3,4,6,4,3,6,4,2,1,noncovid
+E02000812,Southwark 006,London Bridge & Bermondsey West,11,8,8,7,5,6,7,8,4,6,5,6,8,5,noncovid
+E02000813,Southwark 007,Canada Water,9,9,5,4,4,2,8,3,4,4,6,3,3,0,noncovid
+E02000814,Southwark 008,Surrey Quays,4,5,1,1,3,1,2,1,1,2,4,1,1,3,noncovid
+E02000815,Southwark 009,Elephant & Castle,2,1,1,3,4,1,1,0,2,0,2,1,3,0,noncovid
+E02000816,Southwark 010,South Bermondsey Central,5,2,7,4,2,4,5,3,0,6,5,2,7,4,noncovid
+E02000817,Southwark 011,South Bermondsey East,7,6,1,1,3,3,1,5,1,3,5,3,1,2,noncovid
+E02000818,Southwark 012,Walworth North,6,1,2,4,6,2,3,6,6,1,5,6,4,2,noncovid
+E02000819,Southwark 013,South Bermondsey West,4,3,1,3,4,4,4,1,3,4,1,0,6,1,noncovid
+E02000820,Southwark 014,Kennington East,2,6,2,1,3,2,6,1,5,3,5,0,4,5,noncovid
+E02000821,Southwark 015,Burgess Park,3,3,2,2,4,3,2,5,4,4,3,2,4,1,noncovid
+E02000822,Southwark 016,Walworth South,4,4,1,3,4,1,1,6,3,2,2,3,2,1,noncovid
+E02000823,Southwark 017,Burgess Park West & John Ruskin Street,7,6,4,6,0,2,2,4,7,1,1,2,1,7,noncovid
+E02000824,Southwark 018,Peckham Park Road,5,2,2,2,2,4,3,3,6,4,4,5,4,2,noncovid
+E02000825,Southwark 019,Peckham North West,5,8,3,4,3,2,5,2,4,4,5,2,3,1,noncovid
+E02000826,Southwark 020,Camberwell North,3,3,10,2,6,1,4,4,1,3,4,6,2,0,noncovid
+E02000827,Southwark 021,Camberwell Green,7,7,3,3,5,1,1,0,4,2,2,4,1,4,noncovid
+E02000828,Southwark 022,Peckham North,6,4,3,3,2,4,1,3,4,2,3,1,3,6,noncovid
+E02000829,Southwark 023,Queens Road Peckham,6,15,7,7,8,9,7,8,7,8,7,13,7,5,noncovid
+E02000830,Southwark 024,Camberwell South,2,7,1,5,1,4,1,4,0,4,3,3,1,6,noncovid
+E02000831,Southwark 025,Peckham Rye,2,2,3,4,3,6,2,2,4,3,1,2,4,4,noncovid
+E02000832,Southwark 026,Nunhead North,3,6,1,6,2,6,4,3,2,2,5,6,6,7,noncovid
+E02000833,Southwark 027,North Dulwich,6,1,2,3,3,3,3,5,1,3,1,4,2,3,noncovid
+E02000834,Southwark 028,Peckham Rye Common,1,1,3,3,6,3,4,1,4,0,2,1,5,1,noncovid
+E02000835,Southwark 029,Nunhead South & Newlands,5,6,5,3,0,3,4,1,1,0,7,1,1,2,noncovid
+E02000836,Southwark 030,East Dulwich,3,1,2,3,2,2,2,3,1,2,1,1,2,2,noncovid
+E02000837,Southwark 031,Herne Hill & Dulwich Park,2,4,2,2,2,3,6,2,2,4,6,1,3,2,noncovid
+E02000838,Southwark 032,Dulwich Hill,2,7,5,1,2,4,8,3,2,4,6,1,4,2,noncovid
+E02000839,Southwark 033,Sydenham Hill,4,4,3,2,3,0,4,2,2,4,5,4,0,2,noncovid
+E02006802,Southwark 034,Southwark St George's,1,4,4,3,1,3,3,1,0,4,2,4,5,0,noncovid
+E02000807,Southwark 001,Rotherhithe,2,2,1,3,1,1,3,4,2,3,1,1,2,2,average
+E02000808,Southwark 002,Borough & Southwark Street,3,2,3,4,3,3,4,4,3,2,3,3,3,2,average
+E02000809,Southwark 003,Bermondsey North,4,5,2,4,4,3,3,5,5,3,4,2,4,5,average
+E02000810,Southwark 004,Bermondsey East,4,5,6,4,3,4,5,5,4,3,6,3,4,5,average
+E02000812,Southwark 006,London Bridge & Bermondsey West,4,6,5,5,5,4,5,5,6,5,6,6,4,6,average
+E02000813,Southwark 007,Canada Water,2,3,3,4,4,3,3,3,4,4,5,3,2,3,average
+E02000814,Southwark 008,Surrey Quays,3,2,3,2,3,3,1,3,3,1,3,4,3,2,average
+E02000815,Southwark 009,Elephant & Castle,1,1,2,1,1,1,1,1,2,1,1,2,1,1,average
+E02000816,Southwark 010,South Bermondsey Central,3,4,3,3,4,3,3,3,4,3,4,3,3,4,average
+E02000817,Southwark 011,South Bermondsey East,5,4,4,3,3,4,5,6,4,4,4,4,5,4,average
+E02000818,Southwark 012,Walworth North,3,3,3,5,4,3,5,4,4,4,6,4,3,3,average
+E02000819,Southwark 013,South Bermondsey West,4,4,3,4,3,3,2,4,3,4,3,3,4,4,average
+E02000820,Southwark 014,Kennington East,3,3,3,3,3,2,2,3,3,3,4,3,3,3,average
+E02000821,Southwark 015,Burgess Park,3,3,3,2,2,3,3,2,2,2,2,3,3,3,average
+E02000822,Southwark 016,Walworth South,2,3,3,2,2,2,2,2,3,3,4,2,2,3,average
+E02000823,Southwark 017,Burgess Park West & John Ruskin Street,6,2,2,4,2,2,4,2,3,3,6,3,6,2,average
+E02000824,Southwark 018,Peckham Park Road,3,2,4,4,2,4,2,4,4,4,4,3,3,2,average
+E02000825,Southwark 019,Peckham North West,5,3,4,3,4,3,3,4,6,3,5,4,5,3,average
+E02000826,Southwark 020,Camberwell North,3,6,3,3,3,5,4,4,3,6,3,4,3,6,average
+E02000827,Southwark 021,Camberwell Green,4,4,4,7,3,3,4,4,4,3,5,2,4,4,average
+E02000828,Southwark 022,Peckham North,4,3,3,3,3,4,3,3,2,3,6,2,4,3,average
+E02000829,Southwark 023,Queens Road Peckham,7,7,7,9,7,6,8,10,6,6,9,7,7,7,average
+E02000830,Southwark 024,Camberwell South,3,3,3,1,3,3,2,3,3,4,3,3,3,3,average
+E02000831,Southwark 025,Peckham Rye,4,3,4,3,3,3,3,3,4,3,3,4,4,3,average
+E02000832,Southwark 026,Nunhead North,5,4,3,4,5,5,4,4,6,6,6,6,5,4,average
+E02000833,Southwark 027,North Dulwich,3,1,2,3,3,2,3,2,2,2,2,3,3,1,average
+E02000834,Southwark 028,Peckham Rye Common,3,5,5,5,4,4,3,4,4,3,4,4,3,5,average
+E02000835,Southwark 029,Nunhead South & Newlands,2,3,3,2,3,2,2,4,2,2,3,2,2,3,average
+E02000836,Southwark 030,East Dulwich,4,3,1,3,2,3,2,2,2,3,2,5,4,3,average
+E02000837,Southwark 031,Herne Hill & Dulwich Park,4,4,4,3,3,3,1,4,4,1,3,4,4,4,average
+E02000838,Southwark 032,Dulwich Hill,3,6,3,2,3,5,4,3,4,6,5,6,3,6,average
+E02000839,Southwark 033,Sydenham Hill,3,3,2,3,4,3,3,5,5,5,5,4,3,3,average
+E02006802,Southwark 034,Southwark St George's,3,2,3,4,4,2,3,3,3,2,4,2,3,2,average

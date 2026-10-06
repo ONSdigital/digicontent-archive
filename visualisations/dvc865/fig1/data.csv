@@ -1,0 +1,19 @@
+category,series,value,min,max,smallsample
+Muslim,Males,46.51,41.11,51.91,
+Hindu,Males,33.59,26.96,41.34,
+Sikh,Males,31.29,22.61,42.18,
+Jewish,Males,21.38,12.2,34.75,*
+Muslim,Females,19.99,16.31,23.66,
+Buddhist,Males,16.96,9.46,28.02,*
+Hindu,Females,15.74,11.38,21.21,
+Sikh,Females,14.1,8.61,21.78,
+Christian,Males,12.16,11.48,12.84,
+Religion not stated,Males,12.01,10.12,13.9,
+Other Religion,Males,11.16,5.57,19.99,*
+Other Religion,Females,9.84,5.38,16.51,*
+No religion,Males,9.59,8.74,10.45,
+Christian,Females,7.08,6.61,7.55,
+Religion not stated,Females,6.95,5.52,8.63,
+No religion,Females,5.52,4.77,6.27,
+Buddhist,Females,,,,^
+Jewish,Females,,,,^

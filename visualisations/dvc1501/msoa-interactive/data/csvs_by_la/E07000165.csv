@@ -1,0 +1,64 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02005761,Harrogate 001,"Masham, Kirkby Malzeard & North Stainley",0,1,1,1,0,0,1,0,1,0,1,0,0,1,covid
+E02005762,Harrogate 002,Ripon North & West,0,0,4,0,0,0,0,0,0,0,2,1,0,0,covid
+E02005763,Harrogate 003,"Dishthorpe, Baldersby & Markington",0,1,0,0,0,0,0,1,0,0,0,0,0,0,covid
+E02005764,Harrogate 004,Ripon South & East,0,9,3,1,1,0,0,0,1,0,1,1,1,0,covid
+E02005765,Harrogate 005,Boroughbridge & Marton-cum-Grafton,0,4,9,1,0,1,0,0,1,1,0,3,1,0,covid
+E02005766,Harrogate 006,Pateley Bridge & Nidd Valley,0,0,0,0,0,0,0,0,0,1,2,1,0,0,covid
+E02005767,Harrogate 007,Knaresborough North,0,2,10,5,0,0,0,0,0,0,2,1,0,0,covid
+E02005768,Harrogate 008,Killinghall & Hampsthwaite,0,0,0,0,0,0,0,1,0,0,1,4,2,0,covid
+E02005769,Harrogate 009,Knaresborough Central,0,3,2,0,0,0,0,0,0,0,0,4,1,0,covid
+E02005770,Harrogate 010,Bilton,0,0,1,1,1,0,0,0,1,0,0,1,1,0,covid
+E02005771,Harrogate 011,Saltergate,0,3,2,2,0,0,0,0,1,0,1,0,2,0,covid
+E02005772,Harrogate 012,Knaresborough South & Follifoot,0,0,1,0,1,0,0,0,0,1,1,1,1,0,covid
+E02005773,Harrogate 013,Harrogate East,1,4,3,0,0,0,0,0,0,0,1,1,2,0,covid
+E02005774,Harrogate 014,Starbeck,0,5,3,18,4,0,0,0,0,0,1,1,1,0,covid
+E02005775,Harrogate 015,Central Harrogate,0,15,6,3,1,0,0,0,0,0,2,3,0,0,covid
+E02005776,Harrogate 016,"Ouseburn, Hammerton & Tockwith",2,2,1,4,1,0,0,0,0,1,0,0,1,0,covid
+E02005777,Harrogate 017,Hookstone,0,13,0,0,0,0,0,0,1,0,0,2,3,0,covid
+E02005778,Harrogate 018,"Menwith, Beckwithshaw & Denton Moor",0,2,3,0,0,1,0,0,0,0,2,1,0,1,covid
+E02005779,Harrogate 019,Stray,0,6,1,1,1,0,0,0,2,1,1,4,2,0,covid
+E02005780,Harrogate 020,Harrogate West & Pannal,0,3,1,0,0,0,0,0,1,0,1,7,0,0,covid
+E02005781,Harrogate 021,"Spofforth, Burn Bridge & Huby",0,9,4,0,0,0,0,1,0,1,1,0,0,0,covid
+E02005761,Harrogate 001,"Masham, Kirkby Malzeard & North Stainley",3,2,5,6,5,1,3,4,3,4,4,5,0,2,noncovid
+E02005762,Harrogate 002,Ripon North & West,4,11,3,7,9,4,2,10,3,2,7,5,3,7,noncovid
+E02005763,Harrogate 003,"Dishthorpe, Baldersby & Markington",7,8,8,3,2,3,7,4,5,2,8,5,6,2,noncovid
+E02005764,Harrogate 004,Ripon South & East,11,28,12,7,9,6,7,11,11,23,17,12,5,12,noncovid
+E02005765,Harrogate 005,Boroughbridge & Marton-cum-Grafton,3,9,8,6,3,3,2,6,7,6,5,1,6,10,noncovid
+E02005766,Harrogate 006,Pateley Bridge & Nidd Valley,4,6,7,2,4,1,7,2,4,4,4,6,4,2,noncovid
+E02005767,Harrogate 007,Knaresborough North,5,5,8,5,6,3,3,3,6,8,6,7,8,4,noncovid
+E02005768,Harrogate 008,Killinghall & Hampsthwaite,6,3,3,4,4,2,4,8,1,3,6,4,5,2,noncovid
+E02005769,Harrogate 009,Knaresborough Central,8,13,4,5,6,5,8,2,5,12,7,4,9,7,noncovid
+E02005770,Harrogate 010,Bilton,8,12,6,9,5,2,6,6,7,7,3,8,9,9,noncovid
+E02005771,Harrogate 011,Saltergate,2,5,5,4,4,2,4,3,2,2,5,4,4,5,noncovid
+E02005772,Harrogate 012,Knaresborough South & Follifoot,9,8,6,5,6,4,2,6,7,10,4,3,3,2,noncovid
+E02005773,Harrogate 013,Harrogate East,11,8,6,5,7,9,11,4,5,6,12,5,6,7,noncovid
+E02005774,Harrogate 014,Starbeck,14,20,11,7,7,5,10,5,7,11,10,8,7,5,noncovid
+E02005775,Harrogate 015,Central Harrogate,9,18,11,5,4,4,7,7,11,12,13,8,7,4,noncovid
+E02005776,Harrogate 016,"Ouseburn, Hammerton & Tockwith",5,14,4,7,4,3,13,8,7,5,6,10,6,4,noncovid
+E02005777,Harrogate 017,Hookstone,6,14,8,3,2,7,8,10,8,19,6,7,9,2,noncovid
+E02005778,Harrogate 018,"Menwith, Beckwithshaw & Denton Moor",6,3,2,9,3,1,3,2,3,2,5,3,5,4,noncovid
+E02005779,Harrogate 019,Stray,6,4,4,8,8,6,9,8,6,2,11,7,6,4,noncovid
+E02005780,Harrogate 020,Harrogate West & Pannal,5,16,6,9,10,7,11,7,17,10,6,5,9,11,noncovid
+E02005781,Harrogate 021,"Spofforth, Burn Bridge & Huby",6,12,5,7,4,11,8,7,6,5,6,7,5,5,noncovid
+E02005761,Harrogate 001,"Masham, Kirkby Malzeard & North Stainley",4,5,3,3,2,4,4,4,2,2,6,4,4,5,average
+E02005762,Harrogate 002,Ripon North & West,6,4,6,7,6,5,6,8,4,7,8,8,6,4,average
+E02005763,Harrogate 003,"Dishthorpe, Baldersby & Markington",6,5,4,4,6,5,5,4,7,5,4,5,6,5,average
+E02005764,Harrogate 004,Ripon South & East,12,11,11,8,9,11,11,9,12,12,14,12,12,11,average
+E02005765,Harrogate 005,Boroughbridge & Marton-cum-Grafton,7,7,6,7,5,7,8,7,5,8,7,6,7,7,average
+E02005766,Harrogate 006,Pateley Bridge & Nidd Valley,4,4,3,4,4,4,3,3,5,3,5,5,4,4,average
+E02005767,Harrogate 007,Knaresborough North,6,6,5,6,4,3,6,7,7,5,7,8,6,6,average
+E02005768,Harrogate 008,Killinghall & Hampsthwaite,4,5,4,3,5,5,4,3,5,5,5,4,4,5,average
+E02005769,Harrogate 009,Knaresborough Central,8,9,6,6,6,5,4,7,7,7,9,8,8,9,average
+E02005770,Harrogate 010,Bilton,6,6,8,6,7,5,5,9,10,7,9,7,6,6,average
+E02005771,Harrogate 011,Saltergate,4,4,3,3,3,3,4,4,3,4,5,6,4,4,average
+E02005772,Harrogate 012,Knaresborough South & Follifoot,7,4,7,5,5,6,5,6,5,6,7,7,7,4,average
+E02005773,Harrogate 013,Harrogate East,10,9,8,9,10,7,7,9,10,9,12,10,10,9,average
+E02005774,Harrogate 014,Starbeck,11,10,10,8,9,10,9,11,10,10,13,10,11,10,average
+E02005775,Harrogate 015,Central Harrogate,8,7,7,8,7,5,7,9,8,9,10,9,8,7,average
+E02005776,Harrogate 016,"Ouseburn, Hammerton & Tockwith",7,7,6,7,6,6,5,7,6,8,12,10,7,7,average
+E02005777,Harrogate 017,Hookstone,8,9,6,8,5,7,7,7,9,8,9,9,8,9,average
+E02005778,Harrogate 018,"Menwith, Beckwithshaw & Denton Moor",4,3,4,3,3,4,4,3,4,2,4,4,4,3,average
+E02005779,Harrogate 019,Stray,5,6,7,10,4,5,7,6,8,8,8,7,5,6,average
+E02005780,Harrogate 020,Harrogate West & Pannal,11,11,9,9,6,10,7,9,11,12,12,8,11,11,average
+E02005781,Harrogate 021,"Spofforth, Burn Bridge & Huby",7,4,6,6,5,6,8,6,4,4,7,8,7,4,average

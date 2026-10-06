@@ -1,0 +1,65 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "colour_palette": [
+      {
+        "key": "Raw",
+        "colour": "#A8BD3A"
+      },{
+        "key": "Adjusted",
+        "colour": "#118C7B"
+      }
+    ],
+    "categorySort": [],
+    "sourceText": ["DfE - Longitudinal Education Outcomes"],
+    "xAxisLabel": "",
+    "yAxisLabel": "%",
+    "yAxisScale": [0,150]
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 15,
+        "right": 15,
+        "bottom": 30,
+        "left": 40
+      },
+      "md": {
+        "top": 15,
+        "right": 20,
+        "bottom": 30,
+        "left": 40
+      },
+      "lg": {
+        "top": 15,
+        "right": 20,
+        "bottom": 30,
+        "left": 40
+      }
+    },
+    "margin_special_left":53,
+    "chart_every":{
+      "sm": 1,
+      "md": 1,
+      "lg": 2
+    },
+    "aspectRatio": {
+      "sm": [10, 8],
+      "md": [10, 8],
+      "lg": [10, 8]
+    },
+    "legendHeight":{
+      "sm": 45,
+      "md": 45,
+      "lg": 45
+    },
+
+    "mobileBreakpoint": 480,
+    "middleBreakpoint": 670,
+    "y_num_ticks":{
+        "sm":6,
+        "md":6,
+        "lg":6
+      }
+  }
+}

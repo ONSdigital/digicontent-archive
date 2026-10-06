@@ -1,0 +1,163 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>How long will your pension pot need to last?</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex" />
+  <meta name="googlebot" content="indexifembedded" />
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="chart.css">
+
+  <!-- Google Tag Manager -->
+  <script>(function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+      var f = d.getElementsByTagName(s)[0], j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-MBCBVQS');
+  </script>
+  <!-- End Google Tag Manager -->
+</head>
+
+<body>
+
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MBCBVQS" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <div class="container-fluid">
+
+    <form id="longevityCalculator">
+      <fieldset class="ons-fieldset form-controls-fieldset">
+        <legend class="ons-fieldset__legend">Enter your details</legend>
+
+        <div class="form-controls-stack" id="inputErrorGroup">
+          <div class="ons-field" id="AgeDiv">
+            <label class="ons-label" for="currentAge">Age</label>
+            <p id="currentAge-error" class="ons-input__error-message" style="display:none;">
+              <span class="ons-u-vh">Error: </span>Enter an age between 0 and 100
+            </p>
+            <input aria-live="polite" aria-describedby="currentAge-error" type="number" id="currentAge" value="0" min="0" max="100"
+              class="ons-input ons-input--text ons-input--width-5" onblur="onblurYourAge()">
+          </div>
+
+          <div id="btnGrpDiv" class="ons-field">
+            <p class="ons-radios__group-label">Sex</p>
+            <div id="genderbuttons" class="ons-radios">
+              <div class="ons-radios__item">
+                <input class="ons-radios__input" id="option1" type="radio" name="gender" value="male" autocomplete="off">
+                <label class="ons-radios__label" id="maleLabel" for="option1">Male</label>
+              </div>
+              <div class="ons-radios__item">
+                <input class="ons-radios__input" id="option2" type="radio" name="gender" value="female" autocomplete="off">
+                <label class="ons-radios__label" id="femaleLabel" for="option2">Female</label>
+              </div>
+            </div>
+          </div>
+        </div>
+      </fieldset>
+
+      <div class="col-sm-12 col-xs-12">
+        <div id="submitButton">
+          <button type="submit" aria-label="Calculate your life expectancy" id="compareBtn"
+            class="ons-btn ons-btn--cta ons-btn--disabled" disabled>Calculate average life expectancy</button>
+        </div>
+      </div>
+
+    </form>
+
+    <div class="col-sm-12p col-xs-12p" id="quizContent" style="display:none;">
+
+      <div id="LEDiv" class="col-sm-12 col-xs-12">
+        <p style="display:none;" id="introLine1" class="static">Average life expectancy</p>
+        <p style="display:none;" id="LE"></p>
+        <p class="visuallyhidden" aria-live="polite">
+          <span id="acc_LE"></span><span id="acc_25pc"></span><span id="acc_10pc"></span><span id="acc_100"></span>
+        </p>
+      </div>
+
+      <div class="col-sm-12p col-xs-12p">
+        <p style="display:none;" id="introLine4" class="caveat">However there's a chance you might live longer&hellip;</p>
+      </div>
+
+      <div class="col-sm-12p col-xs-12p" id="pictoText" style="display:none;">
+
+        <div id="actualDiv" class="labels col-sm-4 col-xs-6 hide">
+          <div class="labelt doublepica" id="pictoActualLabel">
+            <b class="oneinfour"></b>
+            <p id="pictoActualValue" class="sub_static"></p>
+          </div>
+          <div class="valuet trafalger">1 in 4 chance</div>
+        </div>
+
+        <div id="natDiv" class="labels col-sm-4 col-xs-6 hide">
+          <div class="labelt doublepica" id="pictoNatLabel">
+            <b class="oneinten"></b>
+            <p id="pictoNatValue" class="sub_static"></p>
+          </div>
+          <div class="valuet trafalger">1 in 10 chance</div>
+        </div>
+
+        <div id="guessDiv" class="labels col-sm-4 col-xs-6 hidden-xs hide">
+          <div class="labelt doublepica" id="pictoGuessLabel">
+            <b class="onehundred"></b>
+            <label class="sub_static" id="pictoStatic">100 <span class="spanClass">years</span></label>
+          </div>
+          <div class="valuet trafalger" id="pictoGuessValue"></div>
+        </div>
+
+      </div>
+
+      <div class="col-sm-12p col-xs-12p" id="picto" style="display:none;"></div>
+
+      <!-- Hidden chart div used for clearing in makeChart -->
+      <div id="chart" style="display:none;"></div>
+
+      <div class="col-sm-12p col-xs-12p" id="captiondiv">
+        State Pension ages are approximate. For your actual State Pension age, please refer to the
+        <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/310231/spa-timetable.pdf"
+          target="_blank">State Pension age timetable</a>
+      </div>
+
+      <div class="col-sm-12p col-xs-12p copy-link-section">
+        <label class="copy-link-label" for="shareUrl">Share this calculator</label>
+        <div class="copy-link-container">
+          <textarea id="shareUrl" class="copy-link-textarea" readonly aria-label="Share link for this calculator"></textarea>
+          <button id="copyButton" class="ons-btn ons-btn--secondary ons-btn--icon" aria-label="Copy the link to clipboard" title="Copy link">
+            <svg class="ons-btn__icon" viewBox="0 0 32 32" aria-hidden="true" focusable="false" width="24" height="24">
+              <path d="M20 2H8c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 18H8V4h12v16z"/>
+              <path d="M25 8h-2v14c0 1.1-.9 2-2 2H9v2h12c2.2 0 4-1.8 4-4V8z"/>
+            </svg>
+            Copy
+          </button>
+        </div>
+        <span id="copyTooltip" role="status" aria-live="polite" style="display:none; font-size:14px; margin-top:8px;">Link copied to clipboard</span>
+      </div>
+
+      <div class="col-sm-12p col-xs-12p" id="pictoError" style="display:none;">
+        <div role="status" aria-live="assertive" class="errorLabel" id="errorLabel">
+          Unfortunately life expectancy statistics are not available for your age at this current time.<br><br>
+          Statistics are only available for males aged 65 and under, and females aged 60 or under.
+        </div>
+      </div>
+
+      <div class="col-sm-12 col-xs-12" id="tweetSub" style="display:none;"></div>
+
+    </div><!-- end quizContent -->
+
+  </div><!-- end container-fluid -->
+
+  <script src="https://cdn.ons.gov.uk/vendor/d3/6.3.0/d3.min.js" type="text/javascript"></script>
+  <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.js" type="text/javascript"></script>
+  <script src="config.js"></script>
+  <script src="js/script.js"></script>
+
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a40b48c98d9b472f',t:'MTc5MDM1MjQ3Mg=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+
+</html>
+

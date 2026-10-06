@@ -1,0 +1,15 @@
+{"ons":{
+"varlabel": ["% of 16/17yr olds"],
+"varcolour": ["#ffffcc","#a1dab4","#41b6c4","#2c7fb8","#253494"],
+"varname": ["sixteenseventeen"],
+"varload": "sixteenseventeen",
+"varunit":["% of 16 & 17yr olds in 16+ population"],
+"varunit1":[["% of 16 & 17yr olds","in 16+ population"]],
+"varprefix":[""],
+"breaks":[[0,1,2,3,4,5]],
+"average":[24,65.4],
+"averagelabel":"E&W",
+"centre":[55.5,-1.9708],
+"zoom":5
+
+}}

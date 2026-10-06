@@ -1,0 +1,541 @@
+date,category,chiffre,series
+03/01/2020,North East,25.10725038,5 year average
+10/01/2020,North East,27.86840452,5 year average
+17/01/2020,North East,27.30187098,5 year average
+24/01/2020,North East,27.13402276,5 year average
+31/01/2020,North East,25.9234953,5 year average
+07/02/2020,North East,24.72529324,5 year average
+14/02/2020,North East,23.69681827,5 year average
+21/02/2020,North East,24.72988319,5 year average
+28/02/2020,North East,22.7824481,5 year average
+06/03/2020,North East,23.49029259,5 year average
+13/03/2020,North East,22.17669843,5 year average
+20/03/2020,North East,20.94706878,5 year average
+27/03/2020,North East,20.65542273,5 year average
+03/04/2020,North East,20.78364286,5 year average
+10/04/2020,North East,20.90227345,5 year average
+17/04/2020,North East,21.00201414,5 year average
+24/04/2020,North East,21.94954487,5 year average
+01/05/2020,North East,19.8961262,5 year average
+03/01/2020,North West,24.69641531,5 year average
+10/01/2020,North West,27.75975011,5 year average
+17/01/2020,North West,25.93232163,5 year average
+24/01/2020,North West,25.01000752,5 year average
+31/01/2020,North West,23.60617547,5 year average
+07/02/2020,North West,23.17239377,5 year average
+14/02/2020,North West,23.27552115,5 year average
+21/02/2020,North West,22.67003913,5 year average
+28/02/2020,North West,21.77146846,5 year average
+06/03/2020,North West,22.7932131,5 year average
+13/03/2020,North West,22.04428165,5 year average
+20/03/2020,North West,20.89893675,5 year average
+27/03/2020,North West,19.82329935,5 year average
+03/04/2020,North West,20.37634634,5 year average
+10/04/2020,North West,21.08710256,5 year average
+17/04/2020,North West,20.7852879,5 year average
+24/04/2020,North West,20.74380147,5 year average
+01/05/2020,North West,19.83270832,5 year average
+03/01/2020,Yorkshire and The Humber,24.45993468,5 year average
+10/01/2020,Yorkshire and The Humber,27.10335732,5 year average
+17/01/2020,Yorkshire and The Humber,25.75376726,5 year average
+24/01/2020,Yorkshire and The Humber,24.73831112,5 year average
+31/01/2020,Yorkshire and The Humber,23.59450696,5 year average
+07/02/2020,Yorkshire and The Humber,22.76374371,5 year average
+14/02/2020,Yorkshire and The Humber,22.85098299,5 year average
+21/02/2020,Yorkshire and The Humber,22.34927118,5 year average
+28/02/2020,Yorkshire and The Humber,21.9558594,5 year average
+06/03/2020,Yorkshire and The Humber,21.99143491,5 year average
+13/03/2020,Yorkshire and The Humber,21.74034478,5 year average
+20/03/2020,Yorkshire and The Humber,20.46616993,5 year average
+27/03/2020,Yorkshire and The Humber,19.53924855,5 year average
+03/04/2020,Yorkshire and The Humber,19.57616482,5 year average
+10/04/2020,Yorkshire and The Humber,20.29106522,5 year average
+17/04/2020,Yorkshire and The Humber,19.96831179,5 year average
+24/04/2020,Yorkshire and The Humber,19.91006164,5 year average
+01/05/2020,Yorkshire and The Humber,18.92946951,5 year average
+03/01/2020,East Midlands,22.48385101,5 year average
+10/01/2020,East Midlands,25.37480597,5 year average
+17/01/2020,East Midlands,24.35766581,5 year average
+24/01/2020,East Midlands,23.72935927,5 year average
+31/01/2020,East Midlands,22.9090622,5 year average
+07/02/2020,East Midlands,22.44901876,5 year average
+14/02/2020,East Midlands,21.5130691,5 year average
+21/02/2020,East Midlands,21.09675716,5 year average
+28/02/2020,East Midlands,20.56279675,5 year average
+06/03/2020,East Midlands,21.6636568,5 year average
+13/03/2020,East Midlands,20.86860908,5 year average
+20/03/2020,East Midlands,20.00401396,5 year average
+27/03/2020,East Midlands,18.85105088,5 year average
+03/04/2020,East Midlands,18.74461882,5 year average
+10/04/2020,East Midlands,19.46779503,5 year average
+17/04/2020,East Midlands,19.52685608,5 year average
+24/04/2020,East Midlands,19.18993844,5 year average
+01/05/2020,East Midlands,18.48799199,5 year average
+03/01/2020,West Midlands,23.25801088,5 year average
+10/01/2020,West Midlands,25.81144775,5 year average
+17/01/2020,West Midlands,25.00317187,5 year average
+24/01/2020,West Midlands,23.64784991,5 year average
+31/01/2020,West Midlands,23.41383719,5 year average
+07/02/2020,West Midlands,22.83351582,5 year average
+14/02/2020,West Midlands,21.73861623,5 year average
+21/02/2020,West Midlands,21.17607363,5 year average
+28/02/2020,West Midlands,21.63147542,5 year average
+06/03/2020,West Midlands,21.72762535,5 year average
+13/03/2020,West Midlands,21.02689728,5 year average
+20/03/2020,West Midlands,19.36260582,5 year average
+27/03/2020,West Midlands,18.11305354,5 year average
+03/04/2020,West Midlands,19.44354624,5 year average
+10/04/2020,West Midlands,19.38911881,5 year average
+17/04/2020,West Midlands,19.90757476,5 year average
+24/04/2020,West Midlands,19.07671993,5 year average
+01/05/2020,West Midlands,18.54799349,5 year average
+03/01/2020,East,20.19758055,5 year average
+10/01/2020,East,23.70955958,5 year average
+17/01/2020,East,23.247621,5 year average
+24/01/2020,East,22.7386127,5 year average
+31/01/2020,East,21.18511769,5 year average
+07/02/2020,East,20.89290532,5 year average
+14/02/2020,East,19.88703851,5 year average
+21/02/2020,East,20.09080658,5 year average
+28/02/2020,East,19.66678666,5 year average
+06/03/2020,East,19.63207589,5 year average
+13/03/2020,East,19.20005674,5 year average
+20/03/2020,East,17.68085241,5 year average
+27/03/2020,East,17.54252707,5 year average
+03/04/2020,East,18.04915238,5 year average
+10/04/2020,East,18.52749883,5 year average
+17/04/2020,East,18.39354838,5 year average
+24/04/2020,East,17.98694123,5 year average
+01/05/2020,East,16.8522753,5 year average
+03/01/2020,London,20.30075287,5 year average
+10/01/2020,London,22.28741286,5 year average
+17/01/2020,London,20.66300465,5 year average
+24/01/2020,London,20.1639853,5 year average
+31/01/2020,London,19.65415711,5 year average
+07/02/2020,London,19.1494135,5 year average
+14/02/2020,London,18.85460901,5 year average
+21/02/2020,London,18.70743418,5 year average
+28/02/2020,London,17.91114299,5 year average
+06/03/2020,London,18.13505554,5 year average
+13/03/2020,London,18.00038484,5 year average
+20/03/2020,London,17.20909587,5 year average
+27/03/2020,London,16.79834658,5 year average
+03/04/2020,London,16.74324888,5 year average
+10/04/2020,London,16.90235742,5 year average
+17/04/2020,London,16.8165755,5 year average
+24/04/2020,London,16.97978182,5 year average
+01/05/2020,London,15.88440566,5 year average
+03/01/2020,South East,19.78320667,5 year average
+10/01/2020,South East,23.21496234,5 year average
+17/01/2020,South East,22.83323858,5 year average
+24/01/2020,South East,21.54693958,5 year average
+31/01/2020,South East,20.04882082,5 year average
+07/02/2020,South East,19.6651447,5 year average
+14/02/2020,South East,19.26010896,5 year average
+21/02/2020,South East,18.99905884,5 year average
+28/02/2020,South East,18.42301625,5 year average
+06/03/2020,South East,19.0062464,5 year average
+13/03/2020,South East,18.32630155,5 year average
+20/03/2020,South East,17.6522824,5 year average
+27/03/2020,South East,16.82296892,5 year average
+03/04/2020,South East,17.02584062,5 year average
+10/04/2020,South East,17.59703852,5 year average
+17/04/2020,South East,17.38222009,5 year average
+24/04/2020,South East,17.63858475,5 year average
+01/05/2020,South East,16.5226817,5 year average
+03/01/2020,South West,20.48971591,5 year average
+10/01/2020,South West,23.24596053,5 year average
+17/01/2020,South West,21.71302056,5 year average
+24/01/2020,South West,21.20458849,5 year average
+31/01/2020,South West,20.68881601,5 year average
+07/02/2020,South West,20.61960368,5 year average
+14/02/2020,South West,19.61491828,5 year average
+21/02/2020,South West,20.13728562,5 year average
+28/02/2020,South West,18.84020405,5 year average
+06/03/2020,South West,20.15242279,5 year average
+13/03/2020,South West,19.56433073,5 year average
+20/03/2020,South West,18.50657236,5 year average
+27/03/2020,South West,17.3272834,5 year average
+03/04/2020,South West,17.58450009,5 year average
+10/04/2020,South West,17.51199344,5 year average
+17/04/2020,South West,17.81276368,5 year average
+24/04/2020,South West,17.81776543,5 year average
+01/05/2020,South West,17.37859324,5 year average
+03/01/2020,Wales,23.59371653,5 year average
+10/01/2020,Wales,26.65070034,5 year average
+17/01/2020,Wales,25.28901961,5 year average
+24/01/2020,Wales,24.9668658,5 year average
+31/01/2020,Wales,23.69156001,5 year average
+07/02/2020,Wales,22.74241453,5 year average
+14/02/2020,Wales,22.51893102,5 year average
+21/02/2020,Wales,22.55535547,5 year average
+28/02/2020,Wales,21.77716408,5 year average
+06/03/2020,Wales,22.46216858,5 year average
+13/03/2020,Wales,22.6815477,5 year average
+20/03/2020,Wales,21.18366474,5 year average
+27/03/2020,Wales,20.74345666,5 year average
+03/04/2020,Wales,20.84402961,5 year average
+10/04/2020,Wales,20.85417679,5 year average
+17/04/2020,Wales,20.66122428,5 year average
+24/04/2020,Wales,20.59515466,5 year average
+01/05/2020,Wales,19.3776147,5 year average
+03/01/2020,North East,25.28667689,Deaths not involving COVID-19
+10/01/2020,North East,26.24385362,Deaths not involving COVID-19
+17/01/2020,North East,24.05477802,Deaths not involving COVID-19
+24/01/2020,North East,22.78623175,Deaths not involving COVID-19
+31/01/2020,North East,20.93551787,Deaths not involving COVID-19
+07/02/2020,North East,21.05580306,Deaths not involving COVID-19
+14/02/2020,North East,21.34079219,Deaths not involving COVID-19
+21/02/2020,North East,20.17065402,Deaths not involving COVID-19
+28/02/2020,North East,21.11514125,Deaths not involving COVID-19
+06/03/2020,North East,21.12137861,Deaths not involving COVID-19
+13/03/2020,North East,21.98585252,Deaths not involving COVID-19
+20/03/2020,North East,19.46336215,Deaths not involving COVID-19
+27/03/2020,North East,19.64230019,Deaths not involving COVID-19
+03/04/2020,North East,23.61956475,Deaths not involving COVID-19
+10/04/2020,North East,19.94022903,Deaths not involving COVID-19
+17/04/2020,North East,25.01487922,Deaths not involving COVID-19
+24/04/2020,North East,24.30435296,Deaths not involving COVID-19
+01/05/2020,North East,21.41080421,Deaths not involving COVID-19
+03/01/2020,North West,25.52372645,Deaths not involving COVID-19
+10/01/2020,North West,27.30417615,Deaths not involving COVID-19
+17/01/2020,North West,23.86842637,Deaths not involving COVID-19
+24/01/2020,North West,21.64178603,Deaths not involving COVID-19
+31/01/2020,North West,20.66624115,Deaths not involving COVID-19
+07/02/2020,North West,21.61157995,Deaths not involving COVID-19
+14/02/2020,North West,20.17996068,Deaths not involving COVID-19
+21/02/2020,North West,20.8396079,Deaths not involving COVID-19
+28/02/2020,North West,20.72960286,Deaths not involving COVID-19
+06/03/2020,North West,20.99667388,Deaths not involving COVID-19
+13/03/2020,North West,20.80393476,Deaths not involving COVID-19
+20/03/2020,North West,20.13430622,Deaths not involving COVID-19
+27/03/2020,North West,20.72051317,Deaths not involving COVID-19
+03/04/2020,North West,23.71396675,Deaths not involving COVID-19
+10/04/2020,North West,22.47251541,Deaths not involving COVID-19
+17/04/2020,North West,24.79304663,Deaths not involving COVID-19
+24/04/2020,North West,25.48136272,Deaths not involving COVID-19
+01/05/2020,North West,21.15054018,Deaths not involving COVID-19
+03/01/2020,Yorkshire and The Humber,23.27329614,Deaths not involving COVID-19
+10/01/2020,Yorkshire and The Humber,25.160723,Deaths not involving COVID-19
+17/01/2020,Yorkshire and The Humber,23.90715599,Deaths not involving COVID-19
+24/01/2020,Yorkshire and The Humber,22.22403749,Deaths not involving COVID-19
+31/01/2020,Yorkshire and The Humber,21.18891465,Deaths not involving COVID-19
+07/02/2020,Yorkshire and The Humber,20.17058455,Deaths not involving COVID-19
+14/02/2020,Yorkshire and The Humber,19.85917369,Deaths not involving COVID-19
+21/02/2020,Yorkshire and The Humber,20.39188131,Deaths not involving COVID-19
+28/02/2020,Yorkshire and The Humber,20.16888664,Deaths not involving COVID-19
+06/03/2020,Yorkshire and The Humber,20.83041068,Deaths not involving COVID-19
+13/03/2020,Yorkshire and The Humber,19.79771593,Deaths not involving COVID-19
+20/03/2020,Yorkshire and The Humber,18.81229752,Deaths not involving COVID-19
+27/03/2020,Yorkshire and The Humber,18.09009853,Deaths not involving COVID-19
+03/04/2020,Yorkshire and The Humber,23.34076669,Deaths not involving COVID-19
+10/04/2020,Yorkshire and The Humber,20.58280929,Deaths not involving COVID-19
+17/04/2020,Yorkshire and The Humber,23.419224,Deaths not involving COVID-19
+24/04/2020,Yorkshire and The Humber,24.44437078,Deaths not involving COVID-19
+01/05/2020,Yorkshire and The Humber,21.98594484,Deaths not involving COVID-19
+03/01/2020,East Midlands,21.85798633,Deaths not involving COVID-19
+10/01/2020,East Midlands,24.73900968,Deaths not involving COVID-19
+17/01/2020,East Midlands,22.75832125,Deaths not involving COVID-19
+24/01/2020,East Midlands,21.13000875,Deaths not involving COVID-19
+31/01/2020,East Midlands,20.96842547,Deaths not involving COVID-19
+07/02/2020,East Midlands,19.02291124,Deaths not involving COVID-19
+14/02/2020,East Midlands,20.12613058,Deaths not involving COVID-19
+21/02/2020,East Midlands,19.16167365,Deaths not involving COVID-19
+28/02/2020,East Midlands,18.96208425,Deaths not involving COVID-19
+06/03/2020,East Midlands,19.21000875,Deaths not involving COVID-19
+13/03/2020,East Midlands,18.82400526,Deaths not involving COVID-19
+20/03/2020,East Midlands,19.50288802,Deaths not involving COVID-19
+27/03/2020,East Midlands,18.40216974,Deaths not involving COVID-19
+03/04/2020,East Midlands,21.41174782,Deaths not involving COVID-19
+10/04/2020,East Midlands,20.60834119,Deaths not involving COVID-19
+17/04/2020,East Midlands,21.75961611,Deaths not involving COVID-19
+24/04/2020,East Midlands,22.81565877,Deaths not involving COVID-19
+01/05/2020,East Midlands,19.26496758,Deaths not involving COVID-19
+03/01/2020,West Midlands,23.13287832,Deaths not involving COVID-19
+10/01/2020,West Midlands,24.98107465,Deaths not involving COVID-19
+17/01/2020,West Midlands,24.17968005,Deaths not involving COVID-19
+24/01/2020,West Midlands,21.19801651,Deaths not involving COVID-19
+31/01/2020,West Midlands,21.66460125,Deaths not involving COVID-19
+07/02/2020,West Midlands,18.0976722,Deaths not involving COVID-19
+14/02/2020,West Midlands,20.02112355,Deaths not involving COVID-19
+21/02/2020,West Midlands,19.2081701,Deaths not involving COVID-19
+28/02/2020,West Midlands,20.25683202,Deaths not involving COVID-19
+06/03/2020,West Midlands,18.86981214,Deaths not involving COVID-19
+13/03/2020,West Midlands,20.45287054,Deaths not involving COVID-19
+20/03/2020,West Midlands,18.91569267,Deaths not involving COVID-19
+27/03/2020,West Midlands,16.61856718,Deaths not involving COVID-19
+03/04/2020,West Midlands,23.6607295,Deaths not involving COVID-19
+10/04/2020,West Midlands,22.31271568,Deaths not involving COVID-19
+17/04/2020,West Midlands,24.51013256,Deaths not involving COVID-19
+24/04/2020,West Midlands,25.85064688,Deaths not involving COVID-19
+01/05/2020,West Midlands,20.98711029,Deaths not involving COVID-19
+03/01/2020,East,17.37824325,Deaths not involving COVID-19
+10/01/2020,East,23.65450622,Deaths not involving COVID-19
+17/01/2020,East,22.02017979,Deaths not involving COVID-19
+24/01/2020,East,21.28552995,Deaths not involving COVID-19
+31/01/2020,East,19.40205087,Deaths not involving COVID-19
+07/02/2020,East,19.02455604,Deaths not involving COVID-19
+14/02/2020,East,17.73257986,Deaths not involving COVID-19
+21/02/2020,East,17.56350358,Deaths not involving COVID-19
+28/02/2020,East,16.82595029,Deaths not involving COVID-19
+06/03/2020,East,17.30875683,Deaths not involving COVID-19
+13/03/2020,East,18.27509985,Deaths not involving COVID-19
+20/03/2020,East,15.66393127,Deaths not involving COVID-19
+27/03/2020,East,17.52399148,Deaths not involving COVID-19
+03/04/2020,East,21.24402844,Deaths not involving COVID-19
+10/04/2020,East,20.6903214,Deaths not involving COVID-19
+17/04/2020,East,23.12076398,Deaths not involving COVID-19
+24/04/2020,East,21.30127093,Deaths not involving COVID-19
+01/05/2020,East,19.52196738,Deaths not involving COVID-19
+03/01/2020,London,18.12800916,Deaths not involving COVID-19
+10/01/2020,London,20.92401015,Deaths not involving COVID-19
+17/01/2020,London,17.49083478,Deaths not involving COVID-19
+24/01/2020,London,16.64078688,Deaths not involving COVID-19
+31/01/2020,London,17.66188755,Deaths not involving COVID-19
+07/02/2020,London,16.13647417,Deaths not involving COVID-19
+14/02/2020,London,15.85069295,Deaths not involving COVID-19
+21/02/2020,London,16.76219109,Deaths not involving COVID-19
+28/02/2020,London,17.66424453,Deaths not involving COVID-19
+06/03/2020,London,15.85134319,Deaths not involving COVID-19
+13/03/2020,London,15.52297577,Deaths not involving COVID-19
+20/03/2020,London,15.72911326,Deaths not involving COVID-19
+27/03/2020,London,17.28011503,Deaths not involving COVID-19
+03/04/2020,London,21.70603986,Deaths not involving COVID-19
+10/04/2020,London,21.12933999,Deaths not involving COVID-19
+17/04/2020,London,23.2781458,Deaths not involving COVID-19
+24/04/2020,London,21.51397395,Deaths not involving COVID-19
+01/05/2020,London,17.81509677,Deaths not involving COVID-19
+03/01/2020,South East,18.48477654,Deaths not involving COVID-19
+10/01/2020,South East,21.69744572,Deaths not involving COVID-19
+17/01/2020,South East,21.10670402,Deaths not involving COVID-19
+24/01/2020,South East,18.78854029,Deaths not involving COVID-19
+31/01/2020,South East,18.59908435,Deaths not involving COVID-19
+07/02/2020,South East,17.60943055,Deaths not involving COVID-19
+14/02/2020,South East,17.25909125,Deaths not involving COVID-19
+21/02/2020,South East,17.15366845,Deaths not involving COVID-19
+28/02/2020,South East,16.18141917,Deaths not involving COVID-19
+06/03/2020,South East,17.62441854,Deaths not involving COVID-19
+13/03/2020,South East,17.9814381,Deaths not involving COVID-19
+20/03/2020,South East,16.75816206,Deaths not involving COVID-19
+27/03/2020,South East,17.84391025,Deaths not involving COVID-19
+03/04/2020,South East,19.20758717,Deaths not involving COVID-19
+10/04/2020,South East,18.72823012,Deaths not involving COVID-19
+17/04/2020,South East,19.39425943,Deaths not involving COVID-19
+24/04/2020,South East,20.65329531,Deaths not involving COVID-19
+01/05/2020,South East,18.57985894,Deaths not involving COVID-19
+03/01/2020,South West,18.38395856,Deaths not involving COVID-19
+10/01/2020,South West,22.32665956,Deaths not involving COVID-19
+17/01/2020,South West,22.14745498,Deaths not involving COVID-19
+24/01/2020,South West,18.97169396,Deaths not involving COVID-19
+31/01/2020,South West,18.64619077,Deaths not involving COVID-19
+07/02/2020,South West,17.55689014,Deaths not involving COVID-19
+14/02/2020,South West,17.68184575,Deaths not involving COVID-19
+21/02/2020,South West,16.9934174,Deaths not involving COVID-19
+28/02/2020,South West,17.11616056,Deaths not involving COVID-19
+06/03/2020,South West,17.5884206,Deaths not involving COVID-19
+13/03/2020,South West,17.74840491,Deaths not involving COVID-19
+20/03/2020,South West,17.53145685,Deaths not involving COVID-19
+27/03/2020,South West,16.03349827,Deaths not involving COVID-19
+03/04/2020,South West,20.44391599,Deaths not involving COVID-19
+10/04/2020,South West,17.89757646,Deaths not involving COVID-19
+17/04/2020,South West,19.67420813,Deaths not involving COVID-19
+24/04/2020,South West,20.30041425,Deaths not involving COVID-19
+01/05/2020,South West,16.56142255,Deaths not involving COVID-19
+03/01/2020,Wales,23.28673804,Deaths not involving COVID-19
+10/01/2020,Wales,27.95425005,Deaths not involving COVID-19
+17/01/2020,Wales,22.73399129,Deaths not involving COVID-19
+24/01/2020,Wales,21.5432348,Deaths not involving COVID-19
+31/01/2020,Wales,21.67096638,Deaths not involving COVID-19
+07/02/2020,Wales,20.66413343,Deaths not involving COVID-19
+14/02/2020,Wales,21.69902372,Deaths not involving COVID-19
+21/02/2020,Wales,20.29037942,Deaths not involving COVID-19
+28/02/2020,Wales,19.55548879,Deaths not involving COVID-19
+06/03/2020,Wales,19.41981852,Deaths not involving COVID-19
+13/03/2020,Wales,20.0628211,Deaths not involving COVID-19
+20/03/2020,Wales,21.2653465,Deaths not involving COVID-19
+27/03/2020,Wales,20.70806333,Deaths not involving COVID-19
+03/04/2020,Wales,23.19590582,Deaths not involving COVID-19
+10/04/2020,Wales,17.95935667,Deaths not involving COVID-19
+17/04/2020,Wales,22.2674648,Deaths not involving COVID-19
+24/04/2020,Wales,20.65437861,Deaths not involving COVID-19
+01/05/2020,Wales,18.93716694,Deaths not involving COVID-19
+03/01/2020,North East,25.28667689,All deaths - 2020
+10/01/2020,North East,26.24385362,All deaths - 2020
+17/01/2020,North East,24.05477802,All deaths - 2020
+24/01/2020,North East,22.78623175,All deaths - 2020
+31/01/2020,North East,20.93551787,All deaths - 2020
+07/02/2020,North East,21.05580306,All deaths - 2020
+14/02/2020,North East,21.34079219,All deaths - 2020
+21/02/2020,North East,20.17065402,All deaths - 2020
+28/02/2020,North East,21.11514125,All deaths - 2020
+06/03/2020,North East,21.12137861,All deaths - 2020
+13/03/2020,North East,21.98585252,All deaths - 2020
+20/03/2020,North East,19.49671496,All deaths - 2020
+27/03/2020,North East,20.19249768,All deaths - 2020
+03/04/2020,North East,28.57497951,All deaths - 2020
+10/04/2020,North East,30.50708405,All deaths - 2020
+17/04/2020,North East,42.52449021,All deaths - 2020
+24/04/2020,North East,39.68760367,All deaths - 2020
+01/05/2020,North East,33.15061385,All deaths - 2020
+03/01/2020,North West,25.52372645,All deaths - 2020
+10/01/2020,North West,27.30417615,All deaths - 2020
+17/01/2020,North West,23.86842637,All deaths - 2020
+24/01/2020,North West,21.64178603,All deaths - 2020
+31/01/2020,North West,20.66624115,All deaths - 2020
+07/02/2020,North West,21.61157995,All deaths - 2020
+14/02/2020,North West,20.17996068,All deaths - 2020
+21/02/2020,North West,20.8396079,All deaths - 2020
+28/02/2020,North West,20.72960286,All deaths - 2020
+06/03/2020,North West,20.99667388,All deaths - 2020
+13/03/2020,North West,20.81782524,All deaths - 2020
+20/03/2020,North West,20.31510271,All deaths - 2020
+27/03/2020,North West,21.55246226,All deaths - 2020
+03/04/2020,North West,29.54204349,All deaths - 2020
+10/04/2020,North West,35.2071358,All deaths - 2020
+17/04/2020,North West,43.67216892,All deaths - 2020
+24/04/2020,North West,42.33699131,All deaths - 2020
+01/05/2020,North West,33.95718081,All deaths - 2020
+03/01/2020,Yorkshire and The Humber,23.27329614,All deaths - 2020
+10/01/2020,Yorkshire and The Humber,25.160723,All deaths - 2020
+17/01/2020,Yorkshire and The Humber,23.90715599,All deaths - 2020
+24/01/2020,Yorkshire and The Humber,22.22403749,All deaths - 2020
+31/01/2020,Yorkshire and The Humber,21.18891465,All deaths - 2020
+07/02/2020,Yorkshire and The Humber,20.17058455,All deaths - 2020
+14/02/2020,Yorkshire and The Humber,19.85917369,All deaths - 2020
+21/02/2020,Yorkshire and The Humber,20.39188131,All deaths - 2020
+28/02/2020,Yorkshire and The Humber,20.16888664,All deaths - 2020
+06/03/2020,Yorkshire and The Humber,20.83041068,All deaths - 2020
+13/03/2020,Yorkshire and The Humber,19.79771593,All deaths - 2020
+20/03/2020,Yorkshire and The Humber,18.90595859,All deaths - 2020
+27/03/2020,Yorkshire and The Humber,18.32107767,All deaths - 2020
+03/04/2020,Yorkshire and The Humber,26.62954987,All deaths - 2020
+10/04/2020,Yorkshire and The Humber,27.51522874,All deaths - 2020
+17/04/2020,Yorkshire and The Humber,36.28631251,All deaths - 2020
+24/04/2020,Yorkshire and The Humber,38.56113492,All deaths - 2020
+01/05/2020,Yorkshire and The Humber,34.15351233,All deaths - 2020
+03/01/2020,East Midlands,21.85798633,All deaths - 2020
+10/01/2020,East Midlands,24.73900968,All deaths - 2020
+17/01/2020,East Midlands,22.75832125,All deaths - 2020
+24/01/2020,East Midlands,21.13000875,All deaths - 2020
+31/01/2020,East Midlands,20.96842547,All deaths - 2020
+07/02/2020,East Midlands,19.02291124,All deaths - 2020
+14/02/2020,East Midlands,20.12613058,All deaths - 2020
+21/02/2020,East Midlands,19.16167365,All deaths - 2020
+28/02/2020,East Midlands,18.96208425,All deaths - 2020
+06/03/2020,East Midlands,19.21000875,All deaths - 2020
+13/03/2020,East Midlands,18.82400526,All deaths - 2020
+20/03/2020,East Midlands,19.56443062,All deaths - 2020
+27/03/2020,East Midlands,18.92218737,All deaths - 2020
+03/04/2020,East Midlands,25.193691,All deaths - 2020
+10/04/2020,East Midlands,29.2690993,All deaths - 2020
+17/04/2020,East Midlands,33.17652856,All deaths - 2020
+24/04/2020,East Midlands,34.41180113,All deaths - 2020
+01/05/2020,East Midlands,28.30228758,All deaths - 2020
+03/01/2020,West Midlands,23.13287832,All deaths - 2020
+10/01/2020,West Midlands,24.98107465,All deaths - 2020
+17/01/2020,West Midlands,24.17968005,All deaths - 2020
+24/01/2020,West Midlands,21.19801651,All deaths - 2020
+31/01/2020,West Midlands,21.66460125,All deaths - 2020
+07/02/2020,West Midlands,18.0976722,All deaths - 2020
+14/02/2020,West Midlands,20.02112355,All deaths - 2020
+21/02/2020,West Midlands,19.2081701,All deaths - 2020
+28/02/2020,West Midlands,20.25683202,All deaths - 2020
+06/03/2020,West Midlands,18.86981214,All deaths - 2020
+13/03/2020,West Midlands,20.48777632,All deaths - 2020
+20/03/2020,West Midlands,19.16931307,All deaths - 2020
+27/03/2020,West Midlands,17.84993582,All deaths - 2020
+03/04/2020,West Midlands,30.68225795,All deaths - 2020
+10/04/2020,West Midlands,36.10915385,All deaths - 2020
+17/04/2020,West Midlands,41.53759488,All deaths - 2020
+24/04/2020,West Midlands,40.94044452,All deaths - 2020
+01/05/2020,West Midlands,32.05782056,All deaths - 2020
+03/01/2020,East,17.37824325,All deaths - 2020
+10/01/2020,East,23.65450622,All deaths - 2020
+17/01/2020,East,22.02017979,All deaths - 2020
+24/01/2020,East,21.28552995,All deaths - 2020
+31/01/2020,East,19.40205087,All deaths - 2020
+07/02/2020,East,19.02455604,All deaths - 2020
+14/02/2020,East,17.73257986,All deaths - 2020
+21/02/2020,East,17.56350358,All deaths - 2020
+28/02/2020,East,16.82595029,All deaths - 2020
+06/03/2020,East,17.30875683,All deaths - 2020
+13/03/2020,East,18.27509985,All deaths - 2020
+20/03/2020,East,15.70984959,All deaths - 2020
+27/03/2020,East,17.70536492,All deaths - 2020
+03/04/2020,East,25.48320145,All deaths - 2020
+10/04/2020,East,29.21045538,All deaths - 2020
+17/04/2020,East,35.61877333,All deaths - 2020
+24/04/2020,East,33.43628562,All deaths - 2020
+01/05/2020,East,28.93956108,All deaths - 2020
+03/01/2020,London,18.12800916,All deaths - 2020
+10/01/2020,London,20.92401015,All deaths - 2020
+17/01/2020,London,17.49083478,All deaths - 2020
+24/01/2020,London,16.64078688,All deaths - 2020
+31/01/2020,London,17.66188755,All deaths - 2020
+07/02/2020,London,16.13647417,All deaths - 2020
+14/02/2020,London,15.85069295,All deaths - 2020
+21/02/2020,London,16.76219109,All deaths - 2020
+28/02/2020,London,17.66424453,All deaths - 2020
+06/03/2020,London,15.85134319,All deaths - 2020
+13/03/2020,London,15.52297577,All deaths - 2020
+20/03/2020,London,16.45385443,All deaths - 2020
+27/03/2020,London,21.29651742,All deaths - 2020
+03/04/2020,London,41.09127776,All deaths - 2020
+10/04/2020,London,46.04424265,All deaths - 2020
+17/04/2020,London,53.06966846,All deaths - 2020
+24/04/2020,London,44.47019296,All deaths - 2020
+01/05/2020,London,30.68642429,All deaths - 2020
+03/01/2020,South East,18.48477654,All deaths - 2020
+10/01/2020,South East,21.69744572,All deaths - 2020
+17/01/2020,South East,21.10670402,All deaths - 2020
+24/01/2020,South East,18.78854029,All deaths - 2020
+31/01/2020,South East,18.59908435,All deaths - 2020
+07/02/2020,South East,17.60943055,All deaths - 2020
+14/02/2020,South East,17.25909125,All deaths - 2020
+21/02/2020,South East,17.15366845,All deaths - 2020
+28/02/2020,South East,16.18141917,All deaths - 2020
+06/03/2020,South East,17.62441854,All deaths - 2020
+13/03/2020,South East,18.002664,All deaths - 2020
+20/03/2020,South East,16.93802539,All deaths - 2020
+27/03/2020,South East,18.56530352,All deaths - 2020
+03/04/2020,South East,23.44328003,All deaths - 2020
+10/04/2020,South East,26.12889123,All deaths - 2020
+17/04/2020,South East,30.70671223,All deaths - 2020
+24/04/2020,South East,33.10561663,All deaths - 2020
+01/05/2020,South East,28.27642238,All deaths - 2020
+03/01/2020,South West,18.38395856,All deaths - 2020
+10/01/2020,South West,22.32665956,All deaths - 2020
+17/01/2020,South West,22.14745498,All deaths - 2020
+24/01/2020,South West,18.97169396,All deaths - 2020
+31/01/2020,South West,18.64619077,All deaths - 2020
+07/02/2020,South West,17.55689014,All deaths - 2020
+14/02/2020,South West,17.68184575,All deaths - 2020
+21/02/2020,South West,16.9934174,All deaths - 2020
+28/02/2020,South West,17.11616056,All deaths - 2020
+06/03/2020,South West,17.5884206,All deaths - 2020
+13/03/2020,South West,17.74840491,All deaths - 2020
+20/03/2020,South West,17.57691788,All deaths - 2020
+27/03/2020,South West,16.33183995,All deaths - 2020
+03/04/2020,South West,22.78446747,All deaths - 2020
+10/04/2020,South West,22.35751895,All deaths - 2020
+17/04/2020,South West,27.1317086,All deaths - 2020
+24/04/2020,South West,28.15720076,All deaths - 2020
+01/05/2020,South West,22.53304626,All deaths - 2020
+03/01/2020,Wales,23.28673804,All deaths - 2020
+10/01/2020,Wales,27.95425005,All deaths - 2020
+17/01/2020,Wales,22.73399129,All deaths - 2020
+24/01/2020,Wales,21.5432348,All deaths - 2020
+31/01/2020,Wales,21.67096638,All deaths - 2020
+07/02/2020,Wales,20.66413343,All deaths - 2020
+14/02/2020,Wales,21.69902372,All deaths - 2020
+21/02/2020,Wales,20.29037942,All deaths - 2020
+28/02/2020,Wales,19.55548879,All deaths - 2020
+06/03/2020,Wales,19.41981852,All deaths - 2020
+13/03/2020,Wales,20.0628211,All deaths - 2020
+20/03/2020,Wales,21.32875179,All deaths - 2020
+27/03/2020,Wales,21.36513738,All deaths - 2020
+03/04/2020,Wales,27.15268046,All deaths - 2020
+10/04/2020,Wales,26.98675904,All deaths - 2020
+17/04/2020,Wales,34.32674439,All deaths - 2020
+24/04/2020,Wales,32.79043445,All deaths - 2020
+01/05/2020,Wales,27.27483601,All deaths - 2020

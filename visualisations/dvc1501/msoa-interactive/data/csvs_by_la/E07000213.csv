@@ -1,0 +1,40 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02006403,Spelthorne 001,Stanwell North & Stanwell Moor,0,4,0,0,1,0,0,0,2,0,2,2,0,0,covid
+E02006404,Spelthorne 002,Stanwell South,0,8,1,0,0,0,0,0,1,1,6,3,0,0,covid
+E02006405,Spelthorne 003,Ashford West,0,5,2,0,0,0,0,0,1,1,3,3,0,0,covid
+E02006406,Spelthorne 004,Staines Town,0,2,0,1,0,0,1,0,0,1,3,3,0,0,covid
+E02006407,Spelthorne 005,Ashford East,0,6,3,0,0,0,0,0,1,0,3,5,0,0,covid
+E02006408,Spelthorne 006,Ashford Common,0,5,1,0,1,0,0,0,0,0,2,0,0,0,covid
+E02006409,Spelthorne 007,Staines South West,0,2,3,1,0,0,0,0,0,2,1,2,0,1,covid
+E02006410,Spelthorne 008,Sunbury Common,0,5,3,0,0,0,0,1,0,1,4,4,0,0,covid
+E02006411,Spelthorne 009,Staines South East,1,2,0,1,3,0,0,0,0,1,12,4,0,0,covid
+E02006412,Spelthorne 010,Sunbury East,0,3,0,0,0,0,0,0,0,2,9,1,0,0,covid
+E02006413,Spelthorne 011,Halliford & Sunbury West,0,9,4,0,0,0,0,0,1,0,3,4,0,1,covid
+E02006414,Spelthorne 012,Littleton & Shepperton Green,0,3,3,1,0,0,0,0,2,1,2,1,2,0,covid
+E02006415,Spelthorne 013,Shepperton Town,0,1,0,0,1,0,0,0,0,1,6,3,2,0,covid
+E02006403,Spelthorne 001,Stanwell North & Stanwell Moor,4,11,3,7,5,2,6,8,6,3,3,4,4,3,noncovid
+E02006404,Spelthorne 002,Stanwell South,9,12,3,6,2,4,4,9,5,3,7,1,10,4,noncovid
+E02006405,Spelthorne 003,Ashford West,9,15,4,6,2,2,5,6,5,5,2,6,6,6,noncovid
+E02006406,Spelthorne 004,Staines Town,7,4,11,4,4,0,2,2,3,2,1,2,9,1,noncovid
+E02006407,Spelthorne 005,Ashford East,9,7,4,5,9,9,5,2,8,10,9,7,12,14,noncovid
+E02006408,Spelthorne 006,Ashford Common,2,3,5,9,2,4,4,5,2,8,5,6,6,3,noncovid
+E02006409,Spelthorne 007,Staines South West,4,8,5,3,6,4,9,4,4,5,2,3,3,3,noncovid
+E02006410,Spelthorne 008,Sunbury Common,6,4,7,1,4,3,11,7,1,4,6,7,6,5,noncovid
+E02006411,Spelthorne 009,Staines South East,7,9,5,4,5,5,5,2,6,8,13,4,1,7,noncovid
+E02006412,Spelthorne 010,Sunbury East,7,4,5,4,5,4,4,3,2,4,5,7,6,4,noncovid
+E02006413,Spelthorne 011,Halliford & Sunbury West,7,9,11,5,4,9,2,3,10,4,6,6,5,3,noncovid
+E02006414,Spelthorne 012,Littleton & Shepperton Green,7,13,6,2,2,5,9,1,5,9,4,4,9,5,noncovid
+E02006415,Spelthorne 013,Shepperton Town,5,7,6,2,5,3,7,4,6,11,8,4,9,8,noncovid
+E02006403,Spelthorne 001,Stanwell North & Stanwell Moor,7,6,5,4,5,5,6,5,4,4,7,8,7,6,average
+E02006404,Spelthorne 002,Stanwell South,5,5,5,7,5,5,3,4,5,5,8,6,5,5,average
+E02006405,Spelthorne 003,Ashford West,8,5,7,5,6,6,8,7,6,8,8,6,8,5,average
+E02006406,Spelthorne 004,Staines Town,5,4,4,3,4,4,4,3,4,4,5,5,5,4,average
+E02006407,Spelthorne 005,Ashford East,9,6,5,7,5,5,5,5,7,6,9,6,9,6,average
+E02006408,Spelthorne 006,Ashford Common,6,7,4,5,5,4,4,4,5,5,7,4,6,7,average
+E02006409,Spelthorne 007,Staines South West,4,5,3,4,4,4,5,3,6,5,6,4,4,5,average
+E02006410,Spelthorne 008,Sunbury Common,8,7,9,5,5,7,8,9,8,7,7,7,8,7,average
+E02006411,Spelthorne 009,Staines South East,5,6,6,4,5,5,6,8,5,6,10,6,5,6,average
+E02006412,Spelthorne 010,Sunbury East,5,4,7,4,4,6,4,5,5,4,7,5,5,4,average
+E02006413,Spelthorne 011,Halliford & Sunbury West,7,7,7,8,4,5,5,6,8,5,7,8,7,7,average
+E02006414,Spelthorne 012,Littleton & Shepperton Green,7,6,4,4,7,5,5,6,6,7,10,7,7,6,average
+E02006415,Spelthorne 013,Shepperton Town,8,8,6,5,5,5,5,7,7,7,8,4,8,8,average

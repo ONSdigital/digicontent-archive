@@ -1,7 +1,0 @@
-{"config":{
-"questions":[
-["For every 100 girls aged under 16 in 2014, how many became pregnant?","pernonuk",0,100,"person","This is all conceptions for girls under 16, per 100 girls aged 13 to 15.",""],
-["For every 100 girls aged under 18 in 2014, how many became pregnant?","nonuk",0,100,"person","This is all conceptions for girls under 18, per 100 girls aged 15 to 17.",""]
-            ]
-    }
-}

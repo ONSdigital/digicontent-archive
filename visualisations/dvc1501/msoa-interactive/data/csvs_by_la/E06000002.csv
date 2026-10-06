@@ -1,0 +1,58 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02002496,Middlesbrough 001,Middlesbrough Central,1,11,3,0,1,0,0,0,0,0,3,0,5,0,covid
+E02002497,Middlesbrough 002,North Ormesby & Brambles,0,6,1,0,0,1,0,0,2,0,1,2,1,1,covid
+E02002498,Middlesbrough 003,Ayresome,0,4,4,2,0,0,0,1,0,0,1,0,0,1,covid
+E02002499,Middlesbrough 004,Berwick Hills,0,20,1,1,0,0,0,0,1,3,10,3,3,0,covid
+E02002500,Middlesbrough 005,Linthorpe East & Albert Park,0,4,1,0,0,0,0,5,1,0,1,2,1,0,covid
+E02002501,Middlesbrough 006,Park Vale,0,11,2,0,0,0,0,0,3,0,6,1,1,0,covid
+E02002502,Middlesbrough 007,Thorntree,0,4,2,0,0,0,0,1,0,0,9,4,1,0,covid
+E02002503,Middlesbrough 008,Newport & Maze Park,0,5,1,0,0,0,0,0,1,0,2,0,0,0,covid
+E02002504,Middlesbrough 009,Linthorpe West,0,4,4,0,0,0,0,0,1,0,1,4,1,0,covid
+E02002505,Middlesbrough 010,Park End,0,2,5,1,0,0,0,0,1,0,0,0,0,0,covid
+E02002506,Middlesbrough 011,Beechwood & James Cook,0,6,10,0,0,0,0,0,0,1,3,5,1,0,covid
+E02002507,Middlesbrough 012,Acklam,0,2,3,1,0,0,0,1,1,1,3,0,0,0,covid
+E02002508,Middlesbrough 013,Kader,0,1,1,0,0,0,1,0,3,0,4,3,1,1,covid
+E02002509,Middlesbrough 014,Easterside,0,2,0,0,0,0,0,1,1,1,1,10,1,0,covid
+E02002510,Middlesbrough 015,Trimdon,0,1,0,1,0,0,0,1,0,2,3,0,1,0,covid
+E02002512,Middlesbrough 017,Marton West,0,4,0,1,0,0,0,0,1,0,2,1,1,0,covid
+E02002513,Middlesbrough 018,Stainton & Hemlington,0,15,6,2,0,0,0,0,1,1,1,3,0,0,covid
+E02002514,Middlesbrough 019,Coulby Newham,0,19,5,1,0,0,0,2,3,0,4,3,0,0,covid
+E02006811,Middlesbrough 020,Nunthorpe & Marton East,1,9,1,2,0,0,0,0,1,2,2,3,2,0,covid
+E02002496,Middlesbrough 001,Middlesbrough Central,7,11,15,7,7,5,9,3,13,7,7,7,5,10,noncovid
+E02002497,Middlesbrough 002,North Ormesby & Brambles,9,6,3,3,3,4,3,5,5,2,8,1,3,3,noncovid
+E02002498,Middlesbrough 003,Ayresome,7,6,9,5,7,3,7,4,3,6,3,12,5,11,noncovid
+E02002499,Middlesbrough 004,Berwick Hills,7,18,6,5,8,8,8,7,6,6,9,8,7,7,noncovid
+E02002500,Middlesbrough 005,Linthorpe East & Albert Park,9,15,3,5,5,5,5,2,3,6,10,4,7,10,noncovid
+E02002501,Middlesbrough 006,Park Vale,5,9,6,4,6,7,5,3,7,5,5,1,12,8,noncovid
+E02002502,Middlesbrough 007,Thorntree,11,12,9,6,10,6,8,9,9,6,6,14,13,12,noncovid
+E02002503,Middlesbrough 008,Newport & Maze Park,7,3,5,2,4,4,4,5,2,4,6,1,7,7,noncovid
+E02002504,Middlesbrough 009,Linthorpe West,3,13,6,10,5,4,4,9,8,7,6,11,12,7,noncovid
+E02002505,Middlesbrough 010,Park End,8,5,8,2,5,3,3,3,3,9,4,2,6,6,noncovid
+E02002506,Middlesbrough 011,Beechwood & James Cook,7,13,4,12,4,7,4,4,2,5,2,10,6,9,noncovid
+E02002507,Middlesbrough 012,Acklam,1,8,5,2,6,4,4,3,4,4,5,5,1,4,noncovid
+E02002508,Middlesbrough 013,Kader,7,4,2,5,5,5,4,6,2,4,5,4,5,6,noncovid
+E02002509,Middlesbrough 014,Easterside,5,5,5,6,3,4,4,5,1,5,8,5,8,4,noncovid
+E02002510,Middlesbrough 015,Trimdon,5,4,4,4,9,4,0,5,3,11,4,4,1,5,noncovid
+E02002512,Middlesbrough 017,Marton West,5,2,3,3,5,4,1,3,3,9,4,3,9,6,noncovid
+E02002513,Middlesbrough 018,Stainton & Hemlington,11,12,11,9,8,9,4,4,6,14,7,9,5,8,noncovid
+E02002514,Middlesbrough 019,Coulby Newham,6,16,8,7,5,5,7,9,8,15,5,8,6,7,noncovid
+E02006811,Middlesbrough 020,Nunthorpe & Marton East,13,12,8,9,7,8,12,6,12,9,12,7,5,11,noncovid
+E02002496,Middlesbrough 001,Middlesbrough Central,7,5,9,6,7,6,6,6,8,7,10,6,7,5,average
+E02002497,Middlesbrough 002,North Ormesby & Brambles,8,6,6,4,7,7,5,4,4,5,6,6,8,6,average
+E02002498,Middlesbrough 003,Ayresome,4,6,7,4,6,6,6,6,5,7,7,8,4,6,average
+E02002499,Middlesbrough 004,Berwick Hills,8,8,7,9,9,8,10,8,9,9,10,13,8,8,average
+E02002500,Middlesbrough 005,Linthorpe East & Albert Park,8,5,7,7,5,6,6,5,8,6,8,6,8,5,average
+E02002501,Middlesbrough 006,Park Vale,7,6,5,7,4,5,4,7,5,5,8,8,7,6,average
+E02002502,Middlesbrough 007,Thorntree,10,7,10,8,9,10,8,8,9,9,16,9,10,7,average
+E02002503,Middlesbrough 008,Newport & Maze Park,5,5,3,5,2,3,2,4,5,3,5,4,5,5,average
+E02002504,Middlesbrough 009,Linthorpe West,7,8,8,8,6,8,5,7,10,9,8,8,7,8,average
+E02002505,Middlesbrough 010,Park End,5,6,4,3,5,3,5,5,4,6,8,5,5,6,average
+E02002506,Middlesbrough 011,Beechwood & James Cook,8,8,9,6,8,8,7,6,8,6,10,9,8,8,average
+E02002507,Middlesbrough 012,Acklam,2,5,5,2,3,4,4,6,3,5,6,4,2,5,average
+E02002508,Middlesbrough 013,Kader,5,5,5,3,4,3,2,3,4,5,5,5,5,5,average
+E02002509,Middlesbrough 014,Easterside,5,7,7,5,4,5,5,5,6,5,5,5,5,7,average
+E02002510,Middlesbrough 015,Trimdon,7,6,4,4,4,4,4,4,4,5,4,5,7,6,average
+E02002512,Middlesbrough 017,Marton West,4,6,4,3,5,5,4,3,6,5,6,5,4,6,average
+E02002513,Middlesbrough 018,Stainton & Hemlington,9,8,9,7,7,9,8,9,9,11,12,8,9,8,average
+E02002514,Middlesbrough 019,Coulby Newham,10,7,8,6,9,6,8,7,5,9,11,9,10,7,average
+E02006811,Middlesbrough 020,Nunthorpe & Marton East,9,6,9,10,8,5,10,10,8,7,11,9,9,6,average

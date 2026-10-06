@@ -1,0 +1,9 @@
+﻿Gender,Commuting time,Risk ratio based on 10 minute commute time,95% confidence interval lower bound,95% confidence interval upper bound
+Female,20,1.06,1.05,1.06
+Female,30,1.12,1.11,1.12
+Female,40,1.18,1.17,1.19
+Female,60,1.29,1.28,1.30
+Male,20,1.04,1.04,1.05
+Male,30,1.09,1.09,1.10
+Male,40,1.14,1.14,1.15
+Male,60,1.24,1.23,1.25

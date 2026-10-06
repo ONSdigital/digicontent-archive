@@ -1,0 +1,13 @@
+{"ons":{
+"maptitle": "Green space",
+"varcolour": ["#d7191c","#fdae61","#ffffbf","#abd9e9","#2c7bb6"],
+"varunit": "% population change 1911 to 1921",
+"displayFormat": ".2%",
+"legendFormat": ".0%",
+"legenddecimals": 2,
+"breaks": [-0.12,-0.05,-0.01,0.01,0.05,0.12],
+"dropticks": false,
+"numberBreaks": 5,
+"nullColour": "#666",
+"source":"Office for National Statistics"
+}}

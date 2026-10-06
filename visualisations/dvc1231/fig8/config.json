@@ -1,0 +1,85 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+
+            "dateFormat":"%d/%m/%Y",
+
+            "legendLabels" : ["Men","Women"],
+            "legendStyle": "line",
+            "directLabeling" : true,
+            "directLabelingAdjust" : {
+              "Men": {"x": 0, "y": 0},
+              "Women": {"x": 0, "y": 0}
+            },
+            "colour_palette": {
+              "Men": "#003C57",
+              "Women": "#1AA590"
+            },
+
+            "sourceText":["Statistics"],
+            "sourceURL":["http://www.ons.gov.uk"],
+            "draggable": false,
+           "annotationsChart" : [
+              {
+                "xVal": "2020-07-01T00:00:00.000Z",
+                "yVal": 18,
+                "path": "",
+                "text": "As lockdown restrictions were eased in May and June, more men were not at all worried about the effect of coronavirus than women",
+                "textOffset": [0,0]
+              },{
+                "xVal": "2020-07-06T00:00:00.000Z",
+                "yVal": 15.6,
+                "path": "",
+                "text": "",
+                "textOffset": [0,0]
+              }
+            ],
+
+            "wordwrap":[40,20,30],
+            "annoAlign": ["start","start","start"],
+            "annotationBullet" : [],
+
+            "circles" : false,
+            "annotationCXCY":[
+                ["Jan-93","68.4"],
+                ["Jan-08","73"]
+            ],
+            "annotationColour": ["green"],
+
+            "yAxisLabel":"% of respondents",
+            "yAxisScale":[0,20],
+            "yAxisBreak": false,
+            "yAxisBreak_sm_md_lg": [65,65,65]
+    },
+
+    "optional" : {
+      "margin_sm": [25, 65, 45, 35],
+      "margin_md": [25, 65, 45, 35],
+      "margin_lg": [25, 65, 45, 35],
+
+
+            "aspectRatio_sm" : [30,30],
+            "aspectRatio_md" : [30,30],
+            "aspectRatio_lg" : [30,30],
+
+            "mobileBreakpoint" : 690,
+
+            "xAxisTextFormat_sm_md_lg" : ["%b %y","%b %y","%b %y"],
+
+            "x_num_ticks_sm_md_lg" : [4,5,6],
+            "x_ticks_note_from_sam" : "on 4/3/21 I hard coded in a tick for 17th of January as they wanted an additional tick there, if you are copying this you probably want to remove it on line 184 of the index.html and delete this note ;)",
+            "y_num_ticks_sm_md_lg" : [3,3,4],
+
+            "lineMarkers" : false,
+
+            "vertical_line" : false,
+            "annotateLineX1_Y1_X2_Y2" : [ [["Apr-00", "1600"],["Apr-00", "0"]], [["Jul-08", "100"],["Jul-08", "200"]] ],
+
+            "annotateRect" : false,
+            "annotateRectX_Y" : [ [["Jan-94", 200],["Jan-96", 0]], [["Jul-04", 180],["Jul-06", 40]] ],
+            "lineColor_opcty" : [["#ABCDEF", 0.2], ["#888", 0.4]],
+
+            "centre_line" : false,
+            "centre_line_value" : 25
+    }
+}

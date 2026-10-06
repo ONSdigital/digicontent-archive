@@ -1,0 +1,322 @@
+{
+    "CODE": "E07000220",
+    "NAME": "Rugby",
+    "REGION_CODE": "E12000005",
+    "REGION_NAME": "West Midlands",
+    "COUNTRY_CODE": "E92000001",
+    "COUNTRY_NAME": "England",
+    "WALES": 0,
+    "NEIGHBOURS": {
+        "CODES": [
+            "E06000062",
+            "E07000221",
+            "E07000219",
+            "E07000222",
+            "E08000026",
+            "E07000131",
+            "E07000132"
+        ],
+        "PC_CHANGE": {
+            "last": {
+                "CODE": "E07000132",
+                "NAME": "Hinckley and Bosworth",
+                "val": 8.1
+            },
+            "penultimate": {
+                "CODE": "E07000131",
+                "NAME": "Harborough",
+                "val": 14.3
+            },
+            "second": {
+                "CODE": "E07000221",
+                "NAME": "Stratford-on-Avon",
+                "val": 11.8
+            },
+            "top": {
+                "CODE": "E06000062",
+                "NAME": "West Northamptonshire",
+                "val": 13.5
+            }
+        }
+    },
+    "LA": {
+        "ABS": {
+            "Y11": 100075,
+            "Y21": 114400
+        },
+        "ABS_CHANGE": {
+            "FROM11TO21": 14325
+        },
+        "PC_CHANGE": {
+            "FROM11TO21": 14.3
+        },
+        "COUNTRY_RANK": {
+            "Y11": {
+                "here": 227,
+                "all": 309
+            },
+            "Y21": {
+                "here": 210,
+                "all": 309
+            }
+        },
+        "DENSITY": {
+            "DENSITY11": 285,
+            "DENSITY21": 326
+        },
+        "REGION_RANK": {
+            "DENSITY": {
+                "Y11": {
+                    "here": 21,
+                    "all": 30
+                },
+                "Y21": {
+                    "here": 19,
+                    "all": 30
+                }
+            }
+        },
+        "UNDER20": {
+            "ABS": {
+                "Y11": 18066,
+                "Y21": 20700
+            },
+            "PC": {
+                "Y11": 18.05,
+                "Y21": 18.09
+            }
+        },
+        "OVER65": {
+            "ABS": {
+                "Y11": 17334,
+                "Y21": 20700
+            },
+            "PC": {
+                "Y11": 17.32,
+                "Y21": 18.09
+            }
+        },
+        "WORKING": {
+            "ABS": {
+                "Y11": 64675,
+                "Y21": 73000
+            },
+            "PC": {
+                "Y11": 64.63,
+                "Y21": 63.81
+            }
+        },
+        "PYRAMID11": [
+            [
+                3.098,
+                2.598,
+                2.998,
+                2.898,
+                2.598,
+                3.198,
+                3.198,
+                3.497,
+                3.797,
+                3.897,
+                3.198,
+                2.798,
+                3.098,
+                2.698,
+                1.999,
+                1.599,
+                1.399,
+                0.999,
+                0.6
+            ],
+            [
+                2.797,
+                2.622,
+                2.797,
+                2.797,
+                2.273,
+                2.71,
+                2.71,
+                3.059,
+                3.409,
+                3.409,
+                2.972,
+                2.448,
+                2.622,
+                2.36,
+                1.748,
+                1.224,
+                0.962,
+                0.524,
+                0.175
+            ]
+        ],
+        "PYRAMID21": [
+            [
+                3.098,
+                3.497,
+                3.497,
+                2.898,
+                2.698,
+                3.597,
+                4.197,
+                4.197,
+                3.897,
+                3.797,
+                3.997,
+                3.797,
+                3.098,
+                2.598,
+                2.798,
+                2.398,
+                1.599,
+                0.999,
+                0.699
+            ],
+            [
+                2.885,
+                3.147,
+                3.234,
+                2.885,
+                2.535,
+                3.234,
+                3.671,
+                3.497,
+                3.322,
+                3.409,
+                3.584,
+                3.409,
+                2.71,
+                2.185,
+                2.273,
+                1.836,
+                1.224,
+                0.612,
+                0.35
+            ]
+        ],
+        "LARGEST_AGEGROUP11": {
+            "AGEBAND": 5
+        },
+        "LARGEST_AGEGROUP21": {
+            "AGEBAND": 4
+        }
+    },
+    "REGION": {
+        "ABS": {
+            "Y11": 5601847,
+            "Y21": 5950800
+        },
+        "ABS_CHANGE": {
+            "FROM11TO21": 348953
+        },
+        "PC_CHANGE": {
+            "FROM11TO21": 6.2
+        },
+        "HEADLINES": {
+            "BIGGEST_POP_CHANGE_UP": {
+                "top": {
+                    "LAD": "E07000220",
+                    "NAME": "Rugby",
+                    "POP11": 100075,
+                    "POP21": 114400,
+                    "CHANGE": 14.3
+                },
+                "second": {
+                    "LAD": "E07000238",
+                    "NAME": "Wychavon",
+                    "POP11": 116944,
+                    "POP21": 132500,
+                    "CHANGE": 13.3
+                }
+            },
+            "BIGGEST_POP_CHANGE_DOWN": {
+                "lowest": {
+                    "LAD": "E07000198",
+                    "NAME": "Staffordshire Moorlands",
+                    "POP11": 97106,
+                    "POP21": 95800,
+                    "CHANGE": -1.3
+                },
+                "second_lowest": {
+                    "LAD": "E07000195",
+                    "NAME": "Newcastle-under-Lyme",
+                    "POP11": 123871,
+                    "POP21": 123300,
+                    "CHANGE": -0.5
+                }
+            }
+        },
+        "REGION_CHANGE": [
+            {
+                "LAD": "E12000001",
+                "NAME": "North East",
+                "POP11": 2596886,
+                "POP21": 2647100,
+                "CHANGE": 1.9
+            },
+            {
+                "LAD": "E12000002",
+                "NAME": "North West",
+                "POP11": 7052177,
+                "POP21": 7417300,
+                "CHANGE": 5.2
+            },
+            {
+                "LAD": "E12000003",
+                "NAME": "Yorkshire and The Humber",
+                "POP11": 5283733,
+                "POP21": 5480800,
+                "CHANGE": 3.7
+            },
+            {
+                "LAD": "E12000004",
+                "NAME": "East Midlands",
+                "POP11": 4533222,
+                "POP21": 4880200,
+                "CHANGE": 7.7
+            },
+            {
+                "LAD": "E12000005",
+                "NAME": "West Midlands",
+                "POP11": 5601847,
+                "POP21": 5950800,
+                "CHANGE": 6.2
+            },
+            {
+                "LAD": "E12000009",
+                "NAME": "South West",
+                "POP11": 5288935,
+                "POP21": 5701200,
+                "CHANGE": 7.8
+            },
+            {
+                "LAD": "E12000006",
+                "NAME": "East of England",
+                "POP11": 5846965,
+                "POP21": 6334500,
+                "CHANGE": 8.3
+            },
+            {
+                "LAD": "E12000008",
+                "NAME": "South East",
+                "POP11": 8634750,
+                "POP21": 9278100,
+                "CHANGE": 7.5
+            },
+            {
+                "LAD": "E12000007",
+                "NAME": "London",
+                "POP11": 8173941,
+                "POP21": 8799800,
+                "CHANGE": 7.7
+            },
+            {
+                "LAD": "W92000004",
+                "NAME": "WALES",
+                "POP11": 3063456,
+                "POP21": 3107500,
+                "CHANGE": 1.4
+            }
+        ]
+    }
+}

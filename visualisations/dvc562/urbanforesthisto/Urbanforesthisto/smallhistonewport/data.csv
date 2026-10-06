@@ -1,0 +1,297 @@
+id,road,region,value
+309,Catsash Road,Caerleon,0.690169063
+1311,Ringland Way,Llanwern,0.317917639
+1005,Malpas Road,Llantarnam,0.35546725
+60,Annesley Road,St. Julians,0.02759334
+94,Bailey Street,Stow Hill,0.030041806
+25,Albert Avenue,Victoria,0.015976826
+27,Albert Terrace,Stow Hill,0.337997325
+35,Alfred Street,St. Julians,0.002007643
+36,Alfred Street,Victoria,0.0007385
+52,Amber Close,Victoria,0.0067911
+66,Argosy Way,Victoria,0.080536622
+82,Aubrey Hames Close,Stow Hill,0.099867447
+92,Badminton Road,St. Julians,0.538391
+104,Baneswell Courtyard,Stow Hill,0.140487286
+105,Baneswell Road,Stow Hill,0.000832933
+106,Bank Street,St. Julians,0.121699609
+109,Barnard Street,Victoria,0.0214465
+117,Bath Street,St. Julians,0.010583765
+122,Beaufort Terrace,Stow Hill,0.133047714
+124,Bedford Road,Victoria,0.020234621
+135,Belle Vue Lane,Stow Hill,0.2587539
+141,Beresford Road,Victoria,0.0148627
+160,Bishop Street,St. Julians,0.035628289
+171,Bishton Street,Victoria,0.005721867
+182,Blewitt Street,Stow Hill,0.072867407
+189,Bond Street,St. Julians,0.013363941
+196,Brecon Road,St. Julians,0.081733889
+197,Bridge Street,Stow Hill,0.101799181
+202,Bristol Street,Victoria,0.006726646
+223,Brynderwen Grove,St. Julians,0.1098095
+224,Brynderwen Grove,Victoria,0.106903625
+225,Brynderwen Road,St. Julians,0.1268115
+226,Brynderwen Road,Victoria,0.118111647
+234,Brynhyfryd Avenue,Stow Hill,0.054557875
+235,Brynhyfryd Road,Stow Hill,0.099520542
+251,Buttermere Way,St. Julians,0.175180625
+261,Caerau Road,Stow Hill,0.344203464
+263,Caerleon Road,St. Julians,0.092443012
+264,Caerleon Road,Victoria,0.13837342
+271,Cambridge Road,Victoria,0.25914675
+273,Camelot Place,Victoria,0.047268
+277,Canal Parade,Stow Hill,0.262669136
+281,Canon Street,St. Julians,0.0498325
+290,Cardiff Road,Stow Hill,0.126429564
+295,Carlton Road,St. Julians,0.105705905
+296,Caroline Street,Stow Hill,0.043701132
+310,Caxton Place,Stow Hill,0.0043993
+313,Cedar Road,Victoria,0.03057985
+323,Cenfedd Street,St. Julians,0.0132968
+330,Charles Street,Stow Hill,0.045446188
+333,Charnwood Road,St. Julians,0.029261833
+342,Chepstow Road,Victoria,0.059389466
+345,Chichester Close,St. Julians,0.140560571
+348,Christchurch Hill,Caerleon,0.542335354
+351,Christchurch Road,Caerleon,0.449988427
+352,Christchurch Road,St. Julians,0.099287149
+353,Christchurch Road,Victoria,0.022065071
+359,Church Road,Victoria,0.031871055
+366,Clarence Place,Victoria,0.023583756
+368,Clayton Street,St. Julians,0.054533417
+375,Clifton Place,Stow Hill,0.294419143
+376,Clifton Road,Stow Hill,0.251887727
+377,Clipper Close,St. Julians,0.140132105
+383,Clyffard Crescent,Stow Hill,0.123998846
+386,Clytha Park Road,Stow Hill,0.021643
+387,Clytha Square,Stow Hill,0.115695477
+388,Coldra Road,Stow Hill,0.027565659
+391,Collier Street,St. Julians,0.069941143
+397,Colne Street,Victoria,0.028791786
+404,Commercial Road,Stow Hill,0.032071036
+405,Commercial Street,Stow Hill,0.010663044
+407,Coniston Close,St. Julians,0.077875556
+410,Constance Street,St. Julians,0.010310016
+421,Corelli Street,St. Julians,0.015174833
+424,Corn Street,Stow Hill,0.016609225
+427,Cornwall Road,St. Julians,0.161813926
+431,Corporation Road,Victoria,0.08612135
+443,Courtney Street,St. Julians,0.199747179
+445,Coverack Road,Victoria,0.186067061
+448,Crawford Street,St. Julians,0.075936885
+455,Cross Lane,Stow Hill,0.012337306
+457,Crown Street,Victoria,0.020735316
+458,Croydon Close,St. Julians,0.53299395
+459,Croydon Court,St. Julians,0.126847571
+460,Cumberland Road,St. Julians,0.03308845
+463,Cutter Close,St. Julians,0.145482444
+468,Cyril Street,Victoria,0.012834318
+474,Darlington Court,St. Julians,0.0847676
+481,Dean Street,St. Julians,0.003225391
+482,Dean Street,Victoria,0.0013685
+486,Denbigh Road,St. Julians,0.07316775
+493,Devon Place,Stow Hill,0.051141077
+495,Dewsland Park Road,Stow Hill,0.103683645
+517,Duckpool Road,St. Julians,0.019435696
+518,Duckpool Road,Victoria,0.015709702
+526,Dumfries Place,Stow Hill,0.00330645
+529,Durham Lane,St. Julians,0.037275133
+530,Durham Road,St. Julians,0.01621985
+535,East Street,Stow Hill,0.104936725
+536,East Usk Road,St. Julians,0.090519288
+540,Ebenezer Terrace,Stow Hill,0.155273816
+548,Elaine Crescent,St. Julians,0.117189258
+554,Elysia Street,St. Julians,0.002574455
+555,Emlyn Street,Stow Hill,0.044690729
+556,Ennerdale Court,St. Julians,0.061030978
+563,Essex Street,Victoria,0.054469079
+565,Eton Road,Victoria,0.020146571
+571,Excelsior Close,Victoria,0.039930125
+573,Exeter Road,Victoria,0.105400833
+574,Exeter Street,Victoria,0.060993406
+578,Fairoak Avenue,Victoria,0.051496787
+580,Fairoak Terrace,Victoria,0.015574185
+588,Feering Street,Victoria,0.028040823
+602,Filey Road,St. Julians,0.0699014
+610,Ford Street,Stow Hill,0.059666611
+621,Frank Street,St. Julians,0.0023186
+626,Friars Road,Stow Hill,0.378582423
+638,Gaer Street,Stow Hill,0.039890545
+646,George Street,Stow Hill,0.037952254
+648,George Street Bridge,Stow Hill,0.142907765
+649,George Street Bridge,Victoria,0.081968957
+670,Glebe Street,Victoria,0.0040168
+672,Gloster Place,St. Julians,0.0126905
+673,Gloster Place,Victoria,0.0021475
+674,Gloster Street,St. Julians,0.0229135
+682,Gordon Street,Victoria,0.03169512
+683,Gore Street,St. Julians,0.06142625
+685,Grafton Road,Victoria,0.019292948
+687,Graham Street,Stow Hill,0.051718325
+699,Granville Lane,Stow Hill,0.064447125
+700,Granville Street,Stow Hill,0.110360364
+716,Haisbro' Avenue,St. Julians,0.090790182
+719,Halstead Street,Victoria,0.009693625
+737,Harrogate Road,St. Julians,0.069308875
+738,Harrow Road,Victoria,0.024283
+739,Hartridge Farm Road,Llanwern,0.660622875
+744,Havelock Street,Stow Hill,0.0455212
+759,Heather Road,St. Julians,0.114147337
+763,Heidenheim Drive,Stow Hill,0.2183525
+774,Herbert Road,St. Julians,0.416581958
+777,Hereford Street,Victoria,0.018142155
+780,High Banks,St. Julians,0.110345293
+790,Hill Street,Stow Hill,0.0433057
+811,Hubert Road,St. Julians,0.030389725
+827,Ivor Street,Stow Hill,0.079780656
+829,Jackson Court,Victoria,0.225869
+830,Jackson Place,Victoria,0.014189111
+845,Jeffrey Street,Victoria,0.019336526
+854,Jones Street,Stow Hill,0.009174121
+857,Junction Road,St. Julians,0.070235564
+862,Kelvedon Street,Victoria,0.0475675
+870,Keynsham Avenue,Stow Hill,0.084381224
+876,King Lane,Stow Hill,0.0329885
+877,King Street,Stow Hill,0.048412867
+878,Kingshill Court,Stow Hill,0.033823167
+879,Kingsmill Terrace,Stow Hill,0.097229889
+880,Kingston Road,Victoria,0.281535833
+881,Kingsway,Stow Hill,0.060750714
+922,Leicester Road,St. Julians,0.04910019
+923,Lennard Street,Victoria,0.009848286
+948,Liverpool Street,Victoria,0.003002531
+949,Livingstone Place,Victoria,0.077538
+951,Llandaff Street,Stow Hill,0.161864538
+958,Llanvair Road,St. Julians,0.0592192
+960,Llanwern Street,Victoria,0.020340333
+972,London Street,Victoria,0.010259964
+975,Lord Street,St. Julians,0.075991667
+977,Lower Dock Street,Stow Hill,0.014424403
+979,Lower George Street,Stow Hill,0.092764368
+1000,Maindee Parade,Victoria,0.038372074
+1009,Malvern Road,Victoria,0.065756111
+1010,Manchester Street,Victoria,0.010118013
+1017,Margaret Avenue,St. Julians,0.026964167
+1022,Marlborough Road,Victoria,0.035076478
+1029,May Street,Victoria,0.054609375
+1041,Mellon Street,Stow Hill,0.003901469
+1047,Merlin Crescent,St. Julians,0.110498989
+1048,Merriott Place,Victoria,0.098040333
+1049,Methuen Road,Victoria,0.105450391
+1054,Mill Street,Stow Hill,0.06936
+1064,Monmouth Castle Drive,Stow Hill,0.0495985
+1075,Morden Road,St. Julians,0.039723732
+1076,Morgan Street,St. Julians,0.107274708
+1081,Morris Street,Victoria,0.146109241
+1116,Newport Bridge,Stow Hill,0.12028025
+1117,Newport Bridge,Victoria,0.0055605
+1122,Norfolk Road,St. Julians,0.024648833
+1124,North Street,Stow Hill,0.051708579
+1127,Oak Street,St. Julians,0.02906287
+1139,Old Barn,St. Julians,0.044619333
+1144,Old Hill,Caerleon,0.616498893
+1145,Old Hill Crescent,Caerleon,0.183604491
+1152,Orchard Court,St. Julians,0.018028
+1153,Orchard Gardens,St. Julians,0.083618333
+1154,Orchard Mews,St. Julians,0.0213833
+1155,Orchard Street,St. Julians,0.013187323
+1156,Oriel Road,Victoria,0.064844286
+1164,Palmyra Place,Stow Hill,0.189739471
+1175,Park Square,Stow Hill,0.2997921
+1188,Paul's End Court,Stow Hill,0.218803583
+1214,Phillip Street,Victoria,0.06723175
+1222,Piper Close,Caerleon,0.229778
+1238,Powell's Place,Stow Hill,0.003522
+1245,Prince Street,Victoria,0.003252034
+1252,Probert Place,Victoria,0.042538188
+1255,Pump Street,Stow Hill,0.08941815
+1265,Queen Street,Stow Hill,0.08003
+1266,Queensway,Stow Hill,0.066807193
+1270,Radnor Road,St. Julians,0.138776929
+1272,Railway Street,Stow Hill,0.02804
+1276,Redbrick Gardens,St. Julians,0.03039705
+1283,Rembrandt Way,St. Julians,0.320238417
+1285,Renoir Road,Caerleon,0.521301667
+1288,Reynolds Close,St. Julians,0.481235273
+1292,Richmond Road,St. Julians,0.091496415
+1321,Riverside,St. Julians,0.090446344
+1323,Robbin's Lane,Stow Hill,0.005552393
+1329,Rockfield Street,St. Julians,0.015047196
+1331,Rodney Road,Victoria,0.097774738
+1333,Ronald Road,St. Julians,0.103629415
+1345,Royal Oak Hill,Caerleon,0.443231
+1349,Rubens Close,St. Julians,0.365712
+1350,Rudry Street,St. Julians,0.0770179
+1351,Rugby Road,Victoria,0.057441531
+1364,Sandalwood Court,Victoria,0.053850357
+1367,Scarborough Road,St. Julians,0.0947809
+1368,Scard Street,Stow Hill,0.0791434
+1370,School Lane,Stow Hill,0.052679075
+1377,Seabreeze Avenue,Victoria,0.142068143
+1383,Severn Terrace,Stow Hill,0.1258215
+1385,Shaftesbury Street,Stow Hill,0.189774167
+1389,Sheaf Lane,Victoria,0.155835
+1396,Sidney Street,Stow Hill,0.077413333
+1405,Skinner Street,Stow Hill,0.00372026
+1411,Soho Street,Victoria,0.166301773
+1412,Somerset Road,St. Julians,0.034410542
+1423,Speke Street,Victoria,0.031769222
+1444,St Edward Street,Stow Hill,0.027077591
+1446,St Julian Street,Stow Hill,0.023786808
+1448,St Mary's Court,Stow Hill,0.027837444
+1450,St Vincent Road,Victoria,0.015213328
+1451,St Woolos Road,Stow Hill,0.02530222
+1453,St. Anne's Crescent,St. Julians,0.260762391
+1454,St. George's Crescent,St. Julians,0.222152275
+1457,St. Julian's Avenue,St. Julians,0.072969026
+1458,St. Julian's Court,St. Julians,0.099072625
+1460,St. Julian's Road,St. Julians,0.161128151
+1462,St. Mary Street,Stow Hill,0.025492486
+1463,St. Merriots Place,Victoria,0.009486333
+1466,St. Woolos Place,Stow Hill,0.001595063
+1468,Stafford Road,St. Julians,0.009831811
+1474,Station Street,Stow Hill,0.0051296
+1489,Stockton Close,St. Julians,0.245833047
+1490,Stockton Road,St. Julians,0.047848369
+1495,Stow Hill,Stow Hill,0.089025534
+1496,Stow Park Avenue,Stow Hill,0.199669619
+1499,Stow Park Drive,Stow Hill,0.248018063
+1503,Summerhill Avenue,St. Julians,0.174541
+1504,Summerhill Avenue,Victoria,0.10435448
+1505,Sunbeam Close,Victoria,0.1035745
+1507,Surrey Place,St. Julians,0.2486422
+1510,Sutton Road,St. Julians,0.027481431
+1517,Talbot Lane,Stow Hill,0.060801464
+1528,Telford Court,Victoria,0.011999375
+1530,Telford Street,Victoria,0.006541833
+1542,The Moorings,St. Julians,0.148548811
+1551,Thirlmere Place,St. Julians,0.253058983
+1583,Tregare Street,St. Julians,0.3286275
+1593,Trostrey Street,St. Julians,0.372656
+1595,Tudor Road,St. Julians,0.091287548
+1598,Tunnel Terrace,Stow Hill,0.319096882
+1599,Turner Street,St. Julians,0.123733342
+1606,Upper Dock Street,Stow Hill,0.068058727
+1610,Usk Street,St. Julians,0.000779316
+1613,Usk Way,Stow Hill,0.197437228
+1615,Van Dyke Close,St. Julians,0.431389
+1628,Vicarage Hill,Stow Hill,0.15757885
+1630,Victoria Avenue,Victoria,0.090021
+1631,Victoria Close,Stow Hill,0.067036214
+1633,Victoria Crescent,Stow Hill,0.137819786
+1635,Victoria Place,Stow Hill,0.0588481
+1636,Victoria Road,Stow Hill,0.115811423
+1637,Vine Place,Victoria,0.0553442
+1640,Vivian Road,Victoria,0.044669852
+1652,Waterloo Road,Stow Hill,0.301654814
+1669,West Street,Stow Hill,0.001083967
+1682,Wharf Lane,Victoria,0.022391545
+1684,Wharf Road,Victoria,0.142078935
+1687,Whitby Place,Victoria,0.065135444
+1691,Willenhall Street,Victoria,0.140725511
+1692,William Lovett Gardens,Stow Hill,0.1708941
+1699,Windermere Square,St. Julians,0.0472945
+1703,Windsor Terrace,Stow Hill,0.227086577
+1706,Witham Street,Victoria,0.052531882
+1729,York Place,Stow Hill,0.092333465
+1730,York Road,St. Julians,0.019419133

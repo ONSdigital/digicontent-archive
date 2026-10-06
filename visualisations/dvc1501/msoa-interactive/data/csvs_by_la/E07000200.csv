@@ -1,0 +1,34 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02006227,Babergh 001,"Lavenham, Bildeston & Brettenham",0,1,1,0,0,0,0,0,0,0,10,0,0,0,covid
+E02006228,Babergh 002,Glemsford & Lawshall,0,1,1,0,0,0,0,0,0,0,2,2,0,0,covid
+E02006229,Babergh 003,North Sudbury & Long Melford,0,2,1,2,0,0,0,0,0,1,3,3,0,0,covid
+E02006230,Babergh 004,Hadleigh,0,2,0,0,0,0,0,0,26,17,12,5,1,0,covid
+E02006231,Babergh 005,"Sproughton, Washbrook & Hintlesham",0,7,0,2,0,0,0,0,0,4,5,0,0,0,covid
+E02006232,Babergh 006,"Acton, Great Waldingfield & Bures",0,0,1,0,0,0,0,0,1,0,2,0,1,0,covid
+E02006233,Babergh 007,Sudbury,1,2,1,0,0,0,0,1,1,3,8,3,1,0,covid
+E02006234,Babergh 008,Great Cornard,0,0,1,2,0,0,0,1,1,0,2,1,0,0,covid
+E02006235,Babergh 009,"Leavenheath, Nayland & Boxford",0,7,5,0,0,0,0,0,1,2,4,2,0,0,covid
+E02006236,Babergh 010,"East Bergholt, Brantham & Capel St Mary",0,5,2,0,0,0,0,0,1,2,9,2,2,0,covid
+E02006237,Babergh 011,Shotley Peninsula,1,6,4,0,0,0,0,0,0,1,1,0,1,1,covid
+E02006227,Babergh 001,"Lavenham, Bildeston & Brettenham",7,10,4,7,1,4,3,10,5,4,12,6,4,3,noncovid
+E02006228,Babergh 002,Glemsford & Lawshall,4,10,1,3,7,1,8,5,5,7,6,6,6,9,noncovid
+E02006229,Babergh 003,North Sudbury & Long Melford,8,14,6,2,4,5,6,6,3,5,7,2,1,7,noncovid
+E02006230,Babergh 004,Hadleigh,9,14,9,14,10,11,10,13,12,16,8,6,10,10,noncovid
+E02006231,Babergh 005,"Sproughton, Washbrook & Hintlesham",4,13,7,5,9,3,4,2,7,3,10,10,8,5,noncovid
+E02006232,Babergh 006,"Acton, Great Waldingfield & Bures",3,10,3,2,2,7,4,2,3,10,6,6,8,9,noncovid
+E02006233,Babergh 007,Sudbury,20,22,11,13,13,20,13,10,19,11,17,9,25,9,noncovid
+E02006234,Babergh 008,Great Cornard,10,8,8,8,7,2,6,9,8,11,6,4,3,7,noncovid
+E02006235,Babergh 009,"Leavenheath, Nayland & Boxford",9,9,8,5,10,5,6,6,7,4,7,9,2,6,noncovid
+E02006236,Babergh 010,"East Bergholt, Brantham & Capel St Mary",7,9,10,4,8,6,7,9,7,10,17,7,6,8,noncovid
+E02006237,Babergh 011,Shotley Peninsula,7,11,3,6,11,7,3,9,10,7,6,9,8,5,noncovid
+E02006227,Babergh 001,"Lavenham, Bildeston & Brettenham",6,6,6,4,3,6,6,7,7,3,9,6,6,6,average
+E02006228,Babergh 002,Glemsford & Lawshall,7,6,5,4,4,5,5,5,4,5,5,7,7,6,average
+E02006229,Babergh 003,North Sudbury & Long Melford,4,6,4,4,7,4,4,6,4,6,6,6,4,6,average
+E02006230,Babergh 004,Hadleigh,12,13,11,12,9,12,8,12,12,8,12,15,12,13,average
+E02006231,Babergh 005,"Sproughton, Washbrook & Hintlesham",9,8,7,7,7,7,4,5,8,5,9,7,9,8,average
+E02006232,Babergh 006,"Acton, Great Waldingfield & Bures",5,7,5,7,3,5,5,6,7,5,6,5,5,7,average
+E02006233,Babergh 007,Sudbury,13,12,14,13,13,15,12,13,13,15,22,15,13,12,average
+E02006234,Babergh 008,Great Cornard,7,10,9,7,7,6,7,8,7,6,12,8,7,10,average
+E02006235,Babergh 009,"Leavenheath, Nayland & Boxford",9,8,9,6,7,5,7,6,5,8,8,7,9,8,average
+E02006236,Babergh 010,"East Bergholt, Brantham & Capel St Mary",6,7,7,6,8,5,8,5,7,6,11,8,6,7,average
+E02006237,Babergh 011,Shotley Peninsula,10,10,6,4,7,7,6,8,6,7,10,9,10,10,average

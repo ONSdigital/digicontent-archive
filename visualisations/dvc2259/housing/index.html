@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- TEMPLATE https://github.com/ONSvisual/census-charts/tree/main/stacked-horizontal-bar-chart -->
+
+<head>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
+  <title>Clustered stacked horizontal bar chart</title>
+
+  <meta name="template" content="stacked-horizontal-bar-chart">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta charset="utf-8" />
+  <meta name="robots" content="noindex" />
+  <meta name="googlebot" content="indexifembedded" />
+
+  <link rel="stylesheet" href="../lib/globalStyle.css" />
+  <link rel="stylesheet" href="./chart.css"/>
+</head>
+
+<body>
+
+  <h5 id="accessibleSummary" class="visuallyhidden"></h5>
+
+  <div id="question" aria-hidden="true" class="questiontext info-box info-box-light">
+    <h1 class="header">Question:</h1>
+    <p class="question">At what age do more than half (59%) of people live in a home that is owned outright (with no outstanding mortgage)?
+    <div id="multiplechoice">
+      <button id="option1" class="option-button">40 to 49 years</button>
+      <button id="option2" class="option-button">50 to 59 years</button>
+      <button id="option3" class="option-button">60 to 69 years</button>
+      <button id="option4" class="option-button">70 to 79 years</button>
+    </div>
+  </div>
+
+  <div id="answer" class="questiontext">
+
+    <div id=response_incorrect style="display: none; margin-top:30px;" class="info-box info-box-red">
+      <div class="redcircle">&#10005;</div>
+      <p class="questiontext-bold">Bad luck!</p>
+      <p class="questiontext">59% of adults aged <span style="font-weight:600">60 to 69 years</span> live in a home that is owned outright</p>
+    </div>
+
+    <div id="response_correct" style="display: none; margin-top:30px;" class="info-box info-box-green">
+      <div class="greencircle">&#10003;</div>
+      <p class="questiontext-bold">Correct!</p>
+      <p class="questiontext">59% of adults aged <span style="font-weight:600">60 to 69 years</span> live in a home that is owned outright</p>
+    </div>
+
+    <div id="additional_text">
+      <p>Over half of adults in their 60s (59%) lived in a property that was owned outright and this increases to three-quarters for adults in their 70s and 80s (75% and 76%). Just under 1 in 10 (9%) of adults in their 30s lived in a property which was owned outright.    </p>
+      <p>This could be partly explained by <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/moreadultslivingwiththeirparents/2023-05-10" target="_blank">additional Census 2021 data </a> which has shown that almost 1 in 8 (12%) adults aged 30 to 34 years were living with their parents in Census 2021, up from 9% a decade earlier.</p>
+    </div>
+
+    <div class="chart_heading">
+      <h3>Around three-quarters of older adults lived in a home that was owned outright</h3>
+    </div>
+
+    <div class="chart_subheading">
+      <h4>Age by housing tenure, England and Wales, 2021</h4>
+    </div>
+
+    <div aria-hidden="true" id="legend"></div>
+
+    <div id="graphic" aria-hidden="true">
+    </div>
+
+    <h5 id="source"></h5>
+
+    <h5 id="notes">Notes:  </h5>
+    <h5 id="notes">1.	Totals may not add to 100% as percentages have been calculated out of the overall population for each age group using rounded data.  </h5>
+    <h5 id="notes">2.	This analysis focuses on usual residents (people within households) as age is individual. However, data on housing tenure is only available at the household level, so tenure information would be applied to all individuals within the household.  </h5>
+
+
+  </div>
+
+
+  <script src="https://cdn.ons.gov.uk/vendor/d3/6.3.0/d3.min.js" type="text/javascript"></script>
+  <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.js" type="text/javascript"></script>
+  <script src="./config.js"></script>
+  <script src="./script.js"></script>
+
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a40b84d0cdd5ecfd',t:'MTc5MDM1NDkzMQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+
+</html>

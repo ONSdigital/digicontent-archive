@@ -1,0 +1,17 @@
+{
+    "essential" : {
+            "Labels": ["EU","Non-EU","British"],
+                
+            "Values": [85000,89000,123000],
+        
+            "Question" : "In 2015, 297,000 long-term migrants left the UK, but what was their citizenship?",
+        
+            "Reveal" : "",
+        
+            "sourceText":["Long-Term International Migration data, ONS"],
+            "sourceURL":["http://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/datasets/migrationstatisticsquarterlyreportprovisionallongterminternationalmigrationltimestimates"
+			]
+    }
+}
+
+

@@ -1,0 +1,2 @@
+//js
+import{D as e,G as t,O as n,S as r,lt as i}from"../chunks/BfgODoge.js";import"../chunks/DEDqjojZ.js";import"../chunks/DbmvGmz4.js";var a=globalThis.__sveltekit_1du48or.env,o=i({prerender:()=>s,trailingSlash:()=>c}),s=a?.PUBLIC_APP_ENV!==`preview`,c=`always`;function l(i,a){var o=n();r(t(o),a,`default`,{},null),e(i,o)}export{l as component,o as universal};

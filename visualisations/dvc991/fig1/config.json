@@ -1,0 +1,97 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "colour_palette": [{
+        "key": "Excess deaths",
+        "colour": "#206095"
+      }
+    ],
+    "sourceText": "Office for National Statistics – COVID-19 Infection Survey",
+    "yAxisScale": "auto_min_max",
+    "mediumBreakpoint": 650,
+    "mobileBreakpoint": 414,
+    "oddsOf":"testing positive for COVID-19 antibodies",
+    "comparisonLabels":[
+      "Male",
+      "50 to 69",
+      "White",
+      "Two-person households",
+      "Don't think they have ever had COVID-19"
+    ],
+    "barHeight":{
+      "sm": 25,
+      "md": 25,
+      "lg": 25
+    },
+    "xCatRange":[-3,-2,-1,0,1,2,3,4,5,6,7,10,20,28],
+    "xCatDomain":["1/5x the odds","1/4 the odds","1/3 the odds","Half the odds","The same odds","Twice the odds", "3x the odds","4x the odds","5x the odds","6x the odds","7x the odds","10x the odds","20x the odds","28x the odds"],
+    "tickValues":{
+      "sm": ["The same odds","5x the odds"],
+      "md": ["1/3 the odds","The same odds", "3x the odds"],
+      "lg": ["1/3 the odds","The same odds", "3x the odds","5x the odds","7x the odds"]
+    }
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 50,
+        "right": 25,
+        "bottom": 100,
+        "left": 145
+      },
+      "md": {
+        "top": 50,
+        "right": 50,
+        "bottom": 100,
+        "left": 145
+      },
+      "lg": {
+        "top": 50,
+        "right": 50,
+        "bottom": 65,
+        "left": 185
+      }
+    },
+    "dotSize":{
+      "sm": 4,
+      "md": 4,
+      "lg": 5
+    },
+    "comparisonNudge":{
+      "sm": -20,
+      "md": -20,
+      "lg": -20
+    },
+    "xtickwrapwidth":{
+      "sm": 50,
+      "md": 40,
+      "lg": 60
+    },
+    "xaxislabelydrop":{
+      "sm": 60,
+      "md": 60,
+      "lg": 45
+    },
+
+    "aspectRatio": {
+      "sm": [16, 8],
+      "md": [16, 8],
+      "lg": [16, 8]
+    },
+    "chart_every":{
+      "sm": 1,
+      "md": 1,
+      "lg": 1
+    },
+    "x_ticks_every": {
+      "sm": 2,
+      "md": 2,
+      "lg": 2
+    },
+    "y_num_ticks": {
+      "sm": 4,
+      "md": 4,
+      "lg": 4
+    }
+  }
+}

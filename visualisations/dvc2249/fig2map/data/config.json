@@ -1,0 +1,12 @@
+{"ons":{
+"maptitle": "Census 2021 - dvc1914",
+"varcolour":  ["#ffffcc","#a1dab4","#41b6c4","#2c7fb8","#253494"],
+"varload": 0,
+"varunit": "%",
+"unitlabel":"Percentage",
+"displaydecimals": 1,
+"legenddecimals":1,
+"breaks": "natural",
+"dropticks": false,
+"numberBreaks": 5
+}}

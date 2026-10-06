@@ -1,0 +1,13 @@
+{"ons":{
+"varlabel": ["Male Healthy Life Expectancy at Birth","Female Healthy Life Expectancy at Birth"],
+"varcolour": "BuPu[5]",
+"varname": ["male","female"],
+"varload": "male",
+"varunit":[" years of healthy life"," years of healthy life"],
+"varprefix":["",""],
+"breaks":"jenks",
+"average":[63.5,63.8],
+"averagelabel":"Eng Average",
+"centre":[53.344,-1.91],
+"zoom":6
+}}

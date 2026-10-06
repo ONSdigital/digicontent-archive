@@ -1,0 +1,67 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "legendLabels": ["2023", "1997"],
+    "colour_palette": [ "#3A7899", "#C6C6C6"],
+    "sourceText": ["Annual Survey of Hours and Earnings (ASHE) from the Office for National Statistics"],
+
+    "annotationChart": [
+      "Women earn more  than men", "Women earn less  than men"
+    ],
+    "annotationBullet": [],
+    "annotationXY": [
+      ["-0.5","Northern Ireland"],
+  ["0.5","Northern Ireland"]
+
+    ],
+    "annotationAlign": [
+      "end",
+      "start"
+    ],
+    "minmaxonly": true,
+    "arrows": "start",
+    "tooltip": true,
+    "xAxisLabel": "Gender pay gap (%)",
+    "yAxisLabel": "",
+    "xAxisScale": [-6,22],
+    "dotsize": 5
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 20,
+        "right": 35,
+        "bottom": 10,
+        "left": 130
+      },
+      "md": {
+        "top": 30,
+        "right": 27,
+        "bottom": 10,
+        "left": 130
+      },
+      "lg": {
+        "top": 30,
+        "right": 27,
+        "bottom": 10,
+        "left": 130
+      }
+    },
+    "aspectRatio": {
+      "sm": [7, 9],
+      "md": [12, 10],
+      "lg": [20, 15]
+    },
+
+    "mobileBreakpoint": 510,
+    "middleBreakpoint": 600,
+    "x_num_ticks": {
+      "sm": 6,
+      "md": 8,
+      "lg": 10
+    },
+
+    "centre_line": true,
+    "centre_line_value": 0
+  }
+}

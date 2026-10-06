@@ -1,0 +1,82 @@
+{
+  "essential": {
+    "graphic_data_url": "regions.csv",
+    "dateFormat": "%d/%m/%Y",
+    "colour_palette": [
+      {
+        "key": "2011",
+        "colour": "#C6C6C6"
+      },
+      {
+        "key": "2021",
+        "colour": "#206095"
+      }
+    ],
+    "colours":["#206095","#F66068","#A09FA0"],
+    "categorySort": [
+      "Deprived in at least 1 dimension"
+
+    ],
+    "dotsize": 5,
+    "sourceText": [
+      "Office for National Statistics – 2011 Census and Census 2021"
+    ],
+    "xAxisLabel": "% of usual residents in work",
+    "yAxisLabel": "",
+    "yAxisScale": [4.5,10.5],
+    "screenreadertext": "This chart shows change in the proportion of people employed in public adminstration and defence between 2011 and 2021 by region. Wales saw the largest increase in public administration and defence workers"
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 20,
+        "right": 20,
+        "bottom": 60,
+        "left": 20
+      },
+      "md": {
+        "top": 20,
+        "right": 20,
+        "bottom": 40,
+        "left": 20
+      },
+      "lg": {
+        "top": 20,
+        "right": 20,
+        "bottom": 40,
+        "left": 8
+      }
+    },
+    "margin_special_left": 186,
+    "chart_every": {
+      "sm": 1,
+      "md": 1,
+      "lg": 1
+    },
+    "aspectRatio": {
+      "sm": [
+        1,
+        2.5
+      ],
+      "md": [
+        0.8,
+        1
+      ],
+      "lg": [
+        1.5,
+        1
+      ]
+    },
+    "legendHeight": {
+      "sm": 80,
+      "md": 80,
+      "lg": 50
+    },
+    "mobileBreakpoint": 414,
+    "middleBreakpoint": 600,
+    "x_num_ticks_sm_md_lg": [
+      4,
+      4,
+      8]
+  }
+}

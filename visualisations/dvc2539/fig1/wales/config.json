@@ -1,0 +1,99 @@
+{
+  "essential": {
+    "graphic_data_url": "ages.csv",
+    "dateFormat": "%d/%m/%Y",
+    "colour_palette": [{
+        "key": "95% credible interval",
+        "colour": "#c5c5c5",
+        "smallkey": "95% credible interval",
+        "legendstyle":"rect"
+      },
+      {
+        "key": "Modelled % of persons who would have tested positive for antibodies at or above the higher threshold",
+        "colour": "#206095",
+        "smallkey":"Modelled % testing positive for antibodies - higher",
+        "legendstyle":"line"
+      },
+      {
+        "key": "Modelled % of adults who reported they have received 3 or more vaccinations",
+        "colour": "#a8bd3a",
+        "smallkey":"Modelled % of adults reporting to have had 3+ vaccinations",
+        "legendstyle":"line"
+      },
+      {
+        "key": "Modelled % of children who reported they have received 2 or more vaccinations",
+        "colour": "#871a5b",
+        "smallkey":"Modelled % of children reporting to have had 2+ vaccinations",
+        "legendstyle":"line"
+      },
+      {
+        "key": "Modelled % of children who reported they have received 1 or more vaccinations",
+        "colour": "#f66068",
+        "smallkey":"Modelled % of children reporting to have had 1+ vaccinations",
+        "legendstyle":"line"
+      }
+    ],
+    "categorySort": [
+      "Aged 16 to 24",
+      "Aged 25 to 34",
+      "Aged 35 to 49",
+      "Aged 50 to 59",
+      "Aged 60 to 64",
+      "Aged 65 to 69",
+      "Aged 70 to 74",
+      "Aged 75 to 79",
+      "Aged 80 and over"
+    ],
+    "sourceText": ["Coronavirus (COVID-19) Infection Survey from the Office for National Statistics"],
+    "xAxisLabel": "Week beginning",
+    "yAxisLabel": "%",
+    "yAxisScale": [0,100]
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 40,
+        "right": 35,
+        "bottom": 45,
+        "left": 32
+      },
+      "md": {
+        "top": 40,
+        "right": 35,
+        "bottom": 50,
+        "left": 32
+      },
+      "lg": {
+        "top": 40,
+        "right": 35,
+        "bottom": 45,
+        "left": 32
+      }
+    },
+    "chart_every":{
+      "sm": 1,
+      "md": 3,
+      "lg": 3
+    },
+    "aspectRatio": {
+      "sm": [16, 8],
+      "md": [16, 8],
+      "lg": [16, 10]
+    },
+    "legendHeight":{
+      "sm": 100,
+      "md": 90,
+      "lg": 90
+    },
+    "anno_rectangle":["01/01/2022","27/02/2022"],
+    "anno_rectangle_colour":"#d3d3d3",
+
+    "mobileBreakpoint": 480,
+    "middleBreakpoint": 670,
+    "x_ticks_every": {
+      "sm": 55,
+      "md": 55,
+      "lg": 55
+    }
+  }
+}

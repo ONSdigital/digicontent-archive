@@ -1,0 +1,138 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "dateFormat": "%d/%m/%Y",
+    "displayTicksFormat":"%b",
+    "colour_palette": [
+      {
+        "key":"Daily",
+        "colour":"#118C7B"
+      },
+      {
+        "key":"Weekly",
+        "colour":"#206095"
+      }
+
+    ],
+    "categorySort": ["England","Wales","Scotland","Northern Ireland"],
+    "sourceText": ["Department for Education, Welsh Government, Scottish Government and Department of Education Northern Ireland"],
+    "xAxisLabel": "",
+    "yAxisLabel": "% attendance, state-funded schools",
+    "yAxisScale": "auto_zero_max_total",
+    "screenreadertext":"School attendance"
+
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 35,
+        "right": 23,
+        "bottom": 45,
+        "left": 30
+      },
+      "md": {
+        "top": 35,
+        "right": 23,
+        "bottom": 50,
+        "left": 30
+      },
+      "lg": {
+        "top": 30,
+        "right": 23,
+        "bottom": 45,
+        "left": 35
+      }
+    },
+    "chart_every":{
+      "sm": 1,
+      "md": 1,
+      "lg": 1
+    },
+    "aspectRatio": {
+      "sm": [18, 5],
+      "md": [17, 4],
+      "lg": [16, 3]
+    },
+    "legendHeight":{
+      "sm": 45,
+      "md": 30,
+      "lg": 30
+    },
+
+    "mobileBreakpoint": 480,
+    "middleBreakpoint": 556,
+    "x_ticks_every": {
+      "sm": 30,
+      "md": 30,
+      "lg": 30
+    },
+
+    "annotateText" :
+      [{
+         "chartID": "England",
+         "x": "06/01/2021",
+         "y": 87,
+         "text": "Lockdown",
+         "wrap": 15,
+         "size": 13
+       },{
+         "chartID": "Wales",
+         "x": "16/11/2020",
+         "y": 107,
+         "text": "Online learning for secondary schools",
+         "wrap": 15,
+         "size": 13
+         }
+      ],
+
+      "annotateLine" : [{
+        "chartID": "Wales",
+        "x1": "14/12/2020",
+        "x2": "14/12/2020",
+        "y1": 101,
+        "y2": 0,
+        "note": "Online learning move"
+      }],
+
+    "annotateRectOn" : true,
+    "annotateRect" :
+      [{
+        "chartID": "England",
+        "x1": "05/01/2021",
+        "x2": "22/01/2021",
+        "y1": 100,
+        "y2": 0,
+        "colour": "ABCDEF",
+        "opacity": 0.2,
+        "note": "Lockdown"
+      },{
+        "chartID": "Wales",
+        "x1": "05/01/2021",
+        "x2": "22/01/2021",
+        "y1": 100,
+        "y2": 0,
+        "colour": "ABCDEF",
+        "opacity": 0.2,
+        "note": "Lockdown"
+      },{
+        "chartID": "Scotland",
+        "x1": "05/01/2021",
+        "x2": "22/01/2021",
+        "y1": 100,
+        "y2": 0,
+        "colour": "ABCDEF",
+        "opacity": 0.2,
+        "note": "Lockdown"
+      },{
+        "chartID": "Northern Ireland",
+        "x1": "05/01/2021",
+        "x2": "22/01/2021",
+        "y1": 100,
+        "y2": 0,
+        "colour": "ABCDEF",
+        "opacity": 0.2,
+        "note": "Lockdown"
+      }
+    ]
+  }
+}

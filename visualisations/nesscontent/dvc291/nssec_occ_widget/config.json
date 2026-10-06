@@ -1,0 +1,56 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+        
+            "dateFormat":"%Y",
+        
+            "legendLabels" : ["Routine occupation","Average", "Higher Managerial and Professional"],
+        
+            "sourceText":["Life expectancy by socioeconomic position, ONS"],
+            "sourceURL":["http://www.ons.gov.uk/ons/rel/health-ineq/trend-in-life-expectancy-by-socioeconomic-position-by-the-national-statistics-socioeconomic-classification--england-and-wales/1982-86-to-2007-11/index.html"],
+        
+            "annotationChart": [
+                "Routine  occupations",
+                "Average",
+                "Higher managerial,  professional   occupations"
+                
+            ],
+            "annotationBullet": [
+                "Routine occupations",
+                "Average",
+                "Higher managerial, professional occupations"
+            ],
+            "annotationXY":[
+                ["76.6","80.8"],
+                ["79.1","82.4"],
+                ["82.5","85.2"]
+            ],
+            "annotationAlign":[
+                "middle",
+                "middle",
+                "middle"
+            ],
+        
+            "xAxisLabel":"life expectancy at birth (years)",
+            "xAxisScale":[76,86],
+            "xAxisScaleDivisor": 50,
+            "yAxisScaleDivisor": 100
+    },
+    "optional" : {
+            "margin_sm": [5,7,5,5],
+            "margin_md": [5,7,5,5],
+            "margin_lg": [5,7,5,5],
+        
+            "aspectRatio_sm" : [4,3],
+            "aspectRatio_md" : [4,2],
+            "aspectRatio_lg" : [4,2],
+        
+            "mobileBreakpoint" : 610, 
+                           
+            "x_num_ticks_sm_md_lg" : [6,8,10],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}
+
+

@@ -1,2 +1,0 @@
-//js
-import{b as e}from"./paths.cdb7a1a1.js";import{a as r,g,b as n,c as d}from"./utils.7105ff99.js";const c=!0;async function p({fetch:a}){let t=await r(`${e}/data/places.csv`,a),s=await g(`${e}/data/json/default.json`,a),o=await n(`${e}/data/age_data.csv`,a),l=await d(`${e}/data/age_sex_data.csv`,a);return{places:t,place:s,ageBand:o,ageSex:l}}const u=Object.freeze(Object.defineProperty({__proto__:null,load:p,prerender:c},Symbol.toStringTag,{value:"Module"}));export{u as _,p as l,c as p};

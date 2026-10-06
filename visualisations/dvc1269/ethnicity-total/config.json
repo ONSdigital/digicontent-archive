@@ -1,0 +1,37 @@
+{
+  "essential": {
+    "GraphType": "clusterBar",
+    "graphic_data_url": "data.csv",
+    "colour_palette": ["#206095", "#118C7B"],
+    "legendLabels": ["Total population", "Disabled"],
+    "legendStyle": "rect",
+    "sourceText": "Office for National Statistics – Longitudinal Labour Force Survey",
+
+    "annotationChart": [],
+    "annotationBullet": [],
+    "annotationXY": [],
+    "annotationAlign": [],
+
+    "circles": false,
+    "annotationCXCY": [],
+    "comparisonGroup":"White ethnicity",
+    "xAxisScale": [-0.04, 0.02],
+    "barHeight_sm_md_lg": [60, 65, 60],
+    "title":"",
+    "desc":"",
+    "desc2":"",
+    "title2":""
+
+  },
+  "optional": {
+    "margin_sm": [55, 0, 65, 105],
+    "margin_md": [85, 0, 65, 135],
+    "margin_lg": [55, 0, 65, 135],
+
+    "mobileBreakpoint": 414,
+    "x_num_ticks_sm_md_lg": [["3pp less likely","No change"], ["3pp less likely","No change"], ["3pp less likely","No change"]],
+    "y_num_ticks_sm_md_lg": [4, 4, 4],
+    "centre_line": true,
+    "centre_line_value": 0
+  }
+}

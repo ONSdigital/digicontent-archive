@@ -1,0 +1,67 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02004675,Basingstoke and Deane 001,Tadley West,0,2,0,0,0,0,0,0,3,2,1,4,1,1,covid
+E02004676,Basingstoke and Deane 002,"Tadley East, Pamber & Silchester",1,3,1,0,0,0,0,0,0,1,1,1,1,0,covid
+E02004677,Basingstoke and Deane 003,"Woolton Hill, Burghclere & Bishops Green",0,1,0,0,0,0,0,0,0,0,4,2,0,0,covid
+E02004678,Basingstoke and Deane 004,Kingsclere & Heath End,0,7,0,0,0,0,0,0,2,3,3,0,1,0,covid
+E02004679,Basingstoke and Deane 005,"Bramley, Sherfield & the Sherbornes",1,3,1,2,0,0,0,0,0,0,8,3,1,0,covid
+E02004680,Basingstoke and Deane 006,Chineham,0,1,1,0,0,0,0,0,0,0,0,1,0,0,covid
+E02004681,Basingstoke and Deane 007,Popley,0,5,0,1,0,0,0,0,2,4,10,1,2,0,covid
+E02004682,Basingstoke and Deane 008,Daneshill & Little Basing,0,2,0,0,0,0,0,0,0,0,0,1,1,0,covid
+E02004683,Basingstoke and Deane 009,Houndmills & Oakridge,1,4,2,3,0,0,0,0,4,0,7,4,2,0,covid
+E02004684,Basingstoke and Deane 010,Winklebury & Rooksdown,1,6,2,0,0,0,0,0,0,1,0,3,0,1,covid
+E02004685,Basingstoke and Deane 011,"Basingstoke Central, Black Dam & Eastrop",0,2,2,0,0,0,0,0,0,1,7,1,1,0,covid
+E02004686,Basingstoke and Deane 012,Kings Furlong,0,3,0,0,0,0,0,0,0,3,1,1,0,0,covid
+E02004687,Basingstoke and Deane 013,Buckskin & Worting,0,1,1,1,0,0,0,0,0,1,1,0,0,0,covid
+E02004688,Basingstoke and Deane 014,South Ham & West Ham,0,3,2,1,0,0,0,0,2,0,6,4,1,1,covid
+E02004689,Basingstoke and Deane 015,East Oakley,0,2,1,1,0,0,0,0,1,0,4,1,0,0,covid
+E02004690,Basingstoke and Deane 016,Viables,0,1,0,0,0,0,0,0,0,1,17,2,0,0,covid
+E02004691,Basingstoke and Deane 017,Old Basing & the Candovers,0,5,6,1,0,0,0,0,1,1,7,1,1,0,covid
+E02004692,Basingstoke and Deane 018,Kempshott,0,2,1,0,0,0,0,0,2,2,1,0,0,0,covid
+E02004693,Basingstoke and Deane 019,Brighton Hill,0,5,1,0,0,0,0,0,2,2,3,1,1,0,covid
+E02004694,Basingstoke and Deane 020,Whitchurch & Ashmansworth,0,4,1,5,0,0,0,0,1,0,3,2,0,0,covid
+E02004695,Basingstoke and Deane 021,Hatch Warren,0,0,0,0,0,0,0,0,1,0,1,0,0,0,covid
+E02004696,Basingstoke and Deane 022,Overton & North Waltham,0,4,1,0,0,0,0,0,1,0,1,0,0,0,covid
+E02004675,Basingstoke and Deane 001,Tadley West,8,4,3,3,6,3,4,2,4,7,4,4,6,5,noncovid
+E02004676,Basingstoke and Deane 002,"Tadley East, Pamber & Silchester",10,8,3,7,7,1,7,6,5,7,7,3,9,13,noncovid
+E02004677,Basingstoke and Deane 003,"Woolton Hill, Burghclere & Bishops Green",8,4,3,5,4,4,4,4,6,2,8,6,5,5,noncovid
+E02004678,Basingstoke and Deane 004,Kingsclere & Heath End,7,5,9,6,3,4,3,4,7,4,4,3,4,8,noncovid
+E02004679,Basingstoke and Deane 005,"Bramley, Sherfield & the Sherbornes",13,13,6,5,7,7,8,9,10,3,6,7,6,6,noncovid
+E02004680,Basingstoke and Deane 006,Chineham,3,1,1,5,4,1,1,3,4,0,1,1,3,2,noncovid
+E02004681,Basingstoke and Deane 007,Popley,10,9,5,4,6,5,8,6,4,9,9,3,7,7,noncovid
+E02004682,Basingstoke and Deane 008,Daneshill & Little Basing,3,2,1,2,2,4,6,2,0,3,6,2,3,5,noncovid
+E02004683,Basingstoke and Deane 009,Houndmills & Oakridge,12,12,6,5,9,6,8,10,8,9,8,11,7,10,noncovid
+E02004684,Basingstoke and Deane 010,Winklebury & Rooksdown,9,5,3,3,5,10,4,7,3,5,5,9,6,5,noncovid
+E02004685,Basingstoke and Deane 011,"Basingstoke Central, Black Dam & Eastrop",0,4,4,5,4,4,7,5,1,1,4,4,4,5,noncovid
+E02004686,Basingstoke and Deane 012,Kings Furlong,4,7,3,1,6,4,1,3,4,5,4,8,6,3,noncovid
+E02004687,Basingstoke and Deane 013,Buckskin & Worting,5,1,3,4,5,5,3,4,2,1,4,4,5,2,noncovid
+E02004688,Basingstoke and Deane 014,South Ham & West Ham,7,5,2,7,4,6,5,4,10,8,9,5,8,6,noncovid
+E02004689,Basingstoke and Deane 015,East Oakley,12,9,8,6,5,8,1,9,3,8,4,8,7,6,noncovid
+E02004690,Basingstoke and Deane 016,Viables,4,3,6,6,6,3,7,3,6,4,9,4,5,3,noncovid
+E02004691,Basingstoke and Deane 017,Old Basing & the Candovers,14,19,9,9,10,8,11,12,7,5,8,6,9,6,noncovid
+E02004692,Basingstoke and Deane 018,Kempshott,10,4,5,5,9,5,5,4,4,6,6,6,7,8,noncovid
+E02004693,Basingstoke and Deane 019,Brighton Hill,1,10,3,4,3,2,4,4,4,7,7,1,2,1,noncovid
+E02004694,Basingstoke and Deane 020,Whitchurch & Ashmansworth,6,7,8,4,4,5,4,6,4,5,9,3,4,10,noncovid
+E02004695,Basingstoke and Deane 021,Hatch Warren,1,4,1,2,3,2,2,3,2,4,3,2,4,2,noncovid
+E02004696,Basingstoke and Deane 022,Overton & North Waltham,8,5,3,5,6,2,8,2,5,4,6,7,3,4,noncovid
+E02004675,Basingstoke and Deane 001,Tadley West,6,4,4,5,3,5,6,4,5,5,6,6,6,4,average
+E02004676,Basingstoke and Deane 002,"Tadley East, Pamber & Silchester",7,6,5,6,6,5,5,5,5,6,9,5,7,6,average
+E02004677,Basingstoke and Deane 003,"Woolton Hill, Burghclere & Bishops Green",5,2,6,3,5,4,5,4,4,5,5,6,5,2,average
+E02004678,Basingstoke and Deane 004,Kingsclere & Heath End,5,6,3,4,4,5,3,3,6,4,6,6,5,6,average
+E02004679,Basingstoke and Deane 005,"Bramley, Sherfield & the Sherbornes",8,9,8,8,8,7,7,8,8,8,10,11,8,9,average
+E02004680,Basingstoke and Deane 006,Chineham,3,1,2,2,2,1,2,1,3,3,3,1,3,1,average
+E02004681,Basingstoke and Deane 007,Popley,8,8,7,6,9,7,7,8,7,6,9,6,8,8,average
+E02004682,Basingstoke and Deane 008,Daneshill & Little Basing,3,3,3,3,3,4,3,2,3,3,4,3,3,3,average
+E02004683,Basingstoke and Deane 009,Houndmills & Oakridge,10,7,9,8,6,6,6,9,6,8,11,11,10,7,average
+E02004684,Basingstoke and Deane 010,Winklebury & Rooksdown,5,5,4,3,5,4,5,4,6,6,5,5,5,5,average
+E02004685,Basingstoke and Deane 011,"Basingstoke Central, Black Dam & Eastrop",6,4,3,4,4,3,4,5,5,3,5,4,6,4,average
+E02004686,Basingstoke and Deane 012,Kings Furlong,6,4,4,4,5,4,5,5,5,6,6,5,6,4,average
+E02004687,Basingstoke and Deane 013,Buckskin & Worting,4,5,4,3,3,4,2,3,5,5,4,3,4,5,average
+E02004688,Basingstoke and Deane 014,South Ham & West Ham,9,5,5,6,5,6,6,8,6,8,11,5,9,5,average
+E02004689,Basingstoke and Deane 015,East Oakley,5,5,5,5,4,4,5,4,5,7,6,7,5,5,average
+E02004690,Basingstoke and Deane 016,Viables,7,4,5,5,4,5,5,5,5,7,8,5,7,4,average
+E02004691,Basingstoke and Deane 017,Old Basing & the Candovers,7,9,8,8,9,7,9,9,12,11,13,8,7,9,average
+E02004692,Basingstoke and Deane 018,Kempshott,6,3,5,6,4,6,3,5,4,4,7,5,6,3,average
+E02004693,Basingstoke and Deane 019,Brighton Hill,6,3,4,5,5,4,4,4,4,3,4,4,6,3,average
+E02004694,Basingstoke and Deane 020,Whitchurch & Ashmansworth,6,5,7,6,5,7,5,7,6,7,7,7,6,5,average
+E02004695,Basingstoke and Deane 021,Hatch Warren,2,2,1,2,2,3,2,2,1,2,2,2,2,2,average
+E02004696,Basingstoke and Deane 022,Overton & North Waltham,6,7,6,5,5,4,5,6,5,8,6,5,6,7,average

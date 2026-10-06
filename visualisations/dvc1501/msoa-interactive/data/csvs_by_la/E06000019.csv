@@ -1,0 +1,70 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02002905,Herefordshire 001,"Wigmore, Orleton & Brimfield",0,3,1,0,0,0,0,0,0,0,3,1,1,0,covid
+E02002906,Herefordshire 002,Leominster North,0,1,1,1,0,0,0,0,0,0,3,1,0,0,covid
+E02002907,Herefordshire 003,Leominster South,0,1,1,0,0,0,0,0,0,3,5,3,0,0,covid
+E02002908,Herefordshire 004,"Shobdon, Luston & Bodenham",0,3,2,0,0,0,0,1,0,2,2,1,0,0,covid
+E02002909,Herefordshire 005,Bromyard & Bishop's Frome,0,5,3,1,0,0,0,0,0,0,3,1,0,0,covid
+E02002910,Herefordshire 006,"Kington, Eardisley & Staunton",0,1,3,0,0,0,0,1,1,1,1,0,0,1,covid
+E02002911,Herefordshire 007,"Credenhill, Weobley & Wellington",0,0,9,1,0,0,0,0,0,1,8,4,0,1,covid
+E02002912,Herefordshire 008,"Lugwardine, Withington & Moreton on Lugg",0,3,0,0,0,0,0,2,0,3,6,0,0,0,covid
+E02002913,Herefordshire 009,"Colwall, Cradley & Wellington Heath",0,3,0,0,0,0,0,0,0,0,2,1,0,0,covid
+E02002914,Herefordshire 010,Hereford North West,0,1,0,1,0,0,0,0,1,1,3,6,0,0,covid
+E02002915,Herefordshire 011,Hereford North East,0,3,2,0,0,0,0,1,0,0,14,3,0,0,covid
+E02002916,Herefordshire 012,Hereford Central,0,1,1,0,0,0,0,0,1,0,9,3,0,0,covid
+E02002917,Herefordshire 013,Hereford West,0,1,0,0,0,0,0,0,0,1,3,1,0,0,covid
+E02002918,Herefordshire 014,Hereford East,0,1,3,5,0,0,0,0,0,2,4,5,0,0,covid
+E02002919,Herefordshire 015,Hereford South,0,3,7,1,0,0,0,1,2,0,2,2,0,1,covid
+E02002920,Herefordshire 016,"Belmont, Madley & Clehonger",0,1,0,0,1,0,0,0,0,1,1,1,0,0,covid
+E02002921,Herefordshire 017,Hereford South West,0,1,2,0,0,0,0,0,0,0,3,1,1,0,covid
+E02002922,Herefordshire 018,"Fownhope, Tarrington & Marcle",0,2,0,0,1,0,1,0,0,1,3,2,0,0,covid
+E02002923,Herefordshire 019,Ledbury,1,1,3,0,0,0,0,0,1,1,1,1,0,0,covid
+E02002924,Herefordshire 020,Golden Valley,0,1,1,0,0,0,0,0,0,0,2,2,0,0,covid
+E02002925,Herefordshire 021,Kingstone & Kingsthorne,0,2,6,0,0,0,0,0,0,1,3,1,1,0,covid
+E02002926,Herefordshire 022,Ross-on-Wye,0,5,13,2,0,0,0,0,0,1,2,3,1,0,covid
+E02002927,Herefordshire 023,"Penyard, Llangarron & Goodrich",0,1,2,0,0,0,0,0,0,2,4,3,0,0,covid
+E02002905,Herefordshire 001,"Wigmore, Orleton & Brimfield",5,5,6,5,3,3,7,11,9,8,3,6,5,8,noncovid
+E02002906,Herefordshire 002,Leominster North,5,6,7,5,5,4,8,5,6,6,3,5,6,3,noncovid
+E02002907,Herefordshire 003,Leominster South,11,13,7,6,4,7,5,7,13,5,7,11,9,6,noncovid
+E02002908,Herefordshire 004,"Shobdon, Luston & Bodenham",11,6,7,4,2,7,7,14,6,9,8,12,10,9,noncovid
+E02002909,Herefordshire 005,Bromyard & Bishop's Frome,13,9,10,12,13,11,10,16,14,10,12,8,12,7,noncovid
+E02002910,Herefordshire 006,"Kington, Eardisley & Staunton",9,9,7,11,3,9,8,10,12,6,14,7,13,7,noncovid
+E02002911,Herefordshire 007,"Credenhill, Weobley & Wellington",10,10,4,9,11,15,9,3,15,9,16,8,6,6,noncovid
+E02002912,Herefordshire 008,"Lugwardine, Withington & Moreton on Lugg",9,8,3,7,4,5,6,5,7,4,8,1,11,7,noncovid
+E02002913,Herefordshire 009,"Colwall, Cradley & Wellington Heath",9,5,3,5,5,3,5,6,6,2,4,7,3,10,noncovid
+E02002914,Herefordshire 010,Hereford North West,12,8,10,9,7,5,5,5,10,5,12,6,4,4,noncovid
+E02002915,Herefordshire 011,Hereford North East,12,13,10,6,9,7,22,13,9,11,10,12,5,7,noncovid
+E02002916,Herefordshire 012,Hereford Central,8,11,4,8,6,8,7,4,2,3,5,9,7,12,noncovid
+E02002917,Herefordshire 013,Hereford West,8,6,8,11,10,5,7,4,5,4,5,2,3,5,noncovid
+E02002918,Herefordshire 014,Hereford East,4,4,8,3,2,3,7,3,8,8,6,5,7,8,noncovid
+E02002919,Herefordshire 015,Hereford South,5,7,9,7,7,8,8,8,10,3,10,4,12,7,noncovid
+E02002920,Herefordshire 016,"Belmont, Madley & Clehonger",4,2,5,3,4,1,6,6,4,6,3,4,4,4,noncovid
+E02002921,Herefordshire 017,Hereford South West,4,4,4,6,5,3,10,6,3,5,7,5,2,0,noncovid
+E02002922,Herefordshire 018,"Fownhope, Tarrington & Marcle",8,7,3,4,5,5,5,2,8,2,7,4,5,5,noncovid
+E02002923,Herefordshire 019,Ledbury,14,9,10,11,10,7,11,8,6,11,20,8,9,6,noncovid
+E02002924,Herefordshire 020,Golden Valley,8,6,8,6,5,5,3,10,3,6,6,4,5,5,noncovid
+E02002925,Herefordshire 021,Kingstone & Kingsthorne,11,9,5,8,4,3,6,8,9,9,5,12,4,12,noncovid
+E02002926,Herefordshire 022,Ross-on-Wye,18,15,13,10,7,12,11,9,11,12,11,12,16,19,noncovid
+E02002927,Herefordshire 023,"Penyard, Llangarron & Goodrich",28,12,9,8,12,13,12,12,10,12,14,10,14,13,noncovid
+E02002905,Herefordshire 001,"Wigmore, Orleton & Brimfield",4,4,6,7,5,5,5,3,4,6,6,6,4,4,average
+E02002906,Herefordshire 002,Leominster North,5,4,6,4,3,4,5,4,6,4,8,6,5,4,average
+E02002907,Herefordshire 003,Leominster South,11,10,9,10,7,8,7,10,9,8,12,10,11,10,average
+E02002908,Herefordshire 004,"Shobdon, Luston & Bodenham",9,9,7,7,6,7,7,6,8,8,11,8,9,9,average
+E02002909,Herefordshire 005,Bromyard & Bishop's Frome,13,12,9,10,9,11,9,10,11,13,14,13,13,12,average
+E02002910,Herefordshire 006,"Kington, Eardisley & Staunton",9,8,6,9,8,6,9,7,11,9,16,11,9,8,average
+E02002911,Herefordshire 007,"Credenhill, Weobley & Wellington",12,9,10,11,9,9,9,9,9,10,12,9,12,9,average
+E02002912,Herefordshire 008,"Lugwardine, Withington & Moreton on Lugg",4,5,4,4,4,4,4,5,4,4,8,4,4,5,average
+E02002913,Herefordshire 009,"Colwall, Cradley & Wellington Heath",6,6,7,4,6,5,2,5,6,5,7,5,6,6,average
+E02002914,Herefordshire 010,Hereford North West,6,6,7,6,5,7,9,7,7,7,10,9,6,6,average
+E02002915,Herefordshire 011,Hereford North East,11,12,11,9,6,8,9,10,10,10,17,10,11,12,average
+E02002916,Herefordshire 012,Hereford Central,7,7,7,7,7,7,7,5,6,7,10,6,7,7,average
+E02002917,Herefordshire 013,Hereford West,5,5,4,5,6,4,6,7,6,5,9,7,5,5,average
+E02002918,Herefordshire 014,Hereford East,9,5,4,6,5,5,6,6,7,7,8,7,9,5,average
+E02002919,Herefordshire 015,Hereford South,10,9,8,6,9,6,6,8,10,5,11,10,10,9,average
+E02002920,Herefordshire 016,"Belmont, Madley & Clehonger",6,5,4,4,6,4,4,4,5,5,8,4,6,5,average
+E02002921,Herefordshire 017,Hereford South West,6,6,4,6,4,6,4,7,4,6,8,6,6,6,average
+E02002922,Herefordshire 018,"Fownhope, Tarrington & Marcle",9,6,6,6,6,6,6,6,5,6,9,7,9,6,average
+E02002923,Herefordshire 019,Ledbury,10,10,8,8,8,7,8,10,7,11,15,8,10,10,average
+E02002924,Herefordshire 020,Golden Valley,5,5,3,5,5,5,7,4,6,6,10,6,5,5,average
+E02002925,Herefordshire 021,Kingstone & Kingsthorne,9,7,8,11,7,7,6,9,9,5,11,11,9,7,average
+E02002926,Herefordshire 022,Ross-on-Wye,15,15,14,12,9,12,13,9,13,12,18,10,15,15,average
+E02002927,Herefordshire 023,"Penyard, Llangarron & Goodrich",12,8,12,13,10,10,12,11,13,13,14,12,12,8,average

@@ -1,0 +1,11 @@
+source,target,value,value2
+Apprenticeship,In a full-time job*,1.1,1.1
+Apprenticeship,In an apprenticeship or similar type of training,1.1,1.1
+Apprenticeship,Looking for work or unemployed,0,<1
+Apprenticeship,Taking a break from study or work,0,<1
+Full time education (school/college),Doing something else,1.1,1.1
+Full time education (school/college),In a full-time job*,10.8,10.8
+Full time education (school/college),In an apprenticeship or similar type of training,15.4,15.4
+Full time education (school/college),Looking for work or unemployed,7.3,7.3
+Full time education (school/college),Studying full-time*,55.5,55.5
+Full time education (school/college),Taking a break from study or work,4.9,4.9

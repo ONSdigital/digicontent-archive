@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>Postcode interactive to see excess deaths in your neighbourhood in the pandemic</title>
+<head>
+  <!-- What is this line doing? It retrives the open sans font family with weights 400 and 700? -->
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+
+  <!-- What is this doing? Is it actually necessary? -->
+  <!-- <meta name="description" content="ONS chart">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />-->
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+  <!-- Import css -->
+  <link rel="stylesheet" href="../lib/globalStyle.css" />
+  <link href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css' rel='stylesheet' />
+  <!-- <link rel="stylesheet" href="../lib/bootstrap-grid.css" /> -->
+  <link rel="stylesheet" href="global.css" />
+  <link rel="stylesheet" href="style.css"/>
+
+</head>
+
+<body>
+
+  <!-- In simple static charts, hide the chart from screen readers but provide a written summary in a screenreadertext tag -->
+  <h5 class="visuallyhidden" id="screenreadertext" aria-live="assertive"></h5>
+  <!-- <p>Use your postcode to see the number of excess deaths each month where you live</p> -->
+  <div id='postcodeNav'>
+    <div class="input-group">
+      <label class='visuallyhidden' for="postcodeInput">Type to enter a postcode</label>
+      <input id="postcodeInput" type="text" class="search-control clearable" placeholder="Enter a postcode">
+      <div class="input-group-addon search-group">
+        <button id="submitPost" type="submit" style="background: none;border:0;">
+          <span class="visuallyhidden">Postcode search</span>
+          <span class="glyphicon glyphicon-search"></span>
+        </button>
+      </div>
+    </div>
+    <div id="pcError">
+      <p id=pcErrorText aria-live="assertive"></p>
+    </div>
+  </div>
+  <p id="msoanmhc" aria-hidden="true"></p>
+
+  <div id="graphic" aria-hidden="true">
+    <svg>
+      <g id="legend"></g>
+      <g id="annotations"></g>
+      <g id="chart"></g>
+    </svg>
+  </div>
+  <h6 id="source"></h6>
+
+
+    <script src="https://cdn.ons.gov.uk/vendor/d3/4.2.7/d3.min.js" type="text/javascript"></script>
+    <script src="../lib/modernizr.svg.min.js" type="text/javascript"></script>
+    <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js" type="text/javascript"></script>
+    <script src="../lib/topojson.js" type="text/javascript"></script>
+    <script src="https://cdn.ons.gov.uk/vendor/jquery/2.1.4/jquery.min.js"></script>
+    <script src="config.js" type="text/javascript"></script>
+    <script src="script.js" type="text/javascript"></script>
+    <noscript>
+     <p>Your browser does not support JavaScript. If you're able to please enable Javascript to view the chart.</p>
+    </noscript>
+
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a40b172ddf3da598',t:'MTc5MDM1MDQ0MA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

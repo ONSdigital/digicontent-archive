@@ -1,0 +1,87 @@
+{
+  "essential": {
+    "graphic_data_url": "../../datacharts.csv",
+    "dateFormat": "%Y",
+    "legendStyle": "line",
+
+    "colour_palette": {
+      "one": "#206095"
+    },
+ 
+    "draggable": false,
+    "annotationsChart": [],
+    "wordwrap": [],
+    "annoAlign": [],
+    "annotationBullet": [],
+    "circles": false,
+    "annotationCXCY": [],
+    "annotationColour": [],
+    "yAxisLabel": "",
+    "yAxisBreak": false,
+    "yAxisBreak_sm_md_lg": []
+  },
+
+  
+  "optional": {
+    "margin_sm": [
+      105,
+      50,
+      70,
+      35
+    ],
+    "margin_md": [
+      105,
+      50,
+      70,
+      35
+    ],
+    "margin_lg": [
+      105,
+      50,
+      70,
+      35
+    ],
+
+    "aspectRatio_sm": [
+      10,
+      10
+    ],
+    "aspectRatio_md": [
+      10,
+      10
+    ],
+    "aspectRatio_lg": [
+      10,
+      10
+    ],
+
+    "mobileBreakpoint": 200,
+
+    "xAxisTextFormat_sm_md_lg": [
+      "%Y",
+      "%Y",
+      "%Y"
+    ],
+
+    "x_num_ticks_sm_md_lg": [
+      120,
+      120,
+      124
+    ],
+
+    "y_num_ticks_sm_md_lg": [
+      3,
+      3,
+      3
+    ],
+
+    "lineMarkers": false,
+    "vertical_line": false,
+    "annotateLineX1_Y1_X2_Y2": [],
+    "annotateRect": false,
+    "annotateRectX_Y": [],
+    "lineColor_opcty": [],
+    "centre_line": true,
+    "centre_line_value": 0
+  }
+}

@@ -1,6 +1,0 @@
-{"vars": ["Resident population", "Population density", "Old-age dependency ratio"],
-
- "filenames": ["population.json", "density.json", "oldagedeprat.json"],
-
- "code": ["population", "density", "oldagedeprat"]
-}

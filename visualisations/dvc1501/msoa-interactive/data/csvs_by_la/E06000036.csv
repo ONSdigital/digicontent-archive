@@ -1,0 +1,46 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02003352,Bracknell Forest 001,Winkfield & Cranbourne,0,1,1,0,0,0,0,0,0,0,2,0,0,0,covid
+E02003353,Bracknell Forest 002,Binfield & Popeswood,0,4,3,1,0,0,0,1,1,0,4,0,0,0,covid
+E02003354,Bracknell Forest 003,Wick Hill,1,4,0,0,0,0,0,0,0,0,3,3,1,1,covid
+E02003355,Bracknell Forest 004,Priestwood,0,1,0,1,0,0,0,0,0,0,4,0,0,0,covid
+E02003356,Bracknell Forest 005,Chavey Down & North Ascot West,0,2,2,0,0,0,0,0,0,1,1,0,0,0,covid
+E02003357,Bracknell Forest 006,Bullbrook,0,1,0,0,0,0,0,0,0,1,2,2,0,0,covid
+E02003358,Bracknell Forest 007,Central Bracknell & Wildridings,0,5,0,0,0,0,1,1,1,0,4,2,1,0,covid
+E02003359,Bracknell Forest 008,Crown Wood,0,3,0,0,0,0,0,0,0,0,1,3,0,0,covid
+E02003360,Bracknell Forest 009,Great Hollands,0,2,2,1,0,0,0,1,0,0,3,5,0,0,covid
+E02003361,Bracknell Forest 010,Birch Hill & Hanworth East,2,2,0,1,0,0,0,0,0,1,4,2,0,0,covid
+E02003362,Bracknell Forest 011,Hanworth West,0,3,2,0,0,0,0,0,0,0,3,1,0,0,covid
+E02003363,Bracknell Forest 012,Crowthorne South,0,4,1,1,0,0,0,0,2,1,3,2,1,0,covid
+E02003364,Bracknell Forest 013,Owlsmoor & Broadmoor,0,2,1,1,0,0,0,0,0,1,5,0,2,0,covid
+E02003365,Bracknell Forest 014,Sandhurst,0,5,0,0,0,0,0,0,2,1,5,5,0,0,covid
+E02003366,Bracknell Forest 015,College Town,0,1,1,1,0,0,0,0,1,0,2,0,0,0,covid
+E02003352,Bracknell Forest 001,Winkfield & Cranbourne,10,3,5,5,4,0,8,3,6,4,5,2,9,1,noncovid
+E02003353,Bracknell Forest 002,Binfield & Popeswood,5,13,5,7,2,1,4,11,2,2,3,7,3,5,noncovid
+E02003354,Bracknell Forest 003,Wick Hill,5,5,2,5,5,4,4,5,2,6,6,6,6,2,noncovid
+E02003355,Bracknell Forest 004,Priestwood,5,4,4,4,5,1,6,2,1,2,6,4,5,4,noncovid
+E02003356,Bracknell Forest 005,Chavey Down & North Ascot West,1,6,8,4,3,2,5,1,4,5,6,0,6,1,noncovid
+E02003357,Bracknell Forest 006,Bullbrook,5,7,6,4,3,5,6,3,7,7,9,8,6,2,noncovid
+E02003358,Bracknell Forest 007,Central Bracknell & Wildridings,4,8,5,5,4,8,4,7,9,13,5,3,9,1,noncovid
+E02003359,Bracknell Forest 008,Crown Wood,2,4,2,0,1,0,1,4,6,1,2,3,2,2,noncovid
+E02003360,Bracknell Forest 009,Great Hollands,4,8,4,3,4,4,5,5,5,5,6,10,5,1,noncovid
+E02003361,Bracknell Forest 010,Birch Hill & Hanworth East,2,5,2,6,3,2,5,2,1,2,8,4,5,4,noncovid
+E02003362,Bracknell Forest 011,Hanworth West,3,2,2,0,5,1,4,2,3,7,4,3,2,2,noncovid
+E02003363,Bracknell Forest 012,Crowthorne South,2,9,6,3,3,4,7,5,4,9,4,3,5,4,noncovid
+E02003364,Bracknell Forest 013,Owlsmoor & Broadmoor,1,2,2,2,4,2,1,2,2,2,3,5,1,2,noncovid
+E02003365,Bracknell Forest 014,Sandhurst,8,5,5,1,3,2,6,3,7,6,3,2,3,6,noncovid
+E02003366,Bracknell Forest 015,College Town,5,3,8,2,3,6,1,3,3,5,4,2,1,1,noncovid
+E02003352,Bracknell Forest 001,Winkfield & Cranbourne,4,3,3,5,3,3,3,5,3,4,6,4,4,3,average
+E02003353,Bracknell Forest 002,Binfield & Popeswood,7,5,6,4,4,5,4,4,5,5,4,3,7,5,average
+E02003354,Bracknell Forest 003,Wick Hill,3,5,4,3,3,4,5,5,3,4,6,5,3,5,average
+E02003355,Bracknell Forest 004,Priestwood,4,3,4,2,2,3,4,4,4,4,5,3,4,3,average
+E02003356,Bracknell Forest 005,Chavey Down & North Ascot West,6,4,5,5,4,4,5,5,5,5,8,7,6,4,average
+E02003357,Bracknell Forest 006,Bullbrook,5,5,4,5,3,5,6,6,4,5,6,7,5,5,average
+E02003358,Bracknell Forest 007,Central Bracknell & Wildridings,7,5,5,7,6,5,6,5,5,5,8,3,7,5,average
+E02003359,Bracknell Forest 008,Crown Wood,2,4,1,2,2,1,3,3,1,2,1,2,2,4,average
+E02003360,Bracknell Forest 009,Great Hollands,4,4,6,3,3,3,4,4,4,5,4,4,4,4,average
+E02003361,Bracknell Forest 010,Birch Hill & Hanworth East,5,2,5,4,4,3,3,5,2,4,4,3,5,2,average
+E02003362,Bracknell Forest 011,Hanworth West,4,3,2,3,2,3,2,3,2,2,5,4,4,3,average
+E02003363,Bracknell Forest 012,Crowthorne South,6,5,6,6,4,5,4,4,7,5,5,8,6,5,average
+E02003364,Bracknell Forest 013,Owlsmoor & Broadmoor,2,3,2,3,2,2,2,3,2,2,3,4,2,3,average
+E02003365,Bracknell Forest 014,Sandhurst,5,6,4,4,5,6,4,3,4,3,7,7,5,6,average
+E02003366,Bracknell Forest 015,College Town,4,3,2,3,2,2,3,3,5,2,3,4,4,3,average

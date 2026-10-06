@@ -1,0 +1,61 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+        
+            "dateFormat":"%Y",
+        
+            "legendLabels" : ["Adoptions"],
+        
+            "sourceText":["Adoptions in England and Wales, 2012, ONS"],
+            "sourceURL":["http://www.ons.gov.uk/ons/rel/vsob1/adoptions-in-england-and-wales/2012/stb-adoptions-in-england-and-wales--2012-.html"],
+        
+            "annotationChart": [
+                "WW2",
+                "Children  Regulation  Act introduced"
+            ],
+            "annotationBullet": [
+                "World War II: 1939 - 1945",
+                "Children  Regulation Act introduced 1943"
+            ],
+            "annotationXY":[
+                ["1942","24000"],
+                ["1950", "10500"]
+            ],
+            "annotationAlign":[
+                "middle",
+                "middle"
+            ],
+           
+           "circles" : true,    
+            "annotationCXCY":[
+                ["1900","0000"],
+                ["1943","11565"]
+            ],
+        
+           
+            "yAxisLabel":"",
+            "yAxisScale":[0,25000],   
+            "yAxisBreak": true,
+            "yAxisBreak_sm_md_lg": [58,58,58]            
+    },
+    "optional" : {
+            "margin_sm": [5, 20, 5, 50],
+            "margin_md": [5, 20, 5, 50],
+            "margin_lg": [5, 20, 5, 50],
+        
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+        
+            "mobileBreakpoint" : 610, 
+            
+            "xAxisTextFormat_sm_md_lg" : ["%y", "%Y", "%Y"], 
+                
+            "x_num_ticks_sm_md_lg" : [7,17,17],    
+            "y_num_ticks_sm_md_lg" : [5,5,10],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}
+
+

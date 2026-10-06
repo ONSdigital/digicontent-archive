@@ -1,0 +1,64 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "legendLabels": ["March 2021","June 2021"],
+    "colour_palette": ["#206095", "#27A0CC"],
+    "sourceText": ["Office for National Statistics"],
+    "annotationChart": [
+
+    ],
+    "annotationBullet": [],
+    "annotationXY": [
+
+    ],
+    "annotationAlign": [
+
+    ],
+    "minmaxonly": true,
+    "arrows": "end",
+    "tooltip": false,
+    "xAxisLabel": "",
+    "yAxisLabel": "",
+    "xAxisScale": [0,16],
+    "dotsize": 8
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 0,
+        "right": 10,
+        "bottom": 5,
+        "left": 188
+      },
+      "md": {
+        "top": 0,
+        "right": 10,
+        "bottom": 5,
+        "left": 200
+      },
+      "lg": {
+        "top": 0,
+        "right": 10,
+        "bottom": 5,
+        "left": 200
+      }
+    },
+
+    "aspectRatio": {
+      "sm": [10,15],
+      "md": [10,6],
+      "lg": [10,6]
+    },
+
+    "mobileBreakpoint": 510,
+    "middleBreakpoint": 600,
+    "x_num_ticks": {
+      "sm": 2,
+      "md": 4,
+      "lg": 4
+    },
+
+    "centre_line": false,
+    "centre_line_value": 0
+  }
+}
