@@ -1,0 +1,174 @@
+{
+  "version": 8,
+	"sprite": "https://bothness.github.io/ons-basemaps/data/sprite",
+  "glyphs": "https://cdn.ons.gov.uk/maptiles/osm/fontsv1/{fontstack}/{range}.pbf",
+  "sources": {
+    "1900s": {
+      "type": "raster",
+      "tiles": [
+        "https://api.maptiler.com/tiles/uk-osgb1888/{z}/{x}/{y}?key=ncUdmgc5zRybmdoXhFDX"
+      ],
+      "tileSize": 256,
+      "attribution": "<a href=\"https://maps.nls.uk/geo/explore/side-by-side/\" target=\"_blank\">National Library of Scotland | &copy; Ordnance Survey</a>"
+    },
+
+		"openmaptiles": {
+      "type": "vector",
+      "tiles": [
+        "https://cdn.ons.gov.uk/maptiles/osm/v2/{z}/{x}/{y}.pbf"
+      ],
+      "buffer": 0,
+      "minzoom": 0,
+      "maxzoom": 14,
+      "attribution": "<a href=\"https://www.openstreetmap.org\" target=\"_blank\">&copy; OpenStreetMap</a>"
+    }
+  },
+  "layers": [
+		{
+      "id": "background",
+      "type": "background",
+      "paint": {"background-color": "rgb(242,243,240)"}
+    },
+    {
+      "id": "boundary_country",
+      "type": "line",
+      "metadata": {
+        "mapbox:group": "a14c9607bc7954ba1df7205bf660433f"
+      },
+      "source": "openmaptiles",
+      "source-layer": "boundary",
+      "filter": [
+        "==",
+        "admin_level",
+        2
+      ],
+      "layout": {
+        "line-cap": "round",
+        "line-join": "round",
+        "visibility": "none"
+      },
+      "paint": {
+        "line-color": "rgb(230, 204, 207)",
+        "line-width": {
+          "base": 1.1,
+          "stops": [
+            [
+              3,
+              1
+            ],
+            [
+              22,
+              20
+            ]
+          ]
+        },
+        "line-blur": {
+          "base": 1,
+          "stops": [
+            [
+              0,
+              0.4
+            ],
+            [
+              22,
+              4
+            ]
+          ]
+        },
+        "line-opacity": 1
+      }
+    },
+    {
+      "id": "1900s",
+      "type": "raster",
+      "source": "1900s",
+      "paint": {
+        "raster-saturation": -1,
+				"raster-contrast": 0.6
+      }
+    },
+
+    {
+      "id": "place_city",
+      "type": "symbol",
+      "source": "openmaptiles",
+      "source-layer": "place",
+      "maxzoom": 8,
+      "filter": [
+        "all",
+        ["==", "$type", "Point"],
+        ["all", ["!=", "capital", 2], ["==", "class", "city"], [">", "rank", 3]]
+      ],
+      "layout": {
+        "text-size": 10,
+        "text-font": ["Noto Sans Regular"],
+        "text-justify": "left",
+        "visibility": "visible",
+        "text-anchor": {"base": 1, "stops": [[0, "left"], [8, "center"]]},
+        "text-field": "{name:latin}\n{name:nonlatin}"
+      },
+      "paint": {
+        "text-color": "rgb(255,255,255)",
+        "text-halo-color": "rgb(255,255,255)",
+        "text-halo-width": 1,
+        "text-halo-blur": 1
+      }
+    },
+    {
+      "id": "place_city_large",
+      "type": "symbol",
+      "source": "openmaptiles",
+      "source-layer": "place",
+      "maxzoom": 8,
+      "filter": [
+        "all",
+        ["==", "$type", "Point"],
+        [
+          "all",
+          ["!=", "capital", 2],
+          ["<=", "rank", 3],
+          ["==", "class", "city"]
+        ]
+      ],
+      "layout": {
+        "text-size": 14,
+        "text-font": ["Noto Sans Regular"],
+        "text-justify": "left",
+        "visibility": "visible",
+        "text-field": "{name:latin}\n{name:nonlatin}"
+      },
+      "paint": {
+        "text-color": "rgb(255,255,255)",
+        "text-halo-color": "rgb(255,255,255)",
+        "text-halo-width": 1,
+        "text-halo-blur": 1
+      }
+    },
+    {
+      "id": "place_capital",
+      "type": "symbol",
+      "source": "openmaptiles",
+      "source-layer": "place",
+      "maxzoom": 8,
+      "filter": [
+        "all",
+        ["==", "$type", "Point"],
+        ["all", ["==", "capital", 2], ["==", "class", "city"]]
+      ],
+      "layout": {
+        "text-size": 14,
+        "text-font": ["Noto Sans Regular"],
+        "text-justify": "left",
+        "visibility": "visible",
+        "text-offset": [0.5, 0.2],
+        "text-field": "{name:latin}\n{name:nonlatin}"
+      },
+      "paint": {
+        "text-color": "rgb(255,255,255)",
+        "text-halo-color": "rgb(255,255,255)",
+        "text-halo-width": 1,
+        "text-halo-blur": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{"ons":{
+"maptitle": "Gender imbalance",
+"varcolour":["#7a0177", "#c25496", "#f1a5b8", "#ffffe0", "#b5d298", "#6ba654", "#017a04"],
+"varunit": "% point difference",
+"displayFormat": ".2%",
+"legendFormat": ".0%",
+"legenddecimals": 2,
+"breaks": [-0.4,-0.2,-0.1,-0.02,0.02,0.1,0.2,0.4],
+"dropticks": true,
+"numberBreaks": 7,
+"nullColour": "#666",
+"source":"Office for National Statistics"
+}}
