@@ -1,0 +1,19 @@
+source,target,filter,value
+Employed ,Long-term sick,Quarterly average (Q1 2021 to Q2 2022),19.48933117
+Unemployed,Long-term sick,Quarterly average (Q1 2021 to Q2 2022),11.53547992
+Inactive (not long-term sick),Long-term sick,Quarterly average (Q1 2021 to Q2 2022),68.9751889
+Employed ,Long-term sick,Q1 2021 to  Q2 2021,24.05663388
+Unemployed,Long-term sick,Q1 2021 to  Q2 2021,10.53960329
+Inactive (not long-term sick),Long-term sick,Q1 2021 to  Q2 2021,65.40376283
+Employed ,Long-term sick,Q2 2021 to  Q3 2021,15.33675658
+Unemployed,Long-term sick,Q2 2021 to  Q3 2021,12.15079003
+Inactive (not long-term sick),Long-term sick,Q2 2021 to  Q3 2021,72.51245339
+Employed ,Long-term sick,Q3 2021 to Q4 2021,19.95658713
+Unemployed,Long-term sick,Q3 2021 to Q4 2021,12.15004852
+Inactive (not long-term sick),Long-term sick,Q3 2021 to Q4 2021,67.89336435
+Employed ,Long-term sick,Q4 2021 to Q1 2022,20.51964099
+Unemployed,Long-term sick,Q4 2021 to Q1 2022,12.77879792
+Inactive (not long-term sick),Long-term sick,Q4 2021 to Q1 2022,66.7015611
+Employed ,Long-term sick,Q1 2022 to Q2 2022,17.26789671
+Unemployed,Long-term sick,Q1 2022 to Q2 2022,10.53665614
+Inactive (not long-term sick),Long-term sick,Q1 2022 to Q2 2022,72.19544715

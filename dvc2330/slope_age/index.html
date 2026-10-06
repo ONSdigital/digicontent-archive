@@ -1,0 +1,837 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+  <title>Change in long-term sickness by age dvc2330</title>
+
+  <meta name="description" content="">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+  <link rel="stylesheet" href="../lib/globalStyle.css" />
+  <style type="text/css">
+    body {
+      color: #323132;
+      /* max-width:944px; */
+    }
+
+    .x.axis path {
+      display: none;
+    }
+
+    path {
+      fill: none;
+    }
+
+    text {
+      font-family: 'Open Sans'
+    }
+
+    text.x,
+    text.y {
+      font-size: 12px;
+      fill: #666;
+    }
+
+    line.y,
+    line.x {
+      stroke: #ccc;
+      stroke-width: 1px;
+      shape-rendering: crispEdges;
+    }
+
+    #legend {
+      font-size: 12px;
+    }
+
+    h4 {
+      font-size: 16px;
+      line-height: 24px;
+      margin: 16px 0 16px 0;
+      padding: 24px 0 0 0;
+      font-weight: bold;
+    }
+
+    h5 {
+      font-size: 14px;
+      margin: 0 0 16px 0;
+      font-weight: normal;
+      padding-top: 0;
+    }
+
+    h5,h6 {
+      font-size: 16px;
+      margin: 16px 0 8px 0;
+      font-weight: 700;
+      color: #323132;
+    }
+
+    ul, ol {
+      margin: 16px 0;
+      padding-left: 32px;
+    }
+
+    li {
+        margin: 0 0 8px 0;
+        line-height: 32px;
+        font-weight: 400;
+        font-size: 18px;
+        padding: 0;
+    }
+
+    @media (max-width:767px){
+        li{
+          font-size:16px;
+        }
+    }
+
+  	/* .line2019, .line2020 {
+  		stroke-dasharray: 5 8 !important;
+  		stroke-linecap: round !important;
+  		stroke-width: 2px !important;
+  	} */
+
+    a {
+        text-decoration: underline;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 32px;
+    }
+
+    .btn {
+        font-family: "Open Sans",Helvetica,Arial,sans-serif;
+        display: inline-block;
+        width: auto;
+        cursor: pointer;
+        padding: 6px 16px 10px 16px;
+        border: 0 none;
+        text-align: center;
+        -webkit-appearance: none;
+        transition: background-color 0.25s ease-out;
+    }
+
+    .btn--primary:focus {
+    background-color: #0b5d30;
+    }
+
+    .btn--primary {
+    background-color: #0F8243;
+    color: #fff;
+    }
+
+    .visuallyhidden {
+      position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden;
+      clip: rect(0,0,0,0);  border: 0;
+    }
+
+  </style>
+
+</head>
+
+<body>
+  <h5 class="visuallyhidden">Those aged 25 to 34 years saw the largest relative increase in long-term sickness between 2019 and 2022 </h5>
+
+  <div id="legend" aria-hidden="true"></div>
+  <div id="graphic" aria-hidden="true" style="position:relative;">
+    <img src="fallback.png" alt="[Chart]" />
+  </div>
+
+  <h6 id="source"></h6>
+
+  <script src="https://cdn.ons.gov.uk/vendor/d3/4.13.0/d3.min.js" type="text/javascript"></script>
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-annotation/2.1.0/d3-annotation.js" type="text/javascript"></script> -->
+  <script src="../lib/modernizr.svg.min.js" type="text/javascript"></script>
+  <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js" type="text/javascript"></script>
+  <script src="../lib/d3-annotation.js" type="text/javascript"></script>
+  <!-- <script src="../lib/d3-legend.min.js" type="text/javascript"></script> -->
+  <script>
+    var graphic = d3.select('#graphic');
+    var legend = d3.select('#legend');
+    var pymChild = null;
+
+    function drawGraphic() {
+
+
+      // maxweek=d3.max(graphic_data,function(d){return d.date})
+      // dataFilter = graphic_data.filter(function(d){
+      //   return d.series=="2022"
+      // })
+
+//Caclulate the latest date for 2021 only to place the circle at end of line
+
+      // maxweekCircle = d3.max((graphic_data.filter(function(d){
+      //   return d.series=="2022"
+      // })),function(d){return d.date})
+
+
+      var threshold_md = dvc.optional.middleBreakpoint;
+      var threshold_sm = dvc.optional.mobileBreakpoint;
+
+      if (parseInt(graphic.style("width")) < threshold_sm) {
+        size = "sm";
+      } else if (parseInt(graphic.style("width")) < threshold_md) {
+        size = "md";
+      } else {
+        size = "lg";
+      }
+
+      categorySort = {}
+      if(Array.isArray(dvc.essential.categorySort)){
+        for (i = 0; i < dvc.essential.categorySort.length; i++) {
+          categorySort[dvc.essential.categorySort[i]] = i;
+        }
+
+        graphic_data.sort(function(a, b) {
+          return categorySort[a.category] - categorySort[b.category]
+        })
+
+        categories=Object.keys(categorySort)
+      } else if(dvc.essential.categorySort=="descending"){
+        //auto sort the array by biggest value
+        graphic_data.filter(function(d){
+          return d.date==maxweek
+        }).sort(function(a,b){return +b.chiffre - (+a.chiffre)}).forEach(function(item, i){
+          categorySort[item.category]=i
+        });
+
+        graphic_data.sort(function(a, b) {
+          return categorySort[a.category] - categorySort[b.category]
+        })
+
+        categories=Object.keys(categorySort)
+      } else if (dvc.essential.categorySort=="ascending"){
+        graphic_data.filter(function(d){
+          return d.date==maxweek
+        }).sort(function(a,b){return +a.chiffre - (+b.chiffre)}).forEach(function(item, i){
+          categorySort[item.category]=i
+        });
+
+        graphic_data.sort(function(a, b) {
+          return categorySort[a.category] - categorySort[b.category]
+        })
+
+        categories=Object.keys(categorySort)
+
+      }
+
+      var margin = dvc.optional.margin[size]
+      var chart_width = parseInt(graphic.style("width")) / dvc.optional.chart_every[size] - margin.left - margin.right;
+      var height = Math.ceil((chart_width * dvc.optional.aspectRatio[size][1]) / dvc.optional.aspectRatio[size][0]);
+
+      // clear out existing graphics
+      graphic.selectAll("*").remove();
+      legend.selectAll("*").remove();
+
+      //draw legend
+      // legend.append('svg').attr("height", dvc.optional.legendHeight[size]).attr("width", dvc.optional.chart_every[size] * (chart_width + margin.left + margin.right)).append('g')
+      //   .attr('transform', 'translate(5,5)')
+
+      // createLegend();
+
+      function createLegend() {
+
+        var prevX = 0;
+        var prevY = 0;
+        lineNo = 0;
+        var lineNoOld = 0;
+
+        dvc.essential.colour_palette.map(function(d) {
+          return d.key
+        }).forEach(function(d, i) {
+
+          // draw legend text based on content of var legendLabels ...
+          var_group = d3.select("#legend").select('svg').append("g")
+
+          var_group.append("rect")
+            .attr("class", "rect" + i)
+            .attr("fill", dvc.essential.colour_palette[i].colour)
+            .attr("x", 0)
+            .attr("y", 0)
+            .attr("width", 20)
+            .attr("height", 3)
+
+          var_group.append("text")
+            .text(dvc.essential.colour_palette[i].key)
+            .attr("class", "legend" + i)
+            .attr("text-anchor", "start")
+            .style("font-size", "12px")
+            .style("fill", "#666")
+            .attr('y', 15)
+            .attr('x', 0);
+
+
+          d3.selectAll(".legend" + (i))
+            .each(calcPosition);
+
+          function calcPosition() {
+
+
+            var BBox = this.getBBox()
+
+
+            //prevY =BBox.width
+            d3.select(".legend" + (i))
+              .attr("y", function(d) {
+                if ((prevX + BBox.width + 50) > parseInt(graphic.style("width"))) {
+                  lineNoOld = lineNo;
+                  lineNo = lineNo + 1;
+                  prevX = 0;
+                }
+                return eval((lineNo * 20) + 20);
+              })
+              .attr("x", function(d) {
+                return prevX + 25;
+              })
+
+
+            d3.select(".rect" + (i))
+              .attr("y", function(d) {
+
+                if ((prevX + BBox.width + 50) > parseInt(graphic.style("width"))) {
+                  lineNoOld = lineNo;
+                  lineNo = lineNo + 1;
+                  prevX = 0;
+                }
+
+                if (dvc.essential.legendStyle == "rect") {
+                  return eval((lineNo * 20) + 5);
+                } else {
+                  return eval((lineNo * 20) + 12);
+
+                }
+              })
+              .attr("x", function(d) {
+                return prevX;
+              })
+
+            prevX = prevX + BBox.width + 50
+
+
+
+          }; // end function calcPosition()
+        }); // end foreach
+      } // end function createLegend()
+
+      x = d3.scaleTime()
+        .range([0, chart_width]);
+
+      x.domain(d3.extent(graphic_data, function(d) {
+        return d.date
+      }))
+
+      dates=d3.map(graphic_data,function(d){return d.date}).keys()
+
+      var xAxis = d3.axisBottom(x)
+        .tickValues(graphic_data.map(function(d){return d.date}).filter(function(d, i) {
+          return i === 0&&i<graphic_data.length+1-dvc.optional.x_ticks_every[size] || i==graphic_data.length-1 //Rob's fussy comment about labelling the last date
+        }))
+        .tickFormat(d3.timeFormat("Apr to Jun '%y"))
+        // .tickSize(-height)
+
+      line = d3.line()
+      // .defined(function(d) {
+      //   return d.obs != 0  ;
+      // })
+        .x(function(d) {
+          return x(d.date)
+        })
+        .y(function(d) {
+          return y[d.category](d.chiffre)
+        })
+
+
+      nested = d3.nest()
+        .key(function(d) {
+          return d.category
+        })
+        .key(function(d) {
+          return d.series
+        })
+        .sortValues(function(a,b) { return a.date - b.date; } )
+        .entries(graphic_data)
+
+      //x domain calculations	: zero to intelligent max choice, or intelligent min and max choice,  or interval chosen manually
+      y = {}
+
+
+      if (dvc.essential.yAxisScale == "auto_zero_max_total") {
+        var yDomain = [0, d3.max(graphic_data, function(d) {
+          return +d.chiffre
+        })];
+        nested.forEach(function(item, i) {
+          y[item.key] = d3.scaleLinear()
+            .range([height, 0])
+            .domain(yDomain)
+            .nice();
+        });
+      } else if (dvc.essential.yAxisScale == "auto_min_max_total") {
+        var yDomain = d3.extent(graphic_data, function(d) {
+          return +d.chiffre
+        });
+        nested.forEach(function(item, i) {
+          y[item.key] = d3.scaleLinear()
+            .range([height, 0])
+            .domain(yDomain)
+            .nice();
+        });
+      } else if (dvc.essential.yAxisScale == "auto_min_max_each") {
+        rolledup = d3.nest()
+          .key(function(d) {
+            return d.category
+          })
+          .rollup(function(v) {
+            return [d3.min(v, function(d) {
+              return +d.chiffre
+            }), d3.max(v, function(d) {
+              return +d.chiffre
+            })]
+          })
+          .entries(graphic_data)
+
+        rolledup.forEach(function(item, i) {
+          y[item.key] = d3.scaleLinear()
+            .range([height, 0])
+            .domain(item.value)
+            .nice();
+        });
+
+      } else if (dvc.essential.yAxisScale == "auto_zero_max_each") {
+        rolledup = d3.nest()
+          .key(function(d) {
+            return d.category
+          })
+          .rollup(function(v) {
+            return [0, d3.max(v, function(d) {
+              return +d.chiffre
+            })]
+          })
+          .entries(graphic_data)
+
+        rolledup.forEach(function(item, i) {
+          y[item.key] = d3.scaleLinear()
+            .range([height, 0])
+            .domain(item.value)
+            .nice();
+        });
+
+      }
+
+
+
+
+      // sort these hardwired numbers maybe through the dimensions above
+      charts = d3.select('#graphic')
+        .selectAll('svg')
+        .data(nested)
+        .enter()
+        .append('svg')
+        .attr("class", function(d,i) {return 'svg' + i;})
+        .attr("width", chart_width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+
+
+    	d3.selectAll('#headertext').call(wrap,chart_width);
+
+      svg = charts
+        .append("g")
+        .attr("transform",function(d, i){
+          // console.log(i % dvc.optional.chart_every[size])
+          // if(i % dvc.optional.chart_every[size] == 0){
+            return "translate(" + margin.left + "," + margin.top + ")"
+          // } else{
+          //     return "translate(" + margin.left/2 + "," + margin.top + ")"
+          // }
+        })
+
+      svg
+        .append('g')
+        .attr('class', 'x axis')
+        .attr("transform", "translate(0," + height + ")")
+        .call(xAxis)
+        .each(function(d, i) {
+          if (i % dvc.optional.chart_every[size] == dvc.optional.chart_every[size] - 1||i==nested.length-1) {
+            d3.select(this).append("text")
+              .text(dvc.essential.xAxisLabel)
+              .attr("transform", "translate(" + chart_width + "," + (margin.bottom - 5) + ")")
+              .attr('text-anchor', 'end')
+              .attr('fill', "#666");
+          }
+
+        })
+
+      //create svg for chart
+
+      svg.selectAll("g.line")
+      .data(function(d){return d.values})
+      .enter()
+      .append('circle')
+      .attr('cx',function(d,i){return x(d.values[0].date)})
+      .attr('cy',function(d,i){
+        return y[d.values[0].category](+d.values[0].chiffre)})
+      .attr('r',4)
+      .attr("fill", function(d) {
+        if (+d.values[0].chiffre != NaN)
+        {return dvc.essential.colour_palette.filter(function(e) {
+          return e.key == d.key
+        })[0].colour}
+        else
+          {return "white"}
+      })
+      // .attr("opacity",function(d){
+      //   if(d.key == "Change 2019 - 2022"){
+      //     return 1
+      //   }
+      //   else{
+      //     return 0
+      //   }
+      // })
+      .attr('class','circle21');
+
+      svg.selectAll("g.line")
+      .data(function(d){return d.values})
+      .enter()
+      .append('circle')
+      .attr('cx',function(d,i){
+        return x(d.values[3].date)
+      })
+      .attr('cy',function(d,i){
+        return y[d.values[3].category](+d.values[3].chiffre)})
+      .attr('r',4)
+      .attr("fill", function(d) {
+        return dvc.essential.colour_palette.filter(function(e) {
+          return e.key == d.key
+        })[0].colour
+      })
+      // .attr("opacity",function(d){
+      //   if(d.key == "Change 2019 - 2022"){
+      //     return 1
+      //   }
+      //   else{
+      //     return 0
+      //   }
+      // })
+      .attr('class','circle22');
+
+
+      drawyaxis = svg
+        .append('g')
+        .attr('class', 'y axis')
+
+      drawyaxis.each(function(d, i) {
+        if (i % dvc.optional.chart_every[size] == 0) {
+          d3.select(this).call(d3.axisLeft(y[d.key]).tickSize(-chart_width).ticks(6).tickPadding(10));
+          d3.select(this).append("text")
+            .text(dvc.essential.yAxisLabel)
+            .attr("transform", "translate(-20,-20)")
+            .attr('text-anchor', 'start')
+            .attr('fill', "#666");
+        } else {
+          d3.select(this).call(d3.axisLeft(y[d.key]).tickSize(-chart_width).tickFormat("").ticks(6))
+
+        }
+
+
+      })
+
+      charts
+      .append('text')
+      .attr("x", margin.left+(chart_width/2))
+      .attr("y",function(d){
+        if (d.key != "Aged 50-64"){
+          return y[d.key](+d.values[0].values[1].chiffre)+margin.top-20
+        }
+        else{
+          return y[d.key](+d.values[0].values[1].chiffre)+margin.top+40
+        }
+      })
+      // .attr("y", height+margin.top+40)
+      .text(function(d) {
+        return d.key
+      })
+      .attr('text-anchor','middle')
+      .attr('font-weight', 700)
+      .attr('font-size', "14px")
+      .style('fill',function(d){
+        return dvc.essential.colour_palette_text.filter(function(e) {
+          return e.key == d.key
+        })[0].colour
+      })
+      // .call(wrap,chart_width)
+
+      d3.selectAll(".tick text")
+        .call(wrap2,50)
+
+      svg
+        .selectAll('g.line')
+        .data(function(d) {
+          return d.values;
+        })
+        .enter()
+        .append('path')
+        .attr("d", function(d) {
+          // console.log(d)
+          return line(d.values)
+        })
+        .attr("class",function(d){return "line"+d.key.replace(/\s/g, '')})
+        .attr("stroke", function(d) {
+          return dvc.essential.colour_palette.filter(function(e) {
+            return e.key == d.key
+          })[0].colour
+        })
+        .attr('stroke-width', "3px")
+
+        svg
+          .selectAll('g.line')
+          .data(function(d) {
+            return d.values;
+          })
+          .enter()
+          .append('text')
+          .text(function(d){
+            // if(d.key == "Change 2019 - 2022"){
+              if(d3.format(",.0f")((d.values[3].chiffre/d.values[0].chiffre-1)*100) > 0){
+                return "▲"+d3.format(",.0f")(((d.values[3].chiffre-d.values[0].chiffre)/d.values[0].chiffre)*100)+"%"
+              }
+              else if(d3.format(",.0f")((d.values[3].chiffre/d.values[0].chiffre-1)*100) < 0){
+                return "▼"+d3.format(",.0f")((d.values[3].chiffre/d.values[0].chiffre-1)*100)+"%"
+              }
+              else{
+                return d3.format(",.0f")((d.values[3].chiffre/d.values[0].chiffre-1)*100)+"%"
+              }
+            // }
+          })
+          .attr("x",chart_width+5)
+          .attr("y",function(d){
+            return y[d.values[3].category](+d.values[3].chiffre)
+          })
+          .attr("fill",function(d){
+            return dvc.essential.colour_palette_text.filter(function(e) {
+              return e.key == d.key
+            })[0].colour
+          })
+
+
+        //
+        // svg.selectAll("g.line")
+        // .data(function(d){return d.values})
+        // .enter()
+        // .append('circle')
+        // .attr('cx',function(d){return x(d.values[1].date)})
+        // .attr('cy',function(d){
+        //   return y[d.values[0].category](+d.values[0].chiffre)})
+        // .attr('r',4)
+        // .attr("fill", function(d) {
+        //   return dvc.essential.colour_palette.filter(function(e) {
+        //     return e.key == d.key
+        //   })[1].colour
+        // })
+        // .attr('class','circle22');
+
+
+      //create link to source
+      d3.select('#source')
+        .text('Source: ' + dvc.essential.sourceText);
+
+      // d3.selectAll(".line2020").raise()
+
+      drawD3Annotations = function() {
+        var annotations = [{
+          type:d3.annotationLabel,
+          note: {
+            label: "No data available for 2021",
+            // bgPadding: 0,
+            wrap: 250,
+            // align: "right"
+          },
+          //can use x, y directly instead of data
+          x:x(d3.timeParse(dvc.essential.dateFormat)("03/01/2021")),// + x.bandwidth()/2,
+          y:y["Using public transport on your own"](100),
+          // className: "show-bg",
+          dx: -75,
+          dy: -10,
+          // disable: "connector"
+          connector:{
+            end:"arrow",
+            type:"curve",
+            points:[[-5,-5],[-15,-10],[-95,5]]
+          },
+          }
+        ]
+
+
+        var makeAnnotations = d3.annotation()
+          // .notePadding(15)
+          .accessors({
+            x: function(d){return x(d3.timeParse(dvc.essential.dateFormat)(d.date))},
+            y: function(d){return y(d.value)},
+            // dx: function(d){console.log(d); return x(d3.timeParse(dvc.essential.dateFormat)("1/10/2020"))-x(d3.timeParse(dvc.essential.dateFormat)(d.dx))}
+          })
+          .annotations(annotations)
+
+          // if (parseInt(graphic.style("width")) > threshold_md) {
+              d3.select("svg.NorthWest")
+                .append("g")
+                .attr("class", "annotation-group")
+                .call(makeAnnotations)
+          // }
+    }
+    // drawD3Annotations()
+
+    function wrap(text, width) {
+      text.each(function() {
+        var text = d3.select(this),
+          words = text.text().split(/\s+/).reverse(),
+          word,
+          line = [],
+          lineNumber = 0,
+          lineHeight = 1.1, // ems
+          y = text.attr("y"),
+          x = text.attr("x"),
+          dy = parseFloat(text.attr("dy")),
+          tspan = text.text(null).append("tspan").attr("x", x).attr("y", y).attr("dy", dy + "em");
+        while (word = words.pop()) {
+          line.push(word);
+          tspan.text(line.join(" "));
+          if (tspan.node().getComputedTextLength() > width) {
+            if (lineNumber == 0) {
+              tspan.attr("dy", -0.2 + "em")
+            } else {
+              tspan.attr("dy", +1.1 + "em")
+            }
+            line.pop();
+            tspan.text(line.join(" "));
+            line = [word];
+            ++lineNumber;
+            tspan = text.append("tspan").attr("x", x).attr("y", y).attr("dy", +2.4 + "em").text(word);
+          }
+        }
+      });
+    }
+
+    function wrap2(text, width) {
+      text.each(function() {
+        var text = d3.select(this),
+          words = text.text().split(/\s+/).reverse(),
+          word,
+          line = [],
+          lineNumber = 0,
+          lineHeight = 1.1, // ems
+          y = text.attr("y"),
+          x = text.attr("x"),
+          dy = parseFloat(text.attr("dy")),
+          tspan = text.text(null).append("tspan").attr("x", x).attr("y", y).attr("dy", dy + "em");
+        while (word = words.pop()) {
+          line.push(word);
+          tspan.text(line.join(" "));
+          if (tspan.node().getComputedTextLength() > width) {
+            if (lineNumber == 0) {
+              tspan.attr("dy", 0.8 + "em")
+            } else {
+              tspan.attr("dy", +1.1 + "em")
+            }
+            line.pop();
+            tspan.text(line.join(" "));
+            line = [word];
+            ++lineNumber;
+            tspan = text.append("tspan").attr("x", 0).attr("y", y).attr("dy", +2 + "em").text(word);
+          }
+        }
+      });
+    }
+
+    // d3.selectAll("g.tick").attr("class",function(d,i) {return "ticky"+i});
+    // d3.selectAll("g.ticky0").style("text-anchor","start")
+    //   d3.selectAll("g.ticky9").style("text-anchor","start")
+    //     d3.selectAll("g.ticky18").style("text-anchor","start")
+    //       d3.selectAll("g.ticky27").style("text-anchor","start")
+    //
+    //       d3.selectAll("g.ticky1").style("text-anchor","end")
+    //         d3.selectAll("g.ticky10").style("text-anchor","end")
+    //           d3.selectAll("g.ticky19").style("text-anchor","end")
+    //             d3.selectAll("g.ticky28").style("text-anchor","end")
+
+                  // d3.selectAll("svg.svg3").selectAll('circle.circle21').attr('fill','white')
+
+//Append annotation to 4th chart
+
+
+                    // d3.select("svg.svg3").append("text")
+                    // .text("No data available")
+                    // .attr("transform", "translate(20,170)")
+                    // .attr('text-anchor', 'start')
+                    // .attr('fill', "#666")
+                    // .style('font-size', '12px');
+                    //
+                    // d3.select("svg.svg3").append("text")
+                    // .text("for 2021")
+                    // .attr("transform", "translate(20,185)")
+                    // .attr('text-anchor', 'start')
+                    // .attr('fill', "#666")
+                    // .style('font-size', '12px');
+                    //
+                    // d3.select("svg.svg1").append("text")
+                    // .text("A smaller proportion")
+                    // .attr("transform", "translate(140,85)")
+                    // .attr('text-anchor', 'end')
+                    // .attr('fill', "#666")
+                    // .style('font-size', '12px');
+                    //
+                    // d3.select("svg.svg1").append("text")
+                    // .text("felt 'very or fairly")
+                    // .attr("transform", "translate(140,100)")
+                    // .attr('text-anchor', 'end')
+                    // .attr('fill', "#666")
+                    // .style('font-size', '12px');
+                    //
+                    // d3.select("svg.svg1").append("text")
+                    // .text(" unsafe' in 2022")
+                    // .attr("transform", "translate(140,115)")
+                    // .attr('text-anchor', 'end')
+                    // .attr('fill', "#666")
+                    // .style('font-size', '12px');
+
+
+      //use pym to calculate chart dimensions
+      if (pymChild) {
+        pymChild.sendHeight();
+      }
+      setInterval(function(){
+  			pymChild.sendHeight();
+  		},1000);
+    }
+
+
+    //check whether browser can cope with svg
+    if (Modernizr.svg) {
+      //load config
+      d3.json("config.json", function(error, config) {
+        dvc = config;
+
+        //load chart data
+        d3.csv(dvc.essential.graphic_data_url, function(error, data) {
+          graphic_data = data;
+
+          graphic_data.forEach(function(d){
+            d.date=d3.timeParse(dvc.essential.dateFormat)(d.date)
+          })
+          //use pym to create iframed chart dependent on specified variables
+          pymChild = new pym.Child({
+            renderCallback: drawGraphic
+          });
+        });
+
+      })
+
+    } else {
+      //use pym to create iframe containing fallback image (which is set as default)
+      pymChild = new pym.Child();
+      if (pymChild) {
+        pymChild.sendHeight();
+      }
+    }
+  </script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a40b51ac3f7ed857',t:'MTc5MDM1MjgzNg=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+
+</html>

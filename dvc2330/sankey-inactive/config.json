@@ -1,0 +1,26 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+            "colour_palette": ["#206095", "#27A0CC", "#003C57", "#118C7B", "#871A5B", "#F66068", "#A8BD3A", "#746CB1", "#22D0B6"],
+            "source_label":"2001",
+            "target_label":"2012",
+            "unit_preffix": "",
+            "unit_suffix": "%",
+            "format": ",.0f",
+            "load_filter": "Quarterly average (Q1 2021 to Q2 2022)",
+            "alt_text": "Of those whose reason for economic inactivity changed to long-term sickness, looking after the family or home was the most common prior reason ",
+            "source":"Office for National Statistics – Labour Force Survey 2Q Longitudinal"
+    },
+    "optional" : {
+            "margin_sm": [0, 10, 10, 10],
+            "margin_md": [0, 60, 10, 100],
+            "margin_lg": [0, 100, 10, 100],
+
+            "aspectRatio_sm" : [7,10],
+            "aspectRatio_md" : [7,7],
+            "aspectRatio_lg" : [7,7],
+
+            "mobileBreakpoint" : 440,
+            "middleBreakpoint": 600
+    }
+}
