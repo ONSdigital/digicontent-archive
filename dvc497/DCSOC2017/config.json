@@ -1,0 +1,48 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+        
+            "dateFormat":"%Y",
+        
+            "legendLabels" : ["Professional","Associate professionals and technical","Managers, directors and senior officials","Administrative and secretarial","Process plant and machine operatives","Caring leisure and other occupations","Skilled trades","Sales and customer service","Elementary"],
+
+           "sourceText":["Annual Survey of Hours and Earnings (ASHE) - Office for National Statistics"],
+            "sourceURL":["https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/annualsurveyofhoursandearnings/2017provisionaland2016revisedresults"],
+        
+            "annotationChart": [],
+            "annotationBullet": [],
+            "annotationXY":[],
+            "annotationAlign":[],
+        
+            "circles" : false,    
+            "annotationCXCY":[],
+        
+            "yAxisLabel":"%",
+            "yAxisScale":[0,70],   
+            "yAxisBreak": false,
+            "yAxisBreak_sm_md_lg": []            
+    },
+    "optional" : {
+            "margin_sm": [20, 230, 20, 30],
+            "margin_md": [20, 230, 20, 30],
+            "margin_lg": [20, 230, 20, 30],
+        
+            "aspectRatio_sm" : [10,30],
+            "aspectRatio_md" : [16,16],
+            "aspectRatio_lg" : [16,17],
+        
+            "mobileBreakpoint" : 610, 
+            
+            "xAxisTextFormat_sm_md_lg" : ["%y", "%Y", "%Y"],
+        
+            "xAxisSmValues" : [ 2007, 2012, 2017],
+            "xAxisMdValues" : [2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014,2015,2016,2017],
+                
+            "x_num_ticks_sm_md_lg" : [5,10,10],    
+            "y_num_ticks_sm_md_lg" : [3,7,7],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}
+
+
