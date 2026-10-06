@@ -1,0 +1,75 @@
+﻿indexind,chiffre,icon,dom,sub
+Health Index,100.0951,null,Health,
+Healthy People,95.4405,healthy-people-icon.png,Healthy People,
+Difficulties in daily life,101.5440,null,Subheading,
+Disability,94.5785,null,Healthy People,Daily life
+Frailty,107.9420,null,Healthy People,Daily life
+Mental health,97.4817,null,Subheading,
+"Children's social, emotional and mental health",93.1004,null,Healthy People,Mental health
+Mental health conditions,96.4254,null,Healthy People,Mental health
+Self-harm,101.7780,null,Healthy People,Mental health
+Suicides,99.0621,null,Healthy People,Mental health
+Mortality,98.1704,null,Subheading,
+Avoidable mortality,99.4258,null,Healthy People,Mortality
+Infant mortality,99.9725,null,Healthy People,Mortality
+Life expectancy,100.0016,null,Healthy People,Mortality
+Mortality from all causes,94.4907,null,Healthy People,Mortality
+Personal well-being,87.3578,null,Subheading,
+Activities in life are worthwhile,92.5166,null,Healthy People,Well-being
+Feelings of anxiety,84.9733,null,Healthy People,Well-being
+Happiness,91.7085,null,Healthy People,Well-being
+Life satisfaction,86.8648,null,Healthy People,Well-being
+Physical health conditions,99.9920,null,Subheading,
+Cancer,99.2027,null,Healthy People,Physical
+Cardiovascular conditions,99.3073,null,Healthy People,Physical
+Dementia,99.7741,null,Healthy People,Physical
+Diabetes,100.0904,null,Healthy People,Physical
+Kidney and liver disease,99.6859,null,Healthy People,Physical
+Musculoskeletal conditions,101.1977,null,Healthy People,Physical
+Respiratory conditions,100.1371,null,Healthy People,Physical
+Healthy Lives,101.3660,healthy-lives-icon.png,Healthy Lives,
+Behavioural risk factors,100.7207,null,Subheading,
+Alcohol misuse,99.7440,null,Healthy Lives,Behavioural
+Drug misuse,94.7275,null,Healthy Lives,Behavioural
+Healthy eating,97.3061,null,Healthy Lives,Behavioural
+Physical activity,100.4629,null,Healthy Lives,Behavioural
+Sedentary behaviour,98.5003,null,Healthy Lives,Behavioural
+Smoking,108.5867,null,Healthy Lives,Behavioural
+Sexually transmitted infections,106.4496,null,Healthy Lives,Behavioural
+Children and young people,107.2667,null,Subheading,
+Early years development,111.6005,null,Healthy Lives,Children
+Pupil absences,100.5561,null,Healthy Lives,Children
+Pupil attainment,108.8435,null,Healthy Lives,Children
+Teenage pregnancy,112.8139,null,Healthy Lives,Children
+"Young people in education, employment and apprenticeships",99.6630,null,Healthy Lives,Children
+Physiological risk factors,96.0068,null,Subheading,
+High blood pressure,100.1940,null,Healthy Lives,Physiological
+Low birth weight,98.9820,null,Healthy Lives,Physiological
+Overweight and obesity in adults,97.5402,null,Healthy Lives,Physiological
+Overweight and obesity in children,95.8494,null,Healthy Lives,Physiological
+Protective measures,100.3697,null,Subheading,
+Cancer screening attendance,102.3335,null,Healthy Lives,Protective
+Child vaccination coverage,98.3302,null,Healthy Lives,Protective
+Healthy Places,103.4320,healthy-places-icon.png,Healthy Places,
+Access to green space,99.9185,null,Subheading,
+Private outdoor space,99.9185,null,Healthy Places,Green space
+Access to services,100.0482,null,Subheading,
+Distance to GP services,99.4358,null,Healthy Places,Services
+Distance to pharmacies,100.0017,null,Healthy Places,Services
+Distance to sports or leisure facilities,99.4746,null,Healthy Places,Services
+Internet access,102.9848,null,Healthy Places,Services
+Patients offered acceptable GP practice appointments,96.4728,null,Healthy Places,Services
+Crime,102.4570,null,Subheading,
+Low-level crime,106.8440,null,Healthy Places,Crime
+Personal crime,97.8295,null,Healthy Places,Crime
+Economic and working conditions,100.5165,null,Subheading,
+Child poverty,99.9710,null,Healthy Places,Economic
+Job-related training,96.7684,null,Healthy Places,Economic
+Unemployment,101.0733,null,Healthy Places,Economic
+Workplace safety,103.9555,null,Healthy Places,Economic
+Living conditions,104.8724,null,Subheading,
+Air pollution,114.6405,null,Healthy Places,Conditions
+Household overcrowding,99.9975,null,Healthy Places,Conditions
+Noise complaints,100.8287,null,Healthy Places,Conditions
+Road safety,102.8199,null,Healthy Places,Conditions
+Rough sleeping,103.3163,null,Healthy Places,Conditions

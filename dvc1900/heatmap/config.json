@@ -1,0 +1,37 @@
+{
+    "essential" : {
+            "tableLayout": [17,3],
+            "dateFormat": "%d/%m/%Y",
+			      "dateFormatDisplay": "%d %b %y",
+            "sparkData": true,
+            "sparkDataName":"sparkdata",
+            "subDoms": [0,6,13],
+            "caption":"A summary table of the domain, sub-domains and indicators values that make up the index.",
+            "keyNames": ["Worse health", " ", "Health in 2015", " ", "Better health"],
+            "sourceText":["ONS, Health index"],
+            "sourceURL":["https://www.ons.gov.uk"],
+
+            "xAxisinview":false,
+            "xAxisLabel":"",
+            "yAxisinview":false,
+            "nodes": true,
+            "values": true,
+
+            "margin_centre": [2,2,2]
+    },
+    "optional" : {
+            "margin_sm": [18, 15, 20, 38],
+            "margin_md": [20, 15, 20, 38],
+            "margin_lg": [20, 15, 20, 38],
+
+            "aspectRatio_sm" : [8,8],
+            "aspectRatio_md" : [12,10],
+            "aspectRatio_lg" : [12,10],
+
+            "mobileBreakpoint" : 530,
+
+            "x_num_ticks_sm_md_lg" : [3,6,6],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}

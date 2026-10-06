@@ -1,0 +1,76 @@
+﻿indexind,chiffre,icon,dom,sub
+Health Index,100.0938656,null,Health,
+Healthy People,99.53757594,healthy-people-icon.png,Healthy People,
+Difficulties in daily life,98.55915431,null,Subheading,
+Disability,94.69252282,null,Healthy People,Daily life
+Frailty,102.4257858,null,Healthy People,Daily life
+Mental health,97.88500381,null,Subheading,
+"Children's social, emotional and mental health",95.24899292,null,Healthy People,Mental health
+Mental health conditions,91.95076417,null,Healthy People,Mental health
+Self-harm,100.5125569,null,Healthy People,Mental health
+Suicides,100.1087571,null,Healthy People,Mental health
+Mortality,101.4810951,null,Subheading,
+Avoidable mortality,101.6725755,null,Healthy People,Mortality
+Infant mortality,99.6897399,null,Healthy People,Mortality
+Life expectancy,102.1931766,null,Healthy People,Mortality
+Mortality from all causes,,null,Healthy People,Mortality
+Personal well-being,99.61071424,null,Subheading,
+Activities in life are worthwhile,101.4175432,null,Healthy People,Well-being
+Feelings of anxiety,93.8588413,null,Healthy People,Well-being
+Happiness,100.0960677,null,Healthy People,Well-being
+Life satisfaction,100.6892372,null,Healthy People,Well-being
+Physical health conditions,100.1519123,null,Subheading,
+Cancer,102.1009008,null,Healthy People,Physical
+Cardiovascular conditions,98.9450822,null,Healthy People,Physical
+Dementia,100.2249588,null,Healthy People,Physical
+Diabetes,101.6553198,null,Healthy People,Physical
+Kidney disease,100.4395664,null,Healthy People,Physical
+Musculoskeletal conditions,95.79017008,null,Healthy People,Physical
+Respiratory conditions,101.8335296,null,Healthy People,Physical
+Healthy Lives,101.1204919,healthy-lives-icon.png,Healthy Lives,
+Behavioural risk factors,100.1006137,null,Subheading,
+Alcohol misuse,97.32390821,null,Healthy Lives,Behavioural
+Drug misuse,97.14912479,null,Healthy Lives,Behavioural
+Healthy eating,95.54967589,null,Healthy Lives,Behavioural
+Physical activity,102.2471343,null,Healthy Lives,Behavioural
+Sedentary behaviour,98.60261339,null,Healthy Lives,Behavioural
+Smoking,108.8360465,null,Healthy Lives,Behavioural
+Sexually transmitted infections,,null,Healthy Lives,Behavioural
+Children and young people,105.9898434,null,Subheading,
+Early years development,111.1164574,null,Healthy Lives,Children
+Pupil absences,100.5657499,null,Healthy Lives,Children
+Pupil attainment,108.9249583,null,Healthy Lives,Children
+Teenage pregnancy,107.9383487,null,Healthy Lives,Children
+"Young people in education, employment and apprenticeships",100.6220106,null,Healthy Lives,Children
+Physiological risk factors,98.66853804,null,Subheading,
+High blood pressure,103.0311436,null,Healthy Lives,Physiological
+Low birth weight,,null,Healthy Lives,Physiological
+Overweight and obesity in adults,98.07101076,null,Healthy Lives,Physiological
+Overweight and obesity in children,97.61826749,null,Healthy Lives,Physiological
+Protective measures,99.72297249,null,Subheading,
+Cancer screening attendance,99.65347366,null,Healthy Lives,Protective
+Child vaccination coverage,100.2981456,null,Healthy Lives,Protective
+Healthy Places,99.62352897,healthy-places-icon.png,Healthy Places,
+Access to green space,99.96651882,null,Subheading,
+Private outdoor space,99.93260562,null,Healthy Places,Green space
+Access to services,100.0731569,null,Subheading,
+Private outdoor space,,null,Healthy Places,Services
+Distance to GP services,99.44321997,null,Healthy Places,Services
+Distance to pharmacies,100.0098354,null,Healthy Places,Services
+Distance to sports or leisure facilities,99.47005337,null,Healthy Places,Services
+Internet access,101.5815965,null,Healthy Places,Services
+Patients offered acceptable GP practice appointments,,null,Healthy Places,Services
+Crime,96.04064084,null,Subheading,
+Low-level crime,99.16717638,null,Healthy Places,Crime
+Personal crime,92.91410529,null,Healthy Places,Crime
+Economic and working conditions,101.9374465,null,Subheading,
+Child poverty,99.95773258,null,Healthy Places,Economic
+Job-related training,98.78061588,null,Healthy Places,Economic
+Unemployment,107.8414779,null,Healthy Places,Economic
+Workplace safety,103.9976635,null,Healthy Places,Economic
+Living conditions,100.0998817,null,Subheading,
+Air pollution,98.92652051,null,Healthy Places,Conditions
+Household overcrowding,99.99018211,null,Healthy Places,Conditions
+Noise complaints,100.874502,null,Healthy Places,Conditions
+Road safety,101.1261511,null,Healthy Places,Conditions
+Rough sleeping,98.84659308,null,Healthy Places,Conditions
