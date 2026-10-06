@@ -1,0 +1,58 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+        
+            "colour_palette": ["#008080"],
+        
+            "dateFormat":"%Y",
+        
+       
+            "sourceText":["GDP: chained volume measures: Seasonally adjusted £m, ONS"],
+            "sourceURL":["https://www.ons.gov.uk/economy/grossdomesticproductgdp/timeseries/abmi/ukea"],
+        
+            "annotationChart": [
+                "",
+                ""
+            ],
+            "annotationBullet": [
+                
+               
+            ],
+            "annotationXY":[
+                ["",""],
+                ["",""]
+            ],
+            "annotationAlign":[
+                "middle",
+                "middle"
+            ],
+        
+            "barHeight_sm_md_lg" : [30,45,60],
+        
+        
+            "xAxisLabel":"quarters taken for GDP to reach pre-crisis level",
+            "xAxisScale":[0,25]            
+    },
+    "optional" : {
+            "margin_sm": [5, 60, 5, 105],
+            "margin_md": [15, 60, 5, 105],
+            "margin_lg": [15, 60, 5, 105],
+        
+            "aspectRatio_sm" : [4,7],
+            "aspectRatio_md" : [16,10],
+            "aspectRatio_lg" : [16,10],
+        
+            "mobileBreakpoint" : 510, 
+                           
+            "x_num_ticks_sm_md_lg" : [6,8,10],
+            "vertical_line" : true,
+            "annotateLineX1_Y1_X2_Y2":[ [["2004",225],["2004",0]], [["2007",250],["2007",0]], [["2014",225],["2014",0]] ],
+            "annotateRect" : false,
+            "annotateRectX_Y" : [ [["Jan-94", 200],["Jan-96", 0]], [["Jul-04", 180],["Jul-06", 40]] ],
+            "lineColor_opcty" : [["#888", 0.2], ["#888", 0.4]],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}
+
+
