@@ -1,0 +1,69 @@
+{
+  "essential": {
+    "graphic_data_url": "regions.csv",
+    "dateFormat": "%d/%m/%Y",
+
+    "colour_palette": [{
+      "key": "In employment (aged 16+)",
+      "colour": "#206095"
+    },{
+        "key": "Unemployed (aged 16+)",
+        "colour": "#F66068"
+      },{
+          "key": "Economically inactive (aged 16 to 64)",
+          "colour": "#118C7B"
+      }
+    ],
+
+    "categorySort": ["All industries","Healthcare and social care","Education","Wholesale and retail","Catering and hospitality"],
+    "sourceText": ["Office for National Statistics"],
+    "xAxisLabel": "",
+    "yAxisLabel": "Regions and Countries",
+    "yAxisScale": "seecode"
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 30,
+        "right": 23,
+        "bottom": 45,
+        "left": 40
+      },
+      "md": {
+        "top": 30,
+        "right": 23,
+        "bottom": 50,
+        "left": 40
+      },
+      "lg": {
+        "top": 30,
+        "right": 23,
+        "bottom": 45,
+        "left": 58
+      }
+    },
+    "chart_every":{
+      "sm": 1,
+      "md": 2,
+      "lg": 2
+    },
+    "aspectRatio": {
+      "sm": [16, 9],
+      "md": [16, 9],
+      "lg": [16, 9]
+    },
+    "legendHeight":{
+      "sm": 45,
+      "md": 30,
+      "lg": 30
+    },
+
+    "mobileBreakpoint": 480,
+    "middleBreakpoint": 670,
+    "x_ticks_every": {
+      "sm": 224,
+      "md": 224,
+      "lg": 224
+    }
+  }
+}
