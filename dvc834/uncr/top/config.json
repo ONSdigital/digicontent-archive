@@ -1,0 +1,105 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "dateFormat": "%d/%m/%Y",
+    "colour_palette": ["#003C57","#09a88a", "#234D70", "#7BCAE2"],
+    "legendLabels": ["data1longerlabeltest", "data2longerlabeltest", "data3"],
+    "legendStyle": "rect",
+    "sourceText": ["Office for National Statistics"],
+    "draggable": false,
+    "annotationsChart": [{
+        "xVal": "15/03/2020",
+        "yVal": 84000,
+        "path": "",
+        "text": "PM announcement",
+        "textOffset": [
+          0,
+          0
+        ]
+      },{
+          "xVal": "19/03/2020",
+          "yVal": 164000,
+          "path": "",
+          "text": "Coronavirus Job Retention Scheme",
+          "textOffset": [
+            0,
+            0
+          ]
+        },{
+          "xVal": "24/03/2020",
+          "yVal": 164000,
+          "path": "",
+          "text": "Lockdown begins",
+          "textOffset": [
+            0,
+            0
+          ]
+        },
+        {
+            "xVal": "17/04/2020",
+            "yVal": 164000,
+            "path": "",
+            "text": "Lockdown extended",
+            "textOffset": [
+              0,
+              0
+            ]
+          }
+    ],
+    "wordwrap": [7, 20, 14, 14],
+    "annoAlign": ["end","end", "start", "start"],
+    "annotationBullet": [],
+    "markers": false,
+    "linelabel1": "Individuals",
+    "linelabel2": "Households",
+    "yAxisScale": [0,150000],
+    "ticksEvery":{
+      "sm":14,
+      "md":7,
+      "lg":7
+    }
+  },
+  "optional": {
+    "margin": {
+      "sm":{
+        "top":30,
+        "right":100,
+        "bottom":0,
+        "left":50
+      },
+      "md":{
+        "top":30,
+        "right":100,
+        "bottom":0,
+        "left":50
+      },
+      "lg":{
+        "top":30,
+        "right":100,
+        "bottom":0,
+        "left":50
+      }
+    },
+
+    "aspectRatio": {"sm":[9,4],"md":[11,4],"lg":[12,4]},
+
+    "mobileBreakpoint": 414,
+    "midBreakpoint":600,
+
+    "y_num_ticks": {"sm":3, "md":3, "lg":3},
+    "annotateLineX1_Y1_X2_Y2": [
+      [["16/03/2020", 90000],["16/03/2020", 0]],
+      [["20/03/2020", 180000],["20/03/2020", 0]],
+      [["23/03/2020", 180000],["23/03/2020", 0]],
+      [["16/04/2020", 180000],["16/04/2020", 0]]
+    ],
+    "annotateRect": [{
+      "topLeft":["2004", 900],
+      "bottomRight":["2007", 0],
+      "fill":"#888",
+      "opacity":0
+      }],
+    "centre_line": false,
+    "centre_line_value": 100
+  }
+}
