@@ -1,0 +1,47 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+
+            "dateFormat":"",
+
+            "legendLabels" : ["1997","2017"],
+            "legendStyle": "circle",
+            "colour_palette": [ "#e2bc22" , "#0075A3"],
+
+            "sourceText":["Office for National Statistics – Young adults living with their parents"],
+            "sourceURL":["https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/families/datasets/youngadultslivingwiththeirparents"],
+
+            "annotationChart": [
+                "At 23, less than half are living with their parents"
+            ],
+            "annotationBullet": [],
+            "annotationXY":[
+                ["23","55"]
+            ],
+            "annotationAlign":[
+                "left"
+            ],
+			"minmaxonly":"true",
+			"arrows":"false",
+
+            "xAxisLabel":"Age",
+            "yAxisLabel":"% people living with parents",
+            "xAxisScale":[0,100]
+
+    },
+    "optional" : {
+            "margin_sm": [45, 20, 10, 30],
+            "margin_md": [25, 20, 10, 30],
+            "margin_lg": [25, 20, 10, 30],
+
+            "aspectRatio_sm" : [5,4],
+            "aspectRatio_md" : [2,1],
+            "aspectRatio_lg" : [2,1],
+
+            "mobileBreakpoint" : 590,
+
+            "x_num_ticks_sm_md_lg" : [5,5,5],
+            "centre_line" : true,
+            "centre_line_value" : 50
+    }
+}

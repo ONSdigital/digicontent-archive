@@ -1,0 +1,75 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+
+            "dateFormat":"%Y",
+
+            "legendLabels" : ["16 to 24 years","25 to 34 years"],
+            "legendStyle": "line",
+            "colour_palette": [ "#0075A3" , "#E2BC22" ],
+
+            "sourceText":["ONS calculations from HM land registry and ONS household income figures"],
+            "sourceURL":[""],
+            "draggable": false,
+           "annotationsChart" : [
+             {
+                "xVal": "1990-07-23T00:00:00.000Z",
+                "yVal": 7,
+                "path": "",
+                "text": "Early 1990s recession",
+                "textOffset": [90,0]
+              },
+              {
+                "xVal": "2009-06-23T00:00:00.000Z",
+                "yVal": 7,
+                "path": "",
+                "text": "2008 recession",
+                "textOffset": [45,0]
+              }
+            ],
+
+            "wordwrap":[30,20,10],
+            "annoAlign": ["middle","middle","end"],
+            "annotationBullet" : ["Early 1990s recession","2008 recession"],
+
+            "circles" : true,
+            "annotationCXCY":[
+                ["1988","6.2"],
+                ["2008","6.2"]
+            ],
+
+            "yAxisLabel":"House price to income ratio",
+            "yAxisScale":"auto_zero_max",
+            "yAxisBreak": false,
+            "yAxisBreak_sm_md_lg": [65,65,65]
+    },
+
+    "optional" : {
+            "margin_sm": [50, 15, 25, 30],
+            "margin_md": [50, 15, 25, 30],
+            "margin_lg": [50, 15, 25, 30],
+
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+
+            "mobileBreakpoint" : 610,
+
+            "xAxisTextFormat_sm_md_lg" : ["%y", "%Y", "%Y"],
+
+            "x_num_ticks_sm_md_lg" : [5,12,12],
+            "y_num_ticks_sm_md_lg" : [5,11,11],
+
+            "lineMarkers" : false,
+
+            "vertical_line" : false,
+            "annotateLineX1_Y1_X2_Y2" : [ [["1989", "12"],["1989", "0"]], [["2008", "12"],["2008", "0"]] ],
+
+            "annotateRect" : true,
+            "annotateRectX_Y" : [ [["1990-06", 12],["1991-06", 0]],[["2008-04", 12],["2009-04", 0]]],
+            "lineColor_opcty" : [["#dadada", 0.5], ["#dadada", 0.5]],
+
+            "centre_line" : true,
+            "centre_line_value" : 25
+    }
+}
