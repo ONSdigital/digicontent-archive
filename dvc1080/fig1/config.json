@@ -1,0 +1,103 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "reference": "max",
+    "comparison": "min",
+    "dateFormat": "%d/%m/%Y",
+    "tickFormat": "%b %Y",
+    "legendLabels": ["Overall GDP"],
+    "LegendPosition_x": [-30, -30, -30],
+    "LegendPosition_y":[-70,-50, -30],
+    "colour_palette": ["#fff", "#206095","#F66068","#00A7A3"],
+    "legendStyle": ["line", "rect","rect","line"],
+    "plotLines": [{
+      "key": "Overall GDP",
+      "colour": "#206095",
+
+      "strokewidth":"2px",
+      "strokedasharray": "3 3"
+    },
+    {
+      "key": "latest",
+      "colour": "#206095",
+
+      "strokewidth":"2px",
+      "strokedasharray":"7 7"
+    }
+
+  ],
+    "directLabels": [{
+        "variable": "Overall GDP",
+        "label": "Overall GDP",
+        "colour": "#666"
+      }
+    ],
+    "sourceText": ["Office for National Statistics – GDP monthly estimate"],
+    "circles": false,
+
+    "yAxisLabel": "12-month percentage change in monthly output",
+    "xAxisLabel": "",
+    "yAxisScale": [-100, 60],
+    "yAxisBreak": false,
+    "yAxisBreakValue": {
+      "sm": 11,
+      "md": 11,
+      "lg": 11
+    },
+    "altmeans": [0.54],
+    "altmins": [0.34],
+    "altmaxs": [0.78],
+    "altdates":["18/11/2020"]
+
+
+
+  },
+
+
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 60,
+        "right": 26,
+        "bottom": 50,
+        "left": 30
+      },
+      "md": {
+        "top": 40,
+        "right": 100,
+        "bottom": 50,
+        "left": 30
+      },
+      "lg": {
+        "top": 40,
+        "right": 100,
+        "bottom": 50,
+        "left": 30
+      }
+    },
+
+    "aspectRatio": {
+      "sm": [16, 10],
+      "md": [16, 10],
+      "lg": [16, 10]
+    },
+
+    "mobileBreakpoint": 500,
+    "middleBreakpoint": 650,
+
+    "x_ticks_every": {
+      "sm": 36,
+      "md": 30,
+      "lg": 18
+    },
+    "y_num_ticks": {
+      "sm": 6,
+      "md": 6,
+      "lg": 6
+    },
+
+    "lineMarkers": false
+
+
+  }
+}
