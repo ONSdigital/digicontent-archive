@@ -1,0 +1,54 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+        
+            "dateFormat":"%Y",
+
+            "legendStyle": "rect",
+			
+            "legendLabels":[ "Fuel duty", "Transport taxes on motor vehicles", "Other environmental taxes" ],
+        
+			"sourceText":["Office for National Statistics: Environmental Accounts, 2017"],
+            "sourceURL":["https://www.ons.gov.uk/economy/environmentalaccounts/bulletins/ukenvironmentalaccounts/2017#environmental-taxes"],
+        
+            "annotationChart": [],
+            "annotationBullet": [],
+			
+            "annotationXY":[
+                [0,0],
+                [-50,50]
+            ],
+            "annotationAlign":[
+                "middle",
+                "middle"
+            ],
+
+            "colour_palette":[ 
+                "#1983ac", 
+                "#4ab5dd", 
+                "#cccccc",
+                "rgb(179, 179, 179)",
+                "rgb(224, 224, 224)",
+                "rgb(240, 240, 240)" 
+            ],
+        
+            "circles" : true,    
+            "annotationCXCY":[
+                [0,0],
+                [-50,50]
+            ]          
+    },
+    "optional" : {
+            "margin_sm": [10, 50, 35, 40],
+            "margin_md": [10, 50, 35, 40],
+            "margin_lg": [10, 50, 35, 40],
+        
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+        
+            "mobileBreakpoint" : 610
+    }
+}
+
+
