@@ -1,0 +1,63 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+            "graphic_data_url2": "data2.csv",
+        
+            "dateFormat":"%Y",
+        
+            "legendLabels" : ["1996 part-time employment rate", " 1996 overall employment rate"],
+        
+            "sourceText":["Labour Force Survey Household datasets, ONS"],
+            "sourceURL":["https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/labourforcesurveyuserguidance"],
+            "NMW":[3.6, 3.6, 3.6, 3.6, 3.6, 3.7, 4.1, 4.2, 4.5, 4.85, 5.05, 5.35, 5.52, 5.73, 5.8, 5.93, 6.08, 6.19, 6.31, 6.5, 6.31, 6.5],
+            "fact":[" ",
+               " ",
+			   "Free entitlement to part-time early  education for 4 year olds.  12.5 hours a week for  33 weeks a year",
+			   " ",
+               "Working Families Tax Credit was introduced  in April 1999 running until March 2003.  It was designed to 'top-up' the income  of working families with low earnings.",
+               " ",
+               " ",
+               "Child Tax Credits is introduced as  Working Families Tax Credit  is reformed",
+               "Free entitlement to part-time early  education is extended to  include 3 and 4 year olds.",
+               " ",
+               "Early education entitlement is increased  from 33 weeks a year to 38 weeks",
+               " ",
+               " ",
+               " ",
+                "In 2010 Early education entitlement is  increased to 15 hours a week",
+                "Child tax credits eligibility reduced  for those with a household income  above £40,000",
+                " ",
+                "Universal Credit is gradually rolled out.  It has an element to help  with childcare costs ",
+                 "In September 2013 and 2014 early  education entitlement is expanded to  cover the most disadvantaged  2 year olds",
+                 " ",
+                 " ",
+                 " "
+            ], 
+            "annoX":[ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+            "annoY":[ 85, 85, 85, 85,  85,   85,   85,   85,   85,   85,   85,   85,   85,   85,  85,   85,   85,   85,   85,   85 , 85, 85],
+            "annoAlign":["start","start","start","start","start","start","start","start", "start", "start", "start", "start", "start", "start"],
+            "yearArray":["1996", "1997", "1998", "1999", "2000", "2001",	"2002",	"2003",	"2004",	"2005",	"2006",	"2007",	"2008",	"2009",	"2010",	"2011",	"2012",	"2013","2014",	"2015","2016","2017" ],
+            "startYear":0, 
+            "yAxisLabel":"Employment rate %",
+            "yAxisScale":[0,100],   
+            "yAxisBreak": true,
+            "yAxisBreak_sm_md_lg": [65,65,65]            
+    },
+    "optional" : {
+            "margin_sm": [40, 0, 20, 30],
+            "margin_md": [40, 10, 20, 30],
+            "margin_lg": [40, 10, 20, 30],
+        
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,8],
+            "aspectRatio_lg" : [16,8],
+        
+            "mobileBreakpoint" : 610, 
+            "x_num_ticks_sm_md_lg" : [6,19,20],              
+            "y_num_ticks_sm_md_lg" : [6,8,10],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}
+
+
