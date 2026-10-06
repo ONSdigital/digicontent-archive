@@ -1,0 +1,20 @@
+{
+    "essential" : {
+
+            "colour_palette": ["#3B7A9E", "#f03b20", "#666"],
+      		"sourceText":["Office for National Statistics - Annual Population Survey"],
+            "sourceURL":["https://www.gov.uk"],
+
+            "xAxisLabel":"%",
+            "xAxisScale":[0,50],
+            "barHeight_sm_md_lg" : [50,50,50]
+
+    },
+    "optional" : {
+            "margin_sm": [8, 0, 25, 95],
+            "margin_md": [8, 0, 25, 95],
+
+            "mobileBreakpoint" : 610
+
+    }
+}
