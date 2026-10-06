@@ -1,0 +1,133 @@
+{
+    "ons": {
+        "maptitle": "Time series map about COVID-19 positivity percentages over time",
+        "varcolour": "OrRd",
+        "rateslinecolour": "#27A0CC",
+        "countrylinecolour": "#666",
+        "varlabels": [
+            ""
+        ],
+        "timeload": "last",
+        "varunit": [
+            "Percentage testing positive for COVID-19 (modelled)",
+            "gello",
+            "gggt",
+            "tt"
+        ],
+        "displaydecimals": 1,
+        "legenddecimals": 0,
+        "breaks": [
+            0,
+            2,
+            4,
+            6,
+            8,
+            18
+        ],
+        "dropticks": false,
+        "showcountrylabelsonline": false,
+        "numberBreaks": 5,
+        "sourcetext": "Office for National Statistics – Coronavirus (COVID-19) Infection Survey",
+        "chartLabels": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "average": [
+            [
+                "0.96",
+                "0.88",
+                "1.04",
+                "1.18",
+                "1.47",
+                "2.06",
+                "1.88",
+                "1.87",
+                "1.55",
+                "1.28",
+                "0.88",
+                "0.69",
+                "0.45",
+                "0.37"
+            ],
+            [
+                "0.60",
+                "0.84",
+                "1.10",
+                "1.72",
+                "1.91",
+                "1.45",
+                "1.45",
+                "1.43",
+                "1.40",
+                "1.16",
+                "0.81",
+                "0.48",
+                "0.35",
+                "0.27"
+            ],
+            [
+                "0.52",
+                "0.43",
+                "0.47",
+                "0.55",
+                "0.43",
+                "0.50",
+                "1.60",
+                "2.01",
+                "1.56",
+                "1.33",
+                "0.97",
+                "0.52",
+                "0.31",
+                "0.32"
+            ],
+            [
+                "0.78",
+                "0.82",
+                "1.00",
+                "0.71",
+                "0.69",
+                "0.87",
+                "0.99",
+                "0.92",
+                "0.88",
+                "0.67",
+                "0.55",
+                "0.45",
+                "0.30",
+                "0.31"
+            ]
+        ],
+        "averageText": [
+            "England",
+            "Wales",
+            "Northern Ireland",
+            "Scotland"
+        ],
+        "walescodes": [
+            "J06000217",
+            "J06000218",
+            "J06000219",
+            "J06000220",
+            "J06000221",
+            "J06000222"
+        ],
+        "northernirelandcodes": [
+            "J06000229",
+            "J06000230",
+            "J06000231",
+            "J06000232",
+            "J06000233"
+        ],
+        "scotlandcodes": [
+            "J06000223",
+            "J06000224",
+            "J06000225",
+            "J06000226",
+            "J06000227",
+            "J06000228"
+        ]
+    }
+}
