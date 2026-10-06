@@ -1,0 +1,74 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "dateFormat": "%Y",
+    "displayTicksFormat": "",
+    "colour_palette": [{
+        "key": "FSM",
+        "colour": "#27A0CC"
+      },
+      {
+        "key": "Non-FSM",
+        "colour": "#206095"
+      },
+      {
+        "key":"Independent",
+        "colour":"#871A5B"
+      }
+    ],
+    "categorySort": {
+      "on":true,
+      "sortby":["Female","Male","All"]
+      },
+    "sourceText": ["DfE - Longitudinal Education Outcomes"],
+    "xAxisLabel": "Age",
+    "yAxisLabel": "Earnings (£)",
+    "yAxisScale": "auto_zero_max_total",
+    "screenreadertext":"Small multiple line chart of average PAYE earnings for young adults by gender and free school meal recipient status for the tax years ending 2005 to 2019. The chart shows that pay diverges around university leaving age."
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 30,
+        "right": 23,
+        "bottom": 45,
+        "left": 50
+      },
+      "md": {
+        "top": 30,
+        "right": 23,
+        "bottom": 50,
+        "left": 50
+      },
+      "lg": {
+        "top": 30,
+        "right": 23,
+        "bottom": 45,
+        "left": 50
+      }
+    },
+    "chart_every":{
+      "sm": 1,
+      "md": 2,
+      "lg": 3
+    },
+    "aspectRatio": {
+      "sm": [16, 8],
+      "md": [16, 8],
+      "lg": [16, 10]
+    },
+    "legendHeight":{
+      "sm": 45,
+      "md": 30,
+      "lg": 30
+    },
+
+    "mobileBreakpoint": 480,
+    "middleBreakpoint": 670,
+    "x_ticks_every": {
+      "sm": 2,
+      "md": 2,
+      "lg": 2
+    }
+  }
+}
