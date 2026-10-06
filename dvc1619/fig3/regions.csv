@@ -1,0 +1,34 @@
+date,series,chiffre,lower,upper,category
+All persons total,Very important,91,91,91,Hand washing
+,Very important,,,,Hand washing
+Women,Very important,94,94,94,Hand washing
+Men,Very important,88,88,88,Hand washing
+ ,Very important,,,,Hand washing
+16 to 29,Very important,86,86,86,Hand washing
+30 to 49,Very important,90,90,90,Hand washing
+50 to 69,Very important,94,94,94,Hand washing
+70+,Very important,94,94,94,Hand washing
+All persons total,Very important,84,84,84,Face covering
+,Very important,,,,Face covering
+Women,Very important,86,86,86,Face covering
+Men,Very important,81,81,81,Face covering
+16 to 29,Very important,80,80,80,Face covering
+30 to 49,Very important,81,81,81,Face covering
+50 to 69,Very important,85,85,85,Face covering
+70+,Very important,92,92,92,Face covering
+All persons total,Very important,84,84,84,Social distancing
+,Very important,,,,Social distancing
+Women,Very important,85,85,85,Social distancing
+Men,Very important,82,82,82,Social distancing
+16 to 29,Very important,75,75,75,Social distancing
+30 to 49,Very important,84,84,84,Social distancing
+50 to 69,Very important,86,86,86,Social distancing
+70+,Very important,90,90,90,Social distancing
+All persons total,Very important,85,85,85,Ventilation
+,Very important,,,,Ventilation
+Women,Very important,87,87,87,Ventilation
+Men,Very important,82,82,82,Ventilation
+16 to 29,Very important,80,80,80,Ventilation
+30 to 49,Very important,85,85,85,Ventilation
+50 to 69,Very important,86,86,86,Ventilation
+70+,Very important,86,86,86,Ventilation
