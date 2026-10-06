@@ -1,0 +1,81 @@
+{
+    "vars" : { 
+			"groups":[ "grp0" , "grp1"  , "grp2" , "grp3" , "grp4" , "grp5" , "grp6", "Show all" ],
+			"variables":[ "Healthy Life Expectancy" , "Inequality within local authority" , "Men" , "Women" , "var4" , "var5" ],
+            "dropOpt":[""],
+			"units":[ "Unit0" , "Unit1" , "Unit2" , "Unit3" , "Unit4" , "Unit5" ],
+			"labels":[ "y-axis" , "Axis limits" , "x-axis" ],
+			"grpColorArray":[ "#2b8cbe" , "#00ACC3" , "#E7007C" , "#024364" , "#EA6908" , "#662584", "#CDBB00", "#9D9D9D" ],
+			"singleColor":"#bd0021",
+			"tools":[ "Equality line", "Regression line" ],
+			"axisLimits":[ "Data" , "Fixed" ]
+	},
+    "essential" : {
+            "graphic_data_url": "data/trade.csv",
+        
+            "dateFormat":"%b-%y",
+        
+            "legendLabels" : [],
+        
+            "sourceText":["My source information text here"],
+            "sourceURL":["http://www.ons.gov.uk/"],
+        
+            "annotationChart": ["Caring, leisure and other service occupations","Administrative and secretarial occupations","Sales and customer service occupations", "Professional occupations","Associate professional and technical occupations","Managers, directors and senior officials","Elementary occupations","Process, plant and machine operatives","Skilled trades occupations"],
+            "annotationBullet": [],
+            "annotationXY":[[-50,-25],[-50,25],[50,25],[50,-25]],
+            "annotationAlign":["middle","middle","middle","middle"],
+            "annotationChart2": ["More women work in these jobs.  Women are paid more.","More women work in these jobs.  Men are paid more.","More men work in these jobs.  Men are paid more.", "More men work in these jobs.  Women are paid more."],
+            "annotationXY2":[ [-50,-25],[-50,25],[50,25],[50,-25] ],
+            "annotationAlign2":["middle","middle","middle","middle"],                    
+                                
+            "circles" : false,    
+            "annotationCXCY":[],        
+            "xAxisLabel":"xAxisLabel",
+            "yAxisLabel":"yAxisLabel",
+            "AxisScale":[-1,1],
+			"xAxisScale":[-100,100],
+			"yAxisScale":[-50,50]	,
+            "xAxisScaleDivisor":1,
+            "yAxisScaleDivisor":1,
+            "yAxisBreak": false,
+            "yAxisBreak_sm_md_lg": [65,65,65]  ,
+			"dataGroups":[ "dataGroup1" ],
+			"xaxislabelPrecison":0,
+			"yaxislabelPrecison":0
+	},
+    "optional" : {
+            "margin_sm": [10 ,20, 27, 20],
+            "margin_md": [10, 20, 20, 20],
+            "margin_lg": [15, 25, 25, 25],
+            
+        
+            "yline": [12.8,12.5],
+            "xline": [62.6,63.9],
+        
+            "aspectRatio_sm" : [2,1],
+            "aspectRatio_md" : [2,1],
+            "aspectRatio_lg" : [2,1],
+        
+            "mobileBreakpoint" : 610, 
+            
+            "xAxisTextFormat_sm_md_lg" : ["%y", "%Y", "%b %y"], 
+                
+            "x_num_ticks_sm_md_lg" : [6,8,10],    
+            "y_num_ticks_sm_md_lg" : [3,4,5],
+            "centre_line" : false,
+            "centre_line_value" :500,
+        
+            "annotateRect" : true,
+            "annotateRectX_Y" : [[[-100, 0],[0,-50]],[[-100,50],[0,0]],[[0,50],[100,0]],[[0,0],[100,-50]]],
+            "annotateRectFillOp": [["#266D4A",0.05],["#36ADD9",0.05],["#266D4A",0.05],["#36ADD9",0.05]],
+			"lineColor_opcty" : [["#266D4A", 1],["#36ADD9", 1],["#266D4A", 1],["#36ADD9", 1]],
+        
+            "vertical_line" : true,
+            "annotateLineX1_Y1_X2_Y2":[ [[-100,0],[100,0]],[[0,50],[0,-50]]],
+            
+			"regressionLine":false,
+			"equalityLine":false      
+    }
+}
+
+
