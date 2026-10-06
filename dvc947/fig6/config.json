@@ -1,0 +1,49 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+
+            "colour_palette": [ "#4d9221"],
+            "negative_colour":["#00A7A3"],
+            "sourceText":["Office for National Statistics – Opinions and Lifestyle Survey"],
+            "sourceURL":["http://www.ons.gov.uk/ons/publications/re-reference-tables.html?edition=tcm%3A77-350752"],
+
+            "annotationChart": [
+                "Great Britain average  46% said we would be united"
+            ],
+            "annotationBullet": [
+            ],
+            "annotationXY":[
+                ["44","Female"]
+            ],
+            "annotationAlign":[
+                "end"
+
+            ],
+
+            "barHeight_sm_md_lg" : [60,60,7],
+
+
+            "xAxisLabel":"",
+            "xAxisScale":[0,80]
+    },
+    "optional" : {
+            "margin_sm": [60, 20, 5, 170],
+            "margin_md": [60, 20, 5, 170],
+            "margin_lg": [60, 20, 5, 170],
+
+            "aspectRatio_sm" : [4,7],
+            "aspectRatio_md" : [2,1],
+            "aspectRatio_lg" : [2,12],
+
+            "mobileBreakpoint" : 510,
+
+            "x_num_ticks_sm_md_lg" : [5,5,5],
+            "vertical_line" : false,
+            "annotateLineX1_Y1_X2_Y2":[ [[25,"South East"],[25,"East"]]],
+            "annotateRect" : false,
+            "annotateRectX_Y" : [ [[40, "South West"],[75, "West Midlands"]]],
+            "lineColor_opcty" : [["#888", 0.2]],
+            "centre_line" : true,
+            "centre_line_value" : 45.5
+    }
+}
