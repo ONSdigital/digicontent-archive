@@ -1,0 +1,60 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+        
+            "dateFormat":"%Y-%W-%w",
+        
+            "legendLabels" : [],
+        
+        
+            "sourceText":["Excess Winter Mortality in England and Wales, 2014/15 (Provisional) and 2013/14 (Final) Release"],
+            "sourceURL":["http://www.ons.gov.uk/ons/rel/subnational-health2/excess-winter-mortality-in-england-and-wales/2014-15--provisional--and-2013-14--final-/index.html"
+			],
+			
+          "annotationChart": [
+                "High number of deaths in  2014/15 coincided with moderate ILI  rate and poor flu jab effectiveness"
+            ],
+            "annotationBullet": [
+                "High number of deaths in 2014/15 coincided with moderate ILI rate and poor flu jab effectiveness"
+			],
+            "annotationXY":[
+                ["2011-45-0","20.2"]
+                
+            ],
+            "annotationAlign":[
+                "middle",
+                "middle"
+            ],
+        
+            "circles" : true,    
+            "annotationCXCY":[
+                ["2015-01-0","14.8"]
+                
+			],
+        
+            "yAxisLabel":"Number of deaths (thousands)",
+            "yAxisScale":[5,20],   
+            "yAxisBreak": false,
+            "yAxisBreak_sm_md_lg": [0,0,0]            
+    },
+    "optional" : {
+            "margin_sm": [20, 10, 20, 30],
+            "margin_md": [20, 10, 0, 30],
+            "margin_lg": [20, 10, 0, 30],
+        
+            "aspectRatio_sm" : [8,4],
+            "aspectRatio_md" : [14,4],
+            "aspectRatio_lg" : [14,3],
+        
+            "mobileBreakpoint" : 610, 
+            
+            "xAxisTextFormat_sm_md_lg" : ["%y", "%Y", "%Y"], 
+                
+            "x_num_ticks_sm_md_lg" : [7,17,17],    
+            "y_num_ticks_sm_md_lg" : [5,5,5],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}
+
+
