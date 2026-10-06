@@ -1,0 +1,918 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Occupation Change 2016-2021</title>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,bold" rel="stylesheet">
+  <link href="./css/style-chosen.css" rel="stylesheet" />
+
+  <style>
+    body {
+      max-width: 700px;
+      margin: 0px auto;
+      font-family: 'Open Sans', sans-serif;
+    }
+
+    #dropdown {
+      position: relative;
+      height: 42px;
+      max-width: 700px;
+      width: 100%;
+      padding-bottom: 20px;
+    }
+
+    #swarms {
+      display: flex;
+      flex-direction: column;
+      align-content: stretch;
+    }
+
+    .value{
+      font-weight: 700;
+    }
+
+    .unit{
+      font-weight: 700;
+    }
+
+    .item {
+      display: flex;
+      flex-direction: row;
+      padding-bottom: 10px;
+      padding-top: 10px;
+      border-bottom: 1px solid grey;
+    }
+
+    .dot{
+      stroke: grey;
+      stroke-width: 0.5;
+    }
+
+    @media (max-width:600px) {
+      .item {
+        flex-direction: column;
+      }
+    }
+
+    div.info {
+      min-width: 300px;
+      position: relative;
+      min-height: 110px;
+    }
+
+    @media (min-width:600px) {
+      div.swarm {
+        align-self: flex-end;
+        margin-left: auto;
+      }
+    }
+
+
+    p.unitText {
+      margin: 0;
+      text-align: right;
+      font-family: 'Open Sans', sans-serif;
+      fill: rgb(102, 102, 102);
+      font-size: 12px;
+    }
+
+    div.infoDiv {
+      margin-top: 10px;
+    }
+
+    .domain {
+      display: none;
+    }
+
+    div.category {
+      font-weight: 700;
+    }
+
+    .axis text{
+      font-family: 'Open Sans', sans-serif;
+      fill: rgb(102, 102, 102);
+      font-size: 12px;
+    }
+
+
+    #circleLegend text{
+      font-family: 'Open Sans', sans-serif;
+      fill: rgb(102, 102, 102);
+      font-size: 12px;
+    }
+
+    #xaxislabel {
+      font-family: 'Open Sans', sans-serif;
+      fill: rgb(102, 102, 102);
+      font-size: 14px;
+    }
+
+    .averagelabel {
+      font-family: 'Open Sans', sans-serif;
+      fill: rgb(102, 102, 102);
+      font-size: 12px;
+      text-anchor: middle;
+    }
+
+    .cells path {
+      fill: none;
+      pointer-events: all;
+    }
+
+    .cellsselected {
+      opacity: 1;
+      stroke-width: 2px;
+      stroke: black;
+      fill: #F39431;
+    }
+
+    #source {
+      padding-top: 20px;
+      font-size: 16px;
+      font-weight: 700;
+      color: #323132;
+    }
+
+    input,
+    select {
+      font-family: "Open Sans", Helvetica, Arial, sans-serif;
+      font-size: 13px;
+    }
+
+
+    h6 {
+      font-size: 16px;
+      margin: 16px 0 8px 0;
+      font-weight: 700;
+      color: #323132;
+    }
+
+
+    a {
+      text-decoration: underline;
+      font-size: 18px;
+      font-weight: 400;
+      line-height: 32px;
+    }
+
+    select {
+      font-size: 1em;
+      border: none;
+      box-shadow: none;
+      border-radius: 0;
+      background: transparent;
+      height: 100%;
+      width: 100%;
+      cursor: pointer;
+      outline: none;
+      padding-right: 35px;
+      padding-left: 15px;
+      border: 2px solid #206095;
+      -moz-appearance: none;
+      -webkit-appearance: none;
+      color: #206095;
+    }
+
+
+    div.dropdown {
+      position: relative;
+      height: 45px;
+      background: white;
+      border: none;
+      /* max-width: 18em; */
+      min-width: 13em;
+      margin-top: 5px;
+      margin-left: 0.5%;
+      margin-right: 0.5%;
+    }
+
+    .dropdown::before {
+
+      height: 43px;
+      width: 46px;
+      position: absolute;
+      top: 1px;
+      right: 1px;
+      bottom: 1px;
+      background: #206095;
+      content: '';
+      pointer-events: none;
+
+    }
+
+    .dropdown::after {
+      content: '';
+      position: absolute;
+      top: 0;
+      width: 0;
+      height: 0;
+      right: 17px;
+      bottom: 0;
+      margin: 18px 0 0 0;
+      border-style: solid;
+      border-width: 10px 9px 0 9px;
+      border-color: #ffffff transparent transparent transparent;
+      pointer-events: none;
+    }
+
+    select:focus {
+      outline: 3px solid #FFA23A;
+    }
+
+    .visuallyhidden {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      margin: -1px;
+      padding: 0;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      border: 0;
+    }
+  </style>
+</head>
+
+<body>
+  <h5 class='visuallyhidden'>The chart canvas is hidden from screen readers. The chart shows where each occupation sit in comparisons to all other occupations in overal change of employees from 2016-2021, change in hours, change in pay, change in the proportion of under 35 year olds, and change in the proportion of over 55 year olds employed. It also shows the relative size of each occupation, mean hours worked, median pay and the overall proportions of under 35's and over 55's in each occupation. The data behind the chart is available to download below.</h5>
+  <div aria-hidden="true" id="dropdown"></div>
+  <!-- <div aria-hidden="true" id="legend">
+    <svg height="10" width="10" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="5" cy="5" r="2.5" fill="#206095"/>
+    </svg> Local authority
+  </div> -->
+  <div aria-hidden="true" id="swarms"></div>
+  <div id="source"></div>
+  <!-- <h6 class="">Download this chart</h6>
+  <a class="btn btn--primary" href="image.png" download>Image</a>
+  <a class="btn btn--primary" title="Download as csv" href="datadownload.csv" target="_blank">.csv</a>
+  <a class="btn btn--primary" title="Download as xls" href="data.xlsx" target="_blank">.xlsx</a> -->
+
+  <script src="https://cdn.ons.gov.uk/vendor/d3/4.13.0/d3.min.js"></script>
+  <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js"></script>
+  <script src="https://cdn.ons.gov.uk/vendor/jquery/2.1.4/jquery.min.js"></script>
+  <script src="../lib/chosen.jquery.js"></script>
+  <script src="../lib/modernizr.svg.min.js"></script>
+  <script src="js/chroma.min.js"></script>
+
+  <script>
+    // TODO: sort out mobile view
+    // TODO: keyboard control for chosen
+
+
+    var pymChild = null;
+
+    function drawGraphic() {
+
+      areas = graphic_datas[0].filter(function(d) {
+        return d.AREACD != "A" //everything apart from the average
+      }).map(function(d) {
+        return d.AREACD
+      });
+      names = graphic_datas[0].filter(function(d) {
+        return d.AREACD != "A" //everything apart from the average
+      }).map(function(d) {
+        return d.AREANM
+      });
+      soc1 = graphic_datas[0].filter(function(d) {
+        return d.AREACD != "A" //everything apart from the average
+      }).map(function(d) {
+        return d.SOC1
+      });
+      margin = dvc.essential.margins;
+      csvs = dvc.essential.graphic_data_url
+      datakeys = []
+
+
+      createDropdown(areas, names, soc1)
+
+      createStructure(dvc.essential.setup)
+
+      function createStructure(setup) {
+
+        items = d3.select("#swarms").selectAll("div.item")
+          .data(setup)
+          .enter()
+          .append('div')
+          .attr('class', "item")
+
+        infoColumn = items.append('div')
+          .attr('class', 'info')
+
+        infoColumn.append('div').html(function(d) {
+          return d.label
+        }).attr('class', 'category')
+
+        infoColumn.each(function(d) {
+          if (d.dropdown) generateDropdown(d.csv, this)
+        })
+
+        infoDiv = infoColumn.append('div').attr('class', 'infoDiv')
+
+        infoDiv.append('span')
+          .attr('id', function(d) {
+            return 'value' + d.csv
+          })
+          .attr('class', 'value')
+
+        unitOnValue = infoDiv.append('span')
+          .attr('class', 'unit')
+
+        swarmColumn = items.append('div')
+          .attr('class', 'swarm')
+
+
+
+        width = parseInt(d3.select('body').style('width'))
+        if (width > dvc.optional.mobileBreakpoint) {
+          chart_width = width - parseInt(d3.select('.info').style('width')) - margin.left - margin.right
+        } else {
+          chart_width = width - margin.left - margin.right //- dvc.essential.infoColumnWidth
+        }
+        height = dvc.essential.heightperstrip - margin.top - margin.bottom
+
+        svg = swarmColumn.append('svg')
+          .attr('width', chart_width + margin.left + margin.right)
+          .attr('height', dvc.essential.heightperstrip)
+          .append('g')
+          .attr('id', function(d) {
+            return "svg" + d.csv
+          })
+          .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')')
+
+        svg.each(function(d, i) {
+          drawBeeswarm(graphic_datas[i], graphic_datas[i].columns[4], d.csv)
+        })
+        drawCircleLegend()
+
+        unitText = swarmColumn.append('p')
+          .attr('class', 'unitText')
+
+        addUnits();
+      }
+
+
+      function generateDropdown(key, thisdiv) {
+        var select = d3.select(thisdiv).append('div').attr('class', 'dropdown').append('select').attr('id', "select" + key).attr('class', 'keyDropdown')
+
+        select.append('label').attr('for', function(d) {
+          return "select" + key
+        }).html("Choose " + key).attr("class", 'visuallyhidden')
+
+        select.selectAll('option').data(graphic_datas[dvc.essential.graphic_data_url.indexOf(key)].columns.slice(4))
+          .enter()
+          .append('option')
+          .attr("value", function(d) {
+            return d
+          })
+          .attr('id', function(d, i) {
+            return i
+          })
+          .text(function(d) {
+            return d
+          })
+
+        select.on('change', function(d) {
+          drawBeeswarm(graphic_datas[csvs.indexOf(d.csv)], select.node().value, d.csv)
+          drawCircleLegend()
+          addUnits()
+
+          // if area dropdown is already selected
+          if ($("#dropselect").val() != "") {
+            disableMouseover();
+            showHoverValue($("#dropselect").val());
+          }
+
+        })
+      }
+
+      function drawBeeswarm(thisdata, key, selection) {
+
+        thissvg = d3.select("#svg" + selection)
+        data = thisdata.filter(function(d) {
+          return d[key] != "#N/A"
+        }).filter(function(d){
+          return d.AREACD!="A"
+        })
+
+        var averageValue = thisdata.filter(function(d){
+          return d.AREACD==="A"
+        })[0][key]
+
+        //clear svg
+        thissvg.selectAll("*").remove()
+
+
+        var x = d3.scaleLinear()
+          .range([0, chart_width])
+          .domain(d3.extent(data.map(function(d) {
+            return +d[key]
+          })))
+
+
+
+        //calculate quantiles and set colour scale to match
+        var quantiles = []
+        var keydata = data.map(function(d) {
+            return +d[key]
+        })
+        keydata.sort(d3.ascending)
+
+        for (var i = 0; i < dvc.essential.quantilebreaks.length; ++i){
+          quantiles[i] = d3.quantile(keydata,dvc.essential.quantilebreaks[i])
+        }
+
+        var colourScale = d3.scaleThreshold()
+          .range(dvc.essential.varcolour)
+          .domain(quantiles)
+
+        var colourScaleReverse =  d3.scaleThreshold()
+          .range(dvc.essential.varcolourReverse)
+          .domain(quantiles)
+
+        var circleRadius = d3.scaleLinear()
+          .range([2,14])
+          .domain([8000,1550000])
+
+        // var circleRadius = d3.scaleLinear()
+        //   .range([2,17])
+        //   .domain([10000,500000])
+
+        //set colour scales the same across all charts depednent on position on the chart
+        // var colourScale = d3.scaleThreshold()
+        //   .range(dvc.essential.varcolour)
+        //   .domain([40,80,120,160,200,240,280,320,360])
+        //
+        // var colourScaleReverse =  d3.scaleThreshold()
+        //     .range(dvc.essential.varcolourReverse)
+        //     .domain([0,40,80,120,160,200,240,280,320])
+
+
+        var simulation = d3.forceSimulation(data)
+          .force("x", d3.forceX(function(d) {
+            return x(+d[key]);
+          }).strength(2))
+          .force("y", d3.forceY(height / 2))
+          // .force("collide", d3.forceCollide(dvc.essential.dotradius))
+          .force("collide", d3.forceCollide(function(d){
+              return circleRadius(+d.Employees)
+            })
+          )
+          .stop();
+
+        for (var i = 0; i < 120; ++i) simulation.tick();
+
+        //draw average line
+
+        // if(csvs.indexOf(selection)==0){
+        //   thissvg.append('text')
+        //     .attr('x',x(averageValue))
+        //     .attr('y',-2)
+        //     .attr('text-anchor','middle')
+        //     .text('Average')
+        // }
+
+
+        thissvg.append('g')
+          .attr('transform', 'translate(0,' + height + ')')
+          .attr('class', 'x axis')
+          .call(d3.axisBottom(x).ticks(5))
+
+        var cell = thissvg.append("g")
+          .attr("class", "cells")
+          .selectAll("g").data(d3.voronoi()
+            .extent([
+              [-margin.left, -margin.top],
+              [chart_width + margin.right, height + margin.bottom]
+            ])
+            .x(function(d) {
+              return d.x;
+            })
+            .y(function(d) {
+              return d.y;
+            })
+            .polygons(data)).enter().append("g").attr('class', function(d) {
+            return 'g' + d.data.AREACD
+          });
+
+        if (function(d){return +d.data[key]} != -999){
+          cell.append("circle")
+            // .attr("r", dvc.essential.dotradius)
+            .attr("r", function(d){
+              return circleRadius(+d.data.Employees)
+            })
+            .attr("cx", function(d) {
+              return d.data.x;
+            })
+            .attr("cy", function(d) {
+              return d.data.y;
+            })
+            .attr('class', function(d) {
+              return d.data.AREACD + " dot"
+            })
+            .attr("fill", function(d){
+              if(dvc.essential.colourreverselist.indexOf(key) == -1){
+                return colourScale(+d.data[key])
+              }
+              else{
+                return colourScaleReverse(+d.data[key])
+              }
+            })
+          // .attr("fill",function(d){
+          //   if (key != "Median hours" & key != "Proportion over 55"){
+          //     return colourScale(d.data.x)
+          //   }
+          //   else{
+          //     return colourScaleReverse(d.data.x)
+          //   }
+          // })
+          // .style('stroke',"grey")
+          // .style('stroke-width',0.1)
+        }
+
+
+        cell.append("path")
+          .attr('class', 'voronoiLayer')
+          .attr("d", function(d) {
+            return "M" + d.join("L") + "Z";
+          })
+          .on("mouseover", function(d) {
+            highlightDot(d.data.AREACD, circleRadius)
+            showHoverValue(d.data.AREACD)
+          })
+          .on("mouseout", function(d) {
+            mouseOff(circleRadius);
+            clearAreaDropdown();
+          });
+
+        if ($("#dropselect").val() != "") {
+          highlightDot($("#dropselect").val(),circleRadius)
+        }
+
+        thissvg.append('line')
+          .attr('x1',x(averageValue))
+          .attr('x2',x(averageValue))
+          .attr('y1',0)
+          .attr('y2',height)
+          .attr('stroke','grey')
+          .attr('stroke-dasharray',"5 3")
+
+        thissvg.append('text')
+          .attr('class','averagelabel')
+          .attr('x',x(averageValue))
+          .attr('y',-5)
+          .text("Average")
+      }
+
+
+      function drawCircleLegend(){
+        d3.select("#svg"+dvc.essential.graphic_data_url[0]+" #circleLegend").selectAll("*").remove()
+
+        var circleRadius = d3.scaleLinear()
+          .range([2,14])
+          .domain([8000,1550000])
+
+        d3.select("#svg"+dvc.essential.graphic_data_url[0])
+          .append('g').attr('id','circleLegend')
+          .attr('transform','translate('+(chart_width-125)+',5)')
+          .append('circle')
+          .attr('id','largeCircle')
+          .attr("r", circleRadius(1000000))
+          // .attr("cx", 0)
+          // .attr("cy", 0)
+          .attr("fill", "none")
+          .style('stroke',"grey")
+          .style('stroke-width',1)
+
+        d3.select("#circleLegend")
+          .append('circle')
+          .attr('id','smallCircle')
+          .attr("r", circleRadius(250000))
+          // .attr("cx", 0)
+          .attr("cy", 6.5)
+          .attr("fill", "none")
+          .style('stroke',"grey")
+          .style('stroke-width',1)
+
+        d3.select("#circleLegend")
+          .append('line')
+          .attr('x1',0)
+          .attr('x2',25)
+          .attr('y1',0-circleRadius(1000000))
+          .attr('y2',0-circleRadius(1000000))
+          .style('stroke',"grey")
+          .style('stroke-width',1)
+
+        d3.select("#circleLegend")
+          .append('line')
+          .attr('x1',0)
+          .attr('x2',25)
+          .attr('y1',6.5-circleRadius(250000))
+          .attr('y2',6.5-circleRadius(250000))
+          .style('stroke',"grey")
+          .style('stroke-width',1)
+
+          d3.select("#circleLegend")
+          .append('text')
+          .text("1,000,000 employees")
+          .attr('x', 27.5)
+          .attr('y',0-circleRadius(1000000)/1.5)
+
+          d3.select("#circleLegend")
+          .append('text')
+          .text("250,000 employees")
+          .attr('x', 27.5)
+          .attr('y',10-circleRadius(250000)/1.5)
+
+        }
+
+      function mouseOff(circleRadius) {
+        d3.selectAll('.value').html("").style('background-color','white')
+          // .style("box-shadow", "0px 0px white")
+        d3.selectAll('.unit').html("").style('background-color','white')
+          // .style("box-shadow", "0px 0px white")
+        d3.selectAll('.dot').classed("cellsselected", false).attr('opacity',1)
+          .attr('r', function(d){
+            return circleRadius(d.data.Employees)
+          })
+      }
+
+      function clearAreaDropdown() {
+        $("#dropselect").val("").trigger('chosen:updated');
+      }
+
+      function showHoverValue(code) {
+        var dataForThisArea = []
+        graphic_datas.forEach(function(d) {
+          dataForThisArea.push(d.filter(function(e) {
+            return e.AREACD === code
+          })[0])
+        })
+
+        // get all the keys from the selects
+        getkeys()
+
+        var dataLabels = []
+        dataForThisArea.forEach(function(item, i) {
+          if (item[datakeys[i]] === "#N/A") {
+            dataLabels.push("Data unavailable")
+          } else {
+            dataLabels.push(item[datakeys[i]])
+          }
+        });
+
+        var backgroundcolours = []
+
+        //puts the value on the left in the info box
+        csvs.forEach(function(d, i) {
+          if (dataLabels[i]>0 & datakeys[i] == "Total change" & dataLabels[i] != "Data unavailable"){
+            d3.select("#value" + d).html("▲ "+d3.format(".3s")(dataLabels[i]))
+          }
+          else if (dataLabels[i]<0 & datakeys[i] == "Total change" & dataLabels[i] != "Data unavailable"){
+            d3.select("#value" + d).html("▼ "+d3.format(".3s")(dataLabels[i]*-1))
+          }
+          else if (dataLabels[i]>0 & dvc.essential.changevarlist.indexOf(datakeys[i])!=-1 & dataLabels[i] != "Data unavailable"){
+            d3.select("#value" + d).html("▲ "+d3.format(".1f")(dataLabels[i]))
+          }
+          else if (dataLabels[i]<0 & dvc.essential.changevarlist.indexOf(datakeys[i])!=-1 & dataLabels[i] != "Data unavailable"){
+            d3.select("#value" + d).html("▼ "+d3.format(".1f")(-dataLabels[i]))
+          }
+          else if (datakeys[i] == "Median pay" & dataLabels[i] != "Data unavailable"){
+            d3.select("#value" + d).html("£"+d3.format(".2f")(dataLabels[i]))
+          }
+          else if (datakeys[i] == "Mean hours" | datakeys[i] == "Proportion under 35 years" | datakeys[i] == "Proportion over 55 years" & dataLabels[i] != "Data unavailable"){
+            d3.select("#value" + d).html(d3.format(".1f")(dataLabels[i]))
+          }
+          else if (dataLabels[i] == 0 & dvc.essential.changevarlist.indexOf(datakeys[i])!=-1){
+            d3.select("#value" + d).html(d3.format(".0f")(dataLabels[i]))
+          }
+          else if (dataLabels[i] == "Data unavailable"){
+            d3.select("#value" + d).html("Data unavailable").attr('stroke',"black")
+          }
+          else{
+            d3.select("#value" + d).html("Data unavailable").attr('stroke',"black")
+          }
+
+
+          if (dataLabels[i] != "Data unavailable"){
+            d3.select("#value" + d)
+            .style('background-color',d3.select("#svg"+d+" .g"+code+" circle").attr('fill'))
+            .style('padding-left','5px')
+            // .style("border-radius","5px 0px 0px 5px")
+            // .style("box-shadow", "2px 2px grey")
+            backgroundcolours[i] = d3.select("#svg"+d+" .g"+code+" circle").attr('fill')
+
+            if (dvc.essential.blackText.indexOf(backgroundcolours[i]) != -1){
+              d3.select("#value" + d).style("color","#2F2F2F")
+            }
+            else{
+              d3.select("#value" + d).style("color","white")
+            }
+          }
+          else{
+              d3.select("#value" + d).style("color","#2F2F2F")
+          }
+        });
+
+        //this put the unit on the value
+        unitOnValue.html(function(d, i) {
+          if (dataLabels[i] != "Data unavailable") {
+            if (typeof d.unit === "object") {
+              return " " + d.unit[datakeys[i]].labelunit
+            } else {
+              return " " + d.labelunit
+            }
+          }
+        })
+        .style('background-color',function(d, i){
+          return backgroundcolours[i]
+        })
+        .style("color",function(d, i){
+          if (dvc.essential.blackText.indexOf(backgroundcolours[i]) != -1){
+            return "#2F2F2F"
+          }
+          else{
+            return "white"
+          }
+        })
+        .style('padding-right','5px')
+        // .style("border-radius","0px 5px 5px 0px")
+        // .style("box-shadow", function(d, i){
+        //   if (dataLabels[i] != "Data unavailable") {
+        //     return "2px 2px grey"
+        //   }
+        //   else{
+        //     return "0px"
+        //   }
+        // })
+
+        //this put the unit on the axis
+        addUnits()
+      }
+
+
+      function getkeys() {
+        datakeys = [];
+        d3.selectAll('select.keyDropdown').each(function(d) {
+          datakeys.push(d3.select(this).node().value)
+        })
+
+        datakeys.push("Average score") //hard coded for deprivation
+
+      }
+
+      function highlightDot(code, circleRadius) {
+        d3.selectAll(".dot").classed('cellsselected', false)
+        d3.selectAll(".dot").attr("opacity",0.5)
+        d3.selectAll("." + code).classed('cellsselected', true)
+        .attr('r',function(d){
+          if (circleRadius(d.data.Employees) > 6){
+            return circleRadius(d.data.Employees)
+          }
+          else{
+            return 6;
+          }
+        })
+        d3.selectAll("g.g" + code).raise()
+        $("#dropselect").val(code).trigger('chosen:updated');
+      }
+
+      function disableMouseover() {
+        d3.selectAll(".cells path").style("pointer-events", "none")
+      }
+
+      function enableMouseover() {
+        d3.selectAll(".cells path").style("pointer-events", "all")
+      }
+
+      function addUnits() {
+        //this function adds units to the beeswarms
+
+        getkeys()
+
+
+        unitText.html(function(d, i) {
+          if (typeof d.unit === "object") {
+            return d.unit[datakeys[i]].unit+", "+d.unit[datakeys[i]].time
+          } else {
+            return d.unit+", "+d.time
+          }
+        })
+      }
+
+      function addClearBehaviour(circleRadius) {
+        d3.select('abbr').on('keypress', function(evt) {
+          if (d3.event.keyCode == 13 || d3.event.keyCode == 32) {
+            d3.event.preventDefault();
+            //clear behaviour
+            mouseOff(circleRadius);
+            enableMouseover();
+            $('#dropselect').val("").trigger('chosen:updated')
+          }
+        })
+      }
+
+      function createDropdown(areacd, areanm, soc1) {
+        var menuarea = d3.zip(areacd, areanm, soc1).sort(function(a, b) {
+          return d3.ascending(a[1]);
+        });
+
+        var nestedmenuarea = d3.nest()
+          .key(function(d) { return d[2]; })
+          .entries(menuarea);
+
+        //clear dropdown
+        d3.select("#dropdown").selectAll("*").remove()
+
+        // Build option menu for dropdown
+        var optns = d3.select("#dropdown").append("div").attr("id", "sel").append("select")
+          .attr("id", "dropselect")
+          .attr("class", "chosen-select");
+
+        optns.append("option") //blank option for placeholder
+
+        var circleRadius = d3.scaleLinear()
+          .range([2,14])
+          .domain([8000,1550000])
+
+          optns.selectAll("optgroup").data(nestedmenuarea).enter()
+            .append("optgroup")
+            .attr("label",function(d){return d.key})
+            .selectAll("option").data(function(d){
+              return d.values
+            })
+            .enter()
+            .append("option")
+            .attr("id", function(d) {
+              return d[1].replace(/[,.' ]/g, "").trim()
+            })
+            .attr("value", function(d) {
+              return d[0]
+            })
+            .text(function(d) {
+              return d[1]
+            });
+
+        $('#dropselect').chosen({
+          width: "98%",
+          allow_single_deselect: true,
+          placeholder_text_single: "Choose an occupation"
+        }).on('change', function(evt, params) {
+          if (typeof params != 'undefined') {
+            areaLocked = true;
+            disableMouseover();
+            highlightDot(params.selected, circleRadius);
+            showHoverValue(params.selected);
+            addClearBehaviour(circleRadius);
+          } else {
+            mouseOff(circleRadius);
+            enableMouseover();
+          }
+        });
+
+        //label for option
+        d3.select('input.chosen-search-input').attr('id', 'chosensearchinput')
+        d3.select('div.chosen-search').insert('label', 'input.chosen-search-input').attr('class', 'visuallyhidden').attr('for', 'chosensearchinput').html("Type to select an area")
+
+      } //end createDropdown
+
+      //add source
+      d3.select("#source").text("Source: " + dvc.essential.sourceText);
+
+      if (pymChild) {
+        pymChild.sendHeight();
+      }
+
+    }
+
+
+    if (Modernizr.svg) {
+      //load config
+      d3.json("config.json", function(error, config) {
+        dvc = config
+        //load chart data
+        q = d3.queue()
+        dvc.essential.graphic_data_url.forEach(function(d) {
+          q.defer(d3.csv, d + ".csv")
+        })
+        q.awaitAll(function(errors, datas) {
+          dvc = config
+          graphic_datas = datas
+          pymChild = new pym.Child({
+            renderCallback: drawGraphic
+          });
+        })
+
+      })
+    } else {
+      //use pym to create iframe containing fallback image (which is set as default)
+      pymChild = new pym.Child();
+      if (pymChild) {
+        pymChild.sendHeight();
+      }
+    }
+  </script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a40b55b4cd7ad857',t:'MTc5MDM1MzAwMQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+
+</html>
