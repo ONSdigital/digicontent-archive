@@ -1,0 +1,31 @@
+{"ons":{
+"maptitle": "Time series map about first-time buyer mortgages",
+"varcolour": "YlGnBu",
+"varlabels": ["Per 1,000 dwellings","Per 100 sales","Number of FTB mortgages"],
+"timeload": "last",
+"play":false,
+"timepoints": ["2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023"],
+"varunit": ["First-time buyer mortgages per 1,000 dwellings","First-time buyer mortgages per 100 house sales","Total number of first-time buyer mortgages"],
+"displaydecimals": 1,
+"legenddecimals0": 1,
+"legenddecimals1": 0,
+"dateParse": "%Y",
+"dateFormat": "%Y",
+"timelineLabelsDT":["2013", "2018", "2023"],
+"breaks": [[0,6.8,8.3,9.6,11,30],[0,29,34,40,46,90],[0,290,525,770,1125,5500]],
+"dropticks": true,
+"numberBreaks": 5,
+"sourcetext": "Office for National Statistics analysis using data from the Financial Conduct Authority",
+"chartLabels": ["1","2","3"],
+"average": [
+  [9,10.44,10.09,10.99,11.44,11.65,11.57,10.01,13.2,11.95,9.26],
+  [28.07,28.39,27.47,29.99,31.83,33.75,35.01,34.24,32.35,35.4,38.35]],
+"averageText":"UK Average",
+"nullcolour":"#dadada",
+"keyHeight": 250,
+"keyMargin": {
+  "top": 110,
+  "right": 37,
+  "left": 60
+}
+}}
