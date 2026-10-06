@@ -1,0 +1,54 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+        
+            "dateFormat":"",
+        
+            "legendLabels" : ["Food","All other products"],
+        
+            "sourceText":["UK consumer price inflation, ONS"],
+            "sourceURL":["https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/june2017"],
+        
+            "annotationChart": ["2,529 price quotes had decreased in size  between January 2012 and June 2017...","...compared to just 614 that  had increased"],
+            "annotationBullet": ["2,529 price quotes had decreased in size between January 2012 and June 2017","Just 614 that had increased"],
+            "annotationXY":[
+                ["Size reduction","1200"],
+                ["Size increase","1200"]
+            ],
+            "annotationAlign":[
+                "middle",
+                "middle"
+            ],
+        
+            "circles" : false,    
+            "annotationCXCY":[
+                ["Rail","68.4"],
+                ["Underground","73"]
+            ],
+        
+            "yAxisLabel":"Number of product price quotes",
+            "xAxisScale":[0,3000],   
+            "xAxisBreak": true,
+            "xAxisBreak_sm_md_lg": [65,65,65]            
+    },
+    "optional" : {
+            "margin_sm": [20, 20, 35, 100],
+            "margin_md": [20, 20, 35, 100],
+            "margin_lg": [20, 20, 35, 100],
+        
+            "aspectRatio_sm" : [16,10],
+            "aspectRatio_md" : [16,7],
+            "aspectRatio_lg" : [16,5],
+        
+            "mobileBreakpoint" : 610, 
+            
+            "yAxisTextFormat_sm_md_lg" : ["%y", "%Y", "%b %y"], 
+                
+            "y_num_ticks_sm_md_lg" : [4,2,2],    
+            "x_num_ticks_sm_md_lg" : [6,8,10],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}
+
+
