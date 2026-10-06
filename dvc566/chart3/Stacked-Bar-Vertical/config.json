@@ -1,0 +1,59 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+        
+            "dateFormat":"",
+        
+            "legendLabels" : ["Small (fewer than 10)","Medium (10 to 24)","Large (25 to 49)","Very large (50 or more)"],
+        
+            "sourceText":["Office for National Statistics, Inter-Departmental Business Register"],
+            "sourceURL":["https://www.ons.gov.uk/"],
+        
+            "annotationChart": [
+                "There are now fewer  jobs in small pubs...",
+                "...while employment in  larger pubs has risen"
+            ],
+            "annotationBullet": [
+            
+            ],
+            "annotationXY":[
+                ["2007","80000"],
+                ["2014","300000"]
+            ],
+            "annotationAlign":[
+                "middle",
+                "middle"
+            ],
+        
+            "circles" : false,    
+            "annotationCXCY":[
+                ["Rail","68.4"],
+                ["Underground","73"]
+            ],
+        
+            "yAxisLabel":"%",
+            "yAxisScale":[0,500000],   
+            "yAxisBreak": true,
+            "yAxisBreak_sm_md_lg": [65,65,65]            
+    },
+    "optional" : {
+            "margin_sm": [20, 10, 35, 55],
+            "margin_md": [20, 10, 35, 55],
+            "margin_lg": [20, 10, 35, 55],
+        
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+        
+            "mobileBreakpoint" : 600, 
+            
+            "xAxisTextFormat_sm_md_lg" : ["%y", "%Y", "%b %y"], 
+                
+            "x_num_ticks_sm_md_lg" : [2,1,1], 
+            "y_num_ticks_sm_md_lg" : [6,6,6],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}
+
+
