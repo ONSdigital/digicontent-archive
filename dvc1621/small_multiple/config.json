@@ -1,0 +1,75 @@
+{
+  "essential": {
+    "screenreadertext": "Set of small bar charts",
+    "graphic_data_url": "data.csv",
+    "dateFormat": "%d/%m/%Y",
+
+    "colour_palette": {
+      "Exports": "#206095",
+      "Imports": "#003C57"
+    },
+    "categorySort": [
+      "Total Services",
+      "Technical, trade-related and other business services",
+      "Professional and management consulting services",
+      "Explicitly charged and other financial services",
+      "Intellectual Property",
+      "Personal Travel"
+    ],
+    "sourceText": ["Department for Transport"],
+    "xAxisLabel": "",
+    "yAxisLabel": "Regions and Countries",
+    "yAxisScale": "auto_zero_max_total"
+  },
+  "optional": {
+    "margin": {
+      "groupMargin": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 155
+      },
+      "sm": {
+        "top": 60,
+        "right": 23,
+        "bottom": 25,
+        "left": 10
+      },
+      "md": {
+        "top": 60,
+        "right": 23,
+        "bottom": 25,
+        "left": 10
+      },
+      "lg": {
+        "top": 60,
+        "right": 10,
+        "bottom": 25,
+        "left": 10
+      }
+    },
+    "chart_every":{
+      "sm": 1,
+      "md": 1,
+      "lg": 2
+    },
+    "aspectRatio": {
+      "sm": [16, 16],
+      "md": [16, 16],
+      "lg": [16, 16]
+    },
+    "legendHeight":{
+      "sm": 45,
+      "md": 30,
+      "lg": 30
+    },
+
+    "mobileBreakpoint": 400,
+    "middleBreakpoint": 600,
+    "x_ticks_num": {
+      "sm": 4,
+      "md": 4,
+      "lg": 4
+    }
+  }
+}

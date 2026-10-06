@@ -1,0 +1,72 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+
+    "sort_data": false,
+
+    "colour_palette": ["#8A9B2E", "#118C7B", "#206095", "#003C57", "#871A5B", "#F66068", "#746CB1", "#1AA590"],
+
+
+
+    "dateFormat": "",
+
+    "legendLabels": ["Non-rapid on-street", "Rapid on-street", "Non-rapid other", "Rapid other"],
+
+    "sourceText": [],
+    "sourceURL": [""],
+
+    "annotationChart": [],
+    "annotationBullet": [],
+    "annotationXY": [
+
+    ],
+    "annotationAlign": [
+    ],
+
+    "circles": false,
+    "annotationCXCY": [
+
+    ],
+
+    "xAxisLabel": "%",
+    "xAxisScale": "auto_zero_max",
+    "xAxisBreak": true,
+    "xAxisBreak_sm_md_lg": [65, 65, 65]
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 20,
+        "right": 10,
+        "bottom": 35,
+        "left": 175
+      },
+      "md": {
+        "top": 20,
+        "right": 5,
+        "bottom": 35,
+        "left": 175
+      },
+      "lg": {
+        "top": 20,
+        "right": 5,
+        "bottom": 35,
+        "left": 175
+      }
+    },
+    "aspectRatio": {
+      "sm": [16, 28],
+      "md": [16, 20],
+      "lg": [16, 16]
+    },
+    "mobileBreakpoint": 414,
+    "mediumBreakpoint":600,
+
+    "x_num_ticks": {
+      "sm": 6,
+      "md": 8,
+      "lg": 10
+    }
+
+  }
+}
