@@ -1,0 +1,56 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+        
+            "colour_palette": [ "#007F7F"],
+        
+            "dateFormat":"%Y",
+        
+       "sourceText0":["House Price Statistics for Small Areas, dataset 15: table 1a"], 
+       "sourceText1":["UK House Price Index: First time buyers and former owner occupiers"],
+        
+       "sourceURL0":["https://www.ons.gov.uk/peoplepopulationandcommunity/housing/bulletins/housepricestatisticsforsmallareas/yearendingdecember1995toyearendingjune2016"],
+       "sourceURL1":["https://www.gov.uk/government/statistical-data-sets/uk-house-price-index-data-downloads-december-2016?utm_medium=GOV.UK&utm_source=summary&utm_campaign=section9&utm_term=9.30_14_02_17&utm_content=download_data"],
+        
+            "annotationChart": [
+                "England & Wales  entry level property average  £140,000"
+            ],
+            "annotationBullet": [
+                "England & Wales entry level property average £140,000"
+            ],
+            "annotationXY":[
+                ["145","Yorkshire and The Humber"]
+            ],
+            "annotationAlign":[
+                "start"
+            ],
+        
+            "barHeight_sm_md_lg" : [35,35,35],
+        
+        
+            "xAxisLabel":"thousands (£)",
+            "xAxisScale":[0,450]            
+    },
+    "optional" : {
+            "margin_sm": [75, 30, 35, 165],
+            "margin_md": [75, 30, 35, 165],
+            "margin_lg": [75, 30, 35, 165],
+        
+            "aspectRatio_sm" : [2,1],
+            "aspectRatio_md" : [2,1],
+            "aspectRatio_lg" : [2,1],
+        
+            "mobileBreakpoint" : 510, 
+                           
+            "x_num_ticks_sm_md_lg" : [6,8,10],
+            "vertical_line" : true,
+            "annotateLineX1_Y1_X2_Y2":[ [[20000,"London"],[30000,"London"]] ],
+            "annotateRect" : true,
+            "annotateRectX_Y" : [ ],
+            "lineColor_opcty" : [["#888", 0.2]],
+            "centre_line" : false,
+            "centre_line_value" : 140000
+    }
+}
+
+
