@@ -1,0 +1,38 @@
+{
+  "essential": {
+    "GraphType": "clusterBar",
+    "graphic_data_url": "data.csv",
+    "colour_palette": ["#206095", "#118C7B"],
+    "legendLabels": ["Total population", "Disabled"],
+    "legendStyle": "rect",
+    "sourceText": "Office for National Statistics – Longitudinal Labour Force Survey",
+
+    "annotationChart": [],
+    "annotationBullet": [],
+    "annotationXY": [],
+    "annotationAlign": [],
+
+    "circles": false,
+    "annotationCXCY": [],
+
+    "xAxisLabel": "Percentage points difference of returning to employment compared to 30 to 39",
+    "xAxisScale": [-0.1, 0.1],
+    "barHeight_sm_md_lg": [40, 50, 50],
+    "title":"",
+    "desc":"",
+    "desc2":"",
+    "title2":""
+
+  },
+  "optional": {
+    "margin_sm": [55, 25, 60, 80],
+    "margin_md": [85, 20, 60, 80],
+    "margin_lg": [55, 20, 50, 80],
+
+    "mobileBreakpoint": 414,
+    "x_num_ticks_sm_md_lg": [["5pp less likely","5pp more likely"], ["5pp less likely","5pp more likely"], ["No change","5pp less likely","5pp more likely"]],
+    "y_num_ticks_sm_md_lg": [4, 4, 4],
+    "centre_line": true,
+    "centre_line_value": 0
+  }
+}
