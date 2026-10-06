@@ -1,0 +1,13 @@
+date,series,chiffre,lower,upper,category
+England,Factor 1,0,1,1.1,Proportion employed in warehousing
+Wales,Factor 1,0,0.5,0.6,Proportion employed in warehousing
+Regions of England,Factor 1,0,0,0,Proportion employed in warehousing
+East Midlands,Factor 1,0,1.3,1.7,Proportion employed in warehousing
+West Midlands,Factor 1,0,1.2,1.5,Proportion employed in warehousing
+East of England,Factor 1,0,1.1,1.1,Proportion employed in warehousing
+North West,Factor 1,0,1,1.1,Proportion employed in warehousing
+Yorkshire and The Humber,Factor 1,0,0.9,1.1,Proportion employed in warehousing
+South East,Factor 1,0,1.1,1,Proportion employed in warehousing
+North East,Factor 1,0,0.7,0.8,Proportion employed in warehousing
+South West,Factor 1,0,0.6,0.7,Proportion employed in warehousing
+London,Factor 1,0,0.8,0.6,Proportion employed in warehousing

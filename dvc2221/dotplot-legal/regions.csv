@@ -1,0 +1,13 @@
+date,series,chiffre,lower,upper,category
+England,Factor 1,0,2.1,2.2,Proportion employed in legal and accounting
+Wales,Factor 1,0,1.5,1.6,Proportion employed in legal and accounting
+Regions of England,Factor 1,0,0,0,Proportion employed in legal and accounting
+London,Factor 1,0,3.7,3.4,Proportion employed in legal and accounting
+East of England,Factor 1,0,2.1,2.2,Proportion employed in legal and accounting
+North West,Factor 1,0,2,2.2,Proportion employed in legal and accounting
+South East,Factor 1,0,2,2.1,Proportion employed in legal and accounting
+South West,Factor 1,0,1.8,2,Proportion employed in legal and accounting
+Yorkshire and The Humber,Factor 1,0,1.7,1.9,Proportion employed in legal and accounting
+West Midlands,Factor 1,0,1.7,1.8,Proportion employed in legal and accounting
+East Midlands,Factor 1,0,1.5,1.6,Proportion employed in legal and accounting
+North East,Factor 1,0,1.4,1.5,Proportion employed in legal and accounting

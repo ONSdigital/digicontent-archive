@@ -1,0 +1,338 @@
+name,min,max
+Warwick,3.4,5.9
+Coventry,4,4.2
+Solihull,3.3,4
+Nuneaton and Bedworth,3.5,3.7
+Stratford-on-Avon,2,3.6
+Sunderland,3.6,3.6
+Redditch,3.4,3.5
+Swindon,3.8,3.5
+Tamworth,2.6,3.4
+North Warwickshire,2.6,3.3
+Rugby,1.8,2.7
+Cherwell,2,2.6
+Oxford,2.4,2.6
+Birmingham,2,2.3
+South Tyneside,1.9,2.2
+East Staffordshire,1.7,2
+Blaenau Gwent,2.9,1.9
+Bromsgrove,1.8,1.9
+Cannock Chase,2.2,1.9
+County Durham,2,1.9
+Knowsley,1.7,1.9
+South Derbyshire,1.8,1.8
+Telford and Wrekin,2.4,1.8
+Cheshire East,1.8,1.7
+"Kingston upon Hull, City of",1.6,1.7
+Lichfield,1.4,1.7
+Luton,1.7,1.6
+Sandwell,1.5,1.6
+Scarborough,1,1.6
+Walsall,1.6,1.6
+Hinckley and Bosworth,1.1,1.5
+Wolverhampton,1.2,1.5
+West Northamptonshire,1.1,1.4
+Basildon,1.5,1.3
+Derby,1.1,1.3
+Halton,1.2,1.3
+South Staffordshire,1,1.3
+Woking,0.5,1.3
+Arun,0.8,1.2
+Chichester,0.8,1.2
+Dudley,1.1,1.2
+Gateshead,1,1.2
+Hartlepool,1.1,1.2
+Liverpool,1,1.2
+Milton Keynes,0.9,1.2
+Torfaen,1.9,1.2
+Vale of White Horse,1.1,1.2
+West Oxfordshire,1.2,1.2
+Wrexham,1.1,1.2
+Wychavon,1,1.2
+Carmarthenshire,1.4,1.1
+Denbighshire,0.9,1.1
+Flintshire,1.1,1.1
+Merthyr Tydfil,1.2,1.1
+Newcastle-under-Lyme,1,1.1
+South Ribble,1.2,1.1
+Worcester,0.9,1.1
+Wyre Forest,1,1.1
+Brentwood,1.3,1
+Castle Point,1.4,1
+Cheshire West and Chester,1.1,1
+Cotswold,0.8,1
+Maldon,1,1
+North West Leicestershire,1,1
+Staffordshire Moorlands,1.2,1
+Wirral,1.3,1
+Amber Valley,0.7,0.9
+Burnley,1.1,0.9
+Chelmsford,0.8,0.9
+Erewash,0.8,0.9
+Harborough,0.6,0.9
+North Northamptonshire,0.8,0.9
+Rochford,1.1,0.9
+South Norfolk,0.9,0.9
+South Oxfordshire,0.9,0.9
+Stoke-on-Trent,1,0.9
+Blaby,0.4,0.8
+Bolsover,0.7,0.8
+Caerphilly,1,0.8
+Central Bedfordshire,0.8,0.8
+Chorley,0.9,0.8
+Gloucester,0.7,0.8
+Malvern Hills,0.7,0.8
+Neath Port Talbot,1.6,0.8
+St. Helens,0.5,0.8
+Thurrock,1.2,0.8
+Ashfield,0.7,0.7
+Bedford,0.5,0.7
+Boston,0.3,0.7
+Bridgend,2,0.7
+Darlington,1,0.7
+East Riding of Yorkshire,0.9,0.7
+Havant,0.5,0.7
+High Peak,1,0.7
+Hyndburn,0.7,0.7
+Mansfield,0.7,0.7
+North Lincolnshire,0.4,0.7
+Powys,0.8,0.7
+Shropshire,0.8,0.7
+Stafford,0.6,0.7
+Surrey Heath,0.3,0.7
+West Lancashire,0.5,0.7
+Barnsley,0.5,0.6
+Braintree,0.5,0.6
+Breckland,0.5,0.6
+Broxtowe,0.6,0.6
+Kirklees,0.5,0.6
+Newcastle upon Tyne,0.4,0.6
+North East Derbyshire,0.6,0.6
+North Tyneside,0.6,0.6
+Peterborough,0.4,0.6
+Rossendale,0.5,0.6
+Rotherham,0.6,0.6
+Ryedale,0.4,0.6
+Sefton,0.5,0.6
+Stockton-on-Tees,0.4,0.6
+Tewkesbury,0.4,0.6
+Warrington,0.4,0.6
+Wiltshire,0.5,0.6
+Bolton,0.4,0.5
+Bracknell Forest,0.4,0.5
+Bradford,0.5,0.5
+Broadland,0.3,0.5
+Buckinghamshire,0.4,0.5
+Charnwood,0.4,0.5
+Chesterfield,0.4,0.5
+Conwy,0.4,0.5
+Doncaster,0.4,0.5
+Fenland,0.4,0.5
+Forest of Dean,0.4,0.5
+Guildford,0.4,0.5
+Harlow,0.4,0.5
+Hart,0.3,0.5
+Havering,0.9,0.5
+"Herefordshire, County of",0.6,0.5
+Leicester,0.2,0.5
+Melton,0.5,0.5
+Monmouthshire,0.4,0.5
+Portsmouth,0.4,0.5
+Redcar and Cleveland,0.3,0.5
+Rhondda Cynon Taf,1.2,0.5
+Runnymede,0.3,0.5
+South Kesteven,0.4,0.5
+Southend-on-Sea,0.6,0.5
+Stroud,0.4,0.5
+Swansea,0.6,0.5
+Wakefield,0.3,0.5
+West Berkshire,0.3,0.5
+Wigan,0.5,0.5
+Barking and Dagenham,0.8,0.4
+Basingstoke and Deane,0.2,0.4
+Bassetlaw,0.3,0.4
+Blackburn with Darwen,0.4,0.4
+Calderdale,0.3,0.4
+Cheltenham,0.3,0.4
+Colchester,0.2,0.4
+Dacorum,0.2,0.4
+Derbyshire Dales,0.3,0.4
+East Hampshire,0.3,0.4
+Fareham,0.3,0.4
+Fylde,0.2,0.4
+Gosport,0.3,0.4
+Hambleton,0.2,0.4
+Horsham,0.2,0.4
+Huntingdonshire,0.5,0.4
+Mid Devon,0.4,0.4
+Middlesbrough,0.2,0.4
+Mole Valley,0.3,0.4
+Newark and Sherwood,0.3,0.4
+North East Lincolnshire,0.2,0.4
+North Hertfordshire,0.4,0.4
+North Somerset,0.2,0.4
+Northumberland,0.3,0.4
+Norwich,0.3,0.4
+Oadby and Wigston,0.3,0.4
+Oldham,0.2,0.4
+Pendle,0.4,0.4
+Preston,0.4,0.4
+Ribble Valley,0.4,0.4
+Rochdale,0.3,0.4
+Rushcliffe,0.2,0.4
+Rushmoor,0.3,0.4
+Selby,0.2,0.4
+Slough,0.3,0.4
+South Gloucestershire,0.4,0.4
+South Holland,0.3,0.4
+Spelthorne,0.2,0.4
+Swale,0.4,0.4
+Tendring,0.4,0.4
+Test Valley,0.4,0.4
+Uttlesford,0.3,0.4
+Vale of Glamorgan,0.2,0.4
+Waverley,0.3,0.4
+West Lindsey,0.5,0.4
+Windsor and Maidenhead,0.3,0.4
+Wokingham,0.3,0.4
+Worthing,0.2,0.4
+Adur,0.2,0.3
+Babergh,0.7,0.3
+Blackpool,0.3,0.3
+"Bournemouth, Christchurch and Poole",0.2,0.3
+"Bristol, City of",0.3,0.3
+Broxbourne,0.2,0.3
+Bury,0.2,0.3
+Carlisle,0.2,0.3
+City of London,0,0.3
+Crawley,0.1,0.3
+Dartford,0.3,0.3
+East Cambridgeshire,0.2,0.3
+East Devon,0.2,0.3
+East Hertfordshire,0.3,0.3
+East Lindsey,0.2,0.3
+East Suffolk,0.3,0.3
+Eastbourne,0.1,0.3
+Eastleigh,0.5,0.3
+Eden,0.1,0.3
+Elmbridge,0.2,0.3
+Epping Forest,0.2,0.3
+Epsom and Ewell,0.1,0.3
+Exeter,0.2,0.3
+Gedling,0.3,0.3
+Gravesham,0.3,0.3
+Harrogate,0.2,0.3
+Hillingdon,0.2,0.3
+King’s Lynn and West Norfolk,0.2,0.3
+Lancaster,0.4,0.3
+Leeds,0.3,0.3
+Lincoln,0.2,0.3
+Maidstone,0.3,0.3
+Medway,0.4,0.3
+Mendip,0.1,0.3
+Mid Suffolk,0.3,0.3
+Mid Sussex,0.1,0.3
+Newport,0.3,0.3
+North Kesteven,0.2,0.3
+North Norfolk,0.3,0.3
+Nottingham,0.2,0.3
+Reading,0.3,0.3
+Redbridge,0.4,0.3
+Reigate and Banstead,0.2,0.3
+Richmondshire,0.2,0.3
+Rutland,0.2,0.3
+Salford,0.2,0.3
+Sedgemoor,0.2,0.3
+Sevenoaks,0.2,0.3
+Sheffield,0.2,0.3
+Somerset West and Taunton,0.1,0.3
+South Somerset,0.2,0.3
+Southampton,0.5,0.3
+St Albans,0.2,0.3
+Stockport,0.2,0.3
+Tameside,0.2,0.3
+Tandridge,0.1,0.3
+Teignbridge,0.2,0.3
+Thanet,0.3,0.3
+Three Rivers,0.2,0.3
+Tonbridge and Malling,0.2,0.3
+Torridge,0.3,0.3
+Trafford,0.3,0.3
+Tunbridge Wells,0.2,0.3
+Wealden,0.2,0.3
+Welwyn Hatfield,0.2,0.3
+Winchester,0.2,0.3
+Wyre,0.3,0.3
+Allerdale,0.3,0.2
+Ashford,0.2,0.2
+Barnet,0.1,0.2
+Bath and North East Somerset,0.2,0.2
+Bexley,0.2,0.2
+Brent,0.1,0.2
+Brighton and Hove,0.1,0.2
+Canterbury,0.1,0.2
+Cardiff,0.2,0.2
+Ceredigion,0.2,0.2
+Cornwall,0.1,0.2
+Craven,0.2,0.2
+Croydon,0.1,0.2
+Dorset,0.2,0.2
+Dover,0.2,0.2
+Ealing,0.1,0.2
+Enfield,0.1,0.2
+Folkestone and Hythe,0.2,0.2
+Great Yarmouth,0.1,0.2
+Gwynedd,0.3,0.2
+Hammersmith and Fulham,0,0.2
+Harrow,0.1,0.2
+Hastings,0.1,0.2
+Hertsmere,0.1,0.2
+Hounslow,0.1,0.2
+Ipswich,0.2,0.2
+Isle of Wight,0.2,0.2
+Kensington and Chelsea,0.1,0.2
+Kingston upon Thames,0.1,0.2
+Lewes,0.1,0.2
+Manchester,0.1,0.2
+New Forest,0.2,0.2
+Newham,0.3,0.2
+North Devon,0.1,0.2
+Plymouth,0.1,0.2
+Richmond upon Thames,0.1,0.2
+Rother,0.1,0.2
+South Cambridgeshire,0.2,0.2
+South Hams,0.1,0.2
+South Lakeland,0.1,0.2
+Stevenage,0.2,0.2
+Sutton,0.1,0.2
+Torbay,0.1,0.2
+Waltham Forest,0.1,0.2
+Waltham Forest,0.1,0.2
+Wandsworth,0,0.2
+Wandsworth,0,0.2
+Watford,0.2,0.2
+Watford,0.2,0.2
+West Devon,0.1,0.2
+West Devon,0.1,0.2
+West Suffolk,0.2,0.2
+West Suffolk,0.2,0.2
+York,0.1,0.2
+York,0.1,0.2
+Barrow-in-Furness,0.1,0.1
+Bromley,0.1,0.1
+Cambridge,0.1,0.1
+Camden,0,0.1
+Copeland,0.1,0.1
+Greenwich,0.1,0.1
+Hackney,0,0.1
+Haringey,0.1,0.1
+Isle of Anglesey,0.2,0.1
+Isles of Scilly,0,0.1
+Islington,0,0.1
+Lambeth,0,0.1
+Lewisham,0.1,0.1
+Merton,0.1,0.1
+Pembrokeshire,0.1,0.1
+Southwark,0,0.1
+Tower Hamlets,0.1,0.1
+Westminster,0.1,0.1
