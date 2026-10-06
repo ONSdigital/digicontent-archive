@@ -1,0 +1,715 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+  <title>DVC1032 -  Deaths in England and Wales involving COVID-19 increased for the sixth consecutive week</title>
+
+  <meta name="description" content="">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+  <link rel="stylesheet" href="../lib/globalStyle.css" />
+
+  <style type="text/css">
+    body{
+      font-family: 'Open Sans';
+      color:#323131;
+    }
+    text {
+      font-family: 'Open Sans';
+    }
+
+    text.x,
+    text.y {
+      font-size: 12px;
+      fill: #666;
+    }
+
+    line.y,
+    line.x {
+      stroke: #ccc;
+      stroke-width: 1px;
+      shape-rendering: crispEdges;
+    }
+
+    #graphic .x path.domain{
+      stroke:#ccc;
+    }
+
+    h5,h6 {
+      font-size: 16px;
+      margin: 16px 0 8px 0;
+      font-weight: 700;
+      color: #323132;
+    }
+
+    ul, ol {
+      margin: 16px 0;
+      padding-left: 32px;
+    }
+
+    li {
+        margin: 0 0 8px 0;
+        line-height: 32px;
+        font-weight: 400;
+        font-size: 18px;
+        padding: 0;
+    }
+
+    @media (max-width:767px){
+        li{
+          font-size:16px;
+        }
+    }
+
+    .btn--primary a {
+        text-decoration: underline;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 32px;
+		color: white;
+    }
+
+    .btn {
+        font-family: "Open Sans",Helvetica,Arial,sans-serif;
+        display: inline-block;
+        width: auto;
+        cursor: pointer;
+        padding: 6px 16px 10px 16px;
+        border: 0 none;
+        text-align: center;
+        -webkit-appearance: none;
+        transition: background-color 0.25s ease-out;
+    }
+
+    .btn--primary:focus {
+      background-color: #0b5d30;
+    }
+
+    .btn--primary {
+      background-color: #0F8243;
+      color: #fff;
+    }
+
+  	#linemean {
+  		stroke-linecap: round !important;
+  	}
+    .annotation-group .rect path.subject {
+      stroke:none;
+      fill: none;
+    }
+
+    .annotation-group text.annotation-note-label {
+      font-size: 14px;
+    }
+
+    .visuallyhidden {
+      position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden;
+      clip: rect(0,0,0,0);  border: 0;
+    }
+
+  </style>
+
+</head>
+
+<body>
+  <p style="font-size:16px; font-weight:bold; padding-bottom:5px;">Wales</p>
+  <div id="graphic" aria-hidden="true">
+    <img src="fallback.png" alt="[Chart]" />
+  </div>
+
+  <script src="https://cdn.ons.gov.uk/vendor/d3/4.2.7/d3.min.js" type="text/javascript"></script>
+  <script src="../lib/modernizr.svg.min.js" type="text/javascript"></script>
+  <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js" type="text/javascript"></script>
+  <script src="../lib/d3-annotation.js" type="text/javascript"></script>
+
+  <script>
+    // TODO: legend on mobile only
+
+
+    var graphic = d3.select('#graphic');
+    var pymChild = null;
+
+    function drawGraphic(width) {
+      var threshold_md = dvc.optional.middleBreakpoint;
+      var threshold_sm = dvc.optional.mobileBreakpoint;
+
+      if (parseInt(graphic.style("width")) < threshold_sm) {
+        size = "sm";
+      } else if (parseInt(graphic.style("width")) < threshold_md) {
+        size = "md";
+      } else {
+        size = "lg";
+      }
+
+      var margin = dvc.optional.margin[size]
+      var chart_width = parseInt(graphic.style("width")) - margin.left - margin.right;
+      var height = Math.ceil((chart_width * dvc.optional.aspectRatio[size][1]) / dvc.optional.aspectRatio[size][0]);
+
+      // clear out existing graphics
+      graphic.selectAll("*").remove();
+
+      x = d3.scaleTime()
+        .range([0, chart_width]);
+
+      y = d3.scaleLinear()
+        .range([height, 0]);
+
+      x.domain(d3.extent(graphic_data, function(d) {
+        return d.date;
+      }));
+
+      var xAxis = d3.axisBottom(x)
+        .tickValues(graphic_data.map(function(d){return d.date}).filter(function(d, i) {
+          return i % dvc.optional.x_ticks_every[size] === 0&&i!=graphic_data.length-2 || i==graphic_data.length-1 //Rob's fussy comment about labelling the last date
+        }))
+        .tickFormat(d3.timeFormat("%d %b"))
+        .tickPadding(5)
+
+      var yAxis = d3.axisLeft(y).ticks(dvc.optional.y_num_ticks[size])
+
+      //gridlines
+
+      var line = d3.line()
+        .x(function(d) {
+          return x(d.date);
+        })
+        .y(function(d) {
+          return y(d.amt);
+        });
+
+      // parse data into columns
+      lines = {};
+      for (i = 0; i < dvc.essential.plotLines.length; i++) {
+        lines[dvc.essential.plotLines[i].key] = graphic_data.map(function(d) {
+          return {
+            'date': d.date,
+            'amt': +d[dvc.essential.plotLines[i].key]
+          };
+        });
+      }
+
+      //y domain calculations	: zero to intelligent max choice, or intelligent min and max choice,  or interval chosen manually
+      if (dvc.essential.yAxisScale == "auto_zero_max") {
+        var yDomain = [
+          0,
+          d3.max(d3.entries(lines), function(c) {
+            return d3.max(c.value, function(v) {
+              var n = v.amt;
+              return Math.ceil(n);
+            });
+          })
+        ];
+      } else if (dvc.essential.yAxisScale == "auto_min_max") {
+        var yDomain = [
+          d3.min(d3.entries(lines), function(c) {
+            return d3.min(c.value, function(v) {
+              var n = v.amt;
+              return Math.floor(n);
+            });
+          }),
+
+          d3.max(d3.entries(lines), function(c) {
+            return d3.max(c.value, function(v) {
+              var n = v.amt;
+              return Math.ceil(n);
+            });
+          })
+        ];
+      } else {
+        var yDomain = dvc.essential.yAxisScale;
+      }
+
+      y.domain(yDomain);
+
+      //create svg for chart
+      var legend = d3.select('#graphic').append('svg')
+        .append("g")
+        .attr("id", "legend");
+
+
+      //var svg = d3.select('#graphic').append('svg')
+      var svg = d3.select('svg')
+        .attr("id", "chart")
+        .style("background-color", "#fff")
+        .attr("width", chart_width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom) //+30)
+        .append("g")
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+
+      svg.append("rect")
+        .style("fill", "#fff")
+        .attr("width", chart_width)
+        .attr("height", height);
+
+      svg.append('g')
+        .attr('class', 'y axis')
+        .call(yAxis.tickSize(-chart_width, 0, 0));
+
+      //y axis label
+      svg.append("text")
+        .attr('transform', 'translate(' + -margin.left + ',-15)')
+        .attr("font-size", "12px")
+        .attr("fill", "#666")
+        .text(function(d, i) {
+          return dvc.essential.yAxisLabel
+        });
+
+      //x axis label
+      svg.append("text")
+        .attr('transform', 'translate(' + (chart_width) + ',' + (height + margin.bottom - 12) + ')')
+        .attr("font-size", "12px")
+        .attr("fill", "#666")
+        .attr("text-anchor", "end")
+        .text(function(d, i) {
+          return dvc.essential.xAxisLabel
+        });
+
+
+      //create x axis, if y axis doesn't start at 0 drop x axis accordingly
+      svg.append('g')
+        .attr('class', 'x axis')
+        .attr('transform', function(d) {
+          if (yDomain[0] != 0) {
+            return 'translate(0,' + (height + 30) + ')'
+          } else {
+            return 'translate(0,' + height + ')'
+          }
+        })
+        .call(xAxis);
+
+      //create icon to symbolise break in y axis if required
+      if (yDomain[0] > 0 && dvc.essential.yAxisBreak == true) {
+        var paths = svg.append("defs")
+          .append("g")
+          .attr("id", "icon")
+          .append("g");
+
+        paths.append("polyline")
+          .attr("points", "2.881,9.54 7.94,5.061 12.341,9.54 17.77,5.061")
+          .attr("stroke", "#666")
+          .attr("fill", "none")
+        paths.append("polyline")
+          .attr("points", "2.881,14.54 7.94,10.061 12.341,14.54 17.77,10.061")
+          .attr("stroke", "#666")
+          .attr("fill", "none");
+
+        //specify position of icon
+        svg.append("g").attr("id", "iconpath")
+          .attr("transform", "translate(-10,3)")
+          .append("use")
+          .attr("xlink:href", "#icon")
+          .attr("x", x(x.domain()[0]))
+          .attr("y", function() {
+            return y(dvc.essential.yAxisBreak[size])
+          });
+      }
+
+
+      // draw difference lines
+      //create converters
+      var line = d3.area()
+        .curve(d3.curveLinear)
+        // .defined(function(d){return d!=0})
+        .x(function(d) {
+          return x(d.date);
+        })
+        .y(function(d) {
+          return y(d.amt);
+        });
+
+      var area = d3.area()
+        .curve(d3.curveLinear)
+        .x(function(d) {
+          return x(d.date);
+        })
+        .y1(function(d) {
+          return y(d.max);
+        })
+        .y0(function(d){
+          return y(d.min);
+        });
+
+      svg.datum(graphic_data);
+
+
+      svg.selectAll("path.line")
+        .data(d3.entries(lines))
+        .enter()
+        .append('path')
+        .attr('id',function(d){return "line"+d.key})
+        .attr("class", "line")
+        .attr('d', function(d) {
+          return line(d.value)
+        })
+        .attr('stroke', function(d, i) {
+          return dvc.essential.plotLines.filter(function(e) {
+            return e.key == d.key
+          })[0].colour
+        })
+        .attr('stroke-width', function(d,i){
+          if(dvc.essential.plotLines.filter(function(e) {
+            return e.key == d.key
+          })[0]["strokewidth"]!=undefined){return dvc.essential.plotLines.filter(function(e) {
+            return e.key == d.key
+          })[0]["strokewidth"]}
+          else{return "3px"}
+        })
+        .attr('stroke-dasharray', function(d,i){
+          if(dvc.essential.plotLines.filter(function(e) {
+            return e.key == d.key
+          })[0]["strokedasharray"]!=undefined){return dvc.essential.plotLines.filter(function(e) {
+            return e.key == d.key
+          })[0]["strokedasharray"]}
+          else{return ""}
+        });
+
+        d3.select("#line2020").raise()
+        d3.select("#linecovid").raise()
+
+
+      if(size!="sm"){
+        svg.selectAll("text.directlabels")
+          .data(dvc.essential.directLabels)
+          .enter()
+          .append('text')
+          .attr("class", "directlabels")
+          .attr("x", function(d) {
+            return x(graphic_data[graphic_data.length-1].date) + 7
+          })
+          .attr("y", function(d) {
+              return y(lines[d.variable].filter(function(e) {
+                return e.date == graphic_data[graphic_data.length - 1].date
+              })[0].amt)
+          })
+          .attr("dy",function(d){
+            return d.dy
+          })
+          .attr("dx",function(d){
+            return d.dx
+          })
+          .text(function(d) {
+            return d.label
+          })
+          .attr('font-size',"14px")
+          .attr("fill",function(d){return d.colour})
+          .call(wrap,margin.right)
+
+
+          //add custom bracket
+          svg.append('path')
+            .attr('d', function() {
+              return "M" + (x(graphic_data[graphic_data.length - 1]["date"]) + 4) + "," + y(+graphic_data[graphic_data.length - 1]["max"]) + "L" +
+                (x(graphic_data[graphic_data.length - 1]["date"]) + 4) + "," + y(+graphic_data[graphic_data.length - 1]["min"]) + "M" + (x(graphic_data[graphic_data.length - 1]["date"]) + 4) + "," + y(+graphic_data[graphic_data.length - 1]["mean"]) +
+                "h3"
+            })
+            .attr("stroke", "#707071")
+            .attr("fill", "none")
+            .attr("stroke-width", "1px")
+      }
+
+      var annotations = [{
+        type:d3.annotationCalloutRect,
+        note: {
+          label: "Bank holidays affected registrations",
+          bgPadding: 20,
+          lineType:"vertical"
+        },
+        //can use x, y directly instead of data
+        x:x(d3.timeParse(dvc.essential.dateFormat)("08/05/2020"))-3,
+        y:y(14573)-3,
+        className: "show-bg",
+        dy: -50,
+        dx:  (x(d3.timeParse(dvc.essential.dateFormat)("15/05/2020"))-x(d3.timeParse(dvc.essential.dateFormat)("8/05/2020"))+6)/2,
+        connector:{
+          end:"arrow",
+          type:"line"
+        },
+        subject: {
+          width: x(d3.timeParse(dvc.essential.dateFormat)("15/05/2020"))-x(d3.timeParse(dvc.essential.dateFormat)("8/05/2020"))+6,
+          height: y(12657)-y(14573)+6
+        }
+      }
+      ,{
+        type:d3.annotationLabel,
+        note:{lineType:"vertical"},
+        x:x(d3.timeParse(dvc.essential.dateFormat)("05/06/2020"))-3,
+        y:y(10709)-3,
+        dy: -y(10709)+y(19000),
+        dx:0,//(x(d3.timeParse(dvc.essential.dateFormat)("15/05/2020"))-x(d3.timeParse(dvc.essential.dateFormat)("8/05/2020"))+6)/2,
+        connector:{end:"arrow","type":"line"},
+        // subject: {
+        //   width: x(d3.timeParse(dvc.essential.dateFormat)("15/05/2020"))-x(d3.timeParse(dvc.essential.dateFormat)("8/05/2020"))+6,
+        //   height: y(9824)-y(10709)+6
+        // }
+      },{
+        type:d3.annotationLabel,
+        note:{lineType:"vertical"},
+        x:x(d3.timeParse(dvc.essential.dateFormat)("31/08/2020"))-3,
+        y:y(10000)-3,
+        dy: -y(10000)+y(19000),
+        dx: 0-x(d3.timeParse(dvc.essential.dateFormat)("24/03/2020")),
+        connector:{end:"arrow","type":"line"},
+        // subject: {
+        //   width: x(d3.timeParse(dvc.essential.dateFormat)("15/05/2020"))-x(d3.timeParse(dvc.essential.dateFormat)("8/05/2020"))+6,
+        //   height: y(9824)-y(10709)+6
+        // }
+      }
+    ]
+
+
+      var makeAnnotations = d3.annotation()
+        .notePadding(15)
+        .accessors({
+          x: function(d){return x(d3.timeParse(dvc.essential.dateFormat)(d.date))},
+          y: function(d){return y(d.value)}
+        })
+        .annotations(annotations)
+
+        // add annotations
+        svg.append('text')
+          .attr("class", "directlabels")
+          .attr("x",x(d3.timeParse(dvc.essential.dateFormat)("16/05/2020")))
+          .attr("y",y(1340))
+          .text("Bank holidays affected registrations")
+          .attr('font-size',"14px")
+          .attr("fill","#555")
+          .call(wrap,130)
+          svg.append("line")
+            .attr("stroke", "#555")
+            .attr("stroke-width", 1)
+            .attr('y1',y(1050))
+            .attr('y2',y(750))
+            .attr('x1',x(d3.timeParse(dvc.essential.dateFormat)("16/05/2020")))
+            .attr('x2',x(d3.timeParse(dvc.essential.dateFormat)("09/05/2020")))
+            svg.append("line")
+              .attr("stroke", "#555")
+              .attr("stroke-width", 1)
+              .attr('y1',y(1020))
+              .attr('y2',y(700))
+              .attr('x1',x(d3.timeParse(dvc.essential.dateFormat)("29/05/2020")))
+              .attr('x2',x(d3.timeParse(dvc.essential.dateFormat)("29/05/2020")))
+              svg.append("line")
+                .attr("stroke", "#555")
+                .attr("stroke-width", 1)
+                .attr('y1',y(1050))
+                .attr('y2',y(650))
+                .attr('x1',x(d3.timeParse(dvc.essential.dateFormat)("12/06/2020")))
+                .attr('x2',x(d3.timeParse(dvc.essential.dateFormat)("01/09/2020")))
+
+        if (parseInt(graphic.style("width")) > 0) {
+            svg.append("g")
+              .attr("class", "annotation-group")
+              .call(makeAnnotations)
+        }
+
+
+        //remove mean line
+        // d3.select("#linemean").remove()
+
+d3.selectAll(".note-line").attr("class",function(d,i) {
+  return "arrowTop" +i
+})
+
+d3.select(".arrowTop0").style("display","none")
+
+d3.select(".annotation-note-label").attr("transform","translate(-25,0)")
+
+
+      // add markers
+      if (parseInt(graphic.style("width")) > threshold_sm && dvc.optional.lineMarkers == true) {
+        var j = 0;
+        for (var column in graphic_data[0]) {
+          if (column == 'date') continue;
+          svg.append("g")
+            .selectAll("circles")
+            .data(graphic_data) // raw data
+            .enter()
+            .append('circle')
+            .style('fill', '#fff')
+            .style('stroke', function(d, i) {
+              return dvc.essential.colour_palette[j];
+            })
+            .style('stroke-width', 2)
+            .attr("cx", function(d) {
+              return x(d.date);
+            })
+            .attr("cy", function(d) {
+              return y(d[column]);
+            })
+            .attr("r", 3)
+          j++;
+        }
+      } // ends if
+
+      //create link to source
+      d3.select('#source')
+        .text('Source: ' + dvc.essential.sourceText);
+
+      if(size=="sm"){createLegend();}
+
+      function createLegend() {
+
+        var prevX = 0;
+        var prevY = 0;
+        lineNo = 0;
+        var lineNoOld = 0;
+
+        dvc.essential.legendLabels.forEach(function(d, i) {
+
+          // draw legend text based on content of var legendLabels ...
+          var_group = d3.select("#legend").append("g")
+
+          var_group.append("rect")
+            .attr("class", "rect" + i)
+            .attr("fill", dvc.essential.colour_palette[i])
+            .attr("x", 0)
+            .attr("y", 0)
+            .attr("width", function(d) {
+              if (dvc.essential.legendStyle[i] == "rect") {
+                return 15;
+              } else {
+                return 20;
+              }
+            })
+            .attr("height", function(d) {
+              if (dvc.essential.legendStyle[i] == "rect") {
+                return 15;
+              } else {
+                return 3;
+              }
+            })
+
+          var_group.append("text")
+            .text(dvc.essential.legendLabels[i])
+            .attr("class", "legend" + i)
+            .attr("text-anchor", "start")
+            .style("font-size", "12px")
+            .style("fill", "#666")
+            .attr('y', 15)
+            .attr('x', 0);
+
+
+          d3.selectAll(".legend" + (i))
+            .each(calcPosition);
+
+          function calcPosition() {
+
+
+            var BBox = this.getBBox()
+
+
+            //prevY =BBox.width
+            d3.select(".legend" + (i))
+              .attr("y", function(d) {
+                if ((prevX + BBox.width + 50) > parseInt(graphic.style("width"))) {
+                  lineNoOld = lineNo;
+                  lineNo = lineNo + 1;
+                  prevX = 0;
+                }
+                return eval((lineNo * 20) + 20);
+              })
+              .attr("x", function(d) {
+                return prevX + 25;
+              })
+
+
+            d3.select(".rect" + (i))
+              .attr("y", function(d) {
+
+                if ((prevX + BBox.width + 50) > parseInt(graphic.style("width"))) {
+                  lineNoOld = lineNo;
+                  lineNo = lineNo + 1;
+                  prevX = 0;
+                }
+
+                if (dvc.essential.legendStyle == "rect") {
+                  return eval((lineNo * 20) + 5);
+                } else {
+                  return eval((lineNo * 20) + 12);
+
+                }
+              })
+              .attr("x", function(d) {
+                return prevX;
+              })
+
+            prevX = prevX + BBox.width + 50
+
+
+
+          }; // end function calcPosition()
+        }); // end foreach
+      } // end function createLegend()
+
+
+
+      function wrap(text, width) {
+        text.each(function() {
+          var text = d3.select(this),
+            words = text.text().split(/\s+/).reverse(),
+            word,
+            line = [],
+            lineNumber = 0,
+            lineHeight = 14, // ems
+            y = text.attr("y"),
+            x = text.attr("x")
+            dx = text.attr("dx"),
+            dy = +text.attr("dy"),
+            tspan = text.text(null).append("tspan").attr("x", x).attr("dx", dx).attr("y", y).attr("dy", dy + "px");
+          while (word = words.pop()) {
+            line.push(word);
+            tspan.text(line.join(" "));
+            if (tspan.node().getComputedTextLength() > width) {
+              line.pop();
+              tspan.text(line.join(" "));
+              line = [word];
+              tspan = text.append("tspan").attr("x", x).attr("dx", dx).attr("y", y).attr("dy", ++lineNumber * lineHeight + dy + "px").text(word);
+            }
+          }
+        });
+      }
+
+      //use pym to calculate chart dimensions
+      if (pymChild) {
+        pymChild.sendHeight();
+      }
+
+    } // ends drawGraphic
+
+
+
+    //check whether browser can cope with svg
+    if (Modernizr.svg) {
+      //load config
+      d3.json("config.json", function(error, config) {
+        dvc = config
+
+        //load chart data
+        d3.csv(dvc.essential.graphic_data_url, function(error, data) {
+          graphic_data = data;
+
+          graphic_data.forEach(function(d){
+            d.date=d3.timeParse(dvc.essential.dateFormat)(d.date)
+          })
+          //use pym to create iframed chart dependent on specified variables
+          pymChild = new pym.Child({
+            renderCallback: drawGraphic
+          });
+        });
+      })
+
+    } else {
+      //use pym to create iframe containing fallback image (which is set as default)
+      pymChild = new pym.Child();
+      if (pymChild) {
+        pymChild.sendHeight();
+      }
+    }
+  </script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a40b429bfc0f472f',t:'MTc5MDM1MjIxOQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+
+</html>
