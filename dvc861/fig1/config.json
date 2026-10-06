@@ -1,0 +1,19 @@
+{
+    "essential" : {
+          "graphic_data_url": "data.csv",
+          "colour_palette":[ "#0075A3" , "#0075A3", "#0075A3", "#0075A3" ],
+      		"sourceText":["Office for National Statistics – Effects of taxes and benefits on UK household income."],
+          "sourceURL":["https://www.gov.uk/government/publications/adult-education-survey-2016"],
+
+          "xAxisLabel":"£",
+          "xAxisScale":[-20,50],
+          "barHeight_sm_md_lg" : [30,30,30]
+
+    },
+    "optional" : {
+          "margin_sm": [8, 0, 15, 100],
+          "margin_md": [8, 0, 15, 100],
+          "mobileBreakpoint" : 610
+
+    }
+}
