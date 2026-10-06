@@ -1,0 +1,1 @@
+Small multiple histograms, applies d3.histogram on nested data.
