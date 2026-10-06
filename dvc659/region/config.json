@@ -1,0 +1,26 @@
+{
+  "essential": {
+    "graphic_data_url": ["data1.csv","data.csv"],
+    "legendLabels": ["Women", "Men"],
+    "legendStyle": "rect",
+    "colour_palette": ["#00A5A1", "#234D70"],
+    "sourceText": ["Office for National Statistics"],
+    "arrows": "starttoend",
+    "xAxisLabel": "Minutes",
+    "yAxisLabel": "Travel to work areas",
+    "xAxisScale": [0, 50]
+  },
+  "optional": {
+    "margin_sm": [15, 20, 10, 220],
+    "margin_md": [15, 20, 10, 220],
+    "margin_lg": [15, 20, 10, 220],
+
+    "aspectRatio_sm": [4, 20],
+    "aspectRatio_md": [3, 6],
+    "aspectRatio_lg": [10, 10],
+
+    "mobileBreakpoint": 414,
+
+    "x_num_ticks_sm_md_lg": [3, 5, 10]
+  }
+}

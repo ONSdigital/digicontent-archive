@@ -1,0 +1,40 @@
+{
+  "essential": {
+    "GraphType": "clusterBar",
+    "graphic_data_url": "data.csv",
+    "colour_palette": ["#234d70", "#00a5a1"],
+    "dateFormat": "%Y-%y",
+    "legendLabels": ["Men", "Women"],
+    "legendStyle": "rect",
+    "sourceText": ["Office for National Statistics"],
+
+    "annotationChart": [],
+    "annotationBullet": [],
+    "annotationXY": [],
+    "annotationAlign": [],
+
+    "circles": false,
+    "annotationCXCY": [],
+
+    "xAxisLabel": "Likelihood of leaving current job compared with someone being paid the minimum wage (£8.21 per hour)",
+    "xAxisScale": [0.7, 1],
+    "barHeight_sm_md_lg": [90, 70, 90],
+    "title":"Chart showing the likelihood of leaving current job with different earnings",
+    "desc":"Given increased earnings, men are more likely than women to remain in their job."
+
+  },
+  "optional": {
+    "margin_sm": [50, 20, 100, 100],
+    "margin_md": [20, 80, 75, 100],
+    "margin_lg": [50, 80, 75, 100],
+
+    "mobileBreakpoint": 550,
+
+    "xAxisTextFormat_sm_md_lg": ["%Y-%y", "%Y-%y", "%Y-%y"],
+
+    "x_num_ticks_sm_md_lg": [4, 9, 9],
+    "y_num_ticks_sm_md_lg": [4, 4, 4],
+    "centre_line": true,
+    "centre_line_value": 1
+  }
+}
