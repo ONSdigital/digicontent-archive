@@ -1,0 +1,84 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "screenreadertext":"Antibodies results at the 179, 800, 2000, 4000, and6000 ng/ml levels across age groups.",
+    "dateFormat": "%d/%m/%Y",
+    "displayTicksFormat":"%d/%m/%Y",
+    "colour_palette":[{
+      "key": "179_threshold",
+      "colour": "#eff3ff"
+    },
+    {
+        "key": "179_800_threshold",
+        "colour": "#c6dbef"
+    },
+    {
+        "key": "800_2000_threshold",
+        "colour": "#9ecae1"
+    },
+    {
+        "key": "2000_and_4000_threshold",
+        "colour": "#6baed6"
+    },
+    {
+        "key": "4000_and_6000_threshold",
+        "colour": "#3182bd"
+    },
+    {
+        "key": "over_6000",
+        "colour": "#08519c"
+    }
+  ],
+    "categorySort": [],
+    "sourceText": ["Office for National Statistics"],
+    "xAxisLabel": "Week beginning",
+    "yAxisLabel": "%",
+    "yAxisScale": "auto_zero_max_total"
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 25,
+        "right": 30,
+        "bottom": 45,
+        "left": 23
+      },
+      "md": {
+        "top": 25,
+        "right": 23,
+        "bottom": 45,
+        "left": 23
+      },
+      "lg": {
+        "top": 25,
+        "right": 15,
+        "bottom": 45,
+        "left": 23
+      }
+    },
+    "chart_every":{
+      "sm": 1,
+      "md": 3,
+      "lg": 3
+    },
+    "aspectRatio": {
+      "sm": [16, 13],
+      "md": [16, 13],
+      "lg": [16, 15]
+    },
+    "legendHeight":{
+      "sm": 115,
+      "md": 80,
+      "lg": 60
+    },
+    "legendStyle": "rect",
+
+    "mobileBreakpoint": 480,
+    "middleBreakpoint": 645,
+    "x_ticks_every": {
+      "sm": 8,
+      "md": 8,
+      "lg": 8
+    }
+  }
+}
