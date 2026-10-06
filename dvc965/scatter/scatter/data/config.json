@@ -1,0 +1,67 @@
+{
+    "essential" : {
+            "graphic_data_url": "data/data.csv",
+            "pickxdata":"proximity",
+            "pickydata":"exposure",
+            "fills":["#ccc","#ccc","#ccc","#ccc","#ccc","#ccc","#ccc","#ccc","#ccc"],
+            "sourceText":["Office for National Statistics – Business Impact of Coronavirus (COVID-19) Survey"],
+            "sourceURL":["http://www.ons.gov.uk/"],
+            "rectannotations":[],
+            "textAnnotations":[
+              {
+                "x":27,
+                "y":50,
+                "text":"Outcomes exceeded expectations (above dotted line)",
+                "soc":"2231"
+              },
+              {
+                "x":28,
+                "y":19,
+                "text":"Outcomes fell below expectations (below dotted line)",
+                "soc":"3213"
+              },
+              {
+                "x":59,
+                "y":84,
+                "text":"Most businesses expected turnover to stay the same and then reported turnover was unaffected.",
+                "soc":"2211"
+              },
+              {
+              "x":28,
+              "y":-2,
+              "text":"",
+              "soc":"6145"
+              }
+              ],
+            "textAnnotationWrap":[130,130,240,130],
+            "textAnnotationAlign":["end","start","end","start"],
+            "textAnnotationColour":["#58595B ","#58595B ","#3b7a9e","#58595B"],
+            "textAnnotationWeight":["normal","normal","bold","normal"],
+            "d3AnnotationWrap":250,
+            "xAxisLabel":"Business owners' expectation has been that the turnover will...",
+            "yAxisLabel":"Subsequently, the turnover turned out to be...",
+            "AxisScale":"",
+      			"xAxisScale":[0,120],
+      			"yAxisScale":[0,120]
+
+	},
+    "optional" : {
+            "margin_sm": [200 ,160, 20, 10],
+            "margin_md": [130, 165, 40, 10],
+            "margin_lg": [130, 165, 40, 10],
+
+            "aspectRatio_sm" : [1,1.3],
+            "aspectRatio_md" : [1.5,1],
+            "aspectRatio_lg" : [1.5,0.8],
+
+            "mobileBreakpoint" : 500,
+
+            "x_num_ticks_sm_md_lg" : [4,4,4],
+            "y_num_ticks_sm_md_lg" : [4,4,4],
+
+            "annotateLineX1_Y1_X2_Y2":[],
+            "lineColor_opcty" : [["#666", 0.5],["#666", 0.5]]
+
+
+    }
+}
