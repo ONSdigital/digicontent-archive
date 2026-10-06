@@ -1,0 +1,101 @@
+{
+    "essential" : {
+
+            "dataSets_url": [ "data"],
+
+            "num_lines_url": [ "var0.csv","var1.csv"],
+
+            "chart_type":  "line",
+
+            "buttonNames": [ "Monthly Index" ],
+
+            "dateFormat":  "%Y",
+
+            "legendLabels" : ["Men","Women"],
+
+            "sourceText":["Office for National Statistics – Annual Survey of Hours and Earnings"],
+            "sourceURL":[],
+
+            "addline": false,
+            "lineText": "Add line text here",
+
+            "draggable": false,
+            "annotationsChart" : [],
+
+            "wordwrap":[20,20.20,20],
+            "annoAlign": [],
+
+            "annotationBullet": [],
+            "annotationXY":[
+
+            ],
+            "annotationAlign":["end" ],
+
+            "circles" : true,
+            "annotationCXCY":[
+                ["1929",10.8],
+				["1941",13.7],
+                ["1948",15],
+                ["1944",16.4]
+
+            ],
+
+            "circletarget":[1,2,1,2],
+            "circleColour":["#00A5A1","#00A5A1","#00234D","#00234D"],
+
+            "xAxisLabel":[""],
+            "yDomain":[[0,20],[0,20]],
+            "yAxisLabel": "",
+            "yAxisBreak": true,
+            "yAxisBreak_sm_md_lg": [85,85,85],
+
+	           "numColumns_sm_md_lg":[1,1,1]
+
+    },
+    "optional" : {
+
+		 	"vertical_line" : true,
+			"svgtarget": [1,2,1,2],
+            "annotateLineX1_Y1_X2_Y2" : [
+				[["1929", "10.8"],["1929", "22.5"]],
+				[["1941", "13.7"],["1941", "22.5"]],
+				[["1948", "15"],["1948", "22.5"]],
+				[["1944", "16.4"],["1944", "22.5"]]
+			],
+
+			"svgtarget2":[1,2,1,2],
+			"annotationChart": ["Highest earnings  for female  employees were  at age 29",
+                          "Highest earnings  for female employees  were at age 41",
+             			   "Highest earnings  for male  employees were  at age 48",
+                          "Highest earnings  for male employees  were at age 44"
+                        ],
+
+
+			"annotationAlign": ["start","end","start", "start"],
+			"annotationXY":[
+				["1929",22],
+        		["1940",22],
+				["1948",22],
+				["1944",22]
+            ],
+
+			      "margin_sm": [15, 5, 20, 0],
+            "margin_md": [15, 5, 15, 0],
+            "margin_lg": [15, 10, 15, 0],
+
+            "innersm":[50 , 15 , 40 , 20 ],
+            "innermd":[35 , 15 , 50 , 20 ],
+            "innerlg":[35 , 15 , 50 , 20 ],
+
+            "aspectRatio_sm" : [3,2],
+            "aspectRatio_md" : [3,2],
+            "aspectRatio_lg" : [2,1],
+
+            "mobileBreakpoint" : 414,
+            "xAxisTextFormat_sm_md_lg" : ["%y", "%y", "%y"],
+            "x_num_ticks_sm_md_lg" : [5,7,7],
+            "y_num_ticks_sm_md_lg" : [2,1,1],
+            "centre_line" : false,
+            "centre_line_value" :0
+    }
+}

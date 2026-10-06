@@ -1,0 +1,115 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+
+            "dateFormat":"%b-%y",
+
+            "legendLabels" : ["First birth", "Second birth"],
+            "legendStyle": "line",
+            "directLabeling" : true,
+            "directLabelingAdjust" : {
+              "First birth": {"x": 0, "y": 0},
+              "Second birth": {"x": 0, "y": 0}
+            },
+            "colour_palette": {
+              "First birth": "#36ADD9",
+              "Second birth": "#234D70"
+            },
+
+            "sourceText":["Office for National Statistics – Births by Parents' Characteristics"],
+            "sourceURL":["https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/birthsbyparentscharacteristics"],
+            "draggable": false,
+           "annotationsChart" : [
+              {
+                "xVal": "1999-01-23T00:00:00.000Z",
+                "yVal": 28,
+                "path": "",
+                "text": "2.6 years in 1998",
+                "textOffset": [60,0]
+              },
+
+              {
+                "xVal": "2018-01-23T00:00:00.000Z",
+                "yVal": 30,
+                "path": "",
+                "text": "2.3 years in 2018",
+                "textOffset": [-60,0]
+              },
+              {
+                "xVal": "2017-12-23T00:00:00.000Z",
+                "yVal": 31,
+                "path": "",
+                "text": "▲",
+                "textOffset": [0,0]
+              },
+              {
+                "xVal": "1999-01-05T00:00:00.000Z",
+                "yVal": 28.8,
+                "path": "",
+                "text": "▲",
+                "textOffset": [0,0]
+              },
+              {
+                "xVal": "2017-12-23T00:00:00.000Z",
+                "yVal": 29,
+                "path": "",
+                "text": "▼",
+                "textOffset": [0,0]
+              },
+              {
+                "xVal": "1999-01-05T00:00:00.000Z",
+                "yVal": 26.5,
+                "path": "",
+                "text": "▼",
+                "textOffset": [0,0]
+              }
+
+
+            ],
+
+            "wordwrap":[30,20,10],
+            "annoAlign": ["middle","middle","middle","middle","middle","middle"],
+            "annotationBullet" : [],
+
+            "circles" : true,
+            "annotationCXCY":[
+                ["Jan-93","68.4"],
+                ["Jan-08","73"]
+            ],
+            "annotationColour": ["green"],
+
+            "yAxisLabel":"Age (in years)",
+            "yAxisScale":[25,32],
+            "yAxisBreak": false,
+            "yAxisBreak_sm_md_lg": [65,65,65]
+    },
+
+    "optional" : {
+            "margin_sm": [50, 20, 55, 30],
+            "margin_md": [50, 100, 55, 30],
+            "margin_lg": [50, 100, 55, 30],
+
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+
+            "mobileBreakpoint" : 414,
+
+            "xAxisTextFormat_sm_md_lg" : ["%y", "%Y", "%Y"],
+
+            "x_num_ticks_sm_md_lg" : [5,10,10],
+            "y_num_ticks_sm_md_lg" : [5,7,7],
+
+            "lineMarkers" : false,
+
+            "vertical_line" : true,
+            "annotateLineX1_Y1_X2_Y2" : [ [["Jan-99", "26.4"],["Jan-99", "29"]], [["Jan-18", "28.9"],["Jan-18", "31.2"]] ],
+
+            "annotateRect" : false,
+            "annotateRectX_Y" : [ [["Jan-94", 200],["Jan-96", 0]], [["Jul-04", 180],["Jul-06", 40]] ],
+            "lineColor_opcty" : [["#ABCDEF", 0.2], ["#888", 0.4]],
+
+            "centre_line" : false,
+            "centre_line_value" : 25
+    }
+}

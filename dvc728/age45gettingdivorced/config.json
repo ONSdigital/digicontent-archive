@@ -1,0 +1,73 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+
+            "dateFormat":"%Y",
+
+            "legendLabels" : ["Men (opposite-sex)", "Women (opposite-sex)","Men (same-sex)", "Women (same-sex)"],
+            "legendStyle": "line",
+            "directLabeling" : true,
+            "directLabelingAdjust" : {
+              "Men (opposite-sex)": {"x": 0, "y": 0},
+              "Women (opposite-sex)": {"x": 0, "y": 0},
+              "Men (same-sex)": {"x": 0, "y": 0},
+              "Women (same-sex)": {"x": 0, "y": 0}
+            },
+            "colour_palette": {
+              "Men (opposite-sex)": "#234d70",
+              "Women (opposite-sex)": "#00a5a1",
+              "Men (same-sex)": "#3B7A9E",
+              "Women (same-sex)": "#266D4A"
+            },
+
+            "sourceText":["Office for National Statistics – Divorces in England and Wales"],
+            "sourceURL":["https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/divorce/datasets/divorcesinenglandandwales"],
+            "draggable": true,
+           "annotationsChart" : [],
+
+            "wordwrap":[30,20,10],
+            "annoAlign": ["middle","middle","end"],
+            "annotationBullet" : [],
+
+            "circles" : false,
+            "annotationCXCY":[
+                ["Jan-93","68.4"],
+                ["Jan-08","73"]
+            ],
+
+            "yAxisLabel":"Age (in years)",
+            "yAxisScale": [30,50],
+            "yAxisBreak": false,
+            "yAxisBreak_sm_md_lg": [65,65,65]
+    },
+
+    "optional" : {
+            "margin_sm": [50, 140, 50, 22],
+            "margin_md": [20, 200, 50, 22],
+            "margin_lg": [20, 200, 50, 22],
+
+            "aspectRatio_sm" : [10,13],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+
+			"mobileBreakpointd3annotation": 630,
+            "mobileBreakpoint" : 414,
+
+            "xAxisTextFormat_sm_md_lg" : ["%y", "%Y", "%Y"],
+
+            "x_num_ticks_sm_md_lg" : [4,4,9],
+            "y_num_ticks_sm_md_lg" : [5,7,7],
+
+            "lineMarkers" : false,
+
+            "vertical_line" : false,
+            "annotateLineX1_Y1_X2_Y2" : [ [["2008", "22000"],["2008", "0"]] ],
+
+            "annotateRect" : false,
+            "annotateRectX_Y" : [ [["2008", 23000],["2009-Apr", 0]]],
+            "lineColor_opcty" : [["#ABCDEF", 0.3], ["#888", 0.4]],
+
+            "centre_line" : false,
+            "centre_line_value" : 25
+    }
+}
