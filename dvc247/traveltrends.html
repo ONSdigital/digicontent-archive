@@ -1,0 +1,2127 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Travel Trends 2013</title>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+
+<style type="text/css">
+	
+#wrapper {
+	max-width: 900px;
+	width: 100%;
+	height: 1134px;
+	background-color: #fff;
+	margin: 0 auto;
+	font-family: 'Open Sans', Arial, sans-serif;
+}
+
+#clear, #show-data, #hide-data, #clear, #show-data, #hide-data {
+	cursor: pointer;
+	opacity: 1;
+}
+
+#europe-button, #asia-button, #africa-button, #south-america-button, #north-america-button, #oceania-button {
+	cursor: pointer;
+	opacity: 0.5;	
+}
+
+#europe-button:hover {
+	opacity: 1;
+}
+
+#asia-button:hover {
+	opacity: 1;
+}
+
+#africa-button:hover {
+	opacity: 1;
+}
+
+#oceania-button:hover {
+	opacity: 1;
+}
+
+#south-america-button:hover {
+	opacity: 1;
+}
+
+#north-america-button:hover {
+	opacity: 1;
+}
+
+#clear:hover {
+	opacity: 1;
+}
+
+#show-data:hover {
+	opacity: 1;
+}
+
+#hide-data:hover {
+	opacity: 1;
+}
+
+.highlightbutton {
+	opacity: 1 !important;
+}
+
+.buttons {
+	opacity: 0.5;
+}
+
+.buttons:hover {
+	opacity: 1;
+}
+
+
+.countries:hover .other {
+	opacity: 0.15;
+	cursor: pointer;
+	transition: opacity .5s ease-in-out;
+   	-moz-transition: opacity .5s ease-in-out;
+   	-webkit-transition: opacity .5s ease-in-out;
+}
+
+.countries .other:hover {
+	opacity: 1;	
+	cursor: pointer;
+}
+
+</style>
+
+<script src="https://cdn.ons.gov.uk/vendor/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js" type="text/javascript" charset="utf-8"></script>
+
+<script>
+
+$(document).ready(function() {
+	
+	//Add pym reference, and call the getSetHeight function everytime the window is resized
+	var pymChild = new pym.Child({renderCallback: getSetHeight});
+
+	$('#show-data').click(function() {
+        $('.data').fadeTo('fast', 1);
+		setbuttons(this);
+    });
+	
+	$('#show-data').click(function() {
+        $('#show-data').hide();
+		setbuttons(this);
+    });
+
+	$('#show-data').click(function() {
+        $('#hide-data').show();
+		setbuttons(this);
+    });
+	
+	$('#hide-data').click(function() {
+        $('.data').fadeTo('fast', 0);
+		setbuttons(this);
+    });
+	
+	$('#hide-data').click(function() {
+        $('#hide-data').hide();
+		setbuttons(this);
+    });
+
+	$('#hide-data').click(function() {
+        $('#show-data').show();
+		setbuttons(this);
+    });
+
+	$('#africa-button').click(function() {
+        $('#africa').fadeTo('fast', 1);
+		$('#asia, #north-america, #oceania, #europe, #south-america').fadeTo('fast', 0.15);
+		setbuttons(this);
+    });
+	
+	$('#asia-button').click(function() {
+        $('#asia').fadeTo('fast', 1);
+		$('#europe, #north-america, #oceania, #africa, #south-america').fadeTo('fast', 0.15);
+		setbuttons(this);
+    });
+	
+	$('#europe-button').click(function() {
+        $('#europe').fadeTo('fast', 1);
+		$('#asia, #north-america, #oceania, #africa, #south-america').fadeTo('fast', 0.15);
+		setbuttons(this);
+    });
+	
+	$('#north-america-button').click(function() {
+        $('#north-america').fadeTo('fast', 1);
+		$('#asia, #europe, #oceania, #africa, #south-america').fadeTo('fast', 0.15);
+		setbuttons(this);
+    });
+	
+	$('#south-america-button').click(function() {
+        $('#south-america').fadeTo('fast', 1);
+		$('#asia, #europe, #oceania, #africa, #north-america').fadeTo('fast', 0.15);
+		setbuttons(this);
+    });
+	
+	$('#oceania-button').click(function() {
+        $('#oceania').fadeTo('fast', 1);
+		$('#asia, #europe, #south-america, #africa, #north-america').fadeTo('fast', 0.15);
+		setbuttons(this);
+    });
+
+
+	$('#clear').click(function() {
+    location.reload();
+	});
+
+	
+	//Function to set opacity of buttons
+	function setbuttons(but) {
+		$(".buttons").attr("class","buttons2");
+		$(but).attr("class","buttons highlightbutton");
+		console.log("I'm here");
+	}
+
+
+	//Funtion to set the appropriate height on the page.
+	function getSetHeight() {
+		//Get the current width of the body tag
+		bodywidth = $("body").width();
+		
+		//Define the factor we need to multiply the width by to maintain the proper height of the page (height/width).
+		factor = 1.3455555;
+		
+		//You've set a max width of 900 pixels and so if we need to make it any smaller then we need to adjust the height
+
+		if(bodywidth <= 900) {
+			width= bodywidth;
+			
+			//Work out what the height should be...
+			height= (bodywidth*factor);
+			//...and set it
+			$("#wrapper").height(height);	
+		} else {
+			$("#wrapper").height(1210)	
+		}
+		
+		//Change height of iframe on Visual.ONS depending on the height of the content in this page
+		if (pymChild) {
+			pymChild.sendHeight();
+		}
+
+	}
+	
+
+
+
+});
+
+</script>
+
+</head>
+
+<body>
+
+<div id="wrapper">
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 842 1133.3" preserveAspectRatio="xMinYMin">
+
+<g class="countries">
+<g id="europe">
+
+	<g id="france" class="other">
+	
+		<g id="france-data" class="data" display="none">
+			
+				<text transform="matrix(1 0 0 1 795.0016 193.1463)" display="inline"  font-size="16">4.11</text>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="176.3" fill="#00ABC4" width="155.3" height="23"/>
+				</g>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="90.8" y="203.1" fill="#00ABC4" width="122" height="23"/>
+				</g>
+			</g>
+			
+				<text transform="matrix(1 0 0 1 15.4183 220.4155)" display="inline"  font-size="16">3.25</text>
+		</g>
+		
+			<line fill="none" stroke="#00ABC4" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="240.7" y1="214.6" x2="601.3" y2="187.8"/>
+		<rect x="140.2" y="208.2" fill="none" width="68.5" height="19.1"/>
+		<text transform="matrix(1 0 0 1 158.6024 220.3298)"  font-size="16">France</text>
+		<rect x="633.4" y="180.9" fill="none" width="63.6" height="20.6"/>
+		<text transform="matrix(1 0 0 1 633.3725 193.0266)"  font-size="16">France </text>
+		<circle fill="#00ABC4" cx="230.9" cy="214.6" r="11.5"/>
+		<circle fill="#00ABC4" cx="611.1" cy="187.8" r="11.5"/>
+		<text transform="matrix(1 0 0 1 605.8518 193.1462)" fill="#FFFFFF"  font-weight="600" font-size="16">1</text>
+		<text transform="matrix(1 0 0 1 226.3726 220.415)" fill="#FFFFFF"  font-weight="600" font-size="16">2</text>
+	</g>
+	
+	
+	<g id="germany" class="other">
+	
+		<g id="germany-data" class="data" display="none">
+			
+				<text transform="matrix(1 0 0 1 795.0016 220.1664)" display="inline"  font-size="16">3.22</text>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="203.3" fill="#00ABC4" width="122" height="23"/>
+				</g>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="101.5" y="230.3" fill="#00ABC4" width="111.3" height="23"/>
+				</g>
+			</g>
+			
+				<text transform="matrix(1 0 0 1 15.4185 247.4721)" display="inline"  font-size="16">2.97</text>
+		</g>
+		<rect x="124.6" y="235.2" fill="none" width="84.1" height="19.1"/>
+		<text transform="matrix(1 0 0 1 139.8836 247.4088)"  font-size="16">Germany</text>
+		<rect x="633.4" y="207.9" fill="none" width="80.5" height="20.6"/>
+		<text transform="matrix(1 0 0 1 633.3725 220.0276)"  font-size="16">Germany</text>
+		
+			<line fill="none" stroke="#00ABC4" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="239.7" y1="242.2" x2="601.9" y2="214.3"/>
+		<circle fill="#00ABC4" cx="229.9" cy="241.8" r="11.5"/>
+		<circle fill="#00ABC4" cx="611.1" cy="214.8" r="11.5"/>
+		<text transform="matrix(1 0 0 1 606.7269 220.4157)" fill="#FFFFFF"  font-weight="600" font-size="16">2</text>
+		<text transform="matrix(1 0 0 1 225.6432 247.4724)" fill="#FFFFFF"  font-weight="600" font-size="16">3</text>
+	</g>
+	
+	
+	<g id="irish-republic" class="other">
+	
+		<g id="ireland-data" class="data" display="none">
+			
+				<text transform="matrix(1 0 0 1 795.0015 274.2068)" display="inline"  font-size="16">2.49</text>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="116.1" y="257.3" fill="#00ABC4" width="96.7" height="23"/>
+				</g>
+			</g>
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 15.4186 274.5419)"  font-size="16">2.58</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="257.3" fill="#00ABC4" width="93.3" height="23"/>
+				</g>
+			</g>
+		</g>
+		
+			<line fill="none" stroke="#00ABC4" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="239.7" y1="268.8" x2="601.9" y2="268.8"/>
+		<circle fill="#00ABC4" cx="229.9" cy="268.8" r="11.5"/>
+		<circle fill="#00ABC4" cx="611.1" cy="268.8" r="11.5"/>
+		<rect x="89.4" y="262.2" fill="none" width="119.3" height="19.1"/>
+		<text transform="matrix(1 0 0 1 108.0477 274.3578)"  font-size="16">Irish Republic</text>
+		<rect x="633.4" y="261.9" fill="none" width="118.8" height="20.6"/>
+		<text transform="matrix(1 0 0 1 633.3725 274.0278)"  font-size="16">Irish Republic</text>
+		<text transform="matrix(1 0 0 1 224.7685 274.5417)" fill="#FFFFFF"  font-weight="600" font-size="16">4</text>
+		<text transform="matrix(1 0 0 1 605.8521 274.5422)" fill="#FFFFFF"  font-weight="600" font-size="16">4</text>
+	</g>
+	
+		
+	<g id="netherlands" class="other">
+	
+		<g id="netherlands-data" class="data" display="none">
+			
+				<text transform="matrix(1 0 0 1 794.6677 328.8657)" display="inline" font-size="16">1.97</text>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="152" y="284.3" fill="#00ABC4" width="60.8" height="23"/>
+				</g>
+			</g>
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 15.4183 301.7956)" font-size="16">1.62</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="312" fill="#00ABC4" width="74.9" height="23"/>
+				</g>
+			</g>
+		</g>
+		
+			<line fill="none" stroke="#00ABC4" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="239.7" y1="295.8" x2="601.3" y2="323.5"/>
+		<circle fill="#00ABC4" cx="229.9" cy="295.8" r="11.5"/>
+		<circle fill="#00ABC4" cx="611.1" cy="323.4" r="11.5"/>
+		<rect x="101.4" y="289.1" fill="none" width="107.3" height="19.1"/>
+		<text transform="matrix(1 0 0 1 116.4852 301.3049)" font-size="16">Netherlands</text>
+		<rect x="633.4" y="317.6" fill="none" width="108.8" height="20.6"/>
+		<text transform="matrix(1 0 0 1 633.3725 329.8064)" font-size="16">Netherlands</text>
+		<text transform="matrix(1 0 0 1 225.6435 301.7959)" fill="#FFFFFF" font-size="16">5</text>
+		<text transform="matrix(1 0 0 1 606.727 328.9496)" fill="#FFFFFF" font-size="16">6</text>
+	</g>
+	
+	
+	<g id="spain" class="other">
+	
+		<g id="spain-data" class="data" display="none">
+			
+				<text transform="matrix(1 0 0 1 795.0016 301.7957)" display="inline" font-size="16">1.99</text>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="157.8" y="311.2" fill="#00ABC4" width="55" height="23"/>
+				</g>
+			</g>
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 15.4183 328.463)" font-size="16">1.47</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="284.3" fill="#00ABC4" width="75.5" height="23"/>
+				</g>
+			</g>
+		</g>
+		
+			<line fill="none" stroke="#00ABC4" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="240" y1="322.7" x2="602.9" y2="295.8"/>
+		<circle fill="#00ABC4" cx="230.2" cy="322.7" r="11.5"/>
+		<rect x="153.2" y="316" fill="none" width="55.5" height="19.1"/>
+		<text transform="matrix(1 0 0 1 167.3524 328.1632)" font-size="16">Spain</text>
+		<text transform="matrix(1 0 0 1 225.3518 328.4631)" fill="#FFFFFF" font-size="16">6</text>
+		<circle fill="#00ABC4" cx="611.1" cy="295.8" r="11.5"/>
+		<rect x="633.4" y="288.9" fill="none" width="50.8" height="20.6"/>
+		<text transform="matrix(1 0 0 1 633.3725 301.0549)" font-size="16">Spain</text>
+		<text transform="matrix(1 0 0 1 607.0604 301.8026)" fill="#FFFFFF" font-size="16">5</text>
+	</g>
+	
+	
+	<g id="italy" class="other">
+	
+		<g id="italy-data" class="data" display="none">
+			
+				<text transform="matrix(1 0 0 1 795.0016 355.2685)" display="inline"  font-size="16">1.76</text>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="162.2" y="338.2" fill="#00ABC4" width="50.6" height="23"/>
+				</g>
+			</g>
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 15.4183 355.1235)"  font-size="16">1.35</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="338.3" fill="#00ABC4" width="67.2" height="23"/>
+				</g>
+			</g>
+		</g>
+		
+			<line fill="none" stroke="#00ABC4" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="240" y1="350.2" x2="601.4" y2="350.2"/>
+		<circle fill="#00ABC4" cx="230.2" cy="349.7" r="11.5"/>
+		<circle fill="#00ABC4" cx="611.1" cy="349.8" r="11.5"/>
+		<rect x="169.2" y="343" fill="none" width="39.5" height="19.1"/>
+		<text transform="matrix(1 0 0 1 177.5867 355.1123)"  font-size="16">Italy</text>
+		<rect x="633.4" y="342.9" fill="none" width="39.5" height="20.6"/>
+		<text transform="matrix(1 0 0 1 633.3725 355.0288)"  font-size="16">Italy</text>
+		<text transform="matrix(1 0 0 1 225.8521 355.9568)" fill="#FFFFFF"  font-weight="600" font-size="16">7</text>
+		<text transform="matrix(1 0 0 1 606.7269 356.5343)" fill="#FFFFFF"  font-weight="600" font-size="16">7</text>
+	</g>
+	
+	
+	<g id="poland" class="other">
+	
+		<g id="poland-data" class="data" display="none">
+			
+				<text transform="matrix(1 0 0 1 795.0013 382.2895)" display="inline"  font-size="16">1.49</text>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="193" y="500.2" fill="#00ABC4" width="19.8" height="23"/>
+				</g>
+			</g>
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 15.4186 517.344)"  font-size="16">0.53</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="365.3" fill="#00ABC4" width="56.8" height="23"/>
+				</g>
+			</g>
+		</g>
+		
+			<line fill="none" stroke="#00ABC4" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="241" y1="511.1" x2="601.5" y2="376.7"/>
+		<circle fill="#00ABC4" cx="230.2" cy="511.7" r="11.5"/>
+		<circle fill="#00ABC4" cx="611.1" cy="376.8" r="11.5"/>
+		<rect x="144.2" y="505.4" fill="none" width="64.5" height="19.1"/>
+		<text transform="matrix(1 0 0 1 156.8367 517.5821)"  font-size="16">Poland</text>
+		<rect x="633.4" y="370.5" fill="none" width="64.1" height="20.6"/>
+		<text transform="matrix(1 0 0 1 633.3725 382.6955)"  font-size="16">Poland</text>
+		<text transform="matrix(1 0 0 1 220.0731 517.3436)" fill="#FFFFFF"  font-weight="600" font-size="16">13</text>
+		<text transform="matrix(1 0 0 1 606.7268 382.4383)" fill="#FFFFFF"  font-weight="600" font-size="16">8</text>
+	</g>
+	
+	
+	<g id="belgium" class="other">
+	
+		<g id="belgium-data" class="data" display="none">
+			
+				<text transform="matrix(1 0 0 1 795.0013 409.31)" display="inline"  font-size="16">1.12</text>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="171.4" y="365.2" fill="#00ABC4" width="41.4" height="23"/>
+				</g>
+			</g>
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 15.4185 382.4382)"  font-size="16">1.10</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="392.3" fill="#00ABC4" width="42.1" height="23"/>
+				</g>
+			</g>
+		</g>
+		
+			<line fill="none" stroke="#00ABC4" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="240.4" y1="376.7" x2="602.9" y2="403.8"/>
+		<circle fill="#00ABC4" cx="230.2" cy="376.7" r="11.5"/>
+		<circle fill="#00ABC4" cx="611.1" cy="403.8" r="11.5"/>
+		<rect x="137.7" y="369.9" fill="none" width="71" height="19.1"/>
+		<text transform="matrix(1 0 0 1 147.7977 382.0594)"  font-size="16">Belgium</text>
+		<rect x="633.4" y="396.9" fill="none" width="73.5" height="20.6"/>
+		<text transform="matrix(1 0 0 1 633.3725 409.0288)"  font-size="16">Belgium</text>
+		<text transform="matrix(1 0 0 1 225.8518 382.4386)" fill="#FFFFFF"  font-weight="600" font-size="16">8</text>
+		<text transform="matrix(1 0 0 1 607.0604 409.4676)" fill="#FFFFFF"  font-weight="600" font-size="16">9</text>
+	</g>
+	
+	
+	<g id="norway" class="other">
+	
+		<g id="norway-data" class="data" display="none">
+			
+				<text transform="matrix(1 0 0 1 795.0015 463.3504)" display="inline"  font-size="16">0.87</text>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="193.7" y="527.2" fill="#00ABC4" width="19.1" height="23"/>
+				</g>
+			</g>
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 15.4183 543.5937)"  font-size="16">0.51</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="446.3" fill="#00ABC4" width="33.3" height="23"/>
+				</g>
+			</g>
+		</g>
+		
+			<line fill="none" stroke="#00ABC4" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="240.7" y1="538.3" x2="600.3" y2="457.8"/>
+		<circle fill="#00ABC4" cx="230.2" cy="538.7" r="11.5"/>
+		<circle fill="#00ABC4" cx="611" cy="457.8" r="11.5"/>
+		<rect x="140.2" y="531.5" fill="none" width="68.5" height="19.1"/>
+		<text transform="matrix(1 0 0 1 151.0399 543.6968)"  font-size="16">Norway</text>
+		<rect x="633.3" y="450.9" fill="none" width="70.8" height="20.6"/>
+		<text transform="matrix(1 0 0 1 633.2892 463.0289)"  font-size="16">Norway</text>
+		<text transform="matrix(1 0 0 1 601.5522 463.2972)" fill="#FFFFFF"  font-weight="600" font-size="16">11</text>
+		<text transform="matrix(1 0 0 1 220.0731 544.2894)" fill="#FFFFFF"  font-weight="600" font-size="16">14</text>
+	</g>
+	
+	
+	<g id="switzerland" class="other">
+	
+		<g id="switzerland-data" class="data" display="none">
+		
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 795.0015 517.3919)"  font-size="16">0.86</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="190.4" y="446.2" fill="#00ABC4" width="22.4" height="23"/>
+				</g>
+			</g>
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 15.4186 463.2971)"  font-size="16">0.60</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="500.3" fill="#00ABC4" width="32.9" height="23"/>
+				</g>
+			</g>
+		</g>
+		
+			<line fill="none" stroke="#00ABC4" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="240.4" y1="457.7" x2="600.3" y2="511.9"/>
+		<circle fill="#00ABC4" cx="230.2" cy="457.7" r="11.5"/>
+		<circle fill="#00ABC4" cx="611.1" cy="511.8" r="11.5"/>
+		<rect x="106.9" y="451.6" fill="none" width="101.8" height="19.1"/>
+		<text transform="matrix(1 0 0 1 122.2195 463.7369)"  font-size="16">Switzerland</text>
+		<rect x="633.4" y="504.9" fill="none" width="100.8" height="20.6"/>
+		<text transform="matrix(1 0 0 1 633.3725 517.0289)"  font-size="16">Switzerland</text>
+		<text transform="matrix(1 0 0 1 220.4896 463.2972)" fill="#FFFFFF"  font-weight="600" font-size="16">11</text>
+		<text transform="matrix(1 0 0 1 601.1356 517.8976)" fill="#FFFFFF"  font-weight="600" font-size="16">13</text>
+	</g>
+	
+	
+	<g id="sweden" class="other">
+	
+		<g id="sweden-data" class="data" display="none">
+		
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 795.0015 490.3714)"  font-size="16">0.87</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="190.9" y="473.2" fill="#00ABC4" width="21.9" height="23"/>
+				</g>
+			</g>
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 15.4186 490.4807)"  font-size="16">0.59</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="473.3" fill="#00ABC4" width="33.2" height="23"/>
+				</g>
+			</g>
+		</g>
+		
+			<line fill="none" stroke="#00ABC4" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="240.4" y1="485.3" x2="599.6" y2="485.3"/>
+		<circle fill="#00ABC4" cx="611.1" cy="484.8" r="11.5"/>
+		<circle fill="#00ABC4" cx="230.2" cy="484.7" r="11.5"/>
+		<rect x="135.9" y="477.6" fill="none" width="72.8" height="19.1"/>
+		<text transform="matrix(1 0 0 1 149.8992 489.7997)"  font-size="16">Sweden</text>
+		<rect x="633.4" y="477.9" fill="none" width="70.8" height="20.6"/>
+		<text transform="matrix(1 0 0 1 633.3725 490.0289)"  font-size="16">Sweden</text>
+		<text transform="matrix(1 0 0 1 600.5522 489.9515)" fill="#FFFFFF"  font-weight="600" font-size="16">12</text>
+		<text transform="matrix(1 0 0 1 220.0731 490.4808)" fill="#FFFFFF"  font-weight="600" font-size="16">12</text>
+	</g>
+	
+	
+	<g id="denmark" class="other">
+	
+		<g id="denmark-data" class="data" display="none">
+		
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 795.0015 544.4124)"  font-size="16">0.66</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="194.9" y="554.3" fill="#00ABC4" width="17.9" height="23"/>
+				</g>
+			</g>
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 15.4186 570.549)"  font-size="16">0.48</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="527.3" fill="#00ABC4" width="25.5" height="23"/>
+				</g>
+			</g>
+		</g>
+		
+			<line fill="none" stroke="#00ABC4" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="240.7" y1="565.2" x2="600.3" y2="538.8"/>
+		<circle fill="#00ABC4" cx="230.2" cy="565.8" r="11.5"/>
+		<circle fill="#00ABC4" cx="611.1" cy="538.8" r="11.5"/>
+		<text transform="matrix(1 0 0 1 220.0731 571.7133)" fill="#FFFFFF"  font-weight="600" font-size="16">15</text>
+		<text transform="matrix(1 0 0 1 600.8022 544.6229)" fill="#FFFFFF"  font-weight="600" font-size="16">14</text>
+		<rect x="128.9" y="558.6" fill="none" width="79.8" height="19.1"/>
+		<text transform="matrix(1 0 0 1 139.532 570.7632)"  font-size="16">Denmark</text>
+		<rect x="633.4" y="531.9" fill="none" width="100.8" height="20.6"/>
+		<text transform="matrix(1 0 0 1 633.3725 544.0279)"  font-size="16">Denmark</text>
+	</g>
+	
+	
+	<g id="romania" class="other">
+	
+		<g id="romania-data" class="data" display="none">
+		
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 795.0013 598.4531)"  font-size="16">0.47</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="581.3" fill="#00ABC4" width="17.9" height="23"/>
+				</g>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="210.2" y="1097.4" fill="#00ABC4" width="2.6" height="23"/>
+				</g>
+			</g>
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 15.4188 1114.4315)"  font-size="16">0.06</text>
+			</g>
+		</g>
+		<path fill="#00ABC4" d="M238.8,1110c-0.6-0.4-0.7-1.2-0.3-1.7l0,0c0.4-0.6,1.2-0.7,1.8-0.3l0,0c0.6,0.4,0.7,1.2,0.3,1.7l0,0
+			c-0.2,0.3-0.6,0.5-1,0.5l0,0C239.2,1110.2,239,1110.1,238.8,1110z M241.1,1106.7c-0.6-0.4-0.7-1.2-0.3-1.7l0,0
+			c0.4-0.6,1.2-0.7,1.7-0.3l0,0c0.6,0.4,0.7,1.2,0.3,1.8l0,0c-0.2,0.3-0.6,0.5-1,0.5l0,0C241.5,1106.9,241.3,1106.8,241.1,1106.7z
+			 M243.4,1103.4c-0.6-0.4-0.7-1.2-0.3-1.7l0,0c0.4-0.6,1.2-0.7,1.7-0.3l0,0c0.6,0.4,0.7,1.2,0.3,1.8l0,0c-0.2,0.3-0.6,0.5-1,0.5
+			l0,0C243.8,1103.6,243.6,1103.6,243.4,1103.4z M245.7,1100.1c-0.6-0.4-0.7-1.2-0.3-1.8l0,0c0.4-0.6,1.2-0.7,1.7-0.3l0,0
+			c0.6,0.4,0.7,1.2,0.3,1.7l0,0c-0.2,0.3-0.6,0.5-1,0.5l0,0C246.1,1100.4,245.9,1100.3,245.7,1100.1z M247.9,1096.9
+			c-0.6-0.4-0.7-1.2-0.3-1.7l0,0c0.4-0.6,1.2-0.7,1.7-0.3l0,0c0.6,0.4,0.7,1.2,0.3,1.7l0,0c-0.2,0.4-0.6,0.5-1,0.5l0,0
+			C248.4,1097.1,248.2,1097,247.9,1096.9z M250.2,1093.6c-0.6-0.4-0.7-1.2-0.3-1.7l0,0c0.4-0.6,1.2-0.7,1.7-0.3l0,0
+			c0.6,0.4,0.7,1.2,0.3,1.7l0,0c-0.2,0.3-0.6,0.5-1,0.5l0,0C250.7,1093.8,250.5,1093.7,250.2,1093.6z M252.5,1090.3
+			c-0.6-0.4-0.7-1.2-0.3-1.7l0,0c0.4-0.6,1.2-0.7,1.7-0.3l0,0c0.6,0.4,0.7,1.2,0.3,1.7l0,0c-0.2,0.3-0.6,0.5-1,0.5l0,0
+			C253,1090.5,252.8,1090.4,252.5,1090.3z M254.8,1087c-0.6-0.4-0.7-1.2-0.3-1.7l0,0c0.4-0.6,1.2-0.7,1.7-0.3l0,0
+			c0.6,0.4,0.7,1.2,0.3,1.7l0,0c-0.2,0.3-0.6,0.5-1,0.5l0,0C255.3,1087.2,255,1087.2,254.8,1087z M257.1,1083.7
+			c-0.6-0.4-0.7-1.2-0.3-1.7l0,0c0.4-0.6,1.2-0.7,1.8-0.3l0,0c0.6,0.4,0.7,1.2,0.3,1.7l0,0c-0.2,0.4-0.6,0.5-1,0.5l0,0
+			C257.6,1084,257.3,1083.9,257.1,1083.7z M259.4,1080.5c-0.6-0.4-0.7-1.2-0.3-1.7l0,0c0.4-0.6,1.2-0.7,1.7-0.3l0,0
+			c0.6,0.4,0.7,1.2,0.3,1.8l0,0c-0.2,0.3-0.6,0.5-1,0.5l0,0C259.9,1080.7,259.6,1080.6,259.4,1080.5z M261.7,1077.2
+			c-0.6-0.4-0.7-1.2-0.3-1.7l0,0c0.4-0.6,1.2-0.7,1.7-0.3l0,0c0.6,0.4,0.7,1.2,0.3,1.7l0,0c-0.2,0.3-0.6,0.5-1,0.5l0,0
+			C262.2,1077.4,261.9,1077.3,261.7,1077.2z M264,1073.9c-0.6-0.4-0.7-1.2-0.3-1.8l0,0c0.4-0.6,1.2-0.7,1.7-0.3l0,0
+			c0.6,0.4,0.7,1.2,0.3,1.7l0,0c-0.2,0.3-0.6,0.5-1,0.5l0,0C264.4,1074.1,264.2,1074.1,264,1073.9z M266.3,1070.6
+			c-0.6-0.4-0.7-1.2-0.3-1.7l0,0c0.4-0.6,1.2-0.7,1.7-0.3l0,0c0.6,0.4,0.7,1.2,0.3,1.7l0,0c-0.2,0.3-0.6,0.5-1,0.5l0,0
+			C266.8,1070.8,266.5,1070.8,266.3,1070.6z M268.6,1067.3c-0.6-0.4-0.7-1.2-0.3-1.7l0,0c0.4-0.6,1.2-0.7,1.7-0.3l0,0
+			c0.6,0.4,0.7,1.2,0.3,1.7l0,0c-0.2,0.3-0.6,0.5-1,0.5l0,0C269,1067.6,268.8,1067.5,268.6,1067.3z M270.9,1064.1
+			c-0.6-0.4-0.7-1.2-0.3-1.7l0,0c0.4-0.6,1.2-0.7,1.7-0.3l0,0c0.6,0.4,0.7,1.2,0.3,1.7l0,0c-0.2,0.4-0.6,0.5-1,0.5l0,0
+			C271.3,1064.3,271.1,1064.2,270.9,1064.1z M273.1,1060.8c-0.6-0.4-0.7-1.2-0.3-1.7l0,0c0.4-0.6,1.2-0.7,1.7-0.3l0,0
+			c0.6,0.4,0.7,1.2,0.3,1.7l0,0c-0.2,0.3-0.6,0.5-1,0.5l0,0C273.6,1061,273.4,1060.9,273.1,1060.8z M275.4,1057.5
+			c-0.6-0.4-0.7-1.2-0.3-1.7l0,0c0.4-0.6,1.2-0.7,1.8-0.3l0,0c0.6,0.4,0.7,1.2,0.3,1.7l0,0c-0.2,0.3-0.6,0.5-1,0.5l0,0
+			C275.9,1057.7,275.7,1057.7,275.4,1057.5z M277.7,1054.2c-0.6-0.4-0.7-1.2-0.3-1.7l0,0c0.4-0.6,1.2-0.7,1.7-0.3l0,0
+			c0.6,0.4,0.7,1.2,0.3,1.8l0,0c-0.2,0.3-0.6,0.5-1,0.5l0,0C278.2,1054.5,277.9,1054.4,277.7,1054.2z M280,1050.9
+			c-0.6-0.4-0.7-1.2-0.3-1.7l0,0c0.4-0.6,1.2-0.7,1.7-0.3l0,0c0.6,0.4,0.7,1.2,0.3,1.7l0,0c-0.2,0.4-0.6,0.5-1,0.5l0,0
+			C280.5,1051.2,280.2,1051.1,280,1050.9z M282.3,1047.7c-0.6-0.4-0.7-1.2-0.3-1.8l0,0c0.4-0.6,1.2-0.7,1.7-0.3l0,0
+			c0.6,0.4,0.7,1.2,0.3,1.7l0,0c-0.2,0.3-0.6,0.5-1,0.5l0,0C282.8,1047.9,282.5,1047.8,282.3,1047.7z M284.6,1044.4
+			c-0.6-0.4-0.7-1.2-0.3-1.7l0,0c0.4-0.6,1.2-0.7,1.7-0.3l0,0c0.6,0.4,0.7,1.2,0.3,1.7l0,0c-0.2,0.4-0.6,0.5-1,0.5l0,0
+			C285.1,1044.6,284.8,1044.5,284.6,1044.4z M286.9,1041.1c-0.6-0.4-0.7-1.2-0.3-1.7l0,0c0.4-0.6,1.2-0.7,1.7-0.3l0,0
+			c0.6,0.4,0.7,1.2,0.3,1.7l0,0c-0.2,0.4-0.6,0.5-1,0.5l0,0C287.4,1041.3,287.1,1041.3,286.9,1041.1z M289.2,1037.8
+			c-0.6-0.4-0.7-1.2-0.3-1.7l0,0c0.4-0.6,1.2-0.7,1.7-0.3l0,0c0.6,0.4,0.7,1.2,0.3,1.7l0,0c-0.2,0.3-0.6,0.5-1,0.5l0,0
+			C289.7,1038.1,289.4,1038,289.2,1037.8z M291.5,1034.6c-0.6-0.4-0.7-1.2-0.3-1.7l0,0c0.4-0.6,1.2-0.7,1.7-0.3l0,0
+			c0.6,0.4,0.7,1.2,0.3,1.7l0,0c-0.2,0.3-0.6,0.5-1,0.5l0,0C291.9,1034.8,291.7,1034.7,291.5,1034.6z M293.8,1031.3
+			c-0.6-0.4-0.7-1.2-0.3-1.7l0,0c0.4-0.6,1.2-0.7,1.7-0.3l0,0c0.6,0.4,0.7,1.2,0.3,1.7l0,0c-0.2,0.4-0.6,0.5-1,0.5l0,0
+			C294.2,1031.5,294,1031.4,293.8,1031.3z M296.1,1028c-0.6-0.4-0.7-1.2-0.3-1.7l0,0c0.4-0.6,1.2-0.7,1.7-0.3l0,0
+			c0.6,0.4,0.7,1.2,0.3,1.7l0,0c-0.2,0.3-0.6,0.5-1,0.5l0,0C296.5,1028.2,296.3,1028.1,296.1,1028z M298.3,1024.7
+			c-0.6-0.4-0.7-1.2-0.3-1.7l0,0c0.4-0.6,1.2-0.7,1.7-0.3l0,0c0.6,0.4,0.7,1.2,0.3,1.7l0,0c-0.2,0.3-0.6,0.5-1,0.5l0,0
+			C298.8,1024.9,298.6,1024.9,298.3,1024.7z M300.6,1021.4c-0.6-0.4-0.7-1.2-0.3-1.8l0,0c0.4-0.6,1.2-0.7,1.7-0.3l0,0
+			c0.6,0.4,0.7,1.2,0.3,1.8l0,0c-0.2,0.3-0.6,0.5-1,0.5l0,0C301.1,1021.7,300.9,1021.6,300.6,1021.4z M302.9,1018.2
+			c-0.6-0.4-0.7-1.2-0.3-1.7l0,0c0.4-0.6,1.2-0.7,1.7-0.3l0,0c0.6,0.4,0.7,1.2,0.3,1.7l0,0c-0.2,0.3-0.6,0.5-1,0.5l0,0
+			C303.4,1018.4,303.1,1018.3,302.9,1018.2z M305.2,1014.9c-0.6-0.4-0.7-1.2-0.3-1.7l0,0c0.4-0.6,1.2-0.7,1.7-0.3l0,0
+			c0.6,0.4,0.7,1.2,0.3,1.7l0,0c-0.2,0.3-0.6,0.5-1,0.5l0,0C305.7,1015.1,305.4,1015,305.2,1014.9z M307.5,1011.6
+			c-0.6-0.4-0.7-1.2-0.3-1.7l0,0c0.4-0.6,1.2-0.7,1.7-0.3l0,0c0.6,0.4,0.7,1.2,0.3,1.7l0,0c-0.2,0.4-0.6,0.5-1,0.5l0,0
+			C308,1011.8,307.7,1011.8,307.5,1011.6z M309.8,1008.3c-0.6-0.4-0.7-1.2-0.3-1.7l0,0c0.4-0.6,1.2-0.7,1.7-0.3l0,0
+			c0.6,0.4,0.7,1.2,0.3,1.7l0,0c-0.2,0.3-0.6,0.5-1,0.5l0,0C310.3,1008.5,310,1008.5,309.8,1008.3z M312.1,1005
+			c-0.6-0.4-0.7-1.2-0.3-1.7l0,0c0.4-0.6,1.2-0.7,1.7-0.3l0,0c0.6,0.4,0.7,1.2,0.3,1.7l0,0c-0.2,0.3-0.6,0.5-1,0.5l0,0
+			C312.6,1005.3,312.3,1005.2,312.1,1005z M314.4,1001.8c-0.6-0.4-0.7-1.2-0.3-1.7l0,0c0.4-0.6,1.2-0.7,1.7-0.3l0,0
+			c0.6,0.4,0.7,1.2,0.3,1.7l0,0c-0.2,0.3-0.6,0.5-1,0.5l0,0C314.9,1002,314.6,1001.9,314.4,1001.8z"/>
+		
+			<line fill="none" stroke="#00ABC4" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="316.1" y1="999.3" x2="600.6" y2="592.5"/>
+		<circle fill="#00ABC4" cx="611.1" cy="592.8" r="11.5"/>
+		<rect x="633.4" y="585.9" fill="none" width="80" height="20.6"/>
+		<text transform="matrix(1 0 0 1 633.3725 598.0278)"  font-size="16">Romania</text>
+		<circle fill="#00ABC4" cx="230.2" cy="1108.9" r="11.5"/>
+		<rect x="127.2" y="1102.2" fill="none" width="80" height="20.6"/>
+		<text transform="matrix(1 0 0 1 141.1843 1114.3612)"  font-size="16">Romania</text>
+		<text transform="matrix(1 0 0 1 220.8544 1114.4315)" fill="#FFFFFF"  font-weight="600" font-size="16">40</text>
+		<text transform="matrix(1 0 0 1 601.1356 598.4525)" fill="#FFFFFF"  font-weight="600" font-size="16">16</text>
+	</g>
+	
+	
+	<g id="austria" class="other">
+	
+		<g id="austria-data" class="data" display="none">
+			
+				<text transform="matrix(1 0 0 1 795.0015 760.5761)" display="inline"  font-size="16">0.26</text>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="201.7" y="608.4" fill="#00ABC4" width="11.1" height="23"/>
+				</g>
+			</g>
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 15.4186 624.534)"  font-size="16">0.30</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="743.3" fill="#00ABC4" width="10" height="23"/>
+				</g>
+			</g>
+		</g>
+		
+			<line fill="none" stroke="#00ABC4" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="241" y1="619.9" x2="600.6" y2="754.9"/>
+		<circle fill="#00ABC4" cx="230.2" cy="619.9" r="11.5"/>
+		<circle fill="#00ABC4" cx="610" cy="754.8" r="11.5"/>
+		<rect x="144.4" y="612.5" fill="none" width="64.3" height="19.1"/>
+		<text transform="matrix(1 0 0 1 156.0008 624.6769)"  font-size="16">Austria</text>
+		<text transform="matrix(1 0 0 1 220.4893 626.3138)" fill="#FFFFFF"  font-weight="600" font-size="16">17</text>
+		<text transform="matrix(1 0 0 1 601.1355 760.6041)" fill="#FFFFFF"  font-weight="600" font-size="16">22</text>
+		<rect x="633.4" y="747.9" fill="none" width="65.3" height="20.6"/>
+		<text transform="matrix(1 0 0 1 633.3725 760.0279)"  font-size="16">Austria</text>
+	</g>
+	
+	
+	<g id="portugal" class="other">
+	
+		<g id="portugal-data" class="data" display="none">
+		
+			<g display="inline">
+			
+				<text transform="matrix(1 0 0 1 795.0015 625.4731)"  font-size="16">0.40</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="204.8" y="716.4" fill="#00ABC4" width="8" height="23"/>
+				</g>
+			</g>
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 15.4186 733.3994)"  font-size="16">0.21</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="608.3" fill="#00ABC4" width="15.1" height="23"/>
+				</g>
+			</g>
+		</g>
+		
+			<line fill="none" stroke="#00ABC4" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="240.7" y1="727.9" x2="602.5" y2="619.8"/>
+		<circle fill="#00ABC4" cx="230.2" cy="727.9" r="11.5"/>
+		<circle fill="#00ABC4" cx="611.1" cy="619.8" r="11.5"/>
+		<rect x="131.6" y="721.3" fill="none" width="77.1" height="19.1"/>
+		<text transform="matrix(1 0 0 1 145.6961 733.4589)"  font-size="16">Portugal</text>
+		<rect x="633.4" y="612.9" fill="none" width="74.3" height="20.6"/>
+		<text transform="matrix(1 0 0 1 633.3725 625.0279)"  font-size="16">Portugal</text>
+		<text transform="matrix(1 0 0 1 221.4272 733.3998)" fill="#FFFFFF"  font-weight="600" font-size="16">21</text>
+		<text transform="matrix(1 0 0 1 601.5522 625.4974)" fill="#FFFFFF"  font-weight="600" font-size="16">17</text>
+	</g>
+	
+	
+	<g id="czech" class="other">
+	
+		<g id="czech-data" class="data" display="none">
+		
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 795.0016 679.5143)"  font-size="16">0.35</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="202.5" y="635.4" fill="#00ABC4" width="10.3" height="23"/>
+				</g>
+			</g>
+			<g id="data_5_" display="inline">
+				<text transform="matrix(1 0 0 1 15.4186 651.956)"  font-size="16">0.27</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="662.3" fill="#00ABC4" width="13.4" height="23"/>
+				</g>
+			</g>
+		</g>
+		
+			<line fill="none" stroke="#00ABC4" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="241" y1="646.9" x2="600.6" y2="673.4"/>
+		<circle fill="#00ABC4" cx="230.2" cy="646.9" r="11.5"/>
+		<circle fill="#00ABC4" cx="611.1" cy="673.8" r="11.5"/>
+		<rect x="81.2" y="639.5" fill="none" width="127.5" height="19.1"/>
+		<text transform="matrix(1 0 0 1 96.5477 651.625)"  font-size="16">Czech Republic</text>
+		<rect x="633.2" y="667" fill="none" width="127.5" height="19.1"/>
+		<text transform="matrix(1 0 0 1 633.2415 679.1946)"  font-size="16">Czech Republic</text>
+		<text transform="matrix(1 0 0 1 220.0731 652.9559)" fill="#FFFFFF"  font-weight="600" font-size="16">18</text>
+		<text transform="matrix(1 0 0 1 601.5523 679.3275)" fill="#FFFFFF"  font-weight="600" font-size="16">19</text>
+	</g>
+	
+	
+	<g id="hungary" class="other">
+	
+		<g id="hungary-data" class="data" display="none">
+		
+			<g id="data_22_" display="inline">
+				<text transform="matrix(1 0 0 1 795.0013 706.5349)"  font-size="16">0.32</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="205.7" y="770.4" fill="#00ABC4" width="7.1" height="23"/>
+				</g>
+			</g>
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 15.4186 786.2701)"  font-size="16">0.19</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="689.3" fill="#00ABC4" width="12.3" height="23"/>
+				</g>
+			</g>
+		</g>
+		
+			<line fill="none" stroke="#00ABC4" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="241.7" y1="781.9" x2="600.3" y2="700.8"/>
+		<circle fill="#00ABC4" cx="230.2" cy="781.9" r="11.5"/>
+		<circle fill="#00ABC4" cx="610" cy="700.8" r="11.5"/>
+		<rect x="133.9" y="774.2" fill="none" width="74.8" height="19.1"/>
+		<text transform="matrix(1 0 0 1 145.0008 786.3134)"  font-size="16">Hungary</text>
+		<rect x="633.4" y="694.1" fill="none" width="74.2" height="20.6"/>
+		<text transform="matrix(1 0 0 1 633.3725 706.2779)"  font-size="16">Hungary</text>
+		<text transform="matrix(1 0 0 1 221.2344 787.6139)" fill="#FFFFFF"  font-weight="600" font-size="16">23</text>
+		<text transform="matrix(1 0 0 1 601.552 706.5421)" fill="#FFFFFF"  font-weight="600" font-size="16">20</text>
+	</g>
+	
+	
+
+	<g id="greece" class="other">
+	
+		<g id="greece-data" class="data" display="none">
+		
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 795.0015 868.6576)"  font-size="16">0.24</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="205.2" y="743.4" fill="#00ABC4" width="7.6" height="23"/>
+				</g>
+			</g>
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 15.4183 760.178)"  font-size="16">0.20</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="851.3" fill="#00ABC4" width="9" height="23"/>
+				</g>
+			</g>
+		</g>
+		
+			<line fill="none" stroke="#00ABC4" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="240.7" y1="754.9" x2="600.1" y2="862.9"/>
+		<circle fill="#00ABC4" cx="230.2" cy="754.9" r="11.5"/>
+		<circle fill="#00ABC4" cx="610" cy="862.8" r="11.5"/>
+		<rect x="143.7" y="748" fill="none" width="65" height="19.1"/>
+		<text transform="matrix(1 0 0 1 155.9774 760.1154)"  font-size="16">Greece</text>
+		<text transform="matrix(1 0 0 1 221.0106 760.1776)" fill="#FFFFFF"  font-weight="600" font-size="16">22</text>
+		<text transform="matrix(1 0 0 1 601.1354 868.5616)" fill="#FFFFFF"  font-weight="600" font-size="16">26</text>
+		<rect x="633.4" y="856.5" fill="none" width="62.3" height="20.6"/>
+		<text transform="matrix(1 0 0 1 633.3725 868.6529)"  font-size="16">Greece</text>
+	</g>
+	
+	
+	<g id="russia" class="other">
+	
+		<g id="russia-data" class="data" display="none">
+			
+				<text transform="matrix(1 0 0 1 795.0016 841.6371)" display="inline"  font-size="16">0.25</text>
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 15.4187 894.6514)"  font-size="16">0.15</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="207.3" y="878.4" fill="#00ABC4" width="5.5" height="23"/>
+				</g>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="824.3" fill="#00ABC4" width="9.5" height="23"/>
+				</g>
+			</g>
+		</g>
+		
+			<line fill="none" stroke="#00ABC4" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="240.3" y1="889.9" x2="599.6" y2="834.9"/>
+		<circle fill="#00ABC4" cx="230.2" cy="889.9" r="11.5"/>
+		<circle fill="#00ABC4" cx="610" cy="835.8" r="11.5"/>
+		<rect x="633.4" y="828.9" fill="none" width="57.7" height="20.6"/>
+		<text transform="matrix(1 0 0 1 633.3725 841.028)"  font-size="16">Russia</text>
+		<text transform="matrix(1 0 0 1 160.7824 894.6514)"  font-size="16">Russia</text>
+		<text transform="matrix(1 0 0 1 221.0106 895.597)" fill="#FFFFFF"  font-weight="600" font-size="16">27</text>
+		<text transform="matrix(1 0 0 1 600.8024 841.442)" fill="#FFFFFF"  font-weight="600" font-size="16">25</text>
+	</g>
+	
+	
+	<g id="finland" class="other">
+	
+		<g id="finland-data" class="data" display="none">
+			
+				<text transform="matrix(1 0 0 1 795.0015 814.6165)" display="inline"  font-size="16">0.26</text>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="206.9" y="851.4" fill="#00ABC4" width="5.9" height="23"/>
+				</g>
+			</g>
+			<g display="inline">
+				<g>
+					<text transform="matrix(1 0 0 1 15.4183 869.4239)"  font-size="16">0.16</text>
+				</g>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="797.3" fill="#00ABC4" width="9.6" height="23"/>
+				</g>
+			</g>
+		</g>
+		
+			<line fill="none" stroke="#00ABC4" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="240.3" y1="862.9" x2="600.3" y2="808.8"/>
+		<circle fill="#00ABC4" cx="610" cy="808.8" r="11.5"/>
+		<circle fill="#00ABC4" cx="230.2" cy="862.9" r="11.5"/>
+		<rect x="633.4" y="801.9" fill="none" width="65.3" height="20.6"/>
+		<text transform="matrix(1 0 0 1 633.3725 814.0279)"  font-size="16">Finland</text>
+		<text transform="matrix(1 0 0 1 154.0089 869.4234)"  font-size="16">Finland</text>
+		<text transform="matrix(1 0 0 1 601.1357 814.8964)" fill="#FFFFFF"  font-weight="600" font-size="16">24</text>
+		<text transform="matrix(1 0 0 1 221.4272 869.097)" fill="#FFFFFF"  font-weight="600" font-size="16">26</text>
+	</g>
+	
+	
+	<g id="lithuania" class="other">
+	
+		<g id="lithuania-data" class="data" display="none">
+		
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="932.3" fill="#00ABC4" width="7.9" height="23"/>
+				</g>
+			</g>
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 795.0018 949.865)"  font-size="16">0.20</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="209.3" y="1043.4" fill="#00ABC4" width="3.5" height="23"/>
+				</g>
+			</g>
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 15.4182 1060.4713)"  font-size="16">0.08</text>
+			</g>
+		</g>
+		<path fill="#00ABC4" d="M240.5,1055.3c-0.2-0.6,0.2-1.3,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0c0.2,0.7-0.2,1.4-0.8,1.6l0,0
+			c-0.1,0-0.2,0.1-0.4,0.1l0,0C241.2,1056.2,240.7,1055.8,240.5,1055.3z M244.3,1054.1c-0.2-0.7,0.2-1.4,0.8-1.6l0,0
+			c0.7-0.2,1.4,0.2,1.6,0.8l0,0c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0.1-0.4,0.1l0,0C245,1055,244.5,1054.7,244.3,1054.1z
+			 M248.2,1053c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0c0.2,0.6-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0-0.4,0l0,0
+			C248.8,1053.8,248.3,1053.5,248.2,1053z M252,1051.8c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0
+			c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0.1-0.4,0.1l0,0C252.6,1052.7,252.2,1052.3,252,1051.8z M255.8,1050.6
+			c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0.1-0.4,0.1l0,0
+			C256.5,1051.5,256,1051.1,255.8,1050.6z M259.6,1049.4c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0
+			c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0-0.4,0l0,0C260.3,1050.3,259.8,1050,259.6,1049.4z M263.5,1048.2
+			c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0c0.2,0.6-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0-0.4,0l0,0
+			C264.1,1049.1,263.6,1048.8,263.5,1048.2z M267.3,1047.1c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0
+			c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0.1-0.4,0.1l0,0C267.9,1048,267.4,1047.6,267.3,1047.1z M271.1,1045.9
+			c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0.1-0.4,0.1l0,0
+			C271.8,1046.8,271.3,1046.4,271.1,1045.9z M274.9,1044.7c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0
+			c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0-0.4,0l0,0C275.6,1045.6,275.1,1045.3,274.9,1044.7z M278.8,1043.5
+			c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0.1-0.4,0.1l0,0
+			C279.4,1044.4,278.9,1044.1,278.8,1043.5z M282.6,1042.4c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0
+			c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0.1-0.4,0.1l0,0C283.2,1043.2,282.7,1042.9,282.6,1042.4z M286.4,1041.2
+			c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0-0.4,0l0,0
+			C287,1042.1,286.6,1041.7,286.4,1041.2z M290.2,1040c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0
+			c0.2,0.6-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0-0.4,0l0,0C290.9,1040.9,290.4,1040.5,290.2,1040z M294,1038.8
+			c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0.1-0.4,0.1l0,0
+			C294.7,1039.7,294.2,1039.4,294,1038.8z M297.9,1037.7c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0
+			c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0.1-0.4,0.1l0,0C298.5,1038.5,298,1038.2,297.9,1037.7z M301.7,1036.5
+			c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0c0.2,0.7-0.2,1.3-0.8,1.6l0,0c-0.1,0-0.2,0.1-0.4,0.1l0,0
+			C302.3,1037.4,301.8,1037,301.7,1036.5z M305.5,1035.3c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0
+			c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0.1-0.4,0.1l0,0C306.2,1036.2,305.7,1035.8,305.5,1035.3z M309.3,1034.1
+			c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0.1-0.4,0.1l0,0
+			C310,1035,309.5,1034.7,309.3,1034.1z M313.2,1032.9c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0
+			c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0-0.4,0l0,0C313.8,1033.8,313.3,1033.5,313.2,1032.9z M317,1031.8
+			c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0c0.2,0.7-0.2,1.3-0.8,1.6l0,0c-0.1,0-0.2,0.1-0.4,0.1l0,0
+			C317.6,1032.7,317.1,1032.3,317,1031.8z M320.8,1030.6c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0
+			c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0.1-0.4,0.1l0,0C321.5,1031.5,321,1031.1,320.8,1030.6z M324.6,1029.4
+			c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0-0.4,0l0,0
+			C325.3,1030.3,324.8,1030,324.6,1029.4z M328.4,1028.2c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0
+			c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0-0.4,0l0,0C329.1,1029.1,328.6,1028.8,328.4,1028.2z M332.3,1027.1
+			c-0.2-0.7,0.2-1.3,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0.1-0.4,0.1l0,0
+			C332.9,1027.9,332.4,1027.6,332.3,1027.1z M336.1,1025.9c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0
+			c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0.1-0.4,0.1l0,0C336.8,1026.8,336.3,1026.4,336.1,1025.9z M339.9,1024.7
+			c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0-0.4,0l0,0
+			C340.6,1025.6,340.1,1025.2,339.9,1024.7z M343.7,1023.5c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0
+			c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0-0.4,0l0,0C344.4,1024.4,343.9,1024.1,343.7,1023.5z M347.6,1022.3
+			c-0.2-0.6,0.2-1.3,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0.1-0.4,0.1l0,0
+			C348.2,1023.2,347.7,1022.9,347.6,1022.3z M351.4,1021.2c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0
+			c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0-0.4,0l0,0C352,1022.1,351.5,1021.7,351.4,1021.2z M355.2,1020
+			c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.3,0.2,1.6,0.8l0,0c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0-0.4,0l0,0
+			C355.9,1020.9,355.4,1020.5,355.2,1020z M359,1018.8c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0
+			c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0.1-0.4,0.1l0,0C359.7,1019.7,359.2,1019.4,359,1018.8z M362.8,1017.6
+			c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0.1-0.4,0.1l0,0
+			C363.5,1018.5,363,1018.2,362.8,1017.6z M366.7,1016.5c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0
+			c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0-0.4,0l0,0C367.3,1017.3,366.8,1017,366.7,1016.5z M370.5,1015.3
+			c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.3,0.2,1.6,0.8l0,0c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0.1-0.4,0.1l0,0
+			C371.2,1016.2,370.7,1015.8,370.5,1015.3z M374.3,1014.1c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0
+			c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0.1-0.4,0.1l0,0C375,1015,374.5,1014.6,374.3,1014.1z M378.1,1012.9
+			c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0.1-0.4,0.1l0,0
+			C378.8,1013.8,378.3,1013.5,378.1,1012.9z M382,1011.8c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0
+			c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0-0.4,0l0,0C382.6,1012.6,382.1,1012.3,382,1011.8z M385.8,1010.6
+			c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0.1-0.4,0.1l0,0
+			C386.4,1011.5,386,1011.1,385.8,1010.6z M389.6,1009.4c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0
+			c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0.1-0.4,0.1l0,0C390.3,1010.3,389.8,1009.9,389.6,1009.4z M393.4,1008.2
+			c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0.1-0.4,0.1l0,0
+			C394.1,1009.1,393.6,1008.8,393.4,1008.2z M397.3,1007c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0
+			c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0.1-0.4,0.1l0,0C397.9,1007.9,397.4,1007.6,397.3,1007z M401.1,1005.9
+			c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0.1-0.4,0.1l0,0
+			C401.7,1006.8,401.2,1006.4,401.1,1005.9z M404.9,1004.7c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0
+			c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0-0.4,0l0,0C405.6,1005.6,405.1,1005.2,404.9,1004.7z M408.7,1003.5
+			c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0c0.2,0.7-0.2,1.3-0.8,1.6l0,0c-0.1,0-0.2,0.1-0.4,0.1l0,0
+			C409.4,1004.4,408.9,1004.1,408.7,1003.5z M412.5,1002.3c-0.2-0.6,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0
+			c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0.1-0.4,0.1l0,0C413.2,1003.2,412.7,1002.9,412.5,1002.3z M416.4,1001.2
+			c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0.1-0.4,0.1l0,0
+			C417,1002,416.5,1001.7,416.4,1001.2z M420.2,1000c-0.2-0.7,0.2-1.4,0.8-1.6l0,0c0.7-0.2,1.4,0.2,1.6,0.8l0,0
+			c0.2,0.7-0.2,1.4-0.8,1.6l0,0c-0.1,0-0.2,0-0.4,0l0,0C420.9,1000.9,420.4,1000.5,420.2,1000z"/>
+		
+			<line fill="none" stroke="#00ABC4" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="422.3" y1="999.3" x2="601.5" y2="943.7"/>
+		<circle fill="#00ABC4" cx="610" cy="943.8" r="11.5"/>
+		<rect x="634.4" y="937.7" fill="none" width="98.5" height="20.6"/>
+		<text transform="matrix(1 0 0 1 634.3553 949.8305)"  font-size="16">Lithuania</text>
+		<rect x="109.4" y="1048" fill="none" width="98.5" height="20.6"/>
+		<text transform="matrix(1 0 0 1 138.5984 1060.1503)"  font-size="16">Lithuania</text>
+		<text transform="matrix(1 0 0 1 601.1357 949.8654)" fill="#FFFFFF"  font-weight="600" font-size="16">29</text>
+		<circle fill="#00ABC4" cx="230.2" cy="1054.9" r="11.5"/>
+		<text transform="matrix(1 0 0 1 221.4273 1060.7841)" fill="#FFFFFF"  font-weight="600" font-size="16">33</text>
+	</g>
+</g>
+
+
+<g id="asia">
+
+	<g id="india" class="other">
+	
+		<g id="india-data" class="data" display="none">
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 795.0015 652.494)"  font-size="16">0.39</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="203.2" y="689.4" fill="#E6007E" width="9.6" height="23"/>
+				</g>
+			</g>
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 15.4185 706.5417)"  font-size="16">0.26</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="635.3" fill="#E6007E" width="14.6" height="23"/>
+				</g>
+			</g>
+		</g>
+		
+			<line fill="none" stroke="#E6007E" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="240.3" y1="701.4" x2="600.6" y2="646.8"/>
+		<circle fill="#E6007E" cx="230.2" cy="700.9" r="11.5"/>
+		<circle fill="#E6007E" cx="611.1" cy="646.8" r="11.5"/>
+		<text transform="matrix(1 0 0 1 601.5521 652.4554)" fill="#FFFFFF"  font-weight="600" font-size="16">18</text>
+		<text transform="matrix(1 0 0 1 221.4272 706.5419)" fill="#FFFFFF"  font-weight="600" font-size="16">20</text>
+		<rect x="158.9" y="694.4" fill="none" width="49.8" height="19.1"/>
+		<text transform="matrix(1 0 0 1 171.6727 706.521)"  font-size="16">India</text>
+		<rect x="633.4" y="639.9" fill="none" width="49.2" height="20.6"/>
+		<text transform="matrix(1 0 0 1 633.3725 652.0279)"  font-size="16">India</text>
+	</g>
+	
+	
+	<g id="japan" class="other">
+	
+		<g id="japan-data" class="data" display="none">
+		
+			<g display="inline">
+				<g>
+					<text transform="matrix(1 0 0 1 795.0016 895.6784)"  font-size="16">0.22</text>
+				</g>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="199.8" y="581.4" fill="#E6007E" width="13" height="23"/>
+				</g>
+			</g>
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 15.4185 598.1757)"  font-size="16">0.35</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="878.3" fill="#E6007E" width="8.3" height="23"/>
+				</g>
+			</g>
+		</g>
+		
+			<line fill="none" stroke="#E6007E" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="239.3" y1="596.3" x2="600.1" y2="890.5"/>
+		<circle fill="#E6007E" cx="230.2" cy="592.3" r="11.5"/>
+		<circle fill="#E6007E" cx="610" cy="889.8" r="11.5"/>
+		<rect x="153.2" y="585.6" fill="none" width="55.5" height="19.1"/>
+		<text transform="matrix(1 0 0 1 167.0086 597.7807)"  font-size="16">Japan</text>
+		<text transform="matrix(1 0 0 1 635.8239 894.0568)" fill="#020202"  font-size="16">Japan</text>
+		<text transform="matrix(1 0 0 1 600.9272 895.5975)" fill="#FFFFFF"  font-weight="600" font-size="16">27</text>
+		<text transform="matrix(1 0 0 1 220.4894 598.1759)" fill="#FFFFFF"  font-weight="600" font-size="16">16</text>
+	</g>
+	
+	
+	<g id="israel" class="other">
+	
+		<g id="israel-data" class="data" display="none">
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 795.0018 1061.3134)"  font-size="16">0.19</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="206.8" y="824.4" fill="#E6007E" width="6" height="23"/>
+				</g>
+			</g>
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 15.4186 841.8589)"  font-size="16">0.16</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="1043.4" fill="#E6007E" width="7" height="23"/>
+				</g>
+			</g>
+		</g>
+		<path fill="#E5007D" d="M597.1,1054.9c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0c0.6,0.4,0.8,1.1,0.4,1.7l0,0
+			c-0.2,0.4-0.6,0.6-1.1,0.6l0,0C597.5,1055.1,597.3,1055,597.1,1054.9z M593.7,1052.8c-0.6-0.4-0.8-1.1-0.4-1.7l0,0
+			c0.4-0.6,1.1-0.8,1.7-0.4l0,0c0.6,0.3,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.6,0.6-1.1,0.6l0,0C594.1,1053,593.9,1053,593.7,1052.8z
+			 M590.3,1050.7c-0.6-0.3-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.6,0.6-1.1,0.6
+			l0,0C590.7,1050.9,590.5,1050.9,590.3,1050.7z M586.9,1048.7c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0
+			c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.7,0.6-1.1,0.6l0,0C587.3,1048.9,587.1,1048.8,586.9,1048.7z M583.4,1046.6
+			c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.6,0.6-1.1,0.6l0,0
+			C583.9,1046.8,583.6,1046.7,583.4,1046.6z M580,1044.5c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0
+			c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.7,0.6-1.1,0.6l0,0C580.4,1044.7,580.2,1044.6,580,1044.5z M576.6,1042.4
+			c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.7,0.6-1.1,0.6l0,0
+			C577,1042.6,576.8,1042.5,576.6,1042.4z M573.2,1040.3c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0
+			c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.6,0.6-1.1,0.6l0,0C573.6,1040.5,573.4,1040.5,573.2,1040.3z M569.8,1038.3
+			c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.7,0.6-1.1,0.6l0,0
+			C570.2,1038.4,570,1038.4,569.8,1038.3z M566.4,1036.2c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0
+			c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.6,0.6-1.1,0.6l0,0C566.8,1036.4,566.6,1036.3,566.4,1036.2z M562.9,1034.1
+			c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.6,0.6-1.1,0.6l0,0
+			C563.4,1034.3,563.1,1034.2,562.9,1034.1z M559.5,1032c-0.6-0.3-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0
+			c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.6,0.6-1.1,0.6l0,0C560,1032.2,559.7,1032.1,559.5,1032z M556.1,1029.9
+			c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.6,0.6-1.1,0.6l0,0
+			C556.5,1030.1,556.3,1030.1,556.1,1029.9z M552.7,1027.8c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0
+			c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.6,0.6-1.1,0.6l0,0C553.1,1028,552.9,1028,552.7,1027.8z M549.3,1025.8
+			c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.6,0.6-1.1,0.6l0,0
+			C549.7,1025.9,549.5,1025.9,549.3,1025.8z M545.9,1023.7c-0.6-0.3-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0
+			c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.6,0.6-1.1,0.6l0,0C546.3,1023.9,546.1,1023.8,545.9,1023.7z M542.5,1021.6
+			c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.6,0.6-1.1,0.6l0,0
+			C542.9,1021.8,542.7,1021.7,542.5,1021.6z M539,1019.5c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0
+			c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.6,0.6-1.1,0.6l0,0C539.5,1019.7,539.2,1019.6,539,1019.5z M535.6,1017.4
+			c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.6,0.6-1.1,0.6l0,0
+			C536.1,1017.6,535.8,1017.6,535.6,1017.4z M532.2,1015.4c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0
+			c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.6,0.6-1.1,0.6l0,0C532.6,1015.5,532.4,1015.5,532.2,1015.4z M528.8,1013.3
+			c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.6,0.6-1.1,0.6l0,0
+			C529.2,1013.5,529,1013.4,528.8,1013.3z M525.4,1011.2c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0
+			c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.6,0.6-1.1,0.6l0,0C525.8,1011.4,525.6,1011.3,525.4,1011.2z M522,1009.1
+			c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.6,0.6-1.1,0.6l0,0
+			C522.4,1009.3,522.2,1009.2,522,1009.1z M518.5,1007c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0
+			c0.6,0.3,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.7,0.6-1.1,0.6l0,0C519,1007.2,518.8,1007.1,518.5,1007z M515.1,1004.9
+			c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.6,0.6-1.1,0.6l0,0
+			C515.6,1005.1,515.3,1005.1,515.1,1004.9z M511.7,1002.9c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0
+			c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.6,0.6-1.1,0.6l0,0C512.1,1003,511.9,1003,511.7,1002.9z M508.3,1000.8
+			c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.6,0.6-1.1,0.6l0,0
+			C508.7,1001,508.5,1000.9,508.3,1000.8z"/>
+		
+			<line fill="none" stroke="#E6007E" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="240.3" y1="835.9" x2="507.4" y2="998.8"/>
+		<circle fill="#E6007E" cx="230.2" cy="835.9" r="11.5"/>
+		<circle fill="#E6007E" cx="611" cy="1054.9" r="11.5"/>
+		<rect x="133.9" y="829.8" fill="none" width="74.8" height="19.1"/>
+		<text transform="matrix(1 0 0 1 168.157 842.009)"  font-size="16">Israel</text>
+		<text transform="matrix(1 0 0 1 634.5734 1061.3137)" fill="#020202"  font-size="16">Israel</text>
+		<text transform="matrix(1 0 0 1 221.2344 841.8588)" fill="#FFFFFF"  font-weight="600" font-size="16">25</text>
+		<text transform="matrix(1 0 0 1 602.2398 1060.7843)" fill="#FFFFFF"  font-weight="600" font-size="16">32</text>
+	</g>
+	
+	
+	<g id="uae" class="other">
+	
+		<g id="uae-data" class="data" display="none">
+			
+				<text transform="matrix(1 0 0 1 795.0016 787.5961)" display="inline"  font-size="16">0.26</text>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="207.3" y="905.4" fill="#E6007E" width="5.5" height="23"/>
+				</g>
+			</g>
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 15.4187 922.6981)"  font-size="16">0.15</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="770.3" fill="#E6007E" width="9.8" height="23"/>
+				</g>
+			</g>
+		</g>
+		
+			<line fill="none" stroke="#E6007E" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="240.7" y1="917.3" x2="600.6" y2="781.9"/>
+		<circle fill="#E6007E" cx="610" cy="781.8" r="11.5"/>
+		<circle fill="#E6007E" cx="230.2" cy="917" r="11.5"/>
+		<text transform="matrix(1 0 0 1 601.1355 787.6139)" fill="#FFFFFF"  font-weight="600" font-size="16">23</text>
+		<text transform="matrix(1 0 0 1 221.4273 922.6984)" fill="#FFFFFF"  font-weight="600" font-size="16">28</text>
+		<rect x="633.4" y="774.9" fill="none" width="43.4" height="20.6"/>
+		<text transform="matrix(1 0 0 1 633.3725 787.028)"  font-size="16">UAE</text>
+		<text transform="matrix(1 0 0 1 178.0324 923.5261)"  font-size="16">UAE</text>
+	</g>
+	
+	
+	<g id="hongkong" class="other">
+	
+		<g id="hongkong-data" class="data" display="none">
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="207.3" y="932.4" fill="#E6007E" width="5.5" height="23"/>
+				</g>
+			</g>
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 15.4188 949.4736)"  font-size="16">0.15</text>
+			</g>
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 795.0012 1087.7849)"  font-size="16">0.16</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="1070.4" fill="#E6007E" width="6" height="23"/>
+				</g>
+			</g>
+		</g>
+		<path fill="#E5007D" d="M596.2,1082c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0
+			c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C596.5,1082.1,596.4,1082.1,596.2,1082z M592.5,1080.6c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C592.8,1080.7,592.6,1080.6,592.5,1080.6z
+			 M588.8,1079.1c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C589.1,1079.2,588.9,1079.2,588.8,1079.1z M585,1077.7c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0
+			c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C585.3,1077.8,585.2,1077.8,585,1077.7z M581.3,1076.3c-0.7-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C581.6,1076.3,581.4,1076.3,581.3,1076.3z
+			 M577.6,1074.8c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C577.9,1074.9,577.7,1074.9,577.6,1074.8z M573.8,1073.4c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6
+			l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C574.1,1073.5,574,1073.5,573.8,1073.4z M570.1,1072c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C570.4,1072,570.3,1072,570.1,1072z M566.4,1070.5
+			c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C566.7,1070.6,566.5,1070.6,566.4,1070.5z M562.6,1069.1c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6
+			l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C562.9,1069.2,562.8,1069.1,562.6,1069.1z M558.9,1067.7c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C559.2,1067.7,559,1067.7,558.9,1067.7z
+			 M555.2,1066.2c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C555.5,1066.3,555.3,1066.3,555.2,1066.2z M551.4,1064.8c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6
+			l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C551.7,1064.9,551.6,1064.8,551.4,1064.8z M547.7,1063.3c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.6,1-1,1.6-0.7l0,0c0.7,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C548,1063.4,547.8,1063.4,547.7,1063.3z
+			 M544,1061.9c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C544.3,1062,544.1,1062,544,1061.9z M540.2,1060.5c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0
+			c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C540.5,1060.6,540.4,1060.5,540.2,1060.5z M536.5,1059c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C536.8,1059.1,536.6,1059.1,536.5,1059z
+			 M532.8,1057.6c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C533.1,1057.7,532.9,1057.7,532.8,1057.6z M529,1056.2c-0.7-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0
+			c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C529.3,1056.2,529.2,1056.2,529,1056.2z M525.3,1054.7c-0.7-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C525.6,1054.8,525.4,1054.8,525.3,1054.7z
+			 M521.6,1053.3c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C521.9,1053.4,521.7,1053.4,521.6,1053.3z M517.8,1051.9c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6
+			l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C518.1,1051.9,518,1051.9,517.8,1051.9z M514.1,1050.4c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C514.4,1050.5,514.2,1050.5,514.1,1050.4z
+			 M510.4,1049c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C510.7,1049.1,510.5,1049,510.4,1049z M506.6,1047.6c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0
+			c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C506.9,1047.6,506.8,1047.6,506.6,1047.6z M502.9,1046.1c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C503.2,1046.2,503,1046.2,502.9,1046.1z
+			 M499.2,1044.7c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C499.5,1044.8,499.3,1044.7,499.2,1044.7z M495.4,1043.2c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6
+			l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C495.7,1043.3,495.6,1043.3,495.4,1043.2z M491.7,1041.8c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.7,1-1,1.6-0.7l0,0c0.7,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C492,1041.9,491.8,1041.9,491.7,1041.8z
+			 M488,1040.4c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C488.3,1040.5,488.1,1040.4,488,1040.4z M484.2,1038.9c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0
+			c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C484.5,1039,484.4,1039,484.2,1038.9z M480.5,1037.5c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7
+			l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C480.8,1037.6,480.6,1037.6,480.5,1037.5z M476.8,1036.1
+			c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C477.1,1036.1,476.9,1036.1,476.8,1036.1z M473,1034.6c-0.7-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.7,0.2,1,1,0.7,1.6l0,0
+			c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C473.3,1034.7,473.2,1034.7,473,1034.6z M469.3,1033.2c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C469.6,1033.3,469.4,1033.3,469.3,1033.2z
+			 M465.6,1031.8c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C465.9,1031.8,465.7,1031.8,465.6,1031.8z M461.8,1030.3c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6
+			l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C462.1,1030.4,462,1030.4,461.8,1030.3z M458.1,1028.9c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C458.4,1029,458.2,1028.9,458.1,1028.9z
+			 M454.4,1027.5c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C454.7,1027.5,454.5,1027.5,454.4,1027.5z M450.6,1026c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0
+			c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C450.9,1026.1,450.8,1026.1,450.6,1026z M446.9,1024.6c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C447.2,1024.7,447,1024.6,446.9,1024.6z
+			 M443.2,1023.1c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C443.5,1023.2,443.3,1023.2,443.2,1023.1z M439.4,1021.7c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6
+			l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C439.7,1021.8,439.6,1021.8,439.4,1021.7z M435.7,1020.3c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C436,1020.4,435.8,1020.3,435.7,1020.3z
+			 M432,1018.8c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C432.3,1018.9,432.1,1018.9,432,1018.8z M428.2,1017.4c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0
+			c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C428.5,1017.5,428.4,1017.5,428.2,1017.4z M424.5,1016c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C424.8,1016,424.6,1016,424.5,1016z M420.8,1014.5
+			c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C421.1,1014.6,420.9,1014.6,420.8,1014.5z M417,1013.1c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.7,0.3,1,1,0.7,1.6l0,0
+			c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C417.3,1013.2,417.2,1013.2,417,1013.1z M413.3,1011.7c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C413.6,1011.7,413.4,1011.7,413.3,1011.7z
+			 M409.6,1010.2c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C409.9,1010.3,409.7,1010.3,409.6,1010.2z M405.8,1008.8c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6
+			l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C406.1,1008.9,406,1008.8,405.8,1008.8z M402.1,1007.4c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C402.4,1007.4,402.2,1007.4,402.1,1007.4z
+			 M398.4,1005.9c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C398.7,1006,398.5,1006,398.4,1005.9z M394.6,1004.5c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0
+			c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C394.9,1004.6,394.8,1004.5,394.6,1004.5z M390.9,1003c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C391.2,1003.1,391,1003.1,390.9,1003z
+			 M387.2,1001.6c-0.6-0.3-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C387.5,1001.7,387.3,1001.7,387.2,1001.6z"/>
+		
+			<line fill="none" stroke="#E6007E" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="240.7" y1="943.9" x2="387.6" y2="1000.4"/>
+		<circle fill="#E6007E" cx="230.2" cy="943.9" r="11.5"/>
+		<text transform="matrix(1 0 0 1 221.4271 949.4728)" fill="#FFFFFF"  font-weight="600" font-size="16">29</text>
+		<text transform="matrix(1 0 0 1 126.4232 949.473)"  font-size="16">Hong Kong</text>
+		<circle fill="#E6007E" cx="611" cy="1081.9" r="11.5"/>
+		<text transform="matrix(1 0 0 1 602.2605 1087.7853)" fill="#FFFFFF"  font-weight="600" font-size="16">34</text>
+		<text transform="matrix(1 0 0 1 634.6357 1087.8479)"  font-size="16">Hong Kong</text>
+	</g>
+	
+	
+	<g id="turkey" class="other">
+	
+		<g id="turkey-data" class="data" display="none">
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="959.3" fill="#E6007E" width="7.9" height="23"/>
+				</g>
+			</g>
+			
+				<text transform="matrix(1 0 0 1 795.0014 976.0284)" display="inline"  font-size="16">0.20</text>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="208.5" y="1016.4" fill="#E6007E" width="4.3" height="23"/>
+				</g>
+			</g>
+			
+				<text transform="matrix(1 0 0 1 15.4188 1033.6844)" display="inline"  font-size="16">0.10</text>
+		</g>
+		<path fill="#E5007D" d="M240.5,1028.1c-0.1-0.7,0.4-1.3,1-1.4l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0c0.1,0.7-0.4,1.3-1,1.4l0,0
+			c-0.1,0-0.1,0-0.2,0l0,0C241.1,1029.2,240.6,1028.8,240.5,1028.1z M244.4,1027.5c-0.1-0.7,0.4-1.3,1-1.4l0,0
+			c0.7-0.1,1.3,0.4,1.4,1l0,0c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0C245.1,1028.6,244.5,1028.1,244.4,1027.5z
+			 M248.4,1026.9c-0.1-0.7,0.4-1.3,1-1.4l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0c0.1,0.7-0.3,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0
+			C249,1027.9,248.5,1027.5,248.4,1026.9z M252.3,1026.3c-0.1-0.7,0.4-1.3,1-1.4l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0
+			c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0C253,1027.3,252.4,1026.9,252.3,1026.3z M256.3,1025.6c-0.1-0.7,0.4-1.3,1-1.4
+			l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0C256.9,1026.7,256.4,1026.3,256.3,1025.6z
+			 M260.2,1025c-0.1-0.7,0.4-1.3,1-1.4l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0
+			C260.9,1026.1,260.3,1025.6,260.2,1025z M264.2,1024.4c-0.1-0.7,0.4-1.3,1-1.4l0,0c0.7-0.1,1.3,0.3,1.4,1l0,0
+			c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0C264.8,1025.4,264.3,1025,264.2,1024.4z M268.1,1023.8c-0.1-0.7,0.4-1.3,1-1.4
+			l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0C268.8,1024.8,268.2,1024.4,268.1,1023.8z
+			 M272.1,1023.1c-0.1-0.7,0.4-1.3,1-1.4l0,0c0.7-0.1,1.3,0.3,1.4,1l0,0c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0
+			C272.7,1024.2,272.2,1023.7,272.1,1023.1z M276,1022.5c-0.1-0.7,0.3-1.3,1-1.4l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0
+			c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0C276.7,1023.6,276.1,1023.1,276,1022.5z M280,1021.9c-0.1-0.7,0.4-1.3,1-1.4
+			l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0C280.6,1022.9,280.1,1022.5,280,1021.9z
+			 M283.9,1021.3c-0.1-0.7,0.4-1.3,1-1.4l0,0c0.7-0.1,1.3,0.3,1.4,1l0,0c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0
+			C284.6,1022.3,284,1021.9,283.9,1021.3z M287.9,1020.6c-0.1-0.7,0.4-1.3,1-1.4l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0
+			c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0C288.5,1021.7,288,1021.2,287.9,1020.6z M291.8,1020c-0.1-0.7,0.4-1.3,1-1.4
+			l0,0c0.7-0.1,1.3,0.3,1.4,1l0,0c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0C292.5,1021.1,291.9,1020.6,291.8,1020z
+			 M295.8,1019.4c-0.1-0.7,0.4-1.3,1-1.4l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0
+			C296.4,1020.4,295.9,1020,295.8,1019.4z M299.7,1018.7c-0.1-0.7,0.4-1.3,1-1.4l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0
+			c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0C300.4,1019.8,299.8,1019.4,299.7,1018.7z M303.7,1018.1
+			c-0.1-0.7,0.4-1.3,1-1.4l0,0c0.7-0.1,1.3,0.3,1.4,1l0,0c0.1,0.7-0.3,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0
+			C304.3,1019.2,303.8,1018.7,303.7,1018.1z M307.6,1017.5c-0.1-0.7,0.4-1.3,1-1.4l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0
+			c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0C308.3,1018.6,307.7,1018.1,307.6,1017.5z M311.6,1016.9
+			c-0.1-0.7,0.4-1.3,1-1.4l0,0c0.7-0.1,1.3,0.3,1.4,1l0,0c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0
+			C312.2,1017.9,311.7,1017.5,311.6,1016.9z M315.5,1016.2c-0.1-0.7,0.4-1.3,1-1.4l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0
+			c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0C316.2,1017.3,315.6,1016.9,315.5,1016.2z M319.5,1015.6
+			c-0.1-0.7,0.3-1.3,1-1.4l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0
+			C320.1,1016.7,319.6,1016.2,319.5,1015.6z M323.4,1015c-0.1-0.7,0.4-1.3,1-1.4l0,0c0.7-0.1,1.3,0.3,1.4,1l0,0
+			c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0C324.1,1016,323.5,1015.6,323.4,1015z M327.4,1014.4c-0.1-0.7,0.4-1.3,1-1.4
+			l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0C328,1015.4,327.5,1015,327.4,1014.4z
+			 M331.3,1013.7c-0.1-0.7,0.4-1.3,1-1.4l0,0c0.7-0.1,1.3,0.3,1.4,1l0,0c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0
+			C332,1014.8,331.4,1014.4,331.3,1013.7z M335.3,1013.1c-0.1-0.7,0.4-1.3,1-1.4l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0
+			c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0C335.9,1014.2,335.4,1013.7,335.3,1013.1z M339.2,1012.5
+			c-0.1-0.7,0.4-1.3,1-1.4l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0
+			C339.9,1013.5,339.3,1013.1,339.2,1012.5z M343.2,1011.9c-0.1-0.7,0.4-1.3,1-1.4l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0
+			c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0C343.8,1012.9,343.3,1012.5,343.2,1011.9z M347.1,1011.2
+			c-0.1-0.7,0.4-1.3,1-1.4l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0
+			C347.8,1012.3,347.2,1011.9,347.1,1011.2z M351.1,1010.6c-0.1-0.7,0.4-1.3,1-1.4l0,0c0.7-0.1,1.3,0.3,1.4,1l0,0
+			c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0C351.7,1011.7,351.2,1011.2,351.1,1010.6z M355,1010c-0.1-0.7,0.4-1.3,1-1.4
+			l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0C355.7,1011,355.1,1010.6,355,1010z M359,1009.4
+			c-0.1-0.7,0.4-1.3,1-1.4l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0
+			C359.6,1010.4,359.1,1010,359,1009.4z M363,1008.7c-0.1-0.7,0.4-1.3,1-1.4l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0c0.1,0.7-0.4,1.3-1,1.4
+			l0,0c-0.1,0-0.1,0-0.2,0l0,0C363.6,1009.8,363,1009.3,363,1008.7z M366.9,1008.1c-0.1-0.7,0.4-1.3,1-1.4l0,0
+			c0.7-0.1,1.3,0.4,1.4,1l0,0c0.1,0.7-0.3,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0C367.5,1009.2,367,1008.7,366.9,1008.1z
+			 M370.9,1007.5c-0.1-0.7,0.4-1.3,1-1.4l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0
+			C371.5,1008.5,370.9,1008.1,370.9,1007.5z M374.8,1006.9c-0.1-0.7,0.3-1.3,1-1.4l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0
+			c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0C375.4,1007.9,374.9,1007.5,374.8,1006.9z M378.8,1006.2
+			c-0.1-0.7,0.4-1.3,1-1.4l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0
+			C379.4,1007.3,378.8,1006.8,378.8,1006.2z M382.7,1005.6c-0.1-0.7,0.4-1.3,1-1.4l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0
+			c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0C383.3,1006.7,382.8,1006.2,382.7,1005.6z M386.7,1005c-0.1-0.7,0.4-1.3,1-1.4
+			l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0C387.3,1006,386.8,1005.6,386.7,1005z
+			 M390.6,1004.4c-0.1-0.7,0.4-1.3,1-1.4l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0
+			C391.2,1005.4,390.7,1005,390.6,1004.4z M394.6,1003.7c-0.1-0.7,0.4-1.3,1-1.4l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0
+			c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0C395.2,1004.8,394.7,1004.3,394.6,1003.7z M398.5,1003.1
+			c-0.1-0.7,0.4-1.3,1-1.4l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0
+			C399.1,1004.2,398.6,1003.7,398.5,1003.1z M402.5,1002.5c-0.1-0.7,0.4-1.3,1-1.4l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0
+			c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0C403.1,1003.5,402.6,1003.1,402.5,1002.5z M406.4,1001.8
+			c-0.1-0.7,0.4-1.3,1-1.4l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0
+			C407,1002.9,406.5,1002.5,406.4,1001.8z M410.4,1001.2c-0.1-0.7,0.4-1.3,1-1.4l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0
+			c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0C411,1002.3,410.5,1001.8,410.4,1001.2z M414.3,1000.6c-0.1-0.7,0.4-1.3,1-1.4
+			l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0C414.9,1001.7,414.4,1001.2,414.3,1000.6z
+			 M418.3,1000c-0.1-0.7,0.4-1.3,1-1.4l0,0c0.7-0.1,1.3,0.4,1.4,1l0,0c0.1,0.7-0.4,1.3-1,1.4l0,0c-0.1,0-0.1,0-0.2,0l0,0
+			C418.9,1001,418.4,1000.6,418.3,1000z"/>
+		
+			<line fill="none" stroke="#E6007E" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="422.3" y1="999.3" x2="601.5" y2="970.9"/>
+		<circle fill="#E6007E" cx="610.1" cy="970.8" r="11.5"/>
+		<text transform="matrix(1 0 0 1 634.8637 976.0287)" fill="#020202"  font-size="16">Turkey</text>
+		<text transform="matrix(1 0 0 1 601.1353 976.7465)" fill="#FFFFFF"  font-weight="600" font-size="16">30</text>
+		<circle fill="#E6007E" cx="230.2" cy="1027.9" r="11.5"/>
+		<text transform="matrix(1 0 0 1 221.2719 1033.684)" fill="#FFFFFF"  font-weight="600" font-size="16">32</text>
+		<text transform="matrix(1 0 0 1 156.1903 1033.184)" fill="#020202"  font-size="16">Turkey</text>
+	</g>
+</g>
+
+
+<g id="north-america">
+
+	<g id="canada" class="other">
+	
+		<g id="canada-data" class="data" display="none">
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 795.0015 571.4322)"  font-size="16">0.65</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="185" y="419.2" fill="#004366" width="27.8" height="23"/>
+				</g>
+			</g>
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 15.4186 436.3935)"  font-size="16">0.74</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="554.3" fill="#004366" width="24.3" height="23"/>
+				</g>
+			</g>
+		</g>
+		
+			<line fill="none" stroke="#004366" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="241" y1="430.7" x2="600.3" y2="565.8"/>
+		<circle fill="#004366" cx="230.2" cy="430.7" r="11.5"/>
+		<circle fill="#004366" cx="611.1" cy="565.8" r="11.5"/>
+		<text transform="matrix(1 0 0 1 601.1355 571.7135)" fill="#FFFFFF"  font-weight="600" font-size="16">15</text>
+		<text transform="matrix(1 0 0 1 220.4896 436.3932)" fill="#FFFFFF"  font-weight="600" font-size="16">10</text>
+		<rect x="139.1" y="423.8" fill="none" width="69.6" height="19.1"/>
+		<text transform="matrix(1 0 0 1 152.2899 435.9565)"  font-size="16">Canada</text>
+		<rect x="633.4" y="558.9" fill="none" width="68" height="20.6"/>
+		<text transform="matrix(1 0 0 1 633.3725 571.0279)"  font-size="16">Canada</text>
+	</g>
+	
+	
+	<g id="usa" class="other">
+	
+		<g id="usa-data" class="data" display="none">
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="77.1" y="176.3" fill="#004366" width="135.7" height="23"/>
+				</g>
+			</g>
+			
+				<text transform="matrix(1 0 0 1 15.4183 193.563)" display="inline"  font-size="16">3.62</text>
+			
+				<text id="_x3C_Group_x3E__27_" transform="matrix(1 0 0 1 795.0013 247.1865)" display="inline"  font-size="16">2.98</text>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="230.3" fill="#004366" width="111.7" height="23"/>
+				</g>
+			</g>
+		</g>
+		
+			<line fill="none" stroke="#004366" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="241.4" y1="188.8" x2="601.9" y2="241.4"/>
+		<circle fill="#004366" cx="230.9" cy="187.8" r="11.5"/>
+		<circle fill="#004366" cx="611.1" cy="241.8" r="11.5"/>
+		<text transform="matrix(1 0 0 1 606.7269 247.4721)" fill="#FFFFFF"  font-weight="600" font-size="16">3</text>
+		<text transform="matrix(1 0 0 1 225.8519 193.5628)" fill="#FFFFFF"  font-weight="600" font-size="16">1</text>
+		<rect x="163.6" y="181.4" fill="none" width="45.1" height="19.1"/>
+		<text transform="matrix(1 0 0 1 178.1492 193.5126)"  font-size="16">USA</text>
+		<rect x="633.4" y="235.5" fill="none" width="40.1" height="20.6"/>
+		<text transform="matrix(1 0 0 1 633.3725 247.6528)"  font-size="16">USA</text>
+	</g>
+</g>
+
+
+<g id="oceania">
+
+	<g id="austrailia" class="other">
+	
+		<g id="australia-data" class="data" display="none">
+			
+				<text transform="matrix(1 0 0 1 795.0015 436.3304)" display="inline"  font-size="16">1.06</text>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="183.3" y="392.2" fill="#CCBB00" width="29.5" height="23"/>
+				</g>
+			</g>
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 15.4185 408.5173)"  font-size="16">0.79</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="419.3" fill="#CCBB00" width="39.7" height="23"/>
+				</g>
+			</g>
+		</g>
+		
+			<line fill="none" stroke="#CCBB00" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="241" y1="403.7" x2="601.4" y2="430.8"/>
+		<circle fill="#CCBB00" cx="230.2" cy="403.7" r="11.5"/>
+		<circle fill="#CCBB00" cx="611" cy="430.8" r="11.5"/>
+		<text transform="matrix(1 0 0 1 601.1356 436.3929)" fill="#FFFFFF"  font-weight="600" font-size="16">10</text>
+		<text transform="matrix(1 0 0 1 225.8522 409.4679)" fill="#FFFFFF"  font-weight="600" font-size="16">9</text>
+		<rect x="133.4" y="396.8" fill="none" width="75.3" height="19.1"/>
+		<text transform="matrix(1 0 0 1 143.0555 409.0074)"  font-size="16">Australia</text>
+		<rect x="633.4" y="423.9" fill="none" width="81.1" height="20.6"/>
+		<text transform="matrix(1 0 0 1 633.3725 436.0279)"  font-size="16">Australia</text>
+	</g>
+	
+	
+	<g id="nz" class="other">
+	
+		<g id="nz-data" class="data" display="none">
+		
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 795.002 1035.4155)"  font-size="16">0.20</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="206.3" y="797.4" fill="#CCBB00" width="6.5" height="23"/>
+				</g>
+			</g>
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 15.4183 815.1728)"  font-size="16">0.17</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="1016.4" fill="#CCBB00" width="7.4" height="23"/>
+				</g>
+			</g>
+		</g>
+		<path fill="#CCBB00" d="M597,1027.9c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0c0.6,0.4,0.8,1.1,0.4,1.7l0,0
+			c-0.2,0.4-0.6,0.6-1.1,0.6l0,0C597.4,1028,597.2,1028,597,1027.9z M593.6,1025.8c-0.6-0.4-0.8-1.1-0.4-1.7l0,0
+			c0.4-0.6,1.1-0.8,1.7-0.4l0,0c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.7,0.6-1.1,0.6l0,0C594,1026,593.8,1025.9,593.6,1025.8z
+			 M590.2,1023.7c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.6,0.6-1.1,0.6
+			l0,0C590.6,1023.9,590.4,1023.8,590.2,1023.7z M586.8,1021.6c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0
+			c0.6,0.3,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.7,0.6-1.1,0.6l0,0C587.2,1021.8,587,1021.7,586.8,1021.6z M583.4,1019.5
+			c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.6,0.6-1.1,0.6l0,0
+			C583.8,1019.7,583.6,1019.7,583.4,1019.5z M579.9,1017.4c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0
+			c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.6,0.6-1.1,0.6l0,0C580.4,1017.6,580.2,1017.6,579.9,1017.4z M576.5,1015.4
+			c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0c0.6,0.3,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.6,0.6-1.1,0.6l0,0
+			C577,1015.5,576.7,1015.5,576.5,1015.4z M573.1,1013.3c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0
+			c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.6,0.6-1.1,0.6l0,0C573.5,1013.5,573.3,1013.4,573.1,1013.3z M569.7,1011.2
+			c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.6,0.6-1.1,0.6l0,0
+			C570.1,1011.4,569.9,1011.3,569.7,1011.2z M566.3,1009.1c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0
+			c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.6,0.6-1.1,0.6l0,0C566.7,1009.3,566.5,1009.2,566.3,1009.1z M562.9,1007
+			c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.6,0.6-1.1,0.6l0,0
+			C563.3,1007.2,563.1,1007.2,562.9,1007z M559.5,1004.9c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0
+			c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.6,0.6-1.1,0.6l0,0C559.9,1005.1,559.7,1005.1,559.5,1004.9z M556,1002.9
+			c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.7,0.6-1.1,0.6l0,0
+			C556.5,1003,556.3,1003,556,1002.9z M552.6,1000.8c-0.6-0.4-0.8-1.1-0.4-1.7l0,0c0.4-0.6,1.1-0.8,1.7-0.4l0,0
+			c0.6,0.4,0.8,1.1,0.4,1.7l0,0c-0.2,0.4-0.6,0.6-1.1,0.6l0,0C553.1,1001,552.8,1000.9,552.6,1000.8z"/>
+		
+			<line fill="none" stroke="#CCBB00" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="240.7" y1="808.9" x2="553.3" y2="999.7"/>
+		<circle fill="#CCBB00" cx="230.2" cy="808.9" r="11.5"/>
+		<circle fill="#CCBB00" cx="611" cy="1027.9" r="11.5"/>
+		<text transform="matrix(1 0 0 1 602.2398 1033.9784)" fill="#FFFFFF"  font-weight="600" font-size="16">31</text>
+		<text transform="matrix(1 0 0 1 221.4272 815.173)" fill="#FFFFFF"  font-weight="600" font-size="16">24</text>
+		<rect x="94.9" y="802.6" fill="none" width="113.8" height="19.1"/>
+		<text transform="matrix(1 0 0 1 111.4852 814.7305)"  font-size="16">New Zealand</text>
+		<text transform="matrix(1 0 0 1 634.5734 1035.4159)" fill="#020202"  font-size="16">New Zealand</text>
+	</g>
+</g>
+
+
+<g id="south-america">
+
+	<g id="brazil" class="other">
+	
+		<g id="brazil-data" class="data" display="none">
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 795.0016 733.5552)"  font-size="16">0.29</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="716.3" fill="#EB6907" width="11.2" height="23"/>
+				</g>
+			</g>
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 15.4188 1087.8461)"  font-size="16">0.08</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="209.3" y="1070.4" fill="#EB6907" width="3.5" height="23"/>
+				</g>
+			</g>
+		</g>
+		<path fill="#EB6907" d="M239.4,1082.8c-0.5-0.5-0.5-1.3,0-1.8l0,0c0.5-0.5,1.3-0.5,1.8,0l0,0c0.5,0.5,0.5,1.3,0,1.8l0,0
+			c-0.2,0.2-0.6,0.4-0.9,0.4l0,0C240,1083.2,239.7,1083.1,239.4,1082.8z M242.3,1080c-0.5-0.5-0.5-1.3,0-1.8l0,0
+			c0.5-0.5,1.3-0.5,1.8,0l0,0c0.5,0.5,0.5,1.3,0,1.8l0,0c-0.2,0.2-0.6,0.4-0.9,0.4l0,0C242.9,1080.4,242.5,1080.3,242.3,1080z
+			 M245.2,1077.2c-0.5-0.5-0.5-1.3,0-1.8l0,0c0.5-0.5,1.3-0.5,1.8,0l0,0c0.5,0.5,0.5,1.3,0,1.8l0,0c-0.2,0.2-0.6,0.3-0.9,0.3l0,0
+			C245.7,1077.6,245.4,1077.5,245.2,1077.2z M248,1074.4c-0.5-0.5-0.5-1.3,0-1.8l0,0c0.5-0.5,1.3-0.5,1.8,0l0,0
+			c0.5,0.5,0.5,1.3,0,1.8l0,0c-0.2,0.2-0.6,0.4-0.9,0.4l0,0C248.6,1074.8,248.3,1074.7,248,1074.4z M250.9,1071.6
+			c-0.5-0.5-0.5-1.3,0-1.8l0,0c0.5-0.5,1.3-0.5,1.8,0l0,0c0.5,0.5,0.5,1.3,0,1.8l0,0c-0.2,0.2-0.6,0.4-0.9,0.4l0,0
+			C251.4,1072,251.1,1071.9,250.9,1071.6z M253.7,1068.8c-0.5-0.5-0.5-1.3,0-1.8l0,0c0.5-0.5,1.3-0.5,1.8,0l0,0
+			c0.5,0.5,0.5,1.3,0,1.8l0,0c-0.2,0.2-0.6,0.3-0.9,0.3l0,0C254.3,1069.2,254,1069.1,253.7,1068.8z M256.6,1066
+			c-0.5-0.5-0.5-1.3,0-1.8l0,0c0.5-0.5,1.3-0.5,1.8,0l0,0c0.5,0.5,0.5,1.3,0,1.8l0,0c-0.2,0.2-0.6,0.4-0.9,0.4l0,0
+			C257.2,1066.4,256.8,1066.3,256.6,1066z M259.5,1063.2c-0.5-0.5-0.5-1.3,0-1.8l0,0c0.5-0.5,1.3-0.5,1.8,0l0,0
+			c0.5,0.5,0.5,1.3,0,1.8l0,0c-0.2,0.2-0.6,0.4-0.9,0.4l0,0C260,1063.6,259.7,1063.5,259.5,1063.2z M262.3,1060.4
+			c-0.5-0.5-0.5-1.3,0-1.8l0,0c0.5-0.5,1.3-0.5,1.8,0l0,0c0.5,0.5,0.5,1.3,0,1.8l0,0c-0.2,0.2-0.6,0.4-0.9,0.4l0,0
+			C262.9,1060.8,262.6,1060.7,262.3,1060.4z M265.2,1057.6c-0.5-0.5-0.5-1.3,0-1.8l0,0c0.5-0.5,1.3-0.5,1.8,0l0,0
+			c0.5,0.5,0.5,1.3,0,1.8l0,0c-0.2,0.2-0.6,0.4-0.9,0.4l0,0C265.7,1058,265.4,1057.9,265.2,1057.6z M268,1054.8
+			c-0.5-0.5-0.5-1.3,0-1.8l0,0c0.5-0.5,1.3-0.5,1.8,0l0,0c0.5,0.5,0.5,1.3,0,1.8l0,0c-0.2,0.2-0.6,0.4-0.9,0.4l0,0
+			C268.6,1055.2,268.3,1055.1,268,1054.8z M270.9,1052.1c-0.5-0.5-0.5-1.3,0-1.8l0,0c0.5-0.5,1.3-0.5,1.8,0l0,0
+			c0.5,0.5,0.5,1.3,0,1.8l0,0c-0.2,0.2-0.6,0.4-0.9,0.4l0,0C271.5,1052.4,271.1,1052.3,270.9,1052.1z M273.8,1049.3
+			c-0.5-0.5-0.5-1.3,0-1.8l0,0c0.5-0.5,1.3-0.5,1.8,0l0,0c0.5,0.5,0.5,1.3,0,1.8l0,0c-0.2,0.2-0.6,0.4-0.9,0.3l0,0
+			C274.3,1049.6,274,1049.5,273.8,1049.3z M276.6,1046.5c-0.5-0.5-0.5-1.3,0-1.8l0,0c0.5-0.5,1.3-0.5,1.8,0l0,0
+			c0.5,0.5,0.5,1.3,0,1.8l0,0c-0.2,0.2-0.6,0.4-0.9,0.4l0,0C277.2,1046.8,276.9,1046.7,276.6,1046.5z M279.5,1043.7
+			c-0.5-0.5-0.5-1.3,0-1.8l0,0c0.5-0.5,1.3-0.5,1.8,0l0,0c0.5,0.5,0.5,1.3,0,1.8l0,0c-0.2,0.2-0.6,0.4-0.9,0.4l0,0
+			C280,1044,279.7,1043.9,279.5,1043.7z M282.3,1040.9c-0.5-0.5-0.5-1.3,0-1.8l0,0c0.5-0.5,1.3-0.5,1.8,0l0,0c0.5,0.5,0.5,1.3,0,1.8
+			l0,0c-0.2,0.2-0.6,0.4-0.9,0.4l0,0C282.9,1041.2,282.6,1041.1,282.3,1040.9z M285.2,1038.1c-0.5-0.5-0.5-1.3,0-1.8l0,0
+			c0.5-0.5,1.3-0.5,1.8,0l0,0c0.5,0.5,0.5,1.3,0,1.8l0,0c-0.2,0.2-0.6,0.4-0.9,0.4l0,0C285.8,1038.4,285.4,1038.3,285.2,1038.1z
+			 M288,1035.3c-0.5-0.5-0.5-1.3,0-1.8l0,0c0.5-0.5,1.3-0.5,1.8,0l0,0c0.5,0.5,0.5,1.3,0,1.8l0,0c-0.2,0.2-0.6,0.4-0.9,0.4l0,0
+			C288.6,1035.6,288.3,1035.5,288,1035.3z M290.9,1032.5c-0.5-0.5-0.5-1.3,0-1.8l0,0c0.5-0.5,1.3-0.5,1.8,0l0,0
+			c0.5,0.5,0.5,1.3,0,1.8l0,0c-0.2,0.2-0.6,0.3-0.9,0.3l0,0C291.5,1032.8,291.2,1032.7,290.9,1032.5z M293.8,1029.7
+			c-0.5-0.5-0.5-1.3,0-1.8l0,0c0.5-0.5,1.3-0.5,1.8,0l0,0c0.5,0.5,0.5,1.3,0,1.8l0,0c-0.2,0.2-0.6,0.4-0.9,0.4l0,0
+			C294.3,1030.1,294,1029.9,293.8,1029.7z M296.6,1026.9c-0.5-0.5-0.5-1.3,0-1.8l0,0c0.5-0.5,1.3-0.5,1.8,0l0,0
+			c0.5,0.5,0.5,1.3,0,1.8l0,0c-0.2,0.2-0.6,0.4-0.9,0.4l0,0C297.2,1027.3,296.9,1027.1,296.6,1026.9z M299.5,1024.1
+			c-0.5-0.5-0.5-1.3,0-1.8l0,0c0.5-0.5,1.3-0.5,1.8,0l0,0c0.5,0.5,0.5,1.3,0,1.8l0,0c-0.2,0.2-0.6,0.4-0.9,0.4l0,0
+			C300.1,1024.5,299.7,1024.3,299.5,1024.1z M302.3,1021.3c-0.5-0.5-0.5-1.3,0-1.8l0,0c0.5-0.5,1.3-0.5,1.8,0l0,0
+			c0.5,0.5,0.5,1.3,0,1.8l0,0c-0.2,0.2-0.6,0.4-0.9,0.4l0,0C302.9,1021.7,302.6,1021.5,302.3,1021.3z M305.2,1018.5
+			c-0.5-0.5-0.5-1.3,0-1.8l0,0c0.5-0.5,1.3-0.5,1.8,0l0,0c0.5,0.5,0.5,1.3,0,1.8l0,0c-0.2,0.2-0.6,0.4-0.9,0.4l0,0
+			C305.8,1018.9,305.5,1018.7,305.2,1018.5z M308.1,1015.7c-0.5-0.5-0.5-1.3,0-1.8l0,0c0.5-0.5,1.3-0.5,1.8,0l0,0
+			c0.5,0.5,0.5,1.3,0,1.8l0,0c-0.2,0.2-0.6,0.4-0.9,0.4l0,0C308.6,1016.1,308.3,1015.9,308.1,1015.7z M310.9,1012.9
+			c-0.5-0.5-0.5-1.3,0-1.8l0,0c0.5-0.5,1.3-0.5,1.8,0l0,0c0.5,0.5,0.5,1.3,0,1.8l0,0c-0.2,0.2-0.6,0.4-0.9,0.4l0,0
+			C311.5,1013.3,311.2,1013.1,310.9,1012.9z M313.8,1010.1c-0.5-0.5-0.5-1.3,0-1.8l0,0c0.5-0.5,1.3-0.5,1.8,0l0,0
+			c0.5,0.5,0.5,1.3,0,1.8l0,0c-0.2,0.2-0.6,0.4-0.9,0.4l0,0C314.4,1010.5,314,1010.3,313.8,1010.1z M316.6,1007.3
+			c-0.5-0.5-0.5-1.3,0-1.8l0,0c0.5-0.5,1.3-0.5,1.8,0l0,0c0.5,0.5,0.5,1.3,0,1.8l0,0c-0.2,0.2-0.6,0.4-0.9,0.4l0,0
+			C317.2,1007.7,316.9,1007.6,316.6,1007.3z M319.5,1004.5c-0.5-0.5-0.5-1.3,0-1.8l0,0c0.5-0.5,1.3-0.5,1.8,0l0,0
+			c0.5,0.5,0.5,1.3,0,1.8l0,0c-0.2,0.2-0.6,0.3-0.9,0.3l0,0C320.1,1004.9,319.8,1004.8,319.5,1004.5z M322.4,1001.7
+			c-0.5-0.5-0.5-1.3,0-1.8l0,0c0.5-0.5,1.3-0.5,1.8,0l0,0c0.5,0.5,0.5,1.3,0,1.8l0,0c-0.2,0.2-0.6,0.4-0.9,0.4l0,0
+			C322.9,1002.1,322.6,1002,322.4,1001.7z"/>
+		
+			<line fill="none" stroke="#EB6907" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="324.4" y1="999.7" x2="600.3" y2="729.9"/>
+		<circle fill="#EB6907" cx="610" cy="727.8" r="11.5"/>
+		<circle fill="#EB6907" cx="230.2" cy="1081.9" r="11.5"/>
+		<text transform="matrix(1 0 0 1 601.1355 733.4003)" fill="#FFFFFF"  font-weight="600" font-size="16">21</text>
+		<rect x="633.4" y="721.2" fill="none" width="50.4" height="20.6"/>
+		<text transform="matrix(1 0 0 1 633.3725 733.3404)"  font-size="16">Brazil</text>
+		<text transform="matrix(1 0 0 1 165.3293 1087.8463)"  font-size="16">Brazil</text>
+		<text transform="matrix(1 0 0 1 221.2345 1087.8466)" fill="#FFFFFF" font-weight="600" font-size="16">34</text>
+	</g>
+</g>
+
+
+<g id="africa">
+
+	<g id="sa" class="other">
+	
+		<g id="sa-data" class="data" display="none">
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 795.0013 922.6982)"  font-size="16">0.22</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="202.7" y="662.4" fill="#662482" width="10.1" height="23"/>
+				</g>
+			</g>
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 15.4183 679.9229)"  font-size="16">0.27</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="905.3" fill="#662482" width="8.2" height="23"/>
+				</g>
+			</g>
+		</g>
+		
+			<line fill="none" stroke="#662482" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="240.7" y1="673.4" x2="600.1" y2="917.3"/>
+		<circle fill="#662482" cx="230.2" cy="673.9" r="11.5"/>
+		<circle fill="#662482" cx="610" cy="916.8" r="11.5"/>
+		<text transform="matrix(1 0 0 1 601.1354 922.6984)" fill="#FFFFFF"  font-weight="600" font-size="16">28</text>
+		<text transform="matrix(1 0 0 1 220.4895 679.9232)" fill="#FFFFFF"  font-weight="600" font-size="16">19</text>
+		<rect x="95.6" y="667.5" fill="none" width="113.1" height="19.1"/>
+		<text transform="matrix(1 0 0 1 118.1727 679.6373)"  font-size="16">South Africa</text>
+		<text transform="matrix(1 0 0 1 634.5734 922.6985)" fill="#020202"  font-size="16">South Africa</text>
+	</g>
+	
+	
+	<g id="nigeria" class="other">
+	
+		<g id="nigeria-data" class="data" display="none">
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="207.3" y="959.4" fill="#662482" width="5.5" height="23"/>
+				</g>
+			</g>
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 15.4182 974.9455)"  font-size="16">0.14</text>
+			</g>
+			<g display="inline" opacity="0.3">
+				<g>
+					<rect x="629.2" y="1097.4" fill="#662482" width="5.5" height="23"/>
+				</g>
+			</g>
+			<g display="inline">
+				<text transform="matrix(1 0 0 1 795.0022 1114.9542)"  font-size="16">0.13</text>
+			</g>
+		</g>
+		<path fill="#662482" d="M595.8,1108.9c-0.7-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0
+			c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C596.1,1108.9,596,1108.9,595.8,1108.9z M592.1,1107.4c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C592.4,1107.5,592.2,1107.5,592.1,1107.4z
+			 M588.4,1106c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C588.7,1106.1,588.5,1106.1,588.4,1106z M584.6,1104.6c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0
+			c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C584.9,1104.6,584.8,1104.6,584.6,1104.6z M580.9,1103.1c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C581.2,1103.2,581,1103.2,580.9,1103.1z
+			 M577.1,1101.7c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C577.4,1101.8,577.3,1101.8,577.1,1101.7z M573.4,1100.3c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6
+			l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C573.7,1100.4,573.6,1100.3,573.4,1100.3z M569.7,1098.8c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C570,1098.9,569.8,1098.9,569.7,1098.8z
+			 M565.9,1097.4c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C566.2,1097.5,566.1,1097.5,565.9,1097.4z M562.2,1096c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0
+			c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C562.5,1096.1,562.3,1096,562.2,1096z M558.5,1094.6c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7
+			l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C558.8,1094.6,558.6,1094.6,558.5,1094.6z M554.7,1093.1
+			c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C555,1093.2,554.9,1093.2,554.7,1093.1z M551,1091.7c-0.7-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.7,0.2,1,1,0.7,1.6l0,0
+			c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C551.3,1091.8,551.1,1091.8,551,1091.7z M547.3,1090.3c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C547.6,1090.3,547.4,1090.3,547.3,1090.3z
+			 M543.5,1088.8c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C543.8,1088.9,543.7,1088.9,543.5,1088.8z M539.8,1087.4c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6
+			l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C540.1,1087.5,539.9,1087.5,539.8,1087.4z M536.1,1086c-0.7-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C536.3,1086.1,536.2,1086,536.1,1086z
+			 M532.3,1084.5c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C532.6,1084.6,532.5,1084.6,532.3,1084.5z M528.6,1083.1c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6
+			l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C528.9,1083.2,528.7,1083.2,528.6,1083.1z M524.8,1081.7c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C525.1,1081.8,525,1081.7,524.8,1081.7z
+			 M521.1,1080.3c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C521.4,1080.3,521.3,1080.3,521.1,1080.3z M517.4,1078.8c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6
+			l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C517.7,1078.9,517.5,1078.9,517.4,1078.8z M513.6,1077.4c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C513.9,1077.5,513.8,1077.5,513.6,1077.4z
+			 M509.9,1076c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C510.2,1076,510,1076,509.9,1076z M506.2,1074.5c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0
+			c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C506.5,1074.6,506.3,1074.6,506.2,1074.5z M502.4,1073.1c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C502.7,1073.2,502.6,1073.2,502.4,1073.1z
+			 M498.7,1071.7c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C499,1071.8,498.8,1071.7,498.7,1071.7z M495,1070.2c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0
+			c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C495.3,1070.3,495.1,1070.3,495,1070.2z M491.2,1068.8c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.7,1-1,1.6-0.7l0,0c0.7,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C491.5,1068.9,491.4,1068.9,491.2,1068.8z
+			 M487.5,1067.4c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C487.8,1067.5,487.6,1067.4,487.5,1067.4z M483.8,1066c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0
+			c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C484,1066,483.9,1066,483.8,1066z M480,1064.5c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0
+			c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C480.3,1064.6,480.2,1064.6,480,1064.5z M476.3,1063.1
+			c-0.7-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C476.6,1063.2,476.4,1063.2,476.3,1063.1z M472.5,1061.7c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6
+			l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C472.8,1061.8,472.7,1061.7,472.5,1061.7z M468.8,1060.2c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C469.1,1060.3,469,1060.3,468.8,1060.2z
+			 M465.1,1058.8c-0.7-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C465.4,1058.9,465.2,1058.9,465.1,1058.8z M461.3,1057.4c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6
+			l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C461.6,1057.5,461.5,1057.4,461.3,1057.4z M457.6,1055.9c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C457.9,1056,457.8,1056,457.6,1055.9z
+			 M453.9,1054.5c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C454.2,1054.6,454,1054.6,453.9,1054.5z M450.1,1053.1c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0
+			c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C450.4,1053.2,450.3,1053.1,450.1,1053.1z M446.4,1051.7c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C446.7,1051.7,446.5,1051.7,446.4,1051.7z
+			 M442.7,1050.2c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C443,1050.3,442.8,1050.3,442.7,1050.2z M438.9,1048.8c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0
+			c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C439.2,1048.9,439.1,1048.9,438.9,1048.8z M435.2,1047.4c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C435.5,1047.5,435.3,1047.4,435.2,1047.4z
+			 M431.5,1045.9c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.7,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C431.8,1046,431.6,1046,431.5,1045.9z M427.7,1044.5c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0
+			c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C428,1044.6,427.9,1044.6,427.7,1044.5z M424,1043.1c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7
+			l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C424.3,1043.2,424.1,1043.1,424,1043.1z M420.2,1041.6
+			c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C420.5,1041.7,420.4,1041.7,420.2,1041.6z M416.5,1040.2c-0.7-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6
+			l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C416.8,1040.3,416.7,1040.3,416.5,1040.2z M412.8,1038.8c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C413.1,1038.9,412.9,1038.8,412.8,1038.8z
+			 M409,1037.4c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C409.3,1037.4,409.2,1037.4,409,1037.4z M405.3,1035.9c-0.7-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0
+			c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C405.6,1036,405.5,1036,405.3,1035.9z M401.6,1034.5c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7
+			l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C401.9,1034.6,401.7,1034.6,401.6,1034.5z M397.8,1033.1
+			c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C398.1,1033.2,398,1033.1,397.8,1033.1z M394.1,1031.6c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0
+			c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C394.4,1031.7,394.2,1031.7,394.1,1031.6z M390.4,1030.2c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C390.7,1030.3,390.5,1030.3,390.4,1030.2z
+			 M386.6,1028.8c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C386.9,1028.9,386.8,1028.8,386.6,1028.8z M382.9,1027.3c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6
+			l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C383.2,1027.4,383,1027.4,382.9,1027.3z M379.2,1025.9c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C379.5,1026,379.3,1026,379.2,1025.9z
+			 M375.4,1024.5c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C375.7,1024.6,375.6,1024.5,375.4,1024.5z M371.7,1023.1c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6
+			l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C372,1023.1,371.8,1023.1,371.7,1023.1z M367.9,1021.6c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C368.2,1021.7,368.1,1021.7,367.9,1021.6z
+			 M364.2,1020.2c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C364.5,1020.3,364.4,1020.3,364.2,1020.2z M360.5,1018.8c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.7,0.2,1,1,0.7,1.6
+			l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C360.8,1018.9,360.6,1018.8,360.5,1018.8z M356.7,1017.3c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C357,1017.4,356.9,1017.4,356.7,1017.3z
+			 M353,1015.9c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C353.3,1016,353.2,1016,353,1015.9z M349.3,1014.5c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0
+			c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C349.6,1014.6,349.4,1014.5,349.3,1014.5z M345.5,1013c-0.7-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.6,1-1,1.6-0.7l0,0c0.7,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C345.8,1013.1,345.7,1013.1,345.5,1013z
+			 M341.8,1011.6c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C342.1,1011.7,341.9,1011.7,341.8,1011.6z M338.1,1010.2c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6
+			l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C338.4,1010.3,338.2,1010.2,338.1,1010.2z M334.3,1008.8c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.7,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C334.6,1008.8,334.5,1008.8,334.3,1008.8z
+			 M330.6,1007.3c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C330.9,1007.4,330.7,1007.4,330.6,1007.3z M326.9,1005.9c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6
+			l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C327.2,1006,327,1006,326.9,1005.9z M323.1,1004.5c-0.6-0.2-1-1-0.7-1.6l0,0
+			c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C323.4,1004.6,323.3,1004.5,323.1,1004.5z
+			 M319.4,1003c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0c-0.2,0.5-0.7,0.8-1.2,0.8l0,0
+			C319.7,1003.1,319.5,1003.1,319.4,1003z M315.6,1001.6c-0.6-0.2-1-1-0.7-1.6l0,0c0.2-0.6,1-1,1.6-0.7l0,0c0.6,0.2,1,1,0.7,1.6l0,0
+			c-0.2,0.5-0.7,0.8-1.2,0.8l0,0C315.9,1001.7,315.8,1001.7,315.6,1001.6z"/>
+		
+			<line fill="none" stroke="#662482" stroke-width="2.5" stroke-linecap="round" stroke-miterlimit="10" x1="240.4" y1="971.5" x2="316.1" y2="1000.4"/>
+		<rect x="95.2" y="963.3" fill="none" width="113.1" height="19.1"/>
+		<text transform="matrix(1 0 0 1 155.0425 975.4912)"  font-size="16">Nigeria</text>
+		<circle fill="#662482" cx="230.2" cy="970.9" r="11.5"/>
+		<text transform="matrix(1 0 0 1 221.2344 976.9545)" fill="#FFFFFF"  font-weight="600" font-size="16">30</text>
+		<circle fill="#662482" cx="611" cy="1108.9" r="11.5"/>
+		<text transform="matrix(1 0 0 1 602.0677 1114.9545)" fill="#FFFFFF"  font-weight="600" font-size="16">35</text>
+		<rect x="634.7" y="1102.8" fill="none" width="56.9" height="19.1"/>
+		<text transform="matrix(1 0 0 1 634.7142 1114.9912)"  font-size="16">Nigeria</text>
+	</g>
+</g>
+</g>
+
+<g id="clear">
+	<g>
+		<rect x="788.8" y="15.3" fill="#E3E3E3" width="38" height="38"/>
+	</g>
+	<path fill="#1D1D1B" d="M817.8,45.4c-0.4,0-0.8-0.1-1.1-0.4l-18.4-18.4c-0.6-0.6-0.6-1.5,0-2.1s1.5-0.6,2.1,0l18.4,18.4
+		c0.6,0.6,0.6,1.5,0,2.1C818.6,45.3,818.2,45.4,817.8,45.4z"/>
+	<path fill="#1D1D1B" d="M799.5,45.4c-0.4,0-0.8-0.1-1.1-0.4c-0.6-0.6-0.6-1.5,0-2.1l18.4-18.4c0.6-0.6,1.5-0.6,2.1,0s0.6,1.5,0,2.1
+		L800.5,45C800.2,45.3,799.8,45.4,799.5,45.4z"/>
+</g>
+
+
+<g id="show-data">
+	<rect x="350.8" y="98" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="149" height="38"/>
+	<g>
+		<text transform="matrix(1 0 0 1 379.5536 123.2314)" fill="#020202"  font-weight="600" font-size="18">Show data</text>
+	</g>
+</g>
+
+
+<g id="hide-data" display="none">
+
+	<rect x="350.8" y="98" display="inline" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="149" height="38"/>
+
+	<g display="inline">
+
+		<text transform="matrix(1 0 0 1 383.0034 123.2314)" fill="#020202"  font-weight="600" font-size="18">Hide data</text>
+
+	</g>
+
+</g>
+
+
+<g id="continents">
+
+	<g class="buttons" id="africa-button">
+
+		<rect x="16.4" y="15.3" fill="#662482" width="126" height="38"/>
+
+		<g>
+
+			<rect x="16.6" y="27.2" fill="none" width="123.6" height="18.1"/>
+
+			<text transform="matrix(1 0 0 1 55.9381 39.3531)" fill="#FFFFFF"  font-weight="600" font-size="16">Africa</text>
+
+		</g>
+
+	</g>
+
+	<g class="buttons" id="oceania-button">
+
+		<rect x="520.4" y="15.3" fill="#CCBB00" width="126" height="38"/>
+
+		<g>
+
+			<rect x="520.6" y="27.2" fill="none" width="125.5" height="18.1"/>
+
+			<text transform="matrix(1 0 0 1 551.9278 39.3531)" fill="#FFFFFF"  font-weight="600" font-size="16">Oceania</text>
+
+		</g>
+
+	</g>
+
+	<g class="buttons" id="south-america-button">
+
+		<rect x="646.4" y="15.3" fill="#EB6907" width="126" height="38"/>
+
+		<g>
+
+			<rect x="646.6" y="27.2" fill="none" width="126" height="18.1"/>
+
+			<text transform="matrix(1 0 0 1 671.2013 39.3531)" fill="#FFFFFF"  font-weight="600" font-size="16">S.America</text>
+
+		</g>
+
+	</g>
+
+	<g class="buttons" id="north-america-button">
+
+		<rect x="394.4" y="15.3" fill="#004366" width="126" height="38"/>
+
+		<g>
+
+			<rect x="394.6" y="27.2" fill="none" width="126.1" height="18.1"/>
+
+			<text transform="matrix(1 0 0 1 417.3566 39.3531)" fill="#FFFFFF"  font-weight="600" font-size="16">N.America</text>
+
+		</g>
+
+	</g>
+
+	<g class="buttons" id="asia-button">
+
+		<rect x="142.4" y="15.3" fill="#E6007E" width="126" height="38"/>
+
+		<g>
+
+			<rect x="142.8" y="27.2" fill="none" width="125.4" height="18.1"/>
+
+			<text transform="matrix(1 0 0 1 189.4576 39.3531)" fill="#FFFFFF"  font-weight="600" font-size="16">Asia</text>
+
+		</g>
+
+	</g>
+
+	<g class="buttons" id="europe-button">
+
+		<rect x="268.4" y="15.3" fill="#00ABC4" width="126" height="38"/>
+
+		<g>
+
+			<rect x="268.4" y="27.2" fill="none" width="126.1" height="18.1"/>
+
+			<text transform="matrix(1 0 0 1 303.9963 39.3531)" fill="#FFFFFF"  font-weight="600" font-size="16">Europe</text>
+
+		</g>
+
+	</g>
+
+</g>
+
+
+<g id="visits" display="none" class="data">
+	<text transform="matrix(0.97 0 0 1 17.4182 137.7452)" display="inline"><tspan x="0" y="0" fill="#666666"  font-size="16">Visits</tspan><tspan x="0" y="18" fill="#666666"  font-size="16">(million)</tspan></text>
+	<text transform="matrix(0.97 0 0 1 789.3761 137.7452)" display="inline"><tspan x="0" y="0" fill="#666666"  font-size="16">Visits</tspan><tspan x="-21.5" y="18" fill="#666666"  font-size="16">(million)</tspan></text>
+</g>
+<g id="text">
+	<rect x="83.9" y="80.7" fill="none" width="128.6" height="30.1"/>
+	<text transform="matrix(1 0 0 1 144.0428 103.5277)"  font-size="30">2004</text>
+	<rect x="634.5" y="80.7" fill="none" width="128.6" height="30.1"/>
+	<text transform="matrix(1 0 0 1 634.4726 103.5277)"  font-size="30">2014</text>
+	<g opacity="0.6">
+		<g>
+			<line fill="#FFFFFF" x1="702.7" y1="999.7" x2="137" y2="999.7"/>
+			<g>
+				<path fill="#1D1D1B" d="M702.7,1000.7c-0.3,0-0.5-0.1-0.7-0.3c-0.2-0.2-0.3-0.4-0.3-0.7c0-0.3,0.1-0.5,0.3-0.7
+					c0.4-0.4,1-0.4,1.4,0c0.2,0.2,0.3,0.5,0.3,0.7c0,0.3-0.1,0.5-0.3,0.7C703.2,1000.6,702.9,1000.7,702.7,1000.7z"/>
+				<path fill="#1D1D1B" d="M697.6,999.7c0-0.5,0.4-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C698.1,1000.7,697.6,1000.3,697.6,999.7z M693.6,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C694.1,1000.7,693.6,1000.3,693.6,999.7z M689.6,999.7c0-0.5,0.5-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C690.1,1000.7,689.6,1000.3,689.6,999.7z M685.6,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C686.1,1000.7,685.6,1000.3,685.6,999.7z M681.6,999.7c0-0.5,0.5-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C682.1,1000.7,681.6,1000.3,681.6,999.7z M677.6,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C678,1000.7,677.6,1000.3,677.6,999.7z M673.6,999.7c0-0.5,0.4-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C674,1000.7,673.6,1000.3,673.6,999.7z M669.6,999.7c0-0.5,0.5-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C670,1000.7,669.6,1000.3,669.6,999.7z M665.6,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C666,1000.7,665.6,1000.3,665.6,999.7z M661.5,999.7c0-0.5,0.5-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C662,1000.7,661.5,1000.3,661.5,999.7z M657.5,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C658,1000.7,657.5,1000.3,657.5,999.7z M653.5,999.7c0-0.5,0.4-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C654,1000.7,653.5,1000.3,653.5,999.7z M649.5,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C650,1000.7,649.5,1000.3,649.5,999.7z M645.5,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C645.9,1000.7,645.5,1000.3,645.5,999.7z M641.5,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C641.9,1000.7,641.5,1000.3,641.5,999.7z M637.5,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C637.9,1000.7,637.5,1000.3,637.5,999.7z M633.5,999.7c0-0.5,0.4-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C633.9,1000.7,633.5,1000.3,633.5,999.7z M629.4,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C629.9,1000.7,629.4,1000.3,629.4,999.7z M625.4,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C625.9,1000.7,625.4,1000.3,625.4,999.7z M621.4,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C621.9,1000.7,621.4,1000.3,621.4,999.7z M617.4,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C617.9,1000.7,617.4,1000.3,617.4,999.7z M613.4,999.7c0-0.5,0.4-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C613.8,1000.7,613.4,1000.3,613.4,999.7z M609.4,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C609.8,1000.7,609.4,1000.3,609.4,999.7z M605.4,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C605.8,1000.7,605.4,1000.3,605.4,999.7z M601.4,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C601.8,1000.7,601.4,1000.3,601.4,999.7z M597.4,999.7c0-0.5,0.5-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C597.8,1000.7,597.4,1000.3,597.4,999.7z M593.3,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C593.8,1000.7,593.3,1000.3,593.3,999.7z M589.3,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C589.8,1000.7,589.3,1000.3,589.3,999.7z M585.3,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C585.8,1000.7,585.3,1000.3,585.3,999.7z M581.3,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C581.8,1000.7,581.3,1000.3,581.3,999.7z M577.3,999.7c0-0.5,0.5-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C577.8,1000.7,577.3,1000.3,577.3,999.7z M573.3,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C573.7,1000.7,573.3,1000.3,573.3,999.7z M569.3,999.7c0-0.5,0.4-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C569.7,1000.7,569.3,1000.3,569.3,999.7z M565.3,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C565.7,1000.7,565.3,1000.3,565.3,999.7z M561.2,999.7c0-0.5,0.4-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C561.7,1000.7,561.2,1000.3,561.2,999.7z M557.2,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C557.7,1000.7,557.2,1000.3,557.2,999.7z M553.2,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C553.7,1000.7,553.2,1000.3,553.2,999.7z M549.2,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C549.7,1000.7,549.2,1000.3,549.2,999.7z M545.2,999.7c0-0.5,0.5-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C545.6,1000.7,545.2,1000.3,545.2,999.7z M541.2,999.7c0-0.5,0.4-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C541.6,1000.7,541.2,1000.3,541.2,999.7z M537.2,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C537.6,1000.7,537.2,1000.3,537.2,999.7z M533.2,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C533.6,1000.7,533.2,1000.3,533.2,999.7z M529.2,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C529.6,1000.7,529.2,1000.3,529.2,999.7z M525.1,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C525.6,1000.7,525.1,1000.3,525.1,999.7z M521.1,999.7c0-0.5,0.4-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C521.6,1000.7,521.1,1000.3,521.1,999.7z M517.1,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C517.6,1000.7,517.1,1000.3,517.1,999.7z M513.1,999.7c0-0.5,0.5-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C513.6,1000.7,513.1,1000.3,513.1,999.7z M509.1,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C509.5,1000.7,509.1,1000.3,509.1,999.7z M505.1,999.7c0-0.5,0.5-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C505.5,1000.7,505.1,1000.3,505.1,999.7z M501.1,999.7c0-0.5,0.5-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C501.5,1000.7,501.1,1000.3,501.1,999.7z M497.1,999.7c0-0.5,0.4-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C497.5,1000.7,497.1,1000.3,497.1,999.7z M493,999.7c0-0.5,0.5-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C493.5,1000.7,493,1000.3,493,999.7z M489,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C489.5,1000.7,489,1000.3,489,999.7z M485,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C485.5,1000.7,485,1000.3,485,999.7z M481,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C481.5,1000.7,481,1000.3,481,999.7z M477,999.7c0-0.5,0.4-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C477.4,1000.7,477,1000.3,477,999.7z M473,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C473.4,1000.7,473,1000.3,473,999.7z M469,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C469.4,1000.7,469,1000.3,469,999.7z M465,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C465.4,1000.7,465,1000.3,465,999.7z M461,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C461.4,1000.7,461,1000.3,461,999.7z M456.9,999.7c0-0.5,0.4-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C457.4,1000.7,456.9,1000.3,456.9,999.7z M452.9,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C453.4,1000.7,452.9,1000.3,452.9,999.7z M448.9,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C449.4,1000.7,448.9,1000.3,448.9,999.7z M444.9,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C445.4,1000.7,444.9,1000.3,444.9,999.7z M440.9,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C441.3,1000.7,440.9,1000.3,440.9,999.7z M436.9,999.7c0-0.5,0.4-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C437.3,1000.7,436.9,1000.3,436.9,999.7z M432.9,999.7c0-0.5,0.4-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C433.3,1000.7,432.9,1000.3,432.9,999.7z M428.9,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C429.3,1000.7,428.9,1000.3,428.9,999.7z M424.8,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C425.3,1000.7,424.8,1000.3,424.8,999.7z M420.8,999.7c0-0.5,0.5-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C421.3,1000.7,420.8,1000.3,420.8,999.7z M416.8,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C417.3,1000.7,416.8,1000.3,416.8,999.7z M412.8,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C413.3,1000.7,412.8,1000.3,412.8,999.7z M408.8,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C409.2,1000.7,408.8,1000.3,408.8,999.7z M404.8,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C405.2,1000.7,404.8,1000.3,404.8,999.7z M400.8,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C401.2,1000.7,400.8,1000.3,400.8,999.7z M396.8,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C397.2,1000.7,396.8,1000.3,396.8,999.7z M392.8,999.7c0-0.5,0.4-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C393.2,1000.7,392.8,1000.3,392.8,999.7z M388.8,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C389.2,1000.7,388.8,1000.3,388.8,999.7z M384.7,999.7c0-0.5,0.4-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C385.2,1000.7,384.7,1000.3,384.7,999.7z M380.7,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C381.2,1000.7,380.7,1000.3,380.7,999.7z M376.7,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C377.2,1000.7,376.7,1000.3,376.7,999.7z M372.7,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C373.1,1000.7,372.7,1000.3,372.7,999.7z M368.7,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C369.1,1000.7,368.7,1000.3,368.7,999.7z M364.7,999.7c0-0.5,0.4-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C365.1,1000.7,364.7,1000.3,364.7,999.7z M360.7,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C361.1,1000.7,360.7,1000.3,360.7,999.7z M356.6,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C357.1,1000.7,356.6,1000.3,356.6,999.7z M352.6,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C353.1,1000.7,352.6,1000.3,352.6,999.7z M348.6,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C349.1,1000.7,348.6,1000.3,348.6,999.7z M344.6,999.7c0-0.5,0.4-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C345.1,1000.7,344.6,1000.3,344.6,999.7z M340.6,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C341,1000.7,340.6,1000.3,340.6,999.7z M336.6,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C337,1000.7,336.6,1000.3,336.6,999.7z M332.6,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C333,1000.7,332.6,1000.3,332.6,999.7z M328.6,999.7c0-0.5,0.5-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C329,1000.7,328.6,1000.3,328.6,999.7z M324.6,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C325,1000.7,324.6,1000.3,324.6,999.7z M320.5,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C321,1000.7,320.5,1000.3,320.5,999.7z M316.5,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C317,1000.7,316.5,1000.3,316.5,999.7z M312.5,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C313,1000.7,312.5,1000.3,312.5,999.7z M308.5,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C309,1000.7,308.5,1000.3,308.5,999.7z M304.5,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C304.9,1000.7,304.5,1000.3,304.5,999.7z M300.5,999.7c0-0.5,0.4-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C300.9,1000.7,300.5,1000.3,300.5,999.7z M296.5,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C296.9,1000.7,296.5,1000.3,296.5,999.7z M292.5,999.7c0-0.5,0.4-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C292.9,1000.7,292.5,1000.3,292.5,999.7z M288.4,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C288.9,1000.7,288.4,1000.3,288.4,999.7z M284.4,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C284.9,1000.7,284.4,1000.3,284.4,999.7z M280.4,999.7c0-0.5,0.4-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C280.9,1000.7,280.4,1000.3,280.4,999.7z M276.4,999.7c0-0.5,0.5-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C276.9,1000.7,276.4,1000.3,276.4,999.7z M272.4,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C272.8,1000.7,272.4,1000.3,272.4,999.7z M268.4,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C268.8,1000.7,268.4,1000.3,268.4,999.7z M264.4,999.7c0-0.5,0.5-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C264.8,1000.7,264.4,1000.3,264.4,999.7z M260.4,999.7c0-0.5,0.4-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C260.8,1000.7,260.4,1000.3,260.4,999.7z M256.4,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C256.8,1000.7,256.4,1000.3,256.4,999.7z M252.3,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C252.8,1000.7,252.3,1000.3,252.3,999.7z M248.3,999.7c0-0.5,0.4-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C248.8,1000.7,248.3,1000.3,248.3,999.7z M244.3,999.7c0-0.5,0.5-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C244.8,1000.7,244.3,1000.3,244.3,999.7z M240.3,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C240.8,1000.7,240.3,1000.3,240.3,999.7z M236.3,999.7c0-0.5,0.5-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C236.8,1000.7,236.3,1000.3,236.3,999.7z M232.3,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C232.7,1000.7,232.3,1000.3,232.3,999.7z M228.3,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C228.7,1000.7,228.3,1000.3,228.3,999.7z M224.3,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C224.7,1000.7,224.3,1000.3,224.3,999.7z M220.2,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C220.7,1000.7,220.2,1000.3,220.2,999.7z M216.2,999.7c0-0.5,0.4-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C216.7,1000.7,216.2,1000.3,216.2,999.7z M212.2,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C212.7,1000.7,212.2,1000.3,212.2,999.7z M208.2,999.7c0-0.5,0.4-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C208.7,1000.7,208.2,1000.3,208.2,999.7z M204.2,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C204.6,1000.7,204.2,1000.3,204.2,999.7z M200.2,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C200.6,1000.7,200.2,1000.3,200.2,999.7z M196.2,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C196.6,1000.7,196.2,1000.3,196.2,999.7z M192.2,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C192.6,1000.7,192.2,1000.3,192.2,999.7z M188.2,999.7c0-0.5,0.4-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C188.6,1000.7,188.2,1000.3,188.2,999.7z M184.1,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C184.6,1000.7,184.1,1000.3,184.1,999.7z M180.1,999.7c0-0.5,0.5-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C180.6,1000.7,180.1,1000.3,180.1,999.7z M176.1,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C176.6,1000.7,176.1,1000.3,176.1,999.7z M172.1,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C172.5,1000.7,172.1,1000.3,172.1,999.7z M168.1,999.7c0-0.5,0.4-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C168.5,1000.7,168.1,1000.3,168.1,999.7z M164.1,999.7c0-0.5,0.4-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C164.5,1000.7,164.1,1000.3,164.1,999.7z M160.1,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C160.5,1000.7,160.1,1000.3,160.1,999.7z M156.1,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C156.5,1000.7,156.1,1000.3,156.1,999.7z M152,999.7c0-0.5,0.5-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C152.5,1000.7,152,1000.3,152,999.7z M148,999.7c0-0.5,0.4-1,1-1l0,0c0.5,0,1,0.5,1,1l0,0c0,0.6-0.5,1-1,1l0,0
+					C148.5,1000.7,148,1000.3,148,999.7z M144,999.7c0-0.5,0.4-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C144.5,1000.7,144,1000.3,144,999.7z M140,999.7c0-0.5,0.5-1,1-1l0,0c0.6,0,1,0.5,1,1l0,0c0,0.6-0.4,1-1,1l0,0
+					C140.5,1000.7,140,1000.3,140,999.7z"/>
+				<path fill="#1D1D1B" d="M137,1000.7c-0.3,0-0.5-0.1-0.7-0.3c-0.2-0.2-0.3-0.4-0.3-0.7c0-0.3,0.1-0.5,0.3-0.7
+					c0.4-0.4,1-0.4,1.4,0c0.2,0.2,0.3,0.4,0.3,0.7c0,0.3-0.1,0.5-0.3,0.7C137.5,1000.6,137.3,1000.7,137,1000.7z"/>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(0.97 0 0 1 578.3864 155.7457)" fill="#666666"  font-size="16">Rank</text>
+	<text transform="matrix(0.97 0 0 1 226.7886 155.7452)" fill="#666666"  font-size="16">Rank</text>
+	<text transform="matrix(0.97 0 0 1 134.6053 137.7456)"><tspan x="0" y="0" fill="#666666"  font-size="16">Country of </tspan><tspan x="6.5" y="18" fill="#666666"  font-size="16">residence</tspan></text>
+	<text transform="matrix(0.97 0 0 1 633.3726 137.7456)"><tspan x="0" y="0" fill="#666666"  font-size="16">Country of </tspan><tspan x="0" y="18" fill="#666666"  font-size="16">residence</tspan></text>
+	<rect x="78" y="993.4" fill="none" width="50.2" height="14"/>
+	<text transform="matrix(1 0 0 1 84.8536 1003.3224)" fill="#1D1D1B"  font-size="13">TOP 30</text>
+	<polygon fill="#1D1D1B" points="64.4,1003 71.5,994.1 78.5,1003 	"/>
+	<rect x="704.4" y="993.7" fill="none" width="50.2" height="14"/>
+	<text transform="matrix(1 0 0 1 711.2261 1003.539)" fill="#1D1D1B"  font-size="13">TOP 30</text>
+	<polygon fill="#1D1D1B" points="760.4,1003.2 767.5,994.3 774.6,1003.2 	"/>
+</g>
+</svg>
+
+
+
+
+</div>
+
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a40b222a9db6a598',t:'MTc5MDM1MDg5MA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
