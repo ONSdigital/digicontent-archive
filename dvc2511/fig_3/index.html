@@ -1,0 +1,715 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600, 700' rel='stylesheet' type='text/css'>
+  <title>DVC2511-dot plot showing changes in average mortgage payments by region</title>
+
+  <meta name="description" content="">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+  <link rel="stylesheet" href="../lib/globalStyle.css" type="text/css"/>
+  <style type="text/css">
+
+    body {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 400;
+      max-width: 700px;
+    }
+
+    .x.axis path {
+      display: none;
+    }
+
+    path {
+      fill: none;
+    }
+
+    text {
+      font-family: 'Open Sans'
+    }
+
+    text.x,
+    text.y {
+      font-size: 14px;
+      fill: #666;
+    }
+
+    line.y,
+    line.x {
+      stroke: #ccc;
+      stroke-width: 1px;
+      shape-rendering: crispEdges;
+    }
+
+
+    h4 {
+      font-size: 16px;
+      line-height: 24px;
+      margin: 16px 0 16px 0;
+      padding: 24px 0 0 0;
+      font-weight: bold;
+    }
+
+    h5 {
+      font-size: 14px;
+      margin: 0 0 16px 0;
+      font-weight: normal;
+      padding-top: 0;
+    }
+
+    h5,h6 {
+      font-size: 16px;
+      margin: 16px 0 8px 0;
+      font-weight: 700;
+      color: #323132;
+    }
+
+    ul, ol {
+      margin: 16px 0;
+      padding-left: 32px;
+    }
+
+    li {
+        margin: 0 0 8px 0;
+        line-height: 32px;
+        font-weight: 400;
+        font-size: 18px;
+        padding: 0;
+    }
+
+    .btn {
+        font-family: "Open Sans",Helvetica,Arial,sans-serif;
+        display: inline-block;
+        width: auto;
+        cursor: pointer;
+        padding: 6px 16px 10px 16px;
+        border: 0 none;
+        text-align: center;
+        -webkit-appearance: none;
+        transition: background-color 0.25s ease-out;
+    }
+
+    .btn--primary:focus {
+    background-color: #0b5d30;
+    }
+
+    .btn--primary {
+    background-color: #0F8243;
+    color: #fff;
+    }
+
+    .visuallyhidden {
+      position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden;
+      clip: rect(0,0,0,0);  border: 0;
+    }
+
+    #legend {
+      font-size: 14px;
+    }
+
+
+    /* y-axis tick labels */
+    #graphic .axis  /* required */
+		{
+            font-size: 14px;
+            fill: #414042;
+        }
+
+		@media (max-width:540px){
+			#graphic .axis{
+			  font-size:12px;
+			}
+		}
+
+    /*.chart-container p {
+      line-height: 14px;
+    }*/
+
+    .yAxisBold {
+      font-weight: bold;
+    }
+
+  </style>
+
+</head>
+
+<body>
+  <h5 id="screenreaderinfo" class="visuallyhidden">This chart shows the indicative monthly mortgage payments for averaged priced properties, by property type and region, in December 2021 and December 2022. The data behind the chart is available to download below</h5>
+  <div id="legend" aria-hidden="true"></div>
+  <div id="graphic" aria-hidden="true" style="position:relative;">
+    <img src="fallback.png" alt="[Chart]" />
+  </div>
+
+  <h6 id="source"></h6>
+
+  <script src="https://cdn.ons.gov.uk/vendor/d3/4.13.0/d3.min.js" type="text/javascript"></script>
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-annotation/2.1.0/d3-annotation.js" type="text/javascript"></script> -->
+  <script src="../lib/modernizr.svg.min.js" type="text/javascript"></script>
+  <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js" type="text/javascript"></script>
+  <script>
+    var legend = d3.select('#legend');
+    var graphic = d3.select('#graphic');
+    var pymChild = null;
+
+    function createLegend(graphic_width, margin) {
+
+      //draw legend
+    legend.append('svg').attr("height", dvc.optional.legendHeight[size]).attr("width", graphic_width).append('g')
+      .attr('transform', 'translate(5,5)')
+
+    const legendArray = (size == "sm") ? [0.15, 0.4] : [0.1, 0.3]
+
+    legend.select("svg")
+      .append('line')
+      .attr("stroke", function(d) {return "#414042"} )
+      .attr("x1", legendArray[0]*graphic_width)
+      .attr("x2", legendArray[1]*graphic_width)
+      .attr("y1", dvc.optional.legendHeight[size]/3)
+      .attr("y2", dvc.optional.legendHeight[size]/3)
+      .attr("stroke-width", "1.5px")
+
+    legend.select("svg")
+            .selectAll("circle")
+            .data([{cx: legendArray[0]*graphic_width, r: 3.5},{cx: legendArray[1]*graphic_width, r: 6.5}])
+            .enter()
+            .append("circle")
+            .attr("stroke", function(d,i) {return (i!=1) ? "#414042" : "white"} )
+            .attr("fill", function(d,i) {return (i==1) ? "#414042": "white"} )
+            .attr("cx", function(d) {return d["cx"] })
+            .attr("cy", dvc.optional.legendHeight[size]/3)
+            .attr("r", function(d) {return d["r"] })
+            .attr("stroke-width", "1.5px")
+
+      legend.select("svg")
+            .selectAll("text")
+            .data([{x: legendArray[0]*graphic_width, y: 17, text: "December"},
+            {x: legendArray[0]*graphic_width, y: 31, text: "2021"},
+            {x: legendArray[1]*graphic_width, y: 17, text: "December"},
+            {x: legendArray[1]*graphic_width, y: 31, text: "2022"}
+          ])
+            .enter()
+            .append("text")
+            .text((d) => {return d["text"]})
+            .style("fill", "#414042")
+            .attr("x", (d) => {return d["x"] })
+            .attr("dy", "0.32em")
+            .attr("y", (d) => {return d["y"]+dvc.optional.legendHeight[size]/3})
+            .attr("text-anchor", "middle")
+            .style("font-size", size == "lg" ? "14px" : "12px")
+      
+    } // end function createLegend()
+
+    function drawGraphic() {
+
+      d3.select("#screenreaderinfo")
+        .text(dvc.essential.screenreadertext)
+
+      maxweek=d3.max(graphic_data,function(d){return d.ycategory})
+
+      var threshold_md = dvc.optional.middleBreakpoint;
+      var threshold_sm = dvc.optional.mobileBreakpoint;
+
+      if (parseInt(graphic.style("width")) < threshold_sm) {
+        size = "sm";
+      } else if (parseInt(graphic.style("width")) < threshold_md) {
+        size = "md";
+      } else {
+        size = "lg";
+      }
+
+      categorySort = {}
+      if(Array.isArray(dvc.essential.categorySort)){
+        for (i = 0; i < dvc.essential.categorySort.length; i++) {
+          categorySort[dvc.essential.categorySort[i]] = i;
+        }
+
+        graphic_data.sort(function(a, b) {
+          return categorySort[a.plot] - categorySort[b.plot]
+        })
+
+        categories=Object.keys(categorySort)
+      } else if(dvc.essential.categorySort=="descending"){
+        // TODO: NOT SURE THIS WILL WORK
+
+        //auto sort the array by biggest value
+        graphic_data.filter(function(d){
+          return d.ycategory==maxweek
+        })/*.sort(function(a,b){return +b.value - (+a.value)}).forEach(function(item, i){
+          categorySort[item.plot]=i
+        });*/
+
+        graphic_data.sort(function(a, b) {
+          return categorySort[a.plot] - categorySort[b.plot]
+        })
+
+        categories=Object.keys(categorySort)
+      } else if (dvc.essential.categorySort=="ascending"){
+        graphic_data.filter(function(d){
+          return d.ycategory==maxweek
+        }).sort(function(a,b){return +a.value - (+b.value)}).forEach(function(item, i){
+          categorySort[item.plot]=i
+        });
+
+        graphic_data.sort(function(a, b) {
+          return categorySort[a.plot] - categorySort[b.plot]
+        })
+
+        categories=Object.keys(categorySort)
+
+      }
+
+      var margin = dvc.optional.margin[size]
+      var graphic_width = parseInt(graphic.style("width"));
+      var chart_width = (graphic_width - dvc.optional.margin.groupMargin.left) / dvc.optional.chart_every[size] - margin.left - margin.right - {sm: 10, md: 0, lg: 0}[size];
+      var height = {sm: 210, md: 300, lg: 300}[size];
+
+      legend.selectAll("*").remove();
+
+      createLegend(graphic_width, margin);
+
+      // clear out existing graphics
+      graphic.selectAll("*").remove();
+
+      d3.select("#graphic2").selectAll("*").remove();
+
+
+      var x = d3.scaleLinear()
+        .range([0, chart_width]);
+
+      var y = d3.scaleBand()
+        .rangeRound([0, height-5])
+        .paddingInner(0.1);
+
+      ycategories=d3.map(graphic_data,function(d){return d.ycategory}).keys()
+      y.domain(ycategories)
+
+      x.domain([0, 4999])
+
+
+      var xAxis = d3.axisBottom(x)
+        .tickSize(-height)
+        .ticks(dvc.optional.x_ticks_num[size])
+        .tickFormat(d => {return (d === 0 ?"£0" : "£"+d3.format(",.2r")(d))})
+
+      nested = d3.nest()
+        .key(function(d) {
+          return "1"
+        })
+        .key(function(d) {
+          return d.plot
+        })
+        //.sortValues(function(a,b) { return a.ycategory - b.ycategory; } )
+        .entries(graphic_data);
+
+
+      chartSeries = d3.select('#graphic')
+        .selectAll('div')
+        .data(nested)
+        .enter()
+        .append("div")
+        .classed("chart-series", true)
+
+      // chartHeaders = chartSeries.append("h1")
+      //   .style("font-size", "18px")
+      //   .style("font-weight", 700)
+      //   .style("margin-left", margin.left)
+      //   .style("margin-bottom", "15px")
+      // //  .style("color", function(d, i) { console.log(d); return dvc.essential.colour_palette[d.key] })
+      //   .text(function(d) {return d.key})
+
+      chartContainers = chartSeries.selectAll("div")
+        .data(function(d) {console.log(d.values); return d.values})
+        .enter()
+        .append('div')
+        .classed("chart-container", true)
+
+        .style("float", "left");
+
+      chartContainers.append("p")
+        .text(function(d) {
+          return d.key
+        })
+        .style('font-weight', 700)
+        .style('font-size', "15px")
+        .style("margin-left", function(d,i) { return margin.left + calculateExtraMargin(i) + "px" })
+        .style("position", "absolute")
+        .style("color", function(d) {return {"Detached": "#206095", "Flat": "#003C57", "Semi-detached": "#871A5B", "Terraced": "#118C7B"}[d.key]})
+        .style("max-width", chart_width + margin.right + "px");
+        // .style("float", "left");
+
+      charts = chartContainers.append("svg")
+        .attr("width", function(d,i) {
+          return chart_width + margin.left + margin.right + calculateExtraMargin(i);
+        })
+        .attr("height", height + margin.top + margin.bottom)
+        .style("overflow", "visible")
+        .style("z-index", function(d,i) {return [4,3,2,1][i]})
+        .style("position", "relative")
+        // .style("position", "relative");
+
+      function calculateExtraMargin(i) {
+        var extra_margin = 0;
+        if (i % dvc.optional.chart_every[size] == 0) {
+          extra_margin = dvc.optional.margin.groupMargin.left
+        };
+        return extra_margin
+      };
+
+      svg = charts
+        .append("g")
+        .attr("transform", function(d,i) {
+          // return "translate(" + (margin.left + dvc.optional.margin.groupMargin.left) + "," + margin.top + ")"
+          return "translate(" + (margin.left + calculateExtraMargin(i)) + "," + margin.top + ")"
+        });
+
+      svg
+        .append('g')
+        .attr('class', 'x axis')
+        .attr("transform", "translate(0," + height + ")")
+        .call(xAxis)
+
+      svg.select(".x")
+        .selectAll(".tick")
+        .filter((d,i) => {return i % 2 == 1})
+        .attr("opacity", 0.4)
+        .selectAll("text")
+        .remove()
+        /*.each(function(d, i) {
+          if (i % dvc.optional.chart_every[size] == dvc.optional.chart_every[size] - 1||i==nested[0].values.length-1) {
+            d3.select(this).append("text")
+              .text(dvc.essential.xAxisLabel)
+              .attr("transform", "translate(" + chart_width + "," + 25 + ")")
+              .attr('text-anchor', 'end')
+              .attr('fill', "#666");
+          }
+        });*/
+
+      svg.selectAll(".x").selectAll(".tick").selectAll("text").attr("fill", null)
+
+      //create svg for chart
+
+      drawyaxis = svg
+        .append('g')
+        .attr('class', 'y axis');
+
+      drawyaxis.each(function(d, i) {
+        if (i % dvc.optional.chart_every[size] == 0) {
+          d3.select(this).call(d3.axisLeft(y).ticks(3));
+        // } else {
+        //   d3.select(this).call(d3.axisLeft(y).tickFormat("").ticks(3))
+        }
+
+      })
+
+      drawyaxis.selectAll(".tick").selectAll("text").style("font-size", size == "lg" ? "14px": "12px").attr("fill", null)
+
+      drawyaxis.select(".domain").remove()
+
+      /*drawyaxis.selectAll(".tick")
+        .filter((d,i) => {return i == 0})
+        .selectAll("text")
+        .attr("class", "yAxisBold")*/
+
+      const noEthnicityLabelGroup = drawyaxis.selectAll(".tick")
+        .filter((d,i) => {console.log(d); return d === "Yorkshire and The Humber"})
+
+      noEthnicityLabelGroup.selectAll("text").remove()
+
+      noEthnicityLabelGroup
+              .selectAll("text")
+              .data([{text: "Yorkshire and", y: size == "sm" ? -2: -4},{text: "The Humber", y: size == "sm" ? 8 : 7}])
+              .enter()
+              .append("text")
+              .text((d) => {return d["text"]})
+              .attr("fill", "#000")
+              .attr("x", -9)
+              .attr("dy", "0.32em")
+              .attr("y", (d) => {return d["y"]})
+              .style("font-size", size == "lg" ? "14px": "12px")
+              .attr("fill", null)
+
+      /*svg
+        .selectAll('g.line')
+        .append("g")
+        .attr("class", "tenthToNinetiethGroup")
+        .data(function(d) {
+          console.log(d.values)
+          return d.values;
+        })
+        .enter()
+        .append('line')
+        .attr("stroke", function(d) {return dvc.essential.colour_palette["tenthPercentile"]} )
+        .attr("x1", function(d) {return x(d["10th_percentile"]) })
+        .attr("x2", function(d) {return x(d["90th_percentile"]) })
+        .attr("y1", function(d) {return y(d.ycategory) + y.bandwidth()*0.4-3})
+        .attr("y2", function(d) {return y(d.ycategory) + y.bandwidth()*0.4-3})
+        .attr("opacity", 0.5)
+
+      svg
+        .append("g")
+        .selectAll('g.line')
+        .append("g")
+        .attr("class", "tenthToNinetiethGroup")
+        .data(function(d) {
+          console.log(d.values)
+          return d.values;
+        })
+        .enter()
+        .append('line')
+        .attr("stroke", function(d) {return "#871A5B"} )
+        .attr("x1", function(d) {return x(d["overall_10th"]) })
+        .attr("x2", function(d) {return x(d["overall_90th"]) })
+        .attr("y1", function(d) {return y(d.ycategory) + y.bandwidth()*0.4+3})
+        .attr("y2", function(d) {return y(d.ycategory) + y.bandwidth()*0.4+3})
+        .attr("opacity", 0.5)*/
+
+      svg
+        .append("g")
+        .selectAll('g.line')
+        .append("g")
+        .attr("class", "medianLineGroup")
+        .data(function(d) {
+          console.log(d.values)
+          return d.values;
+        })
+        .enter()
+        .append('line')
+        .attr("stroke", function(d) {return {"Detached": "#206095", "Flat": "#003C57", "Semi-detached": "#871A5B", "Terraced": "#118C7B"}[d.plot]} )
+        .attr("x1", function(d) {return x(d["overall_median"]) })
+        .attr("x2", function(d) {return x(d["median"]) })
+        .attr("y1", function(d) {return y(d.ycategory) + y.bandwidth()*0.4})
+        .attr("y2", function(d) {return y(d.ycategory) + y.bandwidth()*0.4})
+        .attr("opacity", 1)
+        .attr("stroke-width", "1.5px")
+
+      /*svg
+        .append("g")
+        .selectAll('g.line')
+        .append("g")
+        .attr("class", "ninetiethLineGroup")
+        .data(function(d) {
+          console.log(d.values)
+          return d.values;
+        })
+        .enter()
+        .append('line')
+        .attr("stroke", function(d) {return dvc.essential.colour_palette["tenthPercentile"]} )
+        .attr("x1", function(d) {return x(d["overall_90th"]) })
+        .attr("x2", function(d) {return x(d["90th_percentile"]) })
+        .attr("y1", function(d) {return y(d.ycategory) + y.bandwidth()*0.4})
+        .attr("y2", function(d) {return y(d.ycategory) + y.bandwidth()*0.4})
+        .attr("opacity", 1)
+        .attr("stroke-width", "1.5px")*/
+  
+      /*svg
+        .append("g")
+        .selectAll('g.line')
+        .append("g")
+        .attr("class", "medianGroup")
+        .data(function(d) {
+          console.log(d.values)
+          return d.values;
+        })
+        .enter()
+        .append('line')
+        .attr("stroke", function(d) {return dvc.essential.colour_palette["tenthPercentile"]} )
+        .attr("x1", function(d) {return x(d.overall_median) })
+        .attr("x2", function(d) {return x(d.overall_median) })
+        .attr("y2", function(d) {return y(d.ycategory) + y.bandwidth()*0.4+7})
+        .attr("y1", function(d) {return y(d.ycategory) + y.bandwidth()*0.4-7})
+        .attr("stroke-width", "2px")*/
+
+      svg
+        .selectAll('g.line')
+        .append("g")
+        .attr("class", "medianOverallGroup")
+        .data(function(d) {
+          console.log(d.values)
+          return d.values;
+        })
+        .enter()
+        .append('circle')
+        .attr("stroke", function(d) {return {"Detached": "#206095", "Flat": "#003C57", "Semi-detached": "#871A5B", "Terraced": "#118C7B"}[d.plot]} )
+        .attr("fill", "white")
+        .attr("cx", function(d) {return x(d.overall_median) })
+        .attr("cy", function(d) {return y(d.ycategory) + y.bandwidth()*0.4})
+        .attr("r", 2.5)
+        .attr("stroke-width", "1px")
+
+      svg
+        .selectAll('g.line')
+        .append("g")
+        .attr("class", "medianGroup")
+        .data(function(d) {
+          console.log(d.values)
+          return d.values;
+        })
+        .enter()
+        .append('circle')
+        .attr("fill", function(d) {return {"Detached": "#206095", "Flat": "#003C57", "Semi-detached": "#871A5B", "Terraced": "#118C7B"}[d.plot]} )
+        .attr("stroke", "white")
+        .attr("cx", function(d) {return x(d.median) })
+        .attr("cy", function(d) {return y(d.ycategory) + y.bandwidth()*0.4})
+        .attr("r", 4.5)
+        .attr("stroke-width", "1px")
+
+      svg
+        .selectAll('g.label')
+        .append("g")
+        .attr("class", "labelGroup")
+        .data(function(d) {
+          console.log(d.values)
+          return d.values;
+        })
+        .enter()
+        .append('text')
+        .attr("fill", function(d) {return {"Detached": "#206095", "Flat": "#003C57", "Semi-detached": "#871A5B", "Terraced": "#118C7B"}[d.plot]} )
+        .attr("stroke", "none")
+        .attr("x", function(d) {return x(d.median)+10 })
+        .attr("y", function(d) {return y(d.ycategory) + y.bandwidth()*0.4+4})
+        .attr("font-weight", "600")
+        .text(function(d) {return "+£"+(parseFloat(d.median)-parseFloat(d.overall_median)).toLocaleString()})
+        .style("font-size", size == "lg" ? "14px": "12px")
+
+      /*svg
+        .append("g")
+        .selectAll('g.line')
+        .append("g")
+        .attr("class", "ninetiethLineGroup")
+        .data(function(d) {
+          console.log(d.values)
+          return d.values;
+        })
+        .enter()
+        .append('line')
+        .attr("stroke", function(d) {return dvc.essential.colour_palette["tenthPercentile"]} )
+        .attr("x1", function(d) {return x(d["overall_10th"]) })
+        .attr("x2", function(d) {return x(d["10th_percentile"]) })
+        .attr("y1", function(d) {return y(d.ycategory) + y.bandwidth()*0.4})
+        .attr("y2", function(d) {return y(d.ycategory) + y.bandwidth()*0.4})
+        .attr("opacity", 1)
+        .attr("stroke-width", "1.5px")*/
+
+      /*svg
+        .append("g")  
+        .selectAll('g.line')
+        .append("g")
+        .attr("class", "tenthPercentileGroup")
+        .data(function(d) {
+          console.log(d.values)
+          return d.values;
+        })
+        .enter()
+        .append('line')
+        .attr("stroke", function(d) {return dvc.essential.colour_palette["tenthPercentile"]} )
+        .attr("x1", function(d) {return x(d["overall_10th"]) })
+        .attr("x2", function(d) {return x(d["overall_10th"]) })
+        .attr("y1", function(d) {return y(d.ycategory) + y.bandwidth()*0.4-5})
+        .attr("y2", function(d) {return y(d.ycategory) + y.bandwidth()*0.4+5})
+        .attr("stroke-width", "1.25px")*/
+
+      /*svg
+        .selectAll('g.line')
+        .append("g")
+        .attr("class", "tenthPercentileGroup")
+        .data(function(d) {
+          console.log(d.values)
+          return d.values;
+        })
+        .enter()
+        .append('circle')
+        .attr("stroke", function(d) {return dvc.essential.colour_palette["tenthPercentile"]} )
+        .attr("fill", "white")
+        .attr("cx", function(d) {return x(d["10th_percentile"]) })
+        .attr("cy", function(d) {return y(d.ycategory) + y.bandwidth()*0.4})
+        .attr("r", 3)*/
+
+      /*svg
+        .append("g")
+        .selectAll('g.line')
+        .append("g")
+        .attr("class", "ninetiethPercentileGroup")
+        .data(function(d) {
+          console.log(d.values)
+          return d.values;
+        })
+        .enter()
+        .append('line')
+        .attr("stroke", function(d) {return dvc.essential.colour_palette["tenthPercentile"]} )
+        .attr("x1", function(d) {return x(d["overall_90th"]) })
+        .attr("x2", function(d) {return x(d["overall_90th"]) })
+        .attr("y1", function(d) {return y(d.ycategory) + y.bandwidth()*0.4+5})
+        .attr("y2", function(d) {return y(d.ycategory) + y.bandwidth()*0.4-5})
+        .attr("stroke-width", "1.25px")*/
+
+      /*svg
+        .append("g")
+        .selectAll('g.line')
+        .append("g")
+        .attr("class", "ninetiethPercentileGroup")
+        .data(function(d) {
+          console.log(d.values)
+          return d.values;
+        })
+        .enter()
+        .append('circle')
+        .attr("stroke", function(d) {return dvc.essential.colour_palette["ninetiethPercentile"]} )
+        .attr("fill", "white")
+        .attr("cx", function(d) {return x(d["90th_percentile"]) })
+        .attr("cy", function(d) {return y(d.ycategory) + y.bandwidth()*0.4})
+        .attr("r", 3)*/
+
+        d3.selectAll("g.y.axis")
+              .selectAll(".tick")
+                .selectAll("line")
+              .style("display","none")
+
+
+              d3.selectAll("g.x.axis")
+                    .selectAll(".tick")
+              .attr("class",function(d,i){ return "ticky ticky"
+              })
+
+
+      d3.select('#source')
+        .text('Source: ' + dvc.essential.sourceText);
+
+      //use pym to calculate chart dimensions
+      if (pymChild) {
+        pymChild.sendHeight();
+      }
+    }
+
+
+    //check whether browser can cope with svg
+    if (Modernizr.svg) {
+      //load config
+      d3.json("config.json", function(error, config) {
+        dvc = config;
+
+        //load chart data
+        d3.csv(dvc.essential.graphic_data_url, function(error, data) {
+          graphic_data = data;
+
+          //use pym to create iframed chart dependent on specified variables
+          pymChild = new pym.Child({
+            renderCallback: drawGraphic
+          });
+        });
+
+      })
+
+    } else {
+      //use pym to create iframe containing fallback image (which is set as default)
+      pymChild = new pym.Child();
+      if (pymChild) {
+        pymChild.sendHeight();
+      }
+    }
+  </script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a40b81f52f4cecfd',t:'MTc5MDM1NDgxNA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+
+</html>
