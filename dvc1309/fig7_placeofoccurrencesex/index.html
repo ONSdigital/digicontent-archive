@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+  <title>Excess deaths registered in 2020, England and Wales, compared with 2015 to 2019 by place of death and sex</title>
+
+  <meta name="description" content="">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+  <link rel="stylesheet" href="../lib/globalStyle.css" />
+  <style type="text/css">
+    .x.axis path {
+      display: none;
+    }
+
+    /* Full width */
+
+    .btn-form-fullwidth {
+      display: -webkit-inline-box;
+      display: -ms-inline-flexbox;
+      display: inline-flex;
+      font-family: 'Open Sans', Arial, sans-serif;
+      -webkit-font-smoothing: antialiased;
+      font-weight: 600;
+      font-size: 16px;
+      margin-bottom: 32px;
+      width: 100%;
+    }
+
+    .form-group-fullwidth {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      cursor: pointer;
+      height: 50px;
+      box-sizing: border-box;
+      text-align: center;
+      width: 100%;
+      margin-top: 3px;
+      margin-right: 4px;
+    }
+
+    .form-group-fullwidth:last-child {
+      /*  border-right: solid 3px #206095;*/
+    }
+
+    .form-group-fullwidth:focus {
+      outline: orange 3px solid;
+    }
+
+    .label-primary-fullwidth {
+      padding: 12px 16px;
+      cursor: pointer;
+      color: #206095;
+      background: #fff;
+      border-top: solid 3px #206095;
+      border-left: solid 3px #206095;
+      border-bottom: solid 3px #206095;
+      border-right: solid 3px #206095;
+      width: 100%;
+    }
+
+    .label-primary-fullwidth:hover,
+    .label-primary-fullwidth:focus {
+      background: #206095;
+      color: #fff;
+      border-color: #206095;
+      width: 100%;
+      outline: orange 3px solid;
+
+    }
+
+    .radio-primary-fullwidth:checked+.label-primary-fullwidth {
+      background: #206095;
+      color: #fff;
+      border-color: #206095;
+      cursor: default;
+      width: 100%;
+
+      /*outline: orange 3px solid; */
+    }
+
+    .radio-primary-fullwidth {
+      display: none;
+    }
+
+    h5 {
+      font-size: 16px;
+      margin: 16px 0 8px 0;
+      font-weight: 700;
+      color: #323132;
+    }
+
+    .visuallyhidden {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      margin: -1px;
+      padding: 0;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      border: 0;
+    }
+
+    /* stuff for legend */
+    #legend{
+      display:flex;
+      margin-bottom: 20px;
+    }
+
+    .legenditem {
+      display:flex;
+      font-size: 14px;
+      padding-right:25px;
+    }
+
+    .square {
+      height: 15px;
+      width: 15px;
+      /* border-radius: 50%; */
+    }
+
+    .legendtext{
+      font-size:16px;
+      color:#707070;
+    }
+
+    p{
+      line-height:1em;
+      margin-bottom:10px;
+    }
+
+    @media (max-width: 400px) {
+      .legend{
+        flex-flow:column;
+      }
+    }
+
+  </style>
+</head>
+
+<body>
+
+  <h5 id="accessibleSummary" class="visuallyhidden">Deaths in private homes and care homes were up significantly for both males and females</h5>
+
+  <div id="buttons">
+    <form id="buttonForm" class="btn-form btn-form-fullwidth" role="radiogroup">
+      <div class="form-group form-group-fullwidth" role="radio" tabindex="0">
+        <input id="button-1" class="radio-primary radio-primary-fullwidth" type="radio" name="button" value="England" aria-checked="true" checked>
+        <label class="label-primary label-primary-fullwidth" for="button-1">England</label>
+      </div>
+      <div class="form-group form-group-fullwidth" role="radio" tabindex="0">
+        <input id="button-2" class="radio-primary radio-primary-fullwidth" type="radio" name="button" value="Wales" aria-checked="false">
+        <label class="label-primary label-primary-fullwidth" for="button-2">Wales</label>
+      </div>
+    </form>
+  </div>
+  <!-- <h5 id="switchSummary" class="visuallyhidden" aria-live="assertive"></h5> -->
+  <div aria-hidden="true" id="legend"></div>
+
+  <div id="graphic" aria-hidden="true">
+    <img src="fallback.png" alt="[Chart]" />
+  </div>
+
+  <div id="keypoints">
+    <p></p>
+  </div>
+
+  <div class="footer">
+  </div>
+
+  <script src="https://cdn.ons.gov.uk/vendor/d3/4.2.7/d3.min.js" type="text/javascript"></script>
+  <script src="../lib/modernizr.svg.min.js" type="text/javascript"></script>
+  <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.js" type="text/javascript"></script>
+  <script>
+    var graphic = d3.select('#graphic');
+
+
+
+
+    var keypoints = d3.select('#keypoints');
+    var footer = d3.select(".footer");
+    var pymChild = null;
+
+    function drawGraphic() {
+      var threshold_md = 600;
+      var threshold_sm = dvc.optional.mobileBreakpoint; // 510
+
+      //set variables for chart dimensions dependent on width of #graphic
+      if (parseInt(graphic.style("width")) < threshold_sm) {
+        var margin = {
+          top: dvc.optional.margin_sm[0],
+          right: dvc.optional.margin_sm[1],
+          bottom: dvc.optional.margin_sm[2],
+          left: dvc.optional.margin_sm[3]
+        };
+        var chart_width = parseInt(graphic.style("width")) - margin.left - margin.right;
+        var height = Math.ceil((chart_width * dvc.optional.aspectRatio_sm[1]) / dvc.optional.aspectRatio_sm[0]);
+      } else if (parseInt(graphic.style("width")) < threshold_md) {
+        var margin = {
+          top: dvc.optional.margin_md[0],
+          right: dvc.optional.margin_md[1],
+          bottom: dvc.optional.margin_md[2],
+          left: dvc.optional.margin_md[3]
+        };
+        var chart_width = parseInt(graphic.style("width")) - margin.left - margin.right;
+        var height = Math.ceil((chart_width * dvc.optional.aspectRatio_md[1]) / dvc.optional.aspectRatio_md[0]);
+      } else {
+        var margin = {
+          top: dvc.optional.margin_lg[0],
+          right: dvc.optional.margin_lg[1],
+          bottom: dvc.optional.margin_lg[2],
+          left: dvc.optional.margin_lg[3]
+        }
+        var chart_width = parseInt(graphic.style("width")) - margin.left - margin.right;
+        var height = Math.ceil((chart_width * dvc.optional.aspectRatio_lg[1]) / dvc.optional.aspectRatio_lg[0]);
+      }
+
+      // clear out existing graphics
+      graphic.selectAll("*").remove();
+      keypoints.selectAll("*").remove();
+      footer.selectAll("*").remove();
+
+      //draw the legend
+      var legenditem = d3.select('#legend')
+          .selectAll('div.legenditem')
+          .data(d3.zip(dvc.essential.legendLabels,dvc.essential.colour_palette))
+          .enter()
+          .append('div')
+          .attr('class','legenditem')
+
+      legenditem.append('div').attr('class','square')
+      .style('background-color',function(d){return d[1]})
+
+      legenditem.append('div').style('padding-left','5px')
+      .append('p').attr('class','legendtext').html(function(d){return d[0]})
+
+      x = d3.scaleLinear()
+        .range([0, chart_width])
+        .domain([-5,35])
+
+      y = d3.scalePoint()
+        .padding(0.1)
+        .range([0, height]);
+
+      y1 = d3.scaleBand()
+          .paddingOuter(0.2)
+
+      y.domain(graphic_data.map(function(d) {
+        return d.name;
+      }).filter(function(d, i, arr) {
+        return arr.indexOf(d) === i
+      }));
+
+      y1.range([0,y.step()])
+        .domain(graphic_data.columns.slice(2))
+
+      var yAxis = d3.axisLeft(y)
+        .tickPadding(10)
+
+      var xAxis = d3.axisBottom(x).tickSize(-(height+2*y1.bandwidth()))
+
+      //create svg for chart
+      svg = d3.select('#graphic')
+        .append('svg')
+        .attr("width", chart_width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .attr("id", "chart")
+        .style("background-color", "#fff")
+        .append("g")
+        .attr("transform", "translate(" + margin.left + "," + (margin.top) + ")")
+
+      svg.append("text")
+        .attr('class', 'x-label')
+        .attr("y", height + 35)
+        .attr("x", chart_width)
+        .style('font-size', '14px')
+        .attr("dy", ".71em")
+        .style("text-anchor", "end")
+        .text(dvc.essential.xAxisLabel);
+
+      svg.append('g')
+        .attr('transform', 'translate(0,' + (height + y1.bandwidth()) + ')')
+        .attr('class', 'x axis')
+        .call(xAxis)
+
+      svg.append('g')
+        .attr('class', 'y axis')
+        .call(yAxis)
+
+      drawChart(graphic_data.filter(function(d) {
+        return d.group == "England"
+      }))
+
+      //a function that draws the chart given some data
+      function drawChart(data) {
+        t = d3.transition()
+          .duration(1000)
+
+        svg.selectAll('rect.females')
+          .data(data)
+          .enter()
+          .append('rect')
+          .merge(d3.selectAll('rect.females'))
+          .attr('class', 'females')
+
+          .attr('height', function(d) {
+            return y1.bandwidth()
+          })
+          .attr('y', function(d) {
+            return y(d.name)
+          })
+          .attr('fill',dvc.essential.colour_palette[0])
+          .transition(t)
+          .attr('x', function(d) {
+            return d3.min([x(0),x(d.Female)])
+          })
+          .attr('width', function(d) {
+            return Math.abs(x(0)-x(d.Female))
+          })
+
+        svg.selectAll('rect.males')
+          .data(data)
+          .enter()
+          .append('rect')
+          .merge(d3.selectAll('rect.males'))
+          .attr('class', 'males')
+          .attr('height', function(d) {
+            return y1.bandwidth()
+          })
+          .attr('y', function(d) {
+            return y(d.name)-y1.bandwidth()
+          })
+          .attr('fill',dvc.essential.colour_palette[1])
+          .transition(t)
+          .attr('x', function(d) {
+            return d3.min([x(0),x(d.Male)])
+          })
+          .attr('width', function(d) {
+            return Math.abs(x(0)-x(d.Male))
+          })
+      }
+
+
+      //code for clicking on buttons to switch the dataset
+      d3.selectAll("input[name='button']")
+        .on('click', function() {
+          var foo = this.value
+          drawChart(graphic_data.filter(function(d) {
+            return d.group == foo
+          }))
+        })
+
+
+      //code for keyboard control buttons
+      d3.selectAll(".form-group-fullwidth")
+        .on('keydown', function(e) {
+          if (d3.event.keyCode === 13 || d3.event.keyCode === 32) {
+            d3.select(this).select("input").attr("aria-checked", "true").property("checked", true);
+            var foo= d3.select(this).select("input").node().value
+            drawChart(graphic_data.filter(function(d) {
+              return d.group == foo
+            }))
+          }
+        })
+
+      //create link to source
+      d3.select(".footer").append("h5")
+        .text("Source: " + dvc.essential.sourceText)
+
+      //use pym to calculate chart dimensions
+      if (pymChild) {
+        pymChild.sendHeight();
+      }
+    }
+
+
+    //check whether browser can cope with svg
+    if (Modernizr.svg) {
+      //load config
+      d3.json("config.json", function(error, config) {
+        dvc = config;
+
+        d3.queue()
+          .defer(d3.csv, dvc.essential.graphic_data_url)
+          .await(function(error, data) {
+            //load chart data
+            graphic_data = data
+
+            //use pym to create iframed chart dependent on specified variables
+            pymChild = new pym.Child({
+              renderCallback: drawGraphic
+            });
+
+          });
+      })
+
+    } else {
+      //use pym to create iframe containing fallback image (which is set as default)
+      pymChild = new pym.Child();
+      if (pymChild) {
+        pymChild.sendHeight();
+      }
+    }
+  </script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a40b209e5f92a598',t:'MTc5MDM1MDgyNw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+
+</html>
