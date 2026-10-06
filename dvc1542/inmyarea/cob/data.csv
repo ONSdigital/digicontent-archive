@@ -1,0 +1,406 @@
+id,unique,value
+London,Kensington and Chelsea,53
+London,Brent,52
+London,Camden,47
+London,Newham,47
+London,Barking and Dagenham,45
+London,Redbridge,45
+London,Westminster,45
+London,Greenwich,43
+London,Hounslow,43
+London,Tower Hamlets,43
+London,Barnet,41
+London,Harrow,41
+London,Ealing,40
+London,Hammersmith and Fulham,39
+London,Merton,39
+London,Islington,37
+London,Enfield,36
+London,Southwark,36
+London,Croydon,35
+London,Lambeth,35
+London,Hackney,34
+London,Hillingdon,34
+London,Wandsworth,33
+London,Haringey,31
+London,Lewisham,31
+London,Sutton,31
+London,Waltham Forest,29
+London,Kingston upon Thames,27
+London,Richmond upon Thames,26
+London,Bexley,22
+London,Bromley,20
+London,Havering,20
+South East,Slough,44
+South East,Reading,27
+South East,Oxford,27
+South East,Dartford,26
+South East,Crawley,26
+South East,Milton Keynes,23
+South East,Runnymede,23
+South East,Windsor and Maidenhead,22
+South East,Woking,22
+South East,Southampton,21
+South East,Rushmoor,20
+South East,Bracknell Forest,19
+South East,Brighton and Hove,19
+South East,Epsom and Ewell,19
+South East,Wycombe,18
+South East,Cherwell,18
+South East,Elmbridge,18
+South East,Tunbridge Wells,17
+South East,Mid Sussex,17
+South East,Wokingham,16
+South East,Guildford,16
+South East,Spelthorne,16
+South East,Surrey Heath,16
+South East,Oxfordshire,16
+South East,Chiltern,15
+South East,Hart,15
+South East,Gravesham,15
+South East,West Oxfordshire,15
+South East,Surrey,15
+South East,Medway,13
+South East,Portsmouth,13
+South East,Eastbourne,13
+South East,Buckinghamshire,13
+South East,Hastings,12
+South East,Tonbridge and Malling,12
+South East,Reigate and Banstead,12
+South East,West Sussex,12
+South East,West Berkshire,11
+South East,Basingstoke and Deane,11
+South East,Canterbury,11
+South East,Dover,11
+South East,Folkestone and Hythe,11
+South East,Worthing,11
+South East,Kent ,11
+South East,South Bucks,10
+South East,East Hampshire,10
+South East,Fareham,10
+South East,Havant,10
+South East,Test Valley,10
+South East,Ashford,10
+South East,Sevenoaks,10
+South East,Hampshire,10
+South East,Aylesbury Vale,9
+South East,Eastleigh,9
+South East,Gosport,9
+South East,South Oxfordshire,9
+South East,Tandridge,9
+South East,Waverley,9
+South East,Chichester,9
+South East,East Sussex,9
+South East,Lewes,8
+South East,Mole Valley,8
+South East,Arun,8
+South East,Maidstone,8
+South East,Wealden,7
+South East,Swale,7
+South East,New Forest,6
+South East,Winchester,6
+South East,Vale of White Horse,6
+South East,Horsham,6
+South East,Rother,5
+South East,Thanet,5
+South East,Adur,5
+South East,Isle of Wight,4
+East of England,Cambridge,37
+East of England,Luton,35
+East of England,Watford,33
+East of England,Thurrock,23
+East of England,Peterborough,22
+East of England,Bedford,21
+East of England,Hertsmere,21
+East of England,Three Rivers,20
+East of England,Forest Heath,20
+East of England,Stevenage,19
+East of England,Norwich,18
+East of England,Uttlesford,16
+East of England,Ipswich,16
+East of England,Harlow,15
+East of England,Cambridgeshire,15
+East of England,Hertfordshire,15
+East of England,St albans,15
+East of England,South Cambridgeshire,14
+East of England,Welwyn Hatfield,14
+East of England,Dacorum,13
+East of England,Central Bedfordshire,11
+East of England,Colchester,11
+East of England,Epping Forest,11
+East of England,Maldon,11
+East of England,Southend-on-Sea,10
+East of England,East Cambridgeshire,10
+East of England,King's Lynn and West Norfolk,10
+East of England,Suffolk,10
+East of England,Huntingdonshire,9
+East of England,Suffolk Coastal,9
+East of England,Norfolk,9
+East of England,Basildon,8
+East of England,Chelmsford,8
+East of England,Broxbourne,8
+East of England,St Edmundsbury,8
+East of England,East Hertfordshire,8
+East of England,Essex,8
+East of England,North Hertfordshire,7
+East of England,Breckland,7
+East of England,South Norfolk,7
+East of England,Babergh,7
+East of England,Fenland,7
+East of England,Braintree,6
+East of England,North Norfolk,6
+East of England,Brentwood,6
+East of England,Broadland,6
+East of England,Great Yarmouth,5
+East of England,Waveney,5
+East of England,Mid Suffolk,4
+East of England,Castle Point,4
+East of England,Tendring,3
+East of England,Rochford,2
+East Midlands,Leicester,36
+East Midlands,Northampton,25
+East Midlands,Nottingham,24
+East Midlands,Oadby and Wigston,24
+East Midlands,Derby,17
+East Midlands,Kettering,16
+East Midlands,Lincoln,16
+East Midlands,Corby,15
+East Midlands,Northamptonshire,15
+East Midlands,Wellingborough,14
+East Midlands,Broxtowe,14
+East Midlands,Charnwood,13
+East Midlands,Boston,13
+East Midlands,Rutland,11
+East Midlands,Rushcliffe,11
+East Midlands,Leicestershire ,11
+East Midlands,Melton,10
+East Midlands,South Holland,10
+East Midlands,East Northamptonshire,10
+East Midlands,North West Leicestershire,9
+East Midlands,Gedling,9
+East Midlands,Harborough,8
+East Midlands,Hinckley and Bosworth,8
+East Midlands,Nottinghamshire ,8
+East Midlands,Lincolnshire,7
+East Midlands,South Derbyshire,7
+East Midlands,Bassetlaw,7
+East Midlands,Chesterfield,6
+East Midlands,South Kesteven,6
+East Midlands,Daventry,6
+East Midlands,Mansfield,6
+East Midlands,Blaby,6
+East Midlands,North Kesteven,6
+East Midlands,South Northamptonshire,5
+East Midlands,High Peak,5
+East Midlands,Ashfield,5
+East Midlands,Erewash,4
+East Midlands,West Lindsey,4
+East Midlands,Derbyshire,4
+East Midlands,North East Derbyshire,4
+East Midlands,Newark and Sherwood,3
+East Midlands,Amber Valley,2
+West Midlands,Coventry,26
+West Midlands,Birmingham,25
+West Midlands,Sandwell,23
+West Midlands,West Midlands (Met County),20
+West Midlands,Wolverhampton,19
+West Midlands,Warwick,15
+West Midlands,Rugby,14
+West Midlands,East Staffordshire,13
+West Midlands,Malvern Hills,13
+West Midlands,Stoke-on-Trent,12
+West Midlands,Redditch,11
+West Midlands,Worcester,11
+West Midlands,Solihull,11
+West Midlands,Walsall,11
+West Midlands,Warwickshire,11
+West Midlands,Stratford-on-Avon,10
+West Midlands,Telford and Wrekin,9
+West Midlands,Nuneaton and Bedworth,9
+West Midlands,Worcestershire,9
+West Midlands,Stafford,9
+West Midlands,"Herefordshire, County of",7
+West Midlands,Wyre Forest,7
+West Midlands,Cannock Chase,7
+West Midlands,Shropshire,6
+West Midlands,Newcastle-under-Lyme,6
+West Midlands,Bromsgrove,6
+West Midlands,Wychavon,6
+West Midlands,Dudley,6
+West Midlands,Staffordshire ,6
+West Midlands,Staffordshire Moorlands,5
+West Midlands,Tamworth,4
+West Midlands,Lichfield,3
+West Midlands,South Staffordshire,3
+North West,Manchester,26
+North West,Salford,17
+North West,Preston,16
+North West,Trafford,16
+North West,Bolton,15
+North West,Blackburn with Darwen,14
+North West,Pendle,14
+North West,Greater Manchester (Met County),14
+North West,Rochdale,13
+North West,Liverpool,13
+North West,Oldham,12
+North West,Warrington,11
+North West,Bury,10
+North West,Chorley,9
+North West,Cheshire East,8
+North West,Burnley,8
+North West,West Lancashire,8
+North West,Stockport,8
+North West,Cheshire West and Chester,7
+North West,Tameside,7
+North West,Wigan,7
+North West,Lancashire,7
+North West,Merseyside (Met County),7
+North West,Carlisle,6
+North West,South Lakeland,6
+North West,Lancaster,6
+North West,Blackpool,5
+North West,South Ribble,5
+North West,Knowsley,5
+North West,Sefton,5
+North West,Halton,4
+North West,Wirral,4
+North West,Cumbria,4
+North West,Eden,4
+North West,St Helens,3
+North West,Barrow-in-Furness,3
+North West,Copeland,3
+North West,Hyndburn,3
+North West,Wyre,3
+North West,Allerdale,2
+North West,Fylde,1
+Yorkshire and The Humber,Richmondshire,6
+Yorkshire and The Humber,Craven,4
+Yorkshire and The Humber,Ryedale,4
+Yorkshire and The Humber,Scarborough,3
+Yorkshire and The Humber,Selby,2
+Yorkshire and The Humber,Sheffield,16
+Yorkshire and The Humber,Bradford,16
+Yorkshire and The Humber,Kirklees,13
+Yorkshire and The Humber,York,11
+Yorkshire and The Humber,South Yorkshire (Met County),11
+Yorkshire and The Humber,West Yorkshire (Met County),11
+Yorkshire and The Humber,Leeds,10
+Yorkshire and The Humber,Harrogate,9
+Yorkshire and The Humber,Doncaster,8
+Yorkshire and The Humber,Calderdale,8
+Yorkshire and The Humber,Wakefield,8
+Yorkshire and The Humber,"Kingston upon Hull, City of",7
+Yorkshire and The Humber,North East Lincolnshire,7
+Yorkshire and The Humber,North Lincolnshire,7
+Yorkshire and The Humber,Barnsley,6
+Yorkshire and The Humber,Rotherham,6
+Yorkshire and The Humber,North Yorkshire,5
+Yorkshire and The Humber,Hambleton,4
+Yorkshire and The Humber,East Riding of Yorkshire,3
+South West,Christchurch,18
+South West,Cheltenham,16
+South West,Swindon,15
+South West,Bournemouth,14
+South West,Exeter,14
+South West,North Dorset,13
+South West,"Bristol, City of",12
+South West,Poole,12
+South West,West Somerset,12
+South West,Bath and North East Somerset,10
+South West,Plymouth,9
+South West,Sedgemoor,9
+South West,Purbeck,9
+South West,North Somerset,8
+South West,Wiltshire,8
+South West,Gloucester,8
+South West,Taunton Deane,8
+South West,Dorset,8
+South West,South Gloucestershire,7
+South West,Torbay,7
+South West,Teignbridge,7
+South West,East Dorset,7
+South West,Tewkesbury,7
+South West,Gloucestershire,7
+South West,Somerset,7
+South West,West Devon,7
+South West,Cornwall,6
+South West,Cotswold,6
+South West,Mendip,6
+South West,Devon,6
+South West,South Hams,5
+South West,West Dorset,5
+South West,South Somerset,5
+South West,Weymouth and Portland,5
+South West,East Devon,4
+South West,Torridge,4
+South West,Stroud,3
+South West,Mid Devon,3
+South West,Forest of Dean,2
+South West,North Devon,2
+Scotland,Aberdeen City,25
+Scotland,City of Edinburgh,23
+Scotland,Glasgow City,15
+Scotland,Dundee City,12
+Scotland,West Lothian,11
+Scotland,Aberdeenshire,9
+Scotland,Perth and Kinross,9
+Scotland,East Lothian,8
+Scotland,Fife,8
+Scotland,Highland,7
+Scotland,Midlothian,7
+Scotland,Clackmannanshire,6
+Scotland,East Renfrewshire,6
+Scotland,Argyll and Bute,6
+Scotland,East Dunbartonshire,6
+Scotland,Dumfries and Galloway,5
+Scotland,Falkirk,5
+Scotland,Moray,5
+Scotland,Orkney Islands,5
+Scotland,South Ayrshire,5
+Scotland,Stirling,5
+Scotland,Renfrewshire,5
+Scotland,North Lanarkshire,5
+Scotland,East Ayrshire,4
+Scotland,Na h-Eileanan Siar,4
+Scotland,Inverclyde,4
+Scotland,Scottish Borders,4
+Scotland,Shetland Islands,4
+Scotland,South Lanarkshire,4
+Scotland,Angus,4
+Scotland,West Dunbartonshire,3
+Scotland,North Ayrshire,2
+North East,Newcastle upon Tyne,16
+North East,Middlesbrough,14
+North East,Stockton-on-Tees,7
+North East,Darlington,7
+North East,Gateshead,7
+North East,Tyne and Wear (Met County),7
+North East,North Tyneside,5
+North East,Redcar and Cleveland,3
+North East,County Durham,3
+North East,South Tyneside,3
+North East,Sunderland,3
+North East,Hartlepool,2
+North East,Northumberland,2
+Wales,Cardiff / Caerdydd,13
+Wales,Newport / Casnewydd,10
+Wales,Swansea / Abertawe,9
+Wales,Flintshire / Sir y Fflint,6
+Wales,Wrexham / Wrecsam,6
+Wales,Conwy / Conwy,5
+Wales,Denbighshire / Sir Ddinbych,5
+Wales,Ceredigion / Ceredigion,5
+Wales,Rhondda Cynon Taf / Rhondda Cynon Taf,5
+Wales,Merthyr Tydfil / Merthyr Tudful,5
+Wales,Gwynedd / Gwynedd,4
+Wales,Bridgend / Pen-y-bont ar Ogwr,4
+Wales,Vale of Glamorgan / Bro Morgannwg,4
+Wales,Monmouthshire / Sir Fynwy,4
+Wales,Powys / Powys,4
+Wales,Isle of Anglesey / Ynys Môn,3
+Wales,Pembrokeshire / Sir Benfro,3
+Wales,Carmarthenshire / Sir Gaerfyrddin,3
+Wales,Blaenau Gwent / Blaenau Gwent,3
+Wales,Torfaen / Torfaen,3
+Wales,Neath Port Talbot / Castell-nedd Port Talbot,2
+Wales,Caerphilly / Caerffili,2

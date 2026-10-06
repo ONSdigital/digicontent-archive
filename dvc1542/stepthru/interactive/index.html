@@ -1,0 +1,922 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Dot Diagram</title>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+  <meta name="description" content="Plot data in a scatter plot with Voronoi detection to find the nearest point">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
+
+
+  <style>
+        body {
+          font-family: "Open Sans", sans-serif;
+          font-size: 16px;
+          color:#363636;
+          max-width: 700px;
+        }
+
+        .steptext{
+          min-height:215px;
+          font-size: 16px;
+        }
+        .bottonGroup{
+         height: 40px;
+         color: white;
+         background-color: #206095;
+         margin-left:0px;
+         margin-right: 20px;
+         margin-top:10px;
+         margin-bottom:0px;
+         padding-left: 20px;
+         padding-right: 20px;
+         padding-bottom: 15px;
+         font-weight: bold;
+         font-size:18px;
+         padding-top: 10px;
+         float: left;
+         border-width: 0px;
+         cursor: pointer;
+         cursor: hand;
+       }
+       .bottonGroup:hover{
+         outline: 4px solid orange;
+       }
+       .bottonGroup:focus{
+         outline: 4px solid orange;
+       }
+
+       .disabledButton{
+        height: 40px;
+        color: white;
+        background-color: #dadada;
+        margin-left:0px;
+        margin-right: 20px;
+        margin-top:10px;
+        margin-bottom:0px;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-bottom: 15px;
+        font-weight: bold;
+        font-size:18px;
+        padding-top: 10px;
+        float: left;
+        border-width: 0px;
+      }
+      .disabledButton:hover{
+        outline: 4px solid #fff;
+      }
+      .disabledButton:focus{
+        outline: 4px solid #fff;
+      }
+
+       .positionCounter{
+         width: 10%;
+         outline: 2px solid white;
+         float: left;
+         height: 20px;
+         text-align: center;
+         color: white;
+         background-color: #dadada;
+         font-weight: bold;
+         font-size:16px;
+         padding-bottom: 5px;
+         padding-top: 2px;
+         padding-right: 3px;
+       }
+       .positionCounterU{
+         width: 10%;
+         padding-right: 3px;
+         outline: 2px solid white;
+         float: left;
+         height: 5px;
+         background-color: #fff;
+       }
+       .famousP{
+         background-color:#EAEAEA;
+         padding-top: 5px;
+         padding-left: 5px;
+         padding-right: 5px;
+         padding-bottom: 5px;
+         margin-top: 20px;
+         margin-right: 10px;
+       }
+
+       .visuallyhidden {
+         position: absolute;
+         width: 1px;
+         height: 1px;
+         margin: -1px;
+         padding: 0;
+         overflow: hidden;
+         clip: rect(0, 0, 0, 0);
+         border: 0;
+       }
+    </style>
+</head>
+<body>
+<h5 class="visuallyhidden">
+<!-- this is for accessibility -->
+There are around 67 million people living in the UK.
+6 million people who live in the UK are foreign nationals; they are citizens of another nation. They make up 9.2% of the UK population.
+Did you know? Manchester City Football Club Manager Pep Guardiola is a Spanish citizen, but he lives in central Manchester.
+</h5>
+<h5 class="visuallyhidden">
+10 million people who live in the UK were born overseas. They are 14.4% of the UK population.
+Most of these people have the citizenship of the country they were born in. Others have since become British citizens.
+British tennis player and US Open winner Emma Raducanu was born in Canada to a Romanian father and a Chinese mother; she came to the UK when she was two years of age.
+</h5>
+<h5 class="visuallyhidden">
+People can belong to both categories. Manchester City manager Pep Guardiola is one of the 6 million foreign nationals living in the UK and one of the 10 million people who were born overseas.
+One big reason why there are fewer foreign nationals living here than people born overseas is because some people who were born overseas decide to take British citizenship later in life.
+<!-- Pop star Kylie Minogue was born in Australia. She is now a British citizen, after living in London for many years. -->
+</h5>
+<h5 class="visuallyhidden">
+In 2019, there were 138,000 babies born in England and Wales to parents who were both born outside of the UK. Some of these babies became British citizens automatically at birth; others may be able to become British later.
+British actor Dev Patel was born in the UK. His parents were born in Kenya, and moved to the UK when they were teenagers.
+</h5>
+<h5 class="visuallyhidden">
+Hundreds of thousands of international students take degree courses at British universities every year.
+There were 557,000 international students in the UK during the 2019 to 2020 academic year.
+There is evidence that most international students don’t stay in the UK long-term. **
+Chelsea Clinton – the daughter of former US president Bill Clinton – did her Master’s degree at Oxford University.
+</h5>
+<h5 class="visuallyhidden">
+Of the 32 million people who were in employment in the UK during April to June 2021, 4 million of them were foreign nationals.
+Some migrants may temporarily work in the UK for just a few months (perhaps fruit picking); others stay and work here long-term for years, or even decades.
+Italian choreographer Bruno Tonioli lives in Hollywood most of the time, but comes to the UK when he is working on the TV show Strictly Come Dancing.
+</h5>
+<h5 class="visuallyhidden">
+In 2020, there were 132,000 refugees living in the UK. In June 2021, there were 86,000 asylum seekers here(people waiting an outcome of their application for refugee status).*
+Around 27,000 vulnerable refugees were resettled in the UK between 2014 and 2021. These were mostly escaping the civil war.**
+Pop singer Rita Ora was a refugee. Her family came to the UK to escape the war in Kosovo when she was a baby.
+</h5>
+<h5 class="visuallyhidden">
+Most people who cross borders are not migrants. The UK receives large numbers of tourists and business people each year who are just visiting and are not moving to the UK.
+The large volume of visitors makes counting migrants crossing the border a lot more difficult.
+In 2020, during the coronavirus (COVID-19) pandemic, only 11.1 million visits to the UK were made by people living overseas, whereas the previous year saw 40.9 million visits.
+In Summer 2012, hundreds of thousands of spectators from around the world visited London to attend the Olympic Games.
+</h5>
+
+
+<div aria-hidden="true">
+
+<div id="graphic">
+
+<button tabindex="0" id="backbutton" class="bottonGroup">< Back</button>
+<button tabindex="0" id="nextbutton" class="bottonGroup">Next ></button>
+
+<div style="width:100%; height:1px; clear:both; margin-bottom:20px;"></div>
+
+<div id="positionTeller2">
+</div>
+
+<div style="width:100%; height:1px; clear:both; margin-bottom:30px;"></div>
+
+
+</div>
+
+
+<div class="steptext steptext0" style="display:block; opacity:1;">
+  <p style="margin-bottom:0px;">There are around <span style="font-weight:bold; font-size:20px;">67 million</span> people living in the UK.</p>
+</div>
+
+
+<div class="steptext steptext1" style="display:none; opacity:0;">
+  <p style="margin-bottom:0px;"><span style="font-weight:bold; font-size:20px; color:#206095">6 million </span> people who live in the UK are <span style="font-weight:bold; font-size:20px; color:#206095">foreign nationals</span>; they are citizens of another nation. They make up <span style="font-weight:bold; font-size:20px; color:#206095">9.2%</span> of the UK population.</p>
+  <div class="famousP"><p style="margin-top: 0px; margin-bottom:0px;"><strong>Did you know?</strong> Manchester City Football Club Manager Pep Guardiola is a Spanish citizen, but he lives in central Manchester.</p></div>
+</div>
+
+<div class="steptext steptext2" style="display:none; opacity:0;">
+  <p style="margin-bottom:0px;"><span style="font-weight:bold; font-size:20px; color:#206095">10 million </span> people who live in the UK were <span style="font-weight:bold; font-size:20px; color:#206095">born overseas</span>. They are <span style="font-weight:bold; font-size:20px; color:#206095">14.4%</span> of the UK population.</p>
+  <p style="margin-bottom:0px;">3.9 million of these people are British nationals, either because they were born to British parents or because they became British citizens later in life.</p>
+  <div class="famousP"><p style="margin-top: 0px; margin-bottom:0px;"><strong>Did you know?</strong> British tennis player and US Open winner Emma Raducanu was born in Canada to a Romanian father and a Chinese mother; she came to the UK when she was two years of age.</p></div>
+</div>
+
+<div class="steptext steptext3" style="display:none; opacity:0; padding-right:10px;">
+  <p style="margin-bottom:0px;">People can belong to both categories. Manchester City manager Pep Guardiola is one of the <span style="font-weight:bold; font-size:20px; color:#206095;">6 million</span> foreign nationals living in the UK <span style="font-weight:bold">and</span> one of the <span style="font-weight:bold; font-size:20px; color:#27A0CC">10 million</span> people who were born overseas.</p>
+  <!-- <p style="margin-bottom:0px;">Most of these people have the citizenship of the country they were born in. Others have since become British citizens. </p> -->
+  <!-- <div class="famousP"><p style="margin-top: 0px; margin-bottom:0px;">Pop star Kylie Minogue was born in Australia. She is now a British citizen, after living in the London for many years.</p></div></div> -->
+</div>
+
+<div class="steptext steptext4" style="display:none; opacity:0;">
+  <p style="margin-bottom:0px;">In 2019, there were<span style="font-weight:bold; font-size:20px; color:#206095">138,000 babies</span> born in England and Wales to parents who were both born outside of the UK. Some of these babies became British citizens automatically at birth; others may be able to become British later.</p>
+  <div class="famousP"><p style="margin-top: 0px; margin-bottom:0px;"><strong>Did you know?</strong> British actor Dev Patel was born in the UK. His parents were born in Kenya, and moved to the UK when they were teenagers. </p></div>
+</div>
+
+<div class="steptext steptext5" style="display:none; opacity:0;">
+  <p style="margin-bottom:0px;">Hundreds of thousands of international students take degree courses at British universities every year.</p>
+  <p style="margin-bottom:0px;">There were <span style="font-weight:bold; font-size:20px; color:#206095">557,000 international students</span> in the UK during the 2019 to 2020 academic year.</p>
+  <p style="margin-bottom:0px;">There is evidence that most international students don’t stay in the UK long-term. *</p>
+  <div class="famousP"><p style="margin-top: 0px; margin-bottom:0px;"><strong>Did you know?</strong> Chelsea Clinton – the daughter of former US president Bill Clinton – did her Master’s degree at Oxford University.</p></div>
+</div>
+
+<div class="steptext steptext6" style="display:none; opacity:0; padding-right:10px;">
+  <p style="margin-bottom:0px;">Of the <span style="font-weight:bold; font-size:20px; color:#27A0CC">32 million</span> people who were in <span style="font-weight:bold; font-size:20px; color:#27A0CC">employment</span> in the UK during April to June 2021, <span style="font-weight:bold; font-size:20px; color:#206095">4 million</span> of them were <span style="font-weight:bold; font-size:20px; color:#206095">foreign nationals</span>.</p>
+  <p style="margin-bottom:0px;">Some migrants may temporarily work in the UK for just a few months (perhaps fruit picking); others stay and work here long-term for years, or even decades.</p>
+  <div class="famousP"><p style="margin-top: 0px; margin-bottom:0px;"><strong>Did you know?</strong> Italian choreographer Bruno Tonioli lives in Hollywood most of the time, but comes to the UK when he is working on the TV show Strictly Come Dancing.</p></div>
+</div>
+
+<div class="steptext steptext7" style="display:none; opacity:0;">
+  <p style="margin-bottom:0px;">In 2020, there were <span style="font-weight:bold; font-size:20px; color:#27A0CC">132,000 refugees </span> living in the UK. In 2021, there were <span style="font-weight:bold; font-size:20px; color:#206095">86,000 asylum seekers</span> living here (people awaiting an outcome of their application for refugee status).*</p>
+  <p style="margin-bottom:0px;">Around 27,000 vulnerable refugees were resettled in the UK between 2014 and 2021. These were mostly escaping the civil war.**</P>
+  <div class="famousP"><p style="margin-top: 0px; margin-bottom:0px;"><strong>Did you know?</strong> Pop singer Rita Ora was a refugee. Her family came to the UK to escape the war in Kosovo when she was a baby.</p></div>
+</div>
+
+<div class="steptext steptext8" style="display:none; opacity:0;">
+  <p style="margin-bottom:0px;">Most people who cross borders are not migrants. The UK receives large numbers of tourists and business people each year who are just visiting and are not moving to the UK.</p>
+  <p style="margin-bottom:0px;">The large volume of visitors makes counting migrants crossing the border a lot more difficult.</p>
+  <p style="margin-bottom:0px;">In 2020, during the coronavirus (COVID-19) pandemic, only <span style="font-weight:bold; font-size:20px; color:#206095">11.1 million visits</span> to the UK were made by people living overseas, whereas the previous year saw <span style="font-weight:bold; font-size:20px; color:#206095">40.9 million visits</span>.</p>
+  <div class="famousP"><p style="margin-top: 0px; margin-bottom:0px;"><strong>Did you know?</strong> In Summer 2012, hundreds of thousands of spectators from around the world visited London to attend the Olympic Games.</p></div>
+</div>
+
+
+
+
+
+
+
+<div style="clear:both; height:1px; width:100%; margin-bottom:20px;"></div>
+
+<!-- THE CHART -->
+<svg id="dotssvg" width="100%" height="100px"></svg>
+
+</div>
+
+<p id="footnote1P"style="margin-bottom:0px; font-size:14px; color:#666;"></p>
+<p id="footnote2P"style="margin-bottom:0px; font-size:14px; color:#666;"></p>
+<p id="sourceP"style="margin-bottom:0px; font-size:14px; color:#666;">Source: ONS population estimates for 2020</p>
+
+
+<!-- <h6 id="source" style="font-weight:bold; margin-top:0px; font-size:16px;">Source: Office for National Statistics - Mid-year Population Estimates</h6> -->
+<div style="height:1px; width:100%;"></div>
+
+</div><!--close aria-hidden -->
+
+  <script src="https://cdn.ons.gov.uk/vendor/d3/4.13.0/d3.min.js" type="text/javascript"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-annotation/2.1.0/d3-annotation.js" type="text/javascript"></script>
+  <script src="https://cdn.ons.gov.uk/vendor/jquery/2.1.4/jquery.min.js" type="text/javascript"></script>
+  <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js" charset="utf-8" type="text/javascript"></script>
+  <script>
+
+  d3.json("config.json", function(error, config) {
+    dvc=config
+    drawGraphic();
+  });
+
+  function drawGraphic(){
+    //d3.select("#headingstatistic").text(dvc.essential.headingstatistic)
+    var pymChild = null;
+
+    var alldots = dvc.essential.alldots;
+    var subset = dvc.essential.subset;
+    var dotwidth = 6;
+    var screenwidth = parseInt(d3.select("#dotssvg").style("width"))
+    var xposition = 0;
+    var yposition = 0;
+
+    for(var i = 0; i < alldots; i++){
+       d3.select("#dotssvg").append("rect")
+         .attr("class", "X" + xposition + "Y" + yposition +" dottty dotty"+i)
+         .attr("x",xposition)
+         .attr("y",yposition)
+         .attr("width",dotwidth)
+         .attr("height",dotwidth)
+         .attr("fill","#e8e8e8")
+         .attr("stroke","#fff")
+         .attr("stroke-width",1);
+
+
+    //now draw dots to be positioned later
+    //All migrants - other citizens
+      if (i <= 599){
+        d3.select("#dotssvg").append("rect")
+          .attr("class", "AllMigs AllMigrantsdottty AllMigrantsdottty"+i)
+          .attr("x",xposition)
+          .attr("y",yposition)
+          .attr("width",dotwidth)
+          .attr("height",dotwidth)
+          .attr("fill","#206095")
+          .attr("stroke","#fff")
+          .attr("transform","translate(0,0)")
+          .attr("stroke-width",1)
+          .style("opacity",0);
+      }
+
+      //All migrants
+        if (i >=600 && i <= 999){
+          d3.select("#dotssvg").append("rect")
+            .attr("class", "AllMigs AllMigrantsdotttyCOB AllMigrantsdotttyCOB"+i)
+            .attr("x",xposition)
+            .attr("y",yposition)
+            .attr("width",dotwidth)
+            .attr("height",dotwidth)
+            .attr("fill","#206095")
+            .attr("stroke","#fff")
+            .attr("transform","translate(0,0)")
+            .attr("stroke-width",1)
+            .style("opacity",0);
+        }
+
+        //All tourists
+          if (i <= 1100){
+            d3.select("#dotssvg").append("rect")
+              .attr("class", "Tourists Tourists"+i)
+              .attr("x",xposition)
+              .attr("y",yposition)
+              .attr("width",dotwidth)
+              .attr("height",dotwidth)
+              .attr("fill","#206095")
+              .attr("stroke","#fff")
+              .attr("transform","translate(0,0)")
+              .attr("stroke-width",1)
+              .style("opacity",0);
+          }
+
+    //Deal with positioning
+      if(xposition < screenwidth-20){
+        xposition = xposition+dotwidth;
+      } else {
+        xposition = 0;
+        yposition = yposition+dotwidth;
+      }
+      //set height of svg
+      d3.select("#dotssvg").attr("height",yposition+dotwidth)
+    }//ends for loop
+
+
+var NextNumber = 0;
+
+//deal with counter
+d3.select("#positionTeller2")
+  .append("svg")
+  .attr("id","positionTeller2svg")
+  .attr("height","30px")
+  .attr("width","100%")
+
+var counterFullWidth = parseInt(d3.select("#positionTeller2svg").style("width"))
+var counterWidth = (counterFullWidth-40)/9;
+
+
+for(var i=0; i<=8; i++){
+  d3.select("#positionTeller2svg")
+    .append("line")
+    .attr("class","circleCounterLine circleCounterLine"+i)
+    .attr("x1",15 + (i*counterWidth))
+    .attr("x2",15 + ((i+1)*counterWidth))
+    .attr("y1",15)
+    .attr("y2",15)
+    .attr("stroke","#dadada")
+    .attr("stroke-width",5)
+
+  d3.select("#positionTeller2svg")
+    .append("circle")
+    .attr("class","circleCounter circleCounter"+i)
+    .attr("r",13)
+    .attr("cx",15 + (i*counterWidth))
+    .attr("cy",15)
+    .attr("fill","#dadada")
+
+    d3.select("#positionTeller2svg")
+      .append("text")
+      .attr("class","circleCounterText circleCounterText"+i)
+      .attr("x",9 + (i*counterWidth))
+      .attr("y",21)
+      .attr("fill","#dadada")
+      .text(i+1)
+      .attr("font-size",18)
+      .attr("font-weight","bold")
+}
+d3.select(".circleCounterLine8").style("display","none")
+d3.select(".circleCounter0").attr("fill","#206095")
+d3.select(".circleCounterText").attr("fill","#fff")
+
+
+
+
+//works out the stage and fires the correct function
+//for forward
+d3.select("#nextbutton").on("click",function(){
+  d3.select("#nextbutton").style("pointer-events","none")
+  d3.select("#backbutton").style("pointer-events","none")
+
+    setTimeout(function(){
+      d3.select("#nextbutton").style("pointer-events","auto")
+      d3.select("#backbutton").style("pointer-events","auto")
+    }, 2000);
+
+
+  if(NextNumber == 0){
+    d3.selectAll(".steptext").transition().duration(1000).style("opacity",0);
+    d3.select(".circleCounter1").attr("fill","#206095")
+    d3.select(".circleCounterText1").attr("fill","#fff")
+    d3.select(".circleCounterLine0").attr("stroke","#206095")
+      d3.select("#sourceP").html("Source: ONS Population of the UK by country of birth and nationality: 2020")
+      d3.select("#footnote1P").html("")
+      d3.select("#footnote2P").html("")
+    forwardTo1();
+  } else if (NextNumber == 1) {
+    d3.selectAll(".steptext").transition().duration(1000).style("opacity",0);
+    d3.select(".circleCounter2").attr("fill","#206095")
+    d3.select(".circleCounterText2").attr("fill","#fff")
+    d3.select(".circleCounterLine1").attr("stroke","#206095")
+      d3.select("#sourceP").html("Source: ONS Population of the UK by country of birth and nationality: 2020")
+      d3.select("#footnote1P").html("")
+      d3.select("#footnote2P").html("")
+    forwardTo2();
+  } else if (NextNumber == 2) {
+    d3.selectAll(".steptext").transition().duration(1000).style("opacity",0);
+    d3.select(".circleCounter3").attr("fill","#206095")
+    d3.select(".circleCounterText3").attr("fill","#fff")
+    d3.select(".circleCounterLine2").attr("stroke","#206095")
+      d3.select("#sourceP").html("Source: ONS Population of the UK by country of birth and nationality: 2020")
+      d3.select("#footnote1P").html("")
+      d3.select("#footnote2P").html("")
+    forwardTo3();
+  } else if (NextNumber == 3) {
+    d3.selectAll(".steptext").transition().duration(1000).style("opacity",0);
+    d3.select(".circleCounter4").attr("fill","#206095")
+    d3.select(".circleCounterText4").attr("fill","#fff")
+    d3.select(".circleCounterLine3").attr("stroke","#206095")
+      d3.select("#sourceP").html("Source: ONS Births by parents’ country of birth, England and Wales: 2019")
+      d3.select("#footnote1P").html("")
+      d3.select("#footnote2P").html("")
+    forwardTo4();
+  } else if (NextNumber == 4) {
+    d3.selectAll(".steptext").transition().duration(1000).style("opacity",0);
+    d3.select(".circleCounter5").attr("fill","#206095")
+    d3.select(".circleCounterText5").attr("fill","#fff")
+    d3.select(".circleCounterLine4").attr("stroke","#206095")
+      d3.select("#sourceP").html("Source: Higher Education Statistics Agency (HESA) 2019/2020 academic year (September 2019 – July 2020)")
+      d3.select("#footnote1P").html("<a href='https://www.gov.uk/government/statistics/migrant-journey-2020-report/migrant-journey-2020-report#overall-trends'>* Home Office research</a> found that 84% of non-EU students who started their university course in 2015 no longer held a valid UK visa in 2020. Note, this doesn’t include students from the EU.")
+      d3.select("#footnote2P").html("")
+    forwardTo5();
+  } else if (NextNumber == 5) {
+    d3.selectAll(".steptext").transition().duration(1000).style("opacity",0);
+    d3.select(".circleCounter6").attr("fill","#206095")
+    d3.select(".circleCounterText6").attr("fill","#fff")
+    d3.select(".circleCounterLine5").attr("stroke","#206095")
+      d3.select("#sourceP").html("Source: latest ONS Labour Market Statistics; April – June 2021 ")
+      d3.select("#footnote1P").html("")
+      d3.select("#footnote2P").html("")
+    forwardTo6();
+  } else if (NextNumber == 6) {
+    d3.selectAll(".steptext").transition().duration(1000).style("opacity",0);
+    d3.select(".circleCounter7").attr("fill","#206095")
+    d3.select(".circleCounterText7").attr("fill","#fff")
+    d3.select(".circleCounterLine6").attr("stroke","#206095")
+    d3.select("#sourceP").html("Source: <a href='https://www.unhcr.org/uk/asylum-in-the-uk.html'>United Nations High Commissioner for Refugees (UNHCR) Asylum in the UK 2020</a> and <a href='https://www.gov.uk/government/publications/immigration-and-protection-data-q2-2021'>Home Office Immigration and protection data: Q2 2021</a>")
+    d3.select("#footnote1P").html("*Asylum seekers are people seeking protection in the UK. The figure relates to the number of open asylum cases - one case may include multiple people. Not everyone who claims asylum will be granted. Of those claiming from 2017 to 2019, around 60% have been granted refugee status or other forms of leave. (From:<a href='https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets#asylum-applications-decisions-and-resettlement'>Home Office outcome analysis of asylum applications dataset (Asy_D04)</a>")
+    d3.select("#footnote2P").html("**From: <a href='https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets#asylum-applications-decisions-and-resettlement'>Home Office asylum applications, initial decisions and resettlement dataset (Asy_D02)</a>")
+    forwardTo7();
+  } else if (NextNumber == 7) {
+    //d3.select("#nextbutton").style("display","none")
+    d3.selectAll(".steptext").transition().duration(1000).style("opacity",0);
+    d3.select(".circleCounter8").attr("fill","#206095")
+    d3.select(".circleCounterText8").attr("fill","#fff")
+    d3.select(".circleCounterLine7").attr("stroke","#206095")
+      d3.select("#sourceP").html("Source: ONS Overseas travel and tourism: 2020 and ONS Travel trends: 2019")
+      d3.select("#footnote1P").html("")
+      d3.select("#footnote2P").html("")
+    forwardTo8();
+  } else if (NextNumber == 8) {
+
+    //donothing
+  }
+})
+
+//for back
+d3.select("#backbutton").on("click",function(){
+  d3.select("#nextbutton").style("pointer-events","none")
+  d3.select("#backbutton").style("pointer-events","none")
+
+    setTimeout(function(){
+      d3.select("#nextbutton").style("pointer-events","auto")
+      d3.select("#backbutton").style("pointer-events","auto")
+    }, 2000);
+
+  if(NextNumber == 0){
+    //donothing
+  } else if (NextNumber == 1){
+    //d3.select("#backbutton").style("display","none")
+    d3.selectAll(".steptext").transition().duration(1000).style("opacity",0);
+    d3.select(".circleCounter0").attr("fill","#206095")
+    d3.select(".circleCounter1").attr("fill","#dadada")
+    d3.select(".circleCounterText1").attr("fill","#dadada")
+    d3.select(".circleCounterText0").attr("fill","#fff")
+    d3.select(".circleCounterLine0").attr("stroke","#dadada")
+      d3.select("#sourceP").html("Source: ONS population estimates for 2020")
+      d3.select("#footnote1P").html("")
+      d3.select("#footnote2P").html("")
+    backTo1();
+  } else if (NextNumber == 2){
+    d3.selectAll(".steptext").transition().duration(1000).style("opacity",0);
+    d3.select(".circleCounter1").attr("fill","#206095")
+    d3.select(".circleCounter2").attr("fill","#dadada")
+    d3.select(".circleCounterText2").attr("fill","#dadada")
+    d3.select(".circleCounterText1").attr("fill","#fff")
+    d3.select(".circleCounterLine1").attr("stroke","#dadada")
+      d3.select("#sourceP").html("Source: ONS Population of the UK by country of birth and nationality: 2020")
+      d3.select("#footnote1P").html("")
+      d3.select("#footnote2P").html("")
+    backTo2();
+  } else if (NextNumber == 3){
+    d3.selectAll(".steptext").transition().duration(1000).style("opacity",0);
+    d3.select(".circleCounter2").attr("fill","#206095")
+    d3.select(".circleCounter3").attr("fill","#dadada")
+    d3.select(".circleCounterText3").attr("fill","#dadada")
+    d3.select(".circleCounterText2").attr("fill","#fff")
+    d3.select(".circleCounterLine2").attr("stroke","#dadada")
+      d3.select("#sourceP").html("Source: ONS Population of the UK by country of birth and nationality: 2020")
+      d3.select("#footnote1P").html("")
+      d3.select("#footnote2P").html("")
+    backTo3();
+  } else if (NextNumber == 4){
+    d3.selectAll(".steptext").transition().duration(1000).style("opacity",0);
+    d3.select(".circleCounter3").attr("fill","#206095")
+    d3.select(".circleCounter4").attr("fill","#dadada")
+    d3.select(".circleCounterText4").attr("fill","#dadada")
+    d3.select(".circleCounterText3").attr("fill","#fff")
+    d3.select(".circleCounterLine3").attr("stroke","#dadada")
+      d3.select("#sourceP").html("Source: ONS Population of the UK by country of birth and nationality: 2020")
+      d3.select("#footnote1P").html("")
+      d3.select("#footnote2P").html("")
+    backTo4();
+  } else if (NextNumber == 5){
+    d3.selectAll(".steptext").transition().duration(1000).style("opacity",0);
+    d3.select(".circleCounter4").attr("fill","#206095")
+    d3.select(".circleCounter5").attr("fill","#dadada")
+    d3.select(".circleCounterText5").attr("fill","#dadada")
+    d3.select(".circleCounterText4").attr("fill","#fff")
+    d3.select(".circleCounterLine4").attr("stroke","#dadada")
+      d3.select("#sourceP").html("Source: ONS Births by parents’ country of birth, England and Wales: 2019")
+      d3.select("#footnote1P").html("")
+      d3.select("#footnote2P").html("")
+    backTo5();
+  } else if (NextNumber == 6){
+    d3.selectAll(".steptext").transition().duration(1000).style("opacity",0);
+    d3.select(".circleCounter5").attr("fill","#206095")
+    d3.select(".circleCounter6").attr("fill","#dadada")
+    d3.select(".circleCounterText6").attr("fill","#dadada")
+    d3.select(".circleCounterText5").attr("fill","#fff")
+    d3.select(".circleCounterLine5").attr("stroke","#dadada")
+      d3.select("#sourceP").html("Source: Higher Education Statistics Agency (HESA) 2019/2020 academic year (September 2019 – July 2020)")
+      d3.select("#footnote1P").html("<a href='https://www.gov.uk/government/statistics/migrant-journey-2020-report/migrant-journey-2020-report#overall-trends'>* Home Office research</a> found that 84% of non-EU students who started their university course in 2015 no longer held a valid UK visa in 2020. Note, this doesn’t include students from the EU.")
+      d3.select("#footnote2P").html("")
+    backTo6();
+  } else if (NextNumber == 7){
+    d3.selectAll(".steptext").transition().duration(1000).style("opacity",0);
+    d3.select(".circleCounter6").attr("fill","#206095")
+    d3.select(".circleCounter7").attr("fill","#dadada")
+    d3.select(".circleCounterText7").attr("fill","#dadada")
+    d3.select(".circleCounterText6").attr("fill","#fff")
+    d3.select(".circleCounterLine6").attr("stroke","#dadada")
+      d3.select("#sourceP").html("Source: latest ONS Labour Market Statistics; April – June 2021 ")
+      d3.select("#footnote1P").html("")
+      d3.select("#footnote2P").html("")
+    backTo7();
+  } else if (NextNumber == 8){
+    //d3.select("#nextbutton").style("display","block")
+    d3.selectAll(".steptext").transition().duration(1000).style("opacity",0);
+    d3.select(".circleCounter7").attr("fill","#206095")
+    d3.select(".circleCounter8").attr("fill","#dadada")
+    d3.select(".circleCounterText8").attr("fill","#dadada")
+    d3.select(".circleCounterText7").attr("fill","#fff")
+    d3.select(".circleCounterLine7").attr("stroke","#dadada")
+    d3.select("#sourceP").html("Source: <a href='https://www.unhcr.org/uk/asylum-in-the-uk.html'>United Nations High Commissioner for Refugees (UNHCR) Asylum in the UK 2020</a> and <a href='https://www.gov.uk/government/publications/immigration-and-protection-data-q2-2021'>Home Office Immigration and protection data: Q2 2021</a>")
+    d3.select("#footnote1P").html("*Asylum seekers are people seeking protection in the UK. The figure relates to the number of open asylum cases - one case may include multiple people. Not everyone who claims asylum will be granted. Of those claiming from 2017 to 2019, around 60% have been granted refugee status or other forms of leave. (From:<a href='https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets#asylum-applications-decisions-and-resettlement'>Home Office outcome analysis of asylum applications dataset (Asy_D04)</a>")
+    d3.select("#footnote2P").html("**From: <a href='https://www.gov.uk/government/statistical-data-sets/asylum-and-resettlement-datasets#asylum-applications-decisions-and-resettlement'>Home Office asylum applications, initial decisions and resettlement dataset (Asy_D02)</a>")
+
+    backTo8();
+  }
+})
+
+
+
+//actually do the stuff
+function forwardTo1(){
+  NextNumber = NextNumber+1;
+  d3.selectAll(".AllMigrantsdottty").raise().transition().duration(function(d,i){return 2000+ Math.random()*1000}).style("opacity",1)
+  setTimeout(function(){
+    d3.selectAll(".steptext").style("display","none")
+    d3.select(".steptext"+ NextNumber).style("display","block");
+    d3.select(".steptext"+ NextNumber).transition().duration(1000).style("opacity",1);
+  }, 1001);
+}
+function backTo1(){
+  NextNumber = NextNumber-1;
+  d3.selectAll(".AllMigrantsdottty").raise().transition().duration(function(d,i){return 2000 + Math.random()*1000}).style("opacity",0)
+  setTimeout(function(){
+    d3.selectAll(".steptext").style("display","none")
+    d3.select(".steptext"+ NextNumber).style("display","block");
+    d3.select(".steptext"+ NextNumber).transition().duration(1000).style("opacity",1);
+  }, 1001);
+}
+
+function forwardTo2(){
+  NextNumber = NextNumber+1;
+  d3.selectAll(".AllMigrantsdotttyCOB").raise().transition().duration(function(d,i){return 2000+ Math.random()*1000}).style("opacity",1)
+  setTimeout(function(){
+    d3.selectAll(".steptext").style("display","none")
+    d3.select(".steptext"+ NextNumber).style("display","block");
+    d3.select(".steptext"+ NextNumber).transition().duration(1000).style("opacity",1);
+  }, 1001);
+}
+function backTo2(){
+  NextNumber = NextNumber-1;
+  d3.selectAll(".AllMigrantsdotttyCOB").transition().duration(1500).style("opacity",0)
+  setTimeout(function(){
+    d3.selectAll(".steptext").style("display","none")
+    d3.select(".steptext"+ NextNumber).style("display","block");
+    d3.select(".steptext"+ NextNumber).transition().duration(1000).style("opacity",1);
+  }, 1001);
+}
+
+function forwardTo3(){
+  NextNumber = NextNumber+1;
+  d3.selectAll(".AllMigs").transition().duration(1000).attr("fill","#27A0CC")
+  setTimeout(function(){
+    for(i=0; i<=599; i++){
+      d3.select(".AllMigrantsdottty"+i).transition().duration(1000).attr("fill","#206095")
+    }
+  }, 1000);
+  setTimeout(function(){
+    d3.selectAll(".steptext").style("display","none")
+    d3.select(".steptext"+ NextNumber).style("display","block");
+    d3.select(".steptext"+ NextNumber).transition().duration(1000).style("opacity",1);
+  }, 1001);
+}
+function backTo3(){
+  NextNumber = NextNumber-1;
+  d3.selectAll(".AllMigs").transition().duration(1000).attr("fill","#206095")
+  setTimeout(function(){
+    d3.selectAll(".steptext").style("display","none")
+    d3.select(".steptext"+ NextNumber).style("display","block");
+    d3.select(".steptext"+ NextNumber).transition().duration(1000).style("opacity",1);
+  }, 1001);
+}
+
+function forwardTo4(){
+  NextNumber = NextNumber+1;
+  d3.selectAll(".AllMigrantsdottty").transition().duration(1000).attr("fill","#e8e8e8")
+  d3.selectAll(".AllMigrantsdotttyCOB").transition().duration(1000).attr("fill","#e8e8e8")
+  setTimeout(function(){
+    d3.selectAll(".steptext").style("display","none")
+    d3.select(".steptext"+ NextNumber).style("display","block");
+    d3.select(".steptext"+ NextNumber).transition().duration(1000).style("opacity",1);
+    for(i=0; i<=13; i++){
+      d3.select(".AllMigrantsdottty"+i).transition().duration(1000).attr("fill","#206095")
+    }
+  }, 1001);
+}
+function backTo4(){
+  NextNumber = NextNumber-1;
+  d3.selectAll(".AllMigrantsdottty").transition().duration(1000).attr("fill","#e8e8e8")
+  d3.selectAll(".AllMigrantsdotttyCOB").transition().duration(1000).attr("fill","#e8e8e8")
+  setTimeout(function(){
+    d3.selectAll(".AllMigrantsdottty").transition().duration(1000).attr("fill","#206095")
+    d3.selectAll(".AllMigrantsdotttyCOB").transition().duration(1000).attr("fill","#206095")
+    for(i=0; i<=599; i++){
+      d3.select(".AllMigrantsdottty"+i).transition().duration(1000).attr("fill","#27A0CC")
+    }
+    d3.selectAll(".steptext").style("display","none")
+    d3.select(".steptext"+ NextNumber).style("display","block");
+    d3.select(".steptext"+ NextNumber).transition().duration(1000).style("opacity",1);
+  }, 1001);
+}
+
+function forwardTo5(){
+  NextNumber = NextNumber+1;
+  d3.selectAll(".AllMigrantsdottty").transition().duration(1000).attr("fill","#e8e8e8")
+  d3.selectAll(".AllMigrantsdotttyCOB").transition().duration(1000).attr("fill","#e8e8e8")
+  setTimeout(function(){
+    d3.selectAll(".steptext").style("display","none")
+    d3.select(".steptext"+ NextNumber).style("display","block");
+    d3.select(".steptext"+ NextNumber).transition().duration(1000).style("opacity",1);
+  }, 1001);
+  setTimeout(function(){
+    for(i=0; i<=56; i++){
+      d3.select(".AllMigrantsdottty"+i).transition().duration(1000).attr("fill","#206095")
+    }
+  }, 1001);
+}
+function backTo5(){
+  NextNumber = NextNumber-1;
+  d3.selectAll(".AllMigrantsdottty").transition().duration(1000).attr("fill","#e8e8e8")
+  d3.selectAll(".AllMigrantsdotttyCOB").transition().duration(1000).attr("fill","#e8e8e8")
+  setTimeout(function(){
+    for(i=0; i<=13; i++){
+      d3.selectAll(".steptext").style("display","none")
+      d3.select(".steptext"+ NextNumber).style("display","block");
+      d3.select(".steptext"+ NextNumber).transition().duration(1000).style("opacity",1);
+      d3.select(".AllMigrantsdottty"+i).transition().duration(1000).attr("fill","#206095")
+    }
+  }, 1001);
+}
+
+function forwardTo6(){
+  NextNumber = NextNumber+1;
+  d3.selectAll(".AllMigrantsdottty").transition().duration(1000).attr("fill","#e8e8e8")
+  d3.selectAll(".AllMigrantsdotttyCOB").transition().duration(1000).attr("fill","#e8e8e8")
+  setTimeout(function(){
+    d3.selectAll(".steptext").style("display","none")
+    d3.selectAll(".AllMigs").style("display","none")
+    d3.select(".steptext"+ NextNumber).style("display","block");
+    d3.select(".steptext"+ NextNumber).transition().duration(1000).style("opacity",1);
+    for(i=0; i<=3199; i++){
+      d3.select(".dotty"+i).transition().duration(1000).attr("fill","#27A0CC")
+    }
+    for(i=0; i<=399; i++){
+      d3.select(".AllMigrantsdottty"+i).style("display","block").transition().duration(1000).attr("fill","#206095")
+    }
+  }, 1001);
+}
+function backTo6(){
+  NextNumber = NextNumber-1;
+  d3.selectAll(".AllMigrantsdottty").transition().duration(1000).attr("fill","#e8e8e8")
+  d3.selectAll(".AllMigrantsdotttyCOB").transition().duration(1000).attr("fill","#e8e8e8")
+  d3.selectAll(".dottty").transition().duration(1000).attr("fill","#e8e8e8")
+  setTimeout(function(){
+    d3.selectAll(".AllMigs").style("display","block")
+    d3.selectAll(".steptext").style("display","none")
+    d3.select(".steptext"+ NextNumber).style("display","block");
+    d3.select(".steptext"+ NextNumber).transition().duration(1000).style("opacity",1);
+    for(i=0; i<=56; i++){
+      d3.select(".AllMigrantsdottty"+i).transition().duration(1000).attr("fill","#206095")
+    }
+  }, 1001);
+}
+
+function forwardTo7(){
+  NextNumber = NextNumber+1;
+  d3.selectAll(".dottty").transition().duration(1000).attr("fill","#e8e8e8")
+  d3.selectAll(".AllMigrantsdottty").transition().duration(1000).attr("fill","#e8e8e8")
+  d3.selectAll(".AllMigrantsdotttyCOB").transition().duration(1000).attr("fill","#e8e8e8")
+  setTimeout(function(){
+    d3.selectAll(".AllMigrantsdottty").style("display","block")
+    d3.selectAll(".AllMigrantsdotttyCOB").style("display","block")
+    d3.selectAll(".steptext").style("display","none")
+    d3.select(".steptext"+ NextNumber).style("display","block");
+    d3.select(".steptext"+ NextNumber).transition().duration(1000).style("opacity",1);
+    for(i=0; i<=13; i++){
+      d3.select(".AllMigrantsdottty"+i).transition().duration(1000).attr("fill","#27A0CC")
+    }
+    for(i=14; i<=22; i++){
+    d3.select(".AllMigrantsdottty"+i).transition().duration(1000).attr("fill","#206095")
+    }
+  }, 1001);
+}
+function backTo7(){
+  NextNumber = NextNumber-1;
+  d3.selectAll(".dottty").transition().duration(1000).attr("fill","#e8e8e8")
+  d3.selectAll(".AllMigrantsdottty").transition().duration(1000).attr("fill","#e8e8e8")
+  d3.selectAll(".AllMigrantsdotttyCOB").transition().duration(1000).attr("fill","#e8e8e8")
+  setTimeout(function(){
+    d3.selectAll(".AllMigs").style("display","none")
+    d3.selectAll(".steptext").style("display","none")
+    d3.select(".steptext"+ NextNumber).style("display","block");
+    d3.select(".steptext"+ NextNumber).transition().duration(1000).style("opacity",1);
+    for(i=0; i<=3199; i++){
+      d3.select(".dotty"+i).transition().duration(1000).attr("fill","#27A0CC")
+    }
+    for(i=0; i<=399; i++){
+      d3.select(".AllMigrantsdottty"+i).style("display","block").transition().duration(1000).attr("fill","#206095")
+    }
+  }, 1001);
+}
+
+function forwardTo8(){
+  NextNumber = NextNumber+1;
+  d3.selectAll(".keyannotation").style("display","none");
+  d3.selectAll(".AllMigrantsdottty").attr("fill","#fff")
+  d3.selectAll(".AllMigrantsdotttyCOB").attr("fill","#fff")
+  d3.selectAll(".dottty").attr("fill","#fff")
+
+  d3.select("#dotssvg")
+      .append("png:image")
+      .attr("class","london2012")
+      .attr("xlink:href","../peoplepictures/london2012.png")
+      .attr("x",0)
+      .attr("y",0)
+      .attr("width",screenwidth - 10)
+      .style("opacity",0)
+
+  setTimeout(function(){
+    d3.selectAll(".steptext").style("display","none")
+    d3.select(".steptext"+ NextNumber).style("display","block");
+    d3.select(".steptext"+ NextNumber).transition().duration(1500).style("opacity",1);
+
+    //d3.selectAll(".Tourists").raise().transition().duration(function(d,i){return Math.random()*1000}).style("opacity",1)
+    d3.select(".london2012").transition().duration(1500).style("opacity",1);
+
+    picheight = parseInt(d3.select(".london2012").style("height"));
+
+    d3.select("#dotssvg").append("text")
+      .attr("class","imageattribution")
+      .attr("x",0)
+      .attr("y",picheight +10)
+      .attr("fill","#adadad")
+      .attr("font-size",10)
+      .text("'London 2012 Olympic Opening Ceremony' by shimelle is licensed with CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/")
+      .call(wrap,screenwidth - 50)
+  }, 1001);
+}
+
+function backTo8(){
+  NextNumber = NextNumber-1;
+  d3.select(".imageattribution").style("display","none")
+  d3.selectAll(".Tourists").transition().duration(function(d,i){return Math.random()*1000}).style("opacity",0)
+  d3.select(".london2012").transition().duration(1000).style("opacity",0);
+  setTimeout(function(){
+    d3.select(".london2012").remove();
+    d3.selectAll(".keyannotation").style("display","block");
+    d3.selectAll(".AllMigrantsdottty").transition().duration(1000).attr("fill","#e8e8e8")
+    d3.selectAll(".AllMigrantsdotttyCOB").transition().duration(1000).attr("fill","#e8e8e8")
+    d3.selectAll(".dottty").transition().duration(1000).attr("fill","#e8e8e8")
+    d3.select(".dotty" + dotPicker).transition().duration(1000).attr("fill","#424242")
+
+    d3.selectAll(".steptext").style("display","none")
+    d3.select(".steptext"+ NextNumber).style("display","block");
+    d3.select(".steptext"+ NextNumber).transition().duration(1000).style("opacity",1);
+    for(i=0; i<=13; i++){
+      d3.select(".AllMigrantsdottty"+i).transition().duration(1000).attr("fill","#27A0CC")
+    }
+    for(i=14; i<=22; i++){
+    d3.select(".AllMigrantsdottty"+i).transition().duration(1000).attr("fill","#206095")
+  }
+  }, 1001);
+}
+
+//label a dot with the unit of measurement
+
+  console.log(yposition)
+  dividedby6 = yposition/6
+  percentofpage = parseInt(dividedby6*0.55)
+  legendHeight = percentofpage*6;
+  console.log(legendHeight)
+
+          var dotToLabelx = d3.select(".X36Y" + legendHeight).attr("x")
+          var dotToLabely = d3.select(".X36Y" + legendHeight).attr("y")
+          d3.select(".X36Y" + legendHeight).attr("fill","#424242")
+          d3.select("#dotssvg").append("line")
+            .attr("class","keyannotation")
+            .attr("x1",parseInt(dotToLabelx) + 2)
+            .attr("x2",parseInt(dotToLabelx) + 30)
+            .attr("y1",parseInt(dotToLabely) + 2)
+            .attr("y2",parseInt(dotToLabely) + 30)
+            .attr("stroke","#424242")
+            .attr("stroke-width",1)
+          d3.select("#dotssvg").append("text")
+            .attr("class","keyannotation")
+            .attr("x",parseInt(dotToLabelx) + 30)
+            .attr("y",parseInt(dotToLabely) + 44)
+            .attr("fill","#424242")
+            .attr("font-size",16)
+            .text("One dot = " + dvc.essential.dotsequal)
+
+  }//ends drawgraphic
+
+
+  function wrap(text, width) {
+        text.each(function() {
+          var text = d3.select(this),
+            words = text.text().split(/\s+/).reverse(),
+            word,
+            line = [],
+            lineNumber = 0,
+            lineHeight = 1.1, // ems
+            y = text.attr("y"),
+            x = text.attr("x")
+            dy = 0,
+            tspan = text.text(null).append("tspan").attr("x", x).attr("y", y).attr("dy", dy + "em");
+          while (word = words.pop()) {
+            line.push(word);
+            tspan.text(line.join(" "));
+            if (tspan.node().getComputedTextLength() > width) {
+              line.pop();
+              tspan.text(line.join(" "));
+              line = [word];
+              tspan = text.append("tspan").attr("x", x).attr("y", y).attr("dy", ++lineNumber * lineHeight + dy + "em").text(word);
+            }
+          }
+        });
+      }
+
+
+
+//use pym to create iframe containing fallback image (which is set as default)
+pymChild = new pym.Child();
+if (pymChild) { pymChild.sendHeight(); }
+
+setTimeout(function(){
+  pymChild.sendHeight();
+},1000);
+setInterval(function(){
+  pymChild.sendHeight();
+},1000);
+
+  </script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a40b84664ba5ecfd',t:'MTc5MDM1NDkxNA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

@@ -1,0 +1,16 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+            "colour_palette_original": ["#206095","#206095","#206095","#206095","#206095","#206095","#206095","#206095","#206095","#206095","#206095","#206095"],
+            "colour_palette": ["#206095","#206095","#206095","#206095","#206095","#206095","#206095","#206095","#206095","#206095","#206095","#206095"],
+            "sourceText":["Office for National Statistics"],
+            "xAxisLabel":"",
+            "xAxisScale":[0,100],
+            "heightperstrip":95,
+            "dotradius":4
+    },
+    "optional" : {
+            "mobileBreakpoint" : 610,
+            "x_num_ticks_sm_md" : [5,5]
+    }
+}

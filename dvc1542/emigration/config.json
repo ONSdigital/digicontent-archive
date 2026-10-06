@@ -1,0 +1,67 @@
+{
+  "essential": {
+    "graphic_data_url": "regions.csv",
+    "dateFormat": "%b-%y",
+    "colour_palette": [{
+        "key": "Immigration",
+        "colour": "#222"
+      },
+      {
+        "key": "Emigration",
+        "colour": "#444"
+      }
+    ],
+    "categorySort": [
+
+    ],
+    "sourceText": ["ONS, IPS and modelled estimates for UK"],
+    "xAxisLabel": "",
+    "yAxisLabel": "Regions and Countries",
+    "yAxisScale": "auto_zero_max_total"
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 40,
+        "right": 23,
+        "bottom": 45,
+        "left": 60
+      },
+      "md": {
+        "top": 40,
+        "right": 23,
+        "bottom": 50,
+        "left": 60
+      },
+      "lg": {
+        "top": 40,
+        "right": 23,
+        "bottom": 45,
+        "left": 60
+      }
+    },
+    "chart_every":{
+      "sm": 1,
+      "md": 2,
+      "lg": 2
+    },
+    "aspectRatio": {
+      "sm": [16, 12],
+      "md": [16, 12],
+      "lg": [16, 12]
+    },
+    "legendHeight":{
+      "sm": 60,
+      "md": 60,
+      "lg": 60
+    },
+
+    "mobileBreakpoint": 480,
+    "middleBreakpoint": 670,
+    "x_ticks_every": {
+      "sm": 1,
+      "md": 1,
+      "lg": 1
+    }
+  }
+}
