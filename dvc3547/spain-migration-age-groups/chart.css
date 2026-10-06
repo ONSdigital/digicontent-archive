@@ -1,0 +1,42 @@
+.axis path,
+.axis line {
+  stroke: none;
+}
+
+/* Ensure chart containers behave as block-level grid items.
+   (The global style sets display: inline-block; this overrides it
+   so containers sit cleanly in the CSS Grid layout.) */
+.chart-container {
+  display: block;
+}
+
+#legend {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.group-heading {
+  padding: 8px 0 2px;
+  font-size: 16px;
+  font-weight: 700;
+  color: #414042;
+}
+
+/* Featured chart title styled to match the group heading */
+.title.featured-title {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.diamondStyle {
+  stroke-width: 2px;
+  stroke-linejoin: round;
+  fill: white;
+}
+
+.dataLine {
+  stroke-width: 3px;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  fill: none;
+}
