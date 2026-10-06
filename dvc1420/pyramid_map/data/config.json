@@ -1,0 +1,38 @@
+{
+  "ons": {
+    "map": {
+      "maptitle": "Map and population pyramid showing local area populations for 1961 and 2011",
+      "varcolour": "RdPu",
+      "varunit": "1961 Population",
+      "mapVarName": "mapvar",
+      "displaydecimals": 0,
+      "legenddecimals": 0,
+      "breaks": [0, 21000, 70000, 250000, 500000, 570000],
+      "dropticks": true,
+      "numberBreaks": 5
+    },
+    "bar" : {
+      "graphic_data_url": "data.csv",
+      "colour_palette": {
+        "1": "#a40071",
+        "0": "#a40071"
+      },
+      "legendLabels": {
+        "Male": "0",
+        "Female": "1"
+      },
+      "sourceText":["Office for National Statistics"],
+      "xAxisLabel":"Number of people",
+      "heightperstrip":35,
+      "dotradius":3,
+      "barMargin": {"top": 5, "right": 20, "bottom": 40, "left": 65},
+      "defaultBarVar": "total",
+      "stackVar": "Method",
+      "lineVar": "mapvar",
+      "lineColour": "#005D60",
+      "lineLegendLabel": "2011 Population",
+      "mobileBreakpoint" : 600,
+      "x_num_ticks_sm_md" : [2,2]
+    }
+  }
+}
