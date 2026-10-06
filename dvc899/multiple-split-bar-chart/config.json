@@ -1,0 +1,23 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "colour_palette": ["#0075A3", "#266D4A", "#234D70", "#601552"],
+    "sourceText": ["Understanding Society COVID19 Study, April 2020 and Understanding Society, 2017-18"],
+    "numberFormat":".0%",
+    "xAxisScale": [0,1],
+    "barHeight": {
+      "sm": 30,
+      "md": 30,
+      "lg": 25
+    },
+    "margin":{
+      "sm":{"top":20,"right":0,"bottom":15,"left":100},
+      "md":{"top":20,"right":0,"bottom":15,"left":100},
+      "lg":{"top":20,"right":0,"bottom":15,"left":135}
+    }
+  },
+  "optional": {
+    "mobileBreakpoint": 414,
+    "middleBreakpoint": 600
+  }
+}
