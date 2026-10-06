@@ -1,0 +1,9 @@
+name,parent,value,colour,colour1,colour2
+Origin,,'#fff','#fff',,
+Black,Origin,0.21,#222,#222,#fff
+Grey,Origin,0.20,Grey,Grey,#fff
+White,Origin,0.18,White,#949494,#222
+Blue,Origin,0.16,#206095,#206095,#fff
+Silver,Origin,0.11,Silver,#949494,#222
+Red,Origin,0.10,#d0021b,#d0021b,#fff
+Other,Origin,0.05,#0f8243,#0f8243,#fff
