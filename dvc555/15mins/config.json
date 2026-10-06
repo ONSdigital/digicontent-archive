@@ -1,0 +1,51 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+
+            "dateFormat":"",
+
+            "legendLabels" : ["Male","Female"],
+
+            "sourceText":["Office for National Statistics, Commuting to work by gender, UK country and region"],
+            "sourceURL":["https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/commutingtoworkbygenderukcountryandregion"],
+
+            "annotationChart": ["Equality"],
+            "annotationBullet": [],
+            "annotationXY":[
+                [50, "South East" ],
+                [25, "South East" ]
+
+            ],
+            "annotationAlign":[
+                "middle", "middle"
+            ],
+
+            "circles" : false,
+            "annotationCXCY":[
+                []
+
+            ],
+            "barHeight_sm_md_lg":[35],
+            "xAxisLabel":"%",
+            "xAxisScale":"auto_zero_max",
+            "xAxisBreak": true,
+            "xAxisBreak_sm_md_lg": [65,65,65]
+
+    },
+    "optional" : {
+            "margin_sm": [40, 15, 35, 120],
+            "margin_md": [60, 15, 80, 120],
+            "margin_lg": [70, 20, 80, 120],
+
+            "aspectRatio_sm" : [16,10],
+            "aspectRatio_md" : [16,7],
+            "aspectRatio_lg" : [16,3],
+
+            "mobileBreakpoint" : 610,
+
+            "x_num_ticks_sm_md_lg" : [3,3,4],
+            "vertical_line" : true,
+            "annotateLineX1_Y1_X2_Y2":[ [[50,"South East"],[50, "London"]]]
+
+    }
+}
