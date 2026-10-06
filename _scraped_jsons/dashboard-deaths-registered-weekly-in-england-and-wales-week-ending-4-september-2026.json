@@ -1,0 +1,162 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/deathsregisteredweeklyinenglandandwales/2025-03-26",
+  "title": "Dashboard: Deaths registered weekly in England and Wales: week ending 4 September 2026",
+  "meta_description": "Visual summary of the provisional weekly death registration figures in England and Wales, including breakdowns by cause and country, and long-term trends",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Births, deaths and marriages",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages"
+    },
+    {
+      "text": "Deaths",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths"
+    },
+    {
+      "text": "Dashboard: Deaths registered weekly in England and Wales",
+      "href": null
+    }
+  ],
+  "date_published": "2026-09-08T23:00:00.000Z",
+  "date_modified": "2026-09-08T23:00:00.000Z",
+  "lede": "Dashboard showing latest trends in provisional deaths in England and Wales.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "weekly deaths in England and Wales dashboard",
+      "url": "/visualisations/weeklydeathsdashboard/"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Data on deaths",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Data on deaths"
+    },
+    {
+      "type": "p",
+      "h2": "Data on deaths",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": "Data on deaths",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "[Deaths registered weekly in England and Wales, provisional](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/weeklyprovisionalfiguresondeathsregisteredinenglandandwales) \n Dataset \n Provisional counts of the number of deaths registered in England and Wales, by age, sex, region and Index of Multiple Deprivation (IMD), in the latest weeks for which data are available.",
+      "box_items": null
+    },
+    {
+      "type": "p",
+      "h2": "Data on deaths",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Try the new way to filter and download these data:"
+    },
+    {
+      "type": "li",
+      "h2": "Data on deaths",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Deaths registered weekly in England and Wales by age and sex](https://www.ons.gov.uk/datasets/weekly-deaths-age-sex)"
+    },
+    {
+      "type": "li",
+      "h2": "Data on deaths",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Deaths registered weekly in England and Wales by region](https://www.ons.gov.uk/datasets/weekly-deaths-region)"
+    },
+    {
+      "type": "p",
+      "h2": "Data on deaths",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": "Data on deaths",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "The process used to produce our weekly deaths data (Reproducible Analytical Pipeline) is now available on GitHub.\n\n[Weekly deaths Reproducible Analytical Pipeline (RAP) on GitHub](https://github.com/ONSdigital/weekly_deaths_rap)",
+      "box_items": null
+    },
+    {
+      "type": "box",
+      "h2": "Data on deaths",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Related",
+      "box_h3": null,
+      "box_text": "Statistical bulletin | Released on 27 May 2026\n\nRegistered deaths by age, sex, selected underlying causes of death and the leading causes of death. Contains death rates and death registrations by area of usual residence and single year of age.\n\nArticle | Released on 7 June 2019\n\nUse our interactive calculator to find out average life expectancy for someone of your age and sex.\n\nStatistical bulletin | Released on 16 July 2025\n\nProvisional number of deaths registered in England and Wales in the latest weeks.\n\nArticle | Released on 20 February 2024\n\nOverview of a new method for estimating excess deaths across UK countries, and a comparison of estimates from the new and current methods.\n\nStatistical bulletin | Released on 9 October 2025\n\nRegistered deaths by age, sex, selected underlying causes of death and the leading causes of death. Contains death rates and death registrations by area of residence and single year of age.",
+      "box_items": [
+        "[Death registration summary statistics, England and Wales](/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathregistrationsummarystatisticsenglandandwales/2025) Statistical bulletin | Released on 27 May 2026 Registered deaths by age, sex, selected underlying causes of death and the leading causes of death. Contains death rates and death registrations by area of usual residence and single year of age.",
+        "[Life expectancy calculator](/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/articles/lifeexpectancycalculator/2019-06-07) Article | Released on 7 June 2019 Use our interactive calculator to find out average life expectancy for someone of your age and sex.",
+        "[Deaths registered weekly in England and Wales, provisional](/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/weekending4july2025) Statistical bulletin | Released on 16 July 2025 Provisional number of deaths registered in England and Wales in the latest weeks.",
+        "[Estimating excess deaths in the UK, methodology changes](/peoplepopulationandcommunity/healthandsocialcare/causesofdeath/articles/estimatingexcessdeathsintheukmethodologychanges/february2024) Article | Released on 20 February 2024 Overview of a new method for estimating excess deaths across UK countries, and a comparison of estimates from the new and current methods.",
+        "[Deaths registered in England and Wales](/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregistrationsummarytables/2024) Statistical bulletin | Released on 9 October 2025 Registered deaths by age, sex, selected underlying causes of death and the leading causes of death. Contains death rates and death registrations by area of residence and single year of age."
+      ]
+    },
+    {
+      "type": "box",
+      "h2": "Data on deaths",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "You might also be interested in",
+      "box_h3": null,
+      "box_text": "",
+      "box_items": [
+        "[Coherence of weekly deaths statistics in the UK](https://analysisfunction.civilservice.gov.uk/government-statistical-service-and-statistician-group/user-facing-pages/theme-based-support-for-users/health-and-care-statistics/coherence-of-weekly-deaths-statistics-in-the-uk/)"
+      ]
+    },
+    {
+      "type": "box",
+      "h2": "Data on deaths",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "Population Life Events team\n[health.data@ons.gov.uk](mailto:health.data@ons.gov.uk)\n Telephone: +44 1329 444110",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:48:44.621287"
+}

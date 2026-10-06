@@ -1,0 +1,108 @@
+{
+  "url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/howwelldoesmyjobpay/2015-01-15",
+  "title": "How well does my job pay?",
+  "meta_description": null,
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "Employment and labour market",
+      "href": "https://www.ons.gov.uk/employmentandlabourmarket"
+    },
+    {
+      "text": "People in work",
+      "href": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork"
+    },
+    {
+      "text": "Earnings and working hours",
+      "href": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours"
+    },
+    {
+      "text": "How well does my job pay?",
+      "href": null
+    }
+  ],
+  "date_published": "2015-01-15T08:11:52.000Z",
+  "date_modified": "2015-01-15T08:11:52.000Z",
+  "lede": null,
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "15 January 2015"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Have you ever wondered who earns more: a pilot or a doctor?"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This interactive allows you to explore the data within the [2014 Annual Survey of Hours and Earnings](http://www.ons.gov.uk/ons/rel/ashe/annual-survey-of-hours-and-earnings/2014-provisional-results/stb-ashe-statistical-bulletin-2014.html) release. It illustrates the occupations with the highest and lowest earnings, allows you to compare occupations with similar salaries and even tests your knowledge via a couple of quizzes."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": null,
+      "h4": "Median gross full-time annual earnings by occupation, Great Britain, April 2014",
+      "h5": null,
+      "text": "Median gross full-time annual earnings by occupation, Great Britain, April 2014"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Median gross full-time annual earnings by occupation, Great Britain, April 2014",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": "Median gross full-time annual earnings by occupation, Great Britain, April 2014",
+      "h5": null,
+      "title": "Median gross full-time annual earnings by occupation, Great Britain, April 2014",
+      "url": "/visualisations/nesscontent/dvc205/ashe.html#panel=y2&occ=0"
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": "Median gross full-time annual earnings by occupation, Great Britain, April 2014",
+      "h5": null,
+      "box_h2": "You might also be interested in",
+      "box_h3": null,
+      "box_text": "",
+      "box_items": [
+        "[Annual Survey of Hours and Earnings, 2014 Provisional Results](http://www.ons.gov.uk/ons/rel/ashe/annual-survey-of-hours-and-earnings/2014-provisional-results/stb-ashe-statistical-bulletin-2014.html)",
+        "[How do earnings vary across Great Britain?](https://visual.ons.gov.uk/interactive-how-do-earnings-vary-across-the-country/)"
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": "Median gross full-time annual earnings by occupation, Great Britain, April 2014",
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[digitalcontent@ons.gov.uk](mailto:digitalcontent@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:47:59.231733"
+}

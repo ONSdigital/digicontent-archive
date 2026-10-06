@@ -1,0 +1,219 @@
+{
+  "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/nomoneynomedals/2016-08-22",
+  "title": "No money, no medals?",
+  "meta_description": null,
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "Economy",
+      "href": "https://www.ons.gov.uk/economy"
+    },
+    {
+      "text": "Gross Domestic Product (GDP)",
+      "href": "https://www.ons.gov.uk/economy/grossdomesticproductgdp"
+    },
+    {
+      "text": "No money, no medals?",
+      "href": null
+    }
+  ],
+  "date_published": "2016-08-22T04:30:05.000Z",
+  "date_modified": "2016-08-22T04:30:05.000Z",
+  "lede": null,
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "22 August 2016"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In the build up to the Rio 2016 Olympics there was a lot of discussion about what medals the GB team would come home with. In the end Team GB broke its own target and finished second on the medals table, above China."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "It makes sense to think that countries with larger populations will race to victory more often – there’s a bigger pool of talent to draw from. But this isn’t always the case. For example, India had a population almost four times the size of the USA in 2012, yet didn’t win a single gold while the USA came back with 46."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "However, USA success could be because it sent 530 athletes to the games, compared with India’s 83. There are other factors at play in determining medal success at the Olympics."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "One factor which may be linked with medal success is the size of a country’s economy; a richer country would be in a better financial position to support a team of athletes."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Explore for yourself the link between the top 30 medal-winning countries in Rio 2016 and the strength of their economies, by looking at their [GDP](http://www.bbc.co.uk/news/business-22277954)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "The top 30 medal-winning countries in Rio 2016 and the strength of their economies",
+      "url": "/visualisations/github/dvc354/Rio/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Download the GDP data.](/visualisations//visual/2016/09/Data-download-for-2015-GDP.csv)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "You can compare this with the top 30 medal-winning countries in London 2012 and the strength of their economies."
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "Interactive chart",
+      "url": "https://onsvisual.github.io/dvc354/London/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Download the GDP data.](/visualisations//visual/2016/09/data-download-for-2012-gdp.csv)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In which sports did these countries win gold medals? This [BBC article](http://www.bbc.co.uk/sport/olympics/2012/medals/countries) has the answers."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": null,
+      "h4": "Notes",
+      "h5": null,
+      "text": "Notes"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Notes",
+      "h5": null,
+      "text": "Please note that for consistency across all our Olympics/Paralympics content we have included estimates of GDP for [Argentina](http://www.tradingeconomics.com/argentina/gdp), [North Korea](http://www.tradingeconomics.com/north-korea/gdp), [Iran](http://www.tradingeconomics.com/iran/gdp) and [Cuba](http://www.tradingeconomics.com/cuba/gdp)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": null,
+      "h4": "Other Visual.ONS articles:",
+      "h5": null,
+      "text": "Other Visual.ONS articles:"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Other Visual.ONS articles:",
+      "h5": null,
+      "text": "[Household Income and Inequality: Where do you fit in?](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/articles/householdincomeandinequalitywheredoyoufitin/2016-02-23)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Other Visual.ONS articles:",
+      "h5": null,
+      "text": "[Trends in births and deaths over the last century](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/articles/trendsinbirthsanddeathsoverthelastcentury/2015-07-15)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Other Visual.ONS articles:",
+      "h5": null,
+      "text": "[Which is the happiest country?](/visualisations/20170726163612/https://visual.ons.gov.uk/who-is-the-happiest-country-in-europe/)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Other Visual.ONS articles:",
+      "h5": null,
+      "text": "For more information e-mail us at: [digitalcontent@ons.gov.uk](mailto:digitalcontent@ons.gov.uk)"
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": "Other Visual.ONS articles:",
+      "h5": null,
+      "box_h2": "You might also be interested in",
+      "box_h3": null,
+      "box_text": "",
+      "box_items": [
+        "[Medals by country and sport](http://www.bbc.co.uk/sport/olympics/2012/medals/countries)",
+        "[GDP from the Office for National Statistics](https://www.ons.gov.uk/economy/grossdomesticproductgdp)",
+        "[GDP by country](http://data.worldbank.org/indicator/NY.GDP.MKTP.CD?year_high_desc=true)"
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": "Other Visual.ONS articles:",
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[digitalcontent@ons.gov.uk](mailto:digitalcontent@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:48:18.346702"
+}

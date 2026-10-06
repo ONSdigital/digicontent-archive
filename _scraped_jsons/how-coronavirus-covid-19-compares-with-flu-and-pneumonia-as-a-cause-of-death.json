@@ -1,0 +1,814 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/howcoronaviruscovid19compareswithfluasacauseofdeath/2022-05-23",
+  "title": "How coronavirus (COVID-19) compares with flu and pneumonia as a cause of death",
+  "meta_description": "The number of deaths with coronavirus (COVID-19) as the underlying cause has fallen from previous peaks, but it remains higher than the number caused by flu and pneumonia. Is it time to view COVID-19 as we do the flu? ",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Health and social care",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare"
+    },
+    {
+      "text": "Coronavirus (COVID-19)",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases"
+    },
+    {
+      "text": "How coronavirus (COVID-19) compares with flu and pneumonia as a cause of death",
+      "href": null
+    }
+  ],
+  "date_published": "2022-05-22T23:00:00.000Z",
+  "date_modified": "2022-05-22T23:00:00.000Z",
+  "lede": "The number of deaths with coronavirus (COVID-19) as the underlying cause has fallen from previous peaks, but it remains higher than the number caused by flu and pneumonia.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "23 May 2022"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "Notice, 30 May 2022: The number of deaths due to flu and pneumonia has been corrected for the winter periods 2020/21 and 2021/22 in the wording of the section titled 'With coronavirus restrictions now lifted, is flu coming back?' and in the final chart.",
+      "box_items": null
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Coronavirus (COVID-19) has been the underlying cause of death in more than four times as many deaths as flu and pneumonia in England and Wales since March 2020. Annually, deaths due to COVID-19 have been higher than those due to flu and pneumonia in any year since 1929."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Although mortality from COVID-19 has reduced since the start of the coronavirus pandemic, it is not yet clear whether the disease is behaving similarly to flu and pneumonia. While the data presented in this article cannot give a definitive answer as to how individuals should view the disease, it can put COVID-19 mortality in context."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "There were 148,606 deaths where COVID-19 was identified as the underlying cause of death in England and Wales between the weeks ending 13 March 2020 and 1 April 2022, compared with 35,007 deaths due to flu and pneumonia."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In contrast, there were 170,600 deaths, where COVID-19 was mentioned anywhere on the death certificate as cause or contributory factor, compared to 219,207 deaths involving flu and pneumonia."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "Classifying causes of death \n The ONS uses data from death certificates to count deaths from COVID-19 and all other causes. This is distinct from public health measures, which include deaths within 28 days of a positive COVID-19 test.\n\nWe use the term \"due to COVID-19\" when referring only to deaths with an underlying cause of death of COVID-19. When taking into account all of the deaths that had COVID-19 mentioned anywhere on the death certificate, whether as an underlying cause or not, we use the term \"involving COVID-19\".” This is also the same for flu and pneumonia.\n\nFurther information on [the differences between deaths involving and due to a condition](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/methodologies/coronavirusandmortalityinenglandandwalesmethodology) are available.",
+      "box_items": null
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Directly comparing COVID-19 deaths with those from flu and pneumonia has limitations. For example, death certificates likely underestimate flu deaths because not all patients are tested for it, and circulating flu causes increases in deaths due to other conditions such as cardiovascular diseases. However, these figures do allow us to compare the trends and approximate mortality associated with each."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": null,
+      "h4": "While COVID-19 is mentioned on fewer death certificates than flu and pneumonia, it is far more likely to be listed as the underlying cause of death",
+      "h5": null,
+      "text": "While COVID-19 is mentioned on fewer death certificates than flu and pneumonia, it is far more likely to be listed as the underlying cause of death"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": null,
+      "h4": "While COVID-19 is mentioned on fewer death certificates than flu and pneumonia, it is far more likely to be listed as the underlying cause of death",
+      "h5": "Number of deaths registered involving and due to COVID-19, and flu and pneumonia, England and Wales, week ending 13 March 2020 to week ending 1 April 2022",
+      "text": "Number of deaths registered involving and due to COVID-19, and flu and pneumonia, England and Wales, week ending 13 March 2020 to week ending 1 April 2022"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "While COVID-19 is mentioned on fewer death certificates than flu and pneumonia, it is far more likely to be listed as the underlying cause of death",
+      "h5": "Number of deaths registered involving and due to COVID-19, and flu and pneumonia, England and Wales, week ending 13 March 2020 to week ending 1 April 2022",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": "While COVID-19 is mentioned on fewer death certificates than flu and pneumonia, it is far more likely to be listed as the underlying cause of death",
+      "h5": "Number of deaths registered involving and due to COVID-19, and flu and pneumonia, England and Wales, week ending 13 March 2020 to week ending 1 April 2022",
+      "title": "duetoinvolving",
+      "url": "/visualisations/dvc1945/duetoinvolving/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": null,
+      "h4": "While COVID-19 is mentioned on fewer death certificates than flu and pneumonia, it is far more likely to be listed as the underlying cause of death",
+      "h5": "Notes relating to all charts can be found in the Measuring the data section",
+      "text": "Notes relating to all charts can be found in the Measuring the data section"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "While COVID-19 is mentioned on fewer death certificates than flu and pneumonia, it is far more likely to be listed as the underlying cause of death",
+      "h5": "Notes relating to all charts can be found in the Measuring the data section",
+      "text": "\n[Download the data for deaths registered involving and due to COVID-19, and flu and pneumonia (XLSX, 32KB)](/visualisations/dvc1945/duetoinvolving/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "While COVID-19 is mentioned on fewer death certificates than flu and pneumonia, it is far more likely to be listed as the underlying cause of death",
+      "h5": "Notes relating to all charts can be found in the Measuring the data section",
+      "text": "Fewer than two-thirds (62%) of deaths involving COVID-19 in the week ending 1 April 2022 were due to it, with similar proportions throughout March. This is down from 90% in spring 2020 and the early part of 2021, possibly because of booster vaccinations and high antibody levels across the population."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "While COVID-19 is mentioned on fewer death certificates than flu and pneumonia, it is far more likely to be listed as the underlying cause of death",
+      "h5": "Notes relating to all charts can be found in the Measuring the data section",
+      "text": "While the proportion of COVID-19 deaths due to the disease reduced in early 2022, it is still higher than those due to flu and pneumonia. In the week ending 1 April 2022, a fifth of deaths involving flu and pneumonia (20%) were due to these conditions, similar to most weeks since March 2021."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "While COVID-19 is mentioned on fewer death certificates than flu and pneumonia, it is far more likely to be listed as the underlying cause of death",
+      "h5": "Notes relating to all charts can be found in the Measuring the data section",
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": "While COVID-19 is mentioned on fewer death certificates than flu and pneumonia, it is far more likely to be listed as the underlying cause of death",
+      "h5": "Notes relating to all charts can be found in the Measuring the data section",
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "Coronavirus (COVID-19) as a leading cause of death \n COVID-19 was the leading cause of death in England and Wales in 2020 and provisionally in 2021, ahead of Dementia and Alzheimer’s disease. Flu and pneumonia were the seventh leading cause in both years.\n\nAround one in eight deaths from all causes had COVID-19 as the underlying cause in 2020 and 2021 (13.5% and 12.9% respectively).\n\nFurther analysis of leading causes of death is planned for the future.",
+      "box_items": null
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Deaths due to COVID-19 are less concentrated in the oldest age groups compared with deaths due to flu and pneumonia",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Deaths due to COVID-19 are less concentrated in the oldest age groups compared with deaths due to flu and pneumonia"
+    },
+    {
+      "type": "p",
+      "h2": "Deaths due to COVID-19 are less concentrated in the oldest age groups compared with deaths due to flu and pneumonia",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Deaths due to COVID-19 have occurred more evenly across age groups than deaths due to flu and pneumonia. However, in both cases, the majority of deaths have been among the oldest."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths due to COVID-19 are less concentrated in the oldest age groups compared with deaths due to flu and pneumonia",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The average (mean) age of death for COVID-19 has been lower than that of flu and pneumonia throughout the coronavirus pandemic. In summer 2021, the mean age of death fell as low as 73, but has been rising again since the majority of the population has been fully vaccinated."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Deaths due to COVID-19 are less concentrated in the oldest age groups compared with deaths due to flu and pneumonia",
+      "h3": null,
+      "h4": "The average age of death is lower for COVID-19 than flu and pneumonia",
+      "h5": null,
+      "text": "The average age of death is lower for COVID-19 than flu and pneumonia"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Deaths due to COVID-19 are less concentrated in the oldest age groups compared with deaths due to flu and pneumonia",
+      "h3": null,
+      "h4": "The average age of death is lower for COVID-19 than flu and pneumonia",
+      "h5": "Mean age of deaths registered due to COVID-19 and flu and pneumonia, England and Wales, March 2020 to March 2022",
+      "text": "Mean age of deaths registered due to COVID-19 and flu and pneumonia, England and Wales, March 2020 to March 2022"
+    },
+    {
+      "type": "p",
+      "h2": "Deaths due to COVID-19 are less concentrated in the oldest age groups compared with deaths due to flu and pneumonia",
+      "h3": null,
+      "h4": "The average age of death is lower for COVID-19 than flu and pneumonia",
+      "h5": "Mean age of deaths registered due to COVID-19 and flu and pneumonia, England and Wales, March 2020 to March 2022",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Deaths due to COVID-19 are less concentrated in the oldest age groups compared with deaths due to flu and pneumonia",
+      "h3": null,
+      "h4": "The average age of death is lower for COVID-19 than flu and pneumonia",
+      "h5": "Mean age of deaths registered due to COVID-19 and flu and pneumonia, England and Wales, March 2020 to March 2022",
+      "title": "mean age of death",
+      "url": "/visualisations/dvc1945/medianage/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "Deaths due to COVID-19 are less concentrated in the oldest age groups compared with deaths due to flu and pneumonia",
+      "h3": null,
+      "h4": "The average age of death is lower for COVID-19 than flu and pneumonia",
+      "h5": "Mean age of deaths registered due to COVID-19 and flu and pneumonia, England and Wales, March 2020 to March 2022",
+      "text": "[Download the data for average age of deaths due to COVID-19 and flu and pneumonia (XLSX, 21KB)](/visualisations/dvc1945/medianage/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "Deaths due to COVID-19 are less concentrated in the oldest age groups compared with deaths due to flu and pneumonia",
+      "h3": null,
+      "h4": "The average age of death is lower for COVID-19 than flu and pneumonia",
+      "h5": "Mean age of deaths registered due to COVID-19 and flu and pneumonia, England and Wales, March 2020 to March 2022",
+      "text": "Between March 2020 and March 2022, almost three-quarters (73.7%) of deaths due to flu and pneumonia in England and Wales occurred among those aged 80 years and over, compared with 58.3% of deaths due to COVID-19."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths due to COVID-19 are less concentrated in the oldest age groups compared with deaths due to flu and pneumonia",
+      "h3": null,
+      "h4": "The average age of death is lower for COVID-19 than flu and pneumonia",
+      "h5": "Mean age of deaths registered due to COVID-19 and flu and pneumonia, England and Wales, March 2020 to March 2022",
+      "text": "Around one in three (33.8%) deaths due to COVID-19 occurred among people aged 60 to 79 years, compared with just over one in five (21.3%) deaths due to flu and pneumonia."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths due to COVID-19 are less concentrated in the oldest age groups compared with deaths due to flu and pneumonia",
+      "h3": null,
+      "h4": "The average age of death is lower for COVID-19 than flu and pneumonia",
+      "h5": "Mean age of deaths registered due to COVID-19 and flu and pneumonia, England and Wales, March 2020 to March 2022",
+      "text": "Meanwhile, roughly 1 in 12 (7.9%) deaths due to COVID-19 were among those aged below 60 years, compared with 1 in 20 (5.0%) deaths due to flu and pneumonia."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths due to COVID-19 are less concentrated in the oldest age groups compared with deaths due to flu and pneumonia",
+      "h3": null,
+      "h4": "The average age of death is lower for COVID-19 than flu and pneumonia",
+      "h5": "Mean age of deaths registered due to COVID-19 and flu and pneumonia, England and Wales, March 2020 to March 2022",
+      "text": "The youngest age group (those aged up to 14 years), accounted for 0.03% of deaths due to COVID-19, compared with 0.16% of deaths due to flu and pneumonia. Numbers of deaths overall in this age group were very low."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths due to COVID-19 are less concentrated in the oldest age groups compared with deaths due to flu and pneumonia",
+      "h3": null,
+      "h4": "The average age of death is lower for COVID-19 than flu and pneumonia",
+      "h5": "Mean age of deaths registered due to COVID-19 and flu and pneumonia, England and Wales, March 2020 to March 2022",
+      "text": "The number of deaths due to COVID-19 has generally remained higher across all age groups than the number of deaths due to flu and pneumonia."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths due to COVID-19 are less concentrated in the oldest age groups compared with deaths due to flu and pneumonia",
+      "h3": null,
+      "h4": "The average age of death is lower for COVID-19 than flu and pneumonia",
+      "h5": "Mean age of deaths registered due to COVID-19 and flu and pneumonia, England and Wales, March 2020 to March 2022",
+      "text": "However, the greatest differences have been among adults of middle age and retirement age, rather than those in the oldest age groups."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Deaths due to COVID-19 are less concentrated in the oldest age groups compared with deaths due to flu and pneumonia",
+      "h3": null,
+      "h4": "While most deaths due to COVID-19 have occurred among those aged over 80 years, the increased risk of death compared with flu and pneumonia has been greatest for those aged 40 to 79 years",
+      "h5": null,
+      "text": "While most deaths due to COVID-19 have occurred among those aged over 80 years, the increased risk of death compared with flu and pneumonia has been greatest for those aged 40 to 79 years"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Deaths due to COVID-19 are less concentrated in the oldest age groups compared with deaths due to flu and pneumonia",
+      "h3": null,
+      "h4": "While most deaths due to COVID-19 have occurred among those aged over 80 years, the increased risk of death compared with flu and pneumonia has been greatest for those aged 40 to 79 years",
+      "h5": "Number of deaths registered due to COVID-19 by age group, compared with deaths due to flu and pneumonia, England and Wales, March 2020 to March 2022",
+      "text": "Number of deaths registered due to COVID-19 by age group, compared with deaths due to flu and pneumonia, England and Wales, March 2020 to March 2022"
+    },
+    {
+      "type": "p",
+      "h2": "Deaths due to COVID-19 are less concentrated in the oldest age groups compared with deaths due to flu and pneumonia",
+      "h3": null,
+      "h4": "While most deaths due to COVID-19 have occurred among those aged over 80 years, the increased risk of death compared with flu and pneumonia has been greatest for those aged 40 to 79 years",
+      "h5": "Number of deaths registered due to COVID-19 by age group, compared with deaths due to flu and pneumonia, England and Wales, March 2020 to March 2022",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Deaths due to COVID-19 are less concentrated in the oldest age groups compared with deaths due to flu and pneumonia",
+      "h3": null,
+      "h4": "While most deaths due to COVID-19 have occurred among those aged over 80 years, the increased risk of death compared with flu and pneumonia has been greatest for those aged 40 to 79 years",
+      "h5": "Number of deaths registered due to COVID-19 by age group, compared with deaths due to flu and pneumonia, England and Wales, March 2020 to March 2022",
+      "title": "covid flu age",
+      "url": "/visualisations/dvc1945/covidfluage/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Deaths due to COVID-19 are less concentrated in the oldest age groups compared with deaths due to flu and pneumonia",
+      "h3": null,
+      "h4": "While most deaths due to COVID-19 have occurred among those aged over 80 years, the increased risk of death compared with flu and pneumonia has been greatest for those aged 40 to 79 years",
+      "h5": "Notes:",
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": "Deaths due to COVID-19 are less concentrated in the oldest age groups compared with deaths due to flu and pneumonia",
+      "h3": null,
+      "h4": "While most deaths due to COVID-19 have occurred among those aged over 80 years, the increased risk of death compared with flu and pneumonia has been greatest for those aged 40 to 79 years",
+      "h5": "Notes:",
+      "text": "This chart marks the increased risk of death for all age groups in January 2021, when this risk was highest for three out of four age groups. The increased risk was highest for those aged under 40 years in February 2021, when there were 24 times more deaths from COVID-19 than flu or pneumonia in this age group."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths due to COVID-19 are less concentrated in the oldest age groups compared with deaths due to flu and pneumonia",
+      "h3": null,
+      "h4": "While most deaths due to COVID-19 have occurred among those aged over 80 years, the increased risk of death compared with flu and pneumonia has been greatest for those aged 40 to 79 years",
+      "h5": "Notes:",
+      "text": "[Download the data for deaths due to COVID-19 and flu and pneumonia by age group (XLSX, 37KB)](/visualisations/dvc1945/covidfluage/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "Deaths due to COVID-19 are less concentrated in the oldest age groups compared with deaths due to flu and pneumonia",
+      "h3": null,
+      "h4": "While most deaths due to COVID-19 have occurred among those aged over 80 years, the increased risk of death compared with flu and pneumonia has been greatest for those aged 40 to 79 years",
+      "h5": "Notes:",
+      "text": "In January 2021, when COVID-19 deaths were at their peak, the number of deaths due to COVID-19 was nearly 32 times higher than the number due to flu and pneumonia among people aged 40 to 59 years and aged 60 to 79 years. Among those aged over 80 years, deaths due to COVID-19 were 16 times higher than those due to flu and pneumonia."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Deaths due to COVID-19 have been higher than deaths due to flu and pneumonia in any year since 1929",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Deaths due to COVID-19 have been higher than deaths due to flu and pneumonia in any year since 1929"
+    },
+    {
+      "type": "p",
+      "h2": "Deaths due to COVID-19 have been higher than deaths due to flu and pneumonia in any year since 1929",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "COVID-19 was the underlying cause of 73,766 deaths in 2020 and 67,258 deaths in 2021. The last time that deaths due to flu and pneumonia reached similar levels was 1929 (73,212 deaths)."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths due to COVID-19 have been higher than deaths due to flu and pneumonia in any year since 1929",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The most severe outbreak occurred in 1918, the year of the “Spanish flu” pandemic, when there were more than 170,000 deaths."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths due to COVID-19 have been higher than deaths due to flu and pneumonia in any year since 1929",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "An average of around 43,000 people died due to flu and pneumonia each year during the 20th century. With widespread vaccination introduced in 2000, the average number of deaths due to flu and pneumonia each year has since dropped below 30,000."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths due to COVID-19 have been higher than deaths due to flu and pneumonia in any year since 1929",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The number of deaths due to flu and pneumonia fell below 20,000 in 2020 for the first time since 1948, before reaching a record low of 16,237 in 2021. This decrease during the coronavirus pandemic could be linked to restrictions that limited social contact."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Deaths due to COVID-19 have been higher than deaths due to flu and pneumonia in any year since 1929",
+      "h3": null,
+      "h4": "Deaths due to flu and pneumonia have fallen to record lows during the coronavirus pandemic",
+      "h5": null,
+      "text": "Deaths due to flu and pneumonia have fallen to record lows during the coronavirus pandemic"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Deaths due to COVID-19 have been higher than deaths due to flu and pneumonia in any year since 1929",
+      "h3": null,
+      "h4": "Deaths due to flu and pneumonia have fallen to record lows during the coronavirus pandemic",
+      "h5": "Number of deaths due to COVID-19, and flu and pneumonia, England and Wales, 1901 to 2021",
+      "text": "Number of deaths due to COVID-19, and flu and pneumonia, England and Wales, 1901 to 2021"
+    },
+    {
+      "type": "p",
+      "h2": "Deaths due to COVID-19 have been higher than deaths due to flu and pneumonia in any year since 1929",
+      "h3": null,
+      "h4": "Deaths due to flu and pneumonia have fallen to record lows during the coronavirus pandemic",
+      "h5": "Number of deaths due to COVID-19, and flu and pneumonia, England and Wales, 1901 to 2021",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Deaths due to COVID-19 have been higher than deaths due to flu and pneumonia in any year since 1929",
+      "h3": null,
+      "h4": "Deaths due to flu and pneumonia have fallen to record lows during the coronavirus pandemic",
+      "h5": "Number of deaths due to COVID-19, and flu and pneumonia, England and Wales, 1901 to 2021",
+      "title": "flu 100 years",
+      "url": "/visualisations/dvc1945/flu100years/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Deaths due to COVID-19 have been higher than deaths due to flu and pneumonia in any year since 1929",
+      "h3": null,
+      "h4": "Deaths due to flu and pneumonia have fallen to record lows during the coronavirus pandemic",
+      "h5": "Notes:",
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": "Deaths due to COVID-19 have been higher than deaths due to flu and pneumonia in any year since 1929",
+      "h3": null,
+      "h4": "Deaths due to flu and pneumonia have fallen to record lows during the coronavirus pandemic",
+      "h5": "Notes:",
+      "text": "Please refer to our [Background and history of mortality data section of the User guide to mortality statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/methodologies/userguidetomortalitystatisticsjuly2017#cause-of-death-coding) for more information regarding the coding of pneumonia deaths from 1984 onwards."
+    },
+    {
+      "type": "li",
+      "h2": "Deaths due to COVID-19 have been higher than deaths due to flu and pneumonia in any year since 1929",
+      "h3": null,
+      "h4": "Deaths due to flu and pneumonia have fallen to record lows during the coronavirus pandemic",
+      "h5": "Notes:",
+      "text": "Deaths pre-1959 are based on the date a death occurred and deaths post-1959 are based on the date a death was registered."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths due to COVID-19 have been higher than deaths due to flu and pneumonia in any year since 1929",
+      "h3": null,
+      "h4": "Deaths due to flu and pneumonia have fallen to record lows during the coronavirus pandemic",
+      "h5": "Notes:",
+      "text": "[Download the data for deaths due to COVID-19 and flu and pneumonia (XLSX, 22KB)](/visualisations/dvc1945/flu100years/datadownload.xlsx)"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "With coronavirus restrictions now lifted, is flu coming back?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "With coronavirus restrictions now lifted, is flu coming back?"
+    },
+    {
+      "type": "p",
+      "h2": "With coronavirus restrictions now lifted, is flu coming back?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The number of deaths due to flu and pneumonia in the most recent winter (2021 to 2022) was higher than the previous winter (2020 to 2021)."
+    },
+    {
+      "type": "p",
+      "h2": "With coronavirus restrictions now lifted, is flu coming back?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "There were 6,898 deaths due to flu and pneumonia in December 2021 to March 2022, compared with 5,288 in December 2020 to March 2021."
+    },
+    {
+      "type": "p",
+      "h2": "With coronavirus restrictions now lifted, is flu coming back?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Deaths due to flu and pneumonia in both these winters remained well below levels seen before the COVID-19 pandemic. It is possible that lockdowns and measures such as social distancing put in place to curb the spread of coronavirus also reduced the spread of flu compared with previous years."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "With coronavirus restrictions now lifted, is flu coming back?",
+      "h3": null,
+      "h4": "Deaths due to flu and pneumonia increased in the most recent winter but remained below pre-coronavirus pandemic levels",
+      "h5": null,
+      "text": "Deaths due to flu and pneumonia increased in the most recent winter but remained below pre-coronavirus pandemic levels"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "With coronavirus restrictions now lifted, is flu coming back?",
+      "h3": null,
+      "h4": "Deaths due to flu and pneumonia increased in the most recent winter but remained below pre-coronavirus pandemic levels",
+      "h5": "Weekly deaths registered due to flu and pneumonia, England and Wales, week ending 13 March 2020 to 1 April 2022",
+      "text": "Weekly deaths registered due to flu and pneumonia, England and Wales, week ending 13 March 2020 to 1 April 2022"
+    },
+    {
+      "type": "p",
+      "h2": "With coronavirus restrictions now lifted, is flu coming back?",
+      "h3": null,
+      "h4": "Deaths due to flu and pneumonia increased in the most recent winter but remained below pre-coronavirus pandemic levels",
+      "h5": "Weekly deaths registered due to flu and pneumonia, England and Wales, week ending 13 March 2020 to 1 April 2022",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "With coronavirus restrictions now lifted, is flu coming back?",
+      "h3": null,
+      "h4": "Deaths due to flu and pneumonia increased in the most recent winter but remained below pre-coronavirus pandemic levels",
+      "h5": "Weekly deaths registered due to flu and pneumonia, England and Wales, week ending 13 March 2020 to 1 April 2022",
+      "title": "seasonal flu",
+      "url": "/visualisations/dvc1945/seasonalflu/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "With coronavirus restrictions now lifted, is flu coming back?",
+      "h3": null,
+      "h4": "Deaths due to flu and pneumonia increased in the most recent winter but remained below pre-coronavirus pandemic levels",
+      "h5": "Weekly deaths registered due to flu and pneumonia, England and Wales, week ending 13 March 2020 to 1 April 2022",
+      "text": "[Download the data for weekly deaths due to flu and pneumonia (XLSX, 23KB)](/visualisations/dvc1945/seasonalflu/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "With coronavirus restrictions now lifted, is flu coming back?",
+      "h3": null,
+      "h4": "Deaths due to flu and pneumonia increased in the most recent winter but remained below pre-coronavirus pandemic levels",
+      "h5": "Weekly deaths registered due to flu and pneumonia, England and Wales, week ending 13 March 2020 to 1 April 2022",
+      "text": "While deaths due to flu and pneumonia did see a decline during the COVID-19 pandemic, our analysis shows [COVID-19 led to a sharp rise in excess deaths (those above the five-year average) during the winter of 2020 to 2021](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/excesswintermortalityinenglandandwales/2020to2021provisionaland2019to2020final)."
+    },
+    {
+      "type": "p",
+      "h2": "With coronavirus restrictions now lifted, is flu coming back?",
+      "h3": null,
+      "h4": "Deaths due to flu and pneumonia increased in the most recent winter but remained below pre-coronavirus pandemic levels",
+      "h5": "Weekly deaths registered due to flu and pneumonia, England and Wales, week ending 13 March 2020 to 1 April 2022",
+      "text": "In that winter, deaths due to both COVID-19 and flu and pneumonia far exceeded those due to flu and pneumonia alone in pre-coronavirus pandemic years."
+    },
+    {
+      "type": "p",
+      "h2": "With coronavirus restrictions now lifted, is flu coming back?",
+      "h3": null,
+      "h4": "Deaths due to flu and pneumonia increased in the most recent winter but remained below pre-coronavirus pandemic levels",
+      "h5": "Weekly deaths registered due to flu and pneumonia, England and Wales, week ending 13 March 2020 to 1 April 2022",
+      "text": "In the latest winter (December 2021 to March 2022), the number of deaths with COVID-19 as the underlying cause has fallen more in line with those due to flu and pneumonia in pre-coronavirus pandemic years."
+    },
+    {
+      "type": "p",
+      "h2": "With coronavirus restrictions now lifted, is flu coming back?",
+      "h3": null,
+      "h4": "Deaths due to flu and pneumonia increased in the most recent winter but remained below pre-coronavirus pandemic levels",
+      "h5": "Weekly deaths registered due to flu and pneumonia, England and Wales, week ending 13 March 2020 to 1 April 2022",
+      "text": "The number of deaths due to COVID-19 is still double that of those due to flu and pneumonia in the same period, as there have been considerably fewer deaths due to flu and pneumonia over the last two winters."
+    },
+    {
+      "type": "p",
+      "h2": "With coronavirus restrictions now lifted, is flu coming back?",
+      "h3": null,
+      "h4": "Deaths due to flu and pneumonia increased in the most recent winter but remained below pre-coronavirus pandemic levels",
+      "h5": "Weekly deaths registered due to flu and pneumonia, England and Wales, week ending 13 March 2020 to 1 April 2022",
+      "text": "As the initial peak in deaths due to COVID-19 occurred during spring 2020 and will not be captured in any analysis of winter mortality, it is too early to know whether a seasonal pattern will emerge in a similar way to flu and pneumonia."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "With coronavirus restrictions now lifted, is flu coming back?",
+      "h3": null,
+      "h4": "Deaths due to COVID-19 were higher than those due to flu and pneumonia in winter 2021 to 2022, but much lower than COVID-19 deaths in 2020 to 2021",
+      "h5": null,
+      "text": "Deaths due to COVID-19 were higher than those due to flu and pneumonia in winter 2021 to 2022, but much lower than COVID-19 deaths in 2020 to 2021"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "With coronavirus restrictions now lifted, is flu coming back?",
+      "h3": null,
+      "h4": "Deaths due to COVID-19 were higher than those due to flu and pneumonia in winter 2021 to 2022, but much lower than COVID-19 deaths in 2020 to 2021",
+      "h5": "Monthly deaths registered due to flu and pneumonia in December to March, England and Wales, 2001 to 2022, and deaths due to COVID-19, December to March, 2020 to 2022",
+      "text": "Monthly deaths registered due to flu and pneumonia in December to March, England and Wales, 2001 to 2022, and deaths due to COVID-19, December to March, 2020 to 2022"
+    },
+    {
+      "type": "p",
+      "h2": "With coronavirus restrictions now lifted, is flu coming back?",
+      "h3": null,
+      "h4": "Deaths due to COVID-19 were higher than those due to flu and pneumonia in winter 2021 to 2022, but much lower than COVID-19 deaths in 2020 to 2021",
+      "h5": "Monthly deaths registered due to flu and pneumonia in December to March, England and Wales, 2001 to 2022, and deaths due to COVID-19, December to March, 2020 to 2022",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "With coronavirus restrictions now lifted, is flu coming back?",
+      "h3": null,
+      "h4": "Deaths due to COVID-19 were higher than those due to flu and pneumonia in winter 2021 to 2022, but much lower than COVID-19 deaths in 2020 to 2021",
+      "h5": "Monthly deaths registered due to flu and pneumonia in December to March, England and Wales, 2001 to 2022, and deaths due to COVID-19, December to March, 2020 to 2022",
+      "title": "winter deaths",
+      "url": "/visualisations/dvc1945/winterdeaths_v2/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "With coronavirus restrictions now lifted, is flu coming back?",
+      "h3": null,
+      "h4": "Deaths due to COVID-19 were higher than those due to flu and pneumonia in winter 2021 to 2022, but much lower than COVID-19 deaths in 2020 to 2021",
+      "h5": "Monthly deaths registered due to flu and pneumonia in December to March, England and Wales, 2001 to 2022, and deaths due to COVID-19, December to March, 2020 to 2022",
+      "text": "[Download the data for winter deaths due to flu and pneumonia and COVID-19 (XLSX, 20KB)](/visualisations/dvc1945/winterdeaths_v2/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "With coronavirus restrictions now lifted, is flu coming back?",
+      "h3": null,
+      "h4": "Deaths due to COVID-19 were higher than those due to flu and pneumonia in winter 2021 to 2022, but much lower than COVID-19 deaths in 2020 to 2021",
+      "h5": "Monthly deaths registered due to flu and pneumonia in December to March, England and Wales, 2001 to 2022, and deaths due to COVID-19, December to March, 2020 to 2022",
+      "text": "It's difficult to directly compare deaths due to COVID-19 with those due to flu and pneumonia, but from the data we have, we cannot yet say for certain whether the conditions are behaving in similar ways, or will do in the future."
+    },
+    {
+      "type": "p",
+      "h2": "With coronavirus restrictions now lifted, is flu coming back?",
+      "h3": null,
+      "h4": "Deaths due to COVID-19 were higher than those due to flu and pneumonia in winter 2021 to 2022, but much lower than COVID-19 deaths in 2020 to 2021",
+      "h5": "Monthly deaths registered due to flu and pneumonia in December to March, England and Wales, 2001 to 2022, and deaths due to COVID-19, December to March, 2020 to 2022",
+      "text": "Infection and antibody levels, vaccination rates, restrictions and lockdowns, and differences between COVID-19 variants all affect the data we have on COVID-19 mortality. Some of these factors also have affected flu and pneumonia deaths over the same period, meaning the data we have so far is quite atypical."
+    },
+    {
+      "type": "p",
+      "h2": "With coronavirus restrictions now lifted, is flu coming back?",
+      "h3": null,
+      "h4": "Deaths due to COVID-19 were higher than those due to flu and pneumonia in winter 2021 to 2022, but much lower than COVID-19 deaths in 2020 to 2021",
+      "h5": "Monthly deaths registered due to flu and pneumonia in December to March, England and Wales, 2001 to 2022, and deaths due to COVID-19, December to March, 2020 to 2022",
+      "text": "Deaths due to COVID-19 remain higher than deaths due to flu and pneumonia, although deaths due to COVID-19 seem to be decreasing, while deaths due to flu and pneumonia are at historic lows and seem to be rising. We will continue to monitor the data closely."
+    },
+    {
+      "type": "p",
+      "h2": "With coronavirus restrictions now lifted, is flu coming back?",
+      "h3": null,
+      "h4": "Deaths due to COVID-19 were higher than those due to flu and pneumonia in winter 2021 to 2022, but much lower than COVID-19 deaths in 2020 to 2021",
+      "h5": "Monthly deaths registered due to flu and pneumonia in December to March, England and Wales, 2001 to 2022, and deaths due to COVID-19, December to March, 2020 to 2022",
+      "text": "Public Health England (PHE) used a statistical model called FluMOMO to estimate the number of deaths associated with flu. More information about the method is available on page 53 of [Surveillance of influenza and other respiratory viruses in the UK: Winter 2019 to 2020 (PDF, 2.3MB)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/895233/Surveillance_Influenza_and_other_respiratory_viruses_in_the_UK_2019_to_2020_FINAL.pdf)."
+    },
+    {
+      "type": "p",
+      "h2": "With coronavirus restrictions now lifted, is flu coming back?",
+      "h3": null,
+      "h4": "Deaths due to COVID-19 were higher than those due to flu and pneumonia in winter 2021 to 2022, but much lower than COVID-19 deaths in 2020 to 2021",
+      "h5": "Monthly deaths registered due to flu and pneumonia in December to March, England and Wales, 2001 to 2022, and deaths due to COVID-19, December to March, 2020 to 2022",
+      "text": "[National flu and COVID-19 Surveillance reports](https://www.gov.uk/government/news/national-flu-and-covid-19-surveillance-reports-published) are published weekly by the UK Health Security Agency (UKHSA)."
+    },
+    {
+      "type": "p",
+      "h2": "With coronavirus restrictions now lifted, is flu coming back?",
+      "h3": null,
+      "h4": "Deaths due to COVID-19 were higher than those due to flu and pneumonia in winter 2021 to 2022, but much lower than COVID-19 deaths in 2020 to 2021",
+      "h5": "Monthly deaths registered due to flu and pneumonia in December to March, England and Wales, 2001 to 2022, and deaths due to COVID-19, December to March, 2020 to 2022",
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": "With coronavirus restrictions now lifted, is flu coming back?",
+      "h3": null,
+      "h4": "Deaths due to COVID-19 were higher than those due to flu and pneumonia in winter 2021 to 2022, but much lower than COVID-19 deaths in 2020 to 2021",
+      "h5": "Monthly deaths registered due to flu and pneumonia in December to March, England and Wales, 2001 to 2022, and deaths due to COVID-19, December to March, 2020 to 2022",
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "\n\nMore on the coronavirus (COVID-19) pandemic \n There are many exceptional circumstances that affect how we interpret COVID-19 mortality statistics. Some further articles covering some of these topics are: \n\n\n",
+      "box_items": [
+        "[Excess mortality and mortality displacement in England and Wales: 2020 to mid-2021](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/excessmortalityandmortalitydisplacementinenglandandwales/2020tomid2021)",
+        "[Coronavirus (COVID-19) related deaths by occupation, England and Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/causesofdeath/bulletins/coronaviruscovid19relateddeathsbyoccupationenglandandwales/deathsregisteredbetween9marchand28december2020)",
+        "[Excess deaths in your neighbourhood during the coronavirus (COVID-19) pandemic](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/excessdeathsinyourneighbourhoodduringthecoronaviruscovid19pandemic/2021-08-03)",
+        "[Deaths at home increased by a third in 2020, while deaths in hospitals fell except for COVID-19](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/deathsathomeincreasedbyathirdin2020whiledeathsinhospitalsfellexceptforcovid19/2021-05-07)"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Measuring the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Measuring the data"
+    },
+    {
+      "type": "p",
+      "h2": "Measuring the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "All data used in this article is available via chart downloads. Further information on all chart data used is listed below:"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Measuring the data",
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": "Measuring the data",
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "Flu and pneumonia are both respiratory diseases; we group them together because many cases of pneumonia are caused by flu. COVID-19 is not classed as a respiratory disease, but breathing difficulties are a known symptom."
+    },
+    {
+      "type": "li",
+      "h2": "Measuring the data",
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "Figures include deaths of non-residents."
+    },
+    {
+      "type": "li",
+      "h2": "Measuring the data",
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "Deaths registered in 2021 and 2022 are provisional."
+    },
+    {
+      "type": "li",
+      "h2": "Measuring the data",
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "These figures represent death registrations (except deaths occurring pre-1959). There can be a delay between the date a death occurred and the date a death was registered. More information can be found in our [Impact of registration delays](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/impactofregistrationdelaysonmortalitystatisticsinenglandandwales/latest) article."
+    },
+    {
+      "type": "li",
+      "h2": "Measuring the data",
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "All data used in this article are from England and Wales death registration data. Because of differences in the time between when data was extracted, some figures published in this article may differ from those in previous publications."
+    },
+    {
+      "type": "box",
+      "h2": "Measuring the data",
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "box_h2": "Related",
+      "box_h3": null,
+      "box_text": "Article | Released on 30 March 2023\n\nThe latest data and trends about the coronavirus (COVID-19) pandemic from the Office for National Statistics and other sources.\n\nStatistical bulletin | Released on 25 August 2023\n\nAge-standardised mortality rates for deaths involving coronavirus (COVID-19) by vaccination status, broken down by age group. Deaths occurring between 1 April 2021 and 31 May 2023 in England.\n\nStatistical bulletin | Released on 16 July 2025\n\nProvisional number of deaths registered in England and Wales in the latest weeks.",
+      "box_items": [
+        "[Coronavirus (COVID-19) latest insights](/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19/latestinsights) Article | Released on 30 March 2023 The latest data and trends about the coronavirus (COVID-19) pandemic from the Office for National Statistics and other sources.",
+        "[Deaths involving COVID-19 by vaccination status, England](/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsinvolvingcovid19byvaccinationstatusengland/deathsoccurringbetween1april2021and31may2023) Statistical bulletin | Released on 25 August 2023 Age-standardised mortality rates for deaths involving coronavirus (COVID-19) by vaccination status, broken down by age group. Deaths occurring between 1 April 2021 and 31 May 2023 in England.",
+        "[Deaths registered weekly in England and Wales, provisional](/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/weekending4july2025) Statistical bulletin | Released on 16 July 2025 Provisional number of deaths registered in England and Wales in the latest weeks."
+      ]
+    },
+    {
+      "type": "box",
+      "h2": "Measuring the data",
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "Sarah Caul\n[health.data@ons.gov.uk](mailto:health.data@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:46:25.025719"
+}

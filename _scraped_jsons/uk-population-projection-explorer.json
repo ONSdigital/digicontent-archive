@@ -1,0 +1,173 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/articles/ukpopulationprojectionexplorer/2025-01-28",
+  "title": "UK population projection explorer",
+  "meta_description": "An ONS interactive tool showing UK population projections based on changes to life expectancy, fertility and migration.",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Population and migration",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration"
+    },
+    {
+      "text": "Population projections",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections"
+    },
+    {
+      "text": "UK population projection explorer",
+      "href": null
+    }
+  ],
+  "date_published": "2026-04-27T23:00:00.000Z",
+  "date_modified": "2026-04-27T23:00:00.000Z",
+  "lede": "Use our projection tool to find out how changes in fertility, net international migration, and life expectancy could affect the population over a long period.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "28 April 2026"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The UK population is projected to grow by 1.7 million (2.5%) over the 10 years between mid-2024 and mid-2034, according to our [latest national population projections](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/bulletins/nationalpopulationprojections/latest)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Projecting future changes in the population is essential for planning in areas like health, education, public finances and pensions."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Small changes in factors like migration and life expectancy can have a big influence on population projections. This interactive tool enables you to adjust different factors and see the effect they have on what the population may look like in the future and make comparisons with our official projections."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "For local authority level projections, select an area in our [subnational population projections commentary](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/bulletins/subnationalpopulationprojectionsforengland/2022based#projected-change-by-local-authority)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Projections are largely based on past and current trends and cannot predict the future of changes in international migration, births or deaths."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "Population projection tool",
+      "url": "/visualisations/populationprojectionsexplorer/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Tool input ranges and source data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Tool input ranges and source data"
+    },
+    {
+      "type": "p",
+      "h2": "Tool input ranges and source data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The available inputs for this tool broadly match the ranges of our official projections. For example, net migration can be raised to match assumptions used in our ‘high migration’ variant projection. Our ‘principal projection’ is our main projection of how many people could be living in the UK in the future."
+    },
+    {
+      "type": "p",
+      "h2": "Tool input ranges and source data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Our accredited official projections are developed using a cohort component projection method and expert advice. [You can find out more about the methodology here.](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/methodologies/nationalpopulationprojectionsqmi)"
+    },
+    {
+      "type": "p",
+      "h2": "Tool input ranges and source data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "For the custom user selected views in the tool, we have interpolated data based on outputs from the National Population Projections system. However, there are more than 800 possible selections within the tool, so there cannot be the same level of detailed assumption setting and quality checks as with our official projections. Our published projections are produced with input from experts, unlike the user-selected projections in this tool. While this means there can be more flexibility to change assumptions while using the tool, it is important to remember that they are not official projections in themselves."
+    },
+    {
+      "type": "p",
+      "h2": "Tool input ranges and source data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "To find out more about the official methods used in our projections, see our [National population projections quality and methods guide](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/methodologies/nationalpopulationprojectionsqmi)."
+    },
+    {
+      "type": "box",
+      "h2": "Tool input ranges and source data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Related",
+      "box_h3": null,
+      "box_text": "Statistical bulletin | Released on 29 July 2026\n\nNational and subnational mid-year population estimates for England and Wales by administrative area, age and sex.\n\nArticle | Released on 9 April 2024\n\nAnalysis of the rebased mid-year population estimates from 2012 to 2021 and the components of change that affected the rebasing on a subnational level.\n\nArticle | Released on 28 June 2022\n\nUsing the first results from Census 2021, we look at which local authority areas have seen the biggest population increases and decreases, which areas had the largest growth in different age groups, and how your chosen area compares with others.",
+      "box_items": [
+        "[Population estimates for England and Wales](/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/populationestimatesforenglandandwales/mid2025) Statistical bulletin | Released on 29 July 2026 National and subnational mid-year population estimates for England and Wales by administrative area, age and sex.",
+        "[Analysis of rebased mid-year population estimates following Census 2021, England and Wales](/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/analysisofrebasedmidyearpopulationestimatesfollowingcensus2021englandandwales/2024-04-09) Article | Released on 9 April 2024 Analysis of the rebased mid-year population estimates from 2012 to 2021 and the components of change that affected the rebasing on a subnational level.",
+        "[How the population changed where you live: Census 2021](/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/howthepopulationchangedwhereyoulivecensus2021/2022-06-28) Article | Released on 28 June 2022 Using the first results from Census 2021, we look at which local authority areas have seen the biggest population increases and decreases, which areas had the largest growth in different age groups, and how your chosen area compares with others."
+      ]
+    },
+    {
+      "type": "box",
+      "h2": "Tool input ranges and source data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "Digital Content\n[digitalcontent@ons.gov.uk](mailto:digitalcontent@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:46:15.008072"
+}

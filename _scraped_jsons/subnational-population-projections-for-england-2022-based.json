@@ -1,0 +1,1339 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/bulletins/subnationalpopulationprojectionsforengland/2022based",
+  "title": "Subnational population projections for England: 2022-based",
+  "meta_description": "Population projections by English local authorities and health geographies. These statistics are used in planning, health and education.",
+  "breadcrumb": null,
+  "date_published": "2025-06-23T23:00:00.000Z",
+  "date_modified": "2025-06-23T23:00:00.000Z",
+  "lede": null,
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Population projections by English local authorities and health geographies. These statistics are used in planning, health and education."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This is the latest release. [View previous releases](/peoplepopulationandcommunity/populationandmigration/populationprojections/bulletins/subnationalpopulationprojectionsforengland/previousreleases)"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Notice",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Notice"
+    },
+    {
+      "type": "p",
+      "h2": "Notice",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "21 September 2026"
+    },
+    {
+      "type": "p",
+      "h2": "Notice",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We are not planning a 2024-based release of subnational population projections for England, we are planning the next release to be in the second half of 2028. This is because of the redevelopment of the production. Please contact [pop.info@ons.gov.uk](mailto:pop.info@ons.gov.uk) for further information."
+    },
+    {
+      "type": "p",
+      "h2": "Notice",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "27 August 2026"
+    },
+    {
+      "type": "p",
+      "h2": "Notice",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We have published a user requested dataset providing population data for local authorities in England by single year of age and sex from mid-2025 to mid-2050. These figures have been produced by applying scaling factors derived from the [2024-based national population projections](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/bulletins/nationalpopulationprojections/2024based) to the [Population estimates for England and Wales: mid-2025](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/populationestimatesforenglandandwales/mid2025)."
+    },
+    {
+      "type": "p",
+      "h2": "Notice",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "They are not a new set of subnational population projections and do not replace the 2022-based subnational population projections for England. The dataset is available at: [Mid-year population estimates and re-scaled population estimates (using national population projections) for local authorities in England by sex and single year of age: 2025 to 2050 dataset](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/adhocs/3596midyearpopulationestimatesandrescaledpopulationestimatesusingnationalpopulationprojectionsforlocalauthoritiesinenglandbysexandsingleyearofage2025to2050)."
+    },
+    {
+      "type": "p",
+      "h2": "Notice",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "25 June 2025"
+    },
+    {
+      "type": "p",
+      "h2": "Notice",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "An error has been identified in the migration category variant and zero net migration variant subnational population projections by single year of age and sex. These were released from an earlier version of our projections system and were not the final versions of the dataset. The following datasets were affected and updated:"
+    },
+    {
+      "type": "li",
+      "h2": "Notice",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Death projections for local authorities by single year of age and sex, England"
+    },
+    {
+      "type": "li",
+      "h2": "Notice",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Births projections for local authorities by age of mother, England"
+    },
+    {
+      "type": "li",
+      "h2": "Notice",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Internal migration projections for local authorities by single year of age and sex, England"
+    },
+    {
+      "type": "li",
+      "h2": "Notice",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "International migration projections for local authorities by single year of age and sex, England"
+    },
+    {
+      "type": "li",
+      "h2": "Notice",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Population projections for local authorities by single year of age and sex, England"
+    },
+    {
+      "type": "li",
+      "h2": "Notice",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Cross-border migration projections for local authorities by single year of age and sex, England"
+    },
+    {
+      "type": "p",
+      "h2": "Notice",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We will review the production processes for this release and take steps to further improve the quality of our processes for developing subnational population projections."
+    },
+    {
+      "type": "p",
+      "h2": "Notice",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Users who are concerned and require further information should contact [projections@ons.gov.uk](mailto:projections@ons.gov.uk). We apologise for any inconvenience caused by this error."
+    },
+    {
+      "type": "image",
+      "h2": "Notice",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "src": "/visualisations//assets/images/ons-logo/kitemark/v2/uksa-kitemark-en.svg",
+      "alt": "These are accredited official statistics. Click for information about types of official statistics."
+    },
+    {
+      "type": "p",
+      "h2": "Notice",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Contact:\n[Email Population and Household Projections](mailto:pop.info@ons.gov.uk)"
+    },
+    {
+      "type": "p",
+      "h2": "Notice",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Release date:\n24 June 2025\n"
+    },
+    {
+      "type": "p",
+      "h2": "Notice",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Next release:\nTo be announced"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Table of contents"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Overview of international migration data and subnational population projections](#overview-of-international-migration-data-and-subnational-population-projections)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Main points](#main-points)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Projected change by local authority](#projected-change-by-local-authority)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Projected change by region](#projected-change-by-region)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Projected change by age](#projected-change-by-age)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Variant projections](#variant-projections)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Glossary](#glossary)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Data sources and quality](#data-sources-and-quality)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Related links](#related-links)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Cite this statistical bulletin](#cite-this-statistical-bulletin)"
+    },
+    {
+      "type": "p",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Print this Statistical bulletin]()"
+    },
+    {
+      "type": "p",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Download as PDF](/peoplepopulationandcommunity/populationandmigration/populationprojections/bulletins/subnationalpopulationprojectionsforengland/2022based/pdf)"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "1. Overview of international migration data and subnational population projections",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "1. Overview of international migration data and subnational population projections"
+    },
+    {
+      "type": "p",
+      "h2": "1. Overview of international migration data and subnational population projections",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "For this release of subnational population projections, analyses in the bulletin use the migration category variant projection in place of the principal projections. A projection that aligns with the principal projection in the 2022-based national population projections is available as part of this release and is called a five-year migration variant. Because of more up-to-date migration data, we advise use of the migration category variant in place of the principal projections that were referred to in the [National population projections: 2022-based](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/bulletins/nationalpopulationprojections/2022based), as this is a better reflection of short-term population change."
+    },
+    {
+      "type": "p",
+      "h2": "1. Overview of international migration data and subnational population projections",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Demographic behaviour used to develop assumptions for projections is inherently uncertain and so projections become increasingly uncertain the further they are carried forward. This is particularly so for smaller geographical areas and detailed age and sex breakdowns."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "2. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "2. Main points"
+    },
+    {
+      "type": "li",
+      "h2": "2. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The population of England is projected to increase by 6.4% between mid-2022 and mid-2032 compared with 5.9% for the UK."
+    },
+    {
+      "type": "li",
+      "h2": "2. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Between mid-2022 and mid-2032 the population is projected to increase across all regions as well as in 302 of the 309 local authorities in England (based on 2021 boundaries)."
+    },
+    {
+      "type": "li",
+      "h2": "2. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Tower Hamlets is projected to be the fastest growing local authority between mid-2022 and mid-2032, with a 20.4% projected population increase (excludes the City of London)."
+    },
+    {
+      "type": "li",
+      "h2": "2. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Gosport, Copeland and Barrow-in-Furness are the only local authorities projected to decline by more than 1% (excludes the Isles of Scilly)."
+    },
+    {
+      "type": "li",
+      "h2": "2. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The proportion of people under 16 years is projected to decrease in all local authorities, except for the City of London."
+    },
+    {
+      "type": "li",
+      "h2": "2. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The proportion of people of State Pension age is projected to increase in all but 11 local authorities in England."
+    },
+    {
+      "type": "li",
+      "h2": "2. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Our interactive tool goes into further depth, exploring changes in each local authority."
+    },
+    {
+      "type": "p",
+      "h2": "2. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "p",
+      "h2": "2. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Subnational population projections are not forecasts and do not attempt to predict potential changes in international migration. There is uncertainty over future directions and levels of international migration.\n\n At the local level, population change is influenced by economic development and housing policies, factors that are not included in these projections.\n\n Demographic assumptions for future fertility, mortality and migration are based on observed demographic trends. Resulting projections will differ to some extent from future releases of population estimates."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "2. Main points",
+      "h3": "Uncertainty in population projections data",
+      "h4": null,
+      "h5": null,
+      "text": "Uncertainty in population projections data"
+    },
+    {
+      "type": "p",
+      "h2": "2. Main points",
+      "h3": "Uncertainty in population projections data",
+      "h4": null,
+      "h5": null,
+      "text": "Our use of the migration category variant projection in place of the principal projection is in line with our advice to use the corresponding migration category variant for the UK in our [National population projections: 2022-based bulletin](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/bulletins/nationalpopulationprojections/2022based). We recommend use of this variant, as it better reflects the international migration patterns, as published in our [Long-term international migration, provisional: year ending December 2024 bulletin](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/longterminternationalmigrationprovisional/yearendingdecember2024)."
+    },
+    {
+      "type": "p",
+      "h2": "2. Main points",
+      "h3": "Uncertainty in population projections data",
+      "h4": null,
+      "h5": null,
+      "text": "Projected population change is the result of assumptions about future births, deaths and migration, sometimes known as components of population change. For each local authority in England, we collect data on components of change to project these trends forward. The 2022-based subnational projections use data from 2018 to 2022. We project these data forward for 25 years and use the national population projections for England to constrain the projections."
+    },
+    {
+      "type": "p",
+      "h2": "2. Main points",
+      "h3": "Uncertainty in population projections data",
+      "h4": null,
+      "h5": null,
+      "text": "The data used for the subnational projections may not necessarily capture the entire local context in which population change occurs. At the local level, population change is influenced by many factors not considered in the projections, such as economic development and housing policies."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "3. Projected change by local authority",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "3. Projected change by local authority"
+    },
+    {
+      "type": "p",
+      "h2": "3. Projected change by local authority",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "3. Projected change by local authority",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "Latest indicators at a glance",
+      "url": "/visualisations/dvc3280/subnational-projections-explorer/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "3. Projected change by local authority",
+      "h3": "Overall local authority trends",
+      "h4": null,
+      "h5": null,
+      "text": "Overall local authority trends"
+    },
+    {
+      "type": "p",
+      "h2": "3. Projected change by local authority",
+      "h3": "Overall local authority trends",
+      "h4": null,
+      "h5": null,
+      "text": "All but seven local authorities in England are projected to grow by mid-2032. Table 1 shows the 10 local authorities with the fastest projected population growth by mid-2032."
+    },
+    {
+      "type": "p",
+      "h2": "3. Projected change by local authority",
+      "h3": "Overall local authority trends",
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "table",
+      "h2": "3. Projected change by local authority",
+      "h3": "Overall local authority trends",
+      "h4": null,
+      "h5": null,
+      "caption": "Table 1: Local authorities in England with the largest projected population growth between mid-2022 and mid-2032",
+      "columns": [
+        {
+          "key": "col1",
+          "label": "Local Authority"
+        },
+        {
+          "key": "col2",
+          "label": "Population\n in mid-2022"
+        },
+        {
+          "key": "col3",
+          "label": "Population\n in mid-2032"
+        },
+        {
+          "key": "col4",
+          "label": "Population change\n over 10 years"
+        },
+        {
+          "key": "col5",
+          "label": "Percentage population\n change"
+        }
+      ],
+      "data": [
+        {
+          "col1": "Tower Hamlets",
+          "col2": "323,854",
+          "col3": "389,845",
+          "col4": "65,991",
+          "col5": "20.4"
+        },
+        {
+          "col1": "South Derbyshire",
+          "col2": "111,145",
+          "col3": "132,463",
+          "col4": "21,318",
+          "col5": "19.2"
+        },
+        {
+          "col1": "Stratford-on-Avon",
+          "col2": "138,573",
+          "col3": "162,678",
+          "col4": "24,105",
+          "col5": "17.4"
+        },
+        {
+          "col1": "North West Leicestershire",
+          "col2": "107,666",
+          "col3": "124,628",
+          "col4": "16,962",
+          "col5": "15.8"
+        },
+        {
+          "col1": "South Norfolk",
+          "col2": "144,617",
+          "col3": "166,982",
+          "col4": "22,365",
+          "col5": "15.5"
+        },
+        {
+          "col1": "Salford",
+          "col2": "278,867",
+          "col3": "321,347",
+          "col4": "42,480",
+          "col5": "15.2"
+        },
+        {
+          "col1": "Tewkesbury",
+          "col2": "97,032",
+          "col3": "111,619",
+          "col4": "14,587",
+          "col5": "15.0"
+        },
+        {
+          "col1": "Vale of White Horse",
+          "col2": "142,335",
+          "col3": "163,566",
+          "col4": "21,231",
+          "col5": "14.9"
+        },
+        {
+          "col1": "Harborough",
+          "col2": "100,550",
+          "col3": "115,004",
+          "col4": "14,454",
+          "col5": "14.4"
+        },
+        {
+          "col1": "Central Bedfordshire",
+          "col2": "301,820",
+          "col3": "345,063",
+          "col4": "43,242",
+          "col5": "14.3"
+        }
+      ],
+      "source": "Source: Subnational population projections from the Office for National Statistics",
+      "footnotes": [
+        "City of London has been omitted from the table because of its small population size."
+      ]
+    },
+    {
+      "type": "p",
+      "h2": "3. Projected change by local authority",
+      "h3": "Overall local authority trends",
+      "h4": null,
+      "h5": null,
+      "text": "The main causes of the projected population increase vary substantially by area. In many local authorities, growth is mainly caused by internal migration. Internal migration of young people would furthermore contribute to the number of projected births. In many urban areas, growth is mainly caused by net international migration. Details on what is contributing to growth in specific local authorities can be found in our interactive tool."
+    },
+    {
+      "type": "p",
+      "h2": "3. Projected change by local authority",
+      "h3": "Overall local authority trends",
+      "h4": null,
+      "h5": null,
+      "text": "Table 2 shows the six local authorities with a projected population decline by mid-2032, excluding the Isles of Scilly. In the majority of these areas, the projected population decrease is mainly caused by a projected increase in the number of deaths, as a result of ageing populations in these areas."
+    },
+    {
+      "type": "p",
+      "h2": "3. Projected change by local authority",
+      "h3": "Overall local authority trends",
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "table",
+      "h2": "3. Projected change by local authority",
+      "h3": "Overall local authority trends",
+      "h4": null,
+      "h5": null,
+      "caption": "Table 2: Local authorities in England with a projected population decline between mid-2022 and mid-2032",
+      "columns": [
+        {
+          "key": "col1",
+          "label": "Local Authority"
+        },
+        {
+          "key": "col2",
+          "label": "Population\n in mid-2022"
+        },
+        {
+          "key": "col3",
+          "label": "Population\n in mid-2032"
+        },
+        {
+          "key": "col4",
+          "label": "Population change\n over 10 years"
+        },
+        {
+          "key": "col5",
+          "label": "Percentage population\n change"
+        }
+      ],
+      "data": [
+        {
+          "col1": "Gosport",
+          "col2": "82,277",
+          "col3": "80,533",
+          "col4": "-1,744",
+          "col5": "-2.12"
+        },
+        {
+          "col1": "Copeland",
+          "col2": "67,425",
+          "col3": "66,174",
+          "col4": "-1,251",
+          "col5": "-1.86"
+        },
+        {
+          "col1": "Barrow-in-Furness",
+          "col2": "67,354",
+          "col3": "66,197",
+          "col4": "-1,157",
+          "col5": "-1.72"
+        },
+        {
+          "col1": "Ipswich",
+          "col2": "139,295",
+          "col3": "138,114",
+          "col4": "-1,182",
+          "col5": "-0.85"
+        },
+        {
+          "col1": "North East Lincolnshire",
+          "col2": "157,745",
+          "col3": "156,916",
+          "col4": "-829",
+          "col5": "-0.53"
+        },
+        {
+          "col1": "Fareham",
+          "col2": "114,562",
+          "col3": "114,536",
+          "col4": "-26",
+          "col5": "-0.02"
+        }
+      ],
+      "source": "Source: Subnational population projections from the Office for National Statistics",
+      "footnotes": [
+        "Isles of Scilly has been omitted from the table because of its small population size."
+      ]
+    },
+    {
+      "type": "p",
+      "h2": "3. Projected change by local authority",
+      "h3": "Overall local authority trends",
+      "h4": null,
+      "h5": null,
+      "text": "Figure 1 illustrates how the population of each local authority in England is projected to change. Additional insights into the main causes of population change for a particular local authority can be found using the interactive tool."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "3. Projected change by local authority",
+      "h3": "Overall local authority trends",
+      "h4": "Figure 1: Projected population change for local authorities in England between mid-2022 and mid-2032",
+      "h5": null,
+      "text": "Figure 1: Projected population change for local authorities in England between mid-2022 and mid-2032"
+    },
+    {
+      "type": "p",
+      "h2": "3. Projected change by local authority",
+      "h3": "Overall local authority trends",
+      "h4": "Figure 1: Projected population change for local authorities in England between mid-2022 and mid-2032",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "3. Projected change by local authority",
+      "h3": "Overall local authority trends",
+      "h4": "Figure 1: Projected population change for local authorities in England between mid-2022 and mid-2032",
+      "h5": null,
+      "title": "Figure 1: Projected population change for local authorities in England between mid-2022 and mid-2032",
+      "url": "/visualisations/dvc3280/fig01/index.html"
+    },
+    {
+      "type": "li",
+      "h2": "3. Projected change by local authority",
+      "h3": "Overall local authority trends",
+      "h4": "Figure 1: Projected population change for local authorities in England between mid-2022 and mid-2032",
+      "h5": null,
+      "text": "Figures may not sum because of rounding."
+    },
+    {
+      "type": "li",
+      "h2": "3. Projected change by local authority",
+      "h3": "Overall local authority trends",
+      "h4": "Figure 1: Projected population change for local authorities in England between mid-2022 and mid-2032",
+      "h5": null,
+      "text": "The City of London is an outlier that has been omitted from the map to improve its usability."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "4. Projected change by region",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "4. Projected change by region"
+    },
+    {
+      "type": "p",
+      "h2": "4. Projected change by region",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The population of England is projected to increase by 6.4% between mid-2022 and mid-2032, from 57.1 million in mid-2022 to 60.8 million in mid-2032. By mid-2047, the population of England is projected to be 64.4 million. More information on national-level projections is available in our [National population projections: 2022-based bulletin](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/bulletins/nationalpopulationprojections/2022based)."
+    },
+    {
+      "type": "p",
+      "h2": "4. Projected change by region",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The population of every region in England is also projected to increase by mid-2032. Figure 2 shows the projected change at a regional level. The South West is projected to be the fastest-growing region; its population is projected to increase by 7.5% by mid-2032, an increase of 430,000 people. The North East is the region with the slowest projected population growth in both absolute and percentage terms, with a projected increase of 130,000 people, or 4.8%."
+    },
+    {
+      "type": "p",
+      "h2": "4. Projected change by region",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In all regions except London and the West Midlands, negative natural change is offset by positive internal migration. In London and the West Midlands, despite negative internal migration, projected growth is mainly caused by high positive natural change and international migration."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "4. Projected change by region",
+      "h3": null,
+      "h4": "Figure 2: Projected percentage change for regions in England, mid-2022 to mid-2032",
+      "h5": null,
+      "text": "Figure 2: Projected percentage change for regions in England, mid-2022 to mid-2032"
+    },
+    {
+      "type": "p",
+      "h2": "4. Projected change by region",
+      "h3": null,
+      "h4": "Figure 2: Projected percentage change for regions in England, mid-2022 to mid-2032",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "4. Projected change by region",
+      "h3": null,
+      "h4": "Figure 2: Projected percentage change for regions in England, mid-2022 to mid-2032",
+      "h5": null,
+      "title": "Figure 2: Projected percentage change for regions in England, mid-2022 to mid-2032 ",
+      "url": "/visualisations/dvc3280/fig02/index.html"
+    },
+    {
+      "type": "li",
+      "h2": "4. Projected change by region",
+      "h3": null,
+      "h4": "Figure 2: Projected percentage change for regions in England, mid-2022 to mid-2032",
+      "h5": null,
+      "text": "Figures may not sum because of rounding."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "5. Projected change by age",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "5. Projected change by age"
+    },
+    {
+      "type": "p",
+      "h2": "5. Projected change by age",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "England's population is projected to age, meaning that a higher proportion will be in older age groups. A common measure of ageing is the proportion of people of State Pension age, which also considers planned changes to the State Pension age. In England as a whole, this is projected to increase from 17.6% to 18.7% of the total population between mid-2022 and mid-2032. Only 11 local authorities are projected to have a declining proportion of residents of State Pension age (SPA). Most of these areas are characterised by a large population of students and/or young families."
+    },
+    {
+      "type": "p",
+      "h2": "5. Projected change by age",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "An alternative measure of ageing is the old age dependency ratio (OADR), defined as the number of people of pensionable age per 1,000 people of working age. Working age covers all people aged from 16 years up to the SPA. Note that being over SPA does not necessarily mean someone is retired, nor are all working age people in employment."
+    },
+    {
+      "type": "p",
+      "h2": "5. Projected change by age",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The OADR in England is projected to increase from 275 in mid-2022 to 287 in mid-2032. Roughly 85% of local authorities in England are projected to have an increase in OADR. Richmondshire, Gosport and Lambeth are projected to see the fastest growth in OADR. North Norfolk is projected to continue to be the area with the highest OADR, rising to 624 in mid-2032."
+    },
+    {
+      "type": "p",
+      "h2": "5. Projected change by age",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The [interactive tool](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/bulletins/subnationalpopulationprojectionsforengland/2022based#projected-change-by-local-authority) allows you to explore the changing age structure of specific local authorities and includes population pyramids."
+    },
+    {
+      "type": "p",
+      "h2": "5. Projected change by age",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Figure 3 highlights the proportion of children and people of working and State Pension age, as well as the OADR, between mid-2022 and mid-2047 and considers planned changes to the State Pension age."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "5. Projected change by age",
+      "h3": null,
+      "h4": "Figure 3: Projected changes in the proportion of children, people of working and State Pension age, and old-age dependency ratios, by local authority, mid-2022 to mid-2032 ",
+      "h5": null,
+      "text": "Figure 3: Projected changes in the proportion of children, people of working and State Pension age, and old-age dependency ratios, by local authority, mid-2022 to mid-2032 "
+    },
+    {
+      "type": "p",
+      "h2": "5. Projected change by age",
+      "h3": null,
+      "h4": "Figure 3: Projected changes in the proportion of children, people of working and State Pension age, and old-age dependency ratios, by local authority, mid-2022 to mid-2032 ",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "5. Projected change by age",
+      "h3": null,
+      "h4": "Figure 3: Projected changes in the proportion of children, people of working and State Pension age, and old-age dependency ratios, by local authority, mid-2022 to mid-2032 ",
+      "h5": null,
+      "title": "Figure 3: Projected changes in the proportion of children, people of working and State Pension age, and old-age dependency ratios, by local authority, mid-2022 to mid-2032",
+      "url": "/visualisations/dvc3280/fig03/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "5. Projected change by age",
+      "h3": "Notes",
+      "h4": null,
+      "h5": null,
+      "text": "Notes"
+    },
+    {
+      "type": "li",
+      "h2": "5. Projected change by age",
+      "h3": "Notes",
+      "h4": null,
+      "h5": null,
+      "text": "Old-age dependency ratio (OADR) is defined as the number of people of State Pension age (SPA) per 1,000 people of working age."
+    },
+    {
+      "type": "li",
+      "h2": "5. Projected change by age",
+      "h3": "Notes",
+      "h4": null,
+      "h5": null,
+      "text": "The population of State Pension age is defined as anyone who is over the State Pension age, regardless of whether they have retired or not. Projections of the State Pension age population reflect future changes under existing legislation."
+    },
+    {
+      "type": "li",
+      "h2": "5. Projected change by age",
+      "h3": "Notes",
+      "h4": null,
+      "h5": null,
+      "text": "The working age population is defined as anyone aged between 16 years and the State Pension age, regardless of whether someone is employed or not."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "6. Variant projections",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "6. Variant projections"
+    },
+    {
+      "type": "p",
+      "h2": "6. Variant projections",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "As explained in our [Variant national population projections for the UK and subnational population projections and household projections for England: user guide](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/methodologies/variantnationalpopulationprojectionsfortheukandsubnationalpopulationprojectionsandhouseholdprojectionsforenglanduserguide), variant population projections show scenarios based on alternative assumptions of future fertility, mortality or migration."
+    },
+    {
+      "type": "p",
+      "h2": "6. Variant projections",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In this release, we have included the following variant projections:"
+    },
+    {
+      "type": "li",
+      "h2": "6. Variant projections",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "a high international migration variant"
+    },
+    {
+      "type": "li",
+      "h2": "6. Variant projections",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "a low international migration variant"
+    },
+    {
+      "type": "li",
+      "h2": "6. Variant projections",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "a zero net migration variant"
+    },
+    {
+      "type": "li",
+      "h2": "6. Variant projections",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "a 10-year migration variant"
+    },
+    {
+      "type": "li",
+      "h2": "6. Variant projections",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "a five-year migration variant (consistent with the NPP principal projection)"
+    },
+    {
+      "type": "p",
+      "h2": "6. Variant projections",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The high and low international migration variants assume either higher or lower levels of net international migration to England as a whole, but the proportional distribution at local authority level remains the same."
+    },
+    {
+      "type": "p",
+      "h2": "6. Variant projections",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In this release, for the first time, we have published a zero net migration variant, which shows the projected change based on zero international migration and zero migration between England and the rest of the UK."
+    },
+    {
+      "type": "p",
+      "h2": "6. Variant projections",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The 10-year migration variant follows all the five-year migration variant assumptions, although it uses 10 years' worth of input data for all components except for births and deaths. A 10-year trend may even out a potentially atypical five-year period, but may reduce the effect of more systemic changes that occurred over the 10 years."
+    },
+    {
+      "type": "p",
+      "h2": "6. Variant projections",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "What we refer to as the five-year migration variant has been produced to align with the principal projection in the 2022-based national population projections and uses a five-year trend of data for all components of change."
+    },
+    {
+      "type": "p",
+      "h2": "6. Variant projections",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The advantages and disadvantages of using different numbers of years of input data are complex. You can explore the different results for your area in the interactive Figure 4."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "6. Variant projections",
+      "h3": null,
+      "h4": "Figure 4: The variant population projections showing a range of future demographic scenarios by local authority, mid-2022 to mid-2047",
+      "h5": null,
+      "text": "Figure 4: The variant population projections showing a range of future demographic scenarios by local authority, mid-2022 to mid-2047"
+    },
+    {
+      "type": "p",
+      "h2": "6. Variant projections",
+      "h3": null,
+      "h4": "Figure 4: The variant population projections showing a range of future demographic scenarios by local authority, mid-2022 to mid-2047",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "6. Variant projections",
+      "h3": null,
+      "h4": "Figure 4: The variant population projections showing a range of future demographic scenarios by local authority, mid-2022 to mid-2047",
+      "h5": null,
+      "title": "Figure 4: The variant population projections showing a range of future demographic scenarios by local authority, mid-2022 to mid-2047",
+      "url": "/visualisations/dvc3280/fig04/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "7. Glossary",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "7. Glossary"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "7. Glossary",
+      "h3": "Natural change",
+      "h4": null,
+      "h5": null,
+      "text": "Natural change"
+    },
+    {
+      "type": "p",
+      "h2": "7. Glossary",
+      "h3": "Natural change",
+      "h4": null,
+      "h5": null,
+      "text": "The difference between births and deaths."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "7. Glossary",
+      "h3": "Net migration",
+      "h4": null,
+      "h5": null,
+      "text": "Net migration"
+    },
+    {
+      "type": "p",
+      "h2": "7. Glossary",
+      "h3": "Net migration",
+      "h4": null,
+      "h5": null,
+      "text": "The difference between the number of people moving into and out of an area. Net migration consists of internal migration which is the movement of people between local authorities in England, cross-border migration which is the movement of people between England and the rest of the UK and international migration."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "7. Glossary",
+      "h3": "Internal migration",
+      "h4": null,
+      "h5": null,
+      "text": "Internal migration"
+    },
+    {
+      "type": "p",
+      "h2": "7. Glossary",
+      "h3": "Internal migration",
+      "h4": null,
+      "h5": null,
+      "text": "Movement of people between local authorities within England."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "7. Glossary",
+      "h3": "Cross-border migration",
+      "h4": null,
+      "h5": null,
+      "text": "Cross-border migration"
+    },
+    {
+      "type": "p",
+      "h2": "7. Glossary",
+      "h3": "Cross-border migration",
+      "h4": null,
+      "h5": null,
+      "text": "Movement of people between England and the rest of the UK."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "7. Glossary",
+      "h3": "International migration",
+      "h4": null,
+      "h5": null,
+      "text": "International migration"
+    },
+    {
+      "type": "p",
+      "h2": "7. Glossary",
+      "h3": "International migration",
+      "h4": null,
+      "h5": null,
+      "text": "The movement of people into and out of the UK."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "8. Data sources and quality",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "8. Data sources and quality"
+    },
+    {
+      "type": "p",
+      "h2": "8. Data sources and quality",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The 2022-based subnational population projections provide statistics on the potential future size and age structure of the population in England at region, county, local authority, Sub Integrated Care Boards and NHS England region levels. They are used in the production of the 2022-based household projections for local authorities, to be published later in 2025. This publication supersedes the previous (2018-based) projections."
+    },
+    {
+      "type": "p",
+      "h2": "8. Data sources and quality",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The projections take our [Population estimates for the UK, England, Wales, Scotland, and Northern Ireland: mid-2022](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/annualmidyearpopulationestimates/mid2022), published on 26 March 2024, as the starting point. The projected local authority populations for each year are calculated by ageing on the population from the previous year, applying local fertility and mortality rates to calculate the number of projected births and deaths, and then adjusting for migration into and out of each local authority."
+    },
+    {
+      "type": "p",
+      "h2": "8. Data sources and quality",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The total projected population for England is also constrained to our [National population projections: 2022-based](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/bulletins/nationalpopulationprojections/2022based) for England, by single year of age and sex, for each year of the projection."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "8. Data sources and quality",
+      "h3": "Strengths and limitations",
+      "h4": null,
+      "h5": null,
+      "text": "Strengths and limitations"
+    },
+    {
+      "type": "p",
+      "h2": "8. Data sources and quality",
+      "h3": "Strengths and limitations",
+      "h4": null,
+      "h5": null,
+      "text": "Subnational population projections are produced across all areas in England, using a consistent methodology, so that they are relevant to all types of users. They are used in a number of ways, including:"
+    },
+    {
+      "type": "li",
+      "h2": "8. Data sources and quality",
+      "h3": "Strengths and limitations",
+      "h4": null,
+      "h5": null,
+      "text": "for local planning of health, education and other service provisions"
+    },
+    {
+      "type": "li",
+      "h2": "8. Data sources and quality",
+      "h3": "Strengths and limitations",
+      "h4": null,
+      "h5": null,
+      "text": "as a basis for household projections"
+    },
+    {
+      "type": "li",
+      "h2": "8. Data sources and quality",
+      "h3": "Strengths and limitations",
+      "h4": null,
+      "h5": null,
+      "text": "as a basis for projections produced by other organisations"
+    },
+    {
+      "type": "p",
+      "h2": "8. Data sources and quality",
+      "h3": "Strengths and limitations",
+      "h4": null,
+      "h5": null,
+      "text": "Dependent on timing of central government planning rounds, they are also sometimes used in the assessment of local authority needs and the funding formula."
+    },
+    {
+      "type": "p",
+      "h2": "8. Data sources and quality",
+      "h3": "Strengths and limitations",
+      "h4": null,
+      "h5": null,
+      "text": "Since projections are produced in a consistent way, they can be used as a common framework for informing local-level policy and planning; local areas are advised to supplement them with any local information they have."
+    },
+    {
+      "type": "p",
+      "h2": "8. Data sources and quality",
+      "h3": "Strengths and limitations",
+      "h4": null,
+      "h5": null,
+      "text": "The assumptions used in the subnational population projections are based on past trends. However, demographic behaviour is inherently uncertain, so projections become increasingly uncertain the further they are carried forward. This is particularly so for smaller geographical areas and detailed age and sex breakdowns. In the longer term, demographic patterns are increasingly likely to differ from recent trends. This bulletin focuses on the first 10 years of the projections, up to mid-2032. The data files published with this release include projections going forward 25 years to mid-2047."
+    },
+    {
+      "type": "p",
+      "h2": "8. Data sources and quality",
+      "h3": "Strengths and limitations",
+      "h4": null,
+      "h5": null,
+      "text": "The projections are not forecasts and take no account of local development aims, policies on growth, capacity to accommodate population change, or economic factors that could affect the population in the future. As with the national population projections, they also do not try to predict any potential demographic consequences of future political or economic changes."
+    },
+    {
+      "type": "p",
+      "h2": "8. Data sources and quality",
+      "h3": "Strengths and limitations",
+      "h4": null,
+      "h5": null,
+      "text": "There is already a margin of error in the underlying input data used in the projections, for example, estimates of the current population and past migration flows. In addition, our assumptions about the future cannot be certain, as patterns of births, deaths, and migration are always liable to change and can be influenced by many factors. As a result of this, actual future population size can deviate from that which is projected."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "8. Data sources and quality",
+      "h3": "More quality and methodology information",
+      "h4": null,
+      "h5": null,
+      "text": "More quality and methodology information"
+    },
+    {
+      "type": "p",
+      "h2": "8. Data sources and quality",
+      "h3": "More quality and methodology information",
+      "h4": null,
+      "h5": null,
+      "text": "More quality and methodology information on strengths, limitations, appropriate uses, and how the data were created is available in our [Subnational population projections QMI](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/methodologies/subnationalpopulationprojectionsqmi)."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "9. Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "9. Related links"
+    },
+    {
+      "type": "p",
+      "h2": "9. Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": "9. Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "[Subnational population projections QMI](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/methodologies/subnationalpopulationprojectionsqmi)\n Methodology | Released 24 June 2025\n Quality and Methodology Information (QMI) report for subnational population projections, detailing the strengths and limitations of the data, methods used, and data uses and users.\n\n[Methodology used to produce the 2022-based subnational population projections for England](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/methodologies/methodologyusedtoproducethe2022basedsubnationalpopulationsprojectionsforengland)\n Methodology | Released 24 June 2025\n Methods, data and components used to produce subnational population projections.\n\n[Comparing subnational population projections to estimates report](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/methodologies/comparingsubnationalpopulationprojectionstoestimatesreport)\n Methodology | Released 24 June 2025\n Methodology article comparing the 2012-, 2014-, 2016- and 2018-based subnational population projections for 2021 with the 2021 mid-year estimates for England. Analysis includes the impact of rebasing and different components of change on SNPP accuracy.\n\n[National population projections: 2022-based](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/bulletins/nationalpopulationprojections/2022based)\n Bulletin | Released 28 January 2025\n The potential future population size of the UK and its constituent countries. These statistics are widely used in planning, including fiscal projections, health, education and pensions.",
+      "box_items": null
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "10. Cite this statistical bulletin",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "10. Cite this statistical bulletin"
+    },
+    {
+      "type": "p",
+      "h2": "10. Cite this statistical bulletin",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": "10. Cite this statistical bulletin",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "Office for National Statistics (ONS), released 24 June 2025, ONS website, statistical bulletin, [Subnational population projections for England: 2022-based](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/bulletins/subnationalpopulationprojectionsforengland/2022based)",
+      "box_items": null
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "10. Cite this statistical bulletin",
+      "h3": "Contact details for this Statistical bulletin",
+      "h4": null,
+      "h5": null,
+      "text": "Contact details for this Statistical bulletin"
+    }
+  ],
+  "scraped_at": "2026-09-22 11:48:58.415796"
+}

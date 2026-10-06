@@ -1,0 +1,1011 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/moreinformationondatasourcesrelatedtocoronaviruscovid19/2020-12-11",
+  "title": "More information on data sources related to coronavirus (COVID-19)",
+  "meta_description": "The different data sources presented in the coronavirus (COVID-19) latest insights tool and explanations of the different applications and collection methods for the datasets available.",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Health and social care",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare"
+    },
+    {
+      "text": "Coronavirus (COVID-19)",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases"
+    },
+    {
+      "text": "More information on data sources related to coronavirus (COVID-19)",
+      "href": null
+    }
+  ],
+  "date_published": "2023-02-22T00:00:00.000Z",
+  "date_modified": "2023-02-22T00:00:00.000Z",
+  "lede": "Overview of different data sources presented in the coronavirus (COVID-19) latest insights tool and explanations of the different applications and collection methods for the datasets available.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "22 February 2023"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Back to latest](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19/latestinsights)"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Explore by topic",
+      "h4": null,
+      "h5": null,
+      "text": "Explore by topic"
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Explore by topic",
+      "h4": null,
+      "h5": null,
+      "title": null,
+      "url": null
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Overview of latest insights tool",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Overview of latest insights tool"
+    },
+    {
+      "type": "p",
+      "h2": "Overview of latest insights tool",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "\n The Coronavirus (COVID-19) latest insights tool helps users easily find the latest information related to the pandemic. It primarily uses data from the Office for National Statistics (ONS), but where appropriate we include data from other sources. This page provides information on the data used and explains how these can differ from other reported figures. We welcome any feedback or questions you might have."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "On this page",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "On this page"
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": "On this page",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "",
+      "box_items": [
+        "[Infections](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/moreinformationondatasourcesrelatedtocoronaviruscovid19/2020-12-11#infections)",
+        "[COVID-19 variants](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/moreinformationondatasourcesrelatedtocoronaviruscovid19/2020-12-11#covid-19-variants)",
+        "[Hospital, ICU and HDU admissions](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/moreinformationondatasourcesrelatedtocoronaviruscovid19/2020-12-11#hospital-admissions)",
+        "[Deaths](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/moreinformationondatasourcesrelatedtocoronaviruscovid19/2020-12-11#deaths)",
+        "[Antibodies](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/moreinformationondatasourcesrelatedtocoronaviruscovid19/2020-12-11#antibodies)",
+        "[Vaccinations](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/moreinformationondatasourcesrelatedtocoronaviruscovid19/2020-12-11#vaccinations)",
+        "[Lifestyle and well-being](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/moreinformationondatasourcesrelatedtocoronaviruscovid19/2020-12-11#lifestyle-and-well-being)",
+        "[ONS data in the Latest insights tool](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/moreinformationondatasourcesrelatedtocoronaviruscovid19/2020-12-11#ons-data-in-the-latest-insights-tool)",
+        "[Other ONS data](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/moreinformationondatasourcesrelatedtocoronaviruscovid19/2020-12-11#other-ons-data)",
+        "[Related links](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/moreinformationondatasourcesrelatedtocoronaviruscovid19/2020-12-11#related-links)"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Infections",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Infections"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Infections",
+      "h3": null,
+      "h4": "Coronavirus (COVID-19) Infection Survey",
+      "h5": null,
+      "text": "Coronavirus (COVID-19) Infection Survey"
+    },
+    {
+      "type": "p",
+      "h2": "Infections",
+      "h3": null,
+      "h4": "Coronavirus (COVID-19) Infection Survey",
+      "h5": null,
+      "text": "The Office for National Statistics (ONS) [Coronavirus (COVID-19) Infection Survey](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/latest) estimates the number of infections in the community population in England, Wales, Northern Ireland and Scotland."
+    },
+    {
+      "type": "p",
+      "h2": "Infections",
+      "h3": null,
+      "h4": "Coronavirus (COVID-19) Infection Survey",
+      "h5": null,
+      "text": "People tested are from randomly selected private residential households and may or may not have any COVID-19 symptoms. Nose and throat swabs are taken from all household members aged 2 years and over. It excludes those in hospitals, care homes or other institutional settings. Positivity rates are calculated for seven-day periods and adjusted to represent the population."
+    },
+    {
+      "type": "p",
+      "h2": "Infections",
+      "h3": null,
+      "h4": "Coronavirus (COVID-19) Infection Survey",
+      "h5": null,
+      "text": "Results are published in a [weekly bulletin](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/latest), with releases on the [characteristics of people testing positive](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveycharacteristicsofpeopletestingpositiveforcovid19uk/latest) and [antibody data](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveyantibodyandvaccinationdatafortheuk/latest) published fortnightly. Results from this survey are also used to estimate the [prevalence of ongoing symptoms following COVID-19 infection](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/prevalenceofongoingsymptomsfollowingcoronaviruscovid19infectionintheuk/latest). The survey is delivered in partnership with University of Oxford, University of Manchester, UK Health Security Agency and Wellcome Trust."
+    },
+    {
+      "type": "p",
+      "h2": "Infections",
+      "h3": null,
+      "h4": "Coronavirus (COVID-19) Infection Survey",
+      "h5": null,
+      "text": "[Read more about the Coronavirus (COVID-19) Infection Survey methodology](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/methodologies/covid19infectionsurveypilotmethodsandfurtherinformation)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Infections",
+      "h3": null,
+      "h4": "CIS Quality Report",
+      "h5": null,
+      "text": "CIS Quality Report"
+    },
+    {
+      "type": "p",
+      "h2": "Infections",
+      "h3": null,
+      "h4": "CIS Quality Report",
+      "h5": null,
+      "text": "Our recent [blog post](https://blog.ons.gov.uk/2022/07/04/the-covid-19-infection-survey-is-changing-what-does-this-mean-for-how-the-uk-monitors-the-virus/) details the changes in the Coronavirus Infection Survey data collection method change from study worker home visit to remote collection. For information on the impact to the Coronavirus Infection Survey, please see our [first Coronavirus Infection Survey (CIS) quality report](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/methodologies/coronaviruscovid19infectionsurveyqualityreportaugust2022), [Coronavirus Infection Survey (CIS) second quality report](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/methodologies/coronaviruscovid19infectionsurveyqualityreportseptember2022) and [Coronavirus Infection Survey (CIS) third quality report](https://www.ons.gov.uk/releases/coronaviruscovid19infectionsurveyqualityreportdecember2022)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Infections",
+      "h3": null,
+      "h4": "Differences in infection data sources",
+      "h5": null,
+      "text": "Differences in infection data sources"
+    },
+    {
+      "type": "p",
+      "h2": "Infections",
+      "h3": null,
+      "h4": "Differences in infection data sources",
+      "h5": null,
+      "text": "[NHS Test and Trace data](https://coronavirus.data.gov.uk/details/cases) are the data used by the government for their daily updates. Up to 31 March 2022, these data referred to new infections in the community, hospitals and care homes that were identified through polymerase chain reaction (PCR) or lateral flow device (LFD) tests. This includes those who experienced symptoms or were in contact with a known case."
+    },
+    {
+      "type": "p",
+      "h2": "Infections",
+      "h3": null,
+      "h4": "Differences in infection data sources",
+      "h5": null,
+      "text": "As of 1 April 2022, the NHS Test and Trace contact tracing service has closed, and most people are no longer advised to get tested."
+    },
+    {
+      "type": "p",
+      "h2": "Infections",
+      "h3": null,
+      "h4": "Differences in infection data sources",
+      "h5": null,
+      "text": "More information on the different [methods used in the CIS and NHS Test and Trace](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/comparingmethodsusedinthecoronaviruscovid19infectionsurveyandnhstestandtraceengland/october2020) is available in a comparative article."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Infections",
+      "h3": null,
+      "h4": "Schools Infection Survey",
+      "h5": null,
+      "text": "Schools Infection Survey"
+    },
+    {
+      "type": "p",
+      "h2": "Infections",
+      "h3": null,
+      "h4": "Schools Infection Survey",
+      "h5": null,
+      "text": "The COVID-19 Schools Infection Survey aimed to investigate the prevalence of current COVID-19 infections and antibodies among pupils and staff in sampled primary and secondary schools in England, measured at half-termly intervals during the school year."
+    },
+    {
+      "type": "p",
+      "h2": "Infections",
+      "h3": null,
+      "h4": "Schools Infection Survey",
+      "h5": null,
+      "text": "The study oversampled schools in high prevalence areas of the country. For further detail on sample design please see our accompanying [COVID-19 Schools Infection Survey: methods and further information article](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/methodologies/covid19schoolsinfectionsurveymethodsandfurtherinformation)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Infections",
+      "h3": null,
+      "h4": "Prevalence of ongoing symptoms",
+      "h5": null,
+      "text": "Prevalence of ongoing symptoms"
+    },
+    {
+      "type": "p",
+      "h2": "Infections",
+      "h3": null,
+      "h4": "Prevalence of ongoing symptoms",
+      "h5": null,
+      "text": "Data from the Coronavirus (COVID-19) Infection Survey are used to estimate the [prevalence of self-reported long COVID](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/prevalenceofongoingsymptomsfollowingcoronaviruscovid19infectionintheuk/latest) and the impact this has on daily life. These estimates relate to self-reported long COVID, which is defined as symptoms persisting for more than four weeks after the first suspected COVID-19 infection that are not explained by something else. This differs from a clinical diagnosis of ongoing symptomatic COVID-19 or post-COVID-19 syndrome."
+    },
+    {
+      "type": "p",
+      "h2": "Infections",
+      "h3": null,
+      "h4": "Prevalence of ongoing symptoms",
+      "h5": null,
+      "text": "More information on approaches to measuring and defining self-reported long COVID can be found in our [technical article](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/technicalarticleupdatedestimatesoftheprevalenceofpostacutesymptomsamongpeoplewithcoronaviruscovid19intheuk/26april2020to1august2021)."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "COVID-19 variants",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "COVID-19 variants"
+    },
+    {
+      "type": "p",
+      "h2": "COVID-19 variants",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "\n The [World Health Organization (WHO) have defined names for Variants of Concern](https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/). These are variants that the UK government has under surveillance. You can read more in the latest [SARS-CoV-2 variants of concern and variants under investigation in England briefing document](https://www.gov.uk/government/publications/investigation-of-sars-cov-2-variants-technical-briefings) and can [read more about variants](https://blog.ons.gov.uk/2021/01/29/understanding-the-uk-variant-how-the-ons-is-monitoring-the-new-strain-of-covid-19/) in our blog."
+    },
+    {
+      "type": "p",
+      "h2": "COVID-19 variants",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Current UK variants of concern are:"
+    },
+    {
+      "type": "li",
+      "h2": "COVID-19 variants",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Omicron: B.1.1.529 (which includes sublineages BA.1, BA.2, BA.4 and BA.5)"
+    },
+    {
+      "type": "p",
+      "h2": "COVID-19 variants",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Previous UK variants of concern were:"
+    },
+    {
+      "type": "li",
+      "h2": "COVID-19 variants",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Alpha: B.1.1.7"
+    },
+    {
+      "type": "li",
+      "h2": "COVID-19 variants",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Beta: B.1.351"
+    },
+    {
+      "type": "li",
+      "h2": "COVID-19 variants",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Delta B.1.617.2"
+    },
+    {
+      "type": "li",
+      "h2": "COVID-19 variants",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Gamma: P.1"
+    },
+    {
+      "type": "p",
+      "h2": "COVID-19 variants",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The variant periods are often split by the dates in which they were the most dominant in the UK; that is, when they comprised over 60% of the total number of sequenced cases. These variant periods are as follows:"
+    },
+    {
+      "type": "li",
+      "h2": "COVID-19 variants",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Pre-alpha (sometimes referred to as “wild type”), which is the period before the week ending 18 December 2020"
+    },
+    {
+      "type": "li",
+      "h2": "COVID-19 variants",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Alpha, which is from the week ending 18 December 2020 to the week ending 15 May 2021"
+    },
+    {
+      "type": "li",
+      "h2": "COVID-19 variants",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Delta, which is from the week ending 22 May 2021 to the week ending 19 December 2021"
+    },
+    {
+      "type": "li",
+      "h2": "COVID-19 variants",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Omicron, which is from the week ending 23 December 2021"
+    },
+    {
+      "type": "p",
+      "h2": "COVID-19 variants",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The Omicron-variant period can also be split into subvariants. The dates that these were dominant are:"
+    },
+    {
+      "type": "li",
+      "h2": "COVID-19 variants",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "20 December 2021 to 1 March 2022 for the Omicron BA.1 variant"
+    },
+    {
+      "type": "li",
+      "h2": "COVID-19 variants",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "2 March to 15 June 2022 for the Omicron BA.2 variant"
+    },
+    {
+      "type": "li",
+      "h2": "COVID-19 variants",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "16 June 2022 onwards (at least up to December 2022) for the Omicron BA.4 and BA.5 variants"
+    },
+    {
+      "type": "p",
+      "h2": "COVID-19 variants",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Other variants were also in circulation over these time periods. More information on how variant data are collected can be found in our [Coronavirus (COVID-19) Infection Survey: methods and further information article.](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/methodologies/covid19infectionsurveypilotmethodsandfurtherinformation)"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Hospital, ICU and HDU admissions",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Hospital, ICU and HDU admissions"
+    },
+    {
+      "type": "p",
+      "h2": "Hospital, ICU and HDU admissions",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "\n Hospital data in the Coronavirus (COVID-19) latest insights tool cover England. They are provided by the [UK Health Security Agency](https://www.gov.uk/government/statistics/national-flu-and-covid-19-surveillance-reports-2021-to-2022-season#history) and come from the Severe Acute Respiratory Infection (SARI) Watch surveillance system. SARI Watch monitors the number of patients with confirmed flu and COVID-19 admitted to hospital and critical care units (ICU and HDU). The [COVID-19 latest insights tool](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19/latestinsights) presents overall hospital admission rates and intensive care unit (ICU) and high-dependency unit (HDU) admission rates per 100,000 people. Admission rates are recorded by age and region. These data are provisional and subject to revision, and previous estimates may be updated in subsequent weeks. Admission data include all admissions with a positive COVID-19 test, including patients who tested positive for COVID-19 after being admitted for another reason."
+    },
+    {
+      "type": "p",
+      "h2": "Hospital, ICU and HDU admissions",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "More detailed information on hospitals and health is available on each of the relevant nation's websites: [Public Health Agency](https://www.publichealth.hscni.net/) (PHA) for Northern Ireland, [Public Health Scotland](https://www.publichealthscotland.scot/) (PHS), and [Public Health Wales](https://phw.nhs.wales/) (PHW)."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Deaths",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Deaths"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Deaths",
+      "h3": null,
+      "h4": "Coronavirus (COVID-19) weekly deaths",
+      "h5": null,
+      "text": "Coronavirus (COVID-19) weekly deaths"
+    },
+    {
+      "type": "p",
+      "h2": "Deaths",
+      "h3": null,
+      "h4": "Coronavirus (COVID-19) weekly deaths",
+      "h5": null,
+      "text": "The Office for National Statistics' (ONS's) [weekly provisional counts of the number of deaths registered in](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/latest)England and Wales includes all deaths with the coronavirus (COVID-19) mentioned on the death certificate. This release includes data from England, Wales, Northern Ireland and Scotland, and provides a figure of total UK deaths. This dataset provides counts based on the date the death was registered, as well as when it occurred."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths",
+      "h3": null,
+      "h4": "Coronavirus (COVID-19) weekly deaths",
+      "h5": null,
+      "text": "Charts presented in the [COVID-19 latest insights tool](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19/latestinsights) show deaths by the date of registration, not the date of occurrence. This is because the number of deaths that occur on any given date can change retrospectively as more deaths are registered. There is on average a delay of five days between occurrence and registration. More information on this issue can be found in the [Impact of registration delays release](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/impactofregistrationdelaysonmortalitystatisticsinenglandandwales/2018)."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths",
+      "h3": null,
+      "h4": "Coronavirus (COVID-19) weekly deaths",
+      "h5": null,
+      "text": "This dataset also provides breakdowns of deaths by region, sex and age group. More information can be found through the ONS's [mortality statistics quality and methodology information page](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/methodologies/mortalitystatisticsinenglandandwalesqmi) and in the [User guide to mortality statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/methodologies/userguidetomortalitystatisticsjuly2017)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Deaths",
+      "h3": null,
+      "h4": "Differences in data sources measuring COVID-19 deaths",
+      "h5": null,
+      "text": "Differences in data sources measuring COVID-19 deaths"
+    },
+    {
+      "type": "p",
+      "h2": "Deaths",
+      "h3": null,
+      "h4": "Differences in data sources measuring COVID-19 deaths",
+      "h5": null,
+      "text": "Figures in the Coronavirus (COVID-19) latest insights tool are different from the daily [surveillance figures](https://coronavirus.data.gov.uk/details/deaths) on COVID-19 deaths published by the UK Health Security Agency."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths",
+      "h3": null,
+      "h4": "Differences in data sources measuring COVID-19 deaths",
+      "h5": null,
+      "text": "Our data are collected using the cause of death noted on death certificates in England and Wales. This could include instances where a possible case of COVID-19 was diagnosed by a doctor, but no test for the virus was conducted. It also distinguishes between deaths where COVID-19 was a contributing factor, and deaths due to COVID-19."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths",
+      "h3": null,
+      "h4": "Differences in data sources measuring COVID-19 deaths",
+      "h5": null,
+      "text": "Government surveillance figures provide daily and cumulative deaths within 28 days of a positive test. These figures provide an early view of mortality trends and are typically available two weeks earlier than the weekly death registrations published by the ONS. Data do not include deaths of people with COVID-19 who did not get tested. As a result, data will be affected by the number of tests being conducted and changes to testing availability and guidance."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths",
+      "h3": null,
+      "h4": "Differences in data sources measuring COVID-19 deaths",
+      "h5": null,
+      "text": "A [statement](https://www.ons.gov.uk/news/statementsandletters/thedifferentusesoffiguresondeathsfromcovid19publishedbydhscandtheons) was published by the Office for National Statistics (ONS), which provides more detail of the differences. Data on weekly deaths in Northern Ireland and Scotland are published by the [National Records of Scotland](https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/vital-events/general-publications/weekly-and-monthly-data-on-births-and-deaths-registered-in-scotland) and [Northern Ireland Statistics and Research Agency](https://www.nisra.gov.uk/publications/weekly-deaths)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Deaths",
+      "h3": null,
+      "h4": "Lags between infections and deaths",
+      "h5": null,
+      "text": "Lags between infections and deaths"
+    },
+    {
+      "type": "p",
+      "h2": "Deaths",
+      "h3": null,
+      "h4": "Lags between infections and deaths",
+      "h5": null,
+      "text": "There is a delay (lag) between a person becoming infected with COVID-19 and being admitted to hospital or dying, and this is reflected in a lag in trends. Peaks in deaths from COVID-19 typically are seen approximately three weeks after peaks in infections. More detail on these lags can be found in our [Coronavirus (COVID-19) Infection Survey technical article: waves and lags of COVID-19 in England, June 2021](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19infectionsurveytechnicalarticle/wavesandlagsofcovid19inenglandjune2021) article."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Deaths",
+      "h3": null,
+      "h4": "Monthly mortality and other analysis",
+      "h5": null,
+      "text": "Monthly mortality and other analysis"
+    },
+    {
+      "type": "p",
+      "h2": "Deaths",
+      "h3": null,
+      "h4": "Monthly mortality and other analysis",
+      "h5": null,
+      "text": "[Monthly mortality analysis](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/monthlymortalityanalysisenglandandwales/july2020) provides surveillance of mortality in England and Wales, with provisional death registration and death occurrence data broken down by sex, age and country published approximately 20 days after the end of each month; this also includes age-standardised rates for deaths due to COVID-19 and analysis of the leading causes of death in each month."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths",
+      "h3": null,
+      "h4": "Monthly mortality and other analysis",
+      "h5": null,
+      "text": "Additional releases looking into specific areas are also published on an ad-hoc basis. These include [Deaths involving COVID-19 by vaccination status](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsinvolvingcovid19byvaccinationstatusengland/latest) and [Comparisons of all-cause mortality between European countries and regions](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/comparisonsofallcausemortalitybetweeneuropeancountriesandregions/latest)."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths",
+      "h3": null,
+      "h4": "Monthly mortality and other analysis",
+      "h5": null,
+      "text": "More quality and methodology information on strengths, limitations, appropriate uses, and how the data were created is available in the [Mortality statistics in England and Wales QMI](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/methodologies/mortalitystatisticsinenglandandwalesqmi) and the [User guide to mortality statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/methodologies/userguidetomortalitystatisticsjuly2017)."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Antibodies",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Antibodies"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Antibodies",
+      "h3": null,
+      "h4": "Coronavirus (COVID-19) Infection Survey",
+      "h5": null,
+      "text": "Coronavirus (COVID-19) Infection Survey"
+    },
+    {
+      "type": "p",
+      "h2": "Antibodies",
+      "h3": null,
+      "h4": "Coronavirus (COVID-19) Infection Survey",
+      "h5": null,
+      "text": "The Office for National Statistics (ONS) [Coronavirus (COVID-19) Infection Survey (CIS)](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveyantibodyandvaccinationdatafortheuk/latest) estimates antibody positivity in the community population in England, Wales, Northern Ireland and Scotland."
+    },
+    {
+      "type": "p",
+      "h2": "Antibodies",
+      "h3": null,
+      "h4": "Coronavirus (COVID-19) Infection Survey",
+      "h5": null,
+      "text": "The analysis on antibodies in this article is based on blood test results taken from a randomly selected subsample of individuals aged 8 years and over who live in private households. Blood is taken using a capillary finger prick method that participants do themselves and tested using an ELISA test (enzyme-linked immunosorbent assay) for immunoglobins IgG based on SARS-CoV-2 trimeric spike protein."
+    },
+    {
+      "type": "p",
+      "h2": "Antibodies",
+      "h3": null,
+      "h4": "Coronavirus (COVID-19) Infection Survey",
+      "h5": null,
+      "text": "Antibody positivity figures until 7 December 2020 are estimates for 28-day periods weighted by age, sex, region, and ethnicity to represent the population. From 7 December 2020 onwards estimates are produced for each week based on a model for each UK nation. The antibodies model for Great Britain is run at a regional level and includes ethnicity, vaccine priority age groups, and sex. The antibody model for Northern Ireland is a temporal model (no spatial component) and accounts for sex and age in wider groups (because of lower sample size)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Antibodies",
+      "h3": null,
+      "h4": "Real-time Assessment of Community Transmission (REACT) Study",
+      "h5": null,
+      "text": "Real-time Assessment of Community Transmission (REACT) Study"
+    },
+    {
+      "type": "p",
+      "h2": "Antibodies",
+      "h3": null,
+      "h4": "Real-time Assessment of Community Transmission (REACT) Study",
+      "h5": null,
+      "text": "Participants of the [REACT-2 study](https://www.imperial.ac.uk/medicine/research-and-impact/groups/react-study/the-react-2-programme/) were randomly selected from the NHS patient list, which included everybody registered with a GP in England. Participants completed questionnaires, including demographic details and clinical and COVID-19 vaccination histories, and self-administered a lateral flow immunoassay (LFIA) test to detect IgG against SARS-CoV-2 spike protein. REACT-2 figures were adjusted for test sensitivity and specificity to obtain antibody prevalence. REACT was commissioned by the Department of Health and Social Care (DHSC) and carried out by Imperial College in partnership with Ipsos MORI. Results from the final round of REACT-2 were published in July 2021."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Antibodies",
+      "h3": null,
+      "h4": "UK Health Security Agency sero-surveillance",
+      "h5": null,
+      "text": "UK Health Security Agency sero-surveillance"
+    },
+    {
+      "type": "p",
+      "h2": "Antibodies",
+      "h3": null,
+      "h4": "UK Health Security Agency sero-surveillance",
+      "h5": null,
+      "text": "The UK Health Security Agency publishes antibody positivity based on testing samples from healthy adult blood donors aged 17 years and older, supplied by NHS Blood and Transplant (NHS BT) as part of the [UKHSA sero-surveillance programme](https://www.gov.uk/government/publications/covid-19-vaccine-weekly-surveillance-reports). Antibody positivity estimates are calculated on a 12-week rolling basis that reduces to eight weeks in the most recent weeks to allow for a more up-to-date estimate. These are weighted by NHS region, age group and sex to represent the population."
+    },
+    {
+      "type": "p",
+      "h2": "Antibodies",
+      "h3": null,
+      "h4": "UK Health Security Agency sero-surveillance",
+      "h5": null,
+      "text": "Samples are tested using two different antibody assays: one testing for antibodies against coronavirus spike protein (Roche S assay) and since December also using an assay testing for antibodies against nucleoprotein (Roche N assay). Currently approved vaccines against SARS-CoV-2 include genes for the spike (S) protein of COVID-19. Therefore, Roche N assays will only detect post-infection antibodies, while Roche S assays will detect both post-infection antibodies and vaccine-induced antibodies. Dual testing of samples allows estimation of the antibody prevalence due to vaccination (i.e. samples that are S positive and N negative). Both CIS and REACT-2 use tests checking for antibodies against the spike protein of COVID-19, which can reflect both infections and vaccinations."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Antibodies",
+      "h3": null,
+      "h4": "COVID-19 Schools Infection Survey",
+      "h5": null,
+      "text": "COVID-19 Schools Infection Survey"
+    },
+    {
+      "type": "p",
+      "h2": "Antibodies",
+      "h3": null,
+      "h4": "COVID-19 Schools Infection Survey",
+      "h5": null,
+      "text": "The [Coronavirus (COVID-19) Schools Infection Survey](https://www.ons.gov.uk/surveys/informationforhouseholdsandindividuals/householdandindividualsurveys/covid19schoolsinfectionsurveysis) estimates the percentage of pupils with antibodies against COVID-19. Pupils are tested using oral-fluid samples because this is a non-invasive alternative to collecting blood. Tests detect antibodies against nucleoprotein (N) from natural infection and antibodies against coronavirus spike protein (S) from vaccination."
+    },
+    {
+      "type": "p",
+      "h2": "Antibodies",
+      "h3": null,
+      "h4": "COVID-19 Schools Infection Survey",
+      "h5": null,
+      "text": "Previously, staff were tested from blood samples and pupils were tested using oral-fluid samples using assays that detected antibodies against nucleoprotein (N) of COVID-19. These tests only detected antibodies from a previous infection, not from vaccination."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Antibodies",
+      "h3": null,
+      "h4": "Antibody threshold levels and unit measurement",
+      "h5": null,
+      "text": "Antibody threshold levels and unit measurement"
+    },
+    {
+      "type": "p",
+      "h2": "Antibodies",
+      "h3": null,
+      "h4": "Antibody threshold levels and unit measurement",
+      "h5": null,
+      "text": "The test used in the [Coronavirus (COVID-19) Infection Survey (CIS)](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19infectionsurveyantibodydatafortheuk/latest) for spike antibodies measures their concentration in nanograms per millilitre (ng/ml). As the pandemic has evolved, we have reviewed how we present information about antibody levels. The 179 ng/ml antibody level corresponds to 100 binding antibody units per millilitre (BAU/ml) using the World Health Organisation’s standardised units (enabling comparison across different antibody assays). Our 179 ng/ml level reflects the percentage of adults likely to have a sufficiently strong antibody response to provide some protection from getting a new COVID-19 infection with the Delta variant. This level is unlikely to provide equivalent protection against the Omicron variant. There is not sufficient evidence available yet to determine the appropriate level for this."
+    },
+    {
+      "type": "p",
+      "h2": "Antibodies",
+      "h3": null,
+      "h4": "Antibody threshold levels and unit measurement",
+      "h5": null,
+      "text": "From the week beginning 11 April 2022, we present additional data on a higher level of 800 ng/ml. This is the highest level which can produce a historic back-series and enables enhanced monitoring of antibody levels and waning. Levels at 2,000 ng/ml, 4,000 ng/ml and 6,000 ng/ml were also recently introduced to identify higher concentrations of antibodies in the blood. These higher levels provide a more informative view of population antibody levels and give earlier indication of antibody levels waning."
+    },
+    {
+      "type": "p",
+      "h2": "Antibodies",
+      "h3": null,
+      "h4": "Antibody threshold levels and unit measurement",
+      "h5": null,
+      "text": "[UK Health Security Agency](https://www.gov.uk/government/publications/covid-19-vaccine-weekly-surveillance-reports) data from NHS Blood and Transplant (NHS-BT) use the Roche S assay for serological surveillance. It measures the level of antibodies in a blood sample; an antibody level above 0.8 AU/ml (approximately 1 IU/ml using the WHO standard) is deemed positive."
+    },
+    {
+      "type": "p",
+      "h2": "Antibodies",
+      "h3": null,
+      "h4": "Antibody threshold levels and unit measurement",
+      "h5": null,
+      "text": "[REACT-2 study](https://www.imperial.ac.uk/medicine/research-and-impact/groups/react-study/the-react-2-programme/) used at-home self-administered lateral flow immunoassay (LFIA) tests which are generally less sensitive than laboratory assays. However, comprehensive laboratory evaluation and usability studies of the selected LFIA by REACT found it’s performance to be acceptable, in terms of sensitivity and specificity in comparison to a “gold standard” ELISA test."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Vaccinations",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Vaccinations"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Vaccinations",
+      "h3": null,
+      "h4": "Vaccination rates by occupation and socio-demographic characteristic",
+      "h5": null,
+      "text": "Vaccination rates by occupation and socio-demographic characteristic"
+    },
+    {
+      "type": "p",
+      "h2": "Vaccinations",
+      "h3": null,
+      "h4": "Vaccination rates by occupation and socio-demographic characteristic",
+      "h5": null,
+      "text": "Vaccination rates are estimated using the linked National Immunisation Management System (NIMS) and the Office for National Statistics (ONS) Public Health Data Asset (PHDA). This covers only a subset of the population and data may differ from administrative vaccination data published by NHS England."
+    },
+    {
+      "type": "p",
+      "h2": "Vaccinations",
+      "h3": null,
+      "h4": "Vaccination rates by occupation and socio-demographic characteristic",
+      "h5": null,
+      "text": "Data include people aged 18 years and over, alive at the time of the study, who were resident in England, registered with a general practitioner (GP) in 2019, and enumerated at the 2011 and 2021 Census."
+    },
+    {
+      "type": "p",
+      "h2": "Vaccinations",
+      "h3": null,
+      "h4": "Vaccination rates by occupation and socio-demographic characteristic",
+      "h5": null,
+      "text": "Socio-demographic characteristics (sex, ethnic group, religious affiliation, country of birth, English language proficiency, disability status, educational attainment, National Statistics Socio-economic Classification (NS-SEC) and household tenure) were derived from the 2011 Census."
+    },
+    {
+      "type": "p",
+      "h2": "Vaccinations",
+      "h3": null,
+      "h4": "Vaccination rates by occupation and socio-demographic characteristic",
+      "h5": null,
+      "text": "Occupation groups are determined using the Standard Occupational Classification (SOC) 2020 sub-major occupation groups and unit group occupations."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Vaccinations",
+      "h3": null,
+      "h4": "Coronavirus (COVID-19) Infection Survey",
+      "h5": null,
+      "text": "Coronavirus (COVID-19) Infection Survey"
+    },
+    {
+      "type": "p",
+      "h2": "Vaccinations",
+      "h3": null,
+      "h4": "Coronavirus (COVID-19) Infection Survey",
+      "h5": null,
+      "text": "The Office for National Statistics (ONS) [Coronavirus (COVID-19) Infection Survey](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19infectionsurveyantibodydatafortheuk/latest) estimates the proportion of people vaccinated and identifies characteristics associated with vaccination uptake. These estimates are based on modelling of the people visited in the survey in the community in a particular time period. Results are then adjusted (post-stratified) using population estimates to be representative. National Immunisation Management System (NIMS) administrative data are used to validate self-reported vaccination status for England."
+    },
+    {
+      "type": "p",
+      "h2": "Vaccinations",
+      "h3": null,
+      "h4": "Coronavirus (COVID-19) Infection Survey",
+      "h5": null,
+      "text": "The [GOV.UK coronavirus dashboard](https://coronavirus.data.gov.uk/) includes daily data for the UK and each constituent country on the actual number of people who have received a COVID-19 vaccination. This is based on individual vaccination records (administrative data held by each nation). Coronavirus (COVID-19) Infection Survey estimates are not the same as the figures in the UK coronavirus dashboard and there may be differences between our modelled estimates and these official figures, which are updated more regularly."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Lifestyle and well-being",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Lifestyle and well-being"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Lifestyle and well-being",
+      "h3": null,
+      "h4": "Opinions and Lifestyle Survey",
+      "h5": null,
+      "text": "Opinions and Lifestyle Survey"
+    },
+    {
+      "type": "p",
+      "h2": "Lifestyle and well-being",
+      "h3": null,
+      "h4": "Opinions and Lifestyle Survey",
+      "h5": null,
+      "text": "In response to the coronavirus (COVID-19) pandemic, the Opinions and Lifestyle Survey was adapted to collect data on [Coronavirus and the social impacts on Great Britain](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/latest). It provided insight into how people's personal, home and work lives have changed through the pandemic. The data showed these impacts among different parts of our society, for example, on people of different age, sex, health or from regions."
+    },
+    {
+      "type": "p",
+      "h2": "Lifestyle and well-being",
+      "h3": null,
+      "h4": "Opinions and Lifestyle Survey",
+      "h5": null,
+      "text": "From the period 30 March to 10 April 2022, changes were made to the OPN to provide ongoing indicators on a wide range of public opinion and societal issues. Changes were made to the survey design, for example, sample size, the questionnaire, and financial incentives to participate. Findings are now published in [Public opinions and social trends.](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopinionsandsocialtrendsgreatbritain/latest)"
+    },
+    {
+      "type": "p",
+      "h2": "Lifestyle and well-being",
+      "h3": null,
+      "h4": "Opinions and Lifestyle Survey",
+      "h5": null,
+      "text": "Data are collected using an online self-completion questionnaire. Individuals who did not want to or were unable to complete the survey online had the opportunity to take part over the phone. The results are weighted to be a representative sample for Great Britain. More information is presented in the [Further quality and methodology information for the Opinions and Lifestyle Survey.](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/methodologies/opinionsandlifestylesurveyqmi)"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Lifestyle and well-being",
+      "h3": null,
+      "h4": "Student Covid Insights Survey",
+      "h5": null,
+      "text": "Student Covid Insights Survey"
+    },
+    {
+      "type": "p",
+      "h2": "Lifestyle and well-being",
+      "h3": null,
+      "h4": "Student Covid Insights Survey",
+      "h5": null,
+      "text": "The Student Covid Insights Survey (SCIS) is a pilot study on the behaviours, plans, opinions and well-being of higher education students during the coronavirus pandemic. University students included are those that are studying on Foundation to Postgraduate level programmes at universities in England. Students are invited to take part via their email addresses held by the National Union of Students (NUS). The survey is completed online and all answers are self-reported. Findings from this survey are outlined in [Coronavirus and higher education students.](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandhighereducationstudents/latest)"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Lifestyle and well-being",
+      "h3": null,
+      "h4": "COVID-19 Test and Trace Cases Insights Survey",
+      "h5": null,
+      "text": "COVID-19 Test and Trace Cases Insights Survey"
+    },
+    {
+      "type": "p",
+      "h2": "Lifestyle and well-being",
+      "h3": null,
+      "h4": "COVID-19 Test and Trace Cases Insights Survey",
+      "h5": null,
+      "text": "The [COVID-19 Test and Trace Cases Insights Survey](https://www.ons.gov.uk/surveys/informationforhouseholdsandindividuals/householdandindividualsurveys/testandtracecasesinsightsstudy) aims to understand self-isolation experiences through telephone interviews using self-reported data. Data up to 8 March 2022 were collected as part of the [NHS Test and Trace contract tracing process.](https://www.gov.uk/guidance/nhs-test-and-trace-how-it-works#if-youre-contacted-by-nhs-test-and-trace-because-youve-been-in-close-contact-with-someone-who-has-tested-positive-for-covid-19) Respondents who were at or nearing the end of their 10-day self-isolation period were randomly selected to complete the survey."
+    },
+    {
+      "type": "p",
+      "h2": "Lifestyle and well-being",
+      "h3": null,
+      "h4": "COVID-19 Test and Trace Cases Insights Survey",
+      "h5": null,
+      "text": "Following the [Prime Minister's announcement that contact tracing would cease from 24 February 2022](https://www.gov.uk/government/publications/covid-19-response-living-with-covid-19/covid-19-response-living-with-covid-19), data collected from 17 March 2022 onwards refer to information collected at the time of registering a positive test. Since February 2022, the characteristics of the people taking COVID-19 tests have also likely changed as close contacts of positive cases are no longer informed."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Lifestyle and well-being",
+      "h3": null,
+      "h4": "Annual Population Survey ",
+      "h5": null,
+      "text": "Annual Population Survey "
+    },
+    {
+      "type": "p",
+      "h2": "Lifestyle and well-being",
+      "h3": null,
+      "h4": "Annual Population Survey ",
+      "h5": null,
+      "text": "The Annual Population Survey (APS) is a continuous household survey covering the UK with the aim of providing estimates between censuses of important social and labour market variables at a local area level. APS data uses a large sample size and allows for comparison with the back series of data starting in 2011. Data from the APS are used in [Personal well-being in the UK, quarterly.](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/personalwellbeingintheukquarterly/latest)"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "ONS data in the Latest insights tool",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "ONS data in the Latest insights tool"
+    },
+    {
+      "type": "p",
+      "h2": "ONS data in the Latest insights tool",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "\n"
+    },
+    {
+      "type": "box",
+      "h2": "ONS data in the Latest insights tool",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "[Coronavirus (COVID-19) Infection Survey](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/latest/relateddata) \nDataset | Updated weekly \nFindings from the Coronavirus (COVID-19) Infection Survey, England, Wales, Northern Ireland and Scotland\n\n[Coronavirus (COVID-19) Infection Survey, characteristics of people testing positive for COVID-19, UK](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/datasets/coronaviruscovid19infectionsinthecommunityinengland) \nDataset | Updated fortnightly \nCharacteristics of people testing positive for the coronavirus (COVID-19) in England taken from the COVID-19 Infection Survey.\n\n[Coronavirus (COVID-19) Infection Survey, antibody data, UK](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/datasets/coronaviruscovid19antibodydatafortheuk) \nDataset | Updated fortnightly \nAntibody and vaccination data by UK country and regions in England from the Coronavirus (COVID-19) Infection Survey. This analysis has been produced in partnership with University of Oxford, University of Manchester, Public Health England, and Wellcome Trust. This study is jointly led by the ONS and the Department for Health and Social Care (DHSC) working with the University of Oxford and UK Biocentre to collect and test samples.\n\n[Prevalence of ongoing symptoms following coronavirus (COVID-19) infection in the UK](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/datasets/alldatarelatingtoprevalenceofongoingsymptomsfollowingcoronaviruscovid19infectionintheuk) \nDataset | Updated monthly \nEstimates of the prevalence and characteristics of people with self-reported long COVID, and associated activity limitation, using UK Coronavirus (COVID-19) Infection Survey data.\n\n[COVID-19 Schools Infection Survey](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/datasets/covid19schoolsinfectionsurvey) \nDataset | Released 27 October 2021 \nInitial estimates of staff and pupils testing positive for the coronavirus (COVID-19) from the COVID-19 Schools Infection Survey across a sample of schools, within high and low prevalence local authority areas in England\n\n[Deaths registered weekly in England and Wales, provisional](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/weeklyprovisionalfiguresondeathsregisteredinenglandandwales) \nDataset | Updated weekly \nProvisional counts of the number of deaths registered in England and Wales, by age, sex and region, in the latest weeks for which data are available. Includes the most up-to-date figures available for deaths involving the coronavirus (COVID-19).\n\n[Monthly mortality analysis](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/monthlymortalityanalysisenglandandwales) \nDataset | Updated monthly \nProvisional death registration data for England and Wales, broken down by sex, age and country. Includes deaths due to the coronavirus (COVID-19) and leading causes of death.\n\n[Public opinions and social trends, Great Britain](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/datasets/publicopinionsandsocialtrendsgreatbritaincoronaviruscovid19andotherillnesses) \nDataset | Updated weekly \nIndicators from the Opinions and Lifestyle Survey (OPN) measuring the impact of the coronavirus (COVID-19) pandemic on people, households and communities in Great Britain. Includes breakdowns by age, sex, underlying health condition, region and country.\n\n[Coronavirus and higher education students](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/datasets/coronavirusandhighereducationstudents) \nDataset | Released 8 December 2021 \nExperimental statistics from a pilot of the Student Covid Insights Study. Includes information on the behaviours, plans, opinions and well-being of higher education students in England in the context of guidance on the coronavirus (COVID-19) pandemic.",
+      "box_items": null
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Other ONS data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Other ONS data"
+    },
+    {
+      "type": "p",
+      "h2": "Other ONS data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "\n The Office for National Statistics (ONS) has reacted to the coronavirus (COVID-19) by creating lots of additional content to help the public understand the pandemic. The [COVID-19 latest insights too](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19/latestinsights)l brings together the most relevant of these, but there are several other releases for instance on [economic impacts](https://www.ons.gov.uk/businessindustryandtrade/business/businessservices/bulletins/coronavirusandtheeconomicimpactsontheuk/latest) or [deaths by local area and socioeconomic background](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsinvolvingcovid19bylocalareasanddeprivation/latest). You can view [all publications related to COVID-19](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/publications)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Other ONS data",
+      "h3": null,
+      "h4": "Devolved nations and coverage",
+      "h5": null,
+      "text": "Devolved nations and coverage"
+    },
+    {
+      "type": "p",
+      "h2": "Other ONS data",
+      "h3": null,
+      "h4": "Devolved nations and coverage",
+      "h5": null,
+      "text": "The ONS’s main responsibilities are collecting, analysing and disseminating statistics about the UK's economy, society and population. We are committed to producing information at a UK level. However, some policy areas are devolved to the UK nations and as such, data are produced and published by the devolved nations themselves. The ONS needs to seek permission to provide these data as part of the [Statistics and Registration Service Act 2007](https://www.legislation.gov.uk/ukpga/2007/18/section/20). The devolved nations have their own websites with detailed information and statistics on the coronavirus."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Related links"
+    },
+    {
+      "type": "p",
+      "h2": "Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "\n"
+    },
+    {
+      "type": "box",
+      "h2": "Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "[UK Government COVID-19 dashboard](https://www.imperial.ac.uk/medicine/research-and-impact/groups/react-study/real-time-assessment-of-community-transmission-findings/) \nWeb page | Updated daily \nThe official UK government website for data and insights on the coronavirus (COVID-19). Provides latest daily data on infections, vaccinations and health outcomes and includes latest information on restrictions in your area.\n\n[National flu and COVID-19 surveillance reports](https://www.gov.uk/government/statistics/national-flu-and-covid-19-surveillance-reports-2021-to-2022-season#history) \nUK Health Security Agency report | Updated weekly \nNational flu and COVID-19 report, monitoring COVID-19 activity, seasonal flu and other seasonal respiratory illnesses.",
+      "box_items": null
+    },
+    {
+      "type": "box",
+      "h2": "Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[infection.survey.analysis@ons.gov.uk](mailto:infection.survey.analysis@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:48:53.583182"
+}

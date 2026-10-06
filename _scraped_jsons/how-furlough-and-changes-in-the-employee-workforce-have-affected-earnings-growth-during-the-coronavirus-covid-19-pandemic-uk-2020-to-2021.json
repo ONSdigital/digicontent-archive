@@ -1,0 +1,1200 @@
+{
+  "url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/howfurloughandchangesintheemployeeworkforcehaveaffectedearningsgrowthduringthecoronaviruscovid19pandemicuk2020to2021/2022-04-29",
+  "title": "How furlough and changes in the employee workforce have affected earnings growth during the coronavirus (COVID-19) pandemic, UK: 2020 to 2021",
+  "meta_description": "Analysis of how the CJRS and changes in the composition of the UK employee workforce during the COVID-19 pandemic have affected employee wage growth with data from the LFS.",
+  "breadcrumb": null,
+  "date_published": "2022-04-28T23:00:00.000Z",
+  "date_modified": "2022-04-28T23:00:00.000Z",
+  "lede": null,
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Analysis of how the Coronavirus Job Retention Scheme (CJRS) and changes in the composition of the UK employee workforce during the coronavirus (COVID-19) pandemic have affected employee wage growth, with a comparison with the global financial crisis. Data from the Labour Force Survey. Experimental Statistics."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This is the latest release."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Contact:\n[A Blunden, Lualhati Santiago](mailto:economic.advice@ons.gov.uk)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Release date:\n29 April 2022\n"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Next release:\nTo be announced"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Table of contents"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Main points](#main-points)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Overview](#overview)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Why the composition of the workforce and furlough affected earnings growth during the coronavirus pandemic](#why-the-composition-of-the-workforce-and-furlough-affected-earnings-growth-during-the-coronavirus-pandemic)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[How we measure the compositional and furlough effects](#how-we-measure-the-compositional-and-furlough-effects)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[The composition of the employee workforce and furlough explain a large part of the growth in average earnings during the coronavirus pandemic](#the-composition-of-the-employee-workforce-and-furlough-explain-a-large-part-of-the-growth-in-average-earnings-during-the-coronavirus-pandemic)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[The compositional effect was driven by different employee and employee job characteristics during the coronavirus pandemic](#the-compositional-effect-was-driven-by-different-employee-and-employee-job-characteristics-during-the-coronavirus-pandemic)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[A comparison with the global financial crisis](#a-comparison-with-the-global-financial-crisis)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Future developments to the method](#future-developments-to-the-method)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Data](#data)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Glossary](#glossary)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Data sources and quality](#data-sources-and-quality)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Related links](#related-links)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Acknowledgements](#acknowledgements)"
+    },
+    {
+      "type": "p",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Print this Article]()"
+    },
+    {
+      "type": "p",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Download as PDF](/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/howfurloughandchangesintheemployeeworkforcehaveaffectedearningsgrowthduringthecoronaviruscovid19pandemicuk2020to2021/2022-04-29/pdf)"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "1. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "1. Main points"
+    },
+    {
+      "type": "li",
+      "h2": "1. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Changes in the composition of the employee workforce and the Coronavirus Job Retention Scheme (CJRS), or furlough scheme, both explain a large part of the growth in average earnings for employees during the coronavirus (COVID-19) pandemic."
+    },
+    {
+      "type": "li",
+      "h2": "1. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The effect of employee workforce composition on earnings growth increased very rapidly at the start of the coronavirus pandemic; estimates using Labour Force Survey (LFS) data suggest that changes in the composition of the workforce contributed 0.5 percentage points of earnings growth in Quarter 1 (Jan to Mar) 2020, increasing to 3.4 percentage points of earnings growth in Quarter 2 (Apr to June) 2020."
+    },
+    {
+      "type": "li",
+      "h2": "1. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The effect of furlough on earnings growth was greatest in Quarter 2 2020, where it contributed negative 3.2 percentage points to earnings growth (4.3%)."
+    },
+    {
+      "type": "li",
+      "h2": "1. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The effect of employee workforce composition on earnings growth was at its highest in Quarter 1 2021, where it contributed 5.6 percentage points to earnings growth (7.8%)."
+    },
+    {
+      "type": "li",
+      "h2": "1. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Decreases in the proportion of part-time employees and increases in the overall level of qualifications held by employees were the largest contributors to this effect, and most of the compositional effects for individual characteristics during the coronavirus pandemic were positive."
+    },
+    {
+      "type": "li",
+      "h2": "1. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "During the global financial crisis of 2008 to 2009, the impact of changes in the employee workforce on earnings growth was far smaller with a mix of positive and negative compositional effects from individual characteristics, peaking at 0.7 percentage points in Quarter 4 (Oct to Dec) 2008."
+    },
+    {
+      "type": "p",
+      "h2": "1. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "p",
+      "h2": "1. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "These estimates are based on a new experimental method and should not be interpreted as the official source of information on earnings growth; please refer to our lead measure of average earnings, [Average Weekly Earnings (AWE)](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/averageweeklyearningsingreatbritain/latest), which is a monthly measure of average weekly earnings per employee. This analysis uses Labour Force Survey (LFS) earnings data, which only include employee earnings data."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "2. Overview",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "2. Overview"
+    },
+    {
+      "type": "p",
+      "h2": "2. Overview",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The coronavirus (COVID-19) pandemic and the responses to it have altered the UK labour market and average earnings. The Office for National Statistics (ONS) has been reporting and monitoring these coronavirus pandemic-related effects on average earnings in our monthly [Average Weekly Earnings in Great Britain bulletin](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/averageweeklyearningsingreatbritain/previousReleases) since we first observed them. In July 2021, we published [a blog post](https://blog.ons.gov.uk/2021/07/15/far-from-average-how-covid-19-has-impacted-the-average-weekly-earnings-data/) explaining the challenges in interpreting average earnings data during the coronavirus pandemic and how changes in the composition of the workforce and [base effects](https://blog.ons.gov.uk/2021/05/19/beware-base-effects/) were affecting our lead measure of average earnings, which is [our Average Weekly Earnings (AWE) bulletin](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/averageweeklyearningsingreatbritain/latest)."
+    },
+    {
+      "type": "p",
+      "h2": "2. Overview",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In this article, we provide an estimate of the underlying average wage growth for employees during the coronavirus pandemic and up to October to December 2021. We separate this estimate from the wage growth that can be attributed to changes in the employee workforce and the wage growth that can be attributed to the government's [Coronavirus Job Retention Scheme (CJRS)](https://www.gov.uk/guidance/claim-for-wages-through-the-coronavirus-job-retention-scheme) or furlough scheme. The CJRS scheme supported businesses to pay their employees on furlough during the coronavirus pandemic. We also identify which changes in the composition of the workforce have had the biggest impact on average earnings. Lastly, we make a comparison with the global financial crisis, where changes in the composition of the employee workforce were smaller and thus had a smaller impact on earnings growth."
+    },
+    {
+      "type": "p",
+      "h2": "2. Overview",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The estimates presented in this article are experimental and based on Labour Force Survey (LFS) data. We use the LFS because it provides detailed information on the characteristics of the employee workforce, including whether an employee was on furlough. The earnings growth estimates in this article should not be interpreted as the official source of information on earnings growth. For those, please refer to [our headline measure of AWE](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/averageweeklyearningsingreatbritain/latest)."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "3. Why the composition of the workforce and furlough affected earnings growth during the coronavirus pandemic",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "3. Why the composition of the workforce and furlough affected earnings growth during the coronavirus pandemic"
+    },
+    {
+      "type": "p",
+      "h2": "3. Why the composition of the workforce and furlough affected earnings growth during the coronavirus pandemic",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "At the start of the coronavirus (COVID-19) pandemic, the restrictions imposed on some businesses’ ability to trade forced substantial changes in the workforce. While some organisations could quickly adapt to [home working](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity/articles/homeworkinghoursrewardsandopportunitiesintheuk2011to2020/2021-04-19) arrangements, the temporary closure of businesses in some industries affected workers’ movements in and out of jobs and their likelihood of being furloughed. Worries about coronavirus and health also accelerated some [workers’ decisions to leave employment](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/reasonsforworkersagedover50yearsleavingemploymentsincethestartofthecoronaviruspandemic/2022-03-14). In addition, [job-to-job moves reached record numbers in October to December 2021](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/february2022), driven mainly by resignations."
+    },
+    {
+      "type": "p",
+      "h2": "3. Why the composition of the workforce and furlough affected earnings growth during the coronavirus pandemic",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Redundancies, resignations, and the reduction of working hours or earnings were not evenly distributed across [industries](https://www.gov.uk/government/statistics/coronavirus-job-retention-scheme-statistics-16-december-2021/coronavirus-job-retention-scheme-statistics-16-december-2021) and [occupations](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/anoverviewofworkerswhowerefurloughedintheuk/october2021#furlough-population-characteristics). A large share of workers in some lower-paying occupations such as [elementary occupations](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/changingtrendsandrecentshortagesinthelabourmarketuk/2016to2021#falling-employment-numbers-seen-during-the-coronavirus-covid-19-pandemic-especially-within-elementary-occupations) lost their jobs or were placed on furlough at the start of the coronavirus pandemic (with the proportion in the employee workforce falling from 10.8% in Quarter 1 (Jan to Mar) 2020 to 9.3% in Quarter 1 2021). There was also a [decrease in the number of part-time jobs,](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/averageweeklyearningsingreatbritain/april2021) which have a lower average pay, with the proportion of part-time employees falling from 25.4% to 23.1% in the same period. The proportion of employees with a degree, who have a higher pay on average, increased from 37.5% to 41.1% between Quarter 1 2020 and Quarter 1 2021."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "3. Why the composition of the workforce and furlough affected earnings growth during the coronavirus pandemic",
+      "h3": null,
+      "h4": "Figure 1: The composition of the employee workforce changed considerably during the coronavirus pandemic",
+      "h5": null,
+      "text": "Figure 1: The composition of the employee workforce changed considerably during the coronavirus pandemic"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "3. Why the composition of the workforce and furlough affected earnings growth during the coronavirus pandemic",
+      "h3": null,
+      "h4": "Figure 1: The composition of the employee workforce changed considerably during the coronavirus pandemic",
+      "h5": "Proportion of employees by employee and job characteristic, indexed, January to March 2015 to October to December 2021",
+      "text": "Proportion of employees by employee and job characteristic, indexed, January to March 2015 to October to December 2021"
+    },
+    {
+      "type": "p",
+      "h2": "3. Why the composition of the workforce and furlough affected earnings growth during the coronavirus pandemic",
+      "h3": null,
+      "h4": "Figure 1: The composition of the employee workforce changed considerably during the coronavirus pandemic",
+      "h5": "Proportion of employees by employee and job characteristic, indexed, January to March 2015 to October to December 2021",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "3. Why the composition of the workforce and furlough affected earnings growth during the coronavirus pandemic",
+      "h3": null,
+      "h4": "Figure 1: The composition of the employee workforce changed considerably during the coronavirus pandemic",
+      "h5": "Proportion of employees by employee and job characteristic, indexed, January to March 2015 to October to December 2021",
+      "title": "Figure 1",
+      "url": "/visualisations/dvc1935/fig1/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "3. Why the composition of the workforce and furlough affected earnings growth during the coronavirus pandemic",
+      "h3": null,
+      "h4": "Figure 1: The composition of the employee workforce changed considerably during the coronavirus pandemic",
+      "h5": "Notes",
+      "text": "Notes"
+    },
+    {
+      "type": "li",
+      "h2": "3. Why the composition of the workforce and furlough affected earnings growth during the coronavirus pandemic",
+      "h3": null,
+      "h4": "Figure 1: The composition of the employee workforce changed considerably during the coronavirus pandemic",
+      "h5": "Notes",
+      "text": "All data not seasonally adjusted, except public sector."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "3. Why the composition of the workforce and furlough affected earnings growth during the coronavirus pandemic",
+      "h3": null,
+      "h4": "Figure 1: The composition of the employee workforce changed considerably during the coronavirus pandemic",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": "3. Why the composition of the workforce and furlough affected earnings growth during the coronavirus pandemic",
+      "h3": null,
+      "h4": "Figure 1: The composition of the employee workforce changed considerably during the coronavirus pandemic",
+      "h5": "Download the data",
+      "text": "[.xlsx](/visualisations/dvc1935/fig1/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "3. Why the composition of the workforce and furlough affected earnings growth during the coronavirus pandemic",
+      "h3": null,
+      "h4": "Figure 1: The composition of the employee workforce changed considerably during the coronavirus pandemic",
+      "h5": "Download the data",
+      "text": "These rapid changes in the types of employees in work led to changes in employee average earnings and earnings growth. A decrease in the proportion of employees in jobs that have lower pay can increase average pay, even if no one’s individual earnings have increased. This is called the “compositional effect” of earnings growth."
+    },
+    {
+      "type": "p",
+      "h2": "3. Why the composition of the workforce and furlough affected earnings growth during the coronavirus pandemic",
+      "h3": null,
+      "h4": "Figure 1: The composition of the employee workforce changed considerably during the coronavirus pandemic",
+      "h5": "Download the data",
+      "text": "During the coronavirus pandemic, the introduction of the CJRS also affected earnings growth of employees. Furloughed employees kept their jobs even if they did not work or were working reduced hours, so they did not change the composition of the employee workforce. However, they received [80% of their salaries up to £2,500 per month,](https://www.gov.uk/government/publications/changes-to-the-coronavirus-job-retention-scheme/changes-to-the-coronavirus-job-retention-scheme) and businesses could choose to top it up to 100%. Since not all businesses topped up workers' salaries, furlough reduced average pay of employees. We call this the “furlough effect”."
+    },
+    {
+      "type": "p",
+      "h2": "3. Why the composition of the workforce and furlough affected earnings growth during the coronavirus pandemic",
+      "h3": null,
+      "h4": "Figure 1: The composition of the employee workforce changed considerably during the coronavirus pandemic",
+      "h5": "Download the data",
+      "text": "When restrictions on trade and people’s activities began to lift during 2021, furloughed employees started to return to work or increase their hours of work. This increased wages for those employees who had been receiving less than their usual wage, therefore increasing average wage. This helps explain part of the higher earnings growth observed in 2021."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "4. How we measure the compositional and furlough effects",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "4. How we measure the compositional and furlough effects"
+    },
+    {
+      "type": "p",
+      "h2": "4. How we measure the compositional and furlough effects",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This article provides a measure of the underlying wage growth, separating it from the wage growth attributed to the compositional and furlough effects just described."
+    },
+    {
+      "type": "p",
+      "h2": "4. How we measure the compositional and furlough effects",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We use data from the Labour Force Survey (LFS), as opposed to data from [our headline measure of Average Weekly Earnings (AWE)](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/averageweeklyearningsingreatbritain/latest), because the LFS contains detailed information on the characteristics of workers, jobs and furlough, which we use in this analysis. Our measure of earnings is the LFS’ \"gross weekly pay in main job\". For a discussion of the advantages and limitations of using LFS data, see the [Data sources and quality section](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/howfurloughandchangesintheemployeeworkforcehaveaffectedearningsgrowthduringthecoronaviruscovid19pandemicuk2020to2021/2022-04-29#data-quality-and-sources)."
+    },
+    {
+      "type": "p",
+      "h2": "4. How we measure the compositional and furlough effects",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "To estimate the compositional and furlough effects, we use [the Oaxaca decomposition method](https://www.jstor.org/stable/2525981), following [Abel, Burnham and Corder (2016) (PDF, 188.47KB)](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2016/wages-productivity-and-the-changing-composition-of-the-uk-workforce.pdf?la=en&hash=58CAD8A8B872D3225A667281C6104E24469BB124) and [Blundell, Crawford and Jin (2014)](https://onlinelibrary.wiley.com/doi/full/10.1111/ecoj.12138), and measure year-on-year earnings growth by comparing average weekly earnings between one quarter and the same quarter a year earlier."
+    },
+    {
+      "type": "p",
+      "h2": "4. How we measure the compositional and furlough effects",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The Oaxaca decomposition method allows us to decompose earnings growth as:"
+    },
+    {
+      "type": "p",
+      "h2": "4. How we measure the compositional and furlough effects",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Earnings growth (%) = underlying earnings growth + compositional effect + furlough effect,"
+    },
+    {
+      "type": "p",
+      "h2": "4. How we measure the compositional and furlough effects",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "where the underlying earnings growth is the part of earnings growth that we cannot attribute to the composition of the workforce (compositional effect) or furlough (furlough effect)."
+    },
+    {
+      "type": "p",
+      "h2": "4. How we measure the compositional and furlough effects",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "More details on the data and method, including a detailed econometric specification of the Oaxaca model used, are available in the [Data sources and quality section](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/howfurloughandchangesintheemployeeworkforcehaveaffectedearningsgrowthduringthecoronaviruscovid19pandemicuk2020to2021/2022-04-29#data-sources-and-quality)."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "5. The composition of the employee workforce and furlough explain a large part of the growth in average earnings during the coronavirus pandemic",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "5. The composition of the employee workforce and furlough explain a large part of the growth in average earnings during the coronavirus pandemic"
+    },
+    {
+      "type": "p",
+      "h2": "5. The composition of the employee workforce and furlough explain a large part of the growth in average earnings during the coronavirus pandemic",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "As discussed in Section 4, earnings growth can be broken down into the underlying earnings growth, the compositional effect and the furlough effect. Figure 2 shows this break down for the period from January to March 2008 to October to December 2021."
+    },
+    {
+      "type": "p",
+      "h2": "5. The composition of the employee workforce and furlough explain a large part of the growth in average earnings during the coronavirus pandemic",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "chartbuilder",
+      "h2": "5. The composition of the employee workforce and furlough explain a large part of the growth in average earnings during the coronavirus pandemic",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "chartbuilder_h3": "Figure 2: Changes in the composition of the employee workforce increased earnings growth substantially during the coronavirus pandemic",
+      "chartbuilder_h4": "Average weekly earnings annual growth rates (LFS), not seasonally adjusted, broken down into furlough effect, compositional effect and underlying growth, UK, January to March 2008 to October to December 2021",
+      "data_uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/howfurloughandchangesintheemployeeworkforcehaveaffectedearningsgrowthduringthecoronaviruscovid19pandemicuk2020to2021/2022-04-29/5b8b9515",
+      "src": "/_scraped_chartbuilder_imgs/5b8b9515.png",
+      "local_filename": "5b8b9515.png"
+    },
+    {
+      "type": "p",
+      "h2": "5. The composition of the employee workforce and furlough explain a large part of the growth in average earnings during the coronavirus pandemic",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The effect of the changes in the composition of the workforce grew rapidly at the start of the coronavirus (COVID-19) pandemic. In Quarter 1 (Jan to Mar) 2020, changes in the composition of the workforce contributed 0.5 percentage points to the estimated 3.7% growth in employee earnings, while in the next quarter, Quarter 2 (Apr to June) 2020, they contributed 3.4 percentage points to the estimated 4.3% growth in employee earnings. This substantial impact of the compositional effect on earnings growth had not been seen in at least the previous decade."
+    },
+    {
+      "type": "p",
+      "h2": "5. The composition of the employee workforce and furlough explain a large part of the growth in average earnings during the coronavirus pandemic",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The compositional effect then fell slightly, as the initial economic shock of the Spring 2020 lockdown wore off, but started to rise again in Quarter 4 (Oct to Dec) 2020, peaking in Quarter 1 2021 in conjunction with the early 2021 lockdown, where it contributed 5.6 percentage points to the 7.8% earnings growth. After that, the compositional effect fell and, in Quarter 4 2021, it turned negative for the first time since 2015, contributing negative 0.3 percentage points to earnings growth. This means that changes in the composition of the workforce between Quarter 4 2020 and Quarter 4 2021 have pushed wages down. This is partly explained by the fact that, in Quarter 4 2020, coronavirus (COVID-19) restrictions on businesses were still in place, while in Quarter 4 2021 most restrictions were no longer in place. Details on the stages of the response to COVID-19 in England are available on [GOV.UK](https://www.gov.uk/government/publications/covid-19-response-spring-2021/covid-19-response-spring-2021-summary)."
+    },
+    {
+      "type": "p",
+      "h2": "5. The composition of the employee workforce and furlough explain a large part of the growth in average earnings during the coronavirus pandemic",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Furlough has also affected earnings growth during the coronavirus pandemic. The [furlough scheme](https://www.gov.uk/government/statistics/coronavirus-job-retention-scheme-statistics-16-december-2021/coronavirus-job-retention-scheme-statistics-16-december-2021) was in place from March 2020 until September 2021. Its introduction in Quarter 2 2020 led to lower earnings for some workers who were on furlough, contributing negative 3.2 percentage points to average earnings growth in that quarter. This decrease contrasted with the positive compositional effect in Quarter 2 2020, a positive underlying earnings growth of 4.0%, and earnings growth of 4.3%. Furlough pushed average wage growth down until Quarter 1 2021. The effect of furlough from Quarter 2 2021 onwards turned positive because the number of people on furlough was much lower in 2021 than in 2020. The furlough effect estimated in Quarter 4 2021 is entirely the result of comparing a quarter with no one on furlough (Quarter 4 2021) with a quarter with some workers on furlough (Quarter 4 2020)."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "6. The compositional effect was driven by different employee and employee job characteristics during the coronavirus pandemic",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "6. The compositional effect was driven by different employee and employee job characteristics during the coronavirus pandemic"
+    },
+    {
+      "type": "p",
+      "h2": "6. The compositional effect was driven by different employee and employee job characteristics during the coronavirus pandemic",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The changing characteristics of the employee workforce have had different impacts on earnings growth. In this section, we show which characteristics of the employees or their jobs have had a larger impact on changes in annual earnings growth during the coronavirus (COVID-19) pandemic and until Quarter 4 (Oct to Dec) 2021. Figures 3a and 3b present the impact of each of the characteristics we have analysed for each quarter, from Quarter 1 (Jan to Mar) 2020 to Quarter 4 2021 (comparing each quarter with the same quarter in the previous year)."
+    },
+    {
+      "type": "p",
+      "h2": "6. The compositional effect was driven by different employee and employee job characteristics during the coronavirus pandemic",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "chartbuilder",
+      "h2": "6. The compositional effect was driven by different employee and employee job characteristics during the coronavirus pandemic",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "chartbuilder_h3": "Figure 3a: The change in the proportion of part-time workers contributed 1.7 percentage points to the compositional effect in January to March 2021",
+      "chartbuilder_h4": "Compositional effect of average weekly earnings annual growth rates (LFS), not seasonally adjusted, contributions by characteristics of the employee workforce, UK, January to March 2020 to October to December 2021",
+      "data_uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/howfurloughandchangesintheemployeeworkforcehaveaffectedearningsgrowthduringthecoronaviruscovid19pandemicuk2020to2021/2022-04-29/ad2f9025",
+      "src": "/_scraped_chartbuilder_imgs/ad2f9025.png",
+      "local_filename": "ad2f9025.png"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "6. The compositional effect was driven by different employee and employee job characteristics during the coronavirus pandemic",
+      "h3": null,
+      "h4": "Figure 3b: The largest contributors to the compositional effect throughout 2020 were part-time status, qualifications and occupation",
+      "h5": null,
+      "text": "Figure 3b: The largest contributors to the compositional effect throughout 2020 were part-time status, qualifications and occupation"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "6. The compositional effect was driven by different employee and employee job characteristics during the coronavirus pandemic",
+      "h3": null,
+      "h4": "Figure 3b: The largest contributors to the compositional effect throughout 2020 were part-time status, qualifications and occupation",
+      "h5": "Compositional effect of average weekly earnings annual growth rates (LFS), not seasonally adjusted, contributions by characteristics of the employee workforce, UK, January to March 2020 to October to December 2021",
+      "text": "Compositional effect of average weekly earnings annual growth rates (LFS), not seasonally adjusted, contributions by characteristics of the employee workforce, UK, January to March 2020 to October to December 2021"
+    },
+    {
+      "type": "p",
+      "h2": "6. The compositional effect was driven by different employee and employee job characteristics during the coronavirus pandemic",
+      "h3": null,
+      "h4": "Figure 3b: The largest contributors to the compositional effect throughout 2020 were part-time status, qualifications and occupation",
+      "h5": "Compositional effect of average weekly earnings annual growth rates (LFS), not seasonally adjusted, contributions by characteristics of the employee workforce, UK, January to March 2020 to October to December 2021",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "6. The compositional effect was driven by different employee and employee job characteristics during the coronavirus pandemic",
+      "h3": null,
+      "h4": "Figure 3b: The largest contributors to the compositional effect throughout 2020 were part-time status, qualifications and occupation",
+      "h5": "Compositional effect of average weekly earnings annual growth rates (LFS), not seasonally adjusted, contributions by characteristics of the employee workforce, UK, January to March 2020 to October to December 2021",
+      "title": "Figure 1",
+      "url": "/visualisations/dvc1935/fig3b/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "6. The compositional effect was driven by different employee and employee job characteristics during the coronavirus pandemic",
+      "h3": null,
+      "h4": "Figure 3b: The largest contributors to the compositional effect throughout 2020 were part-time status, qualifications and occupation",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": "6. The compositional effect was driven by different employee and employee job characteristics during the coronavirus pandemic",
+      "h3": null,
+      "h4": "Figure 3b: The largest contributors to the compositional effect throughout 2020 were part-time status, qualifications and occupation",
+      "h5": "Download the data",
+      "text": "[.xlsx](/visualisations/dvc1935/fig3b/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "6. The compositional effect was driven by different employee and employee job characteristics during the coronavirus pandemic",
+      "h3": null,
+      "h4": "Figure 3b: The largest contributors to the compositional effect throughout 2020 were part-time status, qualifications and occupation",
+      "h5": "Download the data",
+      "text": "In Quarter 2 (Apr to June) 2020, the compositional effect rose to 3.4 percentage points, from 0.5 percentage points in the previous quarter. The three largest drivers of this increase were:"
+    },
+    {
+      "type": "li",
+      "h2": "6. The compositional effect was driven by different employee and employee job characteristics during the coronavirus pandemic",
+      "h3": null,
+      "h4": "Figure 3b: The largest contributors to the compositional effect throughout 2020 were part-time status, qualifications and occupation",
+      "h5": "Download the data",
+      "text": "changes in the contribution to earnings growth of the percentage of part-time workers (a contribution of 0.9 percentage points in Quarter 2 2020, compared with 0.0 in Quarter 1 2020)"
+    },
+    {
+      "type": "li",
+      "h2": "6. The compositional effect was driven by different employee and employee job characteristics during the coronavirus pandemic",
+      "h3": null,
+      "h4": "Figure 3b: The largest contributors to the compositional effect throughout 2020 were part-time status, qualifications and occupation",
+      "h5": "Download the data",
+      "text": "changes in the contribution of the overall level of qualifications in the workforce (1.0 percentage points, up from 0.3)"
+    },
+    {
+      "type": "li",
+      "h2": "6. The compositional effect was driven by different employee and employee job characteristics during the coronavirus pandemic",
+      "h3": null,
+      "h4": "Figure 3b: The largest contributors to the compositional effect throughout 2020 were part-time status, qualifications and occupation",
+      "h5": "Download the data",
+      "text": "changes in the contribution of the distribution of the workforce across occupation (0.8 percentage points, up from 0.5)"
+    },
+    {
+      "type": "p",
+      "h2": "6. The compositional effect was driven by different employee and employee job characteristics during the coronavirus pandemic",
+      "h3": null,
+      "h4": "Figure 3b: The largest contributors to the compositional effect throughout 2020 were part-time status, qualifications and occupation",
+      "h5": "Download the data",
+      "text": "These are also the characteristics of the employee workforce where we saw larger changes at the start of the coronavirus pandemic (as shown in Figure 1). Other characteristics, such as sex, the region where an employee lived, or whether they were employed in the public sector, had minimal effects throughout 2020 and 2021, though some of these effects may have been captured in other characteristics (for example, the distribution of occupations is different in different regions)."
+    },
+    {
+      "type": "p",
+      "h2": "6. The compositional effect was driven by different employee and employee job characteristics during the coronavirus pandemic",
+      "h3": null,
+      "h4": "Figure 3b: The largest contributors to the compositional effect throughout 2020 were part-time status, qualifications and occupation",
+      "h5": "Download the data",
+      "text": "Changes in qualifications and occupation alone explain more than half of the increase in the compositional effect in Quarter 2 2020. As COVID-19 restrictions began to be imposed, some firms placed workers on furlough while others quickly adapted to homeworking arrangements. Office for National Statistics (ONS) [analysis of Labour Market Survey data in July 2020](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/coronavirusandhomeworkingintheuk/april2020) found that occupations requiring higher qualifications and more experience were more likely to implement homeworking arrangements than elementary and manual occupations, while [analysis of Labour Force Survey (LFS) and Opinions and Lifestyle Survey (OPN) data in October 2021](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/anoverviewofworkerswhowerefurloughedintheuk/october2021) found that employees with GCSEs as their highest qualification were more likely to have been furloughed at some point than those with degrees or equivalent qualifications."
+    },
+    {
+      "type": "p",
+      "h2": "6. The compositional effect was driven by different employee and employee job characteristics during the coronavirus pandemic",
+      "h3": null,
+      "h4": "Figure 3b: The largest contributors to the compositional effect throughout 2020 were part-time status, qualifications and occupation",
+      "h5": "Download the data",
+      "text": "Since workers with lower qualifications [(earning less on average)](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity/adhocs/008042themeanandmediangrossweeklyandgrosshourlyearningsmeasuredbyhighesteducationqualification) were more likely to be placed on furlough and less likely to work from home, these workers were more likely to see a fall in wages (lowering average earnings through the furlough effect) but also more likely to lose their jobs and drop out of the workforce, thus affecting the composition of the workforce. This led to a decrease in the proportion of employees with lower qualifications (those with GCSE grades A*-C as their highest qualification decreased from 18.7% to 18.1% between Quarter 1 and Quarter 2 2020), which increased average earnings."
+    },
+    {
+      "type": "p",
+      "h2": "6. The compositional effect was driven by different employee and employee job characteristics during the coronavirus pandemic",
+      "h3": null,
+      "h4": "Figure 3b: The largest contributors to the compositional effect throughout 2020 were part-time status, qualifications and occupation",
+      "h5": "Download the data",
+      "text": "The compositional effect fell slightly in Quarter 3 (July to Sept) 2020 before increasing again in Quarter 4 2020, as local restrictions were put into place, and Quarter 1 2021, when a national lockdown was in place for Great Britain. It was then that the compositional effect peaked, contributing 5.6 percentage points to average wage growth. Changes in part-time status (contributing 1.7 percentage points) and occupation (contributing 1.5 percentage points) became the two largest contributors to the compositional effect, while changes in qualifications, industries and age of the workforce each contributed between 0.6 and 0.8 percentage points to earnings growth."
+    },
+    {
+      "type": "p",
+      "h2": "6. The compositional effect was driven by different employee and employee job characteristics during the coronavirus pandemic",
+      "h3": null,
+      "h4": "Figure 3b: The largest contributors to the compositional effect throughout 2020 were part-time status, qualifications and occupation",
+      "h5": "Download the data",
+      "text": "The change in the proportion of part-time workers in the employee workforce explains the largest individual component of the compositional effect in Quarter 1 2021, contributing 1.7 percentage points to the compositional effect. Since we are measuring the furlough effect separately, this is likely to be the effect of COVID-19 restrictions on the number of part-time jobs. For most of this quarter, the UK was subject to a [national lockdown](https://www.gov.uk/government/news/prime-minister-announces-national-lockdown), which [heavily restricted the operation of several industries](https://www.ons.gov.uk/economy/economicoutputandproductivity/output/articles/coronavirushowpeopleandbusinesseshaveadaptedtolockdowns/2021-03-19) that employ large numbers of part-time workers, [such as accommodation and food service activities](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/employeesintheukbyindustry/provisionalresults2020)."
+    },
+    {
+      "type": "p",
+      "h2": "6. The compositional effect was driven by different employee and employee job characteristics during the coronavirus pandemic",
+      "h3": null,
+      "h4": "Figure 3b: The largest contributors to the compositional effect throughout 2020 were part-time status, qualifications and occupation",
+      "h5": "Download the data",
+      "text": "Throughout 2021, the compositional effect decreased. In Quarter 4 2021, it became negative for the first time since 2015. As COVID-19 restrictions eased and [the number of vacancies increased](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/jobsandvacanciesintheuk/january2022) throughout 2021, [more part-time workers](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/fulltimeparttimeandtemporaryworkersseasonallyadjustedemp01sa) and [younger workers](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/employmentunemploymentandeconomicinactivitybyagegroupseasonallyadjusteda05sa) returned to the workforce, increasing the proportion of lower paid jobs. Our analysis shows that changes in the proportion of younger workers in the workforce were the biggest negative contributors to the compositional effect (negative 0.3 percentage points) in Quarter 4 2021, while occupation had a positive contribution of a similar size (0.3 percentage points). Looking at the younger age groups in more detail, those aged 16 to 19 years alone contributed negative 0.4 percentage points to the compositional effect in Quarter 4 2021."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "7. A comparison with the global financial crisis",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "7. A comparison with the global financial crisis"
+    },
+    {
+      "type": "p",
+      "h2": "7. A comparison with the global financial crisis",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The global financial crisis took place in the UK between Quarter 2 (Apr to June) 2008 and Quarter 2 2009. The compositional effect during the global financial crisis was much smaller than during the coronavirus (COVID-19) pandemic. Between Quarter 2 2008 and Quarter 2 2009, the compositional effect increased average earnings growth by a maximum of 0.7 percentage points, whereas from Quarter 2 2020 to Quarter 2 2021, in each quarter the compositional effect increased earnings growth by at least 2.8 percentage points (Figure 4a)."
+    },
+    {
+      "type": "p",
+      "h2": "7. A comparison with the global financial crisis",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "chartbuilder",
+      "h2": "7. A comparison with the global financial crisis",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "chartbuilder_h3": "Figure 4a: The compositional effect was smaller during the global financial crisis, compared with the coronavirus pandemic",
+      "chartbuilder_h4": "Compositional effect of average weekly earnings annual growth rates (LFS), not seasonally adjusted, contributions by characteristics of the employee workforce, UK, January to March 2008 to October to December 2021",
+      "data_uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/howfurloughandchangesintheemployeeworkforcehaveaffectedearningsgrowthduringthecoronaviruscovid19pandemicuk2020to2021/2022-04-29/5e02e303",
+      "src": "/_scraped_chartbuilder_imgs/5e02e303.png",
+      "local_filename": "5e02e303.png"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "7. A comparison with the global financial crisis",
+      "h3": null,
+      "h4": "Figure 4b: Part-time status, occupation and qualifications also made notable contributions to the compositional effect between 2008 and 2011",
+      "h5": null,
+      "text": "Figure 4b: Part-time status, occupation and qualifications also made notable contributions to the compositional effect between 2008 and 2011"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "7. A comparison with the global financial crisis",
+      "h3": null,
+      "h4": "Figure 4b: Part-time status, occupation and qualifications also made notable contributions to the compositional effect between 2008 and 2011",
+      "h5": "Compositional effect of average weekly earnings annual growth rates (LFS), not seasonally adjusted, contributions by characteristics of the employee workforce, UK, January to March 2008 to October to December 2011",
+      "text": "Compositional effect of average weekly earnings annual growth rates (LFS), not seasonally adjusted, contributions by characteristics of the employee workforce, UK, January to March 2008 to October to December 2011"
+    },
+    {
+      "type": "p",
+      "h2": "7. A comparison with the global financial crisis",
+      "h3": null,
+      "h4": "Figure 4b: Part-time status, occupation and qualifications also made notable contributions to the compositional effect between 2008 and 2011",
+      "h5": "Compositional effect of average weekly earnings annual growth rates (LFS), not seasonally adjusted, contributions by characteristics of the employee workforce, UK, January to March 2008 to October to December 2011",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "7. A comparison with the global financial crisis",
+      "h3": null,
+      "h4": "Figure 4b: Part-time status, occupation and qualifications also made notable contributions to the compositional effect between 2008 and 2011",
+      "h5": "Compositional effect of average weekly earnings annual growth rates (LFS), not seasonally adjusted, contributions by characteristics of the employee workforce, UK, January to March 2008 to October to December 2011",
+      "title": "Figure 1",
+      "url": "/visualisations/dvc1935/fig4b/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "7. A comparison with the global financial crisis",
+      "h3": null,
+      "h4": "Figure 4b: Part-time status, occupation and qualifications also made notable contributions to the compositional effect between 2008 and 2011",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": "7. A comparison with the global financial crisis",
+      "h3": null,
+      "h4": "Figure 4b: Part-time status, occupation and qualifications also made notable contributions to the compositional effect between 2008 and 2011",
+      "h5": "Download the data",
+      "text": "[.xlsx](/visualisations/dvc1935/fig4b/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "7. A comparison with the global financial crisis",
+      "h3": null,
+      "h4": "Figure 4b: Part-time status, occupation and qualifications also made notable contributions to the compositional effect between 2008 and 2011",
+      "h5": "Download the data",
+      "text": "The global financial crisis was different to the coronavirus pandemic. Although all recessions can affect industries, jobs, and types of workers differently, the global financial crisis did not produce the rapid, large impact on trade and jobs in some industries, occupations and types of workers that the coronavirus pandemic did. The radical changes in the composition of the workforce observed during the coronavirus pandemic explain why the compositional effects were much larger than in the global financial crisis."
+    },
+    {
+      "type": "p",
+      "h2": "7. A comparison with the global financial crisis",
+      "h3": null,
+      "h4": "Figure 4b: Part-time status, occupation and qualifications also made notable contributions to the compositional effect between 2008 and 2011",
+      "h5": "Download the data",
+      "text": "During the financial crisis, the individual contributions of the different characteristics in the employee workforce to the compositional effect were smaller than during the coronavirus pandemic, and they also contributed to it in different directions (see Figure 4b). Changes in the proportion of part-time workers were the largest negative contributors to the compositional effect (contributing -0.8 percentage points to earnings growth in Quarter 3 (July to Sept) 2009), suggesting that an increase in part-time workers contributed to a fall in average earnings. However, this was balanced by other factors such as qualifications (contributing 0.9 percentage points to earnings growth in Quarter 4 (Oct to Dec) 2009)."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "8. Future developments to the method",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "8. Future developments to the method"
+    },
+    {
+      "type": "p",
+      "h2": "8. Future developments to the method",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In this article, we estimate how furlough and the employee workforce composition have affected earnings growth. We call these the “furlough effect” and the “compositional effect”."
+    },
+    {
+      "type": "p",
+      "h2": "8. Future developments to the method",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The Office for National Statistics (ONS) has published estimates of the compositional effect in our [Average weekly earnings (AWE) in Great Britain bulletins](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/averageweeklyearningsingreatbritain/previousreleases). These estimates are based on age, occupation and part-time status. From March 2020 to February 2021, these estimates have steadily increased, from 0.8% to 2.9%."
+    },
+    {
+      "type": "p",
+      "h2": "8. Future developments to the method",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In this analysis, we provide a refined method to estimate compositional and furlough effects using the Oaxaca decomposition. We use data from the Labour Force Survey (LFS) rather than AWE to make use of its detailed information about the characteristics of workers, jobs and furlough."
+    },
+    {
+      "type": "p",
+      "h2": "8. Future developments to the method",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The method introduced in this release remains experimental. When further refinements and improvements are made in the coming months, we will consider incorporating additional analysis as part of our AWE in Great Britain bulletins."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "9. Data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "9. Data"
+    },
+    {
+      "type": "p",
+      "h2": "9. Data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": "9. Data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "[How furlough and changes in the employee workforce have affected earnings growth: experimental results from an Oaxaca decomposition using Labour Force Survey (LFS) data](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/howfurloughandchangesintheemployeeworkforcehaveaffectedearningsgrowthresultsfromanoaxacadecompositionusinglabourforcesurveylfsdata) \n Dataset | Released 29 April 2022 \n Experimental estimates of compositional and furlough effects using quarterly Labour Force Survey earnings data, from 2008 to 2021.",
+      "box_items": null
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "10. Glossary",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "10. Glossary"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "10. Glossary",
+      "h3": "Coronavirus pandemic period",
+      "h4": null,
+      "h5": null,
+      "text": "Coronavirus pandemic period"
+    },
+    {
+      "type": "p",
+      "h2": "10. Glossary",
+      "h3": "Coronavirus pandemic period",
+      "h4": null,
+      "h5": null,
+      "text": "The phrases \"during the coronavirus pandemic\" and the \"coronavirus pandemic period\" refer to the period March 2020 to present."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "10. Glossary",
+      "h3": "Coronavirus Job Retention Scheme",
+      "h4": null,
+      "h5": null,
+      "text": "Coronavirus Job Retention Scheme"
+    },
+    {
+      "type": "p",
+      "h2": "10. Glossary",
+      "h3": "Coronavirus Job Retention Scheme",
+      "h4": null,
+      "h5": null,
+      "text": "The government announced the Coronavirus Job Retention Scheme (CJRS) on 20 March 2020. It was introduced to support employers through the coronavirus (COVID-19) period. This has commonly been referred to as the furlough scheme."
+    },
+    {
+      "type": "p",
+      "h2": "10. Glossary",
+      "h3": "Coronavirus Job Retention Scheme",
+      "h4": null,
+      "h5": null,
+      "text": "The scheme was based around Her Majesty’s Revenue and Customs’ (HMRC's) Pay As You Earn (PAYE) system. It worked by providing grants to employers of up to a maximum 80% of salary, to a maximum value of £2,500 per employee. Up to the end of July 2020, the scheme also met some of the cost of employer pension contributions and employer National Insurance contributions."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "10. Glossary",
+      "h3": "Furlough",
+      "h4": null,
+      "h5": null,
+      "text": "Furlough"
+    },
+    {
+      "type": "p",
+      "h2": "10. Glossary",
+      "h3": "Furlough",
+      "h4": null,
+      "h5": null,
+      "text": "Furlough is defined as a temporary absence from work allowing employees to keep their job while the coronavirus pandemic continues."
+    },
+    {
+      "type": "p",
+      "h2": "10. Glossary",
+      "h3": "Furlough",
+      "h4": null,
+      "h5": null,
+      "text": "Our identification of furloughed employees in the Labour Force Survey (LFS) data is not perfect and does not match the official number of furloughed employees reported in the [Coronavirus Job Retention Scheme statistics](https://www.gov.uk/government/statistics/coronavirus-job-retention-scheme-statistics-16-december-2021). However, our estimates are the best approximation we have to these numbers. Although the LFS undercounts the number of employees on furlough, the trends observed in the LFS are similar to those in the CJRS statistics."
+    },
+    {
+      "type": "p",
+      "h2": "10. Glossary",
+      "h3": "Furlough",
+      "h4": null,
+      "h5": null,
+      "text": "For details on how we identify furloughed employees, see the [Data sources and quality section](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/howfurloughandchangesintheemployeeworkforcehaveaffectedearningsgrowthduringthecoronaviruscovid19pandemicuk2020to2021/2022-04-29#data-sources-and-quality)."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "10. Glossary",
+      "h3": "Average Weekly Earnings (AWE)",
+      "h4": null,
+      "h5": null,
+      "text": "Average Weekly Earnings (AWE)"
+    },
+    {
+      "type": "p",
+      "h2": "10. Glossary",
+      "h3": "Average Weekly Earnings (AWE)",
+      "h4": null,
+      "h5": null,
+      "text": "[Average Weekly Earnings (AWE)](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/averageweeklyearningsingreatbritain/latest) is the lead monthly measure of average weekly earnings per employee. It is calculated using information based on the Monthly Wages and Salaries Survey (MWSS), which samples around 9,000 employers in Great Britain. The estimates do not include earnings of self-employed workers."
+    },
+    {
+      "type": "p",
+      "h2": "10. Glossary",
+      "h3": "Average Weekly Earnings (AWE)",
+      "h4": null,
+      "h5": null,
+      "text": "The estimates are not just a measure of pay rises. They do not, for example, adjust for changes in the proportion of the workforce who work full time or part time, or other compositional changes within the workforce."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "11. Data sources and quality",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "11. Data sources and quality"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "11. Data sources and quality",
+      "h3": "Data sources",
+      "h4": null,
+      "h5": null,
+      "text": "Data sources"
+    },
+    {
+      "type": "p",
+      "h2": "11. Data sources and quality",
+      "h3": "Data sources",
+      "h4": null,
+      "h5": null,
+      "text": "This analysis uses Labour Force Survey (LFS) data. We use data from the LFS instead of data from Average Weekly Earnings (AWE) because the LFS contains rich information on individual and job characteristics, including if workers reported being on furlough."
+    },
+    {
+      "type": "p",
+      "h2": "11. Data sources and quality",
+      "h3": "Data sources",
+      "h4": null,
+      "h5": null,
+      "text": "Estimates of gross weekly and hourly earnings from the LFS are based on employees and on two-fifths of the quarterly sample and are therefore subject to high sampling variability. The data on individual’s earnings captured by the LFS are thought to be of a lower quality than Annual Survey of Hours and Earnings (ASHE) or AWE data because LFS information is self-reported by employees. ASHE and AWE earnings data are based only on employees but are collected from the employer, which is thought to be more accurate as employers can consult payroll records. Individuals may not have such records to hand, and their responses may therefore be subject to higher levels of recall error. Furthermore, LFS responses can be given by proxy (by other individuals in the same household) when an individual is unavailable for interview. This gives further scope for recall error from respondents. For these reasons, the Office for National Statistics (ONS) recommends that any short-term measurement of change be made with caution."
+    },
+    {
+      "type": "p",
+      "h2": "11. Data sources and quality",
+      "h3": "Data sources",
+      "h4": null,
+      "h5": null,
+      "text": "“Full-time” in the LFS is based on respondents' self-assessment. The estimates relate to an individual's main job only."
+    },
+    {
+      "type": "p",
+      "h2": "11. Data sources and quality",
+      "h3": "Data sources",
+      "h4": null,
+      "h5": null,
+      "text": "The [performance and quality monitoring report](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/labourforcesurveyperformanceandqualitymonitoringreport/2022-02-15) provides data on response rates and other quality measures."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "11. Data sources and quality",
+      "h3": "Sample and methodology",
+      "h4": null,
+      "h5": null,
+      "text": "Sample and methodology"
+    },
+    {
+      "type": "p",
+      "h2": "11. Data sources and quality",
+      "h3": "Sample and methodology",
+      "h4": null,
+      "h5": null,
+      "text": "We use the cross-sectional LFS, for each quarter from Quarter 1 (Jan to Mar) 2007 to Quarter 4 (Oct to Dec) 2021. Individual observations are dropped if any response to any of the characteristics in the model is missing, or if a refusal to respond has been recorded."
+    },
+    {
+      "type": "p",
+      "h2": "11. Data sources and quality",
+      "h3": "Sample and methodology",
+      "h4": null,
+      "h5": null,
+      "text": "The variables included in our model are described in the accompanying dataset, along with brief notes on their specification."
+    },
+    {
+      "type": "p",
+      "h2": "11. Data sources and quality",
+      "h3": "Sample and methodology",
+      "h4": null,
+      "h5": null,
+      "text": "Our identification in the data of which employees were on furlough is our best approximation. Our estimate of furloughed employees undercounts those on furlough compared with the [Coronavirus Job Retention Scheme (CJRS) statistics](https://www.gov.uk/government/statistics/coronavirus-job-retention-scheme-statistics-16-december-2021), which implies that the furlough effect we estimate is likely to be understated."
+    },
+    {
+      "type": "p",
+      "h2": "11. Data sources and quality",
+      "h3": "Sample and methodology",
+      "h4": null,
+      "h5": null,
+      "text": "In particular, we identify furloughed employees from Quarter 3 (July to Sept) 2020 onwards as those employees who have kept their job but have worked reduced hours or not worked because of being on furlough (LFS variable CORO20B2). In Quarter 2 (Apr to June) 2020, the LFS did not collect this specific information, so we use a combination of variables and classify an employee in furlough if they:"
+    },
+    {
+      "type": "li",
+      "h2": "11. Data sources and quality",
+      "h3": "Sample and methodology",
+      "h4": null,
+      "h5": null,
+      "text": "have been temporarily away from paid work (JBAWAY = 1)"
+    },
+    {
+      "type": "li",
+      "h2": "11. Data sources and quality",
+      "h3": "Sample and methodology",
+      "h4": null,
+      "h5": null,
+      "text": "have worked fewer hours than usual (“laid off/short time/work interrupted”) “due to economic or other causes or other reasons” (YLESS20 = 15 OR 19)"
+    },
+    {
+      "type": "li",
+      "h2": "11. Data sources and quality",
+      "h3": "Sample and methodology",
+      "h4": null,
+      "h5": null,
+      "text": "have stated that the reason they worked fewer hours was linked to coronavirus (CORO20A2 = 1)"
+    },
+    {
+      "type": "p",
+      "h2": "11. Data sources and quality",
+      "h3": "Sample and methodology",
+      "h4": null,
+      "h5": null,
+      "text": "For the employee to be put in the “furlough” category, all these criteria must apply to them."
+    },
+    {
+      "type": "p",
+      "h2": "11. Data sources and quality",
+      "h3": "Sample and methodology",
+      "h4": null,
+      "h5": null,
+      "text": "To calculate the compositional effect in year-on-year average weekly earnings growth, we use a pooled Oaxaca decomposition, following [Abel, Burnham and Corder (2016) (PDF, 188.47KB)](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2016/wages-productivity-and-the-changing-composition-of-the-uk-workforce.pdf?la=en&hash=58CAD8A8B872D3225A667281C6104E24469BB124)."
+    },
+    {
+      "type": "p",
+      "h2": "11. Data sources and quality",
+      "h3": "Sample and methodology",
+      "h4": null,
+      "h5": null,
+      "text": "To produce this decomposition, we first estimate wage equations for each quarter. The detailed form of this wage equation is:"
+    },
+    {
+      "type": "p",
+      "h2": "11. Data sources and quality",
+      "h3": "Sample and methodology",
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "p",
+      "h2": "11. Data sources and quality",
+      "h3": "Sample and methodology",
+      "h4": null,
+      "h5": null,
+      "text": "We then calculate the decomposition for each wage equation. The difference in the average wage between the wage equation in one period and the wage equation one period earlier (in this analysis, the same quarter one year earlier) can then be expressed as:"
+    },
+    {
+      "type": "p",
+      "h2": "11. Data sources and quality",
+      "h3": "Sample and methodology",
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "12. Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "12. Related links"
+    },
+    {
+      "type": "p",
+      "h2": "12. Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": "12. Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "[Average weekly earnings in Great Britain: April 2022](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/averageweeklyearningsingreatbritain/april2022) \n Bulletin | Released 12 April 2022 \n Estimates of growth in earnings for employees before tax and other deductions from pay.\n\n[Average weekly earnings in Great Britain: April 2021](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/averageweeklyearningsingreatbritain/april2021) \n Bulletin | Released 20 April 2021 \n Estimates of growth in earnings for employees before tax and other deductions from pay.\n\n[Comparison of labour market data sources](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/comparisonoflabourmarketdatasources) \n Methodology | Last revised 27 April 2022 \n The strengths and weaknesses of the main data sources we use to produce the labour market figures, including the advantages of new administrative data sources and limitations of some of our published figures.\n\n[Far from average: How COVID-19 has impacted the Average Weekly Earnings data](https://blog.ons.gov.uk/2021/07/15/far-from-average-how-covid-19-has-impacted-the-average-weekly-earnings-data/) \n Article | Released 15 July 2021 \n Discussion of how base and compositional effects have impacted average weekly earnings data.",
+      "box_items": null
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "13. Acknowledgements",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "13. Acknowledgements"
+    },
+    {
+      "type": "p",
+      "h2": "13. Acknowledgements",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We would like to thank the Bank of England and Professor Ana Galvao for their input into this work."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "13. Acknowledgements",
+      "h3": "Contact details for this Article",
+      "h4": null,
+      "h5": null,
+      "text": "Contact details for this Article"
+    }
+  ],
+  "scraped_at": "2026-09-22 11:47:12.178464"
+}

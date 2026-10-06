@@ -1,0 +1,592 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/census2021howhomesareheatedinyourarea/2023-01-05",
+  "title": "Census 2021: how homes are heated in your area",
+  "meta_description": "Digital content article exploring different central heating sources in local areas (MSOAs) in England and Wales.",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Housing",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing"
+    },
+    {
+      "text": "Census 2021: how homes are heated in your area",
+      "href": null
+    }
+  ],
+  "date_published": "2023-01-05T00:00:00.000Z",
+  "date_modified": "2023-01-05T00:00:00.000Z",
+  "lede": "As more than half of adults report worry about keeping warm this winter, we explore how homes are heated across England and Wales.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "5 January 2023"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The cost of home energy rose dramatically in 2022, making heating homes over winter more expensive than usual for UK households."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The price cap, a maximum unit price UK consumers can be charged for energy in their homes set by the Office of Gas and Electricity Markets (Ofgem), has risen since the start of 2022. It means [the average annual bill for households has increased from £1,277 to £4,279](https://www.ofgem.gov.uk/publications/latest-energy-price-cap-announced-ofgem), although government support means [average costs for consumers will remain at £2,500 a year until April 2023](https://www.gov.uk/government/publications/energy-bills-support/energy-bills-support-factsheet-8-september-2022)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "These price rises have contributed to higher living costs for many households, particularly during winter. Across Great Britain, 6 in 10 adults (60%) said they were somewhat, or very, worried about keeping warm in their home over winter, and around a quarter (24%) said they had been occasionally, hardly ever or never able to keep warm in their home in the last two weeks. This is according to the latest data from our [Opinions and Lifestyle Survey](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopinionsandsocialtrendsgreatbritain/7to18december2022) covering 7 to 18 December 2022."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Over half (56%) of adults said they were reducing their energy use because of rising costs, and almost half (47%) said they were finding it very or somewhat difficult to pay energy bills."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "How a home is heated affects energy costs and what financial support is available. Census 2021 data show how heating sources vary across England and Wales."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": null,
+      "h4": "Enter your postcode in the search box to find out how homes are heated in your neighbourhood",
+      "h5": null,
+      "text": "Enter your postcode in the search box to find out how homes are heated in your neighbourhood"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": null,
+      "h4": "Enter your postcode in the search box to find out how homes are heated in your neighbourhood",
+      "h5": "Percentage of households by central heating type, by geographical area, England and Wales, 2021",
+      "text": "Percentage of households by central heating type, by geographical area, England and Wales, 2021"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Enter your postcode in the search box to find out how homes are heated in your neighbourhood",
+      "h5": "Percentage of households by central heating type, by geographical area, England and Wales, 2021",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": "Enter your postcode in the search box to find out how homes are heated in your neighbourhood",
+      "h5": "Percentage of households by central heating type, by geographical area, England and Wales, 2021",
+      "title": "Housing central heating type, 2021, England and Wales",
+      "url": "/census/maps/choropleth/housing/type-of-central-heating-in-household/heating-type/mains-gas-only?embed=true&embedInteractive=true&embedAreaSearch=true&embedCategorySelection=true&embedView=geography"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": null,
+      "h4": "Enter your postcode in the search box to find out how homes are heated in your neighbourhood",
+      "h5": "Source: Office for National Statistics – Census 2021",
+      "text": "Source: Office for National Statistics – Census 2021"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Enter your postcode in the search box to find out how homes are heated in your neighbourhood",
+      "h5": "Source: Office for National Statistics – Census 2021",
+      "text": "[Download the data](https://www.ons.gov.uk/datasets/TS046/editions/2021/versions/1)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Enter your postcode in the search box to find out how homes are heated in your neighbourhood",
+      "h5": "Source: Office for National Statistics – Census 2021",
+      "text": "We have looked at how homes are heated across thousands of small geographical areas known as Middle-layer Super Output Areas (MSOAs). We refer to these as neighbourhoods, or use specific [names created by the House of Commons Library](https://houseofcommonslibrary.github.io/msoanames/)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Enter your postcode in the search box to find out how homes are heated in your neighbourhood",
+      "h5": "Source: Office for National Statistics – Census 2021",
+      "text": "Mains gas central heating was by far the most common way that households heated their homes. Around three in four households (74%) in England and Wales said it was their only central heating source."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Enter your postcode in the search box to find out how homes are heated in your neighbourhood",
+      "h5": "Source: Office for National Statistics – Census 2021",
+      "text": "However, there were some places where people depended far more on other heating sources. The [latest Department for Business, Energy and Industrial Strategy (BEIS) fuel poverty data](https://www.gov.uk/government/statistics/fuel-poverty-supplementary-tables-2022) covering 2020 show that households in England with a main fuel source other than mains gas, such as electricity, oil and coal, had higher average fuel costs. This predates the large rises in energy prices seen since 2021."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Enter your postcode in the search box to find out how homes are heated in your neighbourhood",
+      "h5": "Source: Office for National Statistics – Census 2021",
+      "text": "More than half of households in some neighbourhoods said they relied solely on electricity for their central heating, while in others more than half only used oil."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Enter your postcode in the search box to find out how homes are heated in your neighbourhood",
+      "h5": "Source: Office for National Statistics – Census 2021",
+      "text": "The number of households with no central heating also outnumbered those centrally heated by renewable energy only in the vast majority of neighbourhoods."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Electric heating most common in and around cities",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Electric heating most common in and around cities"
+    },
+    {
+      "type": "p",
+      "h2": "Electric heating most common in and around cities",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Census 2021 found that around 2.1 million households across England and Wales said they had electric-only heating, around 9% of all households."
+    },
+    {
+      "type": "p",
+      "h2": "Electric heating most common in and around cities",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "That made it the third-most common heating type, after mains gas and those with a mix of central heating types (excluding renewable energy)."
+    },
+    {
+      "type": "p",
+      "h2": "Electric heating most common in and around cities",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Our [previous analysis](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/ageofthepropertyisthebiggestsinglefactorinenergyefficiencyofhomes/2021-11-01) found that, once other important factors such as the age and type of property were accounted for, homes with electric heating were more likely to have a lower [Energy Performance Certificate (EPC)](https://www.gov.uk/buy-sell-your-home/energy-performance-certificates) rating than those with mains gas."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Electric heating most common in and around cities",
+      "h3": null,
+      "h4": "Greater Manchester had 4 of the 10 neighbourhoods most reliant on electric-only heating",
+      "h5": null,
+      "text": "Greater Manchester had 4 of the 10 neighbourhoods most reliant on electric-only heating"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Electric heating most common in and around cities",
+      "h3": null,
+      "h4": "Greater Manchester had 4 of the 10 neighbourhoods most reliant on electric-only heating",
+      "h5": "Percentage of households by central heating type, by geographical area, England and Wales, 2021",
+      "text": "Percentage of households by central heating type, by geographical area, England and Wales, 2021"
+    },
+    {
+      "type": "p",
+      "h2": "Electric heating most common in and around cities",
+      "h3": null,
+      "h4": "Greater Manchester had 4 of the 10 neighbourhoods most reliant on electric-only heating",
+      "h5": "Percentage of households by central heating type, by geographical area, England and Wales, 2021",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Electric heating most common in and around cities",
+      "h3": null,
+      "h4": "Greater Manchester had 4 of the 10 neighbourhoods most reliant on electric-only heating",
+      "h5": "Percentage of households by central heating type, by geographical area, England and Wales, 2021",
+      "title": "Housing electricity, 2021, England and Wales",
+      "url": "/census/maps/choropleth/housing/type-of-central-heating-in-household/heating-type/electric-only?embed=true&embedInteractive=true&embedAreaSearch=false&embedCategorySelection=false&embedView=viewport&embedBounds=-2.3641697794793686%2C53.42017747638741%2C-2.108107340185967%2C53.52361633595979&geoLock=msoa"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Electric heating most common in and around cities",
+      "h3": null,
+      "h4": "Greater Manchester had 4 of the 10 neighbourhoods most reliant on electric-only heating",
+      "h5": "Source: Office for National Statistics – Census 2021",
+      "text": "Source: Office for National Statistics – Census 2021"
+    },
+    {
+      "type": "p",
+      "h2": "Electric heating most common in and around cities",
+      "h3": null,
+      "h4": "Greater Manchester had 4 of the 10 neighbourhoods most reliant on electric-only heating",
+      "h5": "Source: Office for National Statistics – Census 2021",
+      "text": "[Download the data](https://www.ons.gov.uk/datasets/TS046/editions/2021/versions/1)"
+    },
+    {
+      "type": "p",
+      "h2": "Electric heating most common in and around cities",
+      "h3": null,
+      "h4": "Greater Manchester had 4 of the 10 neighbourhoods most reliant on electric-only heating",
+      "h5": "Source: Office for National Statistics – Census 2021",
+      "text": "Many of the places where a high percentage of households had electric-only heating were in urban areas. The highest was in Manchester’s Castlefield and Deansgate neighbourhood, where 84% of households had it as their only heating source."
+    },
+    {
+      "type": "p",
+      "h2": "Electric heating most common in and around cities",
+      "h3": null,
+      "h4": "Greater Manchester had 4 of the 10 neighbourhoods most reliant on electric-only heating",
+      "h5": "Source: Office for National Statistics – Census 2021",
+      "text": "According to the latest BEIS [data covering England in 2020](https://www.gov.uk/government/statistics/fuel-poverty-supplementary-tables-2022), households who had electricity as their main fuel type faced higher average fuel costs than the average for all main fuel types. They were also more likely to be fuel poor, meaning they had a low EPC rating and their disposable household income [fell below the official poverty line after paying for housing and energy costs](https://www.gov.uk/government/statistics/annual-fuel-poverty-statistics-report-2022)."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "More than half of households in some neighbourhoods heat their homes only with oil",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "More than half of households in some neighbourhoods heat their homes only with oil"
+    },
+    {
+      "type": "p",
+      "h2": "More than half of households in some neighbourhoods heat their homes only with oil",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Across England and Wales, 865,940 households said oil was their only source of central heating."
+    },
+    {
+      "type": "p",
+      "h2": "More than half of households in some neighbourhoods heat their homes only with oil",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "While that only accounts for around 3% of all households, the percentage was much higher in some neighbourhoods, especially in parts of the East of England."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "More than half of households in some neighbourhoods heat their homes only with oil",
+      "h3": null,
+      "h4": "7 out of the 10 areas where oil-only heating was most common were in the East of England",
+      "h5": null,
+      "text": "7 out of the 10 areas where oil-only heating was most common were in the East of England"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "More than half of households in some neighbourhoods heat their homes only with oil",
+      "h3": null,
+      "h4": "7 out of the 10 areas where oil-only heating was most common were in the East of England",
+      "h5": "Percentage of households by central heating type, by geographical area, England and Wales, 2021",
+      "text": "Percentage of households by central heating type, by geographical area, England and Wales, 2021"
+    },
+    {
+      "type": "p",
+      "h2": "More than half of households in some neighbourhoods heat their homes only with oil",
+      "h3": null,
+      "h4": "7 out of the 10 areas where oil-only heating was most common were in the East of England",
+      "h5": "Percentage of households by central heating type, by geographical area, England and Wales, 2021",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "More than half of households in some neighbourhoods heat their homes only with oil",
+      "h3": null,
+      "h4": "7 out of the 10 areas where oil-only heating was most common were in the East of England",
+      "h5": "Percentage of households by central heating type, by geographical area, England and Wales, 2021",
+      "title": "Housing oil, 2021, England and Wales",
+      "url": "/census/maps/choropleth/housing/type-of-central-heating-in-household/heating-type/oil-only?embed=true&embedInteractive=true&embedAreaSearch=false&embedCategorySelection=false&embedView=viewport&embedBounds=-0.12871252365957275%2C51.99869861622659%2C2.3557970494017297%2C53.02484366205158&geoLock=msoa"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "More than half of households in some neighbourhoods heat their homes only with oil",
+      "h3": null,
+      "h4": "7 out of the 10 areas where oil-only heating was most common were in the East of England",
+      "h5": "Source: Office for National Statistics – Census 2021",
+      "text": "Source: Office for National Statistics – Census 2021"
+    },
+    {
+      "type": "p",
+      "h2": "More than half of households in some neighbourhoods heat their homes only with oil",
+      "h3": null,
+      "h4": "7 out of the 10 areas where oil-only heating was most common were in the East of England",
+      "h5": "Source: Office for National Statistics – Census 2021",
+      "text": "[Download the data](https://www.ons.gov.uk/datasets/TS046/editions/2021/versions/1)"
+    },
+    {
+      "type": "p",
+      "h2": "More than half of households in some neighbourhoods heat their homes only with oil",
+      "h3": null,
+      "h4": "7 out of the 10 areas where oil-only heating was most common were in the East of England",
+      "h5": "Source: Office for National Statistics – Census 2021",
+      "text": "Parts of Wales were also reliant on oil for central heating, with 68% of households in Llan-non, Cross Hands and Pen-y-groes in Carmarthenshire using just oil – more than any other neighbourhood."
+    },
+    {
+      "type": "p",
+      "h2": "More than half of households in some neighbourhoods heat their homes only with oil",
+      "h3": null,
+      "h4": "7 out of the 10 areas where oil-only heating was most common were in the East of England",
+      "h5": "Source: Office for National Statistics – Census 2021",
+      "text": "Homes heated by mains gas and electricity are covered by the [Energy Price Guarantee](https://www.gov.uk/government/publications/energy-bills-support/energy-bills-support-factsheet-8-september-2022), which limits the amount consumers can be charged per unit of energy used and came into effect in October 2022."
+    },
+    {
+      "type": "p",
+      "h2": "More than half of households in some neighbourhoods heat their homes only with oil",
+      "h3": null,
+      "h4": "7 out of the 10 areas where oil-only heating was most common were in the East of England",
+      "h5": "Source: Office for National Statistics – Census 2021",
+      "text": "Homes using any alternative heating fuels such as oil, liquid petroleum gas (LPG), coal and biomass are not covered by the Energy Price Guarantee, but are eligible for an Alternative Fuel Payment of £200."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "The three neighbourhoods where having no central heating was most common were in the South West",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The three neighbourhoods where having no central heating was most common were in the South West"
+    },
+    {
+      "type": "p",
+      "h2": "The three neighbourhoods where having no central heating was most common were in the South West",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "A minority of households in England and Wales (1%) did not have any central heating, although that still amounted to 367,130 homes."
+    },
+    {
+      "type": "p",
+      "h2": "The three neighbourhoods where having no central heating was most common were in the South West",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In around 6,500 out of 7,260 neighbourhoods (89%), there were more households with no central heating than those centrally heated by renewable energy only. Overall, less than 1% of households in England and Wales said their central heating was powered by renewables only."
+    },
+    {
+      "type": "p",
+      "h2": "The three neighbourhoods where having no central heating was most common were in the South West",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "While households without central heating may have other ways of heating their homes, a lack of central heating is one of the characteristics used in our [Census 2021 data](https://www.ons.gov.uk/census/maps/choropleth/population/household-deprivation/hh-deprivation/household-is-not-deprived-in-any-dimension) to identify potential household deprivation."
+    },
+    {
+      "type": "p",
+      "h2": "The three neighbourhoods where having no central heating was most common were in the South West",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The Isles of Scilly had the highest percentage of households with no central heating (18%), although its small population means that relatively few households could represent a large percentage."
+    },
+    {
+      "type": "p",
+      "h2": "The three neighbourhoods where having no central heating was most common were in the South West",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "That was followed by St Just and Land's End in Cornwall (8%), while several other neighbourhoods in the county had relatively high percentages of households without central heating."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "The three neighbourhoods where having no central heating was most common were in the South West",
+      "h3": null,
+      "h4": "Around 8% of households in St Just and Land's End had no central heating",
+      "h5": null,
+      "text": "Around 8% of households in St Just and Land's End had no central heating"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "The three neighbourhoods where having no central heating was most common were in the South West",
+      "h3": null,
+      "h4": "Around 8% of households in St Just and Land's End had no central heating",
+      "h5": "Percentage of households by central heating type, by geographical area, England and Wales, 2021",
+      "text": "Percentage of households by central heating type, by geographical area, England and Wales, 2021"
+    },
+    {
+      "type": "p",
+      "h2": "The three neighbourhoods where having no central heating was most common were in the South West",
+      "h3": null,
+      "h4": "Around 8% of households in St Just and Land's End had no central heating",
+      "h5": "Percentage of households by central heating type, by geographical area, England and Wales, 2021",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "The three neighbourhoods where having no central heating was most common were in the South West",
+      "h3": null,
+      "h4": "Around 8% of households in St Just and Land's End had no central heating",
+      "h5": "Percentage of households by central heating type, by geographical area, England and Wales, 2021",
+      "title": "Housing no central heating, 2021, England and Wales",
+      "url": "/census/maps/choropleth/housing/type-of-central-heating-in-household/heating-type/no-central-heating?embed=true&embedInteractive=true&embedAreaSearch=false&embedCategorySelection=false&embedView=viewport&embedBounds=-6.488346948205873%2C49.71533135932694%2C-3.3860351912087765%2C51.01232748813209&geoLock=msoa"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "The three neighbourhoods where having no central heating was most common were in the South West",
+      "h3": null,
+      "h4": "Around 8% of households in St Just and Land's End had no central heating",
+      "h5": "Source: Office for National Statistics – Census 2021",
+      "text": "Source: Office for National Statistics – Census 2021"
+    },
+    {
+      "type": "p",
+      "h2": "The three neighbourhoods where having no central heating was most common were in the South West",
+      "h3": null,
+      "h4": "Around 8% of households in St Just and Land's End had no central heating",
+      "h5": "Source: Office for National Statistics – Census 2021",
+      "text": "[Download the data](https://www.ons.gov.uk/datasets/TS046/editions/2021/versions/1)"
+    },
+    {
+      "type": "p",
+      "h2": "The three neighbourhoods where having no central heating was most common were in the South West",
+      "h3": null,
+      "h4": "Around 8% of households in St Just and Land's End had no central heating",
+      "h5": "Source: Office for National Statistics – Census 2021",
+      "text": "Many other neighbourhoods with the highest percentages of households with no central heating were in cities, including parts of Leeds, Birmingham and London."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Relatively few homes are centrally heated with renewable energy",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Relatively few homes are centrally heated with renewable energy"
+    },
+    {
+      "type": "p",
+      "h2": "Relatively few homes are centrally heated with renewable energy",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Only 98,730 households in England and Wales said their central heating was powered completely by renewable energy, less than 1% of the total."
+    },
+    {
+      "type": "p",
+      "h2": "Relatively few homes are centrally heated with renewable energy",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "However, a further 134,650 (also less than 1% of all households) had multiple sources of central heating, including renewables."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Relatively few homes are centrally heated with renewable energy",
+      "h3": null,
+      "h4": "5 of the top 10 areas for renewable-only heating were in Cornwall",
+      "h5": null,
+      "text": "5 of the top 10 areas for renewable-only heating were in Cornwall"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Relatively few homes are centrally heated with renewable energy",
+      "h3": null,
+      "h4": "5 of the top 10 areas for renewable-only heating were in Cornwall",
+      "h5": "Percentage of households by central heating type, by geographical area, England and Wales, 2021",
+      "text": "Percentage of households by central heating type, by geographical area, England and Wales, 2021"
+    },
+    {
+      "type": "p",
+      "h2": "Relatively few homes are centrally heated with renewable energy",
+      "h3": null,
+      "h4": "5 of the top 10 areas for renewable-only heating were in Cornwall",
+      "h5": "Percentage of households by central heating type, by geographical area, England and Wales, 2021",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Relatively few homes are centrally heated with renewable energy",
+      "h3": null,
+      "h4": "5 of the top 10 areas for renewable-only heating were in Cornwall",
+      "h5": "Percentage of households by central heating type, by geographical area, England and Wales, 2021",
+      "title": "Housing renewables, 2021, England and Wales",
+      "url": "/census/maps/choropleth/housing/type-of-central-heating-in-household/heating-type/renewable-energy-only?embed=true&embedInteractive=true&embedAreaSearch=false&embedCategorySelection=false&embedView=viewport&embedBounds=-6.469503557004231%2C49.75169171910335%2C-3.6762791488375797%2C50.92017125744252&geoLock=msoa"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Relatively few homes are centrally heated with renewable energy",
+      "h3": null,
+      "h4": "5 of the top 10 areas for renewable-only heating were in Cornwall",
+      "h5": "Source: Office for National Statistics – Census 2021",
+      "text": "Source: Office for National Statistics – Census 2021"
+    },
+    {
+      "type": "p",
+      "h2": "Relatively few homes are centrally heated with renewable energy",
+      "h3": null,
+      "h4": "5 of the top 10 areas for renewable-only heating were in Cornwall",
+      "h5": "Source: Office for National Statistics – Census 2021",
+      "text": "[Download the data](https://www.ons.gov.uk/datasets/TS046/editions/2021/versions/1)"
+    },
+    {
+      "type": "p",
+      "h2": "Relatively few homes are centrally heated with renewable energy",
+      "h3": null,
+      "h4": "5 of the top 10 areas for renewable-only heating were in Cornwall",
+      "h5": "Source: Office for National Statistics – Census 2021",
+      "text": "The neighbourhoods with the highest percentage of homes centrally heated by renewables were mostly in the East of England and Cornwall."
+    },
+    {
+      "type": "box",
+      "h2": "Relatively few homes are centrally heated with renewable energy",
+      "h3": null,
+      "h4": "5 of the top 10 areas for renewable-only heating were in Cornwall",
+      "h5": "Source: Office for National Statistics – Census 2021",
+      "box_h2": "You might also be interested in",
+      "box_h3": null,
+      "box_text": "",
+      "box_items": [
+        "[Housing: Census 2021 in England and Wales](https://www.ons.gov.uk/releases/housingcensus2021inenglandandwales)",
+        "[Energy efficiency of housing in England and Wales: 2022](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/energyefficiencyofhousinginenglandandwales/2022)",
+        "[Public opinions and social trends, Great Britain](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/publicopinionsandsocialtrendsgreatbritain/7to18december2022)",
+        "[The impact of winter pressures on adults in Great Britain](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/articles/theimpactofwinterpressuresonadultsingreatbritain/december2022)"
+      ]
+    },
+    {
+      "type": "box",
+      "h2": "Relatively few homes are centrally heated with renewable energy",
+      "h3": null,
+      "h4": "5 of the top 10 areas for renewable-only heating were in Cornwall",
+      "h5": "Source: Office for National Statistics – Census 2021",
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "Digital Content\n[digitalcontent@ons.gov.uk](mailto:digitalcontent@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:46:32.454041"
+}

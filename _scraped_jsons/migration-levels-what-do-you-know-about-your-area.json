@@ -1,0 +1,266 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/migrationlevelswhatdoyouknowaboutyourarea/2017-08-24",
+  "title": "Migration levels: What do you know about your area?",
+  "meta_description": null,
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Population and migration",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration"
+    },
+    {
+      "text": "International migration",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration"
+    },
+    {
+      "text": "Migration levels: What do you know about your area?",
+      "href": null
+    }
+  ],
+  "date_published": "2017-08-24T08:30:29.000Z",
+  "date_modified": "2017-08-24T08:30:29.000Z",
+  "lede": null,
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "24 August 2017"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Migration is a topic which often features in newspaper column inches and on our television screens. Today it was revealed that in the year ending March 2017 net migration (the balance between immigration – those entering the UK for a year or more, and emigration – those leaving the UK for a year or more) was estimated to be +246,000. Also, it was reported that across the UK 1 in 7 people were born outside the UK and 1 in 11 people were non-British nationals in 2016."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "But the picture of migration is more complex; migration affects some local areas more than others. What do you think the levels are like in your local area?1"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "How well do you know migration?",
+      "url": "/visualisations/dvc430/quiz/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Download the data](/visualisations//visual/2017/08/quizdata.csv)."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "How much does the non-British population vary across the UK?",
+      "h4": null,
+      "h5": null,
+      "text": "How much does the non-British population vary across the UK?"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "How much does the non-British population vary across the UK?",
+      "h4": null,
+      "h5": null,
+      "text": "The map shows that the largest non-UK British populations are in the London area. In 2016 the five local authorities with the largest proportions of non-British nationals were all in London: Kensington and Chelsea (37% non-British nationals), Brent (34%), Westminster (34%), Newham (33%) and Ealing (32%). All of these local authorities are within London, which is the region with the largest proportion of non-British nationals residing (23%). The UK region with the lowest proportion of non-British nationals is North East England (4%). The map shows that the percentage of the non-British population is generally lower outside of London, and the lowest levels tend to be found in rural areas."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "How much does the non-British population vary across the UK?",
+      "h4": null,
+      "h5": null,
+      "text": "Overall for the UK as a whole, the proportion of the non-British population was 9.3% (6.0 million of 64.7 million). Of this, 3.6 million were EU nationals, and 2.4 million were non-EU nationals."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "How much does the non-British population vary across the UK?",
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "How much does the non-British population vary across the UK?",
+      "h4": null,
+      "h5": null,
+      "title": "Maps",
+      "url": "/visualisations/dvc430/map/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "How much does the non-British population vary across the UK?",
+      "h4": null,
+      "h5": null,
+      "text": "Source: [Office for National Statistics (ONS)](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/populationbycountryofbirthandnationalityreport/previousReleases) [Download the data](/visualisations//visual/2017/08/mapdata.csv)."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "How does your local area compare with the rest of the UK in terms of indicators of migration1?",
+      "h4": null,
+      "h5": null,
+      "text": "How does your local area compare with the rest of the UK in terms of indicators of migration1?"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "How does your local area compare with the rest of the UK in terms of indicators of migration1?",
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "How does your local area compare with the rest of the UK in terms of indicators of migration1?",
+      "h4": null,
+      "h5": null,
+      "title": "Local Area Migration Indicators",
+      "url": "/visualisations/dvc430/barcode/barcodeGrouped/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "How does your local area compare with the rest of the UK in terms of indicators of migration1?",
+      "h4": null,
+      "h5": null,
+      "text": "[Download the data](/visualisations//visual/2017/08/barcodedata-1.xlsx)."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "How does your local area compare with the rest of the UK in terms of indicators of migration1?",
+      "h4": null,
+      "h5": "Notes:",
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "How does your local area compare with the rest of the UK in terms of indicators of migration1?",
+      "h4": null,
+      "h5": "Notes:",
+      "text": "It is important to understand that these data sources measure different things; some measure flows and some measure stocks. There are definitional and coverage differences between the data sources and as such they are not directly comparable. More information is provided in the [Comparing sources of international migration statistics note](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/comparingsourcesofinternationalmigrationstatistics/december2016)."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "How does your local area compare with the rest of the UK in terms of indicators of migration1?",
+      "h4": null,
+      "h5": "Notes:",
+      "text": "Net migration is the balance between immigration (those entering the UK for a year or more) and emigration (those leaving the UK for a year or more)."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "How does your local area compare with the rest of the UK in terms of indicators of migration1?",
+      "h4": null,
+      "h5": "Notes:",
+      "text": "The Short-Term International Migration (STIM) data in this release is based on the United Nations (UN) definition of a short-term migrant – “a person who moves to a country other than that of his or her usual residence for a period of at least 3 months but less than a year (12 months), except in cases where the movement to that country is for purposes of recreation, holiday, visits to friends or relatives, business, medical treatment or religious pilgrimage”."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "How does your local area compare with the rest of the UK in terms of indicators of migration1?",
+      "h4": null,
+      "h5": "Notes:",
+      "text": "GP registration data excludes those migrants who move to a different local authority and register with a GP there, as they will only be registered as a migrant upon initial arrival to the UK, not when they subsequently move within the UK."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "How does your local area compare with the rest of the UK in terms of indicators of migration1?",
+      "h4": null,
+      "h5": "Notes:",
+      "text": "Other Visual.ONS articles: [Migration, the European Union and work: How much do you really know?](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/migrationtheeuropeanunionandworkhowmuchdoyoureallyknow/2017-07-19) [Explore 50 years of international migration to and from the UK](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/explore50yearsofinternationalmigrationtoandfromtheuk/2016-12-01) [What’s changed in the year since the Brexit vote?](https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/whatschangedsincethebrexitvote/2017-06-23)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "How does your local area compare with the rest of the UK in terms of indicators of migration1?",
+      "h4": null,
+      "h5": "Notes:",
+      "text": "If you like our Visual.ONS content and would like to see more, please [sign up to our email alerts](https://public.govdelivery.com/accounts/UKONS/subscribers/new), selecting ‘stories and infographics’ under preferences."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Footnotes:",
+      "h4": null,
+      "h5": null,
+      "text": "Footnotes:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Footnotes:",
+      "h4": null,
+      "h5": null,
+      "text": "Migration to local areas are estimates and we cannot be 100% certain of the exact number. More information on how these are calculated is available from our [Methodology Guide for UK Population Estimates (England and Wales)"
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": "Footnotes:",
+      "h4": null,
+      "h5": null,
+      "box_h2": "You might also be interested in",
+      "box_h3": null,
+      "box_text": "",
+      "box_items": [
+        "[Local Area Migration Indicators Suite and Quality and Methodology Information](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/qmis/localareamigrationindicatorssuiteqmi)",
+        "[Population of the UK by Country of Birth and Nationality](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/ukpopulationbycountryofbirthandnationality/august2016)",
+        "[Comparing sources of international migration statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/comparingsourcesofinternationalmigrationstatistics/december2016)"
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": "Footnotes:",
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[digitalcontent@ons.gov.uk](mailto:digitalcontent@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:46:50.914792"
+}

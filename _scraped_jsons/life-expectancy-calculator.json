@@ -1,0 +1,152 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/articles/lifeexpectancycalculator/2019-06-07",
+  "title": "Life expectancy calculator",
+  "meta_description": "Enter your age and sex in our calculator to find out your life expectancy, and the likelihood of you living to be 100 years old.",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Health and social care",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare"
+    },
+    {
+      "text": "Health and life expectancies",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies"
+    },
+    {
+      "text": "Life expectancy calculator",
+      "href": null
+    }
+  ],
+  "date_published": "2019-06-06T23:00:00.000Z",
+  "date_modified": "2019-06-06T23:00:00.000Z",
+  "lede": "Use our interactive calculator to find out average life expectancy for someone of your age and sex.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "People are living longer. Improved working conditions, reduced smoking rates and improved healthcare have all contributed to increasing life expectancy from generation to generation."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Use our interactive calculator to find out average life expectancy and the likelihood of living to be aged 100 years for someone of your age and sex, given assumed future mortality improvements."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This is average cohort life expectancy which does not consider other factors that may affect life expectancy such as lifestyle or health conditions."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The life expectancy calculator is available for ages 0 to 100 years. Expectations of life at the oldest ages are highly uncertain and have not been included in the life expectancy calculator or accompanying data tables."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "Interactive chart",
+      "url": "/visualisations/dvc221/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The average life expectancy values are age as at last birthday. For example, if the average life expectancy was 87.95 years, the age provided by the life expectancy calculator would be 87 years."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We have recently changed the headline measures presented in the life expectancy calculator to reduce the amount of rounding involved and increase the accuracy of the information provided. If you have any feedback on these changes, please contact [pop.info@ons.gov.uk](mailto:pop.info@ons.gov.uk)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Additional data on the chances of living to different ages are available in our [Life tables, principal projection, UK dataset](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/datasets/lifetablesprincipalprojectionunitedkingdom) by selecting \"Cohort\", the age of interest and the current year from the drop-down menus. Data are also available for England and Wales in our [Life tables, principal projection, England and Wales dataset](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/datasets/lifetablesprincipalprojectionenglandandwales)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Last updated: 22 July 2026."
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Related",
+      "box_h3": null,
+      "box_text": "Statistical bulletin | Released on 15 May 2026\n\nPeriod and cohort life tables, including expectations of life, using past and projected mortality data from the 2024-based national population projections.",
+      "box_items": [
+        "[Past and projected period and cohort life tables](/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/bulletins/pastandprojecteddatafromtheperiodandcohortlifetables/2024baseduk1981to2074) Statistical bulletin | Released on 15 May 2026 Period and cohort life tables, including expectations of life, using past and projected mortality data from the 2024-based national population projections."
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "You might also be interested in",
+      "box_h3": null,
+      "box_text": "",
+      "box_items": [
+        "[Gender pay gap explorer](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/genderpaygapexplorer/2019-06-07)",
+        "[Baby names explorer](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/articles/babynamesexplorer/2019-06-07)"
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[pop.info@ons.gov.uk](mailto:pop.info@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:48:46.478536"
+}

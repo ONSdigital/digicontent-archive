@@ -1,0 +1,188 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/populationprofilesforlocalauthoritiesinengland/2020-12-14",
+  "title": "Population profiles for local authorities in England",
+  "meta_description": "Population characteristics for local authorities in England, including age, ethnicity and industry.",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Population and migration",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration"
+    },
+    {
+      "text": "Population estimates",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates"
+    },
+    {
+      "text": "Population profiles for local authorities in England",
+      "href": null
+    }
+  ],
+  "date_published": "2020-12-14T00:00:00.000Z",
+  "date_modified": "2020-12-14T00:00:00.000Z",
+  "lede": "Population characteristics for local authorities in England, including age, ethnicity and industry.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Following the easing of a national lockdown in England, our interactive chart allows you to compare population statistics between local authorities."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Select a local authority to see how it compares with other areas for each indicator. Indicators include:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "population (age, density and schoolchildren)"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "age groups"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "ethnicity"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "employment"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "industry"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "those in key worker occupations"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "deprivation."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Highlight local authorities in a region with the filter in order to see how the indicators vary within regions."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "Population profiles",
+      "url": "/visualisations/dvc1071/profiles/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Download the data](/visualisations/dvc1071/profiles/datadownload.xlsx)"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": null,
+      "h4": "Notes",
+      "h5": null,
+      "text": "Notes"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": "Notes",
+      "h5": null,
+      "text": "Indicators relate to local authorities effective as at 1 April 2020 where available."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": "Notes",
+      "h5": null,
+      "text": "Indicators contain statistics from the latest available or most appropriate data sources at the time of publication."
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": "Notes",
+      "h5": null,
+      "box_h2": "You might also be interested in",
+      "box_h3": null,
+      "box_text": "",
+      "box_items": [
+        "[The main ONS coronavirus analysis summarised in our roundup](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup/2020-03-26)",
+        "[View all coronavirus data](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/datalist)"
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": "Notes",
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[pop.info@ons.gov.uk](mailto:pop.info@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:46:18.863508"
+}

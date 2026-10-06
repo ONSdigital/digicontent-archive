@@ -1,0 +1,1220 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/populationandmigrationstatisticstransformationenglandandwalescasestudy/2023",
+  "title": "Population and migration statistics transformation, England and Wales case study: 2023",
+  "meta_description": "Understanding the effectiveness of our administrative data in telling the story of our national population.",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Population and migration",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration"
+    },
+    {
+      "text": "Population estimates",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates"
+    },
+    {
+      "text": "Population and migration statistics transformation, England and Wales case study",
+      "href": null
+    }
+  ],
+  "date_published": "2023-06-26T23:00:00.000Z",
+  "date_modified": "2023-06-26T23:00:00.000Z",
+  "lede": "Understanding the effectiveness of our administrative data in telling the story of our national population.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "27 June 2023"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "\n"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "To better understand the needs of our society at a local level, we must first understand the effectiveness of our administrative data in telling the story of our national population. Specifically, gathering timely data to provide the most accurate picture of the national population and best direct services to meet needs across England and Wales."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "All admin-based statistics in this article are referenced to mid-year and Census 2021 referenced to March 2021. This may lead to some differences in the comparisons. The exception to this is the admin-based population estimates (ABPEs), which are compared with the Census 2021-based mid-year estimates."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Some statistics in this report are not official and should not be used for decision-making. They are estimates based on new methodologies that are different from those currently used to produce official statistics. These outputs must not be reproduced without this warning."
+    },
+    {
+      "type": "image",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "src": "/visualisations/dvc2609/images/2156_Population-and-migration_Illustration.png",
+      "alt": null
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Population and migration in England and Wales",
+      "h4": null,
+      "h5": null,
+      "text": "Population and migration in England and Wales"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population and migration in England and Wales",
+      "h4": null,
+      "h5": null,
+      "text": "Our admin-based population estimates (ABPEs) data show that there were 59,620,100 people living in England and Wales in 2021. The population was 51.0% female, 49.0% male. This increased by 1.0% to 60,236,400 in 2022 (Figure 2)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Population and migration in England and Wales",
+      "h4": "Figure 1: ABPE data show a similar population structure to the Census 2021-based mid-year estimates",
+      "h5": null,
+      "text": "Figure 1: ABPE data show a similar population structure to the Census 2021-based mid-year estimates"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population and migration in England and Wales",
+      "h4": "Figure 1: ABPE data show a similar population structure to the Census 2021-based mid-year estimates",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Population and migration in England and Wales",
+      "h4": "Figure 1: ABPE data show a similar population structure to the Census 2021-based mid-year estimates",
+      "h5": null,
+      "title": "Figure 1: ABPE data show a similar population structure to the Census 2021-based mid-year estimates",
+      "url": "/visualisations/dvc2609/E_W/Fig1/index.html"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Population and migration in England and Wales",
+      "h4": "Figure 1: ABPE data show a similar population structure to the Census 2021-based mid-year estimates",
+      "h5": null,
+      "text": "As Census 2021- based MYE is used as an input to the model, outputs are very similar to Census 2021-based MYE. There are small differences because the dynamic population model (DPM) balances the information available in population stocks and flows based on their respective measures of precision."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population and migration in England and Wales",
+      "h4": "Figure 1: ABPE data show a similar population structure to the Census 2021-based mid-year estimates",
+      "h5": null,
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/E_W/Fig1/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population and migration in England and Wales",
+      "h4": "Figure 1: ABPE data show a similar population structure to the Census 2021-based mid-year estimates",
+      "h5": null,
+      "text": "Identifying movement of the population is also important for decision-makers to understand the changing service needs, particularly during and after a special event such as the coronavirus (COVID-19) pandemic. Our ABPEs enable us to see the change in population between 2021 (during various lockdowns) and 2022 (after lockdown) at least four months earlier than the current census-based system."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Population and migration in England and Wales",
+      "h4": "Figure 2: The largest changes in population between 2021 and 2022 are in London local authorities",
+      "h5": null,
+      "text": "Figure 2: The largest changes in population between 2021 and 2022 are in London local authorities"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population and migration in England and Wales",
+      "h4": "Figure 2: The largest changes in population between 2021 and 2022 are in London local authorities",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Population and migration in England and Wales",
+      "h4": "Figure 2: The largest changes in population between 2021 and 2022 are in London local authorities",
+      "h5": null,
+      "title": "Figure 2: The largest changes in population between 2021 and 2022 are in London local authorities ",
+      "url": "/visualisations/dvc2609/E_W/Fig2/index.html"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Population and migration in England and Wales",
+      "h4": "Figure 2: The largest changes in population between 2021 and 2022 are in London local authorities",
+      "h5": null,
+      "text": "City of London (plus 24%) and Isles of Sicily (plus 10%) have been omitted from the figure to show the distribution of all other areas more clearly across England and Wales."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population and migration in England and Wales",
+      "h4": "Figure 2: The largest changes in population between 2021 and 2022 are in London local authorities",
+      "h5": null,
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/E_W/Fig2/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population and migration in England and Wales",
+      "h4": "Figure 2: The largest changes in population between 2021 and 2022 are in London local authorities",
+      "h5": null,
+      "text": "We are also able to understand more local areas, such as Lower layer Super Output Areas (LSOA), using administrative data on a regular basis to understand how the local populations are changing. Please see our [local authority case studies](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/casestudiesforthepopulationandmigrationstatisticstransformation/englandandwales2023) and [downloadable datasets](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/casestudiesforthepopulationandmigrationstatisticstransformation/englandandwales2023/relateddata) for examples of this."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population and migration in England and Wales",
+      "h4": "Figure 2: The largest changes in population between 2021 and 2022 are in London local authorities",
+      "h5": null,
+      "text": "Understanding who or what behaviours are driving these population changes further supports decision-making around directing services. For example, an area may need more medical services if the population increases significantly during the day."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Population and migration in England and Wales",
+      "h4": "Figure 2: The largest changes in population between 2021 and 2022 are in London local authorities",
+      "h5": null,
+      "text": "To view how local area populations across England and Wales change over the day, please see [Estimating the population by time of day](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsworkingpaperseriesno31estimatingpopulationbytimeofday)."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Population and migration in England and Wales",
+      "h4": "Figure 2: The largest changes in population between 2021 and 2022 are in London local authorities",
+      "h5": null,
+      "text": "To view work-related travel to and from small areas across England and Wales, please see [Travel to work](https://datasciencecampus.ons.gov.uk/?p=12459)."
+    },
+    {
+      "type": "image",
+      "h2": null,
+      "h3": "Population and migration in England and Wales",
+      "h4": "Figure 2: The largest changes in population between 2021 and 2022 are in London local authorities",
+      "h5": null,
+      "src": "/visualisations/dvc2609/images/2156_Population-sub-groups-characteristics_Illustration.png",
+      "alt": null
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": null,
+      "h5": null,
+      "text": "Population sub-groups and characteristics in England and Wales"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": null,
+      "h5": null,
+      "text": "Beyond the size and structure of the population, we can learn more about the makeup of the communities across England and Wales by examining the characteristics of our residents. Using our [admin-based ethnicity statistics (ABES)](https://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/ethnicity/articles/developingadminbasedethnicitystatisticsforenglandandwales/2020), we can provide insights into where ethnic groups tend to be concentrated at local authority level."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": null,
+      "h5": null,
+      "text": "The largest proportion of the population in England and Wales are those identifying as the \"White\" ethnic group (Figure 3)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 3: The ABES proportion of ethnic groups in England and Wales is similar to census",
+      "h5": null,
+      "text": "Figure 3: The ABES proportion of ethnic groups in England and Wales is similar to census"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 3: The ABES proportion of ethnic groups in England and Wales is similar to census",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 3: The ABES proportion of ethnic groups in England and Wales is similar to census",
+      "h5": null,
+      "title": "Figure 3: The ABES proportion of ethnic groups in England and Wales is similar to census",
+      "url": "/visualisations/dvc2609/E_W/Fig3/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 3: The ABES proportion of ethnic groups in England and Wales is similar to census",
+      "h5": null,
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/E_W/Fig3/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 3: The ABES proportion of ethnic groups in England and Wales is similar to census",
+      "h5": null,
+      "text": "We can learn more about our population and their service needs through disaggregating by characteristics such as age and sex. For example, to better understand healthcare needs we can explore the differences between the types of ageing populations across our local areas."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 3: The ABES proportion of ethnic groups in England and Wales is similar to census",
+      "h5": null,
+      "text": "Comparing the \"White\" ethnic group with all other ethnic groups in England and Wales shows the difference in population structure of age groups for both sexes, seen in Figures 4a and 4b. These differences for all other ethnic groups compared with the \"White\" ethnic group may inform future health provisions to better meet the needs of these people."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 3: The ABES proportion of ethnic groups in England and Wales is similar to census",
+      "h5": null,
+      "text": "The same trends are seen when comparing against census, although for certain age groups the ABES estimates differ from census more broadly."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 4: Younger age groups have a more diverse population of ethnic minorities for both males and females in England and Wales",
+      "h5": null,
+      "text": "Figure 4: Younger age groups have a more diverse population of ethnic minorities for both males and females in England and Wales"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 4: Younger age groups have a more diverse population of ethnic minorities for both males and females in England and Wales",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 4: Younger age groups have a more diverse population of ethnic minorities for both males and females in England and Wales",
+      "h5": null,
+      "title": "4a. Admin-based ethnicity statistics (ABES), “White” ethnic group by age and sex, England and Wales, 2021",
+      "url": "/visualisations/dvc2609/E_W/Fig4a/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 4: Younger age groups have a more diverse population of ethnic minorities for both males and females in England and Wales",
+      "h5": null,
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/E_W/Fig4a/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 4: Younger age groups have a more diverse population of ethnic minorities for both males and females in England and Wales",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 4: Younger age groups have a more diverse population of ethnic minorities for both males and females in England and Wales",
+      "h5": null,
+      "title": "4b. Admin-based ethnicity statistics (ABES), all other ethnic groups by age and sex, England and Wales, 2021",
+      "url": "/visualisations/dvc2609/E_W/Fig4b/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 4: Younger age groups have a more diverse population of ethnic minorities for both males and females in England and Wales",
+      "h5": null,
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/E_W/Fig4b/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 4: Younger age groups have a more diverse population of ethnic minorities for both males and females in England and Wales",
+      "h5": null,
+      "text": "We can also learn about these differences at local authority and smaller local areas including Lower layer Super Output Areas (LSOA). Please see our [local authority case studies](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/casestudiesforthepopulationandmigrationstatisticstransformation/englandandwales2023) and evidence of LSOA coverage from ABES in our previous [Developing admin-based ethnicity statistics for England and Wales: 2020 publication](https://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/ethnicity/articles/developingadminbasedethnicitystatisticsforenglandandwales/2020#ethnic-breakdown:~:text=Comparisons%20of%20ethnicity%20statistics). For more information on ethnic groups at LSOA level, please see our [associated datasets](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/casestudiesforthepopulationandmigrationstatisticstransformation/englandandwales2023/relateddata), which include our updated figures for 2021."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 4: Younger age groups have a more diverse population of ethnic minorities for both males and females in England and Wales",
+      "h5": null,
+      "text": "Using our admin-based income statistics (ABIS), we can form a more detailed picture of how the people of England and Wales are living and understand more about the inequalities occurring across the nation. Median occupied address net income is the income for people living at the same address, which we use as a proxy for households. Median occupied address net income is £27,269 in England and £26,427 in Wales, for reference tax year ending 2018."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 4: Younger age groups have a more diverse population of ethnic minorities for both males and females in England and Wales",
+      "h5": null,
+      "text": "At local levels there are pockets where the median occupied address net income is lower than national averages, which is important knowledge for central policy makers and for local planners to better target their services. There are some caveats to be considered when analysing these trends, for example, 3.3% of the occupied addresses in England and Wales have no captured income information. For this information at local authority and LSOA level, please see [our local authority case studies](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/casestudiesforthepopulationandmigrationstatisticstransformation/englandandwales2023)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 4: Younger age groups have a more diverse population of ethnic minorities for both males and females in England and Wales",
+      "h5": null,
+      "text": "Our admin-based income by ethnicity statistics (ABIES) estimate the net income for individuals aged 16 years and over with income information identified by five-category ethnic group. Figures 5a and 5b show in England and Wales there is some variation across the ethnic groups."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 4: Younger age groups have a more diverse population of ethnic minorities for both males and females in England and Wales",
+      "h5": null,
+      "text": "In England, there is a slightly higher median individual income for the \"Black\" and \"White\" ethnic groups, compared with the other ethnic groups, whereas in Wales the median income by \"White\" ethnic group is slightly higher than the other ethnic groups. However, there is some variation between the individual income distribution of the \"no stated ethnicity\" and \"all stated ethnicity\" groups, which is likely to have an impact on the observed trends."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 5a: Income measures in the ABIES dataset for England show variation between ethnic groups",
+      "h5": null,
+      "text": "Figure 5a: Income measures in the ABIES dataset for England show variation between ethnic groups"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 5a: Income measures in the ABIES dataset for England show variation between ethnic groups",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 5a: Income measures in the ABIES dataset for England show variation between ethnic groups",
+      "h5": null,
+      "title": "Figure 5a: Income measures in the ABIES dataset for England show variation between ethnic groups",
+      "url": "/visualisations/dvc2609/E_W/Fig5a/index.html"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 5a: Income measures in the ABIES dataset for England show variation between ethnic groups",
+      "h5": null,
+      "text": "We are not yet able to determine how representative our analysis is of the total population and so these figures may not reflect the incomes of the underlying population and should be interpreted with caution."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 5a: Income measures in the ABIES dataset for England show variation between ethnic groups",
+      "h5": null,
+      "text": "There was 77.1% with income information identified and a stated ethnicity."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 5a: Income measures in the ABIES dataset for England show variation between ethnic groups",
+      "h5": null,
+      "text": "For more information on the categories included, see our [technical topic guide](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/methodologies/populationandmigrationstatisticstransformationinenglandandwalestechnicaltopicguide2023)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 5a: Income measures in the ABIES dataset for England show variation between ethnic groups",
+      "h5": null,
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/England/Fig5a/datadownload.xlsx)"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 5b: Income measures in the ABIES dataset for Wales show variation between the ethnic groups",
+      "h5": null,
+      "text": "Figure 5b: Income measures in the ABIES dataset for Wales show variation between the ethnic groups"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 5b: Income measures in the ABIES dataset for Wales show variation between the ethnic groups",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 5b: Income measures in the ABIES dataset for Wales show variation between the ethnic groups",
+      "h5": null,
+      "title": "Figure 5b: Income measures in the ABIES dataset for Wales show variation between the ethnic groups",
+      "url": "/visualisations/dvc2609/E_W/Fig5b/index.html"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 5b: Income measures in the ABIES dataset for Wales show variation between the ethnic groups",
+      "h5": null,
+      "text": "We are not yet able to determine how representative our analysis is of the total population and so these figures may not reflect the incomes of the underlying population and should be interpreted with caution."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 5b: Income measures in the ABIES dataset for Wales show variation between the ethnic groups",
+      "h5": null,
+      "text": "There was 82.1% with income information identified and a stated ethnicity."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 5b: Income measures in the ABIES dataset for Wales show variation between the ethnic groups",
+      "h5": null,
+      "text": "For more information on the categories included, see our [technical topic guide](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/methodologies/populationandmigrationstatisticstransformationinenglandandwalestechnicaltopicguide2023)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 5b: Income measures in the ABIES dataset for Wales show variation between the ethnic groups",
+      "h5": null,
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Wales/Fig5b/datadownload.xlsx)"
+    },
+    {
+      "type": "image",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in England and Wales",
+      "h4": "Figure 5b: Income measures in the ABIES dataset for Wales show variation between the ethnic groups",
+      "h5": null,
+      "src": "/visualisations/dvc2609/images/2156_Housing-accomodation-and-living-arrangements_Illustration.png",
+      "alt": null
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": null,
+      "h5": null,
+      "text": "Housing, accommodation and living arrangements in England and Wales"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": null,
+      "h5": null,
+      "text": "Looking beyond the individuals who make up our population, we have used administrative data to understand how people live together across local communities."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": null,
+      "h5": null,
+      "text": "The census groups usual residents into households based on the self-reported use of shared facilities. Most residential addresses in England and Wales are used by a single household. In contrast, we report on occupied addresses because it is currently not possible to accurately identify multiple households at an address from administrative data alone. Addresses are most closely related to a self-contained dwelling definition. From the census, we estimate that this difference in definitions affects fewer than 1% of dwellings."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": null,
+      "h5": null,
+      "text": "Our admin-based occupied address dataset (ABOAD) identified 23,173,700 occupied addresses in England and Wales in 2021 compared with 24,784,800 households in Census 2021 (Figure 6). ABOAD counts occupied addresses while census counts households, so multiple households living at the same address will be counted individually for the census. This is not the only factor contributing to the difference, for example, we have undercount in our underlying dataset and the base population. For more information see our [technical topic guide](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/methodologies/populationandmigrationstatisticstransformationinenglandandwalestechnicaltopicguide2023)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 6: There are more Census 2021 households in England and Wales than occupied addresses in the ABOAD",
+      "h5": null,
+      "text": "Figure 6: There are more Census 2021 households in England and Wales than occupied addresses in the ABOAD"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 6: There are more Census 2021 households in England and Wales than occupied addresses in the ABOAD",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 6: There are more Census 2021 households in England and Wales than occupied addresses in the ABOAD",
+      "h5": null,
+      "title": "Figure 6: There are more Census 2021 households in England and Wales than occupied addresses in the ABOAD",
+      "url": "/visualisations/dvc2609/E_W/Fig6/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 6: There are more Census 2021 households in England and Wales than occupied addresses in the ABOAD",
+      "h5": null,
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/E_W/Fig6/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 6: There are more Census 2021 households in England and Wales than occupied addresses in the ABOAD",
+      "h5": null,
+      "text": "Occupied addresses with one or two persons living there were the most common among occupied addresses across England and Wales in 2021 (Figure 7). Census tells the same story for households."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 7: Most residential addresses in England and Wales have one or two people living there",
+      "h5": null,
+      "text": "Figure 7: Most residential addresses in England and Wales have one or two people living there"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 7: Most residential addresses in England and Wales have one or two people living there",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 7: Most residential addresses in England and Wales have one or two people living there",
+      "h5": null,
+      "title": "Figure 7: Most residential addresses in England and Wales have one or two people living there",
+      "url": "/visualisations/dvc2609/E_W/Fig7/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 7: Most residential addresses in England and Wales have one or two people living there",
+      "h5": null,
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/E_W/Fig7/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 7: Most residential addresses in England and Wales have one or two people living there",
+      "h5": null,
+      "text": "To further understand people's living arrangements, we can use our [admin-based housing stock version 1.0 (ABHS V1.0)](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/adminbasedhousingstockstatisticsenglandandwales) statistics. This may help housing planners and policymakers to better understand the characteristics of the dwelling stock in their areas and better meet future housing needs of residents. The ABHS currently provides the following housing characteristics:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 7: Most residential addresses in England and Wales have one or two people living there",
+      "h5": null,
+      "text": "accommodation type"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 7: Most residential addresses in England and Wales have one or two people living there",
+      "h5": null,
+      "text": "number of bedrooms"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 7: Most residential addresses in England and Wales have one or two people living there",
+      "h5": null,
+      "text": "number of rooms"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 7: Most residential addresses in England and Wales have one or two people living there",
+      "h5": null,
+      "text": "number of bathrooms"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 7: Most residential addresses in England and Wales have one or two people living there",
+      "h5": null,
+      "text": "build period"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 7: Most residential addresses in England and Wales have one or two people living there",
+      "h5": null,
+      "text": "Figure 6 shows that ABOAD counts fewer occupied addresses than census households. This is reflected in the ABHS. When comparing Valuation Office Agency (VOA) estimates of number of rooms with Census 2021, figures differ based on whether we analyse all residential or occupied residential addresses. The ABHS shows a similar distribution to census, with most dwellings in England and Wales having four rooms (Figure 8). Please see our [technical topic guide](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/methodologies/populationandmigrationstatisticstransformationinenglandandwalestechnicaltopicguide2023) for more information."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 8: Dwellings in England and Wales most commonly have four rooms",
+      "h5": null,
+      "text": "Figure 8: Dwellings in England and Wales most commonly have four rooms"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 8: Dwellings in England and Wales most commonly have four rooms",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 8: Dwellings in England and Wales most commonly have four rooms",
+      "h5": null,
+      "title": "Figure 8: Dwellings in England and Wales most commonly have four rooms ",
+      "url": "/visualisations/dvc2609/E_W/Fig8/index.html"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 8: Dwellings in England and Wales most commonly have four rooms",
+      "h5": null,
+      "text": "ABHS counts addresses while Census 2021 counts households, so multiple households living at the same address will be counted individually for the census."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 8: Dwellings in England and Wales most commonly have four rooms",
+      "h5": null,
+      "text": "In contrast to previous censuses, Census 2021 did not ask a question on number of rooms, but it used linked administrative data."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 8: Dwellings in England and Wales most commonly have four rooms",
+      "h5": null,
+      "text": "For more information on these different definitions see our [technical topic guide](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/methodologies/populationandmigrationstatisticstransformationinenglandandwalestechnicaltopicguide2023)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 8: Dwellings in England and Wales most commonly have four rooms",
+      "h5": null,
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/E_W/Fig8/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 8: Dwellings in England and Wales most commonly have four rooms",
+      "h5": null,
+      "text": "Knowing the age of addresses in which residents are living allows us to further understand the features of our housing stock and plan for future need."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 8: Dwellings in England and Wales most commonly have four rooms",
+      "h5": null,
+      "text": "In England and Wales, 5,447,490 addresses were built before 1919, but only 4,468,110 were found as being occupied in 2021 according to the ABHS V1.0 (Figure 9)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 9: A large proportion of England and Wales’s housing stock was built before 1919",
+      "h5": null,
+      "text": "Figure 9: A large proportion of England and Wales’s housing stock was built before 1919"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 9: A large proportion of England and Wales’s housing stock was built before 1919",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 9: A large proportion of England and Wales’s housing stock was built before 1919",
+      "h5": null,
+      "title": "Figure 9: A large proportion of England and Wales’s housing stock was built before 1919",
+      "url": "/visualisations/dvc2609/E_W/Fig9/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 9: A large proportion of England and Wales’s housing stock was built before 1919",
+      "h5": null,
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/E_W/Fig9/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 9: A large proportion of England and Wales’s housing stock was built before 1919",
+      "h5": null,
+      "text": "Using the [admin-based housing by ethnicity dataset v2.0 (ABHED V2.0)](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/developingsubnationalmultivariatehousingbyethnicitystatisticsfromadministrativedataenglandandwales/2020), we can extend our understanding of the living arrangements of different ethnic groups across England and Wales. As an example, we have produced analysis on the accommodation type lived in by ethnic groups and the numbers of bedrooms in these dwellings."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 9: A large proportion of England and Wales’s housing stock was built before 1919",
+      "h5": null,
+      "text": "In England and Wales, there are differences in the types of accommodation occupied by different ethnic groups, which are also reflected in the number of bedrooms."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 9: A large proportion of England and Wales’s housing stock was built before 1919",
+      "h5": null,
+      "text": "Figure 10 shows the most common accommodation types overall are terraced and semi-detached houses. \"White\" individuals are most likely of all ethnic groups to live in detached and semi-detached houses and least likely to live in flats."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 10: “White” individuals are most likely of all ethnic groups to live in detached and semi-detached dwellings in England and Wales",
+      "h5": null,
+      "text": "Figure 10: “White” individuals are most likely of all ethnic groups to live in detached and semi-detached dwellings in England and Wales"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 10: “White” individuals are most likely of all ethnic groups to live in detached and semi-detached dwellings in England and Wales",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 10: “White” individuals are most likely of all ethnic groups to live in detached and semi-detached dwellings in England and Wales",
+      "h5": null,
+      "title": "Figure 10: “White” individuals are most likely of all ethnic groups to live in detached and semi-detached dwellings in England and Wales",
+      "url": "/visualisations/dvc2609/E_W/Fig10/vis/index.html"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 10: “White” individuals are most likely of all ethnic groups to live in detached and semi-detached dwellings in England and Wales",
+      "h5": null,
+      "text": "Data represent individuals rather than addresses."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 10: “White” individuals are most likely of all ethnic groups to live in detached and semi-detached dwellings in England and Wales",
+      "h5": null,
+      "text": "There are differences in definition between the number of bedrooms for Census 2021 and the Valuation Office Agency (VOA) data used in the admin-based housing by ethnicity dataset; for more information see our [technical topic guide](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/methodologies/populationandmigrationstatisticstransformationinenglandandwalestechnicaltopicguide2023)."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 10: “White” individuals are most likely of all ethnic groups to live in detached and semi-detached dwellings in England and Wales",
+      "h5": null,
+      "text": "Figures have not been adjusted to account for differences in age structure or household size by ethnic group within the population."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 10: “White” individuals are most likely of all ethnic groups to live in detached and semi-detached dwellings in England and Wales",
+      "h5": null,
+      "text": "Figures include suppressed and rounded values, so some categories appear under or over 100%."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 10: “White” individuals are most likely of all ethnic groups to live in detached and semi-detached dwellings in England and Wales",
+      "h5": null,
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/E_W/Fig10/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 10: “White” individuals are most likely of all ethnic groups to live in detached and semi-detached dwellings in England and Wales",
+      "h5": null,
+      "text": "Figure 11 shows while the most common number of bedrooms overall is three, \"Asian\" individuals are more likely than other ethnic groups to live in dwellings with three or more bedrooms. Compared with all other ethnic groups, individuals in the \"Other\" ethnic group are most likely to live in addresses with one or two bedrooms, closely followed by those in the \"Black\" ethnic group."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 11: Individuals in the “Other” ethnic group are most likely to live in dwellings with one or two bedrooms compared with all other ethnic groups",
+      "h5": null,
+      "text": "Figure 11: Individuals in the “Other” ethnic group are most likely to live in dwellings with one or two bedrooms compared with all other ethnic groups"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 11: Individuals in the “Other” ethnic group are most likely to live in dwellings with one or two bedrooms compared with all other ethnic groups",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 11: Individuals in the “Other” ethnic group are most likely to live in dwellings with one or two bedrooms compared with all other ethnic groups",
+      "h5": null,
+      "title": "Figure 11: Individuals in the “Other” ethnic group are most likely to live in dwellings with one or two bedrooms compared with all other ethnic groups",
+      "url": "/visualisations/dvc2609/E_W/Fig11/vis/index.html"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 11: Individuals in the “Other” ethnic group are most likely to live in dwellings with one or two bedrooms compared with all other ethnic groups",
+      "h5": null,
+      "text": "Data represent individuals and not addresses."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 11: Individuals in the “Other” ethnic group are most likely to live in dwellings with one or two bedrooms compared with all other ethnic groups",
+      "h5": null,
+      "text": "There are differences in definition between the number of bedrooms for Census 2021 and the Valuation Office Agency (VOA) data used in the admin-based housing by ethnicity dataset; for more information see our [technical topic guide](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/methodologies/populationandmigrationstatisticstransformationinenglandandwalestechnicaltopicguide2023)."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 11: Individuals in the “Other” ethnic group are most likely to live in dwellings with one or two bedrooms compared with all other ethnic groups",
+      "h5": null,
+      "text": "Figures have not been adjusted to account for differences in age structure or household size by ethnic group within the population."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 11: Individuals in the “Other” ethnic group are most likely to live in dwellings with one or two bedrooms compared with all other ethnic groups",
+      "h5": null,
+      "text": "Figures include suppressed and rounded values, so some categories appear under or over 100%."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 11: Individuals in the “Other” ethnic group are most likely to live in dwellings with one or two bedrooms compared with all other ethnic groups",
+      "h5": null,
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/E_W/Fig11/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 11: Individuals in the “Other” ethnic group are most likely to live in dwellings with one or two bedrooms compared with all other ethnic groups",
+      "h5": null,
+      "text": "Beyond the population living in private households, we can learn more about the characteristics of the population living in communal establishments (CEs). CEs are places with full- or part-time supervision providing accommodation. These groups are challenging to capture in our population, so work has started to understand more about who is living there. With more frequently updated figures, we can capture how the population living in CEs changes over time and the impact this has on the service provision for local areas."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 11: Individuals in the “Other” ethnic group are most likely to live in dwellings with one or two bedrooms compared with all other ethnic groups",
+      "h5": null,
+      "text": "The admin-based communal establishment dataset (ABCED) shows that the total population living in CEs in England and Wales was 912,850 compared with 1,042,000 on the census in 2021. Of those found in CEs on administrative data, 45.3% lived in halls of residence (Table 1)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 11: Individuals in the “Other” ethnic group are most likely to live in dwellings with one or two bedrooms compared with all other ethnic groups",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "table",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 11: Individuals in the “Other” ethnic group are most likely to live in dwellings with one or two bedrooms compared with all other ethnic groups",
+      "h5": null,
+      "caption": "Table 1: Across England and Wales, the largest percentage of communal establishment residents live in halls of residence\nAdmin-based communal establishment dataset (ABCED) types of communal establishment, England and Wales, 2021",
+      "columns": [
+        {
+          "key": "col1",
+          "label": "Communal establishment type"
+        },
+        {
+          "key": "col2",
+          "label": "Percentage of usual residents"
+        }
+      ],
+      "data": [
+        {
+          "col1": "Halls of residence",
+          "col2": "45.3"
+        },
+        {
+          "col1": "Care home",
+          "col2": "36.6"
+        },
+        {
+          "col1": "Prison service establishment",
+          "col2": "5.8"
+        },
+        {
+          "col1": "Holiday accommodation",
+          "col2": "3.6"
+        },
+        {
+          "col1": "Boarding School",
+          "col2": "3.1"
+        },
+        {
+          "col1": "Defence establishment",
+          "col2": "2.5"
+        },
+        {
+          "col1": "Hostel/temporary shelter for the homeless",
+          "col2": "1.4"
+        },
+        {
+          "col1": "Mental health unit",
+          "col2": "0.6"
+        },
+        {
+          "col1": "Hospital or hospice",
+          "col2": "0.2"
+        },
+        {
+          "col1": "Immigration removal centre",
+          "col2": "0.2"
+        },
+        {
+          "col1": "Approved premises",
+          "col2": "0.2"
+        },
+        {
+          "col1": "Education other",
+          "col2": "0.1"
+        },
+        {
+          "col1": "Childrens home",
+          "col2": "0.1"
+        },
+        {
+          "col1": "Staff accommodation",
+          "col2": "0.1"
+        },
+        {
+          "col1": "Religious community",
+          "col2": "0.1"
+        }
+      ],
+      "source": "Source: Admin-based communal establishments from the Office for National Statistics",
+      "footnotes": [
+        "The ABCED has a different reference period compared with the data used in the occupied address dataset, so they are not directly comparable.",
+        "These figures are not directly comparable with official Higher Education Statistics Agency (HESA) halls of residence figures as the base population only includes usual residents while HESA includes all who are registered.",
+        "These figures are not comparable to official Ministry of Justice data on residents in prison.",
+        "CE categories within Census 2021 and administrative data are different, so we have not been able to compare them."
+      ]
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 11: Individuals in the “Other” ethnic group are most likely to live in dwellings with one or two bedrooms compared with all other ethnic groups",
+      "h5": null,
+      "text": "Disaggregating by age and sex, we see who makes up the population of usual residents in CEs across England and Wales."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 12: The most common age group of communal establishment residents in England and Wales was those aged 16 to 24 years for both males and females",
+      "h5": null,
+      "text": "Figure 12: The most common age group of communal establishment residents in England and Wales was those aged 16 to 24 years for both males and females"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 12: The most common age group of communal establishment residents in England and Wales was those aged 16 to 24 years for both males and females",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 12: The most common age group of communal establishment residents in England and Wales was those aged 16 to 24 years for both males and females",
+      "h5": null,
+      "title": "Figure 12: The most common age group of communal establishment residents in England and Wales was those aged 16 to 24 years for both males and females",
+      "url": "/visualisations/dvc2609/E_W/Fig12/index.html"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 12: The most common age group of communal establishment residents in England and Wales was those aged 16 to 24 years for both males and females",
+      "h5": null,
+      "text": "The ABCED has a different reference period compared with the data used in the occupied address dataset, meaning they are not directly comparable."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 12: The most common age group of communal establishment residents in England and Wales was those aged 16 to 24 years for both males and females",
+      "h5": null,
+      "text": "Figures are not directly comparable with official Higher Education Statistics Agency (HESA) halls of residence figures as the base population only includes usual residents while HESA includes all who are registered."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 12: The most common age group of communal establishment residents in England and Wales was those aged 16 to 24 years for both males and females",
+      "h5": null,
+      "text": "These figures are not comparable with official Ministry of Justice data on those residents in prison."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 12: The most common age group of communal establishment residents in England and Wales was those aged 16 to 24 years for both males and females",
+      "h5": null,
+      "text": "The ABCED includes raw figures and has not had additional estimation methods applied, unlike the official Census 2021 estimates."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 12: The most common age group of communal establishment residents in England and Wales was those aged 16 to 24 years for both males and females",
+      "h5": null,
+      "text": "Percentages have been calculated for the whole population, so each individual sex will not total 100%; this differs from previously published figures which are therefore not comparable."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 12: The most common age group of communal establishment residents in England and Wales was those aged 16 to 24 years for both males and females",
+      "h5": null,
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/E_W/Fig12/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 12: The most common age group of communal establishment residents in England and Wales was those aged 16 to 24 years for both males and females",
+      "h5": null,
+      "text": "The analysis presented in this article shows how our admin-based statistics can support our understanding of the diverse and changing needs of the local communities across England and Wales. This demonstrates their potential and is just a subset of the research produced to date and what users can expect from our future population and social statistics system."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 12: The most common age group of communal establishment residents in England and Wales was those aged 16 to 24 years for both males and females",
+      "h5": null,
+      "text": "View the [administrative data story of local areas](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/casestudiesforthepopulationandmigrationstatisticstransformation/englandandwales2023)."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 12: The most common age group of communal establishment residents in England and Wales was those aged 16 to 24 years for both males and females",
+      "h5": null,
+      "text": "For more information on the methodology behind the administrative data collections referenced previously, please see our [technical topic guide](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/methodologies/populationandmigrationstatisticstransformationinenglandandwalestechnicaltopicguide2023)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 12: The most common age group of communal establishment residents in England and Wales was those aged 16 to 24 years for both males and females",
+      "h5": null,
+      "text": "To find out more about our progress towards a transformed population and migration statistics system, please see our [research overview](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/populationandmigrationstatisticstransformationinenglandandwalesresearchoverview/2023)."
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": "Housing, accommodation and living arrangements in England and Wales",
+      "h4": "Figure 12: The most common age group of communal establishment residents in England and Wales was those aged 16 to 24 years for both males and females",
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "Lucy Pilkington, Justine McNally\n[2023Consultation@ons.gov.uk](mailto:2023Consultation@ons.gov.uk)\n Telephone: +44 1329 444972",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:47:19.144553"
+}

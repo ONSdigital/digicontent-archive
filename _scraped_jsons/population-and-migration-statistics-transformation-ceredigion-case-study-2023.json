@@ -1,0 +1,1629 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/populationandmigrationstatisticstransformationceredigioncasestudy/2023",
+  "title": "Population and migration statistics transformation, Ceredigion case study: 2023",
+  "meta_description": "Understanding the effectiveness of our administrative data in telling the story of Ceredigion. ",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Population and migration",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration"
+    },
+    {
+      "text": "Population estimates",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates"
+    },
+    {
+      "text": "Population and migration statistics transformation, Ceredigion case study",
+      "href": null
+    }
+  ],
+  "date_published": "2023-06-26T23:00:00.000Z",
+  "date_modified": "2023-06-26T23:00:00.000Z",
+  "lede": "Understanding the effectiveness of our administrative data in telling the story of Ceredigion.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "27 June 2023"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "\n"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Ceredigion is a rural area with a small population, largely characterised by its high proportion of students."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This brings challenges when estimating the population at a given time, meaning more timely and granular data are needed to provide the most accurate picture of Ceredigion’s population and best direct services to meet needs across the area. This article shows how we can use administrative data alongside a wider range of data sources to achieve this."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "All admin-based statistics in this article are referenced to mid-year, and Census 2021 statistics are referenced to March 2021. This may lead to some differences in the comparisons. The exception to this is the admin-based population estimates (ABPEs) (excluding Figure 3), which are compared with the Census 2021-based mid-year estimates."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Some statistics in this report are not official and should not be used for decision-making. They are estimates based on new methodologies that are different from those currently used to produce official statistics. These outputs must not be reproduced without this warning."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "image",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "src": "/visualisations/dvc2609/images/2156_Population-and-migration_Illustration.png",
+      "alt": null
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Population and migration in Ceredigion",
+      "h4": null,
+      "h5": null,
+      "text": "Population and migration in Ceredigion"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population and migration in Ceredigion",
+      "h4": null,
+      "h5": null,
+      "text": "The size and structure of the population in Ceredigion is largely characterised as a relatively stable population, with a large proportion of students. These patterns are similar for admin-based population estimates (ABPEs) and census-based mid-year estimates (MYEs). Our ABPEs show that there were 70,600 people living in Ceredigion in 2021. This increased by 0.9% to 71,300 in 2022 (Figure 2). The population was 51.2% female and 48.8% male."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Population and migration in Ceredigion",
+      "h4": "Figure 1: Admin-based population estimates (ABPE) data show the largest percentage of people living in Ceredigion were aged 19 to 21 years",
+      "h5": null,
+      "text": "Figure 1: Admin-based population estimates (ABPE) data show the largest percentage of people living in Ceredigion were aged 19 to 21 years"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Population and migration in Ceredigion",
+      "h4": "Age structure of the population for mid-year estimates compared with ABPE, by sex, LA, 2021",
+      "h5": null,
+      "text": "Age structure of the population for mid-year estimates compared with ABPE, by sex, LA, 2021"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population and migration in Ceredigion",
+      "h4": "Age structure of the population for mid-year estimates compared with ABPE, by sex, LA, 2021",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Population and migration in Ceredigion",
+      "h4": "Age structure of the population for mid-year estimates compared with ABPE, by sex, LA, 2021",
+      "h5": null,
+      "title": "Figure 1",
+      "url": "/visualisations/dvc2609/Ceredigion/Fig1/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Population and migration in Ceredigion",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Population and migration in Ceredigion",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "As Census 2021-based MYE is used as an input to the model, outputs are very similar to Census 2021-based MYE. There are small differences because the dynamic population model (DPM) balances the information available in population stocks and flows based on their respective measures of precision."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Population and migration in Ceredigion",
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population and migration in Ceredigion",
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Ceredigion/Fig1/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population and migration in Ceredigion",
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "Identifying movement of the population into and out of the area is important for decision-makers to understand the changing service needs, particularly during and after a special event like the coronavirus (COVID-19) pandemic. Our ABPEs enable us to see the change in population between 2021 (during various lockdowns) and 2022 (after lockdown) at least four months earlier than the current census-based system."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Population and migration in Ceredigion",
+      "h4": "Figure 2: Ceredigion’s population increased by 0.9% to 71,300 people between 2021 and 2022",
+      "h5": null,
+      "text": "Figure 2: Ceredigion’s population increased by 0.9% to 71,300 people between 2021 and 2022"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Population and migration in Ceredigion",
+      "h4": "Admin-based population estimates (ABPE) percentage change in population, local authorities in England and Wales",
+      "h5": null,
+      "text": "Admin-based population estimates (ABPE) percentage change in population, local authorities in England and Wales"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population and migration in Ceredigion",
+      "h4": "Admin-based population estimates (ABPE) percentage change in population, local authorities in England and Wales",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Population and migration in Ceredigion",
+      "h4": "Admin-based population estimates (ABPE) percentage change in population, local authorities in England and Wales",
+      "h5": null,
+      "title": "Figure 2",
+      "url": "/visualisations/dvc2609/Ceredigion/Fig2/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Population and migration in Ceredigion",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Population and migration in Ceredigion",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "City of London (plus 24%) and Isles of Scilly (plus 10%) have been omitted from the figure to show the distribution of all other areas more clearly across England and Wales."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Population and migration in Ceredigion",
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population and migration in Ceredigion",
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Ceredigion/Fig2/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population and migration in Ceredigion",
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "We are also able to understand more in local areas, such as Lower layer Super Output Areas (LSOA), by using administrative data on a regular basis to understand how the local populations are changing."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population and migration in Ceredigion",
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "We have compared our ABPEs with Census 2021 estimates at LSOA level. Approximately 85% of LSOAs show differences of within plus or minus 8% of the census estimates. There are greater differences between estimates than at local authority (LA) level in certain areas."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population and migration in Ceredigion",
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "Our previous research shows these larger differences are often where there are communal establishments (CEs) with large, regularly changing populations, concentrated in small areas, such as students in halls of residence or armed forces in military bases. These population groups are less likely to interact with services in a typical way and may not be captured at the same location as the census."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population and migration in Ceredigion",
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "Additionally, there are differences between census-based and admin-based estimates in areas with high levels of migration into and out of an area. This is because of differences in the reference period and the time taken to update administrative records following a move."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Population and migration in Ceredigion",
+      "h4": "Figure 3: The largest difference in population estimates between ABPEs and Census 2021 were in LSOAs with communal establishments",
+      "h5": null,
+      "text": "Figure 3: The largest difference in population estimates between ABPEs and Census 2021 were in LSOAs with communal establishments"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Population and migration in Ceredigion",
+      "h4": "Percentage difference in admin-based population estimates (ABPE) and Census 2021 estimates at Lower layer Super Output Areas (LSOA) level, LA, 2021",
+      "h5": null,
+      "text": "Percentage difference in admin-based population estimates (ABPE) and Census 2021 estimates at Lower layer Super Output Areas (LSOA) level, LA, 2021"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population and migration in Ceredigion",
+      "h4": "Percentage difference in admin-based population estimates (ABPE) and Census 2021 estimates at Lower layer Super Output Areas (LSOA) level, LA, 2021",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Population and migration in Ceredigion",
+      "h4": "Percentage difference in admin-based population estimates (ABPE) and Census 2021 estimates at Lower layer Super Output Areas (LSOA) level, LA, 2021",
+      "h5": null,
+      "title": "Figure 3",
+      "url": "/visualisations/dvc2609/Ceredigion/Fig3/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Notes:",
+      "h4": null,
+      "h5": null,
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Notes:",
+      "h4": null,
+      "h5": null,
+      "text": "The figures in this chart have used the Census 2021 estimates rather than our MYEs referenced in Figures 1 and 2. These have been used as a proxy since we are currently working on producing MYEs at local levels. For more information on this, see our [technical topic guide](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/methodologies/populationandmigrationstatisticstransformationinenglandandwalestechnicaltopicguide2023)."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Notes:",
+      "h4": null,
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Notes:",
+      "h4": null,
+      "h5": "Download the data",
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Ceredigion/Fig3/datadownload.xlsx)"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Notes:",
+      "h4": "Changes in Ceredigion’s daytime population",
+      "h5": null,
+      "text": "Changes in Ceredigion’s daytime population"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Notes:",
+      "h4": "Changes in Ceredigion’s daytime population",
+      "h5": null,
+      "text": "Understanding who or what behaviours are causing these population changes further supports decision-making around directing services. For example, an area may need more medical services if the population increases significantly during the day."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Notes:",
+      "h4": "Changes in Ceredigion’s daytime population",
+      "h5": null,
+      "text": "Looking at the changes in Ceredigion’s local area populations, we see certain areas experience higher population counts at certain points in the day, which we believe are accounted for by people travelling into and out of work or university."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Notes:",
+      "h4": "Changes in Ceredigion’s daytime population",
+      "h5": null,
+      "text": "To view how Ceredigion’s population changes over the day, please see our [Estimating the population by time of day working paper](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsworkingpaperseriesno31estimatingpopulationbytimeofday)."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Notes:",
+      "h4": "Changes in Ceredigion’s daytime population",
+      "h5": null,
+      "text": "To view work-related travel to and from small areas in Ceredigion, please see [Travel to work](https://datasciencecampus.ons.gov.uk/?p=12459)."
+    },
+    {
+      "type": "image",
+      "h2": null,
+      "h3": "Notes:",
+      "h4": "Changes in Ceredigion’s daytime population",
+      "h5": null,
+      "src": "/visualisations/dvc2609/images/2156_Population-sub-groups-characteristics_Illustration.png",
+      "alt": null
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Ceredigion",
+      "h4": null,
+      "h5": null,
+      "text": "Population sub-groups and characteristics in Ceredigion"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Ceredigion",
+      "h4": null,
+      "h5": null,
+      "text": "Beyond the size and structure of the population, we can learn more about the make-up of the local areas and communities across Ceredigion by examining the characteristics of those who live there. This will aid us in further understanding where inequalities may exist across the local areas in order to identify where additional support or services may be required."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Ceredigion",
+      "h4": null,
+      "h5": null,
+      "text": "Ceredigion has a slightly higher proportion of people in the “White” ethnic group compared with Wales’s average (2.0 percentage points higher) in the [admin-based ethnicity statistics (ABES)](https://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/ethnicity/articles/developingadminbasedethnicitystatisticsforenglandandwales/2020). Conversely, for the “Asian”, “Black”, “Mixed” and “Other” ethnic groups, the figures for Ceredigion are up to 1.1 percentage points lower than the Welsh average."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Ceredigion",
+      "h4": null,
+      "h5": null,
+      "text": "In comparison with Census 2021 figures, the ABES distributions for Ceredigion are broadly similar, but with some differences, notably for the “Asian” working-age population (Figure 5b). To some extent, this is because the ethnic minority population (excluding “White” ethnic minorities when we are referring to ethnic minority group) of Ceredigion is small. However, the ABES does underestimate the ethnic-minority populations by up to 0.4 percentage points. We noted similar patterns in our previous [Developing admin-based ethnicity statistics for England and Wales: 2020 article](https://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/ethnicity/articles/developingadminbasedethnicitystatisticsforenglandandwales/2020#ethnic-breakdown:~:text=Comparisons%20of%20ethnicity%20statistics)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Ceredigion",
+      "h4": "Figure 4: The ABES proportion of ethnic groups in Ceredigion is similar to Census",
+      "h5": null,
+      "text": "Figure 4: The ABES proportion of ethnic groups in Ceredigion is similar to Census"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Ceredigion",
+      "h4": "Admin-based ethnicity statistics (ABES) and Census 2021 population by five-category ethnic group, LA, 2021",
+      "h5": null,
+      "text": "Admin-based ethnicity statistics (ABES) and Census 2021 population by five-category ethnic group, LA, 2021"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Ceredigion",
+      "h4": "Admin-based ethnicity statistics (ABES) and Census 2021 population by five-category ethnic group, LA, 2021",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Ceredigion",
+      "h4": "Admin-based ethnicity statistics (ABES) and Census 2021 population by five-category ethnic group, LA, 2021",
+      "h5": null,
+      "title": "Figure 4",
+      "url": "/visualisations/dvc2609/Ceredigion/Fig4/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Ceredigion",
+      "h4": "Admin-based ethnicity statistics (ABES) and Census 2021 population by five-category ethnic group, LA, 2021",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Ceredigion",
+      "h4": "Admin-based ethnicity statistics (ABES) and Census 2021 population by five-category ethnic group, LA, 2021",
+      "h5": "Download the data",
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Ceredigion/Fig4/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Ceredigion",
+      "h4": "Admin-based ethnicity statistics (ABES) and Census 2021 population by five-category ethnic group, LA, 2021",
+      "h5": "Download the data",
+      "text": "We can learn more about our population and their service needs through disaggregating by characteristics such as age and sex. For example, to better understand healthcare needs we can explore the differences between the types of ageing populations across our local areas."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Ceredigion",
+      "h4": "Admin-based ethnicity statistics (ABES) and Census 2021 population by five-category ethnic group, LA, 2021",
+      "h5": "Download the data",
+      "text": "Comparing the “White” ethnic group with all other ethnic groups in Ceredigion, Figure 5 shows the age breakdowns of different ethnic groups. The ethnicity distributions across the age groups are similar, although there is a slight trend for the younger age groups to be more diverse. Understanding the make-up in local areas helps inform future health provisions for areas like Ceredigion."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Ceredigion",
+      "h4": "Admin-based ethnicity statistics (ABES) and Census 2021 population by five-category ethnic group, LA, 2021",
+      "h5": "Download the data",
+      "text": "These trends are similar to the overall Census 2021 ethnic group distribution and are broadly comparable across the age groups."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Ceredigion",
+      "h4": "Figure 5: Ceredigion’s younger age population show a slight trend for being more ethnically diverse than older age groups for both males and females",
+      "h5": null,
+      "text": "Figure 5: Ceredigion’s younger age population show a slight trend for being more ethnically diverse than older age groups for both males and females"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Ceredigion",
+      "h4": "5a: Admin-based ethnicity statistics (ABES), “White” ethnic group by age and sex, LA, 2021",
+      "h5": null,
+      "text": "5a: Admin-based ethnicity statistics (ABES), “White” ethnic group by age and sex, LA, 2021"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Ceredigion",
+      "h4": "5a: Admin-based ethnicity statistics (ABES), “White” ethnic group by age and sex, LA, 2021",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Ceredigion",
+      "h4": "5a: Admin-based ethnicity statistics (ABES), “White” ethnic group by age and sex, LA, 2021",
+      "h5": null,
+      "title": "Figure 5a",
+      "url": "/visualisations/dvc2609/Ceredigion/Fig5a/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Ceredigion",
+      "h4": "5a: Admin-based ethnicity statistics (ABES), “White” ethnic group by age and sex, LA, 2021",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Ceredigion",
+      "h4": "5a: Admin-based ethnicity statistics (ABES), “White” ethnic group by age and sex, LA, 2021",
+      "h5": "Download the data",
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Ceredigion/Fig5a/datadownload.xlsx)"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Ceredigion",
+      "h4": "5b: Admin-based ethnicity statistics (ABES), all other ethnic groups by age and sex, LA, 2021",
+      "h5": null,
+      "text": "5b: Admin-based ethnicity statistics (ABES), all other ethnic groups by age and sex, LA, 2021"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Ceredigion",
+      "h4": "5b: Admin-based ethnicity statistics (ABES), all other ethnic groups by age and sex, LA, 2021",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Ceredigion",
+      "h4": "5b: Admin-based ethnicity statistics (ABES), all other ethnic groups by age and sex, LA, 2021",
+      "h5": null,
+      "title": "Figure 5b",
+      "url": "/visualisations/dvc2609/Ceredigion/Fig5b/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Ceredigion",
+      "h4": "5b: Admin-based ethnicity statistics (ABES), all other ethnic groups by age and sex, LA, 2021",
+      "h5": null,
+      "text": "We can also learn about these differences at smaller local areas, including Lower layer Super Output Areas (LSOA). For more information on ethnic groups at LSOA level, please see our [associated datasets](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/casestudiesforthepopulationandmigrationstatisticstransformation/englandandwales2023/relateddata), which include updated figures for 2021. For more information about LSOA coverage by ABES, please see our previous [Developing admin-based ethnicity statistics for England and Wales: 2020 article](https://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/ethnicity/articles/developingadminbasedethnicitystatisticsforenglandandwales/2020#ethnic-breakdown:~:text=Comparisons%20of%20ethnicity%20statistics)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Ceredigion",
+      "h4": "5b: Admin-based ethnicity statistics (ABES), all other ethnic groups by age and sex, LA, 2021",
+      "h5": null,
+      "text": "Using our [admin-based income statistics (ABIS)](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/articles/adminbasedincomestatisticsenglandandwales/taxyearending2018), we can form a more detailed picture of how the people of Ceredigion are living and understand where inequality may be occurring at local levels."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Ceredigion",
+      "h4": "5b: Admin-based ethnicity statistics (ABES), all other ethnic groups by age and sex, LA, 2021",
+      "h5": null,
+      "text": "Median occupied address net income is the income for people living at the same address, which we use as a proxy for households. In Ceredigion, median occupied address net income (£24,222) is lower than for Wales overall (£26,427), for reference tax year ending 2018."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Ceredigion",
+      "h4": "5b: Admin-based ethnicity statistics (ABES), all other ethnic groups by age and sex, LA, 2021",
+      "h5": null,
+      "text": "By looking at the variation at the LSOA level we observe that this trend is true for most areas within Ceredigion, with few areas of variation. This is important for local planners and service providers to better target their services. There are some caveats to be considered when analysing these trends, for example, 1.7% of the occupied addresses have no recorded income on the administrative data. For more information, please see our [technical topic guide](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/methodologies/populationandmigrationstatisticstransformationinenglandandwalestechnicaltopicguide2023)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Ceredigion",
+      "h4": "Figure 6: Median occupied address net income is similar across most local areas in Ceredigion",
+      "h5": null,
+      "text": "Figure 6: Median occupied address net income is similar across most local areas in Ceredigion"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Ceredigion",
+      "h4": "Admin-based income statistics (ABIS) median occupied address net income (£), LA, tax year ending 2018",
+      "h5": null,
+      "text": "Admin-based income statistics (ABIS) median occupied address net income (£), LA, tax year ending 2018"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Ceredigion",
+      "h4": "Admin-based income statistics (ABIS) median occupied address net income (£), LA, tax year ending 2018",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Ceredigion",
+      "h4": "Admin-based income statistics (ABIS) median occupied address net income (£), LA, tax year ending 2018",
+      "h5": null,
+      "title": "Figure 6",
+      "url": "/visualisations/dvc2609/Ceredigion/Fig6/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Notes:",
+      "h4": null,
+      "h5": null,
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Notes:",
+      "h4": null,
+      "h5": null,
+      "text": "Admin-based income statistics use the concept of occupied address to capture household income, grouping individuals who are recorded as living at the same address."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Notes:",
+      "h4": null,
+      "h5": null,
+      "text": "Figures assume that income is shared evenly between all occupied address members."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Notes:",
+      "h4": null,
+      "h5": null,
+      "text": "Net income is calculated by deducting Income Tax and National Insurance contributions (derived in accordance with HMRC guidelines) from gross income."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Notes:",
+      "h4": null,
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Notes:",
+      "h4": null,
+      "h5": "Download the data",
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Ceredigion/Fig6/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Notes:",
+      "h4": null,
+      "h5": "Download the data",
+      "text": "Our [admin-based income by ethnicity statistics (ABIES)](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/articles/developingsubnationalmultivariateincomebyethnicitystatisticsfromadministrativedataenglandandwalestaxyearending2018/2023-02-20) estimate the net income for individuals aged 16 years and over with income information identified by five-category ethnic group. Ceredigion has a high proportion of people who identified with the “White” ethnic mintorty group in its population and lower median occupied address income than the Wales average. We see this reflected in the “White” ethnic group individual income distribution."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Notes:",
+      "h4": null,
+      "h5": "Download the data",
+      "text": "There are wider variations in income distributions in the “Asian” and “Black” ethnic groups, primarily because of the small size of this population being more affected by extreme values. Further information on ABIES statistics, including explanations for the differences in the measures, can be found in our [Developing subnational multivariate income by ethnicity statistics from administrative data, England and Wales: tax year ending 2018 article](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/articles/developingsubnationalmultivariateincomebyethnicitystatisticsfromadministrativedataenglandandwalestaxyearending2018/2023-02-20)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Notes:",
+      "h4": "Figure 7: Income measures in the ABIES dataset for Ceredigion show variation between ethnic groups",
+      "h5": null,
+      "text": "Figure 7: Income measures in the ABIES dataset for Ceredigion show variation between ethnic groups"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Notes:",
+      "h4": "The 10th percentile, median, and 90th percentile net income for individuals aged 16 years and over with income information identified by five-category ethnic group, LA, tax year ending 2018",
+      "h5": null,
+      "text": "The 10th percentile, median, and 90th percentile net income for individuals aged 16 years and over with income information identified by five-category ethnic group, LA, tax year ending 2018"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Notes:",
+      "h4": "The 10th percentile, median, and 90th percentile net income for individuals aged 16 years and over with income information identified by five-category ethnic group, LA, tax year ending 2018",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Notes:",
+      "h4": "The 10th percentile, median, and 90th percentile net income for individuals aged 16 years and over with income information identified by five-category ethnic group, LA, tax year ending 2018",
+      "h5": null,
+      "title": "Figure 7",
+      "url": "/visualisations/dvc2609/Ceredigion/Fig7/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Notes:",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Notes:",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "The “Other” ethnic group is not included in this Figure, in line with statistical disclosure control measures in place to ensure that no person is identifiable from the statistics."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Notes:",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "We are not yet able to determine how representative our analysis is of the total population and so these figures may not reflect the incomes of the underlying population and should be interpreted with caution."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Notes:",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "There was 79.6% with income information identified and a stated ethnicity."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Notes:",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "For more information on the categories included, see our [technical topic guide](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/methodologies/populationandmigrationstatisticstransformationinenglandandwalestechnicaltopicguide2023)."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Notes:",
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Notes:",
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Ceredigion/Fig7/datadownload.xlsx)"
+    },
+    {
+      "type": "image",
+      "h2": null,
+      "h3": "Notes:",
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "src": "/visualisations/dvc2609/images/2156_Housing-accomodation-and-living-arrangements_Illustration.png",
+      "alt": null
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": null,
+      "h5": null,
+      "text": "Housing, housing characteristics and living arrangements in Ceredigion"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": null,
+      "h5": null,
+      "text": "Looking beyond the individuals who make up our population, we have used administrative data to understand how people live together across local communities."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": null,
+      "h5": null,
+      "text": "The census groups usual residents into households based on the self-reported use of shared facilities. Most residential addresses in England and Wales are used by a single household. In contrast, we report on occupied addresses because it is currently not possible to accurately identify multiple households at an address from administrative data alone. Addresses are most closely related to a self-contained dwelling definition. From the census, we estimate that this difference in definitions affects less than 1% of dwellings."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": null,
+      "h5": null,
+      "text": "Our admin-based occupied address dataset (ABOAD) identified 27,300 occupied addresses in Ceredigion in 2021, compared with 30,900 households in Census 2021. ABOAD counts occupied addresses while census counts households, so multiple households living at the same address will be counted individually for the census. This is not the only factor contributing to the difference, for example we have undercount in our underlying dataset and the base population, and these factors are likely to vary across geographies. For more information, please see our [technical topic guide](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/methodologies/populationandmigrationstatisticstransformationinenglandandwalestechnicaltopicguide2023)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Figure 8: There are more Census 2021 households in Ceredigion than occupied addresses in the admin-based occupied address dataset (ABOAD)",
+      "h5": null,
+      "text": "Figure 8: There are more Census 2021 households in Ceredigion than occupied addresses in the admin-based occupied address dataset (ABOAD)"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Number of occupied addresses in the ABOAD and households in Census 2021, LA, June 2021",
+      "h5": null,
+      "text": "Number of occupied addresses in the ABOAD and households in Census 2021, LA, June 2021"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Number of occupied addresses in the ABOAD and households in Census 2021, LA, June 2021",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Number of occupied addresses in the ABOAD and households in Census 2021, LA, June 2021",
+      "h5": null,
+      "title": "Figure 8",
+      "url": "/visualisations/dvc2609/Ceredigion/Fig8/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Number of occupied addresses in the ABOAD and households in Census 2021, LA, June 2021",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Number of occupied addresses in the ABOAD and households in Census 2021, LA, June 2021",
+      "h5": "Download the data",
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Ceredigion/Fig8/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Number of occupied addresses in the ABOAD and households in Census 2021, LA, June 2021",
+      "h5": "Download the data",
+      "text": "Occupied addresses with one or two persons living there were the most common among occupied addresses across Ceredigion in 2021. Census shows the same for households."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Figure 9: Most residential addresses in Ceredigion have one or two people living there",
+      "h5": null,
+      "text": "Figure 9: Most residential addresses in Ceredigion have one or two people living there"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Size of occupied addresses in the admin-based occupied address dataset (ABOAD) and households in Census 2021 by number of people living there, LA, June 2021",
+      "h5": null,
+      "text": "Size of occupied addresses in the admin-based occupied address dataset (ABOAD) and households in Census 2021 by number of people living there, LA, June 2021"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Size of occupied addresses in the admin-based occupied address dataset (ABOAD) and households in Census 2021 by number of people living there, LA, June 2021",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Size of occupied addresses in the admin-based occupied address dataset (ABOAD) and households in Census 2021 by number of people living there, LA, June 2021",
+      "h5": null,
+      "title": "Figure 9",
+      "url": "/visualisations/dvc2609/Ceredigion/Fig9/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Size of occupied addresses in the admin-based occupied address dataset (ABOAD) and households in Census 2021 by number of people living there, LA, June 2021",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Size of occupied addresses in the admin-based occupied address dataset (ABOAD) and households in Census 2021 by number of people living there, LA, June 2021",
+      "h5": "Download the data",
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Ceredigion/Fig9/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Size of occupied addresses in the admin-based occupied address dataset (ABOAD) and households in Census 2021 by number of people living there, LA, June 2021",
+      "h5": "Download the data",
+      "text": "To further understand living arrangements, we can use our [Admin-based housing stock statistics version 1.0 (ABHS V1.0)](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/adminbasedhousingstockstatisticsenglandandwales). This may help housing planners and policymakers to better understand characteristics of the dwelling stock in their areas and better meet the future housing needs of residents. The ABHS currently provides the following housing characteristics:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Size of occupied addresses in the admin-based occupied address dataset (ABOAD) and households in Census 2021 by number of people living there, LA, June 2021",
+      "h5": "Download the data",
+      "text": "accommodation type"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Size of occupied addresses in the admin-based occupied address dataset (ABOAD) and households in Census 2021 by number of people living there, LA, June 2021",
+      "h5": "Download the data",
+      "text": "number of bedrooms"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Size of occupied addresses in the admin-based occupied address dataset (ABOAD) and households in Census 2021 by number of people living there, LA, June 2021",
+      "h5": "Download the data",
+      "text": "number of rooms"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Size of occupied addresses in the admin-based occupied address dataset (ABOAD) and households in Census 2021 by number of people living there, LA, June 2021",
+      "h5": "Download the data",
+      "text": "number of bathrooms"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Size of occupied addresses in the admin-based occupied address dataset (ABOAD) and households in Census 2021 by number of people living there, LA, June 2021",
+      "h5": "Download the data",
+      "text": "build period"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Size of occupied addresses in the admin-based occupied address dataset (ABOAD) and households in Census 2021 by number of people living there, LA, June 2021",
+      "h5": "Download the data",
+      "text": "Figure 8 shows that ABOAD counts fewer occupied addresses than Census 2021 households. This is reflected in the ABHS. When comparing Valuation Office Agency (VOA) estimates of number of rooms with Census 2021 data, figures differ based on whether we analyse all residential or occupied residential addresses. In Figure 10, we see how the ABHS shows a similar distribution to census, with most dwellings in Ceredigion having between three and five rooms."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Figure 10: Dwellings in Ceredigion most commonly have four rooms",
+      "h5": null,
+      "text": "Figure 10: Dwellings in Ceredigion most commonly have four rooms"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Distribution of Census 2021 households by number of rooms, alongside the distribution of residential addresses and occupied residential addresses in the ABHS V1.0, LA, 2021",
+      "h5": null,
+      "text": "Distribution of Census 2021 households by number of rooms, alongside the distribution of residential addresses and occupied residential addresses in the ABHS V1.0, LA, 2021"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Distribution of Census 2021 households by number of rooms, alongside the distribution of residential addresses and occupied residential addresses in the ABHS V1.0, LA, 2021",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Distribution of Census 2021 households by number of rooms, alongside the distribution of residential addresses and occupied residential addresses in the ABHS V1.0, LA, 2021",
+      "h5": null,
+      "title": "Figure 10",
+      "url": "/visualisations/dvc2609/Ceredigion/Fig10/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "ABHS counts addresses while Census 2021 counts households, so multiple households living at the same address will be counted individually for the Census."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "In contrast to previous censuses, Census 2021 did not ask a question on number of rooms, but it used linked administrative data."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "For more information on these different definitions see our [technical topic guide](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/methodologies/populationandmigrationstatisticstransformationinenglandandwalestechnicaltopicguide2023)."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Ceredigion/Fig10/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "Knowing the age of dwellings in which residents are living allows us to further understand the features of our housing stock and plan for future need."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "In Ceredigion, 14,295 dwellings were built before 1919, but only 10,300 were found as being occupied in 2021 according to the ABHS V1.0."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Figure 11: A large proportion of Ceredigion’s housing stock was built before 1919",
+      "h5": null,
+      "text": "Figure 11: A large proportion of Ceredigion’s housing stock was built before 1919"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Number of dwellings by Valuation Office Agency (VOA) build period for all addresses and occupied addresses in the ABHS V1.0, LA, June 2021",
+      "h5": null,
+      "text": "Number of dwellings by Valuation Office Agency (VOA) build period for all addresses and occupied addresses in the ABHS V1.0, LA, June 2021"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Number of dwellings by Valuation Office Agency (VOA) build period for all addresses and occupied addresses in the ABHS V1.0, LA, June 2021",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Number of dwellings by Valuation Office Agency (VOA) build period for all addresses and occupied addresses in the ABHS V1.0, LA, June 2021",
+      "h5": null,
+      "title": "Figure 11",
+      "url": "/visualisations/dvc2609/Ceredigion/Fig11/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Number of dwellings by Valuation Office Agency (VOA) build period for all addresses and occupied addresses in the ABHS V1.0, LA, June 2021",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Number of dwellings by Valuation Office Agency (VOA) build period for all addresses and occupied addresses in the ABHS V1.0, LA, June 2021",
+      "h5": "Download the data",
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Ceredigion/Fig11/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Number of dwellings by Valuation Office Agency (VOA) build period for all addresses and occupied addresses in the ABHS V1.0, LA, June 2021",
+      "h5": "Download the data",
+      "text": "Using the admin-based housing by ethnicity dataset version 2.0 (ABHED V2.0), we can extend our understanding of the living arrangements of different ethnic groups across Ceredigion. As an example, we have produced analysis on the accommodation type lived in by ethnic groups and the numbers of bedrooms in these dwellings."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Number of dwellings by Valuation Office Agency (VOA) build period for all addresses and occupied addresses in the ABHS V1.0, LA, June 2021",
+      "h5": "Download the data",
+      "text": "In Ceredigion, there are differences in the types of accommodation occupied by different ethnic groups, which are also reflected in the number of bedrooms."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Number of dwellings by Valuation Office Agency (VOA) build period for all addresses and occupied addresses in the ABHS V1.0, LA, June 2021",
+      "h5": "Download the data",
+      "text": "Figure 12 shows that detached houses are the most common accommodation type for all ethnic groups, with almost half of Ceredigion’s population living in them. Compared with other ethnic groups, “White” individuals are most likely to live in detached houses, “Black” individuals are most likely to live in semi-detached houses, and those in the “Other” ethnic group are most likely to live in terraced houses."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Figure 12: In Ceredigion detached houses are the most common VOA accommodation type for all ethnic groups",
+      "h5": null,
+      "text": "Figure 12: In Ceredigion detached houses are the most common VOA accommodation type for all ethnic groups"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Admin-based housing by ethnicity dataset version 2.0 (ABHED V2.0) VOA accommodation type (Census 2021 definition) by ethnic group, LA, 2021",
+      "h5": null,
+      "text": "Admin-based housing by ethnicity dataset version 2.0 (ABHED V2.0) VOA accommodation type (Census 2021 definition) by ethnic group, LA, 2021"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Admin-based housing by ethnicity dataset version 2.0 (ABHED V2.0) VOA accommodation type (Census 2021 definition) by ethnic group, LA, 2021",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Admin-based housing by ethnicity dataset version 2.0 (ABHED V2.0) VOA accommodation type (Census 2021 definition) by ethnic group, LA, 2021",
+      "h5": null,
+      "title": "Figure 12",
+      "url": "/visualisations/dvc2609/Ceredigion/Fig12/vis/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Data represent individuals rather than addresses."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Valuation Office Agency (VOA) accommodation type is a derived variable designed to align with the Census 2021 definition: for more information see our [technical topic guide](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/methodologies/populationandmigrationstatisticstransformationinenglandandwalestechnicaltopicguide2023)."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Figures have not been adjusted to account for differences in age structure or household size by ethnic group within the population."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Figures include suppressed and rounded values, so some categories appear under or over 100%."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "While the most common number of bedrooms for all ethnic groups is three, those in the “Asian” ethnic minority group are more likely than all other ethnic groups to live in dwellings with four or more bedrooms (see Figure 13)."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Ceredigion/Fig12/datadownload.xlsx)"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Figure 13: Individuals in the “Asian” ethnic group are more likely to live in a dwelling with four or more bedrooms compared to all other ethnic groups",
+      "h5": null,
+      "text": "Figure 13: Individuals in the “Asian” ethnic group are more likely to live in a dwelling with four or more bedrooms compared to all other ethnic groups"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Admin-based housing by ethnicity dataset version 2.0 (ABHED V2.0) VOA number of bedrooms by ethnic group, LA, 2021",
+      "h5": null,
+      "text": "Admin-based housing by ethnicity dataset version 2.0 (ABHED V2.0) VOA number of bedrooms by ethnic group, LA, 2021"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Admin-based housing by ethnicity dataset version 2.0 (ABHED V2.0) VOA number of bedrooms by ethnic group, LA, 2021",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Admin-based housing by ethnicity dataset version 2.0 (ABHED V2.0) VOA number of bedrooms by ethnic group, LA, 2021",
+      "h5": null,
+      "title": "Figure 13",
+      "url": "/visualisations/dvc2609/Ceredigion/Fig13/vis/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Data represent individuals rather than addresses."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "There are definitional differences between the number of bedrooms for census and the Valuation Office Agency (VOA) data used in the admin-based housing by ethnicity dataset: see the [technical topic guide](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/methodologies/populationandmigrationstatisticstransformationinenglandandwalestechnicaltopicguide2023) for more information."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Figures include suppressed and rounded values, so some categories appear under or over 100%."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Figures have not been adjusted to account for differences in age structure or household size by ethnic group within the population."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Ceredigion/Fig13/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "Beyond the population living in private households, we can learn more about the population living in communal establishments (CEs). CEs are places with full or part-time supervision providing accommodation. These groups are challenging to capture in our population, so work has started to understand more about who is living there. With more frequently updated figures, we can capture how the population living in CEs changes over time and the impact this has on the service provision for local areas."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "The admin-based communal establishment dataset (ABCED) shows that the total population living in CEs in Ceredigion was 3,345 compared with 3,630 on Census 2021. Of those found in CEs on administrative data, 85.7% lived in halls of residence."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": ""
+    },
+    {
+      "type": "table",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "caption": "Tabl 1: Ledled Ceredigion, mewn neuaddau preswyl y mae'r ganran fwyaf o breswylwyr sefydliadau cymunedol yn byw\nMathau o sefydliadau cymunedol yn y set ddata sefydliadau cymunedol yn seiliedig ar ddata gweinyddol, Ceredigion, 2021",
+      "columns": [
+        {
+          "key": "col1",
+          "label": "Math o sefydliad cymunedol"
+        },
+        {
+          "key": "col2",
+          "label": "Canran y preswylwyr arferol"
+        }
+      ],
+      "data": [
+        {
+          "col1": "Neuaddau preswyl",
+          "col2": "85.7"
+        },
+        {
+          "col1": "Cartrefi gofal",
+          "col2": "10.9"
+        },
+        {
+          "col1": "Llety gwyliau",
+          "col2": "3.4"
+        }
+      ],
+      "source": "Source: Y Swyddfa Ystadegau Gwladol",
+      "footnotes": [
+        "Mae gan y set ddata sefydliadau cymunedol yn seiliedig ar ddata gweinyddol gyfnod cyfeirio gwahanol o gymharu â'r data a ddefnyddir yn y set ddata cyfeiriadau wedi'u meddiannu yn seiliedig ar ddata gweinyddol, felly ni ellir eu cymharu'n uniongyrchol",
+        "Nid oes modd cymharu'r ffigurau hyn yn uniongyrchol â ffigurau swyddogol yr Asiantaeth Ystadegau Addysg Uwch ar gyfer neuaddau preswyl gan mai dim ond preswylwyr arferol sydd wedi'u cynnwys yn y boblogaeth sylfaen tra bo'r Asiantaeth Ystadegau Addysg Uwch yn cynnwys pawb sydd wedi cofrestru",
+        "Ni ellir cymharu'r ffigurau hyn â data swyddogol y Weinyddiaeth Gyfiawnder ar breswylwyr sydd yn y carchar",
+        "Mae'r categorïau o sefydliadau cymunedol yng Nghyfrifiad 2021 ac mewn data gweinyddol yn wahanol, felly nid ydym wedi gallu eu cymharu"
+      ]
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "Through disaggregating by age and sex, we can see who makes up the population of residents in communal establishments across Ceredigion."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Figure 14: The most common age group of communal establishment residents in Ceredigion was those aged 0 to 24 years for both males and females",
+      "h5": null,
+      "text": "Figure 14: The most common age group of communal establishment residents in Ceredigion was those aged 0 to 24 years for both males and females"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Admin-based communal establishment dataset (ABCED) communal establishment residents by sex and banded age groups, LA, 2021",
+      "h5": null,
+      "text": "Admin-based communal establishment dataset (ABCED) communal establishment residents by sex and banded age groups, LA, 2021"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Admin-based communal establishment dataset (ABCED) communal establishment residents by sex and banded age groups, LA, 2021",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Admin-based communal establishment dataset (ABCED) communal establishment residents by sex and banded age groups, LA, 2021",
+      "h5": null,
+      "title": "Figure 14",
+      "url": "/visualisations/dvc2609/Ceredigion/Fig14/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "The ABCED has a different reference period compared with the data used in the occupied address dataset, meaning they are not directly comparable."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Figures are not directly comparable to official Higher Education Statistics Agency (HESA) halls of residence figures as the base population only includes usual residents while HESA includes all registered."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "These figures are not comparable with official Ministry of Justice data on residents in prison."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "The ABCED includes raw figures and has not had additional estimation methods applied, unlike the official Census 2021 estimates."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Percentages have been calculated for the whole population, so each individual sex will not total 100%; this differs from previously published figures which are therefore not comparable."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Ceredigion/Fig14/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "The analysis presented in this article shows how our admin-based statistics can support our understanding of the diverse and changing needs of the local communities across Ceredigion. This demonstrates their potential and is just a subset of what users can expect from our future population and social statistics system."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "View the [administrative data story of another local area](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/casestudiesforthepopulationandmigrationstatisticstransformation/englandandwales2023)."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "For more information on the methodology behind the administrative data collections referenced previously, please see our [technical topic guide](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/methodologies/populationandmigrationstatisticstransformationinenglandandwalestechnicaltopicguide2023)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "To find out more about our progress towards a transformed population and migration statistics system, please see our [research overview](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/populationandmigrationstatisticstransformationinenglandandwalesresearchoverview/2023)."
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Ceredigion",
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "Lucy Pilkington, Justine McNally\n[2023Consultation@ons.gov.uk](mailto:2023Consultation@ons.gov.uk)\n Telephone: +44 1329 444972",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:47:44.073049"
+}

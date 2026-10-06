@@ -1,0 +1,183 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/causesofdeath/articles/deathsduetocovid19interactivemap/2021-02-25",
+  "title": "Deaths due to COVID-19 – Interactive map",
+  "meta_description": "Use our interactive map to explore the number of COVID-19 deaths in your area",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Health and social care",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare"
+    },
+    {
+      "text": "Causes of death",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/causesofdeath"
+    },
+    {
+      "text": "Deaths due to COVID-19 – Interactive map",
+      "href": null
+    }
+  ],
+  "date_published": "2021-02-25T00:00:00.000Z",
+  "date_modified": "2021-02-25T00:00:00.000Z",
+  "lede": "Use our interactive map to explore the number of COVID-19 deaths in your area",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The coronavirus (COVID-19) has spread across the vast majority of neighbourhoods in England and Wales. Our interactive map allows you to see the number of deaths registered in the period March 2020 to April 2021, where COVID-19 was the underlying (main) cause on the death certificate."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "For the most up-to-date information on deaths at a national and regional level, read our [weekly bulletin](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/latest). For the latest information on people testing positive for COVID-19, read the [results from our infection survey](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/latest)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Enter your postcode or interact with the map to see the number of deaths in an area. The size of the circle represents the number of deaths."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": null,
+      "h4": "Number of deaths due to COVID-19 in Middle Layer Super Output Areas, death registered between March 2020 and April 2021, England and Wales",
+      "h5": null,
+      "text": "Number of deaths due to COVID-19 in Middle Layer Super Output Areas, death registered between March 2020 and April 2021, England and Wales"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Number of deaths due to COVID-19 in Middle Layer Super Output Areas, death registered between March 2020 and April 2021, England and Wales",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": "Number of deaths due to COVID-19 in Middle Layer Super Output Areas, death registered between March 2020 and April 2021, England and Wales",
+      "h5": null,
+      "title": "Interactive map of deaths due to COVID-19",
+      "url": "/visualisations/dvc1359/covid-death-map/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": null,
+      "h4": "Number of deaths due to COVID-19 in Middle Layer Super Output Areas, death registered between March 2020 and April 2021, England and Wales",
+      "h5": "Notes:",
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": "Number of deaths due to COVID-19 in Middle Layer Super Output Areas, death registered between March 2020 and April 2021, England and Wales",
+      "h5": "Notes:",
+      "text": "Middle Layer Super Output Areas (MSOAs) are a small area statistical geography covering England and Wales. Each area has a similarly sized population (around 8,000 people on average) that remains stable over time."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": "Number of deaths due to COVID-19 in Middle Layer Super Output Areas, death registered between March 2020 and April 2021, England and Wales",
+      "h5": "Notes:",
+      "text": "MSOAs are not equivalent to entire towns or cities (they are much smaller). In total, there are 7,201 MSOAs across England and Wales."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": "Number of deaths due to COVID-19 in Middle Layer Super Output Areas, death registered between March 2020 and April 2021, England and Wales",
+      "h5": "Notes:",
+      "text": "Locally adopted MSOA names are provided by House of Commons Library. While these names are not officially supported for National Statistics, they are provided here to help local users."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": "Number of deaths due to COVID-19 in Middle Layer Super Output Areas, death registered between March 2020 and April 2021, England and Wales",
+      "h5": "Notes:",
+      "text": "Points on the map are placed at the centre of the local area they represent and do not show the actual location of deaths."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": "Number of deaths due to COVID-19 in Middle Layer Super Output Areas, death registered between March 2020 and April 2021, England and Wales",
+      "h5": "Notes:",
+      "text": "To protect confidentiality, a small number of deaths have been reallocated between neighbouring areas. Given the method used for this, figures for some areas may be different to previously published data."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": "Number of deaths due to COVID-19 in Middle Layer Super Output Areas, death registered between March 2020 and April 2021, England and Wales",
+      "h5": "Notes:",
+      "text": "Figures are for deaths registered rather than deaths occurring in each month."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": "Number of deaths due to COVID-19 in Middle Layer Super Output Areas, death registered between March 2020 and April 2021, England and Wales",
+      "h5": "Notes:",
+      "text": "Figures exclude death of non-residents and are based on August 2020 boundaries."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": "Number of deaths due to COVID-19 in Middle Layer Super Output Areas, death registered between March 2020 and April 2021, England and Wales",
+      "h5": "Notes:",
+      "text": "Deaths \"due to COVID-19\" include only deaths where COVID-19 was the underlying cause of death."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": "Number of deaths due to COVID-19 in Middle Layer Super Output Areas, death registered between March 2020 and April 2021, England and Wales",
+      "h5": "Notes:",
+      "text": "Figures are provisional."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Number of deaths due to COVID-19 in Middle Layer Super Output Areas, death registered between March 2020 and April 2021, England and Wales",
+      "h5": "Notes:",
+      "text": "[Download the data](/visualisations/dvc1359/covid-death-map/data/datadownload.xlsx)"
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": "Number of deaths due to COVID-19 in Middle Layer Super Output Areas, death registered between March 2020 and April 2021, England and Wales",
+      "h5": "Notes:",
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[Health.Data@ons.gov.uk](mailto:Health.Data@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:46:53.98816"
+}

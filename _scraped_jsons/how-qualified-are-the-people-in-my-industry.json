@@ -1,0 +1,760 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/articles/howqualifiedarethepeopleinmyindustry/2023-08-14",
+  "title": "How qualified are the people in my industry?",
+  "meta_description": "Census 2021: Variation in qualification levels between industries in England and Wales",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Education and childcare",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare"
+    },
+    {
+      "text": "How qualified are the people in my industry?",
+      "href": null
+    }
+  ],
+  "date_published": "2023-08-13T23:00:00.000Z",
+  "date_modified": "2023-08-13T23:00:00.000Z",
+  "lede": "Census 2021: Variation in qualification levels between industries in England and Wales",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "14 August 2023"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "There was a wide difference in the qualification levels held by workers employed in different industries according to Census 2021."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The professional and scientific, information and communication, and education sectors were the industrial sectors with the most highly qualified workforces, while agriculture, forestry and fishing, and transport and storage had the lowest qualification levels."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "Want to know more about how qualification levels differ by geography and employment sectors?\n\nYou can explore this with our [interactive visualisation](#map-scatter) at the end of this article.",
+      "box_items": null
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Of the sectors that employ the most qualified workforces, 3 out of 5 are strongly concentrated in local authorities in and around London. The two exceptions are the education and health sectors, which are relatively evenly distributed across all local authorities across England and Wales."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Part of the reason for this is that London has a high concentration of universities, providing access to higher qualifications. It is also a centre for graduate job opportunities, which [helps retain qualified workers, and attract them from elsewhere](https://www.centreforcities.org/reader/great-british-brain-drain/executive-summary/). This largely explains the high qualification levels in many London boroughs, and why the “brain drain” of our most highly qualified workers and the industries that employ them remain concentrated around London."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Initiatives such as the [Northern Powerhouse](https://northernpowerhouse.gov.uk/) aim to boost the economy by, for example, increasing job opportunities for highly qualified workers outside the nation’s capital. Cities such as Manchester, Liverpool and Leeds gained devolved powers and budgets to boost the local economy and invest in skills, innovation, transport and culture. These are relatively new initiatives with long-term investment and objectives. Some changes have already started but the longstanding draw to London remains."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This article examines the qualification levels across different industry sectors and industries across England and Wales. It builds upon our [previous article](https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/articles/howworkforcequalificationlevelsdifferacrossenglandandwalescensus2021/latest), which examined how workforce qualification levels differ across England and Wales. The qualification levels of local labour forces indicate an area’s ability to attract, retain and train highly qualified workers. It can also reflect the health of the local labour market and economy."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "The most highly qualified workforce was the professional, scientific and technical sector, while transport was the least",
+      "h4": null,
+      "h5": null,
+      "text": "The most highly qualified workforce was the professional, scientific and technical sector, while transport was the least"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The most highly qualified workforce was the professional, scientific and technical sector, while transport was the least",
+      "h4": null,
+      "h5": null,
+      "text": "While not everyone will be using the qualifications they hold in their role, identifying the distribution of highly qualified staff across industries in England and Wales indicates which industries are most dependent on recruiting high numbers of highly qualified staff and where the opportunities lie for people with higher qualifications to use them."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The most highly qualified workforce was the professional, scientific and technical sector, while transport was the least",
+      "h4": null,
+      "h5": null,
+      "text": "The 2021 Census asked those in employment to provide the name of their business or employer and a description of what their business or employer does. From this, individuals are assigned to an industry code (using the Standard Industrial Classification), grouping together businesses that do similar economic activity, for example, a food store and a clothes store are grouped together as retail businesses. There are 21 industrial sectors, which can be broken down into specific industries to give more detail. We also consider the occupations people have within these industries using the Standard Occupational Classification; more details on both classifications can be found in our [glossary](#Glossary)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The most highly qualified workforce was the professional, scientific and technical sector, while transport was the least",
+      "h4": null,
+      "h5": null,
+      "text": "Each sector was issued with a qualification index score, representing the spread of all known qualification levels across all workers in the sector. A higher index score (maximum of 4) indicates the spread is towards the more advanced qualifications, and a lower index score (minimum of 0) shows the spread is towards lower qualification levels. The index score for all workers in the whole of England and Wales is 2.83. Find out more about how we calculated the index in our technical annex."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": null,
+      "h5": null,
+      "text": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Qualification index score for workers in each sector, England and Wales, 2021",
+      "h5": null,
+      "text": "Qualification index score for workers in each sector, England and Wales, 2021"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Qualification index score for workers in each sector, England and Wales, 2021",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Qualification index score for workers in each sector, England and Wales, 2021",
+      "h5": null,
+      "title": "Qualification index score for workers in each sector",
+      "url": "/visualisations/dvc2256/fig1/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Qualification index score for workers in each sector, England and Wales, 2021",
+      "h5": null,
+      "text": "The sector with the most highly qualified workforce is professional, scientific and technical activities with a score of 3.49, closely followed by the information and communication sector (3.41)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Qualification index score for workers in each sector, England and Wales, 2021",
+      "h5": null,
+      "text": "The professional, scientific and technical activities sector employs a slightly higher proportion of staff with higher education qualifications than the information and communication sector (70.2% compared with 64.8%), though both sectors employ similarly low (approximately 15.0%) proportions of staff with their highest qualification at school level (GCSEs and equivalent) and below."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Qualification index score for workers in each sector, England and Wales, 2021",
+      "h5": null,
+      "text": "These sectors employ similar proportions of their workforce in professional and associate professional roles (60.4% and 63.9% respectively), which are the occupation groups that most commonly require higher qualification levels. The types of employment opportunities for highly qualified staff within these sectors are very different."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Qualification index score for workers in each sector, England and Wales, 2021",
+      "h5": null,
+      "text": "Occupations in computer science (such as programmers and software development professionals) and creative communications and broadcasting (such as arts officers, producers and directors) are common in the information and communication sectors."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Qualification index score for workers in each sector, England and Wales, 2021",
+      "h5": null,
+      "text": "In the professional, scientific and technical activities sector, the two most common occupations for highly qualified staff are in legal (solicitors and lawyers) and accountancy roles. This sector also employs a wide variety of other professions including engineers, veterinarians and research scientists."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Qualification index score for workers in each sector, England and Wales, 2021",
+      "h5": null,
+      "text": "In contrast, the sector that has the lowest qualified workforce is transport and storage, with a score of 2.23, closely followed by agriculture, forestry and fishing (2.28). Both sectors employ similar proportions of their workforce with higher education qualifications (23.5% for transport and storage and 24.0% for agriculture, forestry and fishing) with opportunities for highly qualified staff comparatively limited as these sectors respectively employ only 10.2% and 6.4% of their staff in professional or associate professional roles. The most common of these are biological scientist for agriculture, forestry and fishing, and the command and navigation of aircraft or vessels (aircraft pilots and air traffic controllers, and ship and hovercraft officers) for transport and storage."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Some of the workforces of individual industries within the lowest qualified sectors are much more highly qualified than the workforces in the rest of the sector",
+      "h5": null,
+      "text": "Some of the workforces of individual industries within the lowest qualified sectors are much more highly qualified than the workforces in the rest of the sector"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Some of the workforces of individual industries within the lowest qualified sectors are much more highly qualified than the workforces in the rest of the sector",
+      "h5": null,
+      "text": "While industries in each sector are grouped by similar activities, some of the individual industries within these sectors can have very different qualification levels among their workforce than other industries within the same sector."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Some of the workforces of individual industries within the lowest qualified sectors are much more highly qualified than the workforces in the rest of the sector",
+      "h5": null,
+      "text": "The sectors that have a very high variation within them are:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Some of the workforces of individual industries within the lowest qualified sectors are much more highly qualified than the workforces in the rest of the sector",
+      "h5": null,
+      "text": "mining and quarrying"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Some of the workforces of individual industries within the lowest qualified sectors are much more highly qualified than the workforces in the rest of the sector",
+      "h5": null,
+      "text": "manufacturing"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Some of the workforces of individual industries within the lowest qualified sectors are much more highly qualified than the workforces in the rest of the sector",
+      "h5": null,
+      "text": "administrative and support service activities"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Some of the workforces of individual industries within the lowest qualified sectors are much more highly qualified than the workforces in the rest of the sector",
+      "h5": null,
+      "text": "transport and storage"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Some of the workforces of individual industries within the lowest qualified sectors are much more highly qualified than the workforces in the rest of the sector",
+      "h5": null,
+      "text": "Apart from mining and quarrying, these are all relatively low qualified sectors, which have one or more individual industries within them that employ substantially more highly qualified workers. For example, two manufacturing industries that employ more highly qualified workers are the manufacture of pharmaceutical, and of computer, electrical and optical products."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Some of the workforces of individual industries within the lowest qualified sectors are much more highly qualified than the workforces in the rest of the sector",
+      "h5": null,
+      "text": "In the more highly qualified sectors, there is generally less variation, though there is still a moderate amount in the human health and social work activities, and arts, entertainment and recreation sectors. For example, workers in the human health activities industry are notably more qualified than those in the residential care activities industry. Similarly, workers in the creative, arts and entertainment activities industry are in general considerably more highly qualified than those in the gambling and betting activities industry."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Some of the workforces of individual industries within the lowest qualified sectors are much more highly qualified than the workforces in the rest of the sector",
+      "h5": null,
+      "text": "This shows that while the qualification levels in the sectors are a good guide, there is still some variation in the opportunities for highly qualified people within them. You can explore the variation in all sectors using our interactive tool. In this tool you can select an industrial sector and it will display the education score for each of the industries within that sector."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Select an industrial sector to explore the qualification levels of the individual industries:",
+      "h5": null,
+      "text": "Select an industrial sector to explore the qualification levels of the individual industries:"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Select an industrial sector to explore the qualification levels of the individual industries:",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Select an industrial sector to explore the qualification levels of the individual industries:",
+      "h5": null,
+      "title": "Industrial sectors explorer",
+      "url": "/visualisations/dvc2256/fig2/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Select an industrial sector to explore the qualification levels of the individual industries:",
+      "h5": null,
+      "text": "Many of the largest differences between industries within the sectors are a result of an industry employing a much higher proportion of its workers with higher education qualifications (Level 4 and above) than the rest of the sector. For example, 65.8% of workers in the pharmaceutical industry hold higher education qualifications, over double that of the manufacturing sector as a whole (32.4%). In fact, this is higher than for all other sectors except for the professional, scientific and technical activities sector."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Select an industrial sector to explore the qualification levels of the individual industries:",
+      "h5": null,
+      "text": "Two other manufacturing industries that employ substantially more highly qualified staff than the sector as a whole are the manufacture of computer, electrical and optical products industry, and the manufacture of other transport equipment. In these industries, 46.0% and 44.3% of their staff respectively hold higher education qualifications. The other transport equipment industry also employs a higher percentage (24.0%) of their staff with Level 3 qualifications (A levels and equivalents) than in the whole of the manufacturing sector (19.0%)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "You can further explore the detailed qualification levels of these and all the other individual industries using the interactive visualisation.",
+      "h5": null,
+      "text": "You can further explore the detailed qualification levels of these and all the other individual industries using the interactive visualisation."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "You can further explore the detailed qualification levels of these and all the other individual industries using the interactive visualisation.",
+      "h5": null,
+      "text": "In this visualisation, select the industry you are interested in, and it will display the full qualification level profile for that industry as a bar. You can also see the percentage of workers with that qualification level in the sector your selected industry belongs to as a black bar."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "You can further explore the detailed qualification levels of these and all the other individual industries using the interactive visualisation.",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "You can further explore the detailed qualification levels of these and all the other individual industries using the interactive visualisation.",
+      "h5": null,
+      "title": "Detailed qualification levels",
+      "url": "/visualisations/dvc2256/fig3/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Industries and their distribution across England and Wales",
+      "h5": null,
+      "text": "Industries and their distribution across England and Wales"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Industries and their distribution across England and Wales",
+      "h5": null,
+      "text": "The “industry concentration ratio” (see [glossary](#glossary)) is a measure we have developed to allow us to show concentrations of different sized industries across different sized local authorities on the same scale. This means that industries and local authorities can be more easily compared, and that we can identify how evenly distributed different industries are across England and Wales regardless of their size."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Industries and their distribution across England and Wales",
+      "h5": null,
+      "text": "A value of 1 would mean the proportion of workers in the industry in that local authority is in line with the national average. Any value greater than 1 would mean the industry is more concentrated than average in the local authority."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Industries and their distribution across England and Wales",
+      "h5": null,
+      "text": "The interactive map shows the industry concentration ratio for each industry and local authority in England and Wales. The darker shades show the industry is concentrated higher in that local authority. This enables us to make quick comparisons between local authorities and highlight examples of regional clustering of certain industries. The concentrations are based on where the workers live not where they work. Census was conducted during the COVID-19 pandemic where the UK and Welsh governments put in place work from home guidance. As some industries where more able to be done remotely than others, and commuting patterns were disrupted, this disruption would not be equal across the country."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "The scatterplot shows the percentage of workers in each local authority who have higher education qualifications, by industry.",
+      "h5": null,
+      "text": "The scatterplot shows the percentage of workers in each local authority who have higher education qualifications, by industry."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "The scatterplot shows the percentage of workers in each local authority who have higher education qualifications, by industry.",
+      "h5": null,
+      "text": "Plotting this onto the industry concentration ratio allows us to compare how prevalent an industry is in different local authorities, and how highly qualified the workforce is. We have excluded from this analysis sectors that employ under 50,000 workers across England and Wales to protect the confidentiality of respondents in local authorities that employ very few workers in these industries."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "The scatterplot shows the percentage of workers in each local authority who have higher education qualifications, by industry.",
+      "h5": "",
+      "text": ""
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "The scatterplot shows the percentage of workers in each local authority who have higher education qualifications, by industry.",
+      "h5": "",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "The scatterplot shows the percentage of workers in each local authority who have higher education qualifications, by industry.",
+      "h5": "",
+      "title": "Map and scatterplot",
+      "url": "/visualisations/dvc2256/fig4-5-wrapper/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Glossary",
+      "h5": null,
+      "text": "Glossary"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Highest level of qualification",
+      "h5": null,
+      "text": "Highest level of qualification"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Highest level of qualification",
+      "h5": null,
+      "text": "The highest level of qualification is derived from the question asking people to indicate all qualifications held, or their nearest equivalent."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Highest level of qualification",
+      "h5": null,
+      "text": "This may include non-UK qualifications where they were matched to the closest UK equivalent."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Highest level of qualification",
+      "h5": null,
+      "text": "The equivalent qualifications for “highest level of qualification” are as follows (please note, this is not an exhaustive list and therefore does not include every possible qualification):"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Highest level of qualification",
+      "h5": null,
+      "text": "Level 1 and entry level qualifications: any GCSEs at other grades, O levels or CSEs (any grades), Foundation Welsh Baccalaureate, 1 AS level, National Vocational Qualification (NVQ) level 1, Basic or Essential Skills, skills for life, literacy and numeracy, Level 2 Scottish Vocational qualifications"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Highest level of qualification",
+      "h5": null,
+      "text": "Level 2 qualifications: five or more GCSEs (A* to C or 9 to 4), O levels (passes), CSEs (grade 1), Intermediate Welsh Baccalaureate, one A level, two to three AS levels, NVQ level 2, Business and Technology Education Council (BTEC) General, City and Guilds Craft, Level 2 Scottish Vocational qualifications"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Highest level of qualification",
+      "h5": null,
+      "text": "Level 3 qualifications: two or more A levels, four or more AS levels, Advanced Welsh Baccalaureate, NVQ Level 3, City and Guilds Advanced Craft, Ordinary National Certificate (ONC), Ordinary National Diploma (OND), BTEC National, International Baccalaureate, Level 3 Scottish Vocational qualifications"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Highest level of qualification",
+      "h5": null,
+      "text": "Level 4 qualifications and above: degree, foundation degree, PHD, Master’'s degrees, Higher National Diploma (HND) or Higher National Certificate (HNC), NVQ Level 4 and above, professional qualifications (for example, teaching or nursing)"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Highest level of qualification",
+      "h5": null,
+      "text": "Other: any other qualifications, equivalent unknown"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Highest level of qualification",
+      "h5": null,
+      "text": "Higher education qualification: In Census 2021, qualifications were categorised in a series of levels. Higher education qualifications in England and Wales include all qualifications above Level 3 (A levels and equivalent) and typically are undertaken from the age of 18 years or older."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Industry",
+      "h5": null,
+      "text": "Industry"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Industry",
+      "h5": null,
+      "text": "Classifies people aged 16 years and over who were in employment between 15 and 21 March 2021 by the Standard Industrial Classification (SIC) 2007 code that represents their current industry or business."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Industry",
+      "h5": null,
+      "text": "The SIC code is assigned based on the information provided about a firm or organisation’s main activity. Overall, there are 21 industrial sections, referred to as “sectors” in this article, which can be broken down into 88 industrial divisions that we refer to as “industries” for brevity."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Industry concentration ratio",
+      "h5": null,
+      "text": "Industry concentration ratio"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Industry concentration ratio",
+      "h5": null,
+      "text": "To identify where there are concentrations of the different-sized industries across the local authorities that also vary substantially in size, we use a measure called the “industry concentration ratio”. It was calculated using the following formula:"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Industry concentration ratio",
+      "h5": null,
+      "text": "Industry concentration ratio = (X divided by Y) divided by (A divided by B)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Industry concentration ratio",
+      "h5": null,
+      "text": "X = local authority industry population"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Industry concentration ratio",
+      "h5": null,
+      "text": "Y = total industry population"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Industry concentration ratio",
+      "h5": null,
+      "text": "A = local authority total workers all industries"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Industry concentration ratio",
+      "h5": null,
+      "text": "B = England and Wales total workers all industries"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Industry concentration ratio",
+      "h5": null,
+      "text": "In this measure a value of 1 for a local authority means it has the same concentration of workers working in that industry as in England and Wales as a whole. For example, if an industry employed 7.0% of workers across the whole of England and Wales then this local authority would also employ 7.0% of its workers in that industry. Whereas a value of 2 would mean that the local authority has twice the concentration of workers in that industry compared with England and Wales as a whole (14.0% in the above example). This measure allows us to show the geographical concentrations of very differently-sized industries on the same scale to allow for easier comparisons across industries."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Occupation",
+      "h5": null,
+      "text": "Occupation"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Occupation",
+      "h5": null,
+      "text": "Classifies what people aged 16 years and over do as their main job. Their job title or details of activities they do in their job and any supervisory or management responsibilities form this classification. This information is used to code responses to an occupation using the Standard Occupational Classification (SOC) 2020."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Occupation",
+      "h5": null,
+      "text": "It classifies people who were in employment between 15 and 21 March 2021, by the SOC code that represents their current occupation. The lowest level of detail available is the four-digit SOC code, which includes all codes in three-, two- and one-digit SOC levels."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Qualification index score",
+      "h5": null,
+      "text": "Qualification index score"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Qualification index score",
+      "h5": null,
+      "text": "For Census 2021, we use a qualification rank index score to compare how highly qualified population groups are. It converts a person’s highest qualification into a single metric and creates an average rank score for the population. You can find out more in our [technical annex](https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/methodologies/howworkforcequalificationlevelsdifferacrossenglandandwalestechnicalannexcensus2021)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Usual resident",
+      "h5": null,
+      "text": "Usual resident"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Usual resident",
+      "h5": null,
+      "text": "A usual resident is anyone who on Census Day, 21 March 2021, was in the UK and had stayed or intended to stay in the UK for a period of 12 months or more, or had a permanent UK address and was outside the UK and intended to be outside the UK for less than 12 months."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Further information",
+      "h5": null,
+      "text": "Further information"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Further information",
+      "h5": null,
+      "text": "This analysis used data on highest qualification level from Census 2021. Further information on the data, the methods used in the local authority rankings and definitions are explained in our [technical annex](https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/methodologies/howworkforcequalificationlevelsdifferacrossenglandandwalestechnicalannexcensus2021)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Further information",
+      "h5": null,
+      "text": "Further information is available in the [Census 2021 quality and methodology information (QMI) report.](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/methodologies/qualityandmethodologyinformationqmiforcensus2021)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Further information",
+      "h5": null,
+      "text": "You may also be interested in [education quality information for Census 2021.](https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/methodologies/educationqualityinformationforcensus2021)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Further information",
+      "h5": null,
+      "text": "You may be further interested in information about the [labour market quality information](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/methodologies/labourmarketqualityinformationforcensus2021)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Further information",
+      "h5": null,
+      "text": "There is also a publication on [quality and methodology information (QMI) for Census 2021](http://Quality%20and%20methodology%20information%20(QMI)%20for%20Census%202021)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Further information",
+      "h5": null,
+      "text": "Finally, information is available on how [workforce qualification levels differ across England and Wales in our technical annex](https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/methodologies/howworkforcequalificationlevelsdifferacrossenglandandwalestechnicalannexcensus2021)."
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": "The professional and scientific, information and communication, and education sectors have the most highly qualified workforces",
+      "h4": "Further information",
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "Aidan Tolland\n[census.customerservices@ons.gov.uk](mailto:census.customerservices@ons.gov.uk)\n Telephone: +44 1329 44 4972",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:46:56.901223"
+}

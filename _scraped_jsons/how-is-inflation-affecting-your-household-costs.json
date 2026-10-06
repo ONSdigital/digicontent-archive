@@ -1,0 +1,385 @@
+{
+  "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/articles/howisinflationaffectingyourhouseholdcosts/2022-03-23",
+  "title": "How is inflation affecting your household costs?",
+  "meta_description": "Use our inflation calculator to see how increases in the cost of living have affected you in the past year",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "Economy",
+      "href": "https://www.ons.gov.uk/economy"
+    },
+    {
+      "text": "Inflation and price indices",
+      "href": "https://www.ons.gov.uk/economy/inflationandpriceindices"
+    },
+    {
+      "text": "How is inflation affecting your household costs?",
+      "href": null
+    }
+  ],
+  "date_published": "2022-03-23T00:00:00.000Z",
+  "date_modified": "2022-03-23T00:00:00.000Z",
+  "lede": "Use our inflation calculator to see how increases in the cost of living have affected you in the past year.",
+  "body": [
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": null,
+      "url": null
+    },
+    {
+      "type": "correction",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "Update notice:",
+      "date": "28 November 2025",
+      "text": "The average spend of similar households has recently been updated to the latest estimates from 2022. These figures have been calculated using an improved method and remain consistent with the [weighting](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/consumerpriceinflationupdatingweights/2022#data-sources-and-quality) used in consumer price inflation. Further details can be found [below](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/howisinflationaffectingyourhouseholdcosts/2022-03-23#:~:text=month%20or%20year.-,Further%20information,-About%20the%20calculator).",
+      "superseded_text": "[weighting](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/consumerpriceinflationupdatingweights/2022#data-sources-and-quality)"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[What is inflation?](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/howisinflationaffectingyourhouseholdcosts/2022-03-23#what-is-inflation)"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[How to use the calculator](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/howisinflationaffectingyourhouseholdcosts/2022-03-23#how-to-use-the-calculator)"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Further information](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/howisinflationaffectingyourhouseholdcosts/2022-03-23#further-information)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "personal inflation calculator",
+      "url": "/visualisations/dvc1833/calculator/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "How can we improve this tool? Complete this [feedback form](https://www.surveymonkey.co.uk/r/CVHLF5P) to share your thoughts.",
+      "box_items": null
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "What is inflation?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "What is inflation?"
+    },
+    {
+      "type": "p",
+      "h2": "What is inflation?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Inflation is a measure of how prices of goods and services are changing in the UK, and it can have a big impact on people’s household finances."
+    },
+    {
+      "type": "p",
+      "h2": "What is inflation?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Each month, the Office for National Statistics (ONS) publishes [the latest annual inflation rate](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/latest), which measures the change in the price of regularly purchased products (known as the basket of goods and services) compared with the same time the previous year."
+    },
+    {
+      "type": "p",
+      "h2": "What is inflation?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Some goods contribute more to the overall inflation rate than others – if some products see a large increase in prices, while others stay more stable, then inflation would be driven by the changing prices in that spending category."
+    },
+    {
+      "type": "p",
+      "h2": "What is inflation?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "So, how the headline inflation rate affects your household depends on which products you tend to spend your money on. This calculator estimates a personal inflation rate for your household."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "How to use the calculator",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "How to use the calculator"
+    },
+    {
+      "type": "p",
+      "h2": "How to use the calculator",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This calculator estimates a personal inflation rate based on your household spending patterns and compares this with headline inflation. You will be asked how much your household spends on a range of categories including:"
+    },
+    {
+      "type": "li",
+      "h2": "How to use the calculator",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "groceries"
+    },
+    {
+      "type": "li",
+      "h2": "How to use the calculator",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "housing"
+    },
+    {
+      "type": "li",
+      "h2": "How to use the calculator",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "transport"
+    },
+    {
+      "type": "li",
+      "h2": "How to use the calculator",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "leisure"
+    },
+    {
+      "type": "p",
+      "h2": "How to use the calculator",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The calculator will also estimate your spending on other areas, based either on the UK average spend, or if you provide your income, then on average spending for a household on your income level. Details of how we have estimated your spend are included in the further information section. If you would like to provide your own estimates for these other spending areas too, you can do so using the \"detailed\" button in the tool."
+    },
+    {
+      "type": "p",
+      "h2": "How to use the calculator",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The calculator will:"
+    },
+    {
+      "type": "li",
+      "h2": "How to use the calculator",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "estimate how much your monthly spend has increased over the past year"
+    },
+    {
+      "type": "li",
+      "h2": "How to use the calculator",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "show you how this compares with previous years"
+    },
+    {
+      "type": "li",
+      "h2": "How to use the calculator",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "break down which items are contributing most to your cost-of-living increases"
+    },
+    {
+      "type": "p",
+      "h2": "How to use the calculator",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "When thinking about your household spending, consider the spending of every person you live with, including partners and children. If you live in shared accommodation, or do not know the spending patterns of others in your household, just provide your personal share of expenses."
+    },
+    {
+      "type": "p",
+      "h2": "How to use the calculator",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "For the most accurate estimate, provide detailed costs for as many of the fields as possible. It is also important to consider irregular purchases, such as household appliances or a new car, and include the average amount this costs you per week, month or year."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Further information",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Further information"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Further information",
+      "h3": null,
+      "h4": "About the calculator",
+      "h5": null,
+      "text": "About the calculator"
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": null,
+      "h4": "About the calculator",
+      "h5": null,
+      "text": "Our measures of inflation are designed to reflect the change in prices of goods and services bought by all households."
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": null,
+      "h4": "About the calculator",
+      "h5": null,
+      "text": "The calculator uses the latest available inflation indices, but it cannot predict how prices might affect you in the future. It also cannot account for any changes in your spending habits over time or for variation in prices of products within a category (for example, whether you buy supermarket own-brand or premium-range groceries)."
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": null,
+      "h4": "About the calculator",
+      "h5": null,
+      "text": "The calculator uses our most comprehensive measure of consumer prices inflation, which is the [Consumer Prices Index including owner occupiers' housing costs (CPIH)](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/latest). The CPIH covers household spending on goods and services in the UK but not spending by businesses."
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": null,
+      "h4": "About the calculator",
+      "h5": null,
+      "text": "The CPIH extends the Consumer Prices Index (CPI) to include a measure of the costs associated with owning, maintaining and living in one’s own home, known as owner occupiers' housing (OOH) costs, along with Council Tax. It does not measure the change in the value of a house. In this calculator, we use mortgage spend as a proxy for owner occupiers’ housing costs."
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": null,
+      "h4": "About the calculator",
+      "h5": null,
+      "text": "We provide indicative average spend for each category to allow users to compare their spending with similar households. As of 28th November 2025, the calculation of average expenditures of households with similar incomes has been aligned with the calculation of weights in the [Household Costs Indices (HCI)](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/householdcostsindicesforukhouseholdgroups/latest). This method uses the [Living Costs and Food Survey](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/expenditure/bulletins/familyspendingintheuk/latest) which provides spending data by income decile for each category. More information can be found in the [Household Costs Indices for UK household groups QMI](https://www.ons.gov.uk/economy/inflationandpriceindices/methodologies/householdcostsindicesforukhouseholdgroupsqmi)."
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": null,
+      "h4": "About the calculator",
+      "h5": null,
+      "text": "The calculator assumes that all expenditure categories are adjusted by inflation. However, expenditure on some large items, such as vehicles, may be purchased through a one-off purchase or by fixed monthly repayments that do not change over time."
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": null,
+      "h4": "About the calculator",
+      "h5": null,
+      "text": "The inflation rate for the average household will differ slightly from our headline measure of consumer price inflation as the CPIH is intended to reflect total expenditure across the UK rather than any given household."
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": null,
+      "h4": "About the calculator",
+      "h5": null,
+      "text": "Indicative average spend is used in the standard version of the tool to reach your personal inflation rate. For spending categories where you do not provide your own information, the tool assumes you spend the average amount for a household on a similar income. To use your own spending for these categories, you can complete the detailed version of the calculator, accessed through the “your spending” page."
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": null,
+      "h4": "About the calculator",
+      "h5": null,
+      "text": "If you have any questions about this personal inflation calculator, please email [cpi@ons.gov.uk](mailto:cpi@ons.gov.uk)."
+    },
+    {
+      "type": "box",
+      "h2": "Further information",
+      "h3": null,
+      "h4": "About the calculator",
+      "h5": null,
+      "box_h2": "Related",
+      "box_h3": null,
+      "box_text": "Statistical bulletin | Released on 16 September 2026\n\nPrice indices, percentage changes, and weights for the different measures of consumer price inflation.\n\nStatistical bulletin | Released on 11 June 2026\n\nAverage weekly household expenditure on goods and services in the UK, by age, income, economic status, socio-economic class, household composition and region.\n\nStatistical bulletin | Released on 28 August 2026\n\nHousehold Costs Indices, 12-month growth rates, expenditure shares, and contributions for UK household groups and all households.",
+      "box_items": [
+        "[Consumer price inflation, UK](/economy/inflationandpriceindices/bulletins/consumerpriceinflation/august2026) Statistical bulletin | Released on 16 September 2026 Price indices, percentage changes, and weights for the different measures of consumer price inflation.",
+        "[Family spending in the UK](/peoplepopulationandcommunity/personalandhouseholdfinances/expenditure/bulletins/familyspendingintheuk/april2024tomarch2025) Statistical bulletin | Released on 11 June 2026 Average weekly household expenditure on goods and services in the UK, by age, income, economic status, socio-economic class, household composition and region.",
+        "[Household Costs Indices for UK household groups](/economy/inflationandpriceindices/bulletins/householdcostsindicesforukhouseholdgroups/apriltojune2026) Statistical bulletin | Released on 28 August 2026 Household Costs Indices, 12-month growth rates, expenditure shares, and contributions for UK household groups and all households."
+      ]
+    },
+    {
+      "type": "box",
+      "h2": "Further information",
+      "h3": null,
+      "h4": "About the calculator",
+      "h5": null,
+      "box_h2": "You might also be interested in",
+      "box_h3": null,
+      "box_text": "",
+      "box_items": [
+        "[Shopping prices comparison tool](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/shoppingpricescomparisontool/2023-05-03)",
+        "[Quality and Methodology Information for the Household Costs Indices for UK household groups](https://www.ons.gov.uk/economy/inflationandpriceindices/methodologies/householdcostsindicesforukhouseholdgroupsqmi)"
+      ]
+    },
+    {
+      "type": "box",
+      "h2": "Further information",
+      "h3": null,
+      "h4": "About the calculator",
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[digitalcontent@ons.gov.uk](mailto:digitalcontent@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:48:46.122452"
+}

@@ -1,0 +1,519 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/articles/youdrawthecharts60yearsofchange/2017-10-24",
+  "title": "You draw the charts: 60 years of change",
+  "meta_description": "In October 1957 BBC Radio 4's Today programme went on the air for the first time. What's changed in the last 60 years?",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Health and social care",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare"
+    },
+    {
+      "text": "Health and life expectancies",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies"
+    },
+    {
+      "text": "You draw the charts: 60 years of change",
+      "href": null
+    }
+  ],
+  "date_published": "2017-10-24T11:00:32.000Z",
+  "date_modified": "2017-10-24T11:00:32.000Z",
+  "lede": "In October 1957 BBC Radio 4's Today programme went on the air for the first time. What's changed in the last 60 years?",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "24 October 2017"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In October 1957 BBC Radio 4's [Today](http://www.bbc.co.uk/programmes/b006qj9z) programme went on the air for the first time. A lot has changed in the last 60 years: we are living much longer; attitudes to sex and marriage have become more relaxed; house prices have risen and the demographics of the country have changed. But do you know by how much?"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We've teamed up with [BBC News](http://www.bbc.co.uk/news/uk-41685693) to use statistics to tell the story of the last 60 years."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Test your knowledge by drawing in the missing information on the charts below. The charts give you the latest figure – all you have to do is tap and drag the orange dot on each graph and draw the rest of the chart back to 1957, then use the \"Show me the answer\" button to see how you did."
+    },
+    {
+      "type": "image",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "src": "/visualisations//visual/2017/10/dyoexample.gif",
+      "alt": null
+    },
+    {
+      "type": "image",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "src": "/visualisations//visual/2017/10/today_ons_house_prices.png",
+      "alt": null
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "How low were house prices in 1957?1",
+      "h4": null,
+      "h5": null,
+      "text": "How low were house prices in 1957?1"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "How low were house prices in 1957?1",
+      "h4": null,
+      "h5": null,
+      "text": "House prices have rocketed over the last few decades. But how modern is this phenomenon? Hold and drag the orange dot to trace the trend line back to 1957."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "How low were house prices in 1957?1",
+      "h4": "Average house prices, 1957 to 2017, UK",
+      "h5": null,
+      "text": "Average house prices, 1957 to 2017, UK"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "How low were house prices in 1957?1",
+      "h4": "Average house prices, 1957 to 2017, UK",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "How low were house prices in 1957?1",
+      "h4": "Average house prices, 1957 to 2017, UK",
+      "h5": null,
+      "title": "Average house prices, 1957 to 2017, UK",
+      "url": "/visualisations/dvc445/ukhpi/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "How low were house prices in 1957?1",
+      "h4": "Average house prices, 1957 to 2017, UK",
+      "h5": null,
+      "text": "[Download the data.](/visualisations//visual/2017/10/ukhpi.csv)"
+    },
+    {
+      "type": "image",
+      "h2": null,
+      "h3": "How low were house prices in 1957?1",
+      "h4": "Average house prices, 1957 to 2017, UK",
+      "h5": null,
+      "src": "/visualisations//visual/2017/10/today_ons_life_expectancy_v2.png",
+      "alt": null
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "How long could you expect to live in 1957?",
+      "h4": null,
+      "h5": null,
+      "text": "How long could you expect to live in 1957?"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "How long could you expect to live in 1957?",
+      "h4": null,
+      "h5": null,
+      "text": "Improvements in medical care and fewer people smoking mean that we are now living longer than ever. A baby boy born in the UK in 2014 could expect, on average, to live to 79; for baby girls born that year it was 83. But what do you think the average life expectancy was for a boy born in 1957? Can you draw the trend line back 60 years?"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "How long could you expect to live in 1957?",
+      "h4": "Life expectancy at birth, males, 1957 to 2014, UK",
+      "h5": null,
+      "text": "Life expectancy at birth, males, 1957 to 2014, UK"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "How long could you expect to live in 1957?",
+      "h4": "Life expectancy at birth, males, 1957 to 2014, UK",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "How long could you expect to live in 1957?",
+      "h4": "Life expectancy at birth, males, 1957 to 2014, UK",
+      "h5": null,
+      "title": "Life expectancy at birth, males, 1957 to 2014, UK",
+      "url": "/visualisations/dvc445/lifeexp/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "How long could you expect to live in 1957?",
+      "h4": "Life expectancy at birth, males, 1957 to 2014, UK",
+      "h5": null,
+      "text": "[Download the data.](/visualisations//visual/2017/10/lifeexp.csv)"
+    },
+    {
+      "type": "image",
+      "h2": null,
+      "h3": "How long could you expect to live in 1957?",
+      "h4": "Life expectancy at birth, males, 1957 to 2014, UK",
+      "h5": null,
+      "src": "/visualisations//visual/2017/10/today_ons_charts_divorce.png",
+      "alt": null
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Did many people divorce?",
+      "h4": null,
+      "h5": null,
+      "text": "Did many people divorce?"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Did many people divorce?",
+      "h4": null,
+      "h5": null,
+      "text": "Marriage has dropped in popularity since 1957. That year 52 out of every 1,000 unmarried women tied the knot. In 2014 it was just 21 women out of every 1,000 unmarried women."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Did many people divorce?",
+      "h4": null,
+      "h5": null,
+      "text": "But what about divorce? How has it changed and what was the divorce rate in 1957? We've given you the latest figure for the number of women divorcing for every 1,000 married women. Tap on the orange marker and draw the trend line back."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Did many people divorce?",
+      "h4": "Divorce and marriage rates, females, 1957 to 2014, England and Wales",
+      "h5": null,
+      "text": "Divorce and marriage rates, females, 1957 to 2014, England and Wales"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Did many people divorce?",
+      "h4": "Divorce and marriage rates, females, 1957 to 2014, England and Wales",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Did many people divorce?",
+      "h4": "Divorce and marriage rates, females, 1957 to 2014, England and Wales",
+      "h5": null,
+      "title": "Divorce and marriage rates, females, 1957 to 2014, England and Wales",
+      "url": "/visualisations/dvc445/marriage/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Did many people divorce?",
+      "h4": "Divorce and marriage rates, females, 1957 to 2014, England and Wales",
+      "h5": null,
+      "text": "[Download the data.](/visualisations//visual/2017/10/marriage.csv)"
+    },
+    {
+      "type": "image",
+      "h2": null,
+      "h3": "Did many people divorce?",
+      "h4": "Divorce and marriage rates, females, 1957 to 2014, England and Wales",
+      "h5": null,
+      "src": "/visualisations//visual/2017/10/today_ons_babies_outside_marriage.png",
+      "alt": null
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "How many children were born outside of marriage?2",
+      "h4": null,
+      "h5": null,
+      "text": "How many children were born outside of marriage?2"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "How many children were born outside of marriage?2",
+      "h4": null,
+      "h5": null,
+      "text": "Today there are nearly as many children born to unmarried parents as those whose parents are married. Not so in 1957. But do you know what the percentage was back then? The orange marker is the latest number. Hold and drag to draw the trend line back."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "How many children were born outside of marriage?2",
+      "h4": "Children born to unmarried parents, 1957 to 2016, England and Wales",
+      "h5": null,
+      "text": "Children born to unmarried parents, 1957 to 2016, England and Wales"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "How many children were born outside of marriage?2",
+      "h4": "Children born to unmarried parents, 1957 to 2016, England and Wales",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "How many children were born outside of marriage?2",
+      "h4": "Children born to unmarried parents, 1957 to 2016, England and Wales",
+      "h5": null,
+      "title": "Children born to unmarried parents, 1957 to 2016, England and Wales",
+      "url": "/visualisations/dvc445/bornoutmarriage/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "How many children were born outside of marriage?2",
+      "h4": "Children born to unmarried parents, 1957 to 2016, England and Wales",
+      "h5": null,
+      "text": "[Download the data.](/visualisations//visual/2017/10/bornoutmarriage.csv)"
+    },
+    {
+      "type": "image",
+      "h2": null,
+      "h3": "How many children were born outside of marriage?2",
+      "h4": "Children born to unmarried parents, 1957 to 2016, England and Wales",
+      "h5": null,
+      "src": "/visualisations//visual/2017/10/today_ons_babies2.png",
+      "alt": null
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "What percentage of people living in the UK were born abroad?3",
+      "h4": null,
+      "h5": null,
+      "text": "What percentage of people living in the UK were born abroad?3"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "What percentage of people living in the UK were born abroad?3",
+      "h4": null,
+      "h5": null,
+      "text": "This measure does not always mean what people think it means: it's not a count of foreigners living in the UK. For example Foreign Secretary Boris Johnson and the actress Emma Watson were both born abroad but would not be seen as foreigners by most people. The figures also include people born in Germany who are often children of British service people based out there."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "What percentage of people living in the UK were born abroad?3",
+      "h4": null,
+      "h5": null,
+      "text": "Caveats aside though, this number has grown over the time Today has been on the air. The orange marker shows today's figure. But what was the trend and what was this number in the 1950s? Hold and drag to draw your line."
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "What percentage of people living in the UK were born abroad?3",
+      "h4": null,
+      "h5": null,
+      "title": "Born abroad draw your own",
+      "url": "/visualisations/dvc445/bornabroad/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "What percentage of people living in the UK were born abroad?3",
+      "h4": null,
+      "h5": null,
+      "text": "[Download the data.](/visualisations//visual/2017/10/bornabroad.csv)"
+    },
+    {
+      "type": "image",
+      "h2": null,
+      "h3": "What percentage of people living in the UK were born abroad?3",
+      "h4": null,
+      "h5": null,
+      "src": "/visualisations//visual/2017/10/today_ons_mothers_age.png",
+      "alt": null
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "What was the average age of a first-time mother in 1957?",
+      "h4": null,
+      "h5": null,
+      "text": "What was the average age of a first-time mother in 1957?"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "What was the average age of a first-time mother in 1957?",
+      "h4": null,
+      "h5": null,
+      "text": "The average age of a woman giving birth to her first child today is 29. This is higher than it was 60 years ago. Can you draw the line back to 1957? Hold and drag the orange marker to make your guess."
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "What was the average age of a first-time mother in 1957?",
+      "h4": null,
+      "h5": null,
+      "title": "1st born draw your own",
+      "url": "/visualisations/dvc445/firstborn/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "What was the average age of a first-time mother in 1957?",
+      "h4": null,
+      "h5": null,
+      "text": "[Download the data.](/visualisations//visual/2017/10/firstborn.csv)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "What was the average age of a first-time mother in 1957?",
+      "h4": null,
+      "h5": null,
+      "text": "Other Visual.ONS articles:"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "What was the average age of a first-time mother in 1957?",
+      "h4": null,
+      "h5": null,
+      "text": "[House prices: how much does one square metre cost in your area?](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/housepriceshowmuchdoesonesquaremetrecostinyourarea/2017-10-11)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "What was the average age of a first-time mother in 1957?",
+      "h4": null,
+      "h5": null,
+      "text": "[What affects an area’s healthy life expectancy?](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/articles/whataffectsanareashealthylifeexpectancy/2017-06-28)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "What was the average age of a first-time mother in 1957?",
+      "h4": null,
+      "h5": null,
+      "text": "[Trends in births and deaths over the last century](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/articles/trendsinbirthsanddeathsoverthelastcentury/2015-07-15)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "What was the average age of a first-time mother in 1957?",
+      "h4": null,
+      "h5": null,
+      "text": "If you like our Visual.ONS content and would like to see more, please [sign up](https://public.govdelivery.com/accounts/UKONS/subscribers/new) to our email alerts, selecting 'stories and infographics' under preferences."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Footnotes:",
+      "h4": null,
+      "h5": null,
+      "text": "Footnotes:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Footnotes:",
+      "h4": null,
+      "h5": null,
+      "text": "The 2017 figure is an average of the monthly figures from January to August."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Footnotes:",
+      "h4": null,
+      "h5": null,
+      "text": "Since 2009, data also include those born outside of civil partnerships."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Footnotes:",
+      "h4": null,
+      "h5": null,
+      "text": "This chart is drawn from census data from 1951 to 2011. Census data are only collected every ten years, therefore estimates between these years are not official statistics."
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": "Footnotes:",
+      "h4": null,
+      "h5": null,
+      "box_h2": "You might also be interested in",
+      "box_h3": null,
+      "box_text": "",
+      "box_items": [
+        "[House Price Index, UK: August 2017](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/housepriceindex/august2017)",
+        "[Past and projected data from the period and cohort life tables: 2014-based, UK, 1981 to 2064](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/bulletins/pastandprojecteddatafromtheperiodandcohortlifetables/2014baseduk1981to2064)",
+        "[Divorces in England and Wales: 2016](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/divorce/bulletins/divorcesinenglandandwales/2016)",
+        "[Marriages in England and Wales: 2014](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/marriagecohabitationandcivilpartnerships/bulletins/marriagesinenglandandwalesprovisional/2014)",
+        "[Births in England and Wales: 2016](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/birthsummarytablesenglandandwales/2016)",
+        "[2011 Census data catalogue](https://www.ons.gov.uk/census/2011census/2011censusdata/2011censusdatacatalogue)",
+        "[Births by parents' characteristics in England and Wales: 2015](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/birthsbyparentscharacteristicsinenglandandwales/2015)"
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": "Footnotes:",
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[digitalcontent@ons.gov.uk](mailto:digitalcontent@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:47:21.526888"
+}

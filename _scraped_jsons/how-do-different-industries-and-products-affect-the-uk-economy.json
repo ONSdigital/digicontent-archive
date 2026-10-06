@@ -1,0 +1,126 @@
+{
+  "url": "https://www.ons.gov.uk/economy/nationalaccounts/supplyandusetables/articles/howdodifferentindustriesandproductsaffecttheukeconomy/2025-03-05",
+  "title": "How do different industries and products affect the UK economy?",
+  "meta_description": "Use our new tool to explore how a selected product or service is used in the UK economy, and the wider effects of changes in final demand for a product",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "Economy",
+      "href": "https://www.ons.gov.uk/economy"
+    },
+    {
+      "text": "National accounts",
+      "href": "https://www.ons.gov.uk/economy/nationalaccounts"
+    },
+    {
+      "text": "Supply and use tables",
+      "href": "https://www.ons.gov.uk/economy/nationalaccounts/supplyandusetables"
+    },
+    {
+      "text": "How do different industries and products affect the UK economy?",
+      "href": null
+    }
+  ],
+  "date_published": "2025-03-05T00:00:00.000Z",
+  "date_modified": "2025-03-05T00:00:00.000Z",
+  "lede": "Use our new tool to explore how a selected product or service is used in the UK economy, and the wider effects of changes in final demand for a product",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "5 March 2025"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This tool explores the use of different goods and services (or “products”), by UK industries. It can be used to understand which industries are the biggest users of a selected product in their production."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "It also shows which goods and services are required to produce other products and which of these goods and services are produced in the UK or imported."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "You can also explore how the economy would be affected if final demand for your selected product were to rise or fall. Final demand includes consumer purchases, capital investment, government and exports."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "It uses the [Office for National Statistics (ONS)’s Input Output Analytical Tables (IOATs)](https://www.ons.gov.uk/economy/nationalaccounts/supplyandusetables/datasets/ukinputoutputanalyticaltablesdetailed). You can learn more about these statistics in our [accompanying user guide](https://www.ons.gov.uk/economy/nationalaccounts/supplyandusetables/methodologies/inputoutputanalysistooluserguide)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Select a product to find out more about how it is used."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": "This tool was last updated on 11 December 2025.",
+      "text": "This tool was last updated on 11 December 2025."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": "This tool was last updated on 11 December 2025.",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": "This tool was last updated on 11 December 2025.",
+      "title": "input output analysis interactive tool",
+      "url": "/visualisations/dvc3025/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": "This tool was last updated on 11 December 2025.",
+      "text": "[Download a mapper to link our simplified industry and product names to their official titles and codes](/visualisations/dvc3025/download/industryproductmapper.xlsx)."
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": "This tool was last updated on 11 December 2025.",
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "Input Output team\n[SUT@ons.gov.uk](mailto:SUT@ons.gov.uk)\n Telephone: +441633 455643",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:46:19.237701"
+}

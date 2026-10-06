@@ -1,0 +1,1078 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/childhealth/articles/neonatalandchildmortalitybymothersethnicgroupandsocioeconomicstatus/2024-06-05",
+  "title": "Neonatal and child mortality by mothers’ ethnic group and socio-economic status",
+  "meta_description": "Article summarising findings from ONS analysis of the risk of neonatal and child mortality by mothers' ethnic group and household socio-economic status",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Health and social care",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare"
+    },
+    {
+      "text": "Child health",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/childhealth"
+    },
+    {
+      "text": "Neonatal and child mortality by mothers’ ethnic group and socio-economic status",
+      "href": null
+    }
+  ],
+  "date_published": "2024-06-04T23:00:00.000Z",
+  "date_modified": "2024-06-04T23:00:00.000Z",
+  "lede": "Babies born to Asian/Asian British Pakistani mothers saw the highest risk of neonatal and child death",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "5 June 2024"
+    },
+    {
+      "type": "image",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "src": "/visualisations/dvc2962/banner/Child-mortality_banner.svg",
+      "alt": "graphic showing hospital and health centre with icons of people and a person holding a baby"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "This article uses data on self-reported ethnic group from the 2011 Census. We've grouped some of the response options together, and shortened some of the labels, for simplicity.\n\nA full table of the abbreviations we've used is available in the [Glossary](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/childhealth/articles/neonatalandchildmortalitybymothersethnicgroupandsocioeconomicstatus/2024-06-05#glossary).",
+      "box_items": null
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This article explains findings from ONS research into inequalities in neonatal and child mortality in England and Wales, using information from birth registrations, 2011 Census data and death registrations."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "If you are affected by the issues in this article, you can find information about where to seek help in the [Help with issues raised in this article](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/childhealth/articles/neonatalandchildmortalitybymothersethnicgroupandsocioeconomicstatus/2024-06-05#help-with-issues-raised-in-this-article) section."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "What is child mortality?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "What is child mortality?"
+    },
+    {
+      "type": "p",
+      "h2": "What is child mortality?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Child mortality is a measure of the proportion of babies who die before reaching later childhood. It is commonly used as an indicator of population health."
+    },
+    {
+      "type": "p",
+      "h2": "What is child mortality?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Overall, child mortality in England and Wales has been reducing since the 1980s. [In 2022, around 3.9 in every 1,000 infants died before their first birthday](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/childhoodinfantandperinatalmortalityinenglandandwales/2022)."
+    },
+    {
+      "type": "p",
+      "h2": "What is child mortality?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "However, improvements to the child mortality rate have slowed in recent years. [The UK has some of the highest child mortality rates in Europe](https://www.bmj.com/content/368/bmj.m849), so it’s important to understand as much as we can about current trends."
+    },
+    {
+      "type": "p",
+      "h2": "What is child mortality?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In this article, we have followed a cohort of children born between 2011 and 2016, until December 2021, when the oldest children in the cohort were aged 10 years."
+    },
+    {
+      "type": "p",
+      "h2": "What is child mortality?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "First, we looked at how neonatal and child mortality rates differed depending on the birth mothers’ ethnic group or the socio-economic status of adults in the household, using an occupation-based measure called [National Statistics Socio-economic Classification (NS-SEC)](https://www.ons.gov.uk/methodology/classificationsandstandards/otherclassifications/thenationalstatisticssocioeconomicclassificationnssecrebasedonsoc2010)."
+    },
+    {
+      "type": "p",
+      "h2": "What is child mortality?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We then estimated risk of death in our cohort, using statistical modelling."
+    },
+    {
+      "type": "p",
+      "h2": "What is child mortality?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We have looked at neonatal mortality (from birth up to 28 days) and child mortality (after 28 days) separately, as the risk of death and causes of death are very different for these two groups."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Mortality rates were highest for babies born to Pakistani mothers and those in out-of-work households",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Mortality rates were highest for babies born to Pakistani mothers and those in out-of-work households"
+    },
+    {
+      "type": "p",
+      "h2": "Mortality rates were highest for babies born to Pakistani mothers and those in out-of-work households",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Our analysis included 3 million babies born between Census Day 2011 (27 March 2011) and 31 December 2016. Further information on our study population is available in the [Measuring the data](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/childhealth/articles/neonatalandchildmortalitybymothersethnicgroupandsocioeconomicstatus/2024-06-05#measuring-the-data) section."
+    },
+    {
+      "type": "p",
+      "h2": "Mortality rates were highest for babies born to Pakistani mothers and those in out-of-work households",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In total, there were 9,955 deaths in our follow-up period 4,750 (48%) of which occurred in the neonatal period (within 28 days of birth)."
+    },
+    {
+      "type": "p",
+      "h2": "Mortality rates were highest for babies born to Pakistani mothers and those in out-of-work households",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We measure mortality rates using a standard measure that compares the number of deaths to the years of life lived, called deaths per 1,000 child-years. This takes into account both the number of children in the cohort, and the follow-up time."
+    },
+    {
+      "type": "p",
+      "h2": "Mortality rates were highest for babies born to Pakistani mothers and those in out-of-work households",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Babies born to Pakistani mothers had the highest rate of neonatal and child mortality, at 45.8 per 1,000 child-years and 0.8 per 1,000 child-years, respectively. This is an estimate that falls within a range; [confidence intervals](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/childhealth/articles/neonatalandchildmortalitybymothersethnicgroupandsocioeconomicstatus/2024-06-05#glossary) for all estimates are available in the [associated data tables](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/childhealth/articles/neonatalandchildmortalitybymothersethnicgroupandsocioeconomicstatus/2024-06-05#related-data)."
+    },
+    {
+      "type": "p",
+      "h2": "Mortality rates were highest for babies born to Pakistani mothers and those in out-of-work households",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Meanwhile, neonatal and child mortality rates were lowest in the White Other group (15.9 per 1,000 child-years and 0.2 per 1,000 child-years, respectively)."
+    },
+    {
+      "type": "p",
+      "h2": "Mortality rates were highest for babies born to Pakistani mothers and those in out-of-work households",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "When comparing rates by socio-economic status, households where the main earner had never worked or was long-term unemployed had the highest rates of neonatal and child deaths (31.9 per 1,000 child-years and 0.6 per 1,000 child-years, respectively)."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Understanding the differences in child mortality by ethnic group and socio-economic status",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Understanding the differences in child mortality by ethnic group and socio-economic status"
+    },
+    {
+      "type": "p",
+      "h2": "Understanding the differences in child mortality by ethnic group and socio-economic status",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We used statistical techniques to estimate inequalities in child mortality and understand which factors are most closely associated with the differences between ethnic groups and people of different socio-economic status."
+    },
+    {
+      "type": "p",
+      "h2": "Understanding the differences in child mortality by ethnic group and socio-economic status",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "First, we used a statistical model to estimate the difference in risk for babies born to mothers of different ethnic groups and socio-economic status (Model 1). This accounted for differences in the average age of mothers between groups and the babies’ sex. This is because we know that these factors play an important role in the risk of death."
+    },
+    {
+      "type": "p",
+      "h2": "Understanding the differences in child mortality by ethnic group and socio-economic status",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "A second model helped us understand the extent to which the differences in mortality between ethnic groups and socio-economic statuses found in Model 1 were related to other characteristics."
+    },
+    {
+      "type": "p",
+      "h2": "Understanding the differences in child mortality by ethnic group and socio-economic status",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Our second model (Model 2) accounted for differences in household characteristics like mother’s country of birth, and babies’ (gestational) characteristics, including premature birth and suspected congenital abnormalities."
+    },
+    {
+      "type": "p",
+      "h2": "Understanding the differences in child mortality by ethnic group and socio-economic status",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "When looking at ethnicity, we also accounted for socio-economic status, and when looking at socio-economic status, we adjusted for ethnicity. We’ve provided further information about the models in the [Measuring the data](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/childhealth/articles/neonatalandchildmortalitybymothersethnicgroupandsocioeconomicstatus/2024-06-05#measuring-the-data) section."
+    },
+    {
+      "type": "p",
+      "h2": "Understanding the differences in child mortality by ethnic group and socio-economic status",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "If there is a big difference in the estimated relative risks between models, this means that the factors accounted for in Model 2 are influencing the estimated risk of death seen in that group."
+    },
+    {
+      "type": "p",
+      "h2": "Understanding the differences in child mortality by ethnic group and socio-economic status",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "It’s important to understand that the following figures reflect estimated risk based on a statistical model, accounting for multiple factors simultaneously, rather than actual mortality for children in our cohort."
+    },
+    {
+      "type": "p",
+      "h2": "Understanding the differences in child mortality by ethnic group and socio-economic status",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "These estimates tell us about statistical relationships between neonatal and child mortality and belonging to a certain ethnic or socio-economic group, but we cannot say what is causing these differences."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Babies born to Pakistani mothers had the highest risk of death",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Babies born to Pakistani mothers had the highest risk of death"
+    },
+    {
+      "type": "p",
+      "h2": "Babies born to Pakistani mothers had the highest risk of death",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We estimated that babies and children born to mothers in the Pakistani ethnic group (Asian/Asian British: Pakistani) saw the biggest risk compared to those born to White British mothers (White: (English/Welsh/Scottish/Northern Irish/British). This reflects the trends seen in the overall mortality rates."
+    },
+    {
+      "type": "p",
+      "h2": "Babies born to Pakistani mothers had the highest risk of death",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This was the case even after accounting for a range of other factors."
+    },
+    {
+      "type": "p",
+      "h2": "Babies born to Pakistani mothers had the highest risk of death",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The chart below shows how the risk of neonatal death varies by ethnic group compared to the risk for those born to White British mothers."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Babies born to Pakistani mothers had the highest risk of death",
+      "h3": null,
+      "h4": "In both models, babies born to Pakistani mothers saw the highest risk of neonatal death compared to that of White British mothers",
+      "h5": null,
+      "text": "In both models, babies born to Pakistani mothers saw the highest risk of neonatal death compared to that of White British mothers"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Babies born to Pakistani mothers had the highest risk of death",
+      "h3": null,
+      "h4": "In both models, babies born to Pakistani mothers saw the highest risk of neonatal death compared to that of White British mothers",
+      "h5": "Estimated risk of neonatal death, by mothers’ ethnic group, compared to mothers of White British ethnic group, England and Wales, 2011-2017",
+      "text": "Estimated risk of neonatal death, by mothers’ ethnic group, compared to mothers of White British ethnic group, England and Wales, 2011-2017"
+    },
+    {
+      "type": "p",
+      "h2": "Babies born to Pakistani mothers had the highest risk of death",
+      "h3": null,
+      "h4": "In both models, babies born to Pakistani mothers saw the highest risk of neonatal death compared to that of White British mothers",
+      "h5": "Estimated risk of neonatal death, by mothers’ ethnic group, compared to mothers of White British ethnic group, England and Wales, 2011-2017",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Babies born to Pakistani mothers had the highest risk of death",
+      "h3": null,
+      "h4": "In both models, babies born to Pakistani mothers saw the highest risk of neonatal death compared to that of White British mothers",
+      "h5": "Estimated risk of neonatal death, by mothers’ ethnic group, compared to mothers of White British ethnic group, England and Wales, 2011-2017",
+      "title": "Estimated risk of neonatal death, by mothers’ ethnic group, compared to mothers of White British ethnic group, England and Wales, 2011-2017 ",
+      "url": "/visualisations/dvc2962/1a-ethnicity-n/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "Babies born to Pakistani mothers had the highest risk of death",
+      "h3": null,
+      "h4": "In both models, babies born to Pakistani mothers saw the highest risk of neonatal death compared to that of White British mothers",
+      "h5": "Estimated risk of neonatal death, by mothers’ ethnic group, compared to mothers of White British ethnic group, England and Wales, 2011-2017",
+      "text": "[Download the data for risk of neonatal death by mothers' ethnic group [XSLX, 11KB]](/visualisations/dvc2962/1a-ethnicity-n/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "Babies born to Pakistani mothers had the highest risk of death",
+      "h3": null,
+      "h4": "In both models, babies born to Pakistani mothers saw the highest risk of neonatal death compared to that of White British mothers",
+      "h5": "Estimated risk of neonatal death, by mothers’ ethnic group, compared to mothers of White British ethnic group, England and Wales, 2011-2017",
+      "text": "Even after accounting for many other environmental, household, and gestational characteristics, the estimated risk remained almost two times higher than that of White British mothers."
+    },
+    {
+      "type": "p",
+      "h2": "Babies born to Pakistani mothers had the highest risk of death",
+      "h3": null,
+      "h4": "In both models, babies born to Pakistani mothers saw the highest risk of neonatal death compared to that of White British mothers",
+      "h5": "Estimated risk of neonatal death, by mothers’ ethnic group, compared to mothers of White British ethnic group, England and Wales, 2011-2017",
+      "text": "In Model 1, which accounted for the babies’ sex and mothers’ age, babies born to mothers of Bangladeshi, Indian and Pakistani ethnic groups and Black / Black British ethnic groups had statistically significantly higher risk than babies born to White British mothers."
+    },
+    {
+      "type": "p",
+      "h2": "Babies born to Pakistani mothers had the highest risk of death",
+      "h3": null,
+      "h4": "In both models, babies born to Pakistani mothers saw the highest risk of neonatal death compared to that of White British mothers",
+      "h5": "Estimated risk of neonatal death, by mothers’ ethnic group, compared to mothers of White British ethnic group, England and Wales, 2011-2017",
+      "text": "In Model 2, which accounted for many more socio-economic and gestational differences, risk of death was still significantly higher for babies born to mothers in the following ethnic groups:"
+    },
+    {
+      "type": "li",
+      "h2": "Babies born to Pakistani mothers had the highest risk of death",
+      "h3": null,
+      "h4": "In both models, babies born to Pakistani mothers saw the highest risk of neonatal death compared to that of White British mothers",
+      "h5": "Estimated risk of neonatal death, by mothers’ ethnic group, compared to mothers of White British ethnic group, England and Wales, 2011-2017",
+      "text": "Black African (Black/African/Caribbean/Black British: African)"
+    },
+    {
+      "type": "li",
+      "h2": "Babies born to Pakistani mothers had the highest risk of death",
+      "h3": null,
+      "h4": "In both models, babies born to Pakistani mothers saw the highest risk of neonatal death compared to that of White British mothers",
+      "h5": "Estimated risk of neonatal death, by mothers’ ethnic group, compared to mothers of White British ethnic group, England and Wales, 2011-2017",
+      "text": "Pakistani (Asian/Asian British: Pakistani)"
+    },
+    {
+      "type": "p",
+      "h2": "Babies born to Pakistani mothers had the highest risk of death",
+      "h3": null,
+      "h4": "In both models, babies born to Pakistani mothers saw the highest risk of neonatal death compared to that of White British mothers",
+      "h5": "Estimated risk of neonatal death, by mothers’ ethnic group, compared to mothers of White British ethnic group, England and Wales, 2011-2017",
+      "text": "However, for all other groups, there was no statistical evidence of differences in risk compared with the White British group. This means the factors accounted for in Model 2, like maternal and gestational characteristics (premature births and congenital abnormalities), could be contributing to the difference in risk seen by these ethnic groups."
+    },
+    {
+      "type": "p",
+      "h2": "Babies born to Pakistani mothers had the highest risk of death",
+      "h3": null,
+      "h4": "In both models, babies born to Pakistani mothers saw the highest risk of neonatal death compared to that of White British mothers",
+      "h5": "Estimated risk of neonatal death, by mothers’ ethnic group, compared to mothers of White British ethnic group, England and Wales, 2011-2017",
+      "text": "Importantly, we still see differences in mortality risk between ethnic groups in both models. This indicates that other unmeasured factors not accounted for in our analysis, such as access to healthcare, could also be contributing to this difference in risk."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Children born to Pakistani mothers also saw the highest risk of death",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Children born to Pakistani mothers also saw the highest risk of death"
+    },
+    {
+      "type": "p",
+      "h2": "Children born to Pakistani mothers also saw the highest risk of death",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We define child mortality as a death from 28 days of age up to 10 years of age. For child deaths, the estimated risk was highest for children born to mothers in the following ethnic groups:"
+    },
+    {
+      "type": "li",
+      "h2": "Children born to Pakistani mothers also saw the highest risk of death",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Pakistani (Asian/Asian British: Pakistani)"
+    },
+    {
+      "type": "li",
+      "h2": "Children born to Pakistani mothers also saw the highest risk of death",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Black African (Black/African/Caribbean/Black British: African)"
+    },
+    {
+      "type": "li",
+      "h2": "Children born to Pakistani mothers also saw the highest risk of death",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Bangladeshi (Asian/Asian British: Bangladeshi)"
+    },
+    {
+      "type": "p",
+      "h2": "Children born to Pakistani mothers also saw the highest risk of death",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Unlike the neonatal model, the risk of child death for different ethnic groups was similar in both models."
+    },
+    {
+      "type": "p",
+      "h2": "Children born to Pakistani mothers also saw the highest risk of death",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This suggests that the characteristics accounted for in Model 2 (such as mothers’ socio-economic status and babies’ birth weight and other gestational characteristics) did not play a substantial role in the estimated differences seen between ethnic groups."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Children born to Pakistani mothers also saw the highest risk of death",
+      "h3": null,
+      "h4": "Children of Pakistani, Black African and Bangladeshi mothers saw the highest estimated risk of death before and after accounting for other household and gestational factors",
+      "h5": null,
+      "text": "Children of Pakistani, Black African and Bangladeshi mothers saw the highest estimated risk of death before and after accounting for other household and gestational factors"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Children born to Pakistani mothers also saw the highest risk of death",
+      "h3": null,
+      "h4": "Children of Pakistani, Black African and Bangladeshi mothers saw the highest estimated risk of death before and after accounting for other household and gestational factors",
+      "h5": "Estimated risk child death by mothers’ ethnic group, compared to mothers of White British ethnic group, England and Wales, 2011-2021",
+      "text": "Estimated risk child death by mothers’ ethnic group, compared to mothers of White British ethnic group, England and Wales, 2011-2021"
+    },
+    {
+      "type": "p",
+      "h2": "Children born to Pakistani mothers also saw the highest risk of death",
+      "h3": null,
+      "h4": "Children of Pakistani, Black African and Bangladeshi mothers saw the highest estimated risk of death before and after accounting for other household and gestational factors",
+      "h5": "Estimated risk child death by mothers’ ethnic group, compared to mothers of White British ethnic group, England and Wales, 2011-2021",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Children born to Pakistani mothers also saw the highest risk of death",
+      "h3": null,
+      "h4": "Children of Pakistani, Black African and Bangladeshi mothers saw the highest estimated risk of death before and after accounting for other household and gestational factors",
+      "h5": "Estimated risk child death by mothers’ ethnic group, compared to mothers of White British ethnic group, England and Wales, 2011-2021",
+      "title": "Estimated risk child death by mothers’ ethnic group, compared to mothers of White British ethnic group, England and Wales, 2011-2021 ",
+      "url": "/visualisations/dvc2962/1b-ethnicity-c/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Risk of both neonatal and child death was higher in households with long-term unemployment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Risk of both neonatal and child death was higher in households with long-term unemployment"
+    },
+    {
+      "type": "p",
+      "h2": "Risk of both neonatal and child death was higher in households with long-term unemployment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We also compared mortality risk for babies and children based on the socio-economic status of the adults in their household. To do this, we used the [National Statistics Socio-economic Classification (NS-SEC)](https://www.ons.gov.uk/methodology/classificationsandstandards/otherclassifications/thenationalstatisticssocioeconomicclassificationnssecrebasedonsoc2010), which groups people based on their occupation."
+    },
+    {
+      "type": "p",
+      "h2": "Risk of both neonatal and child death was higher in households with long-term unemployment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The groups range from those who have never worked or are long-term unemployed, to those in high-paid occupations such as chief executives and company directors."
+    },
+    {
+      "type": "p",
+      "h2": "Risk of both neonatal and child death was higher in households with long-term unemployment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In this analysis, we have compared mortality risk for all socio-economic groups to those in [NS-SEC Class 1](https://www.ons.gov.uk/methodology/classificationsandstandards/otherclassifications/thenationalstatisticssocioeconomicclassificationnssecrebasedonsoc2010#analytic-classes-and-operational-categories), which includes higher managerial and professional jobs. We’ve grouped our cohort based on the NS-SEC classification of the main earner in the household."
+    },
+    {
+      "type": "p",
+      "h2": "Risk of both neonatal and child death was higher in households with long-term unemployment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Babies born into households where the main earner was not in a managerial profession had a higher risk of neonatal death than those in households where the main earner was in a higher managerial or professional job."
+    },
+    {
+      "type": "p",
+      "h2": "Risk of both neonatal and child death was higher in households with long-term unemployment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "However, once we accounted for a range of other household and gestational factors (in Model 2), there was no statistical evidence of a higher risk of neonatal death for any socio-economic group."
+    },
+    {
+      "type": "p",
+      "h2": "Risk of both neonatal and child death was higher in households with long-term unemployment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This suggests that the relationship between socio-economic status and neonatal mortality can largely be explained by other factors."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Risk of both neonatal and child death was higher in households with long-term unemployment",
+      "h3": null,
+      "h4": "After accounting for gestational characteristics, the estimated risk of neonatal death was similar for all socio-economic groups",
+      "h5": null,
+      "text": "After accounting for gestational characteristics, the estimated risk of neonatal death was similar for all socio-economic groups"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Risk of both neonatal and child death was higher in households with long-term unemployment",
+      "h3": null,
+      "h4": "After accounting for gestational characteristics, the estimated risk of neonatal death was similar for all socio-economic groups",
+      "h5": "Estimated risk of neonatal death, by household NS-SEC classification, compared to those in higher managerial and professional jobs, England and Wales, 2011 to 2017",
+      "text": "Estimated risk of neonatal death, by household NS-SEC classification, compared to those in higher managerial and professional jobs, England and Wales, 2011 to 2017"
+    },
+    {
+      "type": "p",
+      "h2": "Risk of both neonatal and child death was higher in households with long-term unemployment",
+      "h3": null,
+      "h4": "After accounting for gestational characteristics, the estimated risk of neonatal death was similar for all socio-economic groups",
+      "h5": "Estimated risk of neonatal death, by household NS-SEC classification, compared to those in higher managerial and professional jobs, England and Wales, 2011 to 2017",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Risk of both neonatal and child death was higher in households with long-term unemployment",
+      "h3": null,
+      "h4": "After accounting for gestational characteristics, the estimated risk of neonatal death was similar for all socio-economic groups",
+      "h5": "Estimated risk of neonatal death, by household NS-SEC classification, compared to those in higher managerial and professional jobs, England and Wales, 2011 to 2017",
+      "title": "Estimated risk of neonatal death, by household NS-SEC classification, compared to those in higher managerial and professional jobs, England and Wales, 2011 to 2017 ",
+      "url": "/visualisations/dvc2962/2a-nssec-n/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "Risk of both neonatal and child death was higher in households with long-term unemployment",
+      "h3": null,
+      "h4": "After accounting for gestational characteristics, the estimated risk of neonatal death was similar for all socio-economic groups",
+      "h5": "Estimated risk of neonatal death, by household NS-SEC classification, compared to those in higher managerial and professional jobs, England and Wales, 2011 to 2017",
+      "text": "[Download the data for risk of death by household NS-SEC classification [XLSX, 11KB]](/visualisations/dvc2962/2a-nssec-n/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "Risk of both neonatal and child death was higher in households with long-term unemployment",
+      "h3": null,
+      "h4": "After accounting for gestational characteristics, the estimated risk of neonatal death was similar for all socio-economic groups",
+      "h5": "Estimated risk of neonatal death, by household NS-SEC classification, compared to those in higher managerial and professional jobs, England and Wales, 2011 to 2017",
+      "text": "When looking at the risk of death for children, those in all other socio-economic groups saw a higher risk than those in households with a higher managerial or professional worker."
+    },
+    {
+      "type": "p",
+      "h2": "Risk of both neonatal and child death was higher in households with long-term unemployment",
+      "h3": null,
+      "h4": "After accounting for gestational characteristics, the estimated risk of neonatal death was similar for all socio-economic groups",
+      "h5": "Estimated risk of neonatal death, by household NS-SEC classification, compared to those in higher managerial and professional jobs, England and Wales, 2011 to 2017",
+      "text": "In households where the main earner had never worked or was long-term unemployed, the risk in Model 1 was more than 2.5 times that of a child who lived with a higher managerial or professional worker."
+    },
+    {
+      "type": "p",
+      "h2": "Risk of both neonatal and child death was higher in households with long-term unemployment",
+      "h3": null,
+      "h4": "After accounting for gestational characteristics, the estimated risk of neonatal death was similar for all socio-economic groups",
+      "h5": "Estimated risk of neonatal death, by household NS-SEC classification, compared to those in higher managerial and professional jobs, England and Wales, 2011 to 2017",
+      "text": "The estimated differences between groups reduced in the second model, where more personal and environmental factors were accounted for."
+    },
+    {
+      "type": "p",
+      "h2": "Risk of both neonatal and child death was higher in households with long-term unemployment",
+      "h3": null,
+      "h4": "After accounting for gestational characteristics, the estimated risk of neonatal death was similar for all socio-economic groups",
+      "h5": "Estimated risk of neonatal death, by household NS-SEC classification, compared to those in higher managerial and professional jobs, England and Wales, 2011 to 2017",
+      "text": "However, children from households in all but two socio-economic groups (those in households with intermediate occupation workers and those in households with students) still saw a higher estimated risk of death than those in households with a higher managerial or professional worker."
+    },
+    {
+      "type": "p",
+      "h2": "Risk of both neonatal and child death was higher in households with long-term unemployment",
+      "h3": null,
+      "h4": "After accounting for gestational characteristics, the estimated risk of neonatal death was similar for all socio-economic groups",
+      "h5": "Estimated risk of neonatal death, by household NS-SEC classification, compared to those in higher managerial and professional jobs, England and Wales, 2011 to 2017",
+      "text": "This suggests socio-economic factors play a bigger role in risk of child death than neonatal death."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Risk of both neonatal and child death was higher in households with long-term unemployment",
+      "h3": null,
+      "h4": "Children in households where there was long-term unemployment saw the highest risk of mortality",
+      "h5": null,
+      "text": "Children in households where there was long-term unemployment saw the highest risk of mortality"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Risk of both neonatal and child death was higher in households with long-term unemployment",
+      "h3": null,
+      "h4": "Children in households where there was long-term unemployment saw the highest risk of mortality",
+      "h5": "Estimated risk of child death by household NS-SEC classification, compared to those in managerial and employer jobs, England and Wales, 2011 to 2021",
+      "text": "Estimated risk of child death by household NS-SEC classification, compared to those in managerial and employer jobs, England and Wales, 2011 to 2021"
+    },
+    {
+      "type": "p",
+      "h2": "Risk of both neonatal and child death was higher in households with long-term unemployment",
+      "h3": null,
+      "h4": "Children in households where there was long-term unemployment saw the highest risk of mortality",
+      "h5": "Estimated risk of child death by household NS-SEC classification, compared to those in managerial and employer jobs, England and Wales, 2011 to 2021",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Risk of both neonatal and child death was higher in households with long-term unemployment",
+      "h3": null,
+      "h4": "Children in households where there was long-term unemployment saw the highest risk of mortality",
+      "h5": "Estimated risk of child death by household NS-SEC classification, compared to those in managerial and employer jobs, England and Wales, 2011 to 2021",
+      "title": "Estimated risk of child death by household NS-SEC classification, compared to those in managerial and employer jobs, England and Wales, 2011 to 2021",
+      "url": "/visualisations/dvc2962/2b-nssec-c/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "Risk of both neonatal and child death was higher in households with long-term unemployment",
+      "h3": null,
+      "h4": "Children in households where there was long-term unemployment saw the highest risk of mortality",
+      "h5": "Estimated risk of child death by household NS-SEC classification, compared to those in managerial and employer jobs, England and Wales, 2011 to 2021",
+      "text": "[Download the data for risk of child death by household NS-SEC [XLSX, 11KB]](/visualisations/dvc2962/2b-nssec-c/datadownload.xlsx)"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Help with issues raised in this article",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Help with issues raised in this article"
+    },
+    {
+      "type": "p",
+      "h2": "Help with issues raised in this article",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": "Help with issues raised in this article",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "If you or someone close to you is affected by the issues in this article, you can contact the [Child Bereavement UK](https://www.childbereavementuk.org/) helpline on 0800 02888 40, or [use the live chat function on their website](https://www.childbereavementuk.org/Pages/Category/child-bereavement-uk-support-services).\n\nChild Bereavement UK helps families to rebuild their lives when a child grieves or when a child dies.\n\nYou can also contact [The Stillbirth and Neonatal Death Charity (SANDS)](https://www.sands.org.uk/). Sands is there to support anyone affected by pregnancy loss or the death of a baby, however recently or longer ago, for as long as they need this. Find out more: [www.sands.org.uk/support](https://www.sands.org.uk/support-you/how-we-offer-support)",
+      "box_items": null
+    },
+    {
+      "type": "p",
+      "h2": "Help with issues raised in this article",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Return to the top of the page](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/childhealth/articles/neonatalandchildmortalitybymothersethnicgroupandsocioeconomicstatus/2024-06-05)"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Glossary",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Glossary"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "Glossary",
+      "h3": "Confidence interval",
+      "h4": null,
+      "h5": null,
+      "text": "Confidence interval"
+    },
+    {
+      "type": "p",
+      "h2": "Glossary",
+      "h3": "Confidence interval",
+      "h4": null,
+      "h5": null,
+      "text": "Confidence intervals are the range in which an estimated value is likely to lie. For more information, see [Uncertainty and how we measure it](https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/uncertaintyandhowwemeasureit#confidence-interval)."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "Glossary",
+      "h3": "Ethnicity",
+      "h4": null,
+      "h5": null,
+      "text": "Ethnicity"
+    },
+    {
+      "type": "p",
+      "h2": "Glossary",
+      "h3": "Ethnicity",
+      "h4": null,
+      "h5": null,
+      "text": "In this article we have used [ethnic groups as reported on the 2011 Census](https://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/ethnicity/articles/ethnicityandnationalidentityinenglandandwales/2012-12-11). There were 18 response options on the census, which we combined into 9 groups. In some cases, we have shortened the full group name, for brevity. These abbreviations, and their full groupings, are as follows:"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Glossary",
+      "h3": "Ethnicity",
+      "h4": "Bangladeshi",
+      "h5": null,
+      "text": "Bangladeshi"
+    },
+    {
+      "type": "p",
+      "h2": "Glossary",
+      "h3": "Ethnicity",
+      "h4": "Bangladeshi",
+      "h5": null,
+      "text": "Asian/Asian British: Bangladeshi"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Glossary",
+      "h3": "Ethnicity",
+      "h4": "Indian",
+      "h5": null,
+      "text": "Indian"
+    },
+    {
+      "type": "p",
+      "h2": "Glossary",
+      "h3": "Ethnicity",
+      "h4": "Indian",
+      "h5": null,
+      "text": "Asian/Asian British: Indian"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Glossary",
+      "h3": "Ethnicity",
+      "h4": "Pakistani",
+      "h5": null,
+      "text": "Pakistani"
+    },
+    {
+      "type": "p",
+      "h2": "Glossary",
+      "h3": "Ethnicity",
+      "h4": "Pakistani",
+      "h5": null,
+      "text": "Asian/Asian British: Pakistani"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Glossary",
+      "h3": "Ethnicity",
+      "h4": "Black African",
+      "h5": null,
+      "text": "Black African"
+    },
+    {
+      "type": "p",
+      "h2": "Glossary",
+      "h3": "Ethnicity",
+      "h4": "Black African",
+      "h5": null,
+      "text": "Black/African/Caribbean/Black British: African"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Glossary",
+      "h3": "Ethnicity",
+      "h4": "Black Caribbean",
+      "h5": null,
+      "text": "Black Caribbean"
+    },
+    {
+      "type": "p",
+      "h2": "Glossary",
+      "h3": "Ethnicity",
+      "h4": "Black Caribbean",
+      "h5": null,
+      "text": "Black/African/Caribbean/Black British: Caribbean"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Glossary",
+      "h3": "Ethnicity",
+      "h4": "Mixed / Multiple",
+      "h5": null,
+      "text": "Mixed / Multiple"
+    },
+    {
+      "type": "p",
+      "h2": "Glossary",
+      "h3": "Ethnicity",
+      "h4": "Mixed / Multiple",
+      "h5": null,
+      "text": "Mixed/Multiple ethnic groups, Mixed / Multiple: write-in"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Glossary",
+      "h3": "Ethnicity",
+      "h4": "Other",
+      "h5": null,
+      "text": "Other"
+    },
+    {
+      "type": "p",
+      "h2": "Glossary",
+      "h3": "Ethnicity",
+      "h4": "Other",
+      "h5": null,
+      "text": "Other ethnic group (including Asian / Asian British: Chinese, and any other Asian background; any other Black/African/Caribbean/Black British background)"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Glossary",
+      "h3": "Ethnicity",
+      "h4": "White British",
+      "h5": null,
+      "text": "White British"
+    },
+    {
+      "type": "p",
+      "h2": "Glossary",
+      "h3": "Ethnicity",
+      "h4": "White British",
+      "h5": null,
+      "text": "White: English/Welsh/Scottish/Northern Irish/British"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Glossary",
+      "h3": "Ethnicity",
+      "h4": "White Other",
+      "h5": null,
+      "text": "White Other"
+    },
+    {
+      "type": "p",
+      "h2": "Glossary",
+      "h3": "Ethnicity",
+      "h4": "White Other",
+      "h5": null,
+      "text": "White: Other"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "Glossary",
+      "h3": "Hazard ratio",
+      "h4": null,
+      "h5": null,
+      "text": "Hazard ratio"
+    },
+    {
+      "type": "p",
+      "h2": "Glossary",
+      "h3": "Hazard ratio",
+      "h4": null,
+      "h5": null,
+      "text": "A hazard ratio is a measure of the relative differences in the instantaneous rate of mortality between groups. In short, it is a measure of how often a particular event occur in one group compared to another (reference) group at a given point in time. A hazard ratio greater than one indicates the rate of mortality is higher, and likewise less than one lower, in the population group under study compared with a reference group."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "Glossary",
+      "h3": "Mortality rate per 1000 child-years",
+      "h4": null,
+      "h5": null,
+      "text": "Mortality rate per 1000 child-years"
+    },
+    {
+      "type": "p",
+      "h2": "Glossary",
+      "h3": "Mortality rate per 1000 child-years",
+      "h4": null,
+      "h5": null,
+      "text": "This is the rate based on deaths and the number of people, for a specified time period. Child-years takes into account both the number of people and follow-up time. This allows us to estimate the number of neonatal and child deaths that would occur among 1,000 individuals per year over our full study period."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "Glossary",
+      "h3": "NS-SEC",
+      "h4": null,
+      "h5": null,
+      "text": "NS-SEC"
+    },
+    {
+      "type": "p",
+      "h2": "Glossary",
+      "h3": "NS-SEC",
+      "h4": null,
+      "h5": null,
+      "text": "The [National Statistics Socio-economic classification, or NS-SEC](https://www.ons.gov.uk/methodology/classificationsandstandards/otherclassifications/thenationalstatisticssocioeconomicclassificationnssecrebasedonsoc2010), is a classification system of socio-economic status based on occupations. Further information is available in our [NS-SEC methodology page](https://www.ons.gov.uk/methodology/classificationsandstandards/otherclassifications/thenationalstatisticssocioeconomicclassificationnssecrebasedonsoc2010)."
+    },
+    {
+      "type": "p",
+      "h2": "Glossary",
+      "h3": "NS-SEC",
+      "h4": null,
+      "h5": null,
+      "text": "In this analysis, we assigned babies and children to a socio-economic group based on the main earner in their household, or household reference person. This could be the person who owns or rents the house they are living in, or the oldest adult in the household, or the highest earner."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Measuring the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Measuring the data"
+    },
+    {
+      "type": "p",
+      "h2": "Measuring the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This analysis used population level data, linking data from linked birth notifications (2011-2016) to Census 2011 information on mothers’ socio-economic and ethnicity characteristics."
+    },
+    {
+      "type": "p",
+      "h2": "Measuring the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The cohort included in this study included singleton live births born after 24 weeks of pregnancy, to mothers aged at least 12 years at the time of birth."
+    },
+    {
+      "type": "p",
+      "h2": "Measuring the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Babies whose mother was not a usual resident in England or Wales at the time of the 2011 Census were excluded. Stillbirths were also excluded from our cohort."
+    },
+    {
+      "type": "p",
+      "h2": "Measuring the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "These babies were followed-up until December 2021, to a maximum of 10 years of age."
+    },
+    {
+      "type": "p",
+      "h2": "Measuring the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The number of deaths reported in this article and the associated data tables are rounded to the nearest five."
+    },
+    {
+      "type": "p",
+      "h2": "Measuring the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The statistical model used to estimate mortality risk by ethnicity and socio-economic status is called Cox proportional hazards, and these results were expressed in hazard ratios."
+    },
+    {
+      "type": "p",
+      "h2": "Measuring the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The full analysis included 5 models which is detailed in the Data."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Related data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Related data"
+    },
+    {
+      "type": "box",
+      "h2": "Related data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Related",
+      "box_h3": null,
+      "box_text": "Statistical bulletin | Released on 11 May 2026\n\nStillbirths, infant and childhood deaths occurring annually in England and Wales, and associated risk factors.\n\nArticle | Released on 16 June 2023\n\nUse our interactive tool to see how health changed in each local authority area across England between 2015 and 2021, according to the Health Index.\n\nArticle | Released on 13 October 2017\n\nThe UK has dropped several ranks in the European Union rankings of child mortality since 1990, recent analysis of WHO and ONS data has found.",
+      "box_items": [
+        "[Child and infant mortality in England and Wales](/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/childhoodinfantandperinatalmortalityinenglandandwales/2024) Statistical bulletin | Released on 11 May 2026 Stillbirths, infant and childhood deaths occurring annually in England and Wales, and associated risk factors.",
+        "[How health has changed in your area](/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/articles/howhealthhaschangedinyourarea2015to2021/2023-06-16) Article | Released on 16 June 2023 Use our interactive tool to see how health changed in each local authority area across England between 2015 and 2021, according to the Health Index.",
+        "[UK drops in European child mortality rankings](/peoplepopulationandcommunity/healthandsocialcare/childhealth/articles/ukdropsineuropeanchildmortalityrankings/2017-10-13) Article | Released on 13 October 2017 The UK has dropped several ranks in the European Union rankings of child mortality since 1990, recent analysis of WHO and ONS data has found."
+      ]
+    },
+    {
+      "type": "box",
+      "h2": "Related data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "Health Analysis\n[Health.Data@ons.gov.uk](mailto:Health.Data@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:46:53.738129"
+}

@@ -1,0 +1,440 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/articles/crimetrendsinenglandandwalesandhowwemeasurethem/2024-03-06",
+  "title": "Crime trends in England and Wales and how we measure them : June 2024",
+  "meta_description": "An explainer article which outlines the different ways we measure crime at the ONS and which measure is best for different types of crime.",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Crime and justice",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice"
+    },
+    {
+      "text": "Crime trends in England and Wales and how we measure them",
+      "href": null
+    }
+  ],
+  "date_published": "2024-06-26T23:00:00.000Z",
+  "date_modified": "2024-06-26T23:00:00.000Z",
+  "lede": "Exploring the different ways we measure crime, which measure is best for different crime types, and some of the trends that emerge",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "27 June 2024"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Crime can affect anyone. There are many different types of crime which harm people and society in different ways, while the type and nature of crime is constantly evolving."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Our [Centre for Crime and Justice](/aboutus/whatwedo/programmesandprojects/onscentres/centreforcrimeandjustice) aims to improve understanding of the extent and nature of crime across England and Wales by providing detailed information that can inform policies that tackle crime and assess if they are effective."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "How do we measure crime?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "How do we measure crime?"
+    },
+    {
+      "type": "p",
+      "h2": "How do we measure crime?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We measure crime experienced by people living in England and Wales. We estimate how much crime there is and whether it is rising or falling using two main sources: the Crime Survey for England and Wales (CSEW) and police recorded crime."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "What is the Crime Survey for England and Wales?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "What is the Crime Survey for England and Wales?"
+    },
+    {
+      "type": "p",
+      "h2": "What is the Crime Survey for England and Wales?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The Crime Survey for England and Wales (CSEW) has been in operation since 1981. Trained interviewers ask people aged 16 years and over residing in households in England and Wales about their experiences of a selected range of crimes in the 12 months prior to interview. Beyond the census, it is one of the biggest household surveys in operation across the country, with estimates based on over 31,000 interviews."
+    },
+    {
+      "type": "p",
+      "h2": "What is the Crime Survey for England and Wales?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The CSEW has had a consistent methodology over time and provides more than 40 years of comparable data. It is the best source for understanding long-term crime trends at a national level for the offences and population it covers (people living in private households), because it is unaffected by changes in levels of reporting to the police or police recording practices."
+    },
+    {
+      "type": "p",
+      "h2": "What is the Crime Survey for England and Wales?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In 2009, the CSEW was extended to include children aged 10 to 15 years to provide estimates of victimisation against children."
+    },
+    {
+      "type": "p",
+      "h2": "What is the Crime Survey for England and Wales?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "You can find out more about the CSEW in [Section 2 of our User guide to crime statistics](/peoplepopulationandcommunity/crimeandjustice/methodologies/userguidetocrimestatisticsforenglandandwales#crime-survey-for-england-and-wales-csew)."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "What crimes does the survey measure?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "What crimes does the survey measure?"
+    },
+    {
+      "type": "p",
+      "h2": "What crimes does the survey measure?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "CSEW headline crime captures a range of personal and household victim-based crime in the interviewer-led parts of the survey including:"
+    },
+    {
+      "type": "li",
+      "h2": "What crimes does the survey measure?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "theft"
+    },
+    {
+      "type": "li",
+      "h2": "What crimes does the survey measure?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "robbery"
+    },
+    {
+      "type": "li",
+      "h2": "What crimes does the survey measure?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "criminal damage"
+    },
+    {
+      "type": "li",
+      "h2": "What crimes does the survey measure?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "fraud"
+    },
+    {
+      "type": "li",
+      "h2": "What crimes does the survey measure?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "computer misuse"
+    },
+    {
+      "type": "li",
+      "h2": "What crimes does the survey measure?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "violence with or without injury"
+    },
+    {
+      "type": "p",
+      "h2": "What crimes does the survey measure?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In our quarterly release, [Crime in England and Wales](/peoplepopulationandcommunity/crimeandjustice/bulletins/crimeinenglandandwales/previousReleases), we provide estimates for:"
+    },
+    {
+      "type": "li",
+      "h2": "What crimes does the survey measure?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "the number of incidents of CSEW headline crime"
+    },
+    {
+      "type": "li",
+      "h2": "What crimes does the survey measure?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "the number of CSEW headline crime victims"
+    },
+    {
+      "type": "li",
+      "h2": "What crimes does the survey measure?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "the proportion of the population who experience a CSEW headline crime once or more (prevalence)"
+    },
+    {
+      "type": "li",
+      "h2": "What crimes does the survey measure?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "the number of CSEW headline crimes experienced per household or individual (incidence)"
+    },
+    {
+      "type": "p",
+      "h2": "What crimes does the survey measure?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "It is important to note that domestic violence reported in the interviewer-led parts of the CSEW is prone to significant under-reporting, because many victims will not be willing to disclose such incidents in the context of an in-home face-to-face personal interview. For this reason, our preferred measure of domestic violence comes from the survey’s domestic abuse self-completion module, which are presented in our annual [Domestic abuse in England and Wales bulletin](/peoplepopulationandcommunity/crimeandjustice/bulletins/domesticabuseinenglandandwalesoverview/november2023)."
+    },
+    {
+      "type": "p",
+      "h2": "What crimes does the survey measure?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Experiences of sexual assault, stalking and harassment are presented in our [Sexual offences victim characteristics article](/peoplepopulationandcommunity/crimeandjustice/articles/sexualoffencesvictimcharacteristicsenglandandwales/yearendingmarch2022), [Stalking: findings article](/peoplepopulationandcommunity/crimeandjustice/datasets/stalkingfindingsfromthecrimesurveyforenglandandwales) and [Experiences of harassment in England and Wales bulletin](/peoplepopulationandcommunity/crimeandjustice/bulletins/experiencesofharassmentinenglandandwales/december2023). Standalone survey modules are used to gather information from respondents about these highly sensitive crimes in a different way to other crimes, and the data are captured and processed separately and are not directly comparable. For these crimes (and domestic abuse), we only present estimates related to the number of victims and the proportion of the population who were victims once or more (prevalence) because of difficulty with calculating the number of times a respondent has been victimised in these modules."
+    },
+    {
+      "type": "p",
+      "h2": "What crimes does the survey measure?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The CSEW also measures a range of perception-related measures and other crime-related experiences, such as anti-social behaviour and attitudes towards the police."
+    },
+    {
+      "type": "p",
+      "h2": "What crimes does the survey measure?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "See our [Guide to finding crime statistics](/peoplepopulationandcommunity/crimeandjustice/methodologies/guidetofindingcrimestatisticsoct2016) for further information on the statistics that we publish as well as how to find crime statistics for Scotland and Northern Ireland."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Are there crimes that the CSEW doesn’t measure?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Are there crimes that the CSEW doesn’t measure?"
+    },
+    {
+      "type": "p",
+      "h2": "Are there crimes that the CSEW doesn’t measure?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Because the CSEW is a household survey, it excludes crimes against:"
+    },
+    {
+      "type": "li",
+      "h2": "Are there crimes that the CSEW doesn’t measure?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "commercial or public sector bodies"
+    },
+    {
+      "type": "li",
+      "h2": "Are there crimes that the CSEW doesn’t measure?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "tourists"
+    },
+    {
+      "type": "li",
+      "h2": "Are there crimes that the CSEW doesn’t measure?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "non-household populations, such as care home residents and those who are homeless"
+    },
+    {
+      "type": "p",
+      "h2": "Are there crimes that the CSEW doesn’t measure?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "It also excludes crimes against society, such as drug possession or public order offences, and does not cover homicide because it is based on the responses of victims."
+    },
+    {
+      "type": "p",
+      "h2": "Are there crimes that the CSEW doesn’t measure?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Although the CSEW has a large sample size and provides reliable estimates for high-volume crimes, for rare crimes (such as robbery), where there are relatively small numbers of victims, there can be some variance in CSEW estimates from year to year."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "How can police recorded crime be used to understand trends in crime?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "How can police recorded crime be used to understand trends in crime?"
+    },
+    {
+      "type": "p",
+      "h2": "How can police recorded crime be used to understand trends in crime?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Police recorded crime covers offences reported to and recorded by the police. The data is supplied to the Home Office from the 43 territorial police forces of England and Wales and the British Transport Police. These figures provide a good measure of police activity – what is reported to them and what they are dealing with."
+    },
+    {
+      "type": "p",
+      "h2": "How can police recorded crime be used to understand trends in crime?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Police recorded crime has wider coverage than the CSEW because it covers all offences against the total population (including non-household populations), as well as crimes against businesses and crimes against society. However, it is important to note that trends in police recorded crime are influenced by changes in recording practices, which have had a particularly large impact on the recording of violent crime over the last 10 years. Trends are also affected by changes in police activity and changes in victim’s willingness to report a crime to the police."
+    },
+    {
+      "type": "p",
+      "h2": "How can police recorded crime be used to understand trends in crime?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Police recorded crime does, however, provide a good measure of offences that are well-reported and well-recorded by the police. It is the better source for some low volume crimes that the CSEW does not capture, such as homicide and offences involving a knife or sharp instruments. These can be seen in our [Homicide in England and Wales articles](/peoplepopulationandcommunity/crimeandjustice/articles/homicideinenglandandwales/previousReleases) and our [Crime in England and Wales: other related tables dataset](/peoplepopulationandcommunity/crimeandjustice/datasets/crimeinenglandandwalesotherrelatedtables). It also acts as a complimentary source of data for those low volume crimes that are subject to variance in the CSEW, such as robbery."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "What is the best measure to understand trends in overall crime and individual crime types?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "What is the best measure to understand trends in overall crime and individual crime types?"
+    },
+    {
+      "type": "p",
+      "h2": "What is the best measure to understand trends in overall crime and individual crime types?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Measuring crime is complex and it can be difficult to know which source of data provides the best insight into levels of crime and trends over time. The CSEW and police recorded crime data have varying strengths and limitations depending on the crime type being measured."
+    },
+    {
+      "type": "p",
+      "h2": "What is the best measure to understand trends in overall crime and individual crime types?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "There is no one single measure for measuring trends for overall crime. The CSEW and police recorded crime are best used together to develop a more complete picture. CSEW headline crime provides the best measure for a range of crimes against individuals living in private households. However, these figures should be complimented using measures from the CSEW standalone modules for more sensitive crimes that cannot be captured in the interviewer-led parts of the survey, such as sexual assault, as well as police recorded crime for offences that the survey does not capture, such as homicide and offences involving knives or sharp instruments."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "More information on data quality for crime statistics",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "More information on data quality for crime statistics"
+    },
+    {
+      "type": "p",
+      "h2": "More information on data quality for crime statistics",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Our data quality framework is compiled to help inform users about the quality of crime statistics for different types of crime, and which source is thought to provide the most reliable measure. The framework is available in [Section 5 of our User guide to crime statistics](/peoplepopulationandcommunity/crimeandjustice/methodologies/userguidetocrimestatisticsforenglandandwales#offence-types)."
+    },
+    {
+      "type": "p",
+      "h2": "More information on data quality for crime statistics",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "More information on data quality for crime statistics",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "Table 1",
+      "url": "/visualisations/dvc2885/table/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "More information on data quality for crime statistics",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Download the data quality framework summary for selected offences table (XLSX, 13KB)](/visualisations/dvc2885/table/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "More information on data quality for crime statistics",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Download the data quality framework summary for selected offences table (PDF, 53KB)](/visualisations/dvc2885/table/data_quality_framework.pdf)"
+    },
+    {
+      "type": "p",
+      "h2": "More information on data quality for crime statistics",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "More information on the quality characteristics of these data sources can be found in our [Crime in England and Wales QMI](/peoplepopulationandcommunity/crimeandjustice/methodologies/crimeinenglandandwalesqmi#output-information)."
+    },
+    {
+      "type": "p",
+      "h2": "More information on data quality for crime statistics",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Keep track of all our new releases for crime statistics on our [Crime and Justice](/peoplepopulationandcommunity/crimeandjustice) webpage or sign up for [ONS email updates](https://public.govdelivery.com/accounts/UKONS/subscribers/new)."
+    },
+    {
+      "type": "box",
+      "h2": "More information on data quality for crime statistics",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "ONS Centre for Crime and Justice\n[crimestatistics@ons.gov.uk](mailto:crimestatistics@ons.gov.uk)\n Telephone: 44 20 7592 8695",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:46:22.17397"
+}

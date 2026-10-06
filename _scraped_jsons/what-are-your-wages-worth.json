@@ -1,0 +1,114 @@
+{
+  "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/articles/areyourwageskeepingupwithinflation/2017-06-20",
+  "title": "What are your wages worth?",
+  "meta_description": "Use our calculator to find out if your salary is keeping pace with inflation.\n",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "Economy",
+      "href": "https://www.ons.gov.uk/economy"
+    },
+    {
+      "text": "Inflation and price indices",
+      "href": "https://www.ons.gov.uk/economy/inflationandpriceindices"
+    },
+    {
+      "text": "What are your wages worth?",
+      "href": null
+    }
+  ],
+  "date_published": null,
+  "date_modified": null,
+  "lede": "Use our calculator to find out if your salary is keeping pace with inflation.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Inflation, the rate at which the price of goods and services rises year-on-year, has been rising rapidly since late 2021. This has contributed to rises in the cost of living, because people need more money to be able to buy the same amount of goods."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "When the inflation rate outstrips your wage growth, you lose money in real terms, as you need to spend a higher proportion of your wages to buy the same goods. When your wage grows faster than prices, you have gained money in real terms, effectively enjoying a higher standard of living."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Use our calculator to find out what your salary would need to increase by to match rising inflation."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "Salary and inflation calculator",
+      "url": "/visualisations/dvc2326/calc/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Note: This interactive is an illustrative example and should not be used to make financial decisions."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "For more information, contact: [labour.market@ons.gov.uk](mailto:labour.market@ons.gov.uk)"
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "You might also be interested in",
+      "box_h3": null,
+      "box_text": "",
+      "box_items": [
+        "[Cost of living latest insights tool](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/costofliving/latestinsights)",
+        "[How is inflation affecting your household costs?](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/howisinflationaffectingyourhouseholdcosts/2022-03-23)",
+        "[UK consumer price inflation](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/latest)",
+        "[UK labour market](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/latest)",
+        "[Professional and scientific industry the only one where pay continues to match rising prices](/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/professionalandscientificindustrytheonlyonewherepaycontinuestomatchrisingprices/2022-11-23)"
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[digitalcontent@ons.gov.uk](mailto:digitalcontent@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:48:54.704515"
+}

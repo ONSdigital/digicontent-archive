@@ -1,0 +1,120 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/wheredoover70slive/2020-03-24",
+  "title": "Where do over-70s live?",
+  "meta_description": "See the population of England and Wales aged 70 years and over mapped at a local level.",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Health and social care",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare"
+    },
+    {
+      "text": "Coronavirus (COVID-19)",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases"
+    },
+    {
+      "text": "Where do over-70s live?",
+      "href": null
+    }
+  ],
+  "date_published": "2020-03-24T00:00:00.000Z",
+  "date_modified": "2020-03-24T00:00:00.000Z",
+  "lede": "See the population of England and Wales aged 70 years and over mapped at a local level.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "People aged 70 years and over are among those most at risk of severe illness from the coronavirus (COVID-19)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "On Sunday 22 March 2020, the UK Government introduced [shielding measures](https://www.gov.uk/government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19) to protect the extremely vulnerable from the outbreak, with an estimated 1.5 million people being asked to stay at home and avoid all face-to-face contact for at least 12 weeks. Some over-70s will be in this group, while others are only allowed to leave their home in [certain circumstances](https://www.gov.uk/government/publications/full-guidance-on-staying-at-home-and-away-from-others/full-guidance-on-staying-at-home-and-away-from-others)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "As the UK population steps up national, local and community efforts to support its most vulnerable members, use our interactive map to identify which areas have the highest percentage of people aged 70 or 85 years and over. To select an area enter a postcode or hover over the map."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "Map",
+      "url": "/visualisations/dvc778/map/index.html"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The data used to create this map do not allow individual people or households to be identified. Building groups are shaded to give a sense of the population density in an area."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Download local and regional estimates of those aged over 70years](/visualisations/dvc778/map/data/all_persons_estimates.xlsx)"
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "You might also be interested in",
+      "box_h3": null,
+      "box_text": "",
+      "box_items": [
+        "[Population estimates by output areas, electoral, health and other geographies, England and Wales: mid-2018](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/annualsmallareapopulationestimates/mid2018)",
+        "[Scotland: Small Area Population Estimates, mid-2018](https://www.nrscotland.gov.uk/news/2019/small-area-population-estimates-mid-2018)",
+        "[Northern Ireland: 2018 Mid Year Population Estimates for Small Areas](https://www.nisra.gov.uk/publications/2018-mid-year-population-estimates-small-areas)",
+        "[UK population pyramid interactive](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/ukpopulationpyramidinteractive/2020-01-08)",
+        "[Find the latest on coronavirus (COVID-19) in the UK](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases)",
+        "[All ONS analysis, summarised in our coronavirus roundup](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup/2020-03-26)",
+        "[View all coronavirus data](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/datalist)"
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[pop.info@ons.gov.uk](mailto:pop.info@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:48:00.50494"
+}

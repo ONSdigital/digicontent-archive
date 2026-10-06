@@ -1,0 +1,695 @@
+{
+  "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/articles/exploringhowtheaveragepriceofindividualitemshaschangedinthelastyear/2023-05-03",
+  "title": "Exploring how the average price of individual items has changed in the last year",
+  "meta_description": "This article summarises key trends from our newly released shopping price comparison tool, which allows you to see how the prices of everyday items are changing.",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "Economy",
+      "href": "https://www.ons.gov.uk/economy"
+    },
+    {
+      "text": "Inflation and price indices",
+      "href": "https://www.ons.gov.uk/economy/inflationandpriceindices"
+    },
+    {
+      "text": "Exploring how the average price of individual items has changed in the last year",
+      "href": null
+    }
+  ],
+  "date_published": "2023-05-02T23:00:00.000Z",
+  "date_modified": "2023-05-02T23:00:00.000Z",
+  "lede": "We summarise some key trends from our newly launched shopping price comparison tool",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "3 May 2023"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The [new shopping prices comparison tool](/economy/inflationandpriceindices/articles/shoppingpricescomparisontool/2023-05-03) allows users to select and track how the average prices of over 450 individual items in the Office for National Statistics (ONS) consumer prices basket have changed over time, including items from bananas to nursery fees. At a time when 95% of the items included in the tool have seen their price increase in the past year to March 2023, this tool helps increase the accessibility of existing ONS data to allow users to track price trends."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "As well as showing average price changes on an item-by-item basis, the tool also lets you create your own bespoke basket of items and tot-up the total average price change across these items."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This article uses the shopping prices comparison tool, to explore how the prices of individual items in a range of good and services across the following disparate mix of categories have changed in the last year:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "food and drink"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "clothing and footwear"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "food and drink establishments"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "health"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The average prices are calculated using the price quotes gathered as part of the consumer prices monthly price collection. The number of price quotes collected per item will differ and may not reflect the average of all prices possible for each item in the basket."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "It is important to note the sample of prices, collected as part of the consumer prices monthly price collection, is designed to best capture price change, not price levels, which are presented in the interactive. Also, average prices will only be published for most items that appear in both the [published item indices and price quotes](/economy/inflationandpriceindices/datasets/consumerpriceindicescpiandretailpricesindexrpiitemindicesandpricequotes). Some items have been removed because of volatile trends or because of the price collection method of the item. This is to ensure the average prices for items are clear to understand."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Further details of how we have estimated average prices for each item and the limitations of the methodology are included in the [further information section](/economy/inflationandpriceindices/articles/shoppingpricescomparisontool/2023-05-03#further-information) of the interactive. The average price estimates presented are experimental and, because the data is more granular, price movements are based on smaller sample sizes than in our [consumer price inflation tables](/economy/inflationandpriceindices/datasets/consumerpriceinflation). More information on experimental statistics is available in our [guide to experimental statistics](/methodology/methodologytopicsandstatisticalconcepts/guidetoexperimentalstatistics)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "For example, a roast dinner for four people, including a whole chicken (1.5 kilograms (kg)), white potatoes (1kg), carrots (1 kg), broccoli (350 grams (g)) and butter (100g), could cost £8.68 on average in March 2023, based on a 2023 sample. This is £1.68 more than in March 2022, with broccoli recording the highest increase at 34%."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Some grocery items showed increases of over 40% in the year to March 2023",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Some grocery items showed increases of over 40% in the year to March 2023"
+    },
+    {
+      "type": "p",
+      "h2": "Some grocery items showed increases of over 40% in the year to March 2023",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Food and drink items saw an increase in the past year, where the annual growth rate for the official measure of groceries was 19% for the year to March 2023. Over the year to March 2023, 60 grocery items in the shopping price comparison tool saw prices rise by 20% or more, including five items that rose by 40% and over."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "Some grocery items showed increases of over 40% in the year to March 2023",
+      "h3": "Items with the largest average price increases seen in each category in March 2023",
+      "h4": null,
+      "h5": null,
+      "text": "Items with the largest average price increases seen in each category in March 2023"
+    },
+    {
+      "type": "p",
+      "h2": "Some grocery items showed increases of over 40% in the year to March 2023",
+      "h3": "Items with the largest average price increases seen in each category in March 2023",
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Some grocery items showed increases of over 40% in the year to March 2023",
+      "h3": "Items with the largest average price increases seen in each category in March 2023",
+      "h4": null,
+      "h5": null,
+      "title": "shopping prices comparison tool",
+      "url": "/visualisations/dvc2523/shopping-prices-comparison-tool/index.html#210111,211019,211211,211408,211509,212008,212101,212510,212726,212923,213005"
+    },
+    {
+      "type": "p",
+      "h2": "Some grocery items showed increases of over 40% in the year to March 2023",
+      "h3": "Items with the largest average price increases seen in each category in March 2023",
+      "h4": null,
+      "h5": null,
+      "text": "The milk, cheese and eggs products category has recorded one of the highest annual inflation rates in groceries throughout the last year. The latest official figures show a 30% increase in the 12 months to March 2023, slightly down from 31% in February. All items in this category have seen an average increase in the last year, with hard cheese being the largest increase with an annual inflation rate of 44% in the 12 months to March 2023."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "Some grocery items showed increases of over 40% in the year to March 2023",
+      "h3": "Cheddar and other hard cheeses saw an average increase of over 40% in the 12 months in March 2023",
+      "h4": null,
+      "h5": null,
+      "text": "Cheddar and other hard cheeses saw an average increase of over 40% in the 12 months in March 2023"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Some grocery items showed increases of over 40% in the year to March 2023",
+      "h3": "Cheddar and other hard cheeses saw an average increase of over 40% in the 12 months in March 2023",
+      "h4": "Item annual inflation rates and the annual rate for milk, cheese and eggs, March 2023 compared with March 2022",
+      "h5": null,
+      "text": "Item annual inflation rates and the annual rate for milk, cheese and eggs, March 2023 compared with March 2022"
+    },
+    {
+      "type": "p",
+      "h2": "Some grocery items showed increases of over 40% in the year to March 2023",
+      "h3": "Cheddar and other hard cheeses saw an average increase of over 40% in the 12 months in March 2023",
+      "h4": "Item annual inflation rates and the annual rate for milk, cheese and eggs, March 2023 compared with March 2022",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Some grocery items showed increases of over 40% in the year to March 2023",
+      "h3": "Cheddar and other hard cheeses saw an average increase of over 40% in the 12 months in March 2023",
+      "h4": "Item annual inflation rates and the annual rate for milk, cheese and eggs, March 2023 compared with March 2022",
+      "h5": null,
+      "title": "Cheddar and other hard cheeses saw an average increase of over 40% in the 12 months in March 2023 ",
+      "url": "/visualisations/dvc2523/charts/dairy-eggs/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Some grocery items showed increases of over 40% in the year to March 2023",
+      "h3": "Cheddar and other hard cheeses saw an average increase of over 40% in the 12 months in March 2023",
+      "h4": "Item annual inflation rates and the annual rate for milk, cheese and eggs, March 2023 compared with March 2022",
+      "h5": "Notes:",
+      "text": "Notes:"
+    },
+    {
+      "type": "p",
+      "h2": "Some grocery items showed increases of over 40% in the year to March 2023",
+      "h3": "Cheddar and other hard cheeses saw an average increase of over 40% in the 12 months in March 2023",
+      "h4": "Item annual inflation rates and the annual rate for milk, cheese and eggs, March 2023 compared with March 2022",
+      "h5": "Notes:",
+      "text": ""
+    },
+    {
+      "type": "li",
+      "h2": "Some grocery items showed increases of over 40% in the year to March 2023",
+      "h3": "Cheddar and other hard cheeses saw an average increase of over 40% in the 12 months in March 2023",
+      "h4": "Item annual inflation rates and the annual rate for milk, cheese and eggs, March 2023 compared with March 2022",
+      "h5": "Notes:",
+      "text": "Hard cheese does not include blue cheese or cheddar, but includes cheeses such as emmental and gruyere."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Some grocery items showed increases of over 40% in the year to March 2023",
+      "h3": "Cheddar and other hard cheeses saw an average increase of over 40% in the 12 months in March 2023",
+      "h4": "Item annual inflation rates and the annual rate for milk, cheese and eggs, March 2023 compared with March 2022",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": "Some grocery items showed increases of over 40% in the year to March 2023",
+      "h3": "Cheddar and other hard cheeses saw an average increase of over 40% in the 12 months in March 2023",
+      "h4": "Item annual inflation rates and the annual rate for milk, cheese and eggs, March 2023 compared with March 2022",
+      "h5": "Download the data",
+      "text": "[.xlsx](/visualisations/dvc2523/charts/dairy-eggs/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "Some grocery items showed increases of over 40% in the year to March 2023",
+      "h3": "Cheddar and other hard cheeses saw an average increase of over 40% in the 12 months in March 2023",
+      "h4": "Item annual inflation rates and the annual rate for milk, cheese and eggs, March 2023 compared with March 2022",
+      "h5": "Download the data",
+      "text": "In cash terms, hard cheese, cheddar and soft cheese all increased by over £2.50 per kilo in the last year, with 1 kg of hard cheese increasing from £6.92 to £9.98 the 12 months to March 2023. While a dozen eggs increased by over 77 pence over the same period, with the average price for a dozen eggs being £3.19 in March 2023."
+    },
+    {
+      "type": "p",
+      "h2": "Some grocery items showed increases of over 40% in the year to March 2023",
+      "h3": "Cheddar and other hard cheeses saw an average increase of over 40% in the 12 months in March 2023",
+      "h4": "Item annual inflation rates and the annual rate for milk, cheese and eggs, March 2023 compared with March 2022",
+      "h5": "Download the data",
+      "text": "With the price of all grocery items rising 19% on the year, oils and fats are another category of groceries increasing faster, at 26% in the 12 months in March 2023. All items in oils and fats have seen an increase in price but olive oil has increased the most, increasing by nearly 50% in the 12 months to March 2023. The following figure shows how sharply prices in this category have increased compared with the trend prior to 2021."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "Some grocery items showed increases of over 40% in the year to March 2023",
+      "h3": "The last two years have shown stark increases in the price of oils and fats compared with the trends seen before 2021",
+      "h4": null,
+      "h5": null,
+      "text": "The last two years have shown stark increases in the price of oils and fats compared with the trends seen before 2021"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Some grocery items showed increases of over 40% in the year to March 2023",
+      "h3": "The last two years have shown stark increases in the price of oils and fats compared with the trends seen before 2021",
+      "h4": "Item annual inflation rates and the annual rate for oil and fats, UK, January 2019 to March 2023",
+      "h5": null,
+      "text": "Item annual inflation rates and the annual rate for oil and fats, UK, January 2019 to March 2023"
+    },
+    {
+      "type": "p",
+      "h2": "Some grocery items showed increases of over 40% in the year to March 2023",
+      "h3": "The last two years have shown stark increases in the price of oils and fats compared with the trends seen before 2021",
+      "h4": "Item annual inflation rates and the annual rate for oil and fats, UK, January 2019 to March 2023",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Some grocery items showed increases of over 40% in the year to March 2023",
+      "h3": "The last two years have shown stark increases in the price of oils and fats compared with the trends seen before 2021",
+      "h4": "Item annual inflation rates and the annual rate for oil and fats, UK, January 2019 to March 2023",
+      "h5": null,
+      "title": "The last two years have shown stark increases in the price of oils and fats compared with the trends seen before 2021",
+      "url": "/visualisations/dvc2523/charts/line-chart/line/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Some grocery items showed increases of over 40% in the year to March 2023",
+      "h3": "The last two years have shown stark increases in the price of oils and fats compared with the trends seen before 2021",
+      "h4": "Item annual inflation rates and the annual rate for oil and fats, UK, January 2019 to March 2023",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": "Some grocery items showed increases of over 40% in the year to March 2023",
+      "h3": "The last two years have shown stark increases in the price of oils and fats compared with the trends seen before 2021",
+      "h4": "Item annual inflation rates and the annual rate for oil and fats, UK, January 2019 to March 2023",
+      "h5": "Download the data",
+      "text": "[.xlsx](/visualisations/dvc2523/charts/line-chart/line/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "Some grocery items showed increases of over 40% in the year to March 2023",
+      "h3": "The last two years have shown stark increases in the price of oils and fats compared with the trends seen before 2021",
+      "h4": "Item annual inflation rates and the annual rate for oil and fats, UK, January 2019 to March 2023",
+      "h5": "Download the data",
+      "text": "Between March 2022 and March 2023, some of the increases seen were:"
+    },
+    {
+      "type": "li",
+      "h2": "Some grocery items showed increases of over 40% in the year to March 2023",
+      "h3": "The last two years have shown stark increases in the price of oils and fats compared with the trends seen before 2021",
+      "h4": "Item annual inflation rates and the annual rate for oil and fats, UK, January 2019 to March 2023",
+      "h5": "Download the data",
+      "text": "1 litre of olive oil at 49% (an average increase of £1.91 to £5.78)"
+    },
+    {
+      "type": "li",
+      "h2": "Some grocery items showed increases of over 40% in the year to March 2023",
+      "h3": "The last two years have shown stark increases in the price of oils and fats compared with the trends seen before 2021",
+      "h4": "Item annual inflation rates and the annual rate for oil and fats, UK, January 2019 to March 2023",
+      "h5": "Download the data",
+      "text": "250g of butter at 30% (an average increase of 55 pence to £2.36)"
+    },
+    {
+      "type": "li",
+      "h2": "Some grocery items showed increases of over 40% in the year to March 2023",
+      "h3": "The last two years have shown stark increases in the price of oils and fats compared with the trends seen before 2021",
+      "h4": "Item annual inflation rates and the annual rate for oil and fats, UK, January 2019 to March 2023",
+      "h5": "Download the data",
+      "text": "500g of spreadable butter at 16% (an average increase of 62 pence to £4.37)"
+    },
+    {
+      "type": "li",
+      "h2": "Some grocery items showed increases of over 40% in the year to March 2023",
+      "h3": "The last two years have shown stark increases in the price of oils and fats compared with the trends seen before 2021",
+      "h4": "Item annual inflation rates and the annual rate for oil and fats, UK, January 2019 to March 2023",
+      "h5": "Download the data",
+      "text": "350g jar of peanut butter at 9% (an average increase of 17 pence to £2.07)"
+    },
+    {
+      "type": "p",
+      "h2": "Some grocery items showed increases of over 40% in the year to March 2023",
+      "h3": "The last two years have shown stark increases in the price of oils and fats compared with the trends seen before 2021",
+      "h4": "Item annual inflation rates and the annual rate for oil and fats, UK, January 2019 to March 2023",
+      "h5": "Download the data",
+      "text": "We have seen the largest increases for groceries in staple items such as cucumber, olive oil and cheese, but inflation does depend on what you buy. Our [personal inflation calculator](/economy/inflationandpriceindices/articles/howisinflationaffectingyourhouseholdcosts/2022-03-23) estimates a personal inflation rate based on your household spending patterns and compares this with headline inflation."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Across fast food and takeaways, fish and chips saw the largest increases in the year to March 2023, at 19%",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Across fast food and takeaways, fish and chips saw the largest increases in the year to March 2023, at 19%"
+    },
+    {
+      "type": "p",
+      "h2": "Across fast food and takeaways, fish and chips saw the largest increases in the year to March 2023, at 19%",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Official figures show that eating out has on average risen in price, with products in fast food and takeaway good services rising 13%, and products from restaurants, cafes and dancing establishments rising 10%, in the last year to March 2023. This compares with a 19% increase seen in groceries over the same period."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "Across fast food and takeaways, fish and chips saw the largest increases in the year to March 2023, at 19%",
+      "h3": "3 in 10 fast food and takeaway items in the shopping prices comparison tool saw an average price increase of 15% or more in the 12 months in March 2023",
+      "h4": null,
+      "h5": null,
+      "text": "3 in 10 fast food and takeaway items in the shopping prices comparison tool saw an average price increase of 15% or more in the 12 months in March 2023"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Across fast food and takeaways, fish and chips saw the largest increases in the year to March 2023, at 19%",
+      "h3": "3 in 10 fast food and takeaway items in the shopping prices comparison tool saw an average price increase of 15% or more in the 12 months in March 2023",
+      "h4": "Item annual inflation rates and the annual rate for fast food and takeaway good services, March 2023 compared with March 2022",
+      "h5": null,
+      "text": "Item annual inflation rates and the annual rate for fast food and takeaway good services, March 2023 compared with March 2022"
+    },
+    {
+      "type": "p",
+      "h2": "Across fast food and takeaways, fish and chips saw the largest increases in the year to March 2023, at 19%",
+      "h3": "3 in 10 fast food and takeaway items in the shopping prices comparison tool saw an average price increase of 15% or more in the 12 months in March 2023",
+      "h4": "Item annual inflation rates and the annual rate for fast food and takeaway good services, March 2023 compared with March 2022",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Across fast food and takeaways, fish and chips saw the largest increases in the year to March 2023, at 19%",
+      "h3": "3 in 10 fast food and takeaway items in the shopping prices comparison tool saw an average price increase of 15% or more in the 12 months in March 2023",
+      "h4": "Item annual inflation rates and the annual rate for fast food and takeaway good services, March 2023 compared with March 2022",
+      "h5": null,
+      "title": "3 in 10 fast food and takeaway items in the shopping prices comparison tool saw an average price increase of 15% or more in the 12 months in March 2023 ",
+      "url": "/visualisations/dvc2523/charts/fastfood/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Across fast food and takeaways, fish and chips saw the largest increases in the year to March 2023, at 19%",
+      "h3": "3 in 10 fast food and takeaway items in the shopping prices comparison tool saw an average price increase of 15% or more in the 12 months in March 2023",
+      "h4": "Item annual inflation rates and the annual rate for fast food and takeaway good services, March 2023 compared with March 2022",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": "Across fast food and takeaways, fish and chips saw the largest increases in the year to March 2023, at 19%",
+      "h3": "3 in 10 fast food and takeaway items in the shopping prices comparison tool saw an average price increase of 15% or more in the 12 months in March 2023",
+      "h4": "Item annual inflation rates and the annual rate for fast food and takeaway good services, March 2023 compared with March 2022",
+      "h5": "Download the data",
+      "text": "[.xlsx](/visualisations/dvc2523/charts/fastfood/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "Across fast food and takeaways, fish and chips saw the largest increases in the year to March 2023, at 19%",
+      "h3": "3 in 10 fast food and takeaway items in the shopping prices comparison tool saw an average price increase of 15% or more in the 12 months in March 2023",
+      "h4": "Item annual inflation rates and the annual rate for fast food and takeaway good services, March 2023 compared with March 2022",
+      "h5": "Download the data",
+      "text": "Within fast food and takeaway food services, in the 12 months to March 2023, the three largest rises on average were:"
+    },
+    {
+      "type": "li",
+      "h2": "Across fast food and takeaways, fish and chips saw the largest increases in the year to March 2023, at 19%",
+      "h3": "3 in 10 fast food and takeaway items in the shopping prices comparison tool saw an average price increase of 15% or more in the 12 months in March 2023",
+      "h4": "Item annual inflation rates and the annual rate for fast food and takeaway good services, March 2023 compared with March 2022",
+      "h5": "Download the data",
+      "text": "takeaway fish and chips at 19% (an average increase of £1.44 to £9.00)"
+    },
+    {
+      "type": "li",
+      "h2": "Across fast food and takeaways, fish and chips saw the largest increases in the year to March 2023, at 19%",
+      "h3": "3 in 10 fast food and takeaway items in the shopping prices comparison tool saw an average price increase of 15% or more in the 12 months in March 2023",
+      "h4": "Item annual inflation rates and the annual rate for fast food and takeaway good services, March 2023 compared with March 2022",
+      "h5": "Download the data",
+      "text": "takeaway or eat-in burger at 17% (an average increase of 64 pence to £4.35)"
+    },
+    {
+      "type": "li",
+      "h2": "Across fast food and takeaways, fish and chips saw the largest increases in the year to March 2023, at 19%",
+      "h3": "3 in 10 fast food and takeaway items in the shopping prices comparison tool saw an average price increase of 15% or more in the 12 months in March 2023",
+      "h4": "Item annual inflation rates and the annual rate for fast food and takeaway good services, March 2023 compared with March 2022",
+      "h5": "Download the data",
+      "text": "takeaway chicken and chips at 17% (an average increase of 89 pence to £6.18)"
+    },
+    {
+      "type": "p",
+      "h2": "Across fast food and takeaways, fish and chips saw the largest increases in the year to March 2023, at 19%",
+      "h3": "3 in 10 fast food and takeaway items in the shopping prices comparison tool saw an average price increase of 15% or more in the 12 months in March 2023",
+      "h4": "Item annual inflation rates and the annual rate for fast food and takeaway good services, March 2023 compared with March 2022",
+      "h5": "Download the data",
+      "text": "Going to the pub has also risen in the last year, with the price of a pub hot meal increasing 13%, or £1.25, to an average £11.05 in March 2023. Many of the prices of alcoholic drinks out have also increased, with:"
+    },
+    {
+      "type": "li",
+      "h2": "Across fast food and takeaways, fish and chips saw the largest increases in the year to March 2023, at 19%",
+      "h3": "3 in 10 fast food and takeaway items in the shopping prices comparison tool saw an average price increase of 15% or more in the 12 months in March 2023",
+      "h4": "Item annual inflation rates and the annual rate for fast food and takeaway good services, March 2023 compared with March 2022",
+      "h5": "Download the data",
+      "text": "liqueur (an alcoholic drink such as orange and amaretto liqueur) up 11%; an average increase of 34 pence to £3.51 per 30 millilitres (ml)"
+    },
+    {
+      "type": "li",
+      "h2": "Across fast food and takeaways, fish and chips saw the largest increases in the year to March 2023, at 19%",
+      "h3": "3 in 10 fast food and takeaway items in the shopping prices comparison tool saw an average price increase of 15% or more in the 12 months in March 2023",
+      "h4": "Item annual inflation rates and the annual rate for fast food and takeaway good services, March 2023 compared with March 2022",
+      "h5": "Download the data",
+      "text": "vodka up 10% (an average increase of 35 pence to £3.85 per 30ml)"
+    },
+    {
+      "type": "li",
+      "h2": "Across fast food and takeaways, fish and chips saw the largest increases in the year to March 2023, at 19%",
+      "h3": "3 in 10 fast food and takeaway items in the shopping prices comparison tool saw an average price increase of 15% or more in the 12 months in March 2023",
+      "h4": "Item annual inflation rates and the annual rate for fast food and takeaway good services, March 2023 compared with March 2022",
+      "h5": "Download the data",
+      "text": "gin up 10% (an average increase of 34 pence up to £3.82 per 30ml)"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Cold and flu drink powder sachets increased the most of all health items, at 24% in the last year",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Cold and flu drink powder sachets increased the most of all health items, at 24% in the last year"
+    },
+    {
+      "type": "p",
+      "h2": "Cold and flu drink powder sachets increased the most of all health items, at 24% in the last year",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The shopping prices comparison tool allows us to consider a broad range of items beyond food and drink. For example, across the eight health items included in the shopping prices comparison tool, two items increased by 10% or more in the last year. The latest available official annual rate for health was 7%, meaning four items in this category rose at the same or a faster rate."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "Cold and flu drink powder sachets increased the most of all health items, at 24% in the last year",
+      "h3": "Winter medicine products show some of largest increases across all health items in the shopping prices comparison tool in the last year",
+      "h4": null,
+      "h5": null,
+      "text": "Winter medicine products show some of largest increases across all health items in the shopping prices comparison tool in the last year"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Cold and flu drink powder sachets increased the most of all health items, at 24% in the last year",
+      "h3": "Winter medicine products show some of largest increases across all health items in the shopping prices comparison tool in the last year",
+      "h4": "Item annual inflation rates and the annual rate for health, March 2023 compared with March 2022",
+      "h5": null,
+      "text": "Item annual inflation rates and the annual rate for health, March 2023 compared with March 2022"
+    },
+    {
+      "type": "p",
+      "h2": "Cold and flu drink powder sachets increased the most of all health items, at 24% in the last year",
+      "h3": "Winter medicine products show some of largest increases across all health items in the shopping prices comparison tool in the last year",
+      "h4": "Item annual inflation rates and the annual rate for health, March 2023 compared with March 2022",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Cold and flu drink powder sachets increased the most of all health items, at 24% in the last year",
+      "h3": "Winter medicine products show some of largest increases across all health items in the shopping prices comparison tool in the last year",
+      "h4": "Item annual inflation rates and the annual rate for health, March 2023 compared with March 2022",
+      "h5": null,
+      "title": "Winter medicine products show some of largest increases across all health items in the shopping prices comparison tool in the last year ",
+      "url": "/visualisations/dvc2523/charts/health/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Cold and flu drink powder sachets increased the most of all health items, at 24% in the last year",
+      "h3": "Winter medicine products show some of largest increases across all health items in the shopping prices comparison tool in the last year",
+      "h4": "Item annual inflation rates and the annual rate for health, March 2023 compared with March 2022",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": "Cold and flu drink powder sachets increased the most of all health items, at 24% in the last year",
+      "h3": "Winter medicine products show some of largest increases across all health items in the shopping prices comparison tool in the last year",
+      "h4": "Item annual inflation rates and the annual rate for health, March 2023 compared with March 2022",
+      "h5": "Download the data",
+      "text": "[.xlsx](/visualisations/dvc2523/charts/health/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "Cold and flu drink powder sachets increased the most of all health items, at 24% in the last year",
+      "h3": "Winter medicine products show some of largest increases across all health items in the shopping prices comparison tool in the last year",
+      "h4": "Item annual inflation rates and the annual rate for health, March 2023 compared with March 2022",
+      "h5": "Download the data",
+      "text": "Between March 2022 and March 2023, the three largest average increases seen were:"
+    },
+    {
+      "type": "li",
+      "h2": "Cold and flu drink powder sachets increased the most of all health items, at 24% in the last year",
+      "h3": "Winter medicine products show some of largest increases across all health items in the shopping prices comparison tool in the last year",
+      "h4": "Item annual inflation rates and the annual rate for health, March 2023 compared with March 2022",
+      "h5": "Download the data",
+      "text": "Cold and flu drink powder sachets up 24% (an average increase of £1.02 to £5.22)"
+    },
+    {
+      "type": "li",
+      "h2": "Cold and flu drink powder sachets increased the most of all health items, at 24% in the last year",
+      "h3": "Winter medicine products show some of largest increases across all health items in the shopping prices comparison tool in the last year",
+      "h4": "Item annual inflation rates and the annual rate for health, March 2023 compared with March 2022",
+      "h5": "Download the data",
+      "text": "nursing home up 10% (an average increase of £107.21 to £1,176.20 per week)"
+    },
+    {
+      "type": "li",
+      "h2": "Cold and flu drink powder sachets increased the most of all health items, at 24% in the last year",
+      "h3": "Winter medicine products show some of largest increases across all health items in the shopping prices comparison tool in the last year",
+      "h4": "Item annual inflation rates and the annual rate for health, March 2023 compared with March 2022",
+      "h5": "Download the data",
+      "text": "cough syrup up 9% (an average increase of 45 pence to £5.62 for 150 to 200ml)"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Some clothing and footwear items have increased in price by well over 15%",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Some clothing and footwear items have increased in price by well over 15%"
+    },
+    {
+      "type": "p",
+      "h2": "Some clothing and footwear items have increased in price by well over 15%",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The tool also shows how trends in prices can vary widely within categories. For example, the latest figures showed the prices of clothing and footwear rose, overall, by 7% in the year to March 2023, slightly down from 8% in February 2023. But for over half of the garments in the shopping price comparison tool, prices increased at a faster rate than the latest available official consumer price inflation measure for clothing and footwear. It is worth noting that there is a lot of seasonality in clothing prices that may account for some of the variation seen in the average prices in the shopping prices comparison tool."
+    },
+    {
+      "type": "p",
+      "h2": "Some clothing and footwear items have increased in price by well over 15%",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Over a third of the clothing and footwear items in the shopping price comparison tool increased by more than 10%, with the three largest average rises seen in:"
+    },
+    {
+      "type": "li",
+      "h2": "Some clothing and footwear items have increased in price by well over 15%",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "child’s sports trainers at 33% (an average increase of £8.61 to £34.48)"
+    },
+    {
+      "type": "li",
+      "h2": "Some clothing and footwear items have increased in price by well over 15%",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "infant's trousers at 22% (an average increase of £1.69 to £9.45)"
+    },
+    {
+      "type": "li",
+      "h2": "Some clothing and footwear items have increased in price by well over 15%",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "child girl’s trousers at 20% (an average increase of £2.22 to £13.48)"
+    },
+    {
+      "type": "p",
+      "h2": "Some clothing and footwear items have increased in price by well over 15%",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In contrast, this category saw the largest number of items in the shopping prices comparison tool recording a fall in price in the last year. Within clothing or footwear, eight items reported a decrease in price, with the largest average falls in the last year seen in:"
+    },
+    {
+      "type": "li",
+      "h2": "Some clothing and footwear items have increased in price by well over 15%",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "girl’s fashion top, down 7% (an average decrease of 65 pence to £8.59)"
+    },
+    {
+      "type": "li",
+      "h2": "Some clothing and footwear items have increased in price by well over 15%",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "men’s base layer, down 2% (an average decrease of 50 pence to £26.34)"
+    },
+    {
+      "type": "li",
+      "h2": "Some clothing and footwear items have increased in price by well over 15%",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "child’s pyjamas (aged 3 to 13 years) down 2% (an average decrease of 18 pence to £10.96)"
+    },
+    {
+      "type": "box",
+      "h2": "Some clothing and footwear items have increased in price by well over 15%",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "Emily Hopson\n[cpi@ons.gov.uk](mailto:cpi@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:46:42.269451"
+}

@@ -1,0 +1,247 @@
+{
+  "url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/howmanypeopledomyjob/2023-05-31",
+  "title": "How many people do my job?",
+  "meta_description": "An interactive tool based on data from Census 2021 on the groups of people who have particular occupations, including age, sex, type of employment, disability, and working pattern (full-time/part-time work). Data are to a detailed level 400+ occupations (SOC4 classification level). ",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "Employment and labour market",
+      "href": "https://www.ons.gov.uk/employmentandlabourmarket"
+    },
+    {
+      "text": "People in work",
+      "href": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork"
+    },
+    {
+      "text": "Employment and employee types",
+      "href": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes"
+    },
+    {
+      "text": "How many people do my job?",
+      "href": null
+    }
+  ],
+  "date_published": "2023-05-30T23:00:00.000Z",
+  "date_modified": "2023-05-30T23:00:00.000Z",
+  "lede": "Select an occupation to see how many people listed that occupation in Census 2021, how old they were, how many men and women had that role, and more.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "31 May 2023"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Have you ever wanted to know who else does your job? Try our interactive tool based on Census 2021 data for England and Wales."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We tell you about the people who had this job at the time of the census in March 2021, their ages, disability status, the percentage of full-time or part-time workers, and how many men and women were in this kind of role."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The census is one of the most detailed sources of this kind of data. Census data are different to our regular labour market statistics. You can find out about those differences [in our comparison article](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/comparingcensus2021andlabourforcesurveyestimatesofthelabourmarketenglandandwales/13march2023)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "How many people do my job: census interactive",
+      "url": "/visualisations/dvc2254/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "For a look at the overall trends, read our summary article: [The occupations most dependent on older and younger workers](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/theoccupationsmostdependentonolderandyoungerworkers/2023-05-31)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In total, 27.8 million people aged 16 years and over said they were in employment at the time of the census, in March 2021. People on furlough were asked to record their employment as ongoing, but some people may have said they were out of work instead."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "About the data",
+      "h4": null,
+      "h5": null,
+      "text": "About the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "About the data",
+      "h4": null,
+      "h5": null,
+      "text": "The text and content in this tool are generated using semi-automated journalism, based on rules pre-programmed by Office for National Statistics (ONS) staff."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "About the data",
+      "h4": null,
+      "h5": null,
+      "text": "Census 2021 was conducted during the coronavirus (COVID-19) pandemic, a period of unparalleled and rapid change. It is possible that this affected the way some people responded to labour market questions on the census."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "About the data",
+      "h4": "Occupations",
+      "h5": null,
+      "text": "Occupations"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "About the data",
+      "h4": "Occupations",
+      "h5": null,
+      "text": "The census asked those in employment to provide their job title and a job description. From this, the data are coded to an occupation code. Census 2021 used the [Standard Occupation Classification (2020 version)](https://www.ons.gov.uk/methodology/classificationsandstandards/standardoccupationalclassificationsoc/soc2020) to classify a person’s occupation."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "About the data",
+      "h4": "Occupations",
+      "h5": null,
+      "text": "Quality considerations and disclosure control information can be found in our related article: The occupations most dependent on older and younger workers."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "About the data",
+      "h4": "“Similar” or “different” occupations",
+      "h5": null,
+      "text": "“Similar” or “different” occupations"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "About the data",
+      "h4": "“Similar” or “different” occupations",
+      "h5": null,
+      "text": "To work out how similar occupations were to each other, or their wider occupational group, we used a formula called the “Jensen-Shannon distance”’."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "About the data",
+      "h4": "“Similar” or “different” occupations",
+      "h5": null,
+      "text": "This method allowed us to compare the whole age profile for an occupation or group, rather than only comparing one value, such as median age. We also used it to identify other trends displayed in this interactive."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "About the data",
+      "h4": "“Similar” or “different” occupations",
+      "h5": null,
+      "text": "The Jenson-Shannon distance tells us how different two probability distributions are to each other. It takes a value between 0 and 1, with 0 being that the distributions are the same, and 1 being that they are completely different. If the distance between two distributions was less than 0.1, we said the distributions were “similar”."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "About the data",
+      "h4": "“Similar” or “different” occupations",
+      "h5": null,
+      "text": "The formula we used involved the square root so that it is more comparable to traditional distance measures, rather than the standard formula for the method."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "About the data",
+      "h4": "“Similar” or “different” occupations",
+      "h5": null,
+      "text": "The Jensen-Shannon distance between distribution P and Q is"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "About the data",
+      "h4": "“Similar” or “different” occupations",
+      "h5": null,
+      "text": "M is the average of the distributions, and D is defined as"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "About the data",
+      "h4": "Armed force and defence employees",
+      "h5": null,
+      "text": "Armed force and defence employees"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "About the data",
+      "h4": "Armed force and defence employees",
+      "h5": null,
+      "text": "Armed forces personnel and defence employees are included in the census and recorded as “usually resident” using the standard definitions. The instructions given to personnel on how to respond to the census mean that this group cannot be reliably identified in census data on industry and occupation. Information on the size and characteristics of the UK armed forces population is produced by the Ministry of Defence (MOD). As such, we have removed these occupations from the occupation tool. Data are still available in the data tables of our associated article, [The occupations most dependent on older and younger workers.](https://www.ons.gov.uk/releases/theoccupationsandindustriesmostdependentonolderandyoungerworkers)"
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": "About the data",
+      "h4": "Armed force and defence employees",
+      "h5": null,
+      "box_h2": "Related",
+      "box_h3": null,
+      "box_text": "Article | Released on 31 May 2023\n\nWhat do you want to be when you grow up? Census 2021 data for England and Wales show which jobs had the most young people, how work varies for men and women, and that some professions might be at risk of dying out.\n\nArticle | Released on 8 December 2022\n\nThe industries we work in have changed markedly in the ten years to the 2021 Census. We take a look at emerging digital and creative jobs and what is happening to traditional sectors.",
+      "box_items": [
+        "[The occupations most dependent on older and younger workers](/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/theoccupationsmostdependentonolderandyoungerworkers/2023-05-31) Article | Released on 31 May 2023 What do you want to be when you grow up? Census 2021 data for England and Wales show which jobs had the most young people, how work varies for men and women, and that some professions might be at risk of dying out.",
+        "[How industries have changed at a local level between censuses](/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/howindustrieshavechangedatalocallevelbetweencensuses/2022-12-08) Article | Released on 8 December 2022 The industries we work in have changed markedly in the ten years to the 2021 Census. We take a look at emerging digital and creative jobs and what is happening to traditional sectors."
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": "About the data",
+      "h4": "Armed force and defence employees",
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[digitalcontent@ons.gov.uk](mailto:digitalcontent@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:46:56.46433"
+}

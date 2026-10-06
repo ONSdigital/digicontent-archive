@@ -1,0 +1,922 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/articles/howqualificationlevelsacrossenglandandwalesdifferbycountryofbirth/2023-05-15",
+  "title": "How qualification levels across England and Wales differ by country of birth",
+  "meta_description": "Article on qualification levels of adult residents in England and Wales by country of birth, exploring reasons for differences including age. ",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Education and childcare",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare"
+    },
+    {
+      "text": "How qualification levels across England and Wales differ by country of birth",
+      "href": null
+    }
+  ],
+  "date_published": "2023-05-14T23:00:00.000Z",
+  "date_modified": "2023-05-14T23:00:00.000Z",
+  "lede": "International migrants are more likely than UK-born residents to hold higher education qualifications, but this varies considerably by country of birth",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "15 May 2023"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Migrants are more likely to hold a higher education qualification than those born in the UK."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "More than 4 in 10 (43.8%) [adult residents](https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/articles/howqualificationlevelsacrossenglandandwalesdifferbycountryofbirth/2023-05-15#glossary) born outside the UK (referred to in this article as [migrants](https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/articles/howqualificationlevelsacrossenglandandwalesdifferbycountryofbirth/2023-05-15#glossary)) reported a higher education qualification in Census 2021, compared with 3 in 10 (31.4%) UK-born residents."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This varies depending on where people migrated to the UK from. For example, more than half of residents born in India, Nigeria and South Africa hold higher education qualifications."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "When we account for age differences between migrants and UK-born residents, the gap in qualifications narrows, but does not disappear. This suggests that a range of factors could be behind this trend, from other demographic differences to visa requirements to culture."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This article explores how some of these trends differ depending on where people have migrated from, and where in England and Wales they live. It looks both at higher education qualifications specifically, and also overall qualification levels. You can [explore average qualification levels by country of birth in our world map](https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/articles/howqualificationlevelsacrossenglandandwalesdifferbycountryofbirth/2023-05-15#explore-qualification-levels-by-country-of-birth)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "What qualifications mean\n\nA person’s qualifications can be indicative of their skills, earning potential, and what jobs they might do. However, qualifications do not capture all skills and experience a person might have. The qualifications a group of people hold can also reflect demographic differences.\n\nIt’s also important to note that in Census 2021, individuals were asked which qualifications they hold, or to report the nearest equivalent. For some qualifications, particularly those obtained outside the UK and below degree level, this may have been difficult. More information on the qualification levels can be found in our [Census quality notes.](https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/methodologies/educationqualityinformationforcensus2021)",
+      "box_items": null
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Differences in age do not fully explain why migrants are more qualified",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Differences in age do not fully explain why migrants are more qualified"
+    },
+    {
+      "type": "p",
+      "h2": "Differences in age do not fully explain why migrants are more qualified",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Younger people are more likely to hold higher education qualifications. The fact that the migrant population is younger partly explains why they are also more likely to hold these qualifications."
+    },
+    {
+      "type": "p",
+      "h2": "Differences in age do not fully explain why migrants are more qualified",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Looking at all English and Welsh adult residents born outside of the UK, the largest age group was 35 to 44 years (2.3 million people) followed by 25 to 34 years (2 million people). In contrast, the largest age group among those born in the UK was age 55 to 64 years (6.4 million)."
+    },
+    {
+      "type": "p",
+      "h2": "Differences in age do not fully explain why migrants are more qualified",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "However, differences in qualifications between people born inside and outside of the UK are not completely explained by age differences. We can create estimates for the percentages of people with different qualifications assuming the age profiles of both groups are the same. These are called age-standardised figures."
+    },
+    {
+      "type": "p",
+      "h2": "Differences in age do not fully explain why migrants are more qualified",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "After age-standardisation, the gap between the percentage of migrants and UK-born people with higher education qualifications narrows, but it does not disappear."
+    },
+    {
+      "type": "p",
+      "h2": "Differences in age do not fully explain why migrants are more qualified",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "chartbuilder",
+      "h2": "Differences in age do not fully explain why migrants are more qualified",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "chartbuilder_h3": "Age differences only explain some of the gaps in qualification levels between UK-born and foreign-born residents",
+      "chartbuilder_h4": "Percentage point difference in UK-born and non-UK-born residents with higher education qualifications, non-age standardised and age-standardised, England and Wales, 2021",
+      "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/articles/howqualificationlevelsacrossenglandandwalesdifferbycountryofbirth/2023-05-15/1bd2dbf1",
+      "src": "/_scraped_chartbuilder_imgs/1bd2dbf1.png",
+      "local_filename": "1bd2dbf1.png"
+    },
+    {
+      "type": "p",
+      "h2": "Differences in age do not fully explain why migrants are more qualified",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Of people who hold higher education qualifications, there is a 12-percentage point gap between UK-born and non-UK born residents. When we account for age differences in the populations, there is an 8-percentage point gap. This means that age differences explain about a third of the gap in higher education qualifications between UK-born and non-UK born residents."
+    },
+    {
+      "type": "p",
+      "h2": "Differences in age do not fully explain why migrants are more qualified",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This remaining gap in qualifications is harder to explain. It could be that people who migrate tend to be those with more qualifications, as work and study are two common reasons for moving country."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "More than half of Indian-born residents hold higher education qualifications",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "More than half of Indian-born residents hold higher education qualifications"
+    },
+    {
+      "type": "p",
+      "h2": "More than half of Indian-born residents hold higher education qualifications",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Almost a fifth of adult residents in England and Wales were born outside the UK (19.1%)."
+    },
+    {
+      "type": "p",
+      "h2": "More than half of Indian-born residents hold higher education qualifications",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "India is the country with the highest adult migrant population in England and Wales. More than half (50.9%) had a higher education qualification such as a degree in Census 2021."
+    },
+    {
+      "type": "p",
+      "h2": "More than half of Indian-born residents hold higher education qualifications",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "31.4% of the UK-born adult population have higher education qualifications. This is notably lower than some countries with high levels of migrants to the UK, including:"
+    },
+    {
+      "type": "li",
+      "h2": "More than half of Indian-born residents hold higher education qualifications",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Nigeria (67.8%)"
+    },
+    {
+      "type": "li",
+      "h2": "More than half of Indian-born residents hold higher education qualifications",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Germany (47.4%)"
+    },
+    {
+      "type": "li",
+      "h2": "More than half of Indian-born residents hold higher education qualifications",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Italy (47.8%)"
+    },
+    {
+      "type": "li",
+      "h2": "More than half of Indian-born residents hold higher education qualifications",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "South Africa (53.7%)"
+    },
+    {
+      "type": "p",
+      "h2": "More than half of Indian-born residents hold higher education qualifications",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "For residents born in Pakistan and Bangladesh, the percentage with higher education qualifications was lower than for the UK-born population (28.7% and 24.3%, respectively)."
+    },
+    {
+      "type": "p",
+      "h2": "More than half of Indian-born residents hold higher education qualifications",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The chart below shows the percentage of residents holding a higher education qualification, for the ten countries with the highest migrant population living in England and Wales."
+    },
+    {
+      "type": "p",
+      "h2": "More than half of Indian-born residents hold higher education qualifications",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "chartbuilder",
+      "h2": "More than half of Indian-born residents hold higher education qualifications",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "chartbuilder_h3": "More than half of migrants from India, Nigeria and South Africa hold higher education qualifications",
+      "chartbuilder_h4": "Percentage of residents with higher education qualifications, by country of birth ordered by number of residents, England and Wales, 2021",
+      "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/articles/howqualificationlevelsacrossenglandandwalesdifferbycountryofbirth/2023-05-15/3bcfbae5",
+      "src": "/_scraped_chartbuilder_imgs/3bcfbae5.png",
+      "local_filename": "3bcfbae5.png"
+    },
+    {
+      "type": "p",
+      "h2": "More than half of Indian-born residents hold higher education qualifications",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "There are other countries with a very high percentage of migrants to England and Wales holding higher education qualifications, but overall migrant numbers are much smaller."
+    },
+    {
+      "type": "p",
+      "h2": "More than half of Indian-born residents hold higher education qualifications",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Residents from Mexico (75.5%) and South Korea (74.7%) are among the most likely to hold higher education qualifications, but overall numbers of migrants from these countries are small."
+    },
+    {
+      "type": "p",
+      "h2": "More than half of Indian-born residents hold higher education qualifications",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The extent to which age profiles account for differences in higher education qualifications also differ by country of birth. Figures on the percentage of residents with higher education by country of birth, before and after accounting for differences in the age of populations, are presented in our [associated data tables](http:///peoplepopulationandcommunity/educationandchildcare/datasets/howqualificationlevelsacrossenglandandwalesdifferbycountryofbirthdata). We have also explored the age profiles of people with higher education qualifications by country of birth."
+    },
+    {
+      "type": "p",
+      "h2": "More than half of Indian-born residents hold higher education qualifications",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "There are many other factors that could account for the remaining differences in qualifications, and they will be different for each country. The number of migration routes available, common reasons for migration, and the political environment in migrants’ country of birth could all play a role."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Where migrants settle in England and Wales",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Where migrants settle in England and Wales"
+    },
+    {
+      "type": "p",
+      "h2": "Where migrants settle in England and Wales",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The relative size and qualification level of the migrant population varies across different areas of England and Wales."
+    },
+    {
+      "type": "p",
+      "h2": "Where migrants settle in England and Wales",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The map shows the percentage of migrants with higher education qualifications by local authority area. In some areas, such as the City of London, Richmond-upon-Thames and Kensington and Chelsea, the percentage of migrants with these qualifications is much higher than average. Many areas like this are around London and the South East."
+    },
+    {
+      "type": "p",
+      "h2": "Where migrants settle in England and Wales",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In other areas, such as Blackburn and Darwen, Oldham and Bradford, it is much lower."
+    },
+    {
+      "type": "p",
+      "h2": "Where migrants settle in England and Wales",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "You can also see the size of the migrant population in a given area relative to the England and Wales average by selecting the 'migrant concentration ratio' option."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Where migrants settle in England and Wales",
+      "h3": null,
+      "h4": "The percentage of migrants with higher education qualifications is higher in and around London",
+      "h5": null,
+      "text": "The percentage of migrants with higher education qualifications is higher in and around London"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Where migrants settle in England and Wales",
+      "h3": null,
+      "h4": "The percentage of migrants with higher education qualifications is higher in and around London",
+      "h5": "Percentage of adult migrants with higher education (HE) qualifications, by local authority, England and Wales, 2021",
+      "text": "Percentage of adult migrants with higher education (HE) qualifications, by local authority, England and Wales, 2021"
+    },
+    {
+      "type": "p",
+      "h2": "Where migrants settle in England and Wales",
+      "h3": null,
+      "h4": "The percentage of migrants with higher education qualifications is higher in and around London",
+      "h5": "Percentage of adult migrants with higher education (HE) qualifications, by local authority, England and Wales, 2021",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Where migrants settle in England and Wales",
+      "h3": null,
+      "h4": "The percentage of migrants with higher education qualifications is higher in and around London",
+      "h5": "Percentage of adult migrants with higher education (HE) qualifications, by local authority, England and Wales, 2021",
+      "title": "The percentage of migrants with higher education qualifications are higher in and around London",
+      "url": "/visualisations/dvc2241/multimap/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "Where migrants settle in England and Wales",
+      "h3": null,
+      "h4": "The percentage of migrants with higher education qualifications is higher in and around London",
+      "h5": "Percentage of adult migrants with higher education (HE) qualifications, by local authority, England and Wales, 2021",
+      "text": "[Download the data for migrants with higher education qualifications by local authority](/visualisations/dvc2241/multimap/data/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "Where migrants settle in England and Wales",
+      "h3": null,
+      "h4": "The percentage of migrants with higher education qualifications is higher in and around London",
+      "h5": "Percentage of adult migrants with higher education (HE) qualifications, by local authority, England and Wales, 2021",
+      "text": "The areas with higher than average percentages of migrants with higher education qualifications are generally similar to the areas with higher percentages of people with higher education overall."
+    },
+    {
+      "type": "p",
+      "h2": "Where migrants settle in England and Wales",
+      "h3": null,
+      "h4": "The percentage of migrants with higher education qualifications is higher in and around London",
+      "h5": "Percentage of adult migrants with higher education (HE) qualifications, by local authority, England and Wales, 2021",
+      "text": "In our [analysis of qualification levels among the whole English and Welsh population](https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/bulletins/educationenglandandwales/census2021), areas around London and the South East saw some of the highest qualification levels, as well as parts of the North West of England."
+    },
+    {
+      "type": "p",
+      "h2": "Where migrants settle in England and Wales",
+      "h3": null,
+      "h4": "The percentage of migrants with higher education qualifications is higher in and around London",
+      "h5": "Percentage of adult migrants with higher education (HE) qualifications, by local authority, England and Wales, 2021",
+      "text": "The size of the migrant population also varies widely by local area."
+    },
+    {
+      "type": "p",
+      "h2": "Where migrants settle in England and Wales",
+      "h3": null,
+      "h4": "The percentage of migrants with higher education qualifications is higher in and around London",
+      "h5": "Percentage of adult migrants with higher education (HE) qualifications, by local authority, England and Wales, 2021",
+      "text": "The scatter plot shows all English and Welsh local authorities, plotted based on the relative size of the local migrant population, and the percentage of migrants who have higher a higher education qualification."
+    },
+    {
+      "type": "p",
+      "h2": "Where migrants settle in England and Wales",
+      "h3": null,
+      "h4": "The percentage of migrants with higher education qualifications is higher in and around London",
+      "h5": "Percentage of adult migrants with higher education (HE) qualifications, by local authority, England and Wales, 2021",
+      "text": "We've used a measure we've called 'migrant concentration ratio'. A ratio of 1 means that an area has the same ratio of migrants to UK-born residents as in England and Wales as a whole. A ratio of 2 would mean there are twice as many migrants as average, and a ratio of 0.5 would mean there are half as many."
+    },
+    {
+      "type": "p",
+      "h2": "Where migrants settle in England and Wales",
+      "h3": null,
+      "h4": "The percentage of migrants with higher education qualifications is higher in and around London",
+      "h5": "Percentage of adult migrants with higher education (HE) qualifications, by local authority, England and Wales, 2021",
+      "text": "Areas with both a relatively large and highly qualified migrant population are in the top right, while areas with a relatively small and less qualified migrant population are in the bottom left."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Where migrants settle in England and Wales",
+      "h3": null,
+      "h4": "Many areas in London and the South East have high migration and high qualification levels",
+      "h5": null,
+      "text": "Many areas in London and the South East have high migration and high qualification levels"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Where migrants settle in England and Wales",
+      "h3": null,
+      "h4": "Many areas in London and the South East have high migration and high qualification levels",
+      "h5": "Migration concentration and qualification level by local authority area, England and Wales, 2021",
+      "text": "Migration concentration and qualification level by local authority area, England and Wales, 2021"
+    },
+    {
+      "type": "p",
+      "h2": "Where migrants settle in England and Wales",
+      "h3": null,
+      "h4": "Many areas in London and the South East have high migration and high qualification levels",
+      "h5": "Migration concentration and qualification level by local authority area, England and Wales, 2021",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Where migrants settle in England and Wales",
+      "h3": null,
+      "h4": "Many areas in London and the South East have high migration and high qualification levels",
+      "h5": "Migration concentration and qualification level by local authority area, England and Wales, 2021",
+      "title": "title",
+      "url": "/visualisations/dvc2241/scatter/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "Where migrants settle in England and Wales",
+      "h3": null,
+      "h4": "Many areas in London and the South East have high migration and high qualification levels",
+      "h5": "Migration concentration and qualification level by local authority area, England and Wales, 2021",
+      "text": "[Download the data for migrant concentration and qualifications by local authority](/visualisations/dvc2241/scatter/data/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "Where migrants settle in England and Wales",
+      "h3": null,
+      "h4": "Many areas in London and the South East have high migration and high qualification levels",
+      "h5": "Migration concentration and qualification level by local authority area, England and Wales, 2021",
+      "text": "Cities such as London, Manchester, Bristol and Oxford appear to attract a relatively high number of migrants with higher education qualifications. This suggests that education and job opportunities available in an area play a part in where migrants live."
+    },
+    {
+      "type": "p",
+      "h2": "Where migrants settle in England and Wales",
+      "h3": null,
+      "h4": "Many areas in London and the South East have high migration and high qualification levels",
+      "h5": "Migration concentration and qualification level by local authority area, England and Wales, 2021",
+      "text": "There are other cities with high migrant populations that are less likely to hold higher education qualifications, such as Birmingham, Nottingham, Leicester and Bradford. There may be other factors attracting migrants to these areas, such as community."
+    },
+    {
+      "type": "p",
+      "h2": "Where migrants settle in England and Wales",
+      "h3": null,
+      "h4": "Many areas in London and the South East have high migration and high qualification levels",
+      "h5": "Migration concentration and qualification level by local authority area, England and Wales, 2021",
+      "text": "Some areas with a low percentage of people with higher education qualifications in the overall population, have a higher than average percentage of migrants with higher education qualifications. These are mostly areas with relatively low migration, such as Sunderland and County Durham. However, it’s worth noting that the percentage of migrants with higher education qualifications in these areas was not a lot higher than average."
+    },
+    {
+      "type": "p",
+      "h2": "Where migrants settle in England and Wales",
+      "h3": null,
+      "h4": "Many areas in London and the South East have high migration and high qualification levels",
+      "h5": "Migration concentration and qualification level by local authority area, England and Wales, 2021",
+      "text": "Some of these trends are also reflected in the occupations non-UK born residents work in. [Migrants are over-represented in some professional occupations that require education, such as medical practitioners](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/migrationandthelabourmarketenglandandwales/census2021#professional-occupations-were-the-most-common-occupations-for-several-country-of-birth-groups)."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Explore qualification levels by country of birth",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Explore qualification levels by country of birth"
+    },
+    {
+      "type": "p",
+      "h2": "Explore qualification levels by country of birth",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The map shows different areas of the world, colour coded based on an index score that considers all qualifications, not just higher education and equivalents."
+    },
+    {
+      "type": "p",
+      "h2": "Explore qualification levels by country of birth",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "If all people in a group reported no formal qualifications, the score for that group would be 0. If all people in a group reported holding higher education qualifications, the score for that group would be 4."
+    },
+    {
+      "type": "p",
+      "h2": "Explore qualification levels by country of birth",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This has advantages and disadvantages: on one hand, it considers all qualifications that people could have obtained, rather than just higher education. On the other hand, it makes comparisons with qualifications obtained in different countries less reliable. We have explained this in more detail in our [Measuring the data section](https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/articles/howqualificationlevelsacrossenglandandwalesdifferbycountryofbirth/2023-05-15#measuring-the-data)."
+    },
+    {
+      "type": "p",
+      "h2": "Explore qualification levels by country of birth",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "You can select an area on the map or from the drop-down menu to learn more about the migrant population from that area."
+    },
+    {
+      "type": "p",
+      "h2": "Explore qualification levels by country of birth",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The map only shows countries currently recognised by the World Bank, but data are available for migrants from formerly recognised countries in the [accompanying dataset](/visualisations/dvc2241/worldmap/data/datadownload.xlsx)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Explore qualification levels by country of birth",
+      "h3": null,
+      "h4": "Explore the qualification levels of English and Welsh residents by country of birth",
+      "h5": null,
+      "text": "Explore the qualification levels of English and Welsh residents by country of birth"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Explore qualification levels by country of birth",
+      "h3": null,
+      "h4": "Explore the qualification levels of English and Welsh residents by country of birth",
+      "h5": "Qualification index score, by country of birth, England and Wales 2021",
+      "text": "Qualification index score, by country of birth, England and Wales 2021"
+    },
+    {
+      "type": "p",
+      "h2": "Explore qualification levels by country of birth",
+      "h3": null,
+      "h4": "Explore the qualification levels of English and Welsh residents by country of birth",
+      "h5": "Qualification index score, by country of birth, England and Wales 2021",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Explore qualification levels by country of birth",
+      "h3": null,
+      "h4": "Explore the qualification levels of English and Welsh residents by country of birth",
+      "h5": "Qualification index score, by country of birth, England and Wales 2021",
+      "title": "Explore qualification levels by country of birth ",
+      "url": "/visualisations/dvc2241/worldmap/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "Explore qualification levels by country of birth",
+      "h3": null,
+      "h4": "Explore the qualification levels of English and Welsh residents by country of birth",
+      "h5": "Qualification index score, by country of birth, England and Wales 2021",
+      "text": "[Download the data for qualification levels of English and Welsh residents by country of birth](/visualisations/dvc2241/worldmap/data/datadownload.xlsx)"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Migrants from 81 countries who arrived in the UK as children were more qualified than those who arrived as adults",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Migrants from 81 countries who arrived in the UK as children were more qualified than those who arrived as adults"
+    },
+    {
+      "type": "p",
+      "h2": "Migrants from 81 countries who arrived in the UK as children were more qualified than those who arrived as adults",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In some cases, we can see migrants who arrived at a young age are much more highly qualified than those from the same country who arrived when they were older. This suggests the younger groups have benefitted from social mobility."
+    },
+    {
+      "type": "p",
+      "h2": "Migrants from 81 countries who arrived in the UK as children were more qualified than those who arrived as adults",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This is particularly apparent in many countries where asylum claims are common, such as Afghanistan, Eritrea, Somalia and Iraq."
+    },
+    {
+      "type": "p",
+      "h2": "Migrants from 81 countries who arrived in the UK as children were more qualified than those who arrived as adults",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "While census data do not show us whether respondents are refugees, the years in which people arrived can suggest they were more likely to have travelled seeking asylum. For example, the average year of arrival for people aged 15 years and under travelling from Afghanistan was 2005, suggesting many people travelled after war broke out in 2001."
+    },
+    {
+      "type": "p",
+      "h2": "Migrants from 81 countries who arrived in the UK as children were more qualified than those who arrived as adults",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "People born in Afghanistan who travelled to England or Wales aged 15 years or under have a qualification score of 2.58. This is notably higher than those who arrived aged 16 to 24 years, at 1.36."
+    },
+    {
+      "type": "p",
+      "h2": "Migrants from 81 countries who arrived in the UK as children were more qualified than those who arrived as adults",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Migrants from Somalia are also much more likely to hold more qualifications if they arrived aged 15 years or under (index score of 2.81). For example, even in the next highest scoring group (those aged 16 to 24 years), the index score was 1.73."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Residents with higher education born in Germany, the USA and China have similar age profiles to those born in the UK",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Residents with higher education born in Germany, the USA and China have similar age profiles to those born in the UK"
+    },
+    {
+      "type": "p",
+      "h2": "Residents with higher education born in Germany, the USA and China have similar age profiles to those born in the UK",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We have explored the age profiles of English and Welsh residents who reported a higher education qualification, based on their country of birth. For people born in the UK, higher education qualifications were most commonly held by those aged 25 to 34 years and least commonly held by those aged 75 years and over. A similar pattern was shared among residents born in a quarter (27.9%) of other countries, including Germany, the USA and China."
+    },
+    {
+      "type": "p",
+      "h2": "Residents with higher education born in Germany, the USA and China have similar age profiles to those born in the UK",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Residents with higher education qualifications born in a further 40.4% of countries were also generally younger, but less similar to the UK-born profile, with the majority being aged 35 to 44 years. This is the case for countries including India, Poland, and Nigeria."
+    },
+    {
+      "type": "p",
+      "h2": "Residents with higher education born in Germany, the USA and China have similar age profiles to those born in the UK",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "These two age profiles – where people aged 25 to 34 years or 35 to 44 years were more likely to have a higher education qualification – were mostly shared among people born in Europe and the Middle East or Asia (36.8% and 27.2% of countries with these profiles, respectively)."
+    },
+    {
+      "type": "p",
+      "h2": "Residents with higher education born in Germany, the USA and China have similar age profiles to those born in the UK",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "However, for more than 1 in 10 countries of birth (12.6%), residents with higher education qualifications were more commonly in older age groups, and younger age groups were less likely to hold such qualifications. This was more common among residents born in African or Caribbean countries (52.2% and 30.3% of countries that saw this age profile, respectively)."
+    },
+    {
+      "type": "p",
+      "h2": "Residents with higher education born in Germany, the USA and China have similar age profiles to those born in the UK",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Among migrants from Kenya with higher education qualifications, around 3 in 10 (29.5%) were aged 55 to 64 years, while 10.7% were aged 25 to 34 years. This could be because there are many more migrants in older age groups from these countries, but many other factors could also play a role."
+    },
+    {
+      "type": "p",
+      "h2": "Residents with higher education born in Germany, the USA and China have similar age profiles to those born in the UK",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "For residents born in the remaining 15.9% of countries, there was no single most common age group among those holding higher education qualifications."
+    },
+    {
+      "type": "p",
+      "h2": "Residents with higher education born in Germany, the USA and China have similar age profiles to those born in the UK",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "These differences in age profiles likely reflect differing migration patterns and periods of more intense migration from different countries. The number of people who migrate to the UK from a given country will also affect its age profile, with smaller populations being more affected by small changes. You can explore all findings from this analysis in our [accompanying data tables](http:///peoplepopulationandcommunity/educationandchildcare/datasets/howqualificationlevelsacrossenglandandwalesdifferbycountryofbirthdata)."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Measuring the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Measuring the data"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "Measuring the data",
+      "h3": "The qualification score",
+      "h4": null,
+      "h5": null,
+      "text": "The qualification score"
+    },
+    {
+      "type": "p",
+      "h2": "Measuring the data",
+      "h3": "The qualification score",
+      "h4": null,
+      "h5": null,
+      "text": "We use an index score that reflects the percentages of English and Welsh residents born in each area of the world who hold different qualification levels. These qualification levels range from “no formal qualifications” to higher education qualifications such as degrees. \"Other\" qualifications are not considered in the scoring system."
+    },
+    {
+      "type": "p",
+      "h2": "Measuring the data",
+      "h3": "The qualification score",
+      "h4": null,
+      "h5": null,
+      "text": "If every member of a group held a higher education qualification, the qualification score for that group would be 4. If nobody in a group reported any formal qualifications, the group’s score would be 0."
+    },
+    {
+      "type": "p",
+      "h2": "Measuring the data",
+      "h3": "The qualification score",
+      "h4": null,
+      "h5": null,
+      "text": "The average score for those born outside the UK is 2.57 For those born inside the UK, it is fairly similar, at 2.42. However, the qualification profiles of non-UK born and UK-born residents is very different. Those born outside of the UK are much more likely to hold higher education qualifications such as degrees and less likely to hold other qualification types."
+    },
+    {
+      "type": "p",
+      "h2": "Measuring the data",
+      "h3": "The qualification score",
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "chartbuilder",
+      "h2": "Measuring the data",
+      "h3": "The qualification score",
+      "h4": null,
+      "h5": null,
+      "chartbuilder_h3": "Migrants are less likely to report qualifications below higher education level as their highest qualification",
+      "chartbuilder_h4": "Highest reported qualification level by country of birth, England and Wales, 2021",
+      "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/articles/howqualificationlevelsacrossenglandandwalesdifferbycountryofbirth/2023-05-15/022b0a75",
+      "src": "/_scraped_chartbuilder_imgs/022b0a75.png",
+      "local_filename": "022b0a75.png"
+    },
+    {
+      "type": "p",
+      "h2": "Measuring the data",
+      "h3": "The qualification score",
+      "h4": null,
+      "h5": null,
+      "text": "It is likely that the qualifications of migrants below degree-level are underreported. Comparing qualification levels below degree level is very complicated, as different countries have different education systems. People who studied in another country for a qualification that was not an internationally recognised level such as a degree, may not have known the equivalent level to report in Census 2021."
+    },
+    {
+      "type": "p",
+      "h2": "Measuring the data",
+      "h3": "The qualification score",
+      "h4": null,
+      "h5": null,
+      "text": "While the index score might not accurately reflect the different qualifications migrants hold outside of higher education, it still considers these qualifications. Comparing higher education qualifications probably provides us a more reliable comparison between UK-born and non-UK-born residents, but it does not consider other qualification types. In this article, we have used both measures, to give the broadest picture possible."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "Measuring the data",
+      "h3": "The age profile analysis",
+      "h4": null,
+      "h5": null,
+      "text": "The age profile analysis"
+    },
+    {
+      "type": "p",
+      "h2": "Measuring the data",
+      "h3": "The age profile analysis",
+      "h4": null,
+      "h5": null,
+      "text": "We conducted an age profile analysis to determine the similarity of the age groups of migrants with higher education qualification by country of birth. To do this, we used a statistical test called the Kullback-Leibler divergence, which measures the difference between the distributions of two populations."
+    },
+    {
+      "type": "p",
+      "h2": "Measuring the data",
+      "h3": "The age profile analysis",
+      "h4": null,
+      "h5": null,
+      "text": "The test allowed us to measure how similar different age profiles were to a set of pre-defined profile types."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Glossary",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Glossary"
+    },
+    {
+      "type": "p",
+      "h2": "Glossary",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Adult residents: In this article, we examine qualifications for people aged 16 and over who are classed as ‘usual residents’ in England and Wales. This means that they have stayed or are intending to stay in the UK for 12 months or more. As a result, short-term migrants (such as many of those who might travel for seasonal labour) are not considered in our sample."
+    },
+    {
+      "type": "p",
+      "h2": "Glossary",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Higher education qualification: In Census 2021, qualifications were categorised in a series of levels. Higher education qualifications in England and Wales include all qualifications above level three (A-levels and equivalent) and typically are undertaken from the age of 18 or older."
+    },
+    {
+      "type": "p",
+      "h2": "Glossary",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Examples of qualifications at level four and above in Census 2021 were: degree, foundation degree, Doctor of Philosophy (PhD), Master's degrees, Higher National Diploma (HND) or Higher National Certificate (HNC), NVQ level 4 or above, professional qualifications (for example, teaching or nursing)."
+    },
+    {
+      "type": "p",
+      "h2": "Glossary",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Migrant: In this article we refer to English and Welsh residents born outside the UK as migrants. This refers solely to their country of birth, and means they will have migrated to the UK at some point in the past. This is not the same as a person’s nationality."
+    },
+    {
+      "type": "p",
+      "h2": "Glossary",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Migration concentration: This is a relative measure of how much migration a local authority has attracted relative to its population size compared to the amount of total migration to England and Wales. The measure is calculated using the following formula:"
+    },
+    {
+      "type": "p",
+      "h2": "Glossary",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Migration concentration ratio = (X/Y)/(A/B)"
+    },
+    {
+      "type": "p",
+      "h2": "Glossary",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "X = Local Authority migrant population \n Y = total migrant population \n A = Local Authority total population \n B = England & Wales total population \n"
+    },
+    {
+      "type": "p",
+      "h2": "Glossary",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "A score of 1 would indicate that a Local Authority has attracted the same amount of migration as the average for England and Wales. Whereas, as score of 0.5 would indicate that the LA has attracted half as much migration as the average."
+    },
+    {
+      "type": "box",
+      "h2": "Glossary",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Related",
+      "box_h3": null,
+      "box_text": "Statistical bulletin | Released on 10 January 2023\n\nUsual residents aged 16 years and over who have academic, vocational, or professional qualifications, as well as the number of schoolchildren and full-time students, Census 2021 data.\n\nArticle | Released on 21 March 2023\n\nDiffering labour market participation between migrant populations and non-migrants, including a look at the type of occupations and industries they work in.\n\nStatistical bulletin | Released on 2 November 2022\n\nInternational migration, including country of birth, passports held and year of arrival, Census 2021 data.\n\nArticle | Released on 17 February 2023\n\nFind out more about how the qualification levels of local labour forces indicate an area’s ability to create, attract and retain highly qualified workers. Explore your local area and compare its ranking to the rest of England and Wales.",
+      "box_items": [
+        "[Education, England and Wales](/peoplepopulationandcommunity/educationandchildcare/bulletins/educationenglandandwales/census2021) Statistical bulletin | Released on 10 January 2023 Usual residents aged 16 years and over who have academic, vocational, or professional qualifications, as well as the number of schoolchildren and full-time students, Census 2021 data.",
+        "[Migration and the labour market, England and Wales](/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/migrationandthelabourmarketenglandandwales/census2021) Article | Released on 21 March 2023 Differing labour market participation between migrant populations and non-migrants, including a look at the type of occupations and industries they work in.",
+        "[International migration, England and Wales](/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/internationalmigrationenglandandwales/census2021) Statistical bulletin | Released on 2 November 2022 International migration, including country of birth, passports held and year of arrival, Census 2021 data.",
+        "[How workforce qualification levels differ across England and Wales: Census 2021](/peoplepopulationandcommunity/educationandchildcare/articles/howworkforcequalificationlevelsdifferacrossenglandandwalescensus2021/2023-02-17) Article | Released on 17 February 2023 Find out more about how the qualification levels of local labour forces indicate an area’s ability to create, attract and retain highly qualified workers. Explore your local area and compare its ranking to the rest of England and Wales."
+      ]
+    },
+    {
+      "type": "box",
+      "h2": "Glossary",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "Aidan Tolland, Rebecca Jones, Hamish Anderson, Matt Rood\n[census.customerservices@ons.gov.uk](mailto:census.customerservices@ons.gov.uk)\n Telephone: +44 1329 44 4972",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:46:27.923469"
+}

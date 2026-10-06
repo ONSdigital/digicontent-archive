@@ -1,0 +1,97 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/howyourareahaschangedin10yearscensus2021/2022-11-08",
+  "title": "How your area has changed in 10 years: Census 2021",
+  "meta_description": "Find out what changed for people living in local authority areas within England or Wales between the 2011 and 2021 census, includes population, work and family.",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Population and migration",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration"
+    },
+    {
+      "text": "Population estimates",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates"
+    },
+    {
+      "text": "How your area has changed in 10 years: Census 2021",
+      "href": null
+    }
+  ],
+  "date_published": "2023-01-19T00:00:00.000Z",
+  "date_modified": "2023-01-19T00:00:00.000Z",
+  "lede": "Find out how life changed for people living in different local authority areas in England and Wales.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "19 January 2023"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "Landing",
+      "url": "/visualisations/censusareachanges/landing/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Related links"
+    },
+    {
+      "type": "p",
+      "h2": "Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": "Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "\n\n[How your area has changed in 10 years: data download (XLSX, 1,525 KB)](/visualisations/censusareachanges/data/datadownload.xlsx) Datasets| Updated 19 January 2023 Data used in the interactive articles.\n\n[Census 2021 topic summaries](https://www.ons.gov.uk/census/aboutcensus/censusproducts/topicsummaries) Supporting information | Released 2 November 2022 What topic summary data for Census 2021 will be available and how to view them.\n\n[Census maps](https://www.ons.gov.uk/census/maps) Interactive tool | Updated 19 January 2023 Use our interactive map to find out what people’s lives are like across England and Wales.\n\n[How well do you know your area?](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/playthecensus2021quizhowwelldoyouknowyourarea/2022-12-02) Digital Content Article | Released 2 December 2022 Test your knowledge of where you live with our Census quiz.",
+      "box_items": null
+    },
+    {
+      "type": "box",
+      "h2": "Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[census.customerservices@ons.gov.uk](mailto:census.customerservices@ons.gov.uk)\n Telephone: +44 1329 44 4972",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:48:54.294254"
+}

@@ -1,0 +1,147 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/ageing/articles/subnationalageingtool/2020-07-20",
+  "title": "Subnational ageing tool",
+  "meta_description": "Use our interactive tool to compare current and projected indicators of ageing across local authorities, regions and countries in the UK",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Births, deaths and marriages",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages"
+    },
+    {
+      "text": "Ageing",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/ageing"
+    },
+    {
+      "text": "Subnational ageing tool",
+      "href": null
+    }
+  ],
+  "date_published": "2020-07-19T23:00:00.000Z",
+  "date_modified": "2020-07-19T23:00:00.000Z",
+  "lede": "Use our interactive tool to compare current and projected indicators of ageing across local authorities, regions and countries in the UK",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The subnational ageing tool enables users to compare a range of current and projected ageing indicators across different lower-tier local authorities, regions and countries in the UK. The tool contains demographic indicators (for example, median age and percentage aged 65 years and over) and other indicators, including economic activity at older ages, one-person households headed by an older person and life expectancy."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "All data underlying the tool are available for download from the [Local statistics web page](https://www.ons.gov.uk/help/localstatistics) (see Links to underlying datasets)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "Subnational ageing tool",
+      "url": "/visualisations/dvc680/ageing_tool11/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": "Description of indicators",
+      "box_text": "\n\nMedian age refers to the age where one half of the population is older and one half is younger.\n\nOld Age Dependency Ratio (OADR) refers to the number of people aged State Pension age (SPA) and over for every 1,000 people aged between 16 years and up to the SPA.\n\n% aged 65 and over refers to the percentage of the population aged 65 years and over\n\n% aged 85 and over refers to the percentage of the population aged 85 years and over\n\n% aged 0 to 15 refers to the percentage of the population aged between 0 and 15 years\n\n% aged 16 to 64 refers to the percentage of the population aged between 16 and 64 years\n\n% aged State Pension age and over refers to the percentage aged SPA and over. Projected values take into account future changes in the SPA in the current legislation.\n\n% aged 16 years up to State Pension age refers to the percentage of the population aged between 16 years and up to the SPA. Projected values take into account future changes in SPA in the current legislation.\n\nSex ratio 65 and over refers to the number of males aged 65 years and over for every 100 females aged 65 years and over.\n\nSex ratio 85 and over refers to the number of males aged 85 years and over for every 100 females aged 85 years and over.\n\n% one-person households aged 65 years and over refers to the percentage of one-person households in which the householder is aged 65 years and over.\n\n% of one-person households aged 85 years and over refers to the percentage of one-person households in which the householder is aged 85 years and over.\n\nEconomic activity of those aged 50 to 64 years refers to the proportion of those aged 50 to 64 years who are either in employment or actively seeking employment.\n\nEmployment rate of those aged 50 to 64 years refers to the proportion of those aged 50 to 64 years who are employed.\n\nLife expectancy (males and females) refers to the number of years a person, either male or female, can expect to live, on average, in a given population.\n\n",
+      "box_items": null
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": "Points to note",
+      "box_text": "\n\nLocal authorities can be selected from the search box, interactive map or from the barcode charts.\n\nRegions and countries cannot be selected directly from the map but can be displayed by selecting from the search box.\n\nWhen looking at barcode charts, there may be multiple areas with the same value, but only one area will be displayed on the plot; data for all areas are available using the search function.\n\nData are shown to one decimal place; the exception is the OADR, which is shown rounded to the nearest whole number.\n\nThe map legend has been created using the [Jenks Natural Breaks methodology](https://www.ehdp.com/methods/jenks-natural-breaks-explain.htm); this defines where the breaks fall in the distributions of the indicators.\n\nOn 1 April each year, local authorities can change their boundaries (for example, by combining with another local authority). The map used in the tool will contain the most recent local authorities, but some of the datasets included may relate to older boundary configurations. Where this is the case, data will be unavailable for the area but can still be downloaded from the ONS website using the old boundary labels.\n\n2018-based projections data for Welsh local authorities are currently unavailable. These data will be added to the tool once projections are published on the StatsWales website. For more information, please visit [Wales national population projections](https://gov.wales/national-population-projections-2018-based).\n\nThe [life expectancies at birth and at age 65 years presented](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/bulletins/lifeexpectancyforlocalareasoftheuk/between2001to2003and2017to2019) are calculated from five-year abridged life tables, rather than complete (single year of age) life tables. This is because the death counts at local authority level can be too sparse for examining mortality for single years of age, and mid-year population estimates are not available or sufficiently reliable to produce rates of death by single year of age.\n\nThe life expectancies for England, Wales, Scotland and Northern Ireland are also calculated from five-year abridged life tables to enable a direct comparison with local life expectancies. These differ slightly to the life expectancies produced in the [national life tables](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/bulletins/nationallifetablesunitedkingdom/2017to2019), which are calculated from complete life tables. This is because of the assumption that the probability of an individual dying is evenly distributed across each five-year age group. Find out more [on comparing life expectancy from abridged and complete life tables](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/articles/lifeexpectancyreleasesandtheirdifferentuses/2018-12-17).\n\n",
+      "box_items": null
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": "Data used in this release",
+      "box_text": "\n\nThese links allow you to download all data used in the tool. While the tool relates to all persons (except for life expectancy), the underlying data allow you to specify either all persons or males or females.\n\n[Local authority ageing statistics, based on annual mid-year population estimates](https://www.ons.gov.uk/datasets/ageing-population-estimates)\n\n[Local authority ageing statistics, older people economic activity](https://www.ons.gov.uk/datasets/older-people-economic-activity)\n\n[Local authority ageing statistics, sex ratios for people aged 65 and over and 85 and over](https://www.ons.gov.uk/datasets/older-people-sex-ratios)\n\n[Local authority ageing statistics, population projections for older people](https://www.ons.gov.uk/datasets/ageing-population-projections)\n\n[Local authority ageing statistics, household projections for older people](https://www.ons.gov.uk/datasets/projections-older-people-in-single-households)\n\n[Life expectancy by local authority](https://www.ons.gov.uk/datasets/life-expectancy-by-local-authority)\n\nFor detail on the geographies and years covered by these data [download this spreadsheet](/visualisations/dvc680/areas.xlsx).\n\n",
+      "box_items": null
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "You might also be interested in",
+      "box_h3": null,
+      "box_text": "",
+      "box_items": [
+        "[Public Health England's Productive Healthy Ageing Profile](https://fingertips.phe.org.uk/profile/healthy-ageing)"
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[pop.info@ons.gov.uk](mailto:pop.info@ons.gov.uk)\n Telephone: +44 (0)1329 444661",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:47:13.675905"
+}

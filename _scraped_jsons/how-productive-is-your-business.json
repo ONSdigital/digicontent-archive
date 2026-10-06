@@ -1,0 +1,291 @@
+{
+  "url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity/articles/howproductiveisyourbusiness/2018-07-06",
+  "title": "How productive is your business?",
+  "meta_description": "This is an interactive tool which aids businesses to calculate their productivity and compare their performance to other businesses in Great Britain.",
+  "breadcrumb": null,
+  "date_published": "2022-03-07T00:00:00.000Z",
+  "date_modified": "2022-03-07T00:00:00.000Z",
+  "lede": null,
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This is an interactive tool which aids businesses to calculate their productivity and compare their performance to other businesses in the UK."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This is the latest release."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Contact:\n[Russell Black](mailto:productivity@ons.gov.uk)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Release date:\n7 March 2022\n"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Table of contents"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Introducing our interactive tool for business productivity benchmarking](#introducing-our-interactive-tool-for-business-productivity-benchmarking)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Business calculator – compare your business with others in the UK](#business-calculator-compare-your-business-with-others-in-the-uk)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Data sources and methods](#data-sources-and-methods)"
+    },
+    {
+      "type": "p",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Print this Article]()"
+    },
+    {
+      "type": "p",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Download as PDF](/employmentandlabourmarket/peopleinwork/labourproductivity/articles/howproductiveisyourbusiness/2018-07-06/pdf)"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "1. Introducing our interactive tool for business productivity benchmarking",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "1. Introducing our interactive tool for business productivity benchmarking"
+    },
+    {
+      "type": "p",
+      "h2": "1. Introducing our interactive tool for business productivity benchmarking",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Labour productivity is the measure of how much output is produced per unit of labour input, for instance, per worker. Higher productivity means that a business produces more output for each worker it employs."
+    },
+    {
+      "type": "p",
+      "h2": "1. Introducing our interactive tool for business productivity benchmarking",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Productivity is important because it is a key determinant of living standards in the long term."
+    },
+    {
+      "type": "p",
+      "h2": "1. Introducing our interactive tool for business productivity benchmarking",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Increasing productivity over time allows businesses to produce more goods and services per unit of input. This ultimately enables higher wages, aids economic growth, increases profitability, and boosts tax revenues. Since 2008, labour productivity growth in the UK has been slow by historical standards, this is often labelled the UK's \"[productivity puzzle](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity/articles/whatistheproductivitypuzzle/2015-07-07)\"."
+    },
+    {
+      "type": "p",
+      "h2": "1. Introducing our interactive tool for business productivity benchmarking",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The interactive calculator allows you to gain a better understanding of your business' productivity and how it compares with other businesses within your industry. You only require three pieces of information: your turnover (or sales), your purchases of inputs (excluding employment costs and investment), and the amount of people you employ."
+    },
+    {
+      "type": "p",
+      "h2": "1. Introducing our interactive tool for business productivity benchmarking",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "See the \"definitions\" menu below for more information."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "2. Business calculator – compare your business with others in the UK",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "2. Business calculator – compare your business with others in the UK"
+    },
+    {
+      "type": "p",
+      "h2": "2. Business calculator – compare your business with others in the UK",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "2. Business calculator – compare your business with others in the UK",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "Productivity Calculator",
+      "url": "/visualisations/dvc1837/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "2. Business calculator – compare your business with others in the UK",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Some firms are more productive than others. The Office for National Statistics (ONS) and others, have researched the reasons for slower productivity growth in the past decade, and the reasons why some businesses are more productive. Attributes such as age, size of business, foreign direct investment (FDI), management practices and international trade, are all associated with facilitating higher productivity among firms."
+    },
+    {
+      "type": "p",
+      "h2": "2. Business calculator – compare your business with others in the UK",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "For articles containing some of the latest ONS research on businesses and productivity, and for further links to other statistics and research on productivity see:"
+    },
+    {
+      "type": "li",
+      "h2": "2. Business calculator – compare your business with others in the UK",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Firm-level labour productivity measures from the Annual Business Survey, UK: 1998 to 2019](https://www.ons.gov.uk/economy/economicoutputandproductivity/productivitymeasures/articles/firmlevellabourproductivitymeasuresfromtheannualbusinesssurveygreatbritain/1998to2019)"
+    },
+    {
+      "type": "li",
+      "h2": "2. Business calculator – compare your business with others in the UK",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Management practices and innovation, Great Britain](https://www.ons.gov.uk/economy/economicoutputandproductivity/productivitymeasures/articles/managementpracticesandinnovationgreatbritain/2021-08-23)"
+    },
+    {
+      "type": "li",
+      "h2": "2. Business calculator – compare your business with others in the UK",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[UK trade in goods and productivity: New findings](https://www.ons.gov.uk/economy/economicoutputandproductivity/productivitymeasures/articles/uktradeingoodsandproductivitynewfindings/2018-07-06)"
+    },
+    {
+      "type": "li",
+      "h2": "2. Business calculator – compare your business with others in the UK",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Foreign direct investment (FDI) and labour productivity, a micro-data perspective: 2012 to 2015](https://www.ons.gov.uk/economy/economicoutputandproductivity/productivitymeasures/articles/foreigndirectinvestmentandlabourproductivityamicrodataperspective/2012to2015)"
+    },
+    {
+      "type": "li",
+      "h2": "2. Business calculator – compare your business with others in the UK",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Understanding firms in the bottom 10% of the labour productivity distribution in Great Britain: \"the laggards\", 2003 to 2015](https://www.ons.gov.uk/economy/economicoutputandproductivity/productivitymeasures/articles/understandingfirmsinthebottom10ofthelabourproductivitydistributioningreatbritain/jantomar2017)"
+    },
+    {
+      "type": "li",
+      "h2": "2. Business calculator – compare your business with others in the UK",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[UK trade in goods and productivity: New findings](https://www.ons.gov.uk/economy/economicoutputandproductivity/productivitymeasures/articles/uktradeingoodsandproductivitynewfindings/2018-07-06)"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "3. Data sources and methods",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "3. Data sources and methods"
+    },
+    {
+      "type": "p",
+      "h2": "3. Data sources and methods",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The data come from the UK's structural business surveys: the Annual Business Survey (ABS) for Great Britain, and the Northern Ireland Annual Business Inquiry for Northern Ireland. The surveys are a representative sample of approximately 55,000 businesses per year within the production, construction, and services industries. The data exclude the public sector, self-employed, the finance and insurance sector, and farms. For quality and confidentiality reasons, data for certain industries have been suppressed."
+    },
+    {
+      "type": "p",
+      "h2": "3. Data sources and methods",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The business-specific measure of labour input which we used in this analysis was employment - including both employees and working proprietors - and was acquired from the Inter-Departmental Business Register (IDBR) at the time of sample selection of the ABS."
+    },
+    {
+      "type": "p",
+      "h2": "3. Data sources and methods",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The article [Firm-level labour productivity measures from the Annual Business Survey, UK: 1998 to 2019](https://www.ons.gov.uk/economy/economicoutputandproductivity/productivitymeasures/articles/firmlevellabourproductivitymeasuresfromtheannualbusinesssurveygreatbritain/1998to2019) contains further details on how the productivity statistics are computed."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "3. Data sources and methods",
+      "h3": "Contact details for this Article",
+      "h4": null,
+      "h5": null,
+      "text": "Contact details for this Article"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "3. Data sources and methods",
+      "h3": "Related publications",
+      "h4": null,
+      "h5": null,
+      "text": "Related publications"
+    },
+    {
+      "type": "li",
+      "h2": "3. Data sources and methods",
+      "h3": "Related publications",
+      "h4": null,
+      "h5": null,
+      "text": "[What is the productivity puzzle?](/employmentandlabourmarket/peopleinwork/labourproductivity/articles/whatistheproductivitypuzzle/2015-07-07)"
+    }
+  ],
+  "scraped_at": "2026-09-22 11:46:58.234317"
+}

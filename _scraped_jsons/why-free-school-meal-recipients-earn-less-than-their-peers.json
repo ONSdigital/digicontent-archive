@@ -1,0 +1,992 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/articles/whyfreeschoolmealrecipientsearnlessthantheirpeers/2022-08-04",
+  "title": "Why free school meal recipients earn less than their peers",
+  "meta_description": "Article describing the earnings gaps between people who received free school meals in childhood and non-recipients, both in state schools and in independent schools. Modelling shows earnings gaps after adjusting for multiple factors and the importance of education and labour market experience in explaining differences in earnings.",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Education and childcare",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare"
+    },
+    {
+      "text": "Why free school meal recipients earn less than their peers",
+      "href": null
+    }
+  ],
+  "date_published": "2022-08-03T23:00:00.000Z",
+  "date_modified": "2022-08-03T23:00:00.000Z",
+  "lede": "Students from poorer backgrounds typically go on to earn less than others as adults and the differences are stark. What factors are behind the earnings gap?",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "4 August 2022"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "People who grew up in income-deprived households in England have lower average earnings aged 30 years than their peers, even when matching educational level and secondary school attainment."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Analysis of long-term administrative data shows a persistent earnings gap between those who received free school meals in childhood and other students."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Part of this overall gap in lower earnings is because of people from income-deprived backgrounds being much less likely to go on to higher education. The size of that overall earnings gap widens between the ages of 18 and 30 years, particularly around university graduation age."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "But even among those with the same qualification level and similar attainment in secondary school, disadvantaged pupils went on to earn less than their peers."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In this article, we explore explanations for the gap: education, experience in the workplace, ethnicity, gender and other possible factors."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The earnings gap between free school meals recipients and non-recipients in state-funded schools can be mostly accounted for by these characteristics."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "However, students who went to independent privately funded schools (who are not eligible for free school meals) typically out earned most other students with a similar qualification level and key stage 4 (KS4) attainment by age 30."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "A free school meals student with similar characteristics would still earn around 20% less on average than an independent school student."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Half of free school meals students earned £17,000 or less aged 30 years",
+      "h4": null,
+      "h5": null,
+      "text": "Half of free school meals students earned £17,000 or less aged 30 years"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Half of free school meals students earned £17,000 or less aged 30 years",
+      "h4": null,
+      "h5": null,
+      "text": "There is a wide variation in pay among top-earning individuals, but earnings at age 30 years for disadvantaged students are generally considerably lower."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Half of free school meals students earned £17,000 or less aged 30 years",
+      "h4": null,
+      "h5": null,
+      "text": "[Free school meals are available for students at state-funded schools](http://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/methodologies/understandingthefreeschoolmealsearningsgapmethodology) who live in a household with an income of £7,500 per year or less."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Half of free school meals students earned £17,000 or less aged 30 years",
+      "h4": null,
+      "h5": null,
+      "text": "Long-term administrative data track the outcomes of these students alongside others who attended state-funded schools but did not receive free school meals, and independent school students (schools funded privately). Independent school students are not eligible for free school meals, and there are no data for household income for these students. We looked at people who were aged 30 between April 2016 and April 2019."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Half of free school meals students earned £17,000 or less aged 30 years",
+      "h4": null,
+      "h5": null,
+      "text": "In all three of these groups, there is a large difference in earnings between the highest and lowest paid. This means there is not just an earnings gap between students of different backgrounds but also variation among employed people in the same group."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Half of free school meals students earned £17,000 or less aged 30 years",
+      "h4": null,
+      "h5": null,
+      "text": "Of independent school students, the top 10% earned £71,000 or more but the top 1% earned upwards of £180,000."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Half of free school meals students earned £17,000 or less aged 30 years",
+      "h4": null,
+      "h5": null,
+      "text": "By contrast, of state school students not on free school meals, individuals would need to earn over £85,000 a year to be in the top 1%. Their earnings were at least double the salary of 90% of individuals in this group."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Half of free school meals students earned £17,000 or less aged 30 years",
+      "h4": null,
+      "h5": null,
+      "text": "The top 1% of free school meals students earned around £63,000. By contrast, 50% of people who were on free school meals earned £17,000 or less aged 30 years."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Half of free school meals students earned £17,000 or less aged 30 years",
+      "h4": "Only half of free school meals students earned more than £17,000 aged 30 years",
+      "h5": null,
+      "text": "Only half of free school meals students earned more than £17,000 aged 30 years"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Half of free school meals students earned £17,000 or less aged 30 years",
+      "h4": "Only half of free school meals students earned more than £17,000 aged 30 years",
+      "h5": "Pay As You Earn (PAYE) earnings distribution at age 30 years by free school meal recipient status, tax years ending 2017 to 2019.",
+      "text": "Pay As You Earn (PAYE) earnings distribution at age 30 years by free school meal recipient status, tax years ending 2017 to 2019."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Half of free school meals students earned £17,000 or less aged 30 years",
+      "h4": "Only half of free school meals students earned more than £17,000 aged 30 years",
+      "h5": "Pay As You Earn (PAYE) earnings distribution at age 30 years by free school meal recipient status, tax years ending 2017 to 2019.",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Half of free school meals students earned £17,000 or less aged 30 years",
+      "h4": "Only half of free school meals students earned more than £17,000 aged 30 years",
+      "h5": "Pay As You Earn (PAYE) earnings distribution at age 30 years by free school meal recipient status, tax years ending 2017 to 2019.",
+      "title": "Only half of free school meals students earned more than £17,000 aged 30 years",
+      "url": "/visualisations/dvc2083/Fig_1_Earnings_percentiles/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Half of free school meals students earned £17,000 or less aged 30 years",
+      "h4": "Only half of free school meals students earned more than £17,000 aged 30 years",
+      "h5": "Note:",
+      "text": "Note:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Half of free school meals students earned £17,000 or less aged 30 years",
+      "h4": "Only half of free school meals students earned more than £17,000 aged 30 years",
+      "h5": "Note:",
+      "text": "Figures are only for people in employment and out of education."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Half of free school meals students earned £17,000 or less aged 30 years",
+      "h4": "Only half of free school meals students earned more than £17,000 aged 30 years",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Half of free school meals students earned £17,000 or less aged 30 years",
+      "h4": "Only half of free school meals students earned more than £17,000 aged 30 years",
+      "h5": "Download the data",
+      "text": "[.xlsx](/visualisations/dvc2083/Fig_1_Earnings_percentiles/datadownload.xlsx)"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Earnings gap for free school meals students widens with age",
+      "h4": null,
+      "h5": null,
+      "text": "Earnings gap for free school meals students widens with age"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Earnings gap for free school meals students widens with age",
+      "h4": null,
+      "h5": null,
+      "text": "Average earnings at all ages were lowest for free school meals recipients but the gap in earnings became larger as people got older."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Earnings gap for free school meals students widens with age",
+      "h4": null,
+      "h5": null,
+      "text": "At age 18 years, there are only small differences in earnings between this cohort of free school meals recipients, non-recipients and independent school students."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Earnings gap for free school meals students widens with age",
+      "h4": null,
+      "h5": null,
+      "text": "Between the ages of 18 and 30 years, the earnings gap widens between the three groups."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Earnings gap for free school meals students widens with age",
+      "h4": null,
+      "h5": null,
+      "text": "There is a notable difference in earnings from around age 22 years, which is a common age to graduate university and take up a higher-paid job."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Earnings gap for free school meals students widens with age",
+      "h4": null,
+      "h5": null,
+      "text": "Of those in employment before the age of 22 years, state school attendees who did not receive free school meals had the highest average earnings. From age 22 years, independent school attendees had the highest average earnings. [Women also earned less on average than men in all three groups](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/genderpaygapintheuk/2021)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Earnings gap for free school meals students widens with age",
+      "h4": "Pay diverges around university leaving age",
+      "h5": null,
+      "text": "Pay diverges around university leaving age"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Earnings gap for free school meals students widens with age",
+      "h4": "Pay diverges around university leaving age",
+      "h5": "Average Pay As You Earn (PAYE) earnings for young adults by gender and free school meal recipient status, tax years ending 2005 to 2019",
+      "text": "Average Pay As You Earn (PAYE) earnings for young adults by gender and free school meal recipient status, tax years ending 2005 to 2019"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Earnings gap for free school meals students widens with age",
+      "h4": "Pay diverges around university leaving age",
+      "h5": "Average Pay As You Earn (PAYE) earnings for young adults by gender and free school meal recipient status, tax years ending 2005 to 2019",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Earnings gap for free school meals students widens with age",
+      "h4": "Pay diverges around university leaving age",
+      "h5": "Average Pay As You Earn (PAYE) earnings for young adults by gender and free school meal recipient status, tax years ending 2005 to 2019",
+      "title": "Pay diverges with age for young adults by gender and free school meal recipient status",
+      "url": "/visualisations/dvc2083/Fig_2_Earnings_age_gender/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Earnings gap for free school meals students widens with age",
+      "h4": "Pay diverges around university leaving age",
+      "h5": "Note:",
+      "text": "Note:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Earnings gap for free school meals students widens with age",
+      "h4": "Pay diverges around university leaving age",
+      "h5": "Note:",
+      "text": "Figures are only for people earning and out of education aged 30."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Earnings gap for free school meals students widens with age",
+      "h4": "Pay diverges around university leaving age",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Earnings gap for free school meals students widens with age",
+      "h4": "Pay diverges around university leaving age",
+      "h5": "Download the data",
+      "text": "[.xlsx](/visualisations/dvc2083/Fig_2_Earnings_age_gender/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Earnings gap for free school meals students widens with age",
+      "h4": "Pay diverges around university leaving age",
+      "h5": "Download the data",
+      "text": "These earnings differences are likely to be partly because of people from an income-deprived background being much less likely to continue into higher education."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Earnings gap for free school meals students widens with age",
+      "h4": "Pay diverges around university leaving age",
+      "h5": "Download the data",
+      "text": "The following chart shows the highest qualification level of these people in employment at age 30 years."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Earnings gap for free school meals students widens with age",
+      "h4": "Pay diverges around university leaving age",
+      "h5": "Download the data",
+      "text": "Just under half (48%) of those eligible for free school meals during their KS4 year had gone on to complete a qualification above GCSE level. That compares with 71% of state-educated students who were not eligible for free school meals, and 96% of students at independent school who went on to complete a higher qualification than GCSE level."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Earnings gap for free school meals students widens with age",
+      "h4": "Students on free school meals are less likely to go to university",
+      "h5": null,
+      "text": "Students on free school meals are less likely to go to university"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Earnings gap for free school meals students widens with age",
+      "h4": "Students on free school meals are less likely to go to university",
+      "h5": "Highest level of qualification attained by age 30 years by free school meal recipient status, academic years ending 2002 to 2019",
+      "text": "Highest level of qualification attained by age 30 years by free school meal recipient status, academic years ending 2002 to 2019"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Earnings gap for free school meals students widens with age",
+      "h4": "Students on free school meals are less likely to go to university",
+      "h5": "Highest level of qualification attained by age 30 years by free school meal recipient status, academic years ending 2002 to 2019",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Earnings gap for free school meals students widens with age",
+      "h4": "Students on free school meals are less likely to go to university",
+      "h5": "Highest level of qualification attained by age 30 years by free school meal recipient status, academic years ending 2002 to 2019",
+      "title": "Highest level of qualification attained by age 30 years by free school meal recipient status",
+      "url": "/visualisations/dvc2083/Fig_3_Highest_Level_Qual/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Earnings gap for free school meals students widens with age",
+      "h4": "Students on free school meals are less likely to go to university",
+      "h5": "Notes:",
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Earnings gap for free school meals students widens with age",
+      "h4": "Students on free school meals are less likely to go to university",
+      "h5": "Notes:",
+      "text": "Figures are only for people earning and out of education aged 30."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Earnings gap for free school meals students widens with age",
+      "h4": "Students on free school meals are less likely to go to university",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Earnings gap for free school meals students widens with age",
+      "h4": "Students on free school meals are less likely to go to university",
+      "h5": "Download the data",
+      "text": "[.xlsx](/visualisations/dvc2083/Fig_3_Highest_Level_Qual/datadownload.xlsx)"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Disadvantaged pupils went on to earn less than others with the same level qualification",
+      "h4": null,
+      "h5": null,
+      "text": "Disadvantaged pupils went on to earn less than others with the same level qualification"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Disadvantaged pupils went on to earn less than others with the same level qualification",
+      "h4": null,
+      "h5": null,
+      "text": "Nevertheless, there is also an earnings gap among individuals with the same level of educational qualifications."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Disadvantaged pupils went on to earn less than others with the same level qualification",
+      "h4": null,
+      "h5": null,
+      "text": "At all levels of qualification, those eligible for free school meals were earning less at age 30 years than their peers who had the same highest level of qualification."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Disadvantaged pupils went on to earn less than others with the same level qualification",
+      "h4": null,
+      "h5": null,
+      "text": "At age 30 years, independent school pupils have the highest earnings in almost every group of people with the same highest level of qualification. For example, of everyone who left school after GCSEs, individuals who went to independent school have the highest earnings, likewise for bachelor's degree and those with no qualifications."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Disadvantaged pupils went on to earn less than others with the same level qualification",
+      "h4": "Independent school pupils generally have the highest earnings for any qualification level",
+      "h5": null,
+      "text": "Independent school pupils generally have the highest earnings for any qualification level"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Disadvantaged pupils went on to earn less than others with the same level qualification",
+      "h4": "Independent school pupils generally have the highest earnings for any qualification level",
+      "h5": "Average Pay As You Earn (PAYE) earnings for young adults by highest level of qualification and free school meal recipient status, tax years ending 2005 to 2019",
+      "text": "Average Pay As You Earn (PAYE) earnings for young adults by highest level of qualification and free school meal recipient status, tax years ending 2005 to 2019"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Disadvantaged pupils went on to earn less than others with the same level qualification",
+      "h4": "Independent school pupils generally have the highest earnings for any qualification level",
+      "h5": "Average Pay As You Earn (PAYE) earnings for young adults by highest level of qualification and free school meal recipient status, tax years ending 2005 to 2019",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Disadvantaged pupils went on to earn less than others with the same level qualification",
+      "h4": "Independent school pupils generally have the highest earnings for any qualification level",
+      "h5": "Average Pay As You Earn (PAYE) earnings for young adults by highest level of qualification and free school meal recipient status, tax years ending 2005 to 2019",
+      "title": "Independent school pupils generally have the highest earnings for any qualification level",
+      "url": "/visualisations/dvc2083/Fig_4_Earnings_age_HLQ/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Disadvantaged pupils went on to earn less than others with the same level qualification",
+      "h4": "Independent school pupils generally have the highest earnings for any qualification level",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Disadvantaged pupils went on to earn less than others with the same level qualification",
+      "h4": "Independent school pupils generally have the highest earnings for any qualification level",
+      "h5": "Download the data",
+      "text": "[.xlsx](/visualisations/dvc2083/Fig_4_Earnings_age_HLQ/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Disadvantaged pupils went on to earn less than others with the same level qualification",
+      "h4": "Independent school pupils generally have the highest earnings for any qualification level",
+      "h5": "Download the data",
+      "text": "Differences we cannot measure here may include an individual’s soft skills, such as confidence or networking, and their knowledge of the job market. This could be related to a person’s family background or opportunities available to them, for example access to work experience."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Disadvantaged pupils went on to earn less than others with the same level qualification",
+      "h4": "Independent school pupils generally have the highest earnings for any qualification level",
+      "h5": "Download the data",
+      "text": "The earnings gap is largest for those with level 6 qualifications (which includes degree level). Degree qualifications may also vary in terms of subject, institution and future earning potential."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Disadvantaged pupils went on to earn less than others with the same level qualification",
+      "h4": "Independent school pupils generally have the highest earnings for any qualification level",
+      "h5": "Download the data",
+      "text": "Comparing free school meals students with non-free school meals state-educated students, the largest earnings gap is at level 4 (for example, HNC). At this level, non-free school meals students earned on average 1.3 times more than those who had been on free school meals."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Educational KS4 attainment does not close the earnings gap",
+      "h4": null,
+      "h5": null,
+      "text": "Educational KS4 attainment does not close the earnings gap"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Educational KS4 attainment does not close the earnings gap",
+      "h4": null,
+      "h5": null,
+      "text": "How well individuals do at each level of education can also affect their earnings later in life, but this alone does not close the earnings gap between students of different backgrounds."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Educational KS4 attainment does not close the earnings gap",
+      "h4": null,
+      "h5": null,
+      "text": "Those with higher KS4 attainment (GCSE level) had higher earnings in all groups, that is, for students on free school meals, state-educated students not on free school meals and independent school students."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Educational KS4 attainment does not close the earnings gap",
+      "h4": null,
+      "h5": null,
+      "text": "As the gap in earnings widens over time between these groups, particularly at a typical university leaving age of 22 years, educational attainment at KS4 does not account for differences in future earnings. The low earnings among independent school students up to age 22 years is probably a result of these students being more likely to go on to university and enter the workplace full-time much later."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Educational KS4 attainment does not close the earnings gap",
+      "h4": null,
+      "h5": null,
+      "text": "An independent school student who was in the bottom 20% nationally for GCSE attainment earned an average of around £22,000 at age 30 years. An individual who was from an income-deprived background and on free school meals would typically have to be in the top 40% nationally for KS4 attainment to have similar earnings aged 30 years."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Educational KS4 attainment does not close the earnings gap",
+      "h4": "Top performing free school meals students earn similarly to average independent school pupils",
+      "h5": null,
+      "text": "Top performing free school meals students earn similarly to average independent school pupils"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Educational KS4 attainment does not close the earnings gap",
+      "h4": "Top performing free school meals students earn similarly to average independent school pupils",
+      "h5": "Age-earnings profile by key stage 4 (KS4) attainment, mean annual Pay As You Earn (PAYE) earnings, April 2019 prices",
+      "text": "Age-earnings profile by key stage 4 (KS4) attainment, mean annual Pay As You Earn (PAYE) earnings, April 2019 prices"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Educational KS4 attainment does not close the earnings gap",
+      "h4": "Top performing free school meals students earn similarly to average independent school pupils",
+      "h5": "Age-earnings profile by key stage 4 (KS4) attainment, mean annual Pay As You Earn (PAYE) earnings, April 2019 prices",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Educational KS4 attainment does not close the earnings gap",
+      "h4": "Top performing free school meals students earn similarly to average independent school pupils",
+      "h5": "Age-earnings profile by key stage 4 (KS4) attainment, mean annual Pay As You Earn (PAYE) earnings, April 2019 prices",
+      "title": "Top performing free school meals students earn similarly to average independent school pupils",
+      "url": "/visualisations/dvc2083/Fig_5_Earnings_age_KS4/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Educational KS4 attainment does not close the earnings gap",
+      "h4": "Top performing free school meals students earn similarly to average independent school pupils",
+      "h5": "Note",
+      "text": "Note"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Educational KS4 attainment does not close the earnings gap",
+      "h4": "Top performing free school meals students earn similarly to average independent school pupils",
+      "h5": "Note",
+      "text": "Figures are only for people in employment and out of education aged 30."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Educational KS4 attainment does not close the earnings gap",
+      "h4": "Top performing free school meals students earn similarly to average independent school pupils",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Educational KS4 attainment does not close the earnings gap",
+      "h4": "Top performing free school meals students earn similarly to average independent school pupils",
+      "h5": "Download the data",
+      "text": "[.xlsx](/visualisations/dvc2083/Fig_5_Earnings_age_KS4/datadownload.xlsx)"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Exploring the earnings gap by looking at factors together",
+      "h4": null,
+      "h5": null,
+      "text": "Exploring the earnings gap by looking at factors together"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Exploring the earnings gap by looking at factors together",
+      "h4": null,
+      "h5": null,
+      "text": "We have seen that earnings aged 30 years vary by educational level and attainment, and that earnings differ for men and women."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Exploring the earnings gap by looking at factors together",
+      "h4": null,
+      "h5": null,
+      "text": "How much workplace experience someone has is also a factor in how much they earn. We can calculate labour market experience as how many years someone has worked from age 18 years, with a distinction for jobs that were below a full-time minimum wage, as these are less likely to help as much towards increasing future earnings. A student working part-time during the holidays is unlikely to gain the same career experience as someone employed full-time in professional work."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Exploring the earnings gap by looking at factors together",
+      "h4": null,
+      "h5": null,
+      "text": "To see whether earnings differences later in life can be explained by a combination of these factors, we made a statistical model that adjusted for those characteristics, as well as the region people lived in for secondary school and their ethnicity."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Exploring the earnings gap by looking at factors together",
+      "h4": null,
+      "h5": null,
+      "text": "While the raw earnings gap between free school meals students and their state-educated peers was mostly accounted for by these factors, the earnings gap between independently educated students and those eligible for free school meals was still sizable after adjustment, at around 20%."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Exploring the earnings gap by looking at factors together",
+      "h4": null,
+      "h5": null,
+      "text": "This means that, if a person who was eligible for free school meals as a child had had the same level of education, KS4 attainment, years of labour market experience, ethnicity, and went to secondary school in the same region as a person who attended an independent school, the model predicts that on average they would still earn around 20% less than that of an independent school student. That result was true for men and women."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Exploring the earnings gap by looking at factors together",
+      "h4": "Earnings gap only partly explained between free school meals students and the independently educated",
+      "h5": null,
+      "text": "Earnings gap only partly explained between free school meals students and the independently educated"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Exploring the earnings gap by looking at factors together",
+      "h4": "Earnings gap only partly explained between free school meals students and the independently educated",
+      "h5": "Raw and adjusted earnings gaps with free school meal recipients from average Pay As You Earn (PAYE) earnings at age 30 years, tax years ending 2017 to 2019",
+      "text": "Raw and adjusted earnings gaps with free school meal recipients from average Pay As You Earn (PAYE) earnings at age 30 years, tax years ending 2017 to 2019"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Exploring the earnings gap by looking at factors together",
+      "h4": "Earnings gap only partly explained between free school meals students and the independently educated",
+      "h5": "Raw and adjusted earnings gaps with free school meal recipients from average Pay As You Earn (PAYE) earnings at age 30 years, tax years ending 2017 to 2019",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Exploring the earnings gap by looking at factors together",
+      "h4": "Earnings gap only partly explained between free school meals students and the independently educated",
+      "h5": "Raw and adjusted earnings gaps with free school meal recipients from average Pay As You Earn (PAYE) earnings at age 30 years, tax years ending 2017 to 2019",
+      "title": "Earnings gap only partly explained between free school meals students and the independently educated",
+      "url": "/visualisations/dvc2083/Fig_6_Raw_adjusted_gaps/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Exploring the earnings gap by looking at factors together",
+      "h4": "Earnings gap only partly explained between free school meals students and the independently educated",
+      "h5": "Notes:",
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Exploring the earnings gap by looking at factors together",
+      "h4": "Earnings gap only partly explained between free school meals students and the independently educated",
+      "h5": "Notes:",
+      "text": "Figures are only for people in employment and out of education."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Exploring the earnings gap by looking at factors together",
+      "h4": "Earnings gap only partly explained between free school meals students and the independently educated",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Exploring the earnings gap by looking at factors together",
+      "h4": "Earnings gap only partly explained between free school meals students and the independently educated",
+      "h5": "Download the data",
+      "text": "[.xlsx](/visualisations/dvc2083/Fig_6_Raw_adjusted_gaps/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Exploring the earnings gap by looking at factors together",
+      "h4": "Earnings gap only partly explained between free school meals students and the independently educated",
+      "h5": "Download the data",
+      "text": "This unexplained gap in earnings might be further accounted for by occupation and industry, which are not included in the model because of a lack of data."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Education and years in work drive almost all of earnings gap",
+      "h4": null,
+      "h5": null,
+      "text": "Education and years in work drive almost all of earnings gap"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Education and years in work drive almost all of earnings gap",
+      "h4": null,
+      "h5": null,
+      "text": "The two most important factors in accounting for lower earnings among free school meals students are an individual’s education and labour market experience."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Education and years in work drive almost all of earnings gap",
+      "h4": null,
+      "h5": null,
+      "text": "In this second model we only compare people who were eligible for free school meals with all those who were not eligible for free school meals, be that at a state or independent school."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Education and years in work drive almost all of earnings gap",
+      "h4": null,
+      "h5": null,
+      "text": "We found 95% of the earnings gap between free school meals group and the non-free school meals group is accounted for, mostly by both education and labour market experience."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Education and years in work drive almost all of earnings gap",
+      "h4": null,
+      "h5": null,
+      "text": "Labour market experience differences accounted for 56% of the earnings gap. That means that, if a free school meal student had the same labour market experience as a non-free school meal student, the earnings gap aged 30 years between those two individuals would typically halve."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Education and years in work drive almost all of earnings gap",
+      "h4": null,
+      "h5": null,
+      "text": "Education here means both an individual’s highest qualification level and secondary school attainment. Education accounted for 42% of the earnings gap between the two groups."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Education and years in work drive almost all of earnings gap",
+      "h4": "Experience in work and education explain most of the earnings gap between free school meals recipients and other students",
+      "h5": null,
+      "text": "Experience in work and education explain most of the earnings gap between free school meals recipients and other students"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Education and years in work drive almost all of earnings gap",
+      "h4": "Experience in work and education explain most of the earnings gap between free school meals recipients and other students",
+      "h5": "Explained difference in the mean of log annual earnings from Pay As You Earn (PAYE) at age 30 years, tax years ending 2017 to 2019",
+      "text": "Explained difference in the mean of log annual earnings from Pay As You Earn (PAYE) at age 30 years, tax years ending 2017 to 2019"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Education and years in work drive almost all of earnings gap",
+      "h4": "Experience in work and education explain most of the earnings gap between free school meals recipients and other students",
+      "h5": "Explained difference in the mean of log annual earnings from Pay As You Earn (PAYE) at age 30 years, tax years ending 2017 to 2019",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Education and years in work drive almost all of earnings gap",
+      "h4": "Experience in work and education explain most of the earnings gap between free school meals recipients and other students",
+      "h5": "Explained difference in the mean of log annual earnings from Pay As You Earn (PAYE) at age 30 years, tax years ending 2017 to 2019",
+      "title": "Experience in work and education explain most of the earnings gap between free school meals recipients and other students, PAYE at age 30",
+      "url": "/visualisations/dvc2083/Fig_7_Decomposition/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Education and years in work drive almost all of earnings gap",
+      "h4": "Experience in work and education explain most of the earnings gap between free school meals recipients and other students",
+      "h5": "Note",
+      "text": "Note"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Education and years in work drive almost all of earnings gap",
+      "h4": "Experience in work and education explain most of the earnings gap between free school meals recipients and other students",
+      "h5": "Note",
+      "text": "Figures are only for people in employment and out of education."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Education and years in work drive almost all of earnings gap",
+      "h4": "Experience in work and education explain most of the earnings gap between free school meals recipients and other students",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Education and years in work drive almost all of earnings gap",
+      "h4": "Experience in work and education explain most of the earnings gap between free school meals recipients and other students",
+      "h5": "Download the data",
+      "text": "[.xlsx](/visualisations/dvc2083/Fig_7_Decomposition/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Education and years in work drive almost all of earnings gap",
+      "h4": "Experience in work and education explain most of the earnings gap between free school meals recipients and other students",
+      "h5": "Download the data",
+      "text": "Around 5% of the difference in earnings between disadvantaged students and their peers remains unexplained."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Education and years in work drive almost all of earnings gap",
+      "h4": "Experience in work and education explain most of the earnings gap between free school meals recipients and other students",
+      "h5": "Download the data",
+      "text": "It may be that gaining the same education and workplace experience simply does not give people from an income-deprived background the same earnings as their peers."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Education and years in work drive almost all of earnings gap",
+      "h4": "Experience in work and education explain most of the earnings gap between free school meals recipients and other students",
+      "h5": "Download the data",
+      "text": "This is often taken to be an estimate of direct discrimination (unequal pay for equally qualified workers), but there are other things we cannot measure, such as competitiveness or risk aversion. We have also not looked at occupational differences."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Education and years in work drive almost all of earnings gap",
+      "h4": "Experience in work and education explain most of the earnings gap between free school meals recipients and other students",
+      "h5": "Download the data",
+      "text": "Very small differences in earnings were attributable to ethnicity, gender, and the region a person lived in when they attended secondary school. That is not to say that there are not notable differences in earnings depending on ethnicity or gender, rather that these factors do not drive the gap between free school meals recipients and their counterparts. Links to our analysis on gender and ethnicity pay gaps follow."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "About this article",
+      "h4": null,
+      "h5": null,
+      "text": "About this article"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "About this article",
+      "h4": null,
+      "h5": null,
+      "text": "Analysis in this article is based on the [Longitudinal Educational Outcomes (LEO) dataset](https://www.gov.uk/guidance/apply-to-access-the-longitudinal-education-outcomes-leo-dataset). This is an administrative source that connects individuals’ education data with their employment, benefits and earnings data. All records are anonymised. Only accredited researchers can apply to access LEO data."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "About this article",
+      "h4": null,
+      "h5": null,
+      "text": "[Our methodology paper](https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/methodologies/understandingthefreeschoolmealsearningsgapmethodology) gives more detail on definitions for the categories mentioned in this article as well as a technical description of the statistical models used."
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": "About this article",
+      "h4": null,
+      "h5": null,
+      "box_h2": "Related",
+      "box_h3": null,
+      "box_text": "Article | Released on 25 January 2022\n\nExamining earnings outcomes relative to the Living Wage for those aged 25 years who received free school meals. This article explores demographic and geographic factors, the next release will explore educational factors.\n\nStatistical bulletin | Released on 23 October 2025\n\nDifferences in pay between women and men by age, region, full-time and part-time, and occupation.\n\nArticle | Released on 29 November 2023\n\nEarnings statistics for different ethnic groups, using regression analysis to provide more insight into factors that affect pay, using data from the Annual Population Survey over the time period 2012 to 2022. The 5-category ethnicity breakdown provides comparable estimates across the UK, while the more granular 18-category ethnicity breakdown is only available for England and Wales.",
+      "box_items": [
+        "[Education, social mobility and outcomes for students receiving free school meals in England](/peoplepopulationandcommunity/educationandchildcare/articles/educationsocialmobilityandoutcomesforstudentsreceivingfreeschoolmealsinengland/initialfindingsonearningsoutcomesbydemographicandregionalfactors) Article | Released on 25 January 2022 Examining earnings outcomes relative to the Living Wage for those aged 25 years who received free school meals. This article explores demographic and geographic factors, the next release will explore educational factors.",
+        "[Gender pay gap in the UK](/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/genderpaygapintheuk/2025) Statistical bulletin | Released on 23 October 2025 Differences in pay between women and men by age, region, full-time and part-time, and occupation.",
+        "[Ethnicity pay gaps, UK](/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/ethnicitypaygapsingreatbritain/2012to2022) Article | Released on 29 November 2023 Earnings statistics for different ethnic groups, using regression analysis to provide more insight into factors that affect pay, using data from the Annual Population Survey over the time period 2012 to 2022. The 5-category ethnicity breakdown provides comparable estimates across the UK, while the more granular 18-category ethnicity breakdown is only available for England and Wales."
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": "About this article",
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "James Tierney and Holly Bathgate\n[integrated.data.analysis@ons.gov.uk](mailto:integrated.data.analysis@ons.gov.uk)\n Telephone: +44 345 601 3034",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:46:51.309335"
+}

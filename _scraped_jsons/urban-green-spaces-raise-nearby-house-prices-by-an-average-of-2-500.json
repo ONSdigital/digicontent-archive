@@ -1,0 +1,353 @@
+{
+  "url": "https://www.ons.gov.uk/economy/environmentalaccounts/articles/urbangreenspacesraisenearbyhousepricesbyanaverageof2500/2019-10-14",
+  "title": "Urban green spaces raise nearby house prices by an average of £2,500",
+  "meta_description": "Urban properties close to public parks, gardens and playing fields are more expensive, analysis reveals.  Explore your area to see how much green space adds to the value of your property.",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "Economy",
+      "href": "https://www.ons.gov.uk/economy"
+    },
+    {
+      "text": "Environmental accounts",
+      "href": "https://www.ons.gov.uk/economy/environmentalaccounts"
+    },
+    {
+      "text": "Urban green spaces raise nearby house prices by an average of £2,500",
+      "href": null
+    }
+  ],
+  "date_published": "2019-10-13T23:00:00.000Z",
+  "date_modified": "2019-10-13T23:00:00.000Z",
+  "lede": "Urban properties close to public parks, gardens and playing fields are more expensive, analysis reveals. Explore your area to see how much green space adds to the value of your property.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "14 October 2019"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Homes close to parks, gardens, playing fields and other publicly accessible green spaces in urban areas of England and Wales are more expensive than they would be if they were further away, Office for National Statistics (ONS) analysis reveals."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Houses and flats within 100 metres of public green spaces are an average of £2,500 more expensive than they would be if they were more than 500 metres away – an average premium of 1.1% in 2016."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We looked at the details of more than one million property sales in England and Wales between 2009 and 2016 from property website Zoopla (with permission) to [estimate how much homebuyers value nearby green space](https://www.ons.gov.uk/economy/environmentalaccounts/articles/valuinggreenspacesinurbanareas/ahedonicpriceapproachusingmachinelearningtechniques)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Our analysis uses Ordnance Survey's [Open Greenspace](https://www.ordnancesurvey.co.uk/business-government/products/open-map-greenspace) data, gathered using maps and aerial imagery. Public parks or gardens, play spaces, playing fields, sports facilities, golf courses, allotments or community growing spaces, and religious grounds and cemeteries are included – but woodlands, heaths and other open spaces that people might use for recreation are not."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We found that properties very near public green spaces attracted a premium, and the more green space nearby, the higher that premium is."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": null,
+      "h4": "The closer the green space, and the more there is, the higher the premium",
+      "h5": null,
+      "text": "The closer the green space, and the more there is, the higher the premium"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "The closer the green space, and the more there is, the higher the premium",
+      "h5": null,
+      "text": "Property price premium by distance from nearest publicly accessible green space and total amount of public green space accessible within 500 metres"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "The closer the green space, and the more there is, the higher the premium",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": "The closer the green space, and the more there is, the higher the premium",
+      "h5": null,
+      "title": "The closer the green space, and the more there is, the higher the premium Property price premium by distance from nearest publicly accessible green space and total amount of public green space accessible within 500 metres",
+      "url": "/visualisations/dvc691/line/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "The closer the green space, and the more there is, the higher the premium",
+      "h5": null,
+      "text": "[Download the data](/visualisations/dvc691/line/datadownload.csv)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "The closer the green space, and the more there is, the higher the premium",
+      "h5": null,
+      "text": "To make sure our estimates compared like with like, the analysis took account of characteristics including:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": "The closer the green space, and the more there is, the higher the premium",
+      "h5": null,
+      "text": "type of property (for example detached, bungalow, flat)"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": "The closer the green space, and the more there is, the higher the premium",
+      "h5": null,
+      "text": "number of bedrooms"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": "The closer the green space, and the more there is, the higher the premium",
+      "h5": null,
+      "text": "area of home and garden"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": "The closer the green space, and the more there is, the higher the premium",
+      "h5": null,
+      "text": "property period (for example, Victorian)"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": "The closer the green space, and the more there is, the higher the premium",
+      "h5": null,
+      "text": "recent renovation and presence of original features"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "The closer the green space, and the more there is, the higher the premium",
+      "h5": null,
+      "text": "We also allowed for the effects of:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": "The closer the green space, and the more there is, the higher the premium",
+      "h5": null,
+      "text": "distance to transport facilities like railway stations and bus stops"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": "The closer the green space, and the more there is, the higher the premium",
+      "h5": null,
+      "text": "distance to retail areas and workplaces"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": "The closer the green space, and the more there is, the higher the premium",
+      "h5": null,
+      "text": "distance to nearby schools, and the inspection ratings of schools"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": "The closer the green space, and the more there is, the higher the premium",
+      "h5": null,
+      "text": "air and noise pollution levels"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": "The closer the green space, and the more there is, the higher the premium",
+      "h5": null,
+      "text": "socio-economic classification of area"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "The closer the green space, and the more there is, the higher the premium",
+      "h5": null,
+      "text": "To find out more about how we did our analysis, read [our methodology article](https://www.ons.gov.uk/economy/environmentalaccounts/articles/valuinggreenspacesinurbanareas/ahedonicpriceapproachusingmachinelearningtechniques)."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Greatest premium paid for detached houses",
+      "h4": null,
+      "h5": null,
+      "text": "Greatest premium paid for detached houses"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Greatest premium paid for detached houses",
+      "h4": null,
+      "h5": null,
+      "text": "Public green space boosts the prices of detached houses the most. These homes attract a 1.9% premium if they are within 100 metres of a public green space, but flats near green spaces are only 0.6% more expensive than those further away."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Greatest premium paid for detached houses",
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "chartbuilder",
+      "h2": null,
+      "h3": "Greatest premium paid for detached houses",
+      "h4": null,
+      "h5": null,
+      "chartbuilder_h3": "Detached houses attract the biggest premium, flats the smallest",
+      "chartbuilder_h4": "Estimated premium for properties within 100 metres of publicly accessible green space compared with properties more than 500 metres away, by property type",
+      "data_uri": "https://www.ons.gov.uk/economy/environmentalaccounts/articles/urbangreenspacesraisenearbyhousepricesbyanaverageof2500/2019-10-14/324996b6",
+      "src": "/_scraped_chartbuilder_imgs/324996b6.png",
+      "local_filename": "324996b6.png"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Having a view of green space or water boosts prices even more",
+      "h4": null,
+      "h5": null,
+      "text": "Having a view of green space or water boosts prices even more"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Having a view of green space or water boosts prices even more",
+      "h4": null,
+      "h5": null,
+      "text": "Homebuyers value being near to green spaces – probably because they can use them for leisure activities like dog walking, sport and exercise. But having a view of green space or water raises house prices even more."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Having a view of green space or water boosts prices even more",
+      "h4": null,
+      "h5": null,
+      "text": "Using the property descriptions, and connecting words like “outlook”, “views” and “surrounded”, we identified urban houses and flats with views of green spaces – like parks and playing fields – or water, such as rivers, canals, lakes or the sea."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Having a view of green space or water boosts prices even more",
+      "h4": null,
+      "h5": null,
+      "text": "In 2016, having a view over a green space or water boosted house prices by an extra 1.8% – an average of £4,600."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Urban green spaces and house prices near you",
+      "h4": null,
+      "h5": null,
+      "text": "Urban green spaces and house prices near you"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Urban green spaces and house prices near you",
+      "h4": null,
+      "h5": null,
+      "text": "Use our interactive tool to find out the difference that public green spaces make to house prices near you. This tool works for urban areas in England and Wales."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Urban green spaces and house prices near you",
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Urban green spaces and house prices near you",
+      "h4": null,
+      "h5": null,
+      "title": "Access to green spaces and urban house prices",
+      "url": "/visualisations/dvc691/index.html"
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": "Urban green spaces and house prices near you",
+      "h4": null,
+      "h5": null,
+      "box_h2": "Related",
+      "box_h3": null,
+      "box_text": "Article | Released on 14 October 2019\n\nEstimation of the value of recreational and aesthetic services provided by green and blue spaces in urban areas in Great Britain, capitalised into property prices.\n\nStatistical bulletin | Released on 8 August 2019\n\nNatural capital accounts containing information about green space in urban areas.\n\nStatistical bulletin | Released on 14 February 2024\n\nMonthly house price inflation in the UK, calculated using data from HM Land Registry, Registers of Scotland, and Land and Property Services Northern Ireland.",
+      "box_items": [
+        "[Valuing green spaces in urban areas](/economy/environmentalaccounts/articles/valuinggreenspacesinurbanareas/ahedonicpriceapproachusingmachinelearningtechniques) Article | Released on 14 October 2019 Estimation of the value of recreational and aesthetic services provided by green and blue spaces in urban areas in Great Britain, capitalised into property prices.",
+        "[UK natural capital](/economy/environmentalaccounts/bulletins/uknaturalcapital/urbanaccounts) Statistical bulletin | Released on 8 August 2019 Natural capital accounts containing information about green space in urban areas.",
+        "[UK House Price Index](/economy/inflationandpriceindices/bulletins/housepriceindex/december2023) Statistical bulletin | Released on 14 February 2024 Monthly house price inflation in the UK, calculated using data from HM Land Registry, Registers of Scotland, and Land and Property Services Northern Ireland."
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": "Urban green spaces and house prices near you",
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "Natural Capital team\n[natural.capital.team@ons.gov.uk](mailto:natural.capital.team@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:47:01.424486"
+}

@@ -1,0 +1,118 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/visualisingyourconstituency/2015-03-26",
+  "title": "Visualising your constituency",
+  "meta_description": null,
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Housing",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing"
+    },
+    {
+      "text": "Visualising your constituency",
+      "href": null
+    }
+  ],
+  "date_published": "2015-03-26T12:01:55.000Z",
+  "date_modified": "2015-03-26T12:01:55.000Z",
+  "lede": null,
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "26 March 2015"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The various parliamentary constituencies – all 650 of them – that combine to form the UK are often very different, diverse places. For instance, did you know:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Kensington boasted both the highest average house price (£980,000) in England, Wales and Northern Ireland and the UK's highest average weekly wage (£848)?"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "89% of West Aberdeenshire and Kincardine residents stated that they were in good health, compared to 71% in the Rhondda?"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Our interactive [cartogram](http://en.wikipedia.org/wiki/Cartogram) visualises the constituencies as hexagons – making it simpler to see patterns in the data. Uncover and share your own stories."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "Hexagon map",
+      "url": "/visualisations/nesscontent/dvc237/hex.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Download the data.](/visualisations//visual/2015/03/UK-constituency-data.csv)"
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "You might also be interested in",
+      "box_h3": null,
+      "box_text": "",
+      "box_items": [
+        "[Introducing UK Perspectives](https://visual.ons.gov.uk/uk-perspectives-an-introduction/)"
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[digitalcontent@ons.gov.uk](mailto:digitalcontent@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:47:20.751486"
+}

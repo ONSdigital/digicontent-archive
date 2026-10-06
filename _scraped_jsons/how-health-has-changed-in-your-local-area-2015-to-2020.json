@@ -1,0 +1,181 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/articles/howhealthhaschangedinyourlocalarea2015to2020/2022-11-09",
+  "title": "How health has changed in your local area: 2015 to 2020",
+  "meta_description": "Use our interactive tool to explore how health changed in each local authority area across England from 2015 to 2020, the first year affected by the coronavirus pandemic.",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Health and social care",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare"
+    },
+    {
+      "text": "Health and well-being",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing"
+    },
+    {
+      "text": "How health has changed in your local area: 2015 to 2020",
+      "href": null
+    }
+  ],
+  "date_published": "2022-11-09T00:00:00.000Z",
+  "date_modified": "2022-11-09T00:00:00.000Z",
+  "lede": "Use our interactive tool to explore how health changed in each local authority area across England between 2015 and 2020, according to the Health Index.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "9 November 2022"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "This is not the latest release. [View our updated edition of this page with 2021 data](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/articles/howhealthhaschangedinyourarea2015to2021/2023-06-16). The new release of this tool also includes some revised Health Index figures for the years 2015 to 2020. This means figures may differ between the publications.",
+      "box_items": null
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The start of the coronavirus (COVID-19) pandemic caused widespread changes to health in England. This included a worsening of personal well-being, mortality, mental health, and economic and working conditions, but also some improvements such as reduced air pollution and crime."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We have created an index that gives every local area in England an overall health score for each of the past six years. This overall score is made up of measures in different categories, called domains and subdomains. These measures include physical and mental health conditions like diabetes or anxiety, local unemployment, road safety, and behaviours like healthy eating."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This score can show whether health in a local area is improving. The Health Index score has a baseline of 100, which represents England’s health in 2015. A score higher than 100 means that an area has better health for that measure than was average in 2015, lower than 100 means worse health than the 2015 average."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "For more information on trends in England as a whole see [our main bulletin on the Health Index](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/healthinengland/2015to2020). For further details on your local authority, see our [subnational indicators explorer](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/articles/subnationalindicatorsexplorer/2022-01-06)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "Health Index Interactive",
+      "url": "/visualisations/dvchealth2/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Download Health Index data across local authority areas in England (XLSX, 980KB)](/visualisations/dvchealth2/datadownload.xlsx)"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "About the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "About the data"
+    },
+    {
+      "type": "p",
+      "h2": "About the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This interactive tool is based on data from the Health Index. Since our release in March 2022, some scores for the years 2015 to 2019 have been revised under [an updated methodology](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/methodologies/healthindexmethodsanddevelopment2015to2019). This means figures may not match [our previous edition of this localised tool](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/articles/howhealthhaschangedinyourlocalarea/2022-03-18)."
+    },
+    {
+      "type": "p",
+      "h2": "About the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Please note there may appear to be small inconsistencies in the percentages in this article due to the effects of rounding."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Related links"
+    },
+    {
+      "type": "p",
+      "h2": "Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": "Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "[Health in England: 2015 to 2020](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/healthinengland/2015to2020) \nBulletin | Released 9 November 2022 \nInsights into England’s health in the earlier stages of the coronavirus (COVID-19) pandemic at national, regional and local authority level, using the Health Index.\n\n[Health Index contents and definitions](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/methodologies/healthindexindicatorsanddefinitions) \nMethodology | Released 9 November 2022 \nDescriptions of the indicators used to create the Health Index for England, which measures the health of the nation.\n\n[Health Index methods and development: 2015 to 2020](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/methodologies/healthindexmethodsanddevelopment2015to2019) \nMethodology | Released 9 November 2022 \nThe Health Index is a tool which measures a broad variety of health outcomes and risk factors over time, and for different geographic areas. This methodology article explains how we have constructed the Health Index.\n\n",
+      "box_items": null
+    },
+    {
+      "type": "box",
+      "h2": "Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[health.data@ons.gov.uk](mailto:health.data@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:46:41.07902"
+}

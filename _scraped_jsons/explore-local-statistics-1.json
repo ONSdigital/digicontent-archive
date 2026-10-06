@@ -1,0 +1,161 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/articles/subnationalindicatorsexplorer/2022-01-06",
+  "title": "Explore local statistics [-1]",
+  "meta_description": "Find, compare and visualise statistics about communities in the United Kingdom. Includes data on population, economy and health.",
+  "breadcrumb": null,
+  "date_published": null,
+  "date_modified": null,
+  "lede": null,
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Find, compare and visualise statistics about places in the United Kingdom."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Find an area",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Find an area"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Local indicators",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Local indicators"
+    },
+    {
+      "type": "p",
+      "h2": "Local indicators",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Explore 111 indicators, including [household income](./indicators/gross-disposable-household-income-per-head), [further education participation](./indicators/further-education-skills-participation) and [life satisfaction](./indicators/wellbeing-satisfaction)."
+    },
+    {
+      "type": "p",
+      "h2": "Local indicators",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "You can also start your search from [England](./areas/E92000001-england), [Wales](./areas/W92000004-wales), [Scotland](./areas/S92000003-scotland) or [Northern Ireland](./areas/N92000002-northern-ireland)."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Other sources of local statistics",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Other sources of local statistics"
+    },
+    {
+      "type": "p",
+      "h2": "Other sources of local statistics",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Wales, Scotland and Northern Ireland also have their own producers of official statistics (links open in a new tab)."
+    },
+    {
+      "type": "li",
+      "h2": "Other sources of local statistics",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[StatsWales(opens in a new tab)](https://stats.gov.wales)"
+    },
+    {
+      "type": "li",
+      "h2": "Other sources of local statistics",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Statistics.gov.scot(opens in a new tab)](https://statistics.gov.scot/home)"
+    },
+    {
+      "type": "li",
+      "h2": "Other sources of local statistics",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Northern Ireland Statistics and Research Agency(opens in a new tab)](https://data.nisra.gov.uk/)"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Get the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Get the data"
+    },
+    {
+      "type": "p",
+      "h2": "Get the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "You can download all of the data available on the Explore Local Statistics service in an [XLSX](./files/all-datasets.xlsx), [CSV](./files/all-datasets.csv), [CSVW](./files/all-datasets.csv-metadata.json) or [JSON-Stat](./files/json-stat.json) format."
+    },
+    {
+      "type": "p",
+      "h2": "Get the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Information on the strengths and limitations of the Explore Local Statistics service and methods used is available in the [quality and methodology information (QMI) report](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/methodologies/explorelocalstatisticsserviceqmi)."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "About these pages",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "About these pages"
+    },
+    {
+      "type": "p",
+      "h2": "About these pages",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "These pages are part of the Explore Subnational Statistics (ESS) service."
+    },
+    {
+      "type": "p",
+      "h2": "About these pages",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The vision for the ESS service was launched in the [Government Statistical Service (GSS) subnational data strategy(opens in a new tab)](https://analysisfunction.civilservice.gov.uk/policy-store/gss-subnational-data-strategy/), which provides a framework to guide the GSS in producing and disseminating subnational statistics in a more timely, granular and harmonised way."
+    },
+    {
+      "type": "p",
+      "h2": "About these pages",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The ESS service aims to provide one place for users to find, visualise, compare and download subnational statistics by standardised geographies and customer-defined areas."
+    },
+    {
+      "type": "p",
+      "h2": "About these pages",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We value your feedback on these statistics. If you would like to get in touch, please email [explore.local.statistics@ons.gov.uk](mailto:explore.local.statistics@ons.gov.uk)."
+    }
+  ],
+  "scraped_at": "2026-09-22 11:47:10.414285"
+}

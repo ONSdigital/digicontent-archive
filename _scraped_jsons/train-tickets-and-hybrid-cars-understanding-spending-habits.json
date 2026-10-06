@@ -1,0 +1,888 @@
+{
+  "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/articles/trainticketsandhybridcarsunderstandingspendinghabits/2024-08-06",
+  "title": "Train tickets and hybrid cars: understanding spending habits",
+  "meta_description": "An article exploring trends in train ticket sales and second-hand car sales using new data",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "Economy",
+      "href": "https://www.ons.gov.uk/economy"
+    },
+    {
+      "text": "Inflation and price indices",
+      "href": "https://www.ons.gov.uk/economy/inflationandpriceindices"
+    },
+    {
+      "text": "Train tickets and hybrid cars: understanding spending habits",
+      "href": null
+    }
+  ],
+  "date_published": "2024-08-05T23:00:00.000Z",
+  "date_modified": "2024-08-05T23:00:00.000Z",
+  "lede": "New data shows the effect of strikes on train ticket sales, and the most popular second-hand cars in Great Britain",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "6 August 2024"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "From scanners at supermarket tills to ticket offices at railway stations, new data on everyday costs are improving our understanding of how prices are changing over time."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "It is crucial to measure price changes as precisely as possible, because accurate measures of inflation are playing an increasingly vital role in business, government, and everyday life."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We are working with several new data sources to produce improved and more detailed inflation data. These include:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Transactional data on rail fares from Rail Delivery Group."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Web-provided data on second-hand cars from [Auto Trader](https://www.autotrader.co.uk/)"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Microdata level rental data"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Grocery retail scanner data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Data from these sources (including [40 million monthly rail fares](/economy/inflationandpriceindices/articles/usingtransactionlevelrailfaresdatatotransformconsumerpricestatisticsuk/2022-06-28) transactions from Rail Delivery Group and 300,000 monthly second-hand car sales from Auto Trader) have already improved our [Consumer price statistics.](/economy/inflationandpriceindices/bulletins/consumerpriceinflation/latest)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We have been working with several grocery retailers to gather scanner data, covering approximately 50% of the UK grocery market share. We hope to introduce this to our Consumer price statistics from March 2025."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Meanwhile, our [transformed private rental data](/economy/inflationandpriceindices/bulletins/privaterentandhousepricesuk/latest) provide greater detail in rental statistics and are more responsive to market changes."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "As well as providing information on prices, these alternative data sources contain a wealth of other insights, including expenditure data."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Rail ticket sales drop during strikes and storms",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Rail ticket sales drop during strikes and storms"
+    },
+    {
+      "type": "p",
+      "h2": "Rail ticket sales drop during strikes and storms",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We now have access to millions of rail fare transactions in Great Britain dating back to January 2019, from the rail industry’s Rail Delivery Group. Before March 2023 we collected one data point per year, while we now use around 40 million per month (in a typical year)."
+    },
+    {
+      "type": "p",
+      "h2": "Rail ticket sales drop during strikes and storms",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "From these daily transactions we can see the effect of major events on the number of rail tickets sold."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Rail ticket sales drop during strikes and storms",
+      "h3": null,
+      "h4": "Bad weather and strikes can affect the number of train tickets bought",
+      "h5": null,
+      "text": "Bad weather and strikes can affect the number of train tickets bought"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Rail ticket sales drop during strikes and storms",
+      "h3": null,
+      "h4": "Bad weather and strikes can affect the number of train tickets bought",
+      "h5": "Date of travel, number of daily rail fare tickets, Great Britain, January 2020 to June 2024",
+      "text": "Date of travel, number of daily rail fare tickets, Great Britain, January 2020 to June 2024"
+    },
+    {
+      "type": "p",
+      "h2": "Rail ticket sales drop during strikes and storms",
+      "h3": null,
+      "h4": "Bad weather and strikes can affect the number of train tickets bought",
+      "h5": "Date of travel, number of daily rail fare tickets, Great Britain, January 2020 to June 2024",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Rail ticket sales drop during strikes and storms",
+      "h3": null,
+      "h4": "Bad weather and strikes can affect the number of train tickets bought",
+      "h5": "Date of travel, number of daily rail fare tickets, Great Britain, January 2020 to June 2024",
+      "title": "Figure 1",
+      "url": "/visualisations/dvc2895/fig-1-line/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "Rail ticket sales drop during strikes and storms",
+      "h3": null,
+      "h4": "Bad weather and strikes can affect the number of train tickets bought",
+      "h5": "Date of travel, number of daily rail fare tickets, Great Britain, January 2020 to June 2024",
+      "text": "[](/visualisations/dvc2895/fig-1-line/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "Rail ticket sales drop during strikes and storms",
+      "h3": null,
+      "h4": "Bad weather and strikes can affect the number of train tickets bought",
+      "h5": "Date of travel, number of daily rail fare tickets, Great Britain, January 2020 to June 2024",
+      "text": "Download the data for numbers of daily train tickets sold [XLSX, 63KB]"
+    },
+    {
+      "type": "p",
+      "h2": "Rail ticket sales drop during strikes and storms",
+      "h3": null,
+      "h4": "Bad weather and strikes can affect the number of train tickets bought",
+      "h5": "Date of travel, number of daily rail fare tickets, Great Britain, January 2020 to June 2024",
+      "text": "The number of daily tickets sold was far lower during the period of restricted movement during the coronavirus (COVID-19) pandemic, as well as on Christmas Day."
+    },
+    {
+      "type": "p",
+      "h2": "Rail ticket sales drop during strikes and storms",
+      "h3": null,
+      "h4": "Bad weather and strikes can affect the number of train tickets bought",
+      "h5": "Date of travel, number of daily rail fare tickets, Great Britain, January 2020 to June 2024",
+      "text": "Strikes or extreme weather also affected the number of train tickets sold."
+    },
+    {
+      "type": "p",
+      "h2": "Rail ticket sales drop during strikes and storms",
+      "h3": null,
+      "h4": "Bad weather and strikes can affect the number of train tickets bought",
+      "h5": "Date of travel, number of daily rail fare tickets, Great Britain, January 2020 to June 2024",
+      "text": "On Thursday, 20 July and Saturday, 22 July 2023, the Associated Society of Locomotive Engineers and Firemen and National Union of Rail (ASLEF) and Maritime and Transport Workers (RMT) unions were on strike. This resulted in a drop of tickets sold on these days by 50% and 44% compared with the same days the week before."
+    },
+    {
+      "type": "p",
+      "h2": "Rail ticket sales drop during strikes and storms",
+      "h3": null,
+      "h4": "Bad weather and strikes can affect the number of train tickets bought",
+      "h5": "Date of travel, number of daily rail fare tickets, Great Britain, January 2020 to June 2024",
+      "text": "On the day of Storm Eunice, Friday, 18 February, 2022, there was a 54% fall in the number of train tickets sold, from 1,576,215 on the same day the week before to 720,070."
+    },
+    {
+      "type": "p",
+      "h2": "Rail ticket sales drop during strikes and storms",
+      "h3": null,
+      "h4": "Bad weather and strikes can affect the number of train tickets bought",
+      "h5": "Date of travel, number of daily rail fare tickets, Great Britain, January 2020 to June 2024",
+      "text": "These data are extremely detailed, including information on where people travel from and to, ticket class, ticket type and price. Using destination stations, we can see the impact large events have on passenger numbers at nearby stations."
+    },
+    {
+      "type": "p",
+      "h2": "Rail ticket sales drop during strikes and storms",
+      "h3": null,
+      "h4": "Bad weather and strikes can affect the number of train tickets bought",
+      "h5": "Date of travel, number of daily rail fare tickets, Great Britain, January 2020 to June 2024",
+      "text": "In the week of Glastonbury Festival in 2023, ticket sales shot up at Castle Cary, the nearest station to the event. In the week of 18 June 2023, there was a 663% increase in tickets sold, when compared with the average sold across 2023 excluding Glastonbury Festival."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Rail ticket sales drop during strikes and storms",
+      "h3": null,
+      "h4": "The nearest station to Glastonbury festival saw a 654% increase in tickets sold in the week of Glastonbury 2023",
+      "h5": null,
+      "text": "The nearest station to Glastonbury festival saw a 654% increase in tickets sold in the week of Glastonbury 2023"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Rail ticket sales drop during strikes and storms",
+      "h3": null,
+      "h4": "The nearest station to Glastonbury festival saw a 654% increase in tickets sold in the week of Glastonbury 2023",
+      "h5": "Percentage change of weekly rail fare tickets where the destination station was Castle Cary, Edinburgh Waverley or Abergavenny, compared to the median over the year for each station, Great Britain, January 2023 to December 2023",
+      "text": "Percentage change of weekly rail fare tickets where the destination station was Castle Cary, Edinburgh Waverley or Abergavenny, compared to the median over the year for each station, Great Britain, January 2023 to December 2023"
+    },
+    {
+      "type": "p",
+      "h2": "Rail ticket sales drop during strikes and storms",
+      "h3": null,
+      "h4": "The nearest station to Glastonbury festival saw a 654% increase in tickets sold in the week of Glastonbury 2023",
+      "h5": "Percentage change of weekly rail fare tickets where the destination station was Castle Cary, Edinburgh Waverley or Abergavenny, compared to the median over the year for each station, Great Britain, January 2023 to December 2023",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Rail ticket sales drop during strikes and storms",
+      "h3": null,
+      "h4": "The nearest station to Glastonbury festival saw a 654% increase in tickets sold in the week of Glastonbury 2023",
+      "h5": "Percentage change of weekly rail fare tickets where the destination station was Castle Cary, Edinburgh Waverley or Abergavenny, compared to the median over the year for each station, Great Britain, January 2023 to December 2023",
+      "title": "Figure 2",
+      "url": "/visualisations/dvc2895/fig-2/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Rail ticket sales drop during strikes and storms",
+      "h3": null,
+      "h4": "The nearest station to Glastonbury festival saw a 654% increase in tickets sold in the week of Glastonbury 2023",
+      "h5": "Notes:",
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": "Rail ticket sales drop during strikes and storms",
+      "h3": null,
+      "h4": "The nearest station to Glastonbury festival saw a 654% increase in tickets sold in the week of Glastonbury 2023",
+      "h5": "Notes:",
+      "text": "Data is grouped by week with the week beginning Sunday."
+    },
+    {
+      "type": "li",
+      "h2": "Rail ticket sales drop during strikes and storms",
+      "h3": null,
+      "h4": "The nearest station to Glastonbury festival saw a 654% increase in tickets sold in the week of Glastonbury 2023",
+      "h5": "Notes:",
+      "text": "The median over the year for each station includes the value from the week of the biggest event."
+    },
+    {
+      "type": "p",
+      "h2": "Rail ticket sales drop during strikes and storms",
+      "h3": null,
+      "h4": "The nearest station to Glastonbury festival saw a 654% increase in tickets sold in the week of Glastonbury 2023",
+      "h5": "Notes:",
+      "text": "[](/visualisations/dvc2895/fig-2/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "Rail ticket sales drop during strikes and storms",
+      "h3": null,
+      "h4": "The nearest station to Glastonbury festival saw a 654% increase in tickets sold in the week of Glastonbury 2023",
+      "h5": "Notes:",
+      "text": "Download the data for train tickets sold during UK festivals [XLSX, 21KB]"
+    },
+    {
+      "type": "p",
+      "h2": "Rail ticket sales drop during strikes and storms",
+      "h3": null,
+      "h4": "The nearest station to Glastonbury festival saw a 654% increase in tickets sold in the week of Glastonbury 2023",
+      "h5": "Notes:",
+      "text": "The effect of Glastonbury Festival on local rail sales was far larger compared with ticket sales data from stations near other festivals."
+    },
+    {
+      "type": "p",
+      "h2": "Rail ticket sales drop during strikes and storms",
+      "h3": null,
+      "h4": "The nearest station to Glastonbury festival saw a 654% increase in tickets sold in the week of Glastonbury 2023",
+      "h5": "Notes:",
+      "text": "At Edinburgh Waverley Station, ticket sales increased by 71% in the week of 6 August 2023, the first full week of the Edinburgh Fringe Festival."
+    },
+    {
+      "type": "p",
+      "h2": "Rail ticket sales drop during strikes and storms",
+      "h3": null,
+      "h4": "The nearest station to Glastonbury festival saw a 654% increase in tickets sold in the week of Glastonbury 2023",
+      "h5": "Notes:",
+      "text": "Meanwhile, at Abergavenny, the closest railway station to the Green Man Festival, ticket sales increased by 104% on average in the week of 13 August 2023."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Sales of second-hand hybrid cars are on the rise",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Sales of second-hand hybrid cars are on the rise"
+    },
+    {
+      "type": "p",
+      "h2": "Sales of second-hand hybrid cars are on the rise",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Second-hand sales data from Auto Trader provide information on an estimated 300,000 used car sales per month, dating back to 2018."
+    },
+    {
+      "type": "p",
+      "h2": "Sales of second-hand hybrid cars are on the rise",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We use this to produce our petrol and diesel second-hand car inflation indices. As well as the advertised price, they include information on vehicle manufacturer, colour and fuel type."
+    },
+    {
+      "type": "p",
+      "h2": "Sales of second-hand hybrid cars are on the rise",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We estimate that the number of second-hand hybrid cars sold increased by 59% from 2022 to 2023."
+    },
+    {
+      "type": "p",
+      "h2": "Sales of second-hand hybrid cars are on the rise",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The additional detail in this data helps us assess how representative the [consumer price basket](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/ukconsumerpriceinflationbasketofgoodsandservices/latest) is of the wider market. The “shopping basket” of items used to measure consumer price inflation changes each year to reflect consumer spending patterns."
+    },
+    {
+      "type": "p",
+      "h2": "Sales of second-hand hybrid cars are on the rise",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "While the price of new hybrid and electric vehicles are included in the consumer price basket, second-hand sales of these cars are not captured because of the relatively low amount of money currently spent on them."
+    },
+    {
+      "type": "p",
+      "h2": "Sales of second-hand hybrid cars are on the rise",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Most hybrid and electric cars in the UK are bought new, meaning there are relatively low numbers of second-hand sales, but these new data allow us to monitor trends and update our representative basket when spending hits the necessary threshold."
+    },
+    {
+      "type": "p",
+      "h2": "Sales of second-hand hybrid cars are on the rise",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "As the data are received daily, and a vehicle is listed for an average of 40 days before being sold, this still leaves multiple listings for each unique vehicle within the dataset."
+    },
+    {
+      "type": "p",
+      "h2": "Sales of second-hand hybrid cars are on the rise",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "To estimate the number of individual cars we use a four-day gap before considering a listing \"sold\" to produce our index. For more information see our [Using Auto Trader car listings data to transform consumer price statistics, UK](/economy/inflationandpriceindices/articles/usingautotradercarlistingsdatatotransformconsumerpricestatisticsuk/2022-06-28) release."
+    },
+    {
+      "type": "p",
+      "h2": "Sales of second-hand hybrid cars are on the rise",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "As these data are for advertised listings, they do not contain explicit sales revenue information."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Sales of second-hand hybrid cars are on the rise",
+      "h3": null,
+      "h4": "Petrol is still the most common fuel type among estimated second-hand sales",
+      "h5": null,
+      "text": "Petrol is still the most common fuel type among estimated second-hand sales"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Sales of second-hand hybrid cars are on the rise",
+      "h3": null,
+      "h4": "Petrol is still the most common fuel type among estimated second-hand sales",
+      "h5": "Estimated proportion of second-hand cars sold by fuel type, UK, June 2021 to June 2024",
+      "text": "Estimated proportion of second-hand cars sold by fuel type, UK, June 2021 to June 2024"
+    },
+    {
+      "type": "p",
+      "h2": "Sales of second-hand hybrid cars are on the rise",
+      "h3": null,
+      "h4": "Petrol is still the most common fuel type among estimated second-hand sales",
+      "h5": "Estimated proportion of second-hand cars sold by fuel type, UK, June 2021 to June 2024",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Sales of second-hand hybrid cars are on the rise",
+      "h3": null,
+      "h4": "Petrol is still the most common fuel type among estimated second-hand sales",
+      "h5": "Estimated proportion of second-hand cars sold by fuel type, UK, June 2021 to June 2024",
+      "title": "Figure 3",
+      "url": "/visualisations/dvc2895/fig-3/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Sales of second-hand hybrid cars are on the rise",
+      "h3": null,
+      "h4": "Petrol is still the most common fuel type among estimated second-hand sales",
+      "h5": "Notes:",
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": "Sales of second-hand hybrid cars are on the rise",
+      "h3": null,
+      "h4": "Petrol is still the most common fuel type among estimated second-hand sales",
+      "h5": "Notes:",
+      "text": "Excludes electric vehicles."
+    },
+    {
+      "type": "p",
+      "h2": "Sales of second-hand hybrid cars are on the rise",
+      "h3": null,
+      "h4": "Petrol is still the most common fuel type among estimated second-hand sales",
+      "h5": "Notes:",
+      "text": "[](/visualisations/dvc2895/fig-3/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "Sales of second-hand hybrid cars are on the rise",
+      "h3": null,
+      "h4": "Petrol is still the most common fuel type among estimated second-hand sales",
+      "h5": "Notes:",
+      "text": "Download the data for the proportion of petrol, diesel and hybrid car sales [XLSX, 17KB]"
+    },
+    {
+      "type": "p",
+      "h2": "Sales of second-hand hybrid cars are on the rise",
+      "h3": null,
+      "h4": "Petrol is still the most common fuel type among estimated second-hand sales",
+      "h5": "Notes:",
+      "text": "Meanwhile, black, grey and white were the most popular colours of second-hand cars sold in 2023."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Sales of second-hand hybrid cars are on the rise",
+      "h3": null,
+      "h4": "Other than grey scale colours, the most popular second hand cars of 2023 were blue, silver and red",
+      "h5": null,
+      "text": "Other than grey scale colours, the most popular second hand cars of 2023 were blue, silver and red"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Sales of second-hand hybrid cars are on the rise",
+      "h3": null,
+      "h4": "Other than grey scale colours, the most popular second hand cars of 2023 were blue, silver and red",
+      "h5": "Estimated percentage and number of second-hand cars sold, broken down by colour, UK, January 2023 to December 2023",
+      "text": "Estimated percentage and number of second-hand cars sold, broken down by colour, UK, January 2023 to December 2023"
+    },
+    {
+      "type": "p",
+      "h2": "Sales of second-hand hybrid cars are on the rise",
+      "h3": null,
+      "h4": "Other than grey scale colours, the most popular second hand cars of 2023 were blue, silver and red",
+      "h5": "Estimated percentage and number of second-hand cars sold, broken down by colour, UK, January 2023 to December 2023",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Sales of second-hand hybrid cars are on the rise",
+      "h3": null,
+      "h4": "Other than grey scale colours, the most popular second hand cars of 2023 were blue, silver and red",
+      "h5": "Estimated percentage and number of second-hand cars sold, broken down by colour, UK, January 2023 to December 2023",
+      "title": "Figure 4",
+      "url": "/visualisations/dvc2895/fig-4/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Sales of second-hand hybrid cars are on the rise",
+      "h3": null,
+      "h4": "Other than grey scale colours, the most popular second hand cars of 2023 were blue, silver and red",
+      "h5": "Notes:",
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": "Sales of second-hand hybrid cars are on the rise",
+      "h3": null,
+      "h4": "Other than grey scale colours, the most popular second hand cars of 2023 were blue, silver and red",
+      "h5": "Notes:",
+      "text": "Other in the second visualisation includes maroon, burgundy, magenta, navy and indigo."
+    },
+    {
+      "type": "p",
+      "h2": "Sales of second-hand hybrid cars are on the rise",
+      "h3": null,
+      "h4": "Other than grey scale colours, the most popular second hand cars of 2023 were blue, silver and red",
+      "h5": "Notes:",
+      "text": "[](/visualisations/dvc2895/fig-4/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "Sales of second-hand hybrid cars are on the rise",
+      "h3": null,
+      "h4": "Other than grey scale colours, the most popular second hand cars of 2023 were blue, silver and red",
+      "h5": "Notes:",
+      "text": "Download the data for used car sales by colour [XLSX, 19KB]"
+    },
+    {
+      "type": "p",
+      "h2": "Sales of second-hand hybrid cars are on the rise",
+      "h3": null,
+      "h4": "Other than grey scale colours, the most popular second hand cars of 2023 were blue, silver and red",
+      "h5": "Notes:",
+      "text": "Some of the least popular colours were pink and turquoise, with 3,000 of each estimated to be sold in 2023."
+    },
+    {
+      "type": "p",
+      "h2": "Sales of second-hand hybrid cars are on the rise",
+      "h3": null,
+      "h4": "Other than grey scale colours, the most popular second hand cars of 2023 were blue, silver and red",
+      "h5": "Notes:",
+      "text": "Beige, a colour often seen as being plain, was not popular among drivers, with an estimated 12,000 cars sold in that shade in 2023. More drivers were willing to be bold, with approximately 19,000 opting for a multicoloured car."
+    },
+    {
+      "type": "p",
+      "h2": "Sales of second-hand hybrid cars are on the rise",
+      "h3": null,
+      "h4": "Other than grey scale colours, the most popular second hand cars of 2023 were blue, silver and red",
+      "h5": "Notes:",
+      "text": "Gold may normally be linked with victory, but compared with the other medal colours, silver and bronze, it takes third place. Approximately 385,000 silver cars and 11,000 bronze cars were estimated to be sold, compared with 5,000 in gold."
+    },
+    {
+      "type": "p",
+      "h2": "Sales of second-hand hybrid cars are on the rise",
+      "h3": null,
+      "h4": "Other than grey scale colours, the most popular second hand cars of 2023 were blue, silver and red",
+      "h5": "Notes:",
+      "text": "And finally, in the battle of red versus blue, blue is the clear favourite among second-hand car drivers, with around 554,000 drivers choosing blue vehicles, compared with 362,000 choosing red."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "‘Newer’ is not always better when buying a second-hand car",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "‘Newer’ is not always better when buying a second-hand car"
+    },
+    {
+      "type": "p",
+      "h2": "‘Newer’ is not always better when buying a second-hand car",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The biggest appeal when buying a second-hand car is usually the cost. They are typically cheaper than a new model, but the trade-off is that the older a car gets, the more likely it is to have problems later on."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "‘Newer’ is not always better when buying a second-hand car",
+      "h3": null,
+      "h4": "Second-hand cars aged two to four years were most popular among UK drivers in 2023",
+      "h5": null,
+      "text": "Second-hand cars aged two to four years were most popular among UK drivers in 2023"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "‘Newer’ is not always better when buying a second-hand car",
+      "h3": null,
+      "h4": "Second-hand cars aged two to four years were most popular among UK drivers in 2023",
+      "h5": "Estimated number of second-hand cars sold, broken down by age in years, UK, January 2023 to December 2023",
+      "text": "Estimated number of second-hand cars sold, broken down by age in years, UK, January 2023 to December 2023"
+    },
+    {
+      "type": "p",
+      "h2": "‘Newer’ is not always better when buying a second-hand car",
+      "h3": null,
+      "h4": "Second-hand cars aged two to four years were most popular among UK drivers in 2023",
+      "h5": "Estimated number of second-hand cars sold, broken down by age in years, UK, January 2023 to December 2023",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "‘Newer’ is not always better when buying a second-hand car",
+      "h3": null,
+      "h4": "Second-hand cars aged two to four years were most popular among UK drivers in 2023",
+      "h5": "Estimated number of second-hand cars sold, broken down by age in years, UK, January 2023 to December 2023",
+      "title": "Figure 5",
+      "url": "/visualisations/dvc2895/fig-5-bar-age/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "‘Newer’ is not always better when buying a second-hand car",
+      "h3": null,
+      "h4": "Second-hand cars aged two to four years were most popular among UK drivers in 2023",
+      "h5": "Estimated number of second-hand cars sold, broken down by age in years, UK, January 2023 to December 2023",
+      "text": "[](/visualisations/dvc2895/fig-5-bar-age/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "‘Newer’ is not always better when buying a second-hand car",
+      "h3": null,
+      "h4": "Second-hand cars aged two to four years were most popular among UK drivers in 2023",
+      "h5": "Estimated number of second-hand cars sold, broken down by age in years, UK, January 2023 to December 2023",
+      "text": "Download the data for second-hand car sales by age [XLSX, 16KB]"
+    },
+    {
+      "type": "p",
+      "h2": "‘Newer’ is not always better when buying a second-hand car",
+      "h3": null,
+      "h4": "Second-hand cars aged two to four years were most popular among UK drivers in 2023",
+      "h5": "Estimated number of second-hand cars sold, broken down by age in years, UK, January 2023 to December 2023",
+      "text": "The sweet spot, according to the public, is two to four years old. In 2023, an estimated 905,000 cars were sold in that age bracket, making it the most popular age for second-hand cars."
+    },
+    {
+      "type": "p",
+      "h2": "‘Newer’ is not always better when buying a second-hand car",
+      "h3": null,
+      "h4": "Second-hand cars aged two to four years were most popular among UK drivers in 2023",
+      "h5": "Estimated number of second-hand cars sold, broken down by age in years, UK, January 2023 to December 2023",
+      "text": "The ‘newest’ second-hand cars were not amongst the most popular. An estimated 391,000 cars two years or younger were sold last year."
+    },
+    {
+      "type": "p",
+      "h2": "‘Newer’ is not always better when buying a second-hand car",
+      "h3": null,
+      "h4": "Second-hand cars aged two to four years were most popular among UK drivers in 2023",
+      "h5": "Estimated number of second-hand cars sold, broken down by age in years, UK, January 2023 to December 2023",
+      "text": "While newer cars are generally associated with greater quality, there are some exceptions to that rule. According to Auto Trader, approximately 23,000 cars that were aged 18 years or over were sold in 2023, showing that when properly looked after, a car can have a very long life."
+    },
+    {
+      "type": "p",
+      "h2": "‘Newer’ is not always better when buying a second-hand car",
+      "h3": null,
+      "h4": "Second-hand cars aged two to four years were most popular among UK drivers in 2023",
+      "h5": "Estimated number of second-hand cars sold, broken down by age in years, UK, January 2023 to December 2023",
+      "text": "However, a car that has clocked up a high mileage is less appealing to buyers, with data showing a low mileage is more important than a short lifespan."
+    },
+    {
+      "type": "p",
+      "h2": "‘Newer’ is not always better when buying a second-hand car",
+      "h3": null,
+      "h4": "Second-hand cars aged two to four years were most popular among UK drivers in 2023",
+      "h5": "Estimated number of second-hand cars sold, broken down by age in years, UK, January 2023 to December 2023",
+      "text": "An estimated 1.8 million second-hand cars sold had 40,000 miles or fewer on the clock, in 2023."
+    },
+    {
+      "type": "p",
+      "h2": "‘Newer’ is not always better when buying a second-hand car",
+      "h3": null,
+      "h4": "Second-hand cars aged two to four years were most popular among UK drivers in 2023",
+      "h5": "Estimated number of second-hand cars sold, broken down by age in years, UK, January 2023 to December 2023",
+      "text": "As with older cars, some drivers were able to find value in cars with very high mileage. Approximately 31,000 cars with over 140,000 miles on the clock were sold in 2023."
+    },
+    {
+      "type": "p",
+      "h2": "‘Newer’ is not always better when buying a second-hand car",
+      "h3": null,
+      "h4": "Second-hand cars aged two to four years were most popular among UK drivers in 2023",
+      "h5": "Estimated number of second-hand cars sold, broken down by age in years, UK, January 2023 to December 2023",
+      "text": "Auto Trader's new data also allows us to see how many cars were sold by each manufacturer. By grouping these car brands by nationality, we can see which countries are the most popular producers of second-hand cars in the UK."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "‘Newer’ is not always better when buying a second-hand car",
+      "h3": null,
+      "h4": "German manufacturers made the most popular second-hand cars in 2023",
+      "h5": null,
+      "text": "German manufacturers made the most popular second-hand cars in 2023"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "‘Newer’ is not always better when buying a second-hand car",
+      "h3": null,
+      "h4": "German manufacturers made the most popular second-hand cars in 2023",
+      "h5": "Estimated number of second-hand cars sold, broken down by manufacturer countries, UK, January 2023 to December 2023",
+      "text": "Estimated number of second-hand cars sold, broken down by manufacturer countries, UK, January 2023 to December 2023"
+    },
+    {
+      "type": "p",
+      "h2": "‘Newer’ is not always better when buying a second-hand car",
+      "h3": null,
+      "h4": "German manufacturers made the most popular second-hand cars in 2023",
+      "h5": "Estimated number of second-hand cars sold, broken down by manufacturer countries, UK, January 2023 to December 2023",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "‘Newer’ is not always better when buying a second-hand car",
+      "h3": null,
+      "h4": "German manufacturers made the most popular second-hand cars in 2023",
+      "h5": "Estimated number of second-hand cars sold, broken down by manufacturer countries, UK, January 2023 to December 2023",
+      "title": "Figure 6",
+      "url": "/visualisations/dvc2895/fig-6-bar-country/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "‘Newer’ is not always better when buying a second-hand car",
+      "h3": null,
+      "h4": "German manufacturers made the most popular second-hand cars in 2023",
+      "h5": "Notes:",
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": "‘Newer’ is not always better when buying a second-hand car",
+      "h3": null,
+      "h4": "German manufacturers made the most popular second-hand cars in 2023",
+      "h5": "Notes:",
+      "text": "Countries with two or fewer car manufacturers have been grouped into 'Other'"
+    },
+    {
+      "type": "p",
+      "h2": "‘Newer’ is not always better when buying a second-hand car",
+      "h3": null,
+      "h4": "German manufacturers made the most popular second-hand cars in 2023",
+      "h5": "Notes:",
+      "text": "[](/visualisations/dvc2895/fig-6-bar-country/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "‘Newer’ is not always better when buying a second-hand car",
+      "h3": null,
+      "h4": "German manufacturers made the most popular second-hand cars in 2023",
+      "h5": "Notes:",
+      "text": "Download the data for second-hand car sales by manufacturer's nationality [XLSX, 16KB]"
+    },
+    {
+      "type": "p",
+      "h2": "‘Newer’ is not always better when buying a second-hand car",
+      "h3": null,
+      "h4": "German manufacturers made the most popular second-hand cars in 2023",
+      "h5": "Notes:",
+      "text": "German cars were the most popular second-hand vehicles sold in 2023, with an estimated 1.1 million purchased."
+    },
+    {
+      "type": "p",
+      "h2": "‘Newer’ is not always better when buying a second-hand car",
+      "h3": null,
+      "h4": "German manufacturers made the most popular second-hand cars in 2023",
+      "h5": "Notes:",
+      "text": "Rounding out the top five were British cars (estimated 569,000 sold), Japanese cars (estimated 535,000 sold), USA (estimated 400,000 sold) and France (estimated 316,000 sold)."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Making future improvements to our price statistics",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Making future improvements to our price statistics"
+    },
+    {
+      "type": "p",
+      "h2": "Making future improvements to our price statistics",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "It is crucial for us to be able to continue improving our statistics, and using more detailed and accurate data helps us to achieve that."
+    },
+    {
+      "type": "p",
+      "h2": "Making future improvements to our price statistics",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We plan to update our headline statistics to include grocery scanner data in March 2025, allowing us to measure changes in food and drink prices more effectively."
+    },
+    {
+      "type": "p",
+      "h2": "Making future improvements to our price statistics",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "As we continue to work with new, more robust data sources, we will be able to keep improving our statistics and find exciting ways to explore new trends."
+    },
+    {
+      "type": "p",
+      "h2": "Making future improvements to our price statistics",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "For more information please see our [Transformation of consumer price statistics release](/economy/inflationandpriceindices)."
+    },
+    {
+      "type": "p",
+      "h2": "Making future improvements to our price statistics",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Read more about our consumer price statistics.](/economy/inflationandpriceindices)"
+    },
+    {
+      "type": "box",
+      "h2": "Making future improvements to our price statistics",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "You might also be interested in",
+      "box_h3": null,
+      "box_text": "",
+      "box_items": [
+        "[How is inflation affecting your household costs?](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/howisinflationaffectingyourhouseholdcosts/2022-03-23)",
+        "[Consumer price inflation, UK: June 2024](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/june2024)"
+      ]
+    },
+    {
+      "type": "box",
+      "h2": "Making future improvements to our price statistics",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "Consumer Prices Inflation team\n[cpi@ons.gov.uk](mailto:cpi@ons.gov.uk)\n Telephone: +44 1633 456900",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:47:20.546616"
+}

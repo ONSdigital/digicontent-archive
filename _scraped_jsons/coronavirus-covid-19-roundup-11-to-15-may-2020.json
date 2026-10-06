@@ -1,0 +1,555 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup11to15may2020/2020-05-15",
+  "title": "Coronavirus (COVID-19) roundup, 11 to 15 May 2020",
+  "meta_description": "Data and analysis related to the coronavirus (COVID-19) pandemic and its impact on our economy and society.",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Health and social care",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare"
+    },
+    {
+      "text": "Coronavirus (COVID-19)",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases"
+    },
+    {
+      "text": "Coronavirus (COVID-19) roundup, 11 to 15 May 2020",
+      "href": null
+    }
+  ],
+  "date_published": "2020-05-14T23:00:00.000Z",
+  "date_modified": "2020-05-14T23:00:00.000Z",
+  "lede": "Data and analysis related to the coronavirus (COVID-19) pandemic and its impact on our economy and society.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "15 May 2020"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This page contains data and analysis published by the Office for National Statistics (ONS) from 11 to 15 May 2020. Go to our [live page](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup/2020-03-26) for the most up-to-date insights on COVID-19."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "15 May 2020"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Care home deaths",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Care home deaths"
+    },
+    {
+      "type": "p",
+      "h2": "Care home deaths",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "More than a quarter (27.3%) of [deaths of care home residents in England and Wales between 2 March and 1 May 2020](http://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/deathsinvolvingcovid19inthecaresectorenglandandwales/deathsoccurringupto1may2020andregisteredupto9may2020provisional) involved the coronavirus (COVID-19)."
+    },
+    {
+      "type": "p",
+      "h2": "Care home deaths",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "An estimated 45,899 care home residents died during that period, 12,526 of which involved COVID-19."
+    },
+    {
+      "type": "p",
+      "h2": "Care home deaths",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Breaking these COVID-19 deaths down by sex, they represented 31.4% of all deaths of male care home residents and 24.5% of deaths of female care home residents."
+    },
+    {
+      "type": "p",
+      "h2": "Care home deaths",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "When looking at the proportion by age group, the highest proportion of deaths involving COVID-19 was in those in the 65 to 69 years group in both male and female care home residents, accounting for 35.1% and 30.3% respectively."
+    },
+    {
+      "type": "p",
+      "h2": "Care home deaths",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "chartbuilder",
+      "h2": "Care home deaths",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "chartbuilder_h3": "More than a quarter of deaths in care homes involved COVID-19",
+      "chartbuilder_h4": "Percentage of deaths in each age group that involved COVID-19, England and Wales, from 2 March 2020 to 1 May 2020, registered up to 9 May 2020",
+      "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup11to15may2020/2020-05-15/56ee542f",
+      "src": "/_scraped_chartbuilder_imgs/56ee542f.png",
+      "local_filename": "56ee542f.png"
+    },
+    {
+      "type": "p",
+      "h2": "Care home deaths",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The majority (72.2%) of care home resident deaths involving COVID-19 took place within care homes, but 27.5% occurred in hospital. Of all hospital deaths involving COVID-19, 14.6% were accounted for by care home residents."
+    },
+    {
+      "type": "p",
+      "h2": "Care home deaths",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In England there were higher rates of death involving COVID-19 among care home residents than non-care home residents."
+    },
+    {
+      "type": "p",
+      "h2": "Care home deaths",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The mortality rate for deaths involving COVID-19 for males (1,078.8 per 100,000 care home residents) was significantly higher than for females (607.0 per 100,000)."
+    },
+    {
+      "type": "p",
+      "h2": "Care home deaths",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "15 May 2020"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "COVID-19 as cause of death",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "COVID-19 as cause of death"
+    },
+    {
+      "type": "p",
+      "h2": "COVID-19 as cause of death",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "There were 33,841 [deaths involving the coronavirus (COVID-19) in England and Wales between 1 March and 30 April 2020](http://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsinvolvingcovid19englandandwales/deathsoccurringinapril2020) (registered up to 5 May 2020). The vast majority of these (95.0%) had COVID-19 assigned as the underlying cause of death."
+    },
+    {
+      "type": "p",
+      "h2": "COVID-19 as cause of death",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In 90.4% of cases, the person who died from COVID-19 had at least one pre-existing condition. The most common main pre-existing condition was dementia and Alzheimer disease, with 6,887 deaths (20.4% of all deaths involving COVID-19)."
+    },
+    {
+      "type": "p",
+      "h2": "COVID-19 as cause of death",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "COVID-19 was by far the most frequent underlying cause of death for deaths occurring in April. Adjusting for the age structure of the population, the rate of deaths due to COVID-19 was 587.4 per 100,000 persons in England compared with 480.8 per 100,000 persons in Wales."
+    },
+    {
+      "type": "p",
+      "h2": "COVID-19 as cause of death",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "chartbuilder",
+      "h2": "COVID-19 as cause of death",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "chartbuilder_h3": "The number of deaths due to COVID-19 increased nearly every day up to 8 April 2020",
+      "chartbuilder_h4": "Number of deaths with COVID-19 as underlying cause, England and Wales, all deaths occurring in 2020 and five-year average per day in March and April",
+      "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup11to15may2020/2020-05-15/fc5b99c2",
+      "src": "/_scraped_chartbuilder_imgs/fc5b99c2.png",
+      "local_filename": "fc5b99c2.png"
+    },
+    {
+      "type": "p",
+      "h2": "COVID-19 as cause of death",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "15 May 2020"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Key workers",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Key workers"
+    },
+    {
+      "type": "p",
+      "h2": "Key workers",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We have looked at the [characteristics of employees who were employed in key worker occupations in 2019](http://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/coronavirusandkeyworkersintheuk/2020-05-15). There were 10.6 million (33% of the workforce) employed in these occupations. Overall, slightly more women work in these occupations (58%), and there are big differences by occupation category. Around eight in ten (81%) of those employed in education and childcare were female. At the other end of the scale, the majority of workers in transport were male (90%)."
+    },
+    {
+      "type": "p",
+      "h2": "Key workers",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "An estimated 15% of key workers had a health condition which leaves them at moderate risk from the coronavirus (COVID-19). Of those at moderate risk, a higher proportion of these had heart, blood pressure or blood circulation problems (6%), followed by chest or breathing problems, asthma, bronchitis (5%)."
+    },
+    {
+      "type": "p",
+      "h2": "Key workers",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "While many of the key workers are in London and the South East, tracking closely to general employment trends, the exact occupations differ by area. You can see the proportion of key workers in your area using our map."
+    },
+    {
+      "type": "p",
+      "h2": "Key workers",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Key workers",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "Interactive chart",
+      "url": "/visualisations/dvc804/2map/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "Key workers",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "14 May 2020"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Access to private gardens and public parks",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Access to private gardens and public parks"
+    },
+    {
+      "type": "p",
+      "h2": "Access to private gardens and public parks",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "One in eight households (12%) in Great Britain has no access to a private or shared garden during the coronavirus (COVID-19) lockdown, according to our analysis of Ordnance Survey (OS) map data."
+    },
+    {
+      "type": "p",
+      "h2": "Access to private gardens and public parks",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This rises to more than one in five households in London (21%), easily the highest percentage of any region or country of Great Britain."
+    },
+    {
+      "type": "p",
+      "h2": "Access to private gardens and public parks",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The percentage of homes without a garden is higher among ethnic minorities, with Black people in England nearly four times as likely as White people to have no outdoor space at home."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Access to private gardens and public parks",
+      "h3": null,
+      "h4": "People from minority ethnic groups are less likely to have access to a private garden",
+      "h5": null,
+      "text": "People from minority ethnic groups are less likely to have access to a private garden"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Access to private gardens and public parks",
+      "h3": null,
+      "h4": "People from minority ethnic groups are less likely to have access to a private garden",
+      "h5": "Percentage of people with access to a private garden, by ethnic group, England, 2014 to 2019",
+      "text": "Percentage of people with access to a private garden, by ethnic group, England, 2014 to 2019"
+    },
+    {
+      "type": "p",
+      "h2": "Access to private gardens and public parks",
+      "h3": null,
+      "h4": "People from minority ethnic groups are less likely to have access to a private garden",
+      "h5": "Percentage of people with access to a private garden, by ethnic group, England, 2014 to 2019",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Access to private gardens and public parks",
+      "h3": null,
+      "h4": "People from minority ethnic groups are less likely to have access to a private garden",
+      "h5": "Percentage of people with access to a private garden, by ethnic group, England, 2014 to 2019",
+      "title": "People from minority ethnic groups are less likely to have access to a private garden",
+      "url": "/visualisations/dvc817/greenspace/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "Access to private gardens and public parks",
+      "h3": null,
+      "h4": "People from minority ethnic groups are less likely to have access to a private garden",
+      "h5": "Percentage of people with access to a private garden, by ethnic group, England, 2014 to 2019",
+      "text": "Meanwhile, areas least likely to have a private garden are most likely to live close to a public park, with 44% of Londoners living within a five-minute walk of a park (rising to 58% including playing fields). Both are the highest of any region or country in Great Britain."
+    },
+    {
+      "type": "p",
+      "h2": "Access to private gardens and public parks",
+      "h3": null,
+      "h4": "People from minority ethnic groups are less likely to have access to a private garden",
+      "h5": "Percentage of people with access to a private garden, by ethnic group, England, 2014 to 2019",
+      "text": "[Our article explains the findings and allows you to explore access to private gardens and public parks in your neighbourhood](https://www.ons.gov.uk/economy/environmentalaccounts/articles/oneineightbritishhouseholdshasnogarden/2020-05-14)."
+    },
+    {
+      "type": "p",
+      "h2": "Access to private gardens and public parks",
+      "h3": null,
+      "h4": "People from minority ethnic groups are less likely to have access to a private garden",
+      "h5": "Percentage of people with access to a private garden, by ethnic group, England, 2014 to 2019",
+      "text": "13 May 2020"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "GDP, January to March 2020",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "GDP, January to March 2020"
+    },
+    {
+      "type": "p",
+      "h2": "GDP, January to March 2020",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "UK gross domestic product (GDP) fell by 2.0% in Quarter 1 (January to March) 2020, the largest quarterly fall since the final three months of 2008 (during the financial crisis)."
+    },
+    {
+      "type": "p",
+      "h2": "GDP, January to March 2020",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This is the [first quarterly GDP release](https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpfirstquarterlyestimateuk/januarytomarch2020) that captures some of the direct effects of the coronavirus (COVID-19) pandemic and the subsequent lockdown (which came into effect on 23 March 2020)."
+    },
+    {
+      "type": "p",
+      "h2": "GDP, January to March 2020",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "It shows a widespread decline across the economy in the first three months of the year, with services, production and construction down by 1.9%, 2.1% and 2.6% respectively."
+    },
+    {
+      "type": "p",
+      "h2": "GDP, January to March 2020",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "There were especially sharp falls in sectors such as accommodation (negative 14.6%) and travel agents (negative 23.6%), both of which were affected by major restrictions in March."
+    },
+    {
+      "type": "p",
+      "h2": "GDP, January to March 2020",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "11 May 2020"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Deaths involving COVID-19 by occupation",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Deaths involving COVID-19 by occupation"
+    },
+    {
+      "type": "p",
+      "h2": "Deaths involving COVID-19 by occupation",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Men and women working in social care – including care workers and home carers – had significantly higher rates of deaths involving COVID-19 compared with those of the same age and sex in the general population of England and Wales."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths involving COVID-19 by occupation",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The rate of COVID-19 deaths among male social care workers was 23.4 deaths per 100,000 men, compared with 9.9 deaths per 100,000 for the male population. The respective rates for females were 9.6 and 5.2 deaths per 100,000 women."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths involving COVID-19 by occupation",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Meanwhile, rates of COVID-19 deaths among male and female health workers (such as doctors and nurses) were found to be similar to the general population."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths involving COVID-19 by occupation",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The highest rates of deaths involving COVID-19 were seen among low-skilled workers such as male security guards (45.7 deaths per 100,000 men), followed by male taxi drivers and chauffeurs (36.4 deaths per 100,000)."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths involving COVID-19 by occupation",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This [analysis](http://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/causesofdeath/bulletins/coronaviruscovid19relateddeathsbyoccupationenglandandwales/deathsregistereduptoandincluding20april2020) covers deaths involving COVID-19 among those aged 20 to 64 years in England and Wales. The analysis includes deaths registered up to 20 April 2020, and as such the findings are provisional and could change as more deaths are registered."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths involving COVID-19 by occupation",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "11 May 2020"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Occupations with potential exposure to COVID-19",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Occupations with potential exposure to COVID-19"
+    },
+    {
+      "type": "p",
+      "h2": "Occupations with potential exposure to COVID-19",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Using estimates of exposure to disease and physical proximity, [we have looked at how likely different occupations are to be exposed to coronavirus (COVID-19)](http://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/whichoccupationshavethehighestpotentialexposuretothecoronaviruscovid19/2020-05-11), based on 2019 data. Healthcare workers are among those most likely to be exposed to the coronavirus because of physical proximity and exposure to disease in general, though this may be mitigated by the use and availability of personal protective equipment (PPE)."
+    },
+    {
+      "type": "p",
+      "h2": "Occupations with potential exposure to COVID-19",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We also looked at the characteristics of people working in these occupations. Three in four workers (75%) in occupations requiring frequent contact with people, and exposure to disease, are women. Workers from black and minority ethnic groups are also over-represented in some occupations that require frequent contact with people, and regular exposure to disease, such as dental practitioners and medical practitioners."
+    },
+    {
+      "type": "p",
+      "h2": "Occupations with potential exposure to COVID-19",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Explore the data using our interactive."
+    },
+    {
+      "type": "p",
+      "h2": "Occupations with potential exposure to COVID-19",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Occupations with potential exposure to COVID-19",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "Interactive chart",
+      "url": "/visualisations/dvc806/scatter/scatter/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "Occupations with potential exposure to COVID-19",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Download the data](/visualisations/dvc806/occupations_exposure_to_disease_data.xls)"
+    },
+    {
+      "type": "box",
+      "h2": "Occupations with potential exposure to COVID-19",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Related",
+      "box_h3": null,
+      "box_text": "Statistical bulletin | Released on 13 August 2026\n\nFirst quarterly estimate of gross domestic product (GDP). Contains current and constant price data on the value of goods and services to indicate the economic performance of the UK.\n\nStatistical bulletin | Released on 25 January 2021\n\nProvisional analysis of deaths involving the coronavirus (COVID-19), by different occupational groups, among men and women aged 20 to 64 years in England and Wales.\n\nArticle | Released on 11 May 2020\n\nONS has created an estimate of exposure to generic disease, and physical proximity to others, for UK occupations based on US analysis of these factors.\n\nArticle | Released on 14 May 2020\n\nThe percentage of homes without a garden is higher among ethnic minorities, with Black people in England nearly four times as likely as White people to have no outdoor space at home.\n\nArticle | Released on 28 February 2022\n\nProvisional figures on deaths registered involving coronavirus (COVID-19) during the first wave (14 March to 11 September 2020), the second wave (12 September 2020 to 11 June 2021) and the third wave (12 June 2021 to 21 January 2022) of the pandemic in care home residents, in England and Wales.\n\nStatistical bulletin | Released on 17 July 2020\n\nNumber of deaths involving the coronavirus (COVID-19) that occurred in each month in England and Wales, by country, age, sex and place of death.\n\nArticle | Released on 15 May 2020\n\nEstimates of the numbers and characteristics of those who could be considered as potential “key workers” in the response to the coronavirus (COVID-19).",
+      "box_items": [
+        "[GDP first quarterly estimate, UK](/economy/grossdomesticproductgdp/bulletins/gdpfirstquarterlyestimateuk/apriltojune2026) Statistical bulletin | Released on 13 August 2026 First quarterly estimate of gross domestic product (GDP). Contains current and constant price data on the value of goods and services to indicate the economic performance of the UK.",
+        "[Coronavirus (COVID-19) related deaths by occupation, England and Wales](/peoplepopulationandcommunity/healthandsocialcare/causesofdeath/bulletins/coronaviruscovid19relateddeathsbyoccupationenglandandwales/deathsregisteredbetween9marchand28december2020) Statistical bulletin | Released on 25 January 2021 Provisional analysis of deaths involving the coronavirus (COVID-19), by different occupational groups, among men and women aged 20 to 64 years in England and Wales.",
+        "[Which occupations have the highest potential exposure to the coronavirus (COVID-19)?](/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/whichoccupationshavethehighestpotentialexposuretothecoronaviruscovid19/2020-05-11) Article | Released on 11 May 2020 ONS has created an estimate of exposure to generic disease, and physical proximity to others, for UK occupations based on US analysis of these factors.",
+        "[One in eight British households has no garden](/economy/environmentalaccounts/articles/oneineightbritishhouseholdshasnogarden/2020-05-14) Article | Released on 14 May 2020 The percentage of homes without a garden is higher among ethnic minorities, with Black people in England nearly four times as likely as White people to have no outdoor space at home.",
+        "[Deaths involving COVID-19 in the care sector, England and Wales](/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/deathsinvolvingcovid19inthecaresectorenglandandwales/deathsregisteredbetweenweekending20march2020andweekending21january2022) Article | Released on 28 February 2022 Provisional figures on deaths registered involving coronavirus (COVID-19) during the first wave (14 March to 11 September 2020), the second wave (12 September 2020 to 11 June 2021) and the third wave (12 June 2021 to 21 January 2022) of the pandemic in care home residents, in England and Wales.",
+        "[Deaths involving COVID-19, England and Wales](/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsinvolvingcovid19englandandwales/deathsoccurringinjune2020) Statistical bulletin | Released on 17 July 2020 Number of deaths involving the coronavirus (COVID-19) that occurred in each month in England and Wales, by country, age, sex and place of death.",
+        "[Coronavirus and key workers in the UK](/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/coronavirusandkeyworkersintheuk/2020-05-15) Article | Released on 15 May 2020 Estimates of the numbers and characteristics of those who could be considered as potential “key workers” in the response to the coronavirus (COVID-19)."
+      ]
+    },
+    {
+      "type": "box",
+      "h2": "Occupations with potential exposure to COVID-19",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[digitalcontent@ons.gov.uk](mailto:digitalcontent@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:48:11.556605"
+}

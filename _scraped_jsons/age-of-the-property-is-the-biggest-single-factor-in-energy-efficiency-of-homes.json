@@ -1,0 +1,674 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/ageofthepropertyisthebiggestsinglefactorinenergyefficiencyofhomes/2021-11-01",
+  "title": "Age of the property is the biggest single factor in energy efficiency of homes",
+  "meta_description": "More deprived areas have higher levels of social rented housing, which is more likely to have a high efficiency rating –  see how your local area compares. ",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Housing",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing"
+    },
+    {
+      "text": "Age of the property is the biggest single factor in energy efficiency of homes",
+      "href": null
+    }
+  ],
+  "date_published": "2022-01-06T00:00:00.000Z",
+  "date_modified": "2022-01-06T00:00:00.000Z",
+  "lede": "Three-fifths of assessed homes in England and Wales have low energy efficiency ratings, but most people are not considering making any improvements",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "6 January 2022"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The age of a property is the most significant factor associated with energy efficiency, ahead of fuel type and property type, according to new analysis from the Office for National Statistics (ONS). Homes built in 2012 or later in England and Wales are much more likely to have one of the top three energy efficiency ratings than older homes."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Almost all homes built since 2012 in England and Wales have a high energy efficiency rating, compared with just 12% of assessed homes built before 1900 in England, and 8% of homes built before 1900 in Wales."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The age of a dwelling affects the energy efficiency as building techniques and regulations have changed over time, alongside wear and tear."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Any home with an Energy Performance Certificate (EPC) has a rating from A to G. This reflects how efficient the building is (A being most efficient), how much it might cost to heat and power, and what its greenhouse gas emissions are likely to be. Not all homes currently have ratings, as these are only required when a dwelling is constructed, sold or let. EPCs were introduced in England and Wales in 2007, and a certificate is valid for 10 years."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "One in six homes in England (15%) and a fifth of homes in Wales (23%) were built before 1900, according to the latest [Valuation Office Agency data](https://www.gov.uk/government/statistics/council-tax-stock-of-properties-2021). Homes in England and Wales were most commonly built between 1930 and 1982 (46% in England and 39% in Wales). In England, 7% were built in 2012 or later, and in Wales, 5%."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Overall, fewer than half of assessed homes in both England (42%) and Wales (37%) [have an EPC rating of C or higher](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/energyefficiencyofhousingenglandandwalescountryandregion). However, less than a fifth of people in Great Britain (19%) were considering improving their home’s energy efficiency, according to Opinions and Lifestyle Survey (OPN) data collected between 22 September and 3 October 2021."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Of those who were not considering any improvements, the most common reason for this was believing their home was already efficient enough (35%), followed by not owning their own home (29%) and changes costing too much money (28%)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The UK government has set a goal for fuel-poor homes (households where the cost of heating is high relative to income) in England to reach a rating of C or higher by 2030 (where reasonable), contributing to the UK-wide [net zero 2050 target](https://www.gov.uk/government/publications/net-zero-strategy). [The Welsh Government are currently consulting on plans](https://gov.wales/written-statement-next-iteration-warm-homes-programme) to bring homes rated F or G to band D, and homes in Band D or E to band C."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Homes built before 1900 are least likely to be energy efficient",
+      "h4": null,
+      "h5": null,
+      "text": "Homes built before 1900 are least likely to be energy efficient"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Homes built before 1900 are least likely to be energy efficient",
+      "h4": null,
+      "h5": null,
+      "text": "Controlling for other factors, the age of a dwelling has the biggest impact on its energy efficiency, with newer homes much more likely than older homes to have an EPC rating of C or above."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Homes built before 1900 are least likely to be energy efficient",
+      "h4": null,
+      "h5": null,
+      "text": "To understand the biggest influences on a home’s energy efficiency, we have used a logistic regression model to assess the impact of different characteristics in isolation (or controlling for other variables). The data used in this analysis only covers homes for which an EPC exists, and therefore doesn't reflect the entire housing stock."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Homes built before 1900 are least likely to be energy efficient",
+      "h4": null,
+      "h5": null,
+      "text": "Newer homes are the most likely to be energy efficient. Almost all dwellings in England and Wales built since 2012 have an EPC rating of C or above, and as such the odds of a house of this age having a high rating are extremely high compared with houses built earlier."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Homes built before 1900 are least likely to be energy efficient",
+      "h4": null,
+      "h5": null,
+      "text": "Homes built before 1900 were the least likely to have a high efficiency rating."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Homes built before 1900 are least likely to be energy efficient",
+      "h4": null,
+      "h5": null,
+      "text": "The chart shows how different factors affect the odds of being rated EPC C or higher, compared with a reference group."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Homes built before 1900 are least likely to be energy efficient",
+      "h4": "Homes built since 2012 are much more likely to have a high energy efficiency than older homes",
+      "h5": null,
+      "text": "Homes built since 2012 are much more likely to have a high energy efficiency than older homes"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Homes built before 1900 are least likely to be energy efficient",
+      "h4": "Homes built since 2012 are much more likely to have a high energy efficiency than older homes",
+      "h5": "Odds ratios comparing the likelihood of a home having an EPC rating of C or higher by age of dwelling, England and Wales",
+      "text": "Odds ratios comparing the likelihood of a home having an EPC rating of C or higher by age of dwelling, England and Wales"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Homes built before 1900 are least likely to be energy efficient",
+      "h4": "Homes built since 2012 are much more likely to have a high energy efficiency than older homes",
+      "h5": "Odds ratios comparing the likelihood of a home having an EPC rating of C or higher by age of dwelling, England and Wales",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Homes built before 1900 are least likely to be energy efficient",
+      "h4": "Homes built since 2012 are much more likely to have a high energy efficiency than older homes",
+      "h5": "Odds ratios comparing the likelihood of a home having an EPC rating of C or higher by age of dwelling, England and Wales",
+      "title": "Homes built since 2012 are much more likely to have a high energy efficiency than older homes",
+      "url": "/visualisations/dvc1710/fig1/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Homes built before 1900 are least likely to be energy efficient",
+      "h4": "Homes built since 2012 are much more likely to have a high energy efficiency than older homes",
+      "h5": "Odds ratios comparing the likelihood of a home having an EPC rating of C or higher by age of dwelling, England and Wales",
+      "text": "[Download the data odds ratios of a home having an EPC rating \"C\" or higher (XLSX, 67KB)](/visualisations/dvc1710/fig1/datadownload.xlsx)"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Homes built before 1900 are least likely to be energy efficient",
+      "h4": "Homes built since 2012 are much more likely to have a high energy efficiency than older homes",
+      "h5": "Notes",
+      "text": "Notes"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Homes built before 1900 are least likely to be energy efficient",
+      "h4": "Homes built since 2012 are much more likely to have a high energy efficiency than older homes",
+      "h5": "Notes",
+      "text": "The high odds ratios for “property age, built 2012 onwards” should be interpreted with caution as almost all dwellings in this age category meet the EPC band C criteria so the estimated odds ratios may be inflated."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Homes built before 1900 are least likely to be energy efficient",
+      "h4": "Homes built since 2012 are much more likely to have a high energy efficiency than older homes",
+      "h5": "Notes",
+      "text": "Property type also made a big difference to a home’s energy efficiency. Controlling for other factors, flats and maisonettes were the most likely to achieve EPC band C or higher. Detached homes were the least likely to be rated C or higher."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Homes built before 1900 are least likely to be energy efficient",
+      "h4": "Homes built since 2012 are much more likely to have a high energy efficiency than older homes",
+      "h5": "Notes",
+      "text": "Gas central heating is the most common fuel type among homes in England and Wales. The only fuel types that had a more positive impact on a home’s energy efficiency rating were community heating schemes in England and Wales, and heat pumps in Wales. Homes with all other heating sources were less likely to have a high EPC rating."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Homes built before 1900 are least likely to be energy efficient",
+      "h4": "Homes built since 2012 are much more likely to have a high energy efficiency than older homes",
+      "h5": "Notes",
+      "text": "Our [latest bulletin on energy efficiency of housing](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/energyefficiencyofhousinginenglandandwales/2021) showed that social rented homes were most likely to have high efficiency scores. The analysis conducted for this article also showed that social rented homes had higher odds of being energy efficient, however in isolation, tenure did not have as large an impact on efficiency as age, property type or fuel type."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Homes built before 1900 are least likely to be energy efficient",
+      "h4": "Detached houses are less likely than other property types to have a high energy efficiency rating",
+      "h5": null,
+      "text": "Detached houses are less likely than other property types to have a high energy efficiency rating"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Homes built before 1900 are least likely to be energy efficient",
+      "h4": "Detached houses are less likely than other property types to have a high energy efficiency rating",
+      "h5": "Odds ratios comparing the likelihood of a home having an EPC rating of C or higher by different characteristics, England and Wales",
+      "text": "Odds ratios comparing the likelihood of a home having an EPC rating of C or higher by different characteristics, England and Wales"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Homes built before 1900 are least likely to be energy efficient",
+      "h4": "Detached houses are less likely than other property types to have a high energy efficiency rating",
+      "h5": "Odds ratios comparing the likelihood of a home having an EPC rating of C or higher by different characteristics, England and Wales",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Homes built before 1900 are least likely to be energy efficient",
+      "h4": "Detached houses are less likely than other property types to have a high energy efficiency rating",
+      "h5": "Odds ratios comparing the likelihood of a home having an EPC rating of C or higher by different characteristics, England and Wales",
+      "title": "Detached houses are less likely than other property types to have a high energy efficiency rating",
+      "url": "/visualisations/dvc1710/fig2/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Homes built before 1900 are least likely to be energy efficient",
+      "h4": "Detached houses are less likely than other property types to have a high energy efficiency rating",
+      "h5": "Notes",
+      "text": "Notes"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Homes built before 1900 are least likely to be energy efficient",
+      "h4": "Detached houses are less likely than other property types to have a high energy efficiency rating",
+      "h5": "Notes",
+      "text": "Other includes B30K (blended biofuel), bioethanol, biogas, biomass, dual fuel (mineral and wood), liquid biofuel, solid fuel (for example coal), tank or bottled gas (like liquefied petroleum gas), wood and when the fuel source is unknown."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Homes built before 1900 are least likely to be energy efficient",
+      "h4": "Detached houses are less likely than other property types to have a high energy efficiency rating",
+      "h5": "Notes",
+      "text": "[Download the data for odds ratios comparing the likelihood of homes being rated EPC \"C\" or higher (XLSX, 68KB)](/visualisations/dvc1710/fig2/datadownload.xlsx)"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Welsh energy efficiency affected by high proportion of older homes",
+      "h4": null,
+      "h5": null,
+      "text": "Welsh energy efficiency affected by high proportion of older homes"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Welsh energy efficiency affected by high proportion of older homes",
+      "h4": null,
+      "h5": null,
+      "text": "In England, 42% of assessed homes were rated EPC C or higher, while in Wales, the figure was 37%. The difference between countries can be partially explained by the higher proportion of older homes in Wales, which are less likely to have a high energy efficiency rating."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Welsh energy efficiency affected by high proportion of older homes",
+      "h4": null,
+      "h5": null,
+      "text": "There is some variation between English regions, with London having the highest proportion of oldest homes, and the South West having the highest proportion of newest homes. In Wales, 39% of homes were built between 1930 and 1982, and 5% were built in 2012 or later. Of all areas, Wales has the highest proportion of homes built before 1900, at 23%."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Welsh energy efficiency affected by high proportion of older homes",
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "chartbuilder",
+      "h2": null,
+      "h3": "Welsh energy efficiency affected by high proportion of older homes",
+      "h4": null,
+      "h5": null,
+      "chartbuilder_h3": "A fifth of homes in Wales were built before 1900",
+      "chartbuilder_h4": "Dwellings in English regions and Wales, by build period, 2021",
+      "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/ageofthepropertyisthebiggestsinglefactorinenergyefficiencyofhomes/2021-11-01/d8f5a8c3",
+      "src": "/_scraped_chartbuilder_imgs/d8f5a8c3.png",
+      "local_filename": "d8f5a8c3.png"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Welsh energy efficiency affected by high proportion of older homes",
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Welsh energy efficiency affected by high proportion of older homes",
+      "h4": null,
+      "h5": null,
+      "title": "Explore the energy efficiency of homes in your area",
+      "url": "/visualisations/dvc1628/fig1/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Welsh energy efficiency affected by high proportion of older homes",
+      "h4": null,
+      "h5": null,
+      "text": "[Download the data for homes with an EPC band C or higher, by LSOA (XLSX, 486KB)](/visualisations/dvc1628/fig1/datadownload.xlsx)"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Eight of the ten areas with the most energy efficient homes are in London",
+      "h4": null,
+      "h5": null,
+      "text": "Eight of the ten areas with the most energy efficient homes are in London"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Eight of the ten areas with the most energy efficient homes are in London",
+      "h4": null,
+      "h5": null,
+      "text": "Many areas with the highest proportion of energy efficient homes are in cities, while most areas with the lowest proportion of efficient homes are in more rural areas. Of the 10 local authority areas with the highest proportion of efficient homes, eight are in London. Tower Hamlets has the highest proportion of homes rated C or higher, at 75%, followed by Newham, Hackney, Southwark and the City of London."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Eight of the ten areas with the most energy efficient homes are in London",
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "chartbuilder",
+      "h2": null,
+      "h3": "Eight of the ten areas with the most energy efficient homes are in London",
+      "h4": null,
+      "h5": null,
+      "chartbuilder_h3": "Eight of the ten local authorities with the highest proportion of efficient homes are in London",
+      "chartbuilder_h4": "Proportion of homes rated EPC C or higher, by local authority, England and Wales, financial year ending March 2021",
+      "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/ageofthepropertyisthebiggestsinglefactorinenergyefficiencyofhomes/2021-11-01/22ca743a",
+      "src": "/_scraped_chartbuilder_imgs/22ca743a.png",
+      "local_filename": "22ca743a.png"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Eight of the ten areas with the most energy efficient homes are in London",
+      "h4": null,
+      "h5": null,
+      "text": "In contrast, only 2 of the 10 local authority areas with the lowest proportion of energy efficient homes are urban: Blackpool and Burnley."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Eight of the ten areas with the most energy efficient homes are in London",
+      "h4": null,
+      "h5": null,
+      "text": "Of the five areas with the lowest proportion of energy efficient homes, the Isles of Scilly has the lowest proportion of homes rated at least C, at 11%, followed by Castle Point in Essex, at 21%. The other three areas are all in Wales: Gwynedd, Isle of Anglesey and Ceredigion."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Eight of the ten areas with the most energy efficient homes are in London",
+      "h4": null,
+      "h5": null,
+      "text": "This likely reflects the age and type of homes in different areas, with newer builds and flats more likely to have a high EPC rating than detached houses or older properties. For example, 88% of homes in Tower Hamlets are flats or maisonettes and 20% are built in 2012 or later. In contrast, just 1% of homes in the Isles of Scilly were built in 2012 or later, and in Staffordshire Moorlands, 5% of homes are flats or maisonettes."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Majority of people not considering improving their homes energy efficiency",
+      "h4": null,
+      "h5": null,
+      "text": "Majority of people not considering improving their homes energy efficiency"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Majority of people not considering improving their homes energy efficiency",
+      "h4": null,
+      "h5": null,
+      "text": "While fewer than half of homes in England and Wales are rated EPC C or higher (42% and 37%, respectively), improving their home’s energy efficiency is not a consideration for the majority of people in Great Britain."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Majority of people not considering improving their homes energy efficiency",
+      "h4": null,
+      "h5": null,
+      "text": "The majority of [people surveyed between 22 September and 3 October 2021](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/opinionsandlifestylesurveydataondomesticenergyefficiencyingreatbritain) (81%) were not considering making any improvements to their homes. The most common reasons were because they felt their home was already efficient enough (35%), because they do not own their home (29%), and because making improvements would cost too much (28%)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Majority of people not considering improving their homes energy efficiency",
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "chartbuilder",
+      "h2": null,
+      "h3": "Majority of people not considering improving their homes energy efficiency",
+      "h4": null,
+      "h5": null,
+      "chartbuilder_h3": "The most common reason for not considering improving energy efficiency was believing the home was already efficient enough",
+      "chartbuilder_h4": "Barriers to improving energy efficiency of home, adults who are not considering improving their home’s energy efficiency, Great Britain, 22 September to 3 October 2021",
+      "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/ageofthepropertyisthebiggestsinglefactorinenergyefficiencyofhomes/2021-11-01/7c209447",
+      "src": "/_scraped_chartbuilder_imgs/7c209447.png",
+      "local_filename": "7c209447.png"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Majority of people not considering improving their homes energy efficiency",
+      "h4": null,
+      "h5": null,
+      "text": "The proportion of people not considering improvements because they felt their home was efficient enough increased with age, rising from just 13% of people aged 16 to 29 years, to 57% of those aged 70 years and over."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Majority of people not considering improving their homes energy efficiency",
+      "h4": null,
+      "h5": null,
+      "text": "Not owning their own home was the biggest issue for those aged 16 to 29 years."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Majority of people not considering improving their homes energy efficiency",
+      "h4": null,
+      "h5": null,
+      "text": "In the most deprived areas of England, the most common barrier to making improvements was not owning their own home (42%)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Majority of people not considering improving their homes energy efficiency",
+      "h4": null,
+      "h5": null,
+      "text": "Among people living in the least-deprived areas in England, the most common reasons for not considering making improvements was thinking their home was already efficient enough (40%), or that it would cost too much (31%). People in this group were also more likely than those in the most deprived areas to report already having energy efficient systems in their home, such as insulation (65% compared with 44%) and a green energy supplier (20% compared with 10%). OPN data by deprivation quintile is available for England only."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Majority of people not considering improving their homes energy efficiency",
+      "h4": null,
+      "h5": null,
+      "text": "Just under a fifth of people in Great Britain (19%) surveyed between 22 September and 3 October 2021 reported considering making changes to improve their home’s efficiency."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Majority of people not considering improving their homes energy efficiency",
+      "h4": null,
+      "h5": null,
+      "text": "Among this group, the most common improvement being considered was insulation, which was a consideration for 39% of people thinking about improvements. Switching energy supplier (28%) and installing a smart meter (26%) were also common considerations."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Majority of people not considering improving their homes energy efficiency",
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "chartbuilder",
+      "h2": null,
+      "h3": "Majority of people not considering improving their homes energy efficiency",
+      "h4": null,
+      "h5": null,
+      "chartbuilder_h3": "Improving insulation was the most common consideration among people thinking about upgrading their home’s energy efficiency",
+      "chartbuilder_h4": "Changes being considered to upgrade the energy efficiency of homes, of adults considering improvements, Great Britain, 22 September to 3 October 2021",
+      "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/ageofthepropertyisthebiggestsinglefactorinenergyefficiencyofhomes/2021-11-01/942ad3a7",
+      "src": "/_scraped_chartbuilder_imgs/942ad3a7.png",
+      "local_filename": "942ad3a7.png"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Measuring the data",
+      "h4": null,
+      "h5": null,
+      "text": "Measuring the data"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Measuring the data",
+      "h4": "Interpreting these statistics",
+      "h5": null,
+      "text": "Interpreting these statistics"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Measuring the data",
+      "h4": "Interpreting these statistics",
+      "h5": null,
+      "text": "For analysis of the impacts of different factors on energy efficiency, we have used a method called logistic regression analysis. A model allows us to measure the size and strength of the relationship between two variables, while holding all other variables in the model equal. While regression analysis can tell us the strength of the relationship between one variable and another, it cannot tell us about causality."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Measuring the data",
+      "h4": "Interpreting these statistics",
+      "h5": null,
+      "text": "Data on energy efficiency ratings in this article do not cover all homes in England and Wales, because not every dwelling currently has an Energy Performance Certificate (EPC). These were introduced in 2007, and are required when a dwelling is constructed, sold or let. EPCs are valid for 10 years, so do not necessarily reflect the most recent energy efficiency improvements. Dwellings can have more than one record, but we keep the latest only for our analysis, so dwellings are not double counted. For more information on the EPC data used in this analysis please refer to the [Data sources and quality section](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/energyefficiencyofhousinginenglandandwales/2021#data-sources-and-quality) of our [Energy efficiency of housing in England and Wales: 2021](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/energyefficiencyofhousinginenglandandwales/2021) article."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Measuring the data",
+      "h4": "Interpreting these statistics",
+      "h5": null,
+      "text": "This analysis does not contain statistics on [actual energy consumption](https://www.gov.uk/government/statistics/energy-consumption-in-the-uk-2020), which are published by the Department for Business, Energy and Industrial Strategy."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Measuring the data",
+      "h4": "Interpreting these statistics",
+      "h5": null,
+      "text": "This release also contains data and indicators from a module undertaken through the Office for National Statistics' (ONS) [Opinions and Lifestyle Survey (OPN)](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/methodologies/opinionsandlifestylesurveyqmi)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Measuring the data",
+      "h4": "Interpreting these statistics",
+      "h5": null,
+      "text": "Breakdowns including age, sex, region, country and level of deprivation, including [confidence intervals](https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/uncertaintyandhowwemeasureit#confidence-interval) for the estimates, are contained in the dataset."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Measuring the data",
+      "h4": "Interpreting these statistics",
+      "h5": null,
+      "text": "Where estimates are compared, associated confidence intervals should be used to assess the [statistical significance](https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/uncertaintyandhowwemeasureit#statistical-significance) of the differences."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Measuring the data",
+      "h4": "How we used the Energy Performance Certificate data",
+      "h5": null,
+      "text": "How we used the Energy Performance Certificate data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Measuring the data",
+      "h4": "How we used the Energy Performance Certificate data",
+      "h5": null,
+      "text": "The analysis described in this report is based on domestic, record-level EPC data downloaded from the [Department for Levelling Up, Housing and Communities, Open Data Communities website in August 2021](https://epc.opendatacommunities.org/). This included all EPCs lodged for domestic properties until March 2021. In the case of more than one certificate existing for the same property, the most recent certificate is included, and older ones removed from the dataset."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Measuring the data",
+      "h4": "How we used the Energy Performance Certificate data",
+      "h5": null,
+      "text": "To quality check the EPC records used for analysis, EPC data were linked to Valuation Office Agency (VOA) property attributes data at the address level. This enabled checking that the dwelling with an EPC record still existed, and that there was consistent property information (property type and age of property band) across both data sources. We excluded records that had a direct contradiction between data sources on these property variables from the analysis. After these deduplication and quality assurance checks were applied, we were left with 59% of the original dataset."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Measuring the data",
+      "h4": "How we used the Energy Performance Certificate data",
+      "h5": null,
+      "text": "Some dwellings included in our statistics may have changed tenure since the date of their EPC. For instance, dwellings that had an EPC for reasons other than being let may have since entered the private or social rented sector."
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": "Measuring the data",
+      "h4": "How we used the Energy Performance Certificate data",
+      "h5": null,
+      "box_h2": "Related",
+      "box_h3": null,
+      "box_text": "Article | Released on 28 October 2025\n\nEnergy efficiency, carbon dioxide emissions and central heating main fuel type for new and existing homes by property type, tenure, and property age.",
+      "box_items": [
+        "[Energy efficiency of housing in England and Wales](/peoplepopulationandcommunity/housing/articles/energyefficiencyofhousinginenglandandwales/2025) Article | Released on 28 October 2025 Energy efficiency, carbon dioxide emissions and central heating main fuel type for new and existing homes by property type, tenure, and property age."
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": "Measuring the data",
+      "h4": "How we used the Energy Performance Certificate data",
+      "h5": null,
+      "box_h2": "You might also be interested in",
+      "box_h3": null,
+      "box_text": "",
+      "box_items": [
+        "[Over half of younger drivers likely to switch to electric in next decade](https://www.ons.gov.uk/economy/environmentalaccounts/articles/overhalfofyoungerdriverslikelytoswitchtoelectricinnextdecade/2021-10-25)"
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": "Measuring the data",
+      "h4": "How we used the Energy Performance Certificate data",
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[digitalcontent@ons.gov.uk](mailto:digitalcontent@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:46:37.301379"
+}

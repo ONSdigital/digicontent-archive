@@ -1,0 +1,340 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/howaremonthlymortgagerepaymentschangingingreatbritain/2023-03-08",
+  "title": "How are monthly mortgage repayments changing in Great Britain?",
+  "meta_description": "How are average house prices and changing interest rates affecting monthly mortgage repayments across Great Britain? \n",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Housing",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing"
+    },
+    {
+      "text": "How are monthly mortgage repayments changing in Great Britain?",
+      "href": null
+    }
+  ],
+  "date_published": null,
+  "date_modified": null,
+  "lede": "How are average house prices and changing interest rates affecting monthly mortgage repayments across Great Britain?",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "8 March 2023"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Use our interactive map to see how the latest house prices and interest rates translate to monthly bills."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[What does the map show?](/peoplepopulationandcommunity/housing/articles/howaremonthlymortgagerepaymentschangingingreatbritain/2023-03-08#what-the-map-shows)"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[How to use the calculator.](/peoplepopulationandcommunity/housing/articles/howaremonthlymortgagerepaymentschangingingreatbritain/2023-03-08#how-to-use-the-calculator)"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Further information.](/peoplepopulationandcommunity/housing/articles/howaremonthlymortgagerepaymentschangingingreatbritain/2023-03-08#further-information)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "Mortgage repayments interactive",
+      "url": "/visualisations/dvc2465/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "What the map shows",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "What the map shows"
+    },
+    {
+      "type": "p",
+      "h2": "What the map shows",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This calculator features house prices from the [UK House Price Index (HPI)](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/privaterentandhousepricesuk/latest) and interest rate figures from the [Bank of England database](https://www.bankofengland.co.uk/boeapps/database/fromshowcolumns.asp?Travel=NIxIRxSUx&FromSeries=1&ToSeries=50&DAT=RNG&FD=1&FM=Jan&FY=2022&TD=31&TM=Dec&TY=2023&FNY=&CSVF=TT&html.x=127&html.y=36&C=EOF&C=IW&C=KG&C=NB2&C=NB1&C=EOT&C=EOW&C=EP0&C=EP3&C=EP6&C=U1P&C=U1R&C=UKP&C=UKU&Filter=N), showing how monthly mortgage repayments vary and are changing across the country."
+    },
+    {
+      "type": "p",
+      "h2": "What the map shows",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The mortgage costs shown on the map represent the amount you would pay per month, assuming:"
+    },
+    {
+      "type": "li",
+      "h2": "What the map shows",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "you purchase a property at the average (mean) price in a given area"
+    },
+    {
+      "type": "li",
+      "h2": "What the map shows",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "you secure the average mortgage rate being offered by mortgage lenders at the time, at the mortgage term length selected in the calculator options"
+    },
+    {
+      "type": "li",
+      "h2": "What the map shows",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "you supplied the user-defined deposit amount"
+    },
+    {
+      "type": "p",
+      "h2": "What the map shows",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The costs shown apply to the initial fixed rate period of the mortgage, which defaults to a five-year period on the map."
+    },
+    {
+      "type": "p",
+      "h2": "What the map shows",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This map is useful for tracking the ongoing cost of mortgage repayments, a key figure in household’s budgets, when buying a property."
+    },
+    {
+      "type": "p",
+      "h2": "What the map shows",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The figures in this map will be updated each month, alongside the monthly release of the UK HPI."
+    },
+    {
+      "type": "p",
+      "h2": "What the map shows",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In the calculator we use average mortgage rates for 60%, 75%, 90% and 95% loan-to-value ratios and apply one of these based on the deposit specified in the tool. We treat these as thresholds that we round up to until the next threshold is hit. For example, if the deposit entered resulted in a 63% loan-to-value ratio the map would use the average rate at a 75% loan-to-value."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "How to use the calculator",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "How to use the calculator"
+    },
+    {
+      "type": "p",
+      "h2": "How to use the calculator",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "You can personalise the map based on your own criteria. All you need to do is enter a mortgage term length (up to 40 years), a deposit amount, and select one of the four property types:"
+    },
+    {
+      "type": "li",
+      "h2": "How to use the calculator",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "detached"
+    },
+    {
+      "type": "li",
+      "h2": "How to use the calculator",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "semi-detached"
+    },
+    {
+      "type": "li",
+      "h2": "How to use the calculator",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "terrace"
+    },
+    {
+      "type": "li",
+      "h2": "How to use the calculator",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "flat and maisonettes"
+    },
+    {
+      "type": "p",
+      "h2": "How to use the calculator",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Once you have done that, you will see a map of England, Wales, and Scotland. The map outlines the average mortgage repayment monthly costs for a property purchased at the average price in each area, based on your inputs. Areas on the map will be colour coded, with the light colours indicating a lower cost, and the darker showing a greater cost."
+    },
+    {
+      "type": "p",
+      "h2": "How to use the calculator",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Please note that this tool provides information. It is not financial advice or recommendation. Users of the tool should seek their own independent financial advice when required."
+    },
+    {
+      "type": "p",
+      "h2": "How to use the calculator",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This tool indicates what the average monthly mortgage repayment amount might be for a user who purchases a property within a given area at the average price for that area, for a property of the type selected by the user. There will be properties priced above and below the average price for properties in each area. As such, this tool does not confirm what the monthly mortgage repayment cost would be if the user purchased any property in this area. Instead, it acts as a guide for users to inform their choice of areas in potentially purchasing property."
+    },
+    {
+      "type": "p",
+      "h2": "How to use the calculator",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Areas shaded in purple (the darkest areas) are areas where a mortgage would be typically unavailable because of your inputs exceeding a 95% loan-to-value rate. However, this does not necessarily mean that no mortgages are available in the selected area. This occurs where your deposit amount is less than 5% of the average price for a property of the selected property type in a given area. You can calculate your loan-to-value ratio by taking the mortgage amount you require to meet the property purchase price, divide that by the total property purchase price, and multiply the result by 100. This will give you the loan-to-value percentage. For example, for a mortgage amount of £178,000 and a purchase price of £200,000, the loan-to-value is £178,000 divided by £200,000, then multiplied by 100, resulting in 89%. Therefore, you may be able to secure a mortgage product with a maximum loan-to-value rate of 90% or 95%."
+    },
+    {
+      "type": "p",
+      "h2": "How to use the calculator",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "You can personalise the tool further by adjusting your desired monthly mortgage repayment price range using the slider. When you have done this, the colour coding will show which areas fall within your chosen budget."
+    },
+    {
+      "type": "p",
+      "h2": "How to use the calculator",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "If you hover over a particular region, you will be shown the average property prices in that area and how house prices in that area have changed over time, based on our latest [Private rent and house prices bulletin.](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/privaterentandhousepricesuk/latest)"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Further information",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Further information"
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Please note that this tool should not be used to make personal finance decisions or to forecast future finance conditions."
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The UK House Price Index (HPI) is constructed using sale prices as published monthly by HM Land Registry in its [UK HPI statistical dataset](https://www.gov.uk/government/collections/uk-house-price-index-reports); the average prices used in the map are derived from this index, rather than being a simple average of all the houses sold in a given month."
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The tool represents indicative average mortgage payments on house purchases at the most up-to-date price averages and doesn’t represent the costs of re-mortgaging."
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The tool uses Bank of England data on average quoted rates for 5-year fixed rate mortgages, split by different loan-to-value ratios, as shown in the [Bank of England data viewer](https://www.bankofengland.co.uk/boeapps/database/fromshowcolumns.asp?Travel=NIxIRxSUx&FromSeries=1&ToSeries=50&DAT=RNG&FD=1&FM=Jan&FY=2022&TD=31&TM=Dec&TY=2023&FNY=&CSVF=TT&html.x=127&html.y=36&C=EOF&C=IW&C=KG&C=NB2&C=NB1&C=EOT&C=EOW&C=EP0&C=EP3&C=EP6&C=U1P&C=U1R&C=UKP&C=UKU&Filter=N)."
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "If you have any questions about this tool, please email us."
+    },
+    {
+      "type": "box",
+      "h2": "Further information",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[hpi@ons.gov.uk](mailto:hpi@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:46:25.489368"
+}

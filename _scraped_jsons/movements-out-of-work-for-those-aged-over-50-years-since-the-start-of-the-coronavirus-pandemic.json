@@ -1,0 +1,1321 @@
+{
+  "url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/movementsoutofworkforthoseagedover50yearssincethestartofthecoronaviruspandemic/2022-03-14",
+  "title": "Movements out of work for those aged over 50 years since the start of the coronavirus pandemic",
+  "meta_description": "Movement of people in the UK aged 50 to 70 years leaving the labour market during the coronavirus pandemic, for different sectors and demographic groups.",
+  "breadcrumb": null,
+  "date_published": "2022-03-14T00:00:00.000Z",
+  "date_modified": "2022-03-14T00:00:00.000Z",
+  "lede": null,
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The movement of people in the UK aged 50 to 70 years leaving the labour market during the coronavirus (COVID-19) pandemic and how this has changed for different sectors and demographic groups. Data from the Labour Force Survey."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This is the latest release."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Contact:\n[Abi Casey, Dan Taylor, Claire Saini, Mitch Long](mailto:economic.advice@ons.gov.uk)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Release date:\n14 March 2022\n"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Next release:\nTo be announced"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Table of contents"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Main points](#main-points)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[How movement to economic inactivity has changed for those aged 50 years and over](#how-movement-to-economic-inactivity-has-changed-for-those-aged-50-years-and-over)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries](#how-movement-of-people-aged-50-to-70-years-into-economic-inactivity-changed-over-time-for-different-occupations-and-industries)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years](#demographic-groups-causing-increased-movement-to-economic-inactivity-for-those-aged-50-to-70-years)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Data](#data)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Glossary](#glossary)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Data sources and quality](#data-sources-and-quality)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Related links](#related-links)"
+    },
+    {
+      "type": "p",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Print this Article]()"
+    },
+    {
+      "type": "p",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Download as PDF](/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/movementsoutofworkforthoseagedover50yearssincethestartofthecoronaviruspandemic/2022-03-14/pdf)"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "1. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "1. Main points"
+    },
+    {
+      "type": "li",
+      "h2": "1. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Those aged 50 years and over saw the largest increase of inactive people among all age groups since the start of the pandemic, following a historical downward trend since records began in 1971."
+    },
+    {
+      "type": "li",
+      "h2": "1. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The number of those aged 50 to 70 years moving from economic activity to inactivity between Quarter 2 (Apr to June) and Quarter 3 (July to September) 2021 was 87,000 higher than in the same period in 2019; this increased flow to inactivity was driven by full-time workers."
+    },
+    {
+      "type": "li",
+      "h2": "1. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "While movements into inactivity have increased for many demographic groups, men aged 50 to 70 years with a degree or equivalent saw a higher number, 42,000, moving to inactivity between Quarter 2 and Quarter 3 2021 than in 2019."
+    },
+    {
+      "type": "li",
+      "h2": "1. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Professional occupations saw the largest difference for those aged 50 to 70 years, with 30,000 more moving to economic inactivity between Quarter 2 and Quarter 3 in 2021 than in 2019; however, caring, leisure and other service occupations saw the largest proportional difference of 2.9 percentage points to 6.0% moving to inactivity in the same period."
+    },
+    {
+      "type": "li",
+      "h2": "1. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Self-employed 50- to 70-year-olds saw a higher movement into economic inactivity in 2020 with 33,000 more moving to economic inactivity between Quarter 2 and Quarter 3 2020 than in 2019; however, movement to economic inactivity has remained above pre-coronavirus levels between Quarter 2 and Quarter 3 2021."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "2. How movement to economic inactivity has changed for those aged 50 years and over",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "2. How movement to economic inactivity has changed for those aged 50 years and over"
+    },
+    {
+      "type": "p",
+      "h2": "2. How movement to economic inactivity has changed for those aged 50 years and over",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The labour market has been affected by the coronavirus (COVID-19) pandemic, changing the way some people work. This article follows on from [Changing trends and recent shortages in the labour market, UK](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/changingtrendsandrecentshortagesinthelabourmarketuk/2016to2021), which found that economic inactivity for older people increased during the pandemic compared with 2019."
+    },
+    {
+      "type": "p",
+      "h2": "2. How movement to economic inactivity has changed for those aged 50 years and over",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This article will look at the movement of people aged 50 to 70 years leaving the labour market during the pandemic, and how this has changed for different sectors and demographic groups using longitudinal data from the [ONS Labour Force Survey (LFS)](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/labourforcesurveylfsqmi). However, this section will firstly cover the broader trends in economic inactivity using cross-sectional [LFS data](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/employmentunemploymentandeconomicinactivitybyagegroupseasonallyadjusteda05sa), with a wider view of all those aged 50 years and over."
+    },
+    {
+      "type": "p",
+      "h2": "2. How movement to economic inactivity has changed for those aged 50 years and over",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Overall economic inactivity has increased by 522,000 persons in October to December 2021 compared with before the pandemic (October to December 2019). Most of the increase was because of those aged 50 years and over, contributing 94.4% (493,000) to the overall change (Figure 1)."
+    },
+    {
+      "type": "p",
+      "h2": "2. How movement to economic inactivity has changed for those aged 50 years and over",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "However, the trend has not been consistent across the period. There was an initial increase in inactivity for people aged 16 to 24 years between October to December 2019 and January to March 2021. This group saw the number in economic inactivity increase by 229,000. The number of workers aged 50 years and above in economic inactivity increased 333,000 over the same period. Economic inactivity of 16- to 24-year-olds has since fallen back to pre-coronavirus levels, however, economic inactivity for those aged 50 years and over increased another 160,000 from January to March 2021 to October to December 2021."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "2. How movement to economic inactivity has changed for those aged 50 years and over",
+      "h3": null,
+      "h4": "Figure 1: People aged over 50 years have seen an increasing trend in economic inactivity throughout the pandemic, the only age group to do so",
+      "h5": null,
+      "text": "Figure 1: People aged over 50 years have seen an increasing trend in economic inactivity throughout the pandemic, the only age group to do so"
+    },
+    {
+      "type": "p",
+      "h2": "2. How movement to economic inactivity has changed for those aged 50 years and over",
+      "h3": null,
+      "h4": "Figure 1: People aged over 50 years have seen an increasing trend in economic inactivity throughout the pandemic, the only age group to do so",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "2. How movement to economic inactivity has changed for those aged 50 years and over",
+      "h3": null,
+      "h4": "Figure 1: People aged over 50 years have seen an increasing trend in economic inactivity throughout the pandemic, the only age group to do so",
+      "h5": null,
+      "title": "Figure 1:  People aged over 50 years have seen an increasing trend in economic inactivity throughout the pandemic, the only age group to do so",
+      "url": "/visualisations/dvc1845/fig1/index.html"
+    },
+    {
+      "type": "li",
+      "h2": "2. How movement to economic inactivity has changed for those aged 50 years and over",
+      "h3": null,
+      "h4": "Figure 1: People aged over 50 years have seen an increasing trend in economic inactivity throughout the pandemic, the only age group to do so",
+      "h5": null,
+      "text": "October to December 2019 has been used as a base period to compare changes in economic inactivity"
+    },
+    {
+      "type": "li",
+      "h2": "2. How movement to economic inactivity has changed for those aged 50 years and over",
+      "h3": null,
+      "h4": "Figure 1: People aged over 50 years have seen an increasing trend in economic inactivity throughout the pandemic, the only age group to do so",
+      "h5": null,
+      "text": "Over-50s group includes ages 50 to 64 years and 65 years and over. This figure was produced using [published labour market data](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/employmentunemploymentandeconomicinactivitybyagegroupseasonallyadjusteda05sa)."
+    },
+    {
+      "type": "p",
+      "h2": "2. How movement to economic inactivity has changed for those aged 50 years and over",
+      "h3": null,
+      "h4": "Figure 1: People aged over 50 years have seen an increasing trend in economic inactivity throughout the pandemic, the only age group to do so",
+      "h5": null,
+      "text": "[Download the data](/visualisations/dvc1845/fig1/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "2. How movement to economic inactivity has changed for those aged 50 years and over",
+      "h3": null,
+      "h4": "Figure 1: People aged over 50 years have seen an increasing trend in economic inactivity throughout the pandemic, the only age group to do so",
+      "h5": null,
+      "text": "The increase in economic inactivity in older workers over the pandemic period has bucked a historical trend where the proportion of people aged 50 years and over in economic inactivity has fallen over the last 10 years (Figure 2). This follows a historical downward trend since records began in 1971."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "2. How movement to economic inactivity has changed for those aged 50 years and over",
+      "h3": null,
+      "h4": "Figure 2: The proportion of people aged 50 years and over who are economically inactive increased since the start of the pandemic, bucking the historical trend",
+      "h5": null,
+      "text": "Figure 2: The proportion of people aged 50 years and over who are economically inactive increased since the start of the pandemic, bucking the historical trend"
+    },
+    {
+      "type": "p",
+      "h2": "2. How movement to economic inactivity has changed for those aged 50 years and over",
+      "h3": null,
+      "h4": "Figure 2: The proportion of people aged 50 years and over who are economically inactive increased since the start of the pandemic, bucking the historical trend",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "2. How movement to economic inactivity has changed for those aged 50 years and over",
+      "h3": null,
+      "h4": "Figure 2: The proportion of people aged 50 years and over who are economically inactive increased since the start of the pandemic, bucking the historical trend",
+      "h5": null,
+      "title": "Figure 2: The proportion of people aged 50 years and over who are economically inactive increased since the start of the pandemic, bucking the historical trend",
+      "url": "/visualisations/dvc1845/fig2/index.html"
+    },
+    {
+      "type": "li",
+      "h2": "2. How movement to economic inactivity has changed for those aged 50 years and over",
+      "h3": null,
+      "h4": "Figure 2: The proportion of people aged 50 years and over who are economically inactive increased since the start of the pandemic, bucking the historical trend",
+      "h5": null,
+      "text": "Over-50s group includes ages 50 to 64 years and 65 years and over. This figure was produced using [published labour market data](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/employmentunemploymentandeconomicinactivitybyagegroupseasonallyadjusteda05sa)."
+    },
+    {
+      "type": "p",
+      "h2": "2. How movement to economic inactivity has changed for those aged 50 years and over",
+      "h3": null,
+      "h4": "Figure 2: The proportion of people aged 50 years and over who are economically inactive increased since the start of the pandemic, bucking the historical trend",
+      "h5": null,
+      "text": "[Download the data](/visualisations/dvc1845/fig2/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "2. How movement to economic inactivity has changed for those aged 50 years and over",
+      "h3": null,
+      "h4": "Figure 2: The proportion of people aged 50 years and over who are economically inactive increased since the start of the pandemic, bucking the historical trend",
+      "h5": null,
+      "text": "Economic inactivity in those aged 50 years and over began to rise from the start of the pandemic, increasing 0.9 percentage points from an economic inactivity rate of 55.8% in Quarter 1 (Jan to Mar) 2020, to 56.7% in Quarter 2 (Apr to June) 2020. Between Quarter 2 2020 and Quarter 4 (Oct to Dec) 2021, the economic inactivity rate for those aged 50 years and over continued to increase to 57.1%."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries"
+    },
+    {
+      "type": "p",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Sections 3 and 4 focus on movements into economic inactivity for workers aged 50 to 70 years, using a longitudinal dataset. To avoid seasonal effects, we look at the same period each year rather than covering all consecutive quarters. We compare movements between Quarter 2 (Apr to June) and Quarter 3 (July to Sept) for each year between 2019 and 2021, to understand how flows between labour market statuses have changed between these years."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Net flows and reasons for economic inactivity",
+      "h4": null,
+      "h5": null,
+      "text": "Net flows and reasons for economic inactivity"
+    },
+    {
+      "type": "p",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Net flows and reasons for economic inactivity",
+      "h4": null,
+      "h5": null,
+      "text": "The increase in the movement from employment to economic inactivity, alongside the fall in the movement from economic inactivity to employment, resulted in an increase in the net flow of people aged 50 to 70 years into economic inactivity between Quarter 2 and Quarter 3 from 2019 to 2021 (Figure 3)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Net flows and reasons for economic inactivity",
+      "h4": "Figure 3: Net flow of employed 50- to 70-year-olds moving to economic inactivity has increased year on year since 2018",
+      "h5": null,
+      "text": "Figure 3: Net flow of employed 50- to 70-year-olds moving to economic inactivity has increased year on year since 2018"
+    },
+    {
+      "type": "p",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Net flows and reasons for economic inactivity",
+      "h4": "Figure 3: Net flow of employed 50- to 70-year-olds moving to economic inactivity has increased year on year since 2018",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Net flows and reasons for economic inactivity",
+      "h4": "Figure 3: Net flow of employed 50- to 70-year-olds moving to economic inactivity has increased year on year since 2018",
+      "h5": null,
+      "title": "Figure 3: Net flow of employed 50- to 70-year-olds moving to economic inactivity has increased year on year since 2018",
+      "url": "/visualisations/dvc1845/fig3/index.html"
+    },
+    {
+      "type": "li",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Net flows and reasons for economic inactivity",
+      "h4": "Figure 3: Net flow of employed 50- to 70-year-olds moving to economic inactivity has increased year on year since 2018",
+      "h5": null,
+      "text": "Flows from employment to economic inactivity are calculated by combining those who were employees, self-employed, unpaid family workers, or in government employment and training programmes in April to June; but who were economically inactive in July to September."
+    },
+    {
+      "type": "p",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Net flows and reasons for economic inactivity",
+      "h4": "Figure 3: Net flow of employed 50- to 70-year-olds moving to economic inactivity has increased year on year since 2018",
+      "h5": null,
+      "text": "[Download the data](/visualisations/dvc1845/fig3/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Net flows and reasons for economic inactivity",
+      "h4": "Figure 3: Net flow of employed 50- to 70-year-olds moving to economic inactivity has increased year on year since 2018",
+      "h5": null,
+      "text": "The net flow of people aged 50 to 70 years moving to economic inactivity between Quarter 2 and Quarter 3 2021 was 15.4% higher compared with the same period a year ago. It was 32.6% higher compared with the same period in 2019, resulting in a positive difference of 98,000."
+    },
+    {
+      "type": "p",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Net flows and reasons for economic inactivity",
+      "h4": "Figure 3: Net flow of employed 50- to 70-year-olds moving to economic inactivity has increased year on year since 2018",
+      "h5": null,
+      "text": "Figure 4 shows the main reason given for moving to economic inactivity for people aged 50 to 70 years. From Quarter 2 to Quarter 3 2019 to Quarter 2 to Quarter 3 2021, all four main reasons for movement to economic inactivity saw an increase. The most frequently given reason, retirement, saw the largest volume increase, from 181,000 to 221,000 workers."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Net flows and reasons for economic inactivity",
+      "h4": "Figure 4: Retirement, as a reason for people aged 50 to 70 years becoming economically inactive, saw the largest increase since the start of the pandemic",
+      "h5": null,
+      "text": "Figure 4: Retirement, as a reason for people aged 50 to 70 years becoming economically inactive, saw the largest increase since the start of the pandemic"
+    },
+    {
+      "type": "p",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Net flows and reasons for economic inactivity",
+      "h4": "Figure 4: Retirement, as a reason for people aged 50 to 70 years becoming economically inactive, saw the largest increase since the start of the pandemic",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Net flows and reasons for economic inactivity",
+      "h4": "Figure 4: Retirement, as a reason for people aged 50 to 70 years becoming economically inactive, saw the largest increase since the start of the pandemic",
+      "h5": null,
+      "title": "Figure 4: Retirement, as a reason for people aged 50 to 70 years becoming economically inactive, saw the largest increase since the start of the pandemic",
+      "url": "/visualisations/dvc1845/fig4/index.html"
+    },
+    {
+      "type": "li",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Net flows and reasons for economic inactivity",
+      "h4": "Figure 4: Retirement, as a reason for people aged 50 to 70 years becoming economically inactive, saw the largest increase since the start of the pandemic",
+      "h5": null,
+      "text": "Reasons given for moving to economic inactivity have been grouped for illustrative purposes."
+    },
+    {
+      "type": "p",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Net flows and reasons for economic inactivity",
+      "h4": "Figure 4: Retirement, as a reason for people aged 50 to 70 years becoming economically inactive, saw the largest increase since the start of the pandemic",
+      "h5": null,
+      "text": "[Download the data](/visualisations/dvc1845/fig4/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Net flows and reasons for economic inactivity",
+      "h4": "Figure 4: Retirement, as a reason for people aged 50 to 70 years becoming economically inactive, saw the largest increase since the start of the pandemic",
+      "h5": null,
+      "text": "The [Over 50s Lifestyle Study](https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/articles/impactofcoronavirusonpeopleaged50to70yearsandtheiremploymentafterthepandemic/2022-03-14) (OLS) confirms that retirement is the most frequently given reason for leaving work during the coronavirus (COVID-19) pandemic, with 47% of respondents reporting retirement as a reason for leaving work. Those aged 60 years and over were more likely to report this (56%) than those aged in their 50s (28%), although retirement was the most cited reason for both age groups."
+    },
+    {
+      "type": "p",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Net flows and reasons for economic inactivity",
+      "h4": "Figure 4: Retirement, as a reason for people aged 50 to 70 years becoming economically inactive, saw the largest increase since the start of the pandemic",
+      "h5": null,
+      "text": "The OLS also finds 82% of those who lost or left their job during the pandemic had not returned to work, while only 18% had returned to work."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Occupations and industries",
+      "h4": null,
+      "h5": null,
+      "text": "Occupations and industries"
+    },
+    {
+      "type": "p",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Occupations and industries",
+      "h4": null,
+      "h5": null,
+      "text": "Among all aged 50 to 70 years in employment in Quarter 2 2021, 86.0% remained in the same high-level occupation in Quarter 3 2021, while 9.4% moved occupation and 3.9% moved from employment to economic inactivity. Only 0.6% moved to unemployment over the same period (Figure 5)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Occupations and industries",
+      "h4": "Figure 5: 86.0% of people aged 50 to 70 years remained in the same occupation and 9.4% changed occupation, while 3.9% became economically inactive between Quarter 2 and Quarter 3 2021",
+      "h5": null,
+      "text": "Figure 5: 86.0% of people aged 50 to 70 years remained in the same occupation and 9.4% changed occupation, while 3.9% became economically inactive between Quarter 2 and Quarter 3 2021"
+    },
+    {
+      "type": "p",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Occupations and industries",
+      "h4": "Figure 5: 86.0% of people aged 50 to 70 years remained in the same occupation and 9.4% changed occupation, while 3.9% became economically inactive between Quarter 2 and Quarter 3 2021",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Occupations and industries",
+      "h4": "Figure 5: 86.0% of people aged 50 to 70 years remained in the same occupation and 9.4% changed occupation, while 3.9% became economically inactive between Quarter 2 and Quarter 3 2021",
+      "h5": null,
+      "title": "Figure 5: 86.0% of people aged 50 to 70 years remained in the same occupation and 9.4% changed occupation, while 3.9% became economically inactive between Quarter 2 and Quarter 3 2021",
+      "url": "/visualisations/dvc1845/fig5/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Occupations and industries",
+      "h4": "Figure 5: 86.0% of people aged 50 to 70 years remained in the same occupation and 9.4% changed occupation, while 3.9% became economically inactive between Quarter 2 and Quarter 3 2021",
+      "h5": null,
+      "text": "[Download the data](/visualisations/dvc1845/fig5/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Occupations and industries",
+      "h4": "Figure 5: 86.0% of people aged 50 to 70 years remained in the same occupation and 9.4% changed occupation, while 3.9% became economically inactive between Quarter 2 and Quarter 3 2021",
+      "h5": null,
+      "text": "We focus now on only the movements from economic activity to inactivity when previously we looked at wider net flow picture, with flows out of employment."
+    },
+    {
+      "type": "p",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Occupations and industries",
+      "h4": "Figure 5: 86.0% of people aged 50 to 70 years remained in the same occupation and 9.4% changed occupation, while 3.9% became economically inactive between Quarter 2 and Quarter 3 2021",
+      "h5": null,
+      "text": "The occupation with the largest number of 50- to 70-year-olds, professional occupations, saw the largest volume change moving to economic inactivity, an increase of around 30,000, when comparing the movements from Quarter 2 to Quarter 3 2021, with the same period in 2019 (Figure 6)."
+    },
+    {
+      "type": "p",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Occupations and industries",
+      "h4": "Figure 5: 86.0% of people aged 50 to 70 years remained in the same occupation and 9.4% changed occupation, while 3.9% became economically inactive between Quarter 2 and Quarter 3 2021",
+      "h5": null,
+      "text": "The second-largest occupation for workers aged 50 to 70 years, associate professional occupations, saw movements to economic inactivity increase by around 22,000, when comparing Quarter 2 to Quarter 3 2021 with the same quarters in 2019. The proportion moving to economic inactivity increased from 3.2% to 4.5%."
+    },
+    {
+      "type": "p",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Occupations and industries",
+      "h4": "Figure 5: 86.0% of people aged 50 to 70 years remained in the same occupation and 9.4% changed occupation, while 3.9% became economically inactive between Quarter 2 and Quarter 3 2021",
+      "h5": null,
+      "text": "Caring, leisure and other service occupations saw the largest increase in the proportion of the group moving to economic inactivity. The proportion becoming economically inactive increased 2.9 percentage points from 3.0% to 6.0%, or around 21,000 workers in volume terms."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Occupations and industries",
+      "h4": "Figure 6: Professional occupations saw the largest volume increase in the flow of workers aged 50 to 70 years to economic inactivity in 2021, compared with pre-coronavirus",
+      "h5": null,
+      "text": "Figure 6: Professional occupations saw the largest volume increase in the flow of workers aged 50 to 70 years to economic inactivity in 2021, compared with pre-coronavirus"
+    },
+    {
+      "type": "p",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Occupations and industries",
+      "h4": "Figure 6: Professional occupations saw the largest volume increase in the flow of workers aged 50 to 70 years to economic inactivity in 2021, compared with pre-coronavirus",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Occupations and industries",
+      "h4": "Figure 6: Professional occupations saw the largest volume increase in the flow of workers aged 50 to 70 years to economic inactivity in 2021, compared with pre-coronavirus",
+      "h5": null,
+      "title": "Figure 6: Professional occupations saw the largest volume increase in the flow of workers aged 50 to 70 years to economic inactivity in 2021, compared with pre-coronavirus",
+      "url": "/visualisations/dvc1845/fig6/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Occupations and industries",
+      "h4": "Figure 6: Professional occupations saw the largest volume increase in the flow of workers aged 50 to 70 years to economic inactivity in 2021, compared with pre-coronavirus",
+      "h5": null,
+      "text": "[Download the data](/visualisations/dvc1845/fig6/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Occupations and industries",
+      "h4": "Figure 6: Professional occupations saw the largest volume increase in the flow of workers aged 50 to 70 years to economic inactivity in 2021, compared with pre-coronavirus",
+      "h5": null,
+      "text": "Findings from the [OLS](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/movementsoutofworkforthoseagedover50yearssincethestartofthecoronaviruspandemic/OLS) suggest that people leaving professional occupations may be more likely to be able to afford their retirement with increased savings since the pandemic compared with other occupations."
+    },
+    {
+      "type": "p",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Occupations and industries",
+      "h4": "Figure 6: Professional occupations saw the largest volume increase in the flow of workers aged 50 to 70 years to economic inactivity in 2021, compared with pre-coronavirus",
+      "h5": null,
+      "text": "Of those leaving professional occupations, 22% reported their savings had increased since the start of the pandemic, the highest for all occupational groups. In comparison, 20% of those leaving caring occupations reported they had no savings."
+    },
+    {
+      "type": "p",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Occupations and industries",
+      "h4": "Figure 6: Professional occupations saw the largest volume increase in the flow of workers aged 50 to 70 years to economic inactivity in 2021, compared with pre-coronavirus",
+      "h5": null,
+      "text": "Adults responding to the OLS were statistically more likely to retire from paid work if leaving professional occupations (58%) than those leaving caring, leisure and other service (38%), sales and customer service (31%), or elementary occupations (33%)."
+    },
+    {
+      "type": "p",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Occupations and industries",
+      "h4": "Figure 6: Professional occupations saw the largest volume increase in the flow of workers aged 50 to 70 years to economic inactivity in 2021, compared with pre-coronavirus",
+      "h5": null,
+      "text": "On an industry basis, 9 out of the 15 industries saw an increase in the number of workers aged 50 to 70 years moving to economic inactivity between Quarter 2 to Quarter 3 2021 compared with Quarter 2 to Quarter 3 2019 (Figure 7)."
+    },
+    {
+      "type": "p",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Occupations and industries",
+      "h4": "Figure 6: Professional occupations saw the largest volume increase in the flow of workers aged 50 to 70 years to economic inactivity in 2021, compared with pre-coronavirus",
+      "h5": null,
+      "text": "In line with changes seen in professional occupations, the professional, scientific and technical activities industry saw the largest change in workers aged 50 to 70 years moving to economic inactivity across all industries at 35,000. This industry also saw the largest increase in proportion over the same period at 4.2 percentage points to 5.7%."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Occupations and industries",
+      "h4": "Figure 7: Most industries saw an increase in workers aged 50 to 70 years moving from employment to economic inactivity in 2021 compared with pre-coronavirus",
+      "h5": null,
+      "text": "Figure 7: Most industries saw an increase in workers aged 50 to 70 years moving from employment to economic inactivity in 2021 compared with pre-coronavirus"
+    },
+    {
+      "type": "p",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Occupations and industries",
+      "h4": "Figure 7: Most industries saw an increase in workers aged 50 to 70 years moving from employment to economic inactivity in 2021 compared with pre-coronavirus",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Occupations and industries",
+      "h4": "Figure 7: Most industries saw an increase in workers aged 50 to 70 years moving from employment to economic inactivity in 2021 compared with pre-coronavirus",
+      "h5": null,
+      "title": "Figure 7: Most industries saw an increase in workers aged 50 to 70 years moving from employment to economic inactivity in 2021 compared with pre-coronavirus",
+      "url": "/visualisations/dvc1845/fig7/index.html"
+    },
+    {
+      "type": "li",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Occupations and industries",
+      "h4": "Figure 7: Most industries saw an increase in workers aged 50 to 70 years moving from employment to economic inactivity in 2021 compared with pre-coronavirus",
+      "h5": null,
+      "text": "Some industries have been omitted because of sample size, and industry names have been shortened for visualisation purposes."
+    },
+    {
+      "type": "p",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Occupations and industries",
+      "h4": "Figure 7: Most industries saw an increase in workers aged 50 to 70 years moving from employment to economic inactivity in 2021 compared with pre-coronavirus",
+      "h5": null,
+      "text": "[Download the data](/visualisations/dvc1845/fig7/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "3. How movement of people aged 50 to 70 years into economic inactivity changed over time for different occupations and industries",
+      "h3": "Occupations and industries",
+      "h4": "Figure 7: Most industries saw an increase in workers aged 50 to 70 years moving from employment to economic inactivity in 2021 compared with pre-coronavirus",
+      "h5": null,
+      "text": "The largest fall in flows to economic inactivity came from accommodation and food service activities, with around 16,000 fewer workers moving to economic inactivity between Quarter 2 and Quarter 3 2021 than in the same period in 2019. This change is largely because of a higher than usual movement into economic inactivity in 2019, where 28,000 older workers moved to economic inactivity between Quarter 2 and Quarter 3. Economic inactivity numbers in the industry have fluctuated, however, movements in Quarter 2 to Quarter 3 2021 saw economic inactivity fall close to normal historical levels."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Full-time and part-time workers",
+      "h4": null,
+      "h5": null,
+      "text": "Full-time and part-time workers"
+    },
+    {
+      "type": "p",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Full-time and part-time workers",
+      "h4": null,
+      "h5": null,
+      "text": "The number of workers aged 50 to 70 years becoming economically inactive between Quarter 2 (Apr to June) and Quarter 3 (July to Sept) 2021 was 87,000 higher than between the same quarters two years previously. Note the term 'workers' is used here to refer to all economically active individuals, which includes those who are employees, self-employed and unemployed."
+    },
+    {
+      "type": "p",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Full-time and part-time workers",
+      "h4": null,
+      "h5": null,
+      "text": "This increased flow to economic inactivity came almost entirely from full-time workers (Figure 8). The volume of 50- to 70-year-old full-time workers becoming economically inactive increased 105,000 in 2021 compared with 2019 - a larger increase than the overall change for all workers. The number of part-time workers becoming economically inactive remained broadly stable. This excludes respondents where full-time or part-time status is not reported, so the combined differences across full-time and part-time workers will not add up to the total difference of 87,000 among all workers aged 50 to 70 years."
+    },
+    {
+      "type": "p",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Full-time and part-time workers",
+      "h4": null,
+      "h5": null,
+      "text": "The proportion of full-time workers aged 50 to 70 years who moved to economic inactivity between Quarter 2 and Quarter 3 in 2021 compared with 2019 increased by 1.4 percentage points to 3.1%, while part-time workers saw little change."
+    },
+    {
+      "type": "p",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Full-time and part-time workers",
+      "h4": null,
+      "h5": null,
+      "text": "The [OLS](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/movementsoutofworkforthoseagedover50yearssincethestartofthecoronaviruspandemic/OLS) provides information on the motivations of those returning to work."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Full-time and part-time workers",
+      "h4": "Figure 8: Full-time workers are the largest driver of increased flows to economic inactivity for 50- to 70-year-olds",
+      "h5": null,
+      "text": "Figure 8: Full-time workers are the largest driver of increased flows to economic inactivity for 50- to 70-year-olds"
+    },
+    {
+      "type": "p",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Full-time and part-time workers",
+      "h4": "Figure 8: Full-time workers are the largest driver of increased flows to economic inactivity for 50- to 70-year-olds",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Full-time and part-time workers",
+      "h4": "Figure 8: Full-time workers are the largest driver of increased flows to economic inactivity for 50- to 70-year-olds",
+      "h5": null,
+      "title": "Figure 8: Full-time workers are the largest driver of increased flows to economic inactivity for 50- to 70-year-olds",
+      "url": "/visualisations/dvc1845/fig8/index.html"
+    },
+    {
+      "type": "li",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Full-time and part-time workers",
+      "h4": "Figure 8: Full-time workers are the largest driver of increased flows to economic inactivity for 50- to 70-year-olds",
+      "h5": null,
+      "text": "This figure excludes respondents where full-time or part-time status is not reported. As a result the combined changes in the figure will not add up to the total change among workers aged 50 to 70 years."
+    },
+    {
+      "type": "p",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Full-time and part-time workers",
+      "h4": "Figure 8: Full-time workers are the largest driver of increased flows to economic inactivity for 50- to 70-year-olds",
+      "h5": null,
+      "text": "[Download the data](/visualisations/dvc1845/fig8/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Full-time and part-time workers",
+      "h4": "Figure 8: Full-time workers are the largest driver of increased flows to economic inactivity for 50- to 70-year-olds",
+      "h5": null,
+      "text": "Between Quarter 2 and Quarter 3 2021 compared with the same period in 2019, the number of full-time workers with a degree or equivalent becoming economically inactive was 44,000 higher - around half the overall increase for all workers aged 50 to 70 years (Figure 9)."
+    },
+    {
+      "type": "p",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Full-time and part-time workers",
+      "h4": "Figure 8: Full-time workers are the largest driver of increased flows to economic inactivity for 50- to 70-year-olds",
+      "h5": null,
+      "text": "Flows to economic inactivity increased for full-time workers at all levels of educational attainment. In comparison, part-time workers with low or no qualifications saw flows to economic inactivity decrease by 13,000 over the same period."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Full-time and part-time workers",
+      "h4": "Figure 9: Full-time workers aged 50 to 70 years with a degree or equivalent saw the largest increase in movements to economic inactivity",
+      "h5": null,
+      "text": "Figure 9: Full-time workers aged 50 to 70 years with a degree or equivalent saw the largest increase in movements to economic inactivity"
+    },
+    {
+      "type": "p",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Full-time and part-time workers",
+      "h4": "Figure 9: Full-time workers aged 50 to 70 years with a degree or equivalent saw the largest increase in movements to economic inactivity",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Full-time and part-time workers",
+      "h4": "Figure 9: Full-time workers aged 50 to 70 years with a degree or equivalent saw the largest increase in movements to economic inactivity",
+      "h5": null,
+      "title": "Figure 9: Full-time workers aged 50 to 70 years with a degree or equivalent saw the largest increase in movements to economic inactivity",
+      "url": "/visualisations/dvc1845/fig9/index.html"
+    },
+    {
+      "type": "li",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Full-time and part-time workers",
+      "h4": "Figure 9: Full-time workers aged 50 to 70 years with a degree or equivalent saw the largest increase in movements to economic inactivity",
+      "h5": null,
+      "text": "This figure excludes respondents where full-time or part-time status or highest qualification are not reported."
+    },
+    {
+      "type": "p",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Full-time and part-time workers",
+      "h4": "Figure 9: Full-time workers aged 50 to 70 years with a degree or equivalent saw the largest increase in movements to economic inactivity",
+      "h5": null,
+      "text": "[Download the data](/visualisations/dvc1845/fig9/datadownload.xlsx)"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Male and female workers",
+      "h4": null,
+      "h5": null,
+      "text": "Male and female workers"
+    },
+    {
+      "type": "p",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Male and female workers",
+      "h4": null,
+      "h5": null,
+      "text": "Along with a large increase in flows to economic inactivity among full-time workers, and especially those with a degree or equivalent, we have also seen differences between men and women."
+    },
+    {
+      "type": "p",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Male and female workers",
+      "h4": null,
+      "h5": null,
+      "text": "Men aged 50 to 70 years saw a larger increase in the volume moving to inactivity than women, when comparing Quarter 2 to Quarter 3 2021 with the same period in 2019. The volume of men moving to economic inactivity increased by 67,000 while for women the increase was just 20,000."
+    },
+    {
+      "type": "p",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Male and female workers",
+      "h4": null,
+      "h5": null,
+      "text": "The proportion of men aged 50 to 70 years who moved to economic inactivity increased from 3.1% in 2019 to 4.4% in 2021, a 1.3 percentage point increase, while for women the increase was only 0.5 percentage points to 4.9% in 2021 (Figure 10). Findings from the [OLS](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/movementsoutofworkforthoseagedover50yearssincethestartofthecoronaviruspandemic/OLS) found that men were more likely to use savings and investments to fund their retirement or time out of work (51%) than women (33%) and women were more likely to receive financial support from a partner or family (26%) than men (10%)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Male and female workers",
+      "h4": "Figure 10: Among workers aged 50 to 70 years, movements into economic inactivity increased more for men than for women",
+      "h5": null,
+      "text": "Figure 10: Among workers aged 50 to 70 years, movements into economic inactivity increased more for men than for women"
+    },
+    {
+      "type": "p",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Male and female workers",
+      "h4": "Figure 10: Among workers aged 50 to 70 years, movements into economic inactivity increased more for men than for women",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Male and female workers",
+      "h4": "Figure 10: Among workers aged 50 to 70 years, movements into economic inactivity increased more for men than for women",
+      "h5": null,
+      "title": "Figure 10: Among workers aged 50 to 70 years, movements into economic inactivity increased more for men than for women",
+      "url": "/visualisations/dvc1845/fig10/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Male and female workers",
+      "h4": "Figure 10: Among workers aged 50 to 70 years, movements into economic inactivity increased more for men than for women",
+      "h5": null,
+      "text": "[Download the data](/visualisations/dvc1845/fig10/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Male and female workers",
+      "h4": "Figure 10: Among workers aged 50 to 70 years, movements into economic inactivity increased more for men than for women",
+      "h5": null,
+      "text": "The different trends shown by men and women are explored in more depth in the OLS, which found that men were more likely to state that they no longer needed the money from their job (7% for men and 3% for women). On the other hand, women were more likely to leave their job to look after the home or for caring responsibilities (8%) than men (3%)."
+    },
+    {
+      "type": "p",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Male and female workers",
+      "h4": "Figure 10: Among workers aged 50 to 70 years, movements into economic inactivity increased more for men than for women",
+      "h5": null,
+      "text": "We have seen that among workers aged 50 to 70 years, those with a degree or equivalent saw a larger increase in flows to inactivity than less-qualified individuals, and the same was true of men compared with women. Figure 11 draws these insights together to show men with a degree or equivalent saw the largest increase of flows into economic inactivity."
+    },
+    {
+      "type": "p",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Male and female workers",
+      "h4": "Figure 10: Among workers aged 50 to 70 years, movements into economic inactivity increased more for men than for women",
+      "h5": null,
+      "text": "Between Quarter 2 and Quarter 3 2021 compared with the same period in 2019, the volume of men aged 50 to 70 years with a degree or equivalent becoming economically inactive increased by 42,000. This accounts for almost half the overall difference of 87,000, despite men with degrees or equivalent making up less than a fifth of workers aged 50 to 70 years during this time."
+    },
+    {
+      "type": "p",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Male and female workers",
+      "h4": "Figure 10: Among workers aged 50 to 70 years, movements into economic inactivity increased more for men than for women",
+      "h5": null,
+      "text": "Women with a degree or equivalent did not see a similar increase: between the same two quarters in 2019 compared with 2021, the proportion of men with a degree or equivalent becoming economically inactive increased 2.2 percentage points, whereas it only increased 0.5 percentage points for women with a degree or equivalent."
+    },
+    {
+      "type": "p",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Male and female workers",
+      "h4": "Figure 10: Among workers aged 50 to 70 years, movements into economic inactivity increased more for men than for women",
+      "h5": null,
+      "text": "In 2019, women aged 50 to 70 years with a degree or equivalent were far more likely to become economically inactive than the equivalent group of men (5.3% compared with 2.7%). By 2021, the gap narrowed substantially (5.7% compared with 4.8%)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Male and female workers",
+      "h4": "Figure 11: Among men aged 50 to 70 years with a degree or equivalent, flows into economic inactivity nearly doubled, while they increased by less than one-tenth for similarly qualified women",
+      "h5": null,
+      "text": "Figure 11: Among men aged 50 to 70 years with a degree or equivalent, flows into economic inactivity nearly doubled, while they increased by less than one-tenth for similarly qualified women"
+    },
+    {
+      "type": "p",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Male and female workers",
+      "h4": "Figure 11: Among men aged 50 to 70 years with a degree or equivalent, flows into economic inactivity nearly doubled, while they increased by less than one-tenth for similarly qualified women",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Male and female workers",
+      "h4": "Figure 11: Among men aged 50 to 70 years with a degree or equivalent, flows into economic inactivity nearly doubled, while they increased by less than one-tenth for similarly qualified women",
+      "h5": null,
+      "title": "Figure 11: Among men aged 50 to 70 years with a degree or equivalent, flows into economic inactivity nearly doubled, while they increased by less than one-tenth for similarly qualified women",
+      "url": "/visualisations/dvc1845/fig11/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Male and female workers",
+      "h4": "Figure 11: Among men aged 50 to 70 years with a degree or equivalent, flows into economic inactivity nearly doubled, while they increased by less than one-tenth for similarly qualified women",
+      "h5": null,
+      "text": "[Download the data](/visualisations/dvc1845/fig11/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Male and female workers",
+      "h4": "Figure 11: Among men aged 50 to 70 years with a degree or equivalent, flows into economic inactivity nearly doubled, while they increased by less than one-tenth for similarly qualified women",
+      "h5": null,
+      "text": "The larger increase seen by men was largely driven by men aged 60 to 70 years (Figure 12)."
+    },
+    {
+      "type": "p",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Male and female workers",
+      "h4": "Figure 11: Among men aged 50 to 70 years with a degree or equivalent, flows into economic inactivity nearly doubled, while they increased by less than one-tenth for similarly qualified women",
+      "h5": null,
+      "text": "When comparing Quarter 2 to Quarter 3 2021 with the same period in 2019, the proportion of men aged 60 to 70 years becoming economically inactive increased 2.7 percentage points. For men aged 50 to 59 years the increase was lower at 0.7 percentage points, while for women aged 60 to 70 years there was a small decrease of 0.1 percentage points."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Male and female workers",
+      "h4": "Figure 12: Flows to economic inactivity increased 2.7 percentage points for men aged 60 to 70 years, but held steady for women of the same age",
+      "h5": null,
+      "text": "Figure 12: Flows to economic inactivity increased 2.7 percentage points for men aged 60 to 70 years, but held steady for women of the same age"
+    },
+    {
+      "type": "p",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Male and female workers",
+      "h4": "Figure 12: Flows to economic inactivity increased 2.7 percentage points for men aged 60 to 70 years, but held steady for women of the same age",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Male and female workers",
+      "h4": "Figure 12: Flows to economic inactivity increased 2.7 percentage points for men aged 60 to 70 years, but held steady for women of the same age",
+      "h5": null,
+      "title": "Figure 12: Flows to economic inactivity increased 2.7 percentage points for men aged 60 to 70 years, but held steady for women of the same age",
+      "url": "/visualisations/dvc1845/fig12/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Male and female workers",
+      "h4": "Figure 12: Flows to economic inactivity increased 2.7 percentage points for men aged 60 to 70 years, but held steady for women of the same age",
+      "h5": null,
+      "text": "[Download the data](/visualisations/dvc1845/fig12/datadownload.xlsx)"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Employees and self-employed workers",
+      "h4": null,
+      "h5": null,
+      "text": "Employees and self-employed workers"
+    },
+    {
+      "type": "p",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Employees and self-employed workers",
+      "h4": null,
+      "h5": null,
+      "text": "Among workers aged 50 to 70 years, employees were a larger contributor of increased flows to economic inactivity than self-employed workers overall (Figure 13). The volume of employees becoming economically inactive between Quarter 2 and Quarter 3 2021 was 65,000 higher than in the same quarter two years previously, compared with 15,000 for self-employed workers."
+    },
+    {
+      "type": "p",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Employees and self-employed workers",
+      "h4": null,
+      "h5": null,
+      "text": "The volume of self-employed workers becoming inactive was higher between Quarter 2 and Quarter 3 2020 compared with the same period in 2019, increasing 33,000. However, between Quarter 2 and Quarter 3 2021, flows to economic inactivity were 18,000 lower for self-employed workers than between the same period in 2020."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Employees and self-employed workers",
+      "h4": "Figure 13: Employees saw a larger increase in flows to economic inactivity overall, but self-employed workers saw a larger proportional increase",
+      "h5": null,
+      "text": "Figure 13: Employees saw a larger increase in flows to economic inactivity overall, but self-employed workers saw a larger proportional increase"
+    },
+    {
+      "type": "p",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Employees and self-employed workers",
+      "h4": "Figure 13: Employees saw a larger increase in flows to economic inactivity overall, but self-employed workers saw a larger proportional increase",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Employees and self-employed workers",
+      "h4": "Figure 13: Employees saw a larger increase in flows to economic inactivity overall, but self-employed workers saw a larger proportional increase",
+      "h5": null,
+      "title": "Figure 13: Employees saw a larger increase in flows to economic inactivity overall, but self-employed workers saw a larger proportional increase",
+      "url": "/visualisations/dvc1845/fig13/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "4. Demographic groups causing increased movement to economic inactivity for those aged 50 to 70 years",
+      "h3": "Employees and self-employed workers",
+      "h4": "Figure 13: Employees saw a larger increase in flows to economic inactivity overall, but self-employed workers saw a larger proportional increase",
+      "h5": null,
+      "text": "[Download the data](/visualisations/dvc1845/fig13/datadownload.xlsx)"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "5. Data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "5. Data"
+    },
+    {
+      "type": "p",
+      "h2": "5. Data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": "5. Data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "[Movements to economic inactivity for workers aged 50 to 70 years](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/movementstoeconomicinactivityforworkersaged50to70years)\n Dataset | Released 14 March 2021\n Flows of workers aged 50 to 70 years to economic inactivity between April to June and July to September for each year between 2016 and 2021, by demographic breakdowns, industry, and occupation, from the longitudinal Labour Force Survey.",
+      "box_items": null
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "6. Glossary",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "6. Glossary"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "6. Glossary",
+      "h3": "Economically active",
+      "h4": null,
+      "h5": null,
+      "text": "Economically active"
+    },
+    {
+      "type": "p",
+      "h2": "6. Glossary",
+      "h3": "Economically active",
+      "h4": null,
+      "h5": null,
+      "text": "People aged 16 years and over who are either in employment or unemployed. The labour force refers to all economically active individuals."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "6. Glossary",
+      "h3": "Economic inactivity",
+      "h4": null,
+      "h5": null,
+      "text": "Economic inactivity"
+    },
+    {
+      "type": "p",
+      "h2": "6. Glossary",
+      "h3": "Economic inactivity",
+      "h4": null,
+      "h5": null,
+      "text": "People not in the labour force (also known as [economically inactive](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/aguidetolabourmarketstatistics#economic-inactivity)) are not in employment but do not meet the internationally accepted ILO (International Labour Organization) definition of unemployment because they have not been seeking work within the last four weeks and/or they are unable to start work in the next two weeks."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "6. Glossary",
+      "h3": "Full-time and part-time",
+      "h4": null,
+      "h5": null,
+      "text": "Full-time and part-time"
+    },
+    {
+      "type": "p",
+      "h2": "6. Glossary",
+      "h3": "Full-time and part-time",
+      "h4": null,
+      "h5": null,
+      "text": "In the Labour Force Survey (LFS), respondents are asked to self-classify their main job as either full-time or part-time."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "7. Data sources and quality",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "7. Data sources and quality"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "7. Data sources and quality",
+      "h3": "Data sources",
+      "h4": null,
+      "h5": null,
+      "text": "Data sources"
+    },
+    {
+      "type": "p",
+      "h2": "7. Data sources and quality",
+      "h3": "Data sources",
+      "h4": null,
+      "h5": null,
+      "text": "This release uses data collected through the Office for National Statistics' (ONS) [Labour Force Survey (LFS)](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/labourforcesurveylfsqmi), and uses two-quarter longitudinal datasets."
+    },
+    {
+      "type": "p",
+      "h2": "7. Data sources and quality",
+      "h3": "Data sources",
+      "h4": null,
+      "h5": null,
+      "text": "The LFS is a large representative survey of households in the UK. The longitudinal datasets link the same individuals' responses across two consecutive waves, enabling analysis of the behaviour of groups across the two quarters."
+    },
+    {
+      "type": "p",
+      "h2": "7. Data sources and quality",
+      "h3": "Data sources",
+      "h4": null,
+      "h5": null,
+      "text": "The analysis presented in this article focuses on respondents who were aged 50 years and above in the second period of the longitudinal dataset. Individuals aged 70 years and above in the first period of the longitudinal dataset are excluded because of limitations in the data. For this release, \"workers aged 50 to 70 years\" refers to this group."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "7. Data sources and quality",
+      "h3": "Movements to economic inactivity",
+      "h4": null,
+      "h5": null,
+      "text": "Movements to economic inactivity"
+    },
+    {
+      "type": "p",
+      "h2": "7. Data sources and quality",
+      "h3": "Movements to economic inactivity",
+      "h4": null,
+      "h5": null,
+      "text": "\"Movements to economic inactivity\" or \"Flows to economic inactivity\" refer to individuals who reported being economically active in the first period of the longitudinal LFS, and who were economically inactive in the second period."
+    },
+    {
+      "type": "p",
+      "h2": "7. Data sources and quality",
+      "h3": "Movements to economic inactivity",
+      "h4": null,
+      "h5": null,
+      "text": "This release uses April to June (Quarter 2) to July to September (Quarter 3) for each year as the first and second period. The movements to economic inactivity discussed are therefore made up of individuals who moved from economic activity to economic inactivity between these periods."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "7. Data sources and quality",
+      "h3": "Quality",
+      "h4": null,
+      "h5": null,
+      "text": "Quality"
+    },
+    {
+      "type": "p",
+      "h2": "7. Data sources and quality",
+      "h3": "Quality",
+      "h4": null,
+      "h5": null,
+      "text": "The LFS longitudinal weights used in this analysis are designed to compensate for non-response bias. However initial investigations suggest that response error may affect the longitudinal datasets, probably in the direction of upward bias in estimates of gross flows between different broad economic categories. Therefore, these estimates should be taken with caution."
+    },
+    {
+      "type": "p",
+      "h2": "7. Data sources and quality",
+      "h3": "Quality",
+      "h4": null,
+      "h5": null,
+      "text": "Because individuals aged 50 to 70 years moving to economic inactivity make up a fairly small proportion of the workforce, the sample sizes involved in this analysis are relatively small, leading to increased sampling variability."
+    },
+    {
+      "type": "p",
+      "h2": "7. Data sources and quality",
+      "h3": "Quality",
+      "h4": null,
+      "h5": null,
+      "text": "Estimates for occupations using the Labour Force Survey (LFS) are based on the [Standard Occupational Classification (SOC) 2010](https://www.ons.gov.uk/methodology/classificationsandstandards/standardoccupationalclassificationsoc/soc2010). [SOC 2020](https://www.ons.gov.uk/methodology/classificationsandstandards/standardoccupationalclassificationsoc/soc2020) was introduced in January 2021, so the data up to December 2020 are collected on a SOC 2010 basis, while the data from January 2021 are collected on a SOC 2020 basis and mapped to SOC 2010. This may result in some inconsistencies with previous estimates."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "8. Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "8. Related links"
+    },
+    {
+      "type": "p",
+      "h2": "8. Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": "8. Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "[Reasons for workers aged over 50 years leaving employment since the start of the coronavirus pandemic](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/reasonsforworkersagedover50yearsleavingemploymentsincethestartofthecoronaviruspandemic/2022-03-14)\n Article | Released 14 March 2022\n Main findings from the Over 50s Lifestyle Study, looking at motivations for those aged 50 to 70 years leaving work during the coronavirus (COVID-19) pandemic in Great Britain from March 2020, including why they left and whether or not they intend to return.\n\n[Impact of coronavirus on people aged 50 to 70 years and their employment after the pandemic](https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/articles/impactofcoronavirusonpeopleaged50to70yearsandtheiremploymentafterthepandemic/2022-03-14)\n Article | Released 14 March 2022\n Qualitative findings from semi-structured interviews on the Over 50s Lifestyle Study. Looking at the impact of the coronavirus (COVID-19) pandemic on the lifestyles of people aged 50 to 70 years in Great Britain since March 2020, including their employment status, financial circumstances and health.\n\n[Changing trends and recent shortages in the labour market, UK: 2016 to 2021](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/changingtrendsandrecentshortagesinthelabourmarketuk/latest#related-links)\n Article | Released 20 December 2021\n Changing trends and shortages in the labour market and how this affects different occupations and demographic groups. We look at where workers have entered or left the workforce and how this has changed in recent years. Interactive data visualisations also allow detailed exploration of different measures and changing patterns.\n\n[Early insights from the Over 50s Lifestyle Study, Great Britain: 1 March 2022](https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/economicinactivity/bulletins/earlyinsightsfromtheover50slifestylestudygreatbritain/1march2022)\n Bulletin | Published 1 March 2022\n Attitudes and reasons behind those aged 50 to 70 years leaving the labour market at some point in 2021, in Great Britain between 8 to 13 February 2022.\n\n[Labour market overview, UK](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/latest)\n Bulletin | Monthly\n Estimates of employment, unemployment, economic inactivity and other employment-related statistics for the UK.",
+      "box_items": null
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "8. Related links",
+      "h3": "Contact details for this Article",
+      "h4": null,
+      "h5": null,
+      "text": "Contact details for this Article"
+    }
+  ],
+  "scraped_at": "2026-09-22 11:47:32.443423"
+}

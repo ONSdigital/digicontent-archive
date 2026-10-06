@@ -1,0 +1,109 @@
+{
+  "url": "https://www.ons.gov.uk/economy/nationalaccounts/articles/dashboardunderstandingtheukeconomy/2017-02-22",
+  "title": "Understanding the UK economy",
+  "meta_description": "Bringing together the latest data on employment, prices and trade to give an overview of the economy in the UK.",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "Economy",
+      "href": "https://www.ons.gov.uk/economy"
+    },
+    {
+      "text": "National accounts",
+      "href": "https://www.ons.gov.uk/economy/nationalaccounts"
+    },
+    {
+      "text": "Understanding the UK economy",
+      "href": null
+    }
+  ],
+  "date_published": "2026-09-17T23:00:00.000Z",
+  "date_modified": "2026-09-17T23:00:00.000Z",
+  "lede": "Bringing together the latest data on employment, prices and trade to give an overview of the economy in the UK.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "18 September 2026"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This tool presents data from our most recent releases in the main areas that contribute to economic activity."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The commentary presented is not a forecast or prediction."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "Interactive chart",
+      "url": "/visualisations/dvc368/dashboard/index.html"
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Related",
+      "box_h3": null,
+      "box_text": "Statistical bulletin | Released on 15 September 2026\n\nEstimates of employment, unemployment, economic inactivity, and other employment-related statistics for the UK.\n\nStatistical bulletin | Released on 18 September 2026\n\nRetail sales rose in the three months to August 2026, according to our first estimate.\n\nStatistical bulletin | Released on 11 September 2026\n\nTotal value of UK exports and imports of goods and services in current prices, chained volume measures and implied deflators.\n\nStatistical bulletin | Released on 16 September 2026\n\nPrice indices, percentage changes, and weights for the different measures of consumer price inflation.\n\nStatistical bulletin | Released on 16 September 2026\n\nChanges in the prices of goods bought and sold by UK manufacturers, including price indices of materials and fuels purchased (input prices) and factory gate prices (output prices).\n\nStatistical bulletin | Released on 11 September 2026\n\nGross domestic product (GDP) measures the value of goods and services produced in the UK. It estimates the size of the economy and its growth.\n\nStatistical bulletin | Released on 11 September 2026\n\nMovements in the volume of output for the UK services industries. Figures are seasonally adjusted.\n\nStatistical bulletin | Released on 11 September 2026\n\nMovements in the volume of production for UK production industries: manufacturing, mining and quarrying, energy supply, and water and waste management.",
+      "box_items": [
+        "[Labour market overview, UK](/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/september2026) Statistical bulletin | Released on 15 September 2026 Estimates of employment, unemployment, economic inactivity, and other employment-related statistics for the UK.",
+        "[Retail sales, Great Britain](/businessindustryandtrade/retailindustry/bulletins/retailsales/august2026) Statistical bulletin | Released on 18 September 2026 Retail sales rose in the three months to August 2026, according to our first estimate.",
+        "[UK trade](/economy/nationalaccounts/balanceofpayments/bulletins/uktrade/july2026) Statistical bulletin | Released on 11 September 2026 Total value of UK exports and imports of goods and services in current prices, chained volume measures and implied deflators.",
+        "[Consumer price inflation, UK](/economy/inflationandpriceindices/bulletins/consumerpriceinflation/august2026) Statistical bulletin | Released on 16 September 2026 Price indices, percentage changes, and weights for the different measures of consumer price inflation.",
+        "[Producer price inflation, UK](/economy/inflationandpriceindices/bulletins/producerpriceinflation/august2026) Statistical bulletin | Released on 16 September 2026 Changes in the prices of goods bought and sold by UK manufacturers, including price indices of materials and fuels purchased (input prices) and factory gate prices (output prices).",
+        "[GDP monthly estimate, UK](/economy/grossdomesticproductgdp/bulletins/gdpmonthlyestimateuk/july2026) Statistical bulletin | Released on 11 September 2026 Gross domestic product (GDP) measures the value of goods and services produced in the UK. It estimates the size of the economy and its growth.",
+        "[Index of Services, UK](/economy/economicoutputandproductivity/output/bulletins/indexofservices/july2026) Statistical bulletin | Released on 11 September 2026 Movements in the volume of output for the UK services industries. Figures are seasonally adjusted.",
+        "[Index of Production, UK](/economy/economicoutputandproductivity/output/bulletins/indexofproduction/july2026) Statistical bulletin | Released on 11 September 2026 Movements in the volume of production for UK production industries: manufacturing, mining and quarrying, energy supply, and water and waste management."
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[digitalcontent@ons.gov.uk](mailto:digitalcontent@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:48:44.883015"
+}

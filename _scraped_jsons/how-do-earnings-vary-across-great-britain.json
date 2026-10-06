@@ -1,0 +1,107 @@
+{
+  "url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/howdoearningsvaryacrossgreatbritain/2015-01-15",
+  "title": "How do earnings vary across Great Britain?",
+  "meta_description": null,
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "Employment and labour market",
+      "href": "https://www.ons.gov.uk/employmentandlabourmarket"
+    },
+    {
+      "text": "People in work",
+      "href": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork"
+    },
+    {
+      "text": "Earnings and working hours",
+      "href": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours"
+    },
+    {
+      "text": "How do earnings vary across Great Britain?",
+      "href": null
+    }
+  ],
+  "date_published": "2015-01-15T08:12:54.000Z",
+  "date_modified": "2015-01-15T08:12:54.000Z",
+  "lede": null,
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "15 January 2015"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Did you know that full-time employees in the UK earned £528 per week on average in 2015, and that on average women earned 9.4% less than men per hour? These earnings varied greatly across the UK, with City of London employees earning the highest at £921 and employees in North East Derbyshire earning the lowest at £389."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "There are plenty more interesting facts to explore by region, using our [cartogram](http://en.wikipedia.org/wiki/Cartogram) below to uncover stories of your own. You can even change the jobs sector and see how the shape of the country changes as a result."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "Annual Survey of Hours & Earnings - Map",
+      "url": "/visualisations/nesscontent/dvc126/ashemap.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "For more information, please contact: [earnings@ons.gov.uk](mailto:earnings@ons.gov.uk)"
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "You might also be interested in",
+      "box_h3": null,
+      "box_text": "",
+      "box_items": [
+        "[Annual Survey of Hours and Earnings, 2015 Provisional Results](http://www.ons.gov.uk/ons/rel/ashe/annual-survey-of-hours-and-earnings/2015-provisional-results/index.html)",
+        "[How well does my job pay?](https://visual.ons.gov.uk/interactive-how-well-does-my-job-pay/)"
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[digitalcontent@ons.gov.uk](mailto:digitalcontent@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:48:24.155143"
+}

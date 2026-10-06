@@ -1,0 +1,874 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/articles/thelinksbetweenyoungpeoplebeingimprisonedpupilbackgroundandschoolquality/2023-01-27",
+  "title": "The links between young people being imprisoned, pupil background and school quality",
+  "meta_description": "Analysis examining the links between imprisonment and the characteristics of schools and pupils. This article includes the thoughts of people working with at-risk students. We find that going to a lower-quality school, as rated by Ofsted, is one of the many factors linked with a higher likelihood of someone being imprisoned. ",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Education and childcare",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare"
+    },
+    {
+      "text": "The links between young people being imprisoned, pupil background and school quality",
+      "href": null
+    }
+  ],
+  "date_published": "2023-01-27T00:00:00.000Z",
+  "date_modified": "2023-01-27T00:00:00.000Z",
+  "lede": "We find that going to a lower-quality school, as rated by Ofsted, is one of the many factors linked with a higher likelihood of someone being imprisoned. The impact of school quality is comparably low. We also look at the issues of poverty and growing up in care and include the thoughts of people working with at-risk students.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "27 January 2023"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Of the minority of young people imprisoned by the age of 24, most are known to police before the age of 16."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Only 1.1% of the 515,226 state school pupils in England we analysed went on to receive an immediate custodial sentence between the ages of 16 and 24."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "These are people sentenced to time in a prison, young offender institution, or another secure setting with immediate effect."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This was the case for a higher proportion of pupils in lower-rated schools (1.4%), compared with those who went to good or outstanding schools (0.9%). This does not include pupil referral units (PRUs)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "However, Ofsted ratings alone do not show the full picture. Pupils may be more likely to be imprisoned based on differences in income background, gender, ethnicity, and the location of the school and deprivation in the surrounding local area."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "People with Special Educational Needs or children who were in care during secondary school are also more likely to receive an immediate custodial sentence by the time they were 24 years old."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Data records are limited in capturing the extent of these challenges. As part of this research, we also spoke to a headteacher in London and a youth worker in South Yorkshire, who told us about the many difficulties some young people are dealing with, including their family background."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Their background could involve a father being absent, a father being in prison, substance misuse issues at home, domestic violence. Marcus Isman-Egal, youth worker, EPIC Learning"
+    },
+    {
+      "type": "quote",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Their background could involve a father being absent, a father being in prison, substance misuse issues at home, domestic violence.",
+      "source": "Marcus Isman-Egal, youth worker, EPIC Learning"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Analysis of the data confirmed that young people who were imprisoned were more likely to be from disadvantaged backgrounds and that the link between school quality and imprisonment is complex."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Lower-rated state schools generally have more students with characteristics that are themselves associated with higher rates of imprisonment."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Accounting for these differences in who attends schools, where the schools are, and the type and size of school explains most of the link between school ratings and imprisonment."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Nevertheless, controlling for all these factors, we find school rating has a small effect. Students at lower-rated schools have 11% higher odds of going on to be imprisoned compared with students at higher-rated schools. In practice, a very small number of people go on to receive an immediate custodial sentence, so this is a difference of about 1 in 1,000 students."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Lower-rated schools linked to higher likelihood of imprisonment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Lower-rated schools linked to higher likelihood of imprisonment"
+    },
+    {
+      "type": "p",
+      "h2": "Lower-rated schools linked to higher likelihood of imprisonment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "There are some backgrounds and circumstances connected with a higher likelihood of being imprisoned."
+    },
+    {
+      "type": "p",
+      "h2": "Lower-rated schools linked to higher likelihood of imprisonment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "To determine whether there was a link between a pupil attending a higher or lower-rated school as assessed by Ofsted and getting an immediate custodial sentence, our analysis accounted for a wide range of factors."
+    },
+    {
+      "type": "p",
+      "h2": "Lower-rated schools linked to higher likelihood of imprisonment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Pupils in this study](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/methodologies/thelinksbetweenyoungpeoplebeingimprisonedpupilbackgroundandschoolqualitymethodology) were born between September 1993 and August 1994, attended both primary and secondary school in England, and turned 23 or 24 years old by the end of 2017."
+    },
+    {
+      "type": "p",
+      "h2": "Lower-rated schools linked to higher likelihood of imprisonment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "These half a million individuals have hugely different characteristics. Some are from poorer backgrounds, some used English as a second language or lived in an area that was more income deprived. We also know whether they had interacted with social services, what they achieved in their key skills tests in primary school, their ethnicity, gender, and whether they had Special Educational Needs."
+    },
+    {
+      "type": "p",
+      "h2": "Lower-rated schools linked to higher likelihood of imprisonment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Similarly, state schools of all ratings can vary. The data can show us the type of school and size of school, and the kinds of pupils who went to that school, for example, if there was a higher proportion of people in a school on free school meals, or who used English as a second language. We also accounted for how urban or rural the local area was around a school, because cities have higher rates of imprisonment."
+    },
+    {
+      "type": "p",
+      "h2": "Lower-rated schools linked to higher likelihood of imprisonment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Schools should be a paradise where it doesn’t matter what your background is, you can come and learn. James Hadley, headteacher, CRiB"
+    },
+    {
+      "type": "quote",
+      "h2": "Lower-rated schools linked to higher likelihood of imprisonment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Schools should be a paradise where it doesn’t matter what your background is, you can come and learn.",
+      "source": "James Hadley, headteacher, CRiB"
+    },
+    {
+      "type": "p",
+      "h2": "Lower-rated schools linked to higher likelihood of imprisonment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "When we considered all of these factors, there was still a significant difference in outcomes. Pupils who went to satisfactory (now termed “requires improvement”) or inadequate schools were 11% more likely to receive an immediate custodial sentence."
+    },
+    {
+      "type": "p",
+      "h2": "Lower-rated schools linked to higher likelihood of imprisonment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This does not include people who get a suspended custodial term or a non-custodial sentence or caution from police."
+    },
+    {
+      "type": "p",
+      "h2": "Lower-rated schools linked to higher likelihood of imprisonment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Overall, the percentage of people who are imprisoned is very low, so the difference school quality makes for prison outcomes is also very small, relative to the whole population. Schools will be very different within rating categories, so this is not a link between individual schools and a pupil going to prison or another secure setting. The likelihood of imprisonment also varies for people depending on situation and characteristics. There is no “average” student, but we can pick some characteristics for a person to put in the model and show the school quality effect for them as a reference."
+    },
+    {
+      "type": "p",
+      "h2": "Lower-rated schools linked to higher likelihood of imprisonment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Our reference student is male, White British, and had [average educational attainment](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/methodologies/thelinksbetweenyoungpeoplebeingimprisonedpupilbackgroundandschoolqualitymethodology). They have English as a first language, they do not have any Special Educational Needs and are not eligible for free school meals, they were not in care, they are born around the middle of the academic year, and they go to a mixed comprehensive, non-religious school in a rural village in the East Midlands. The school has average characteristics in terms of its size and the type of pupils who go there."
+    },
+    {
+      "type": "p",
+      "h2": "Lower-rated schools linked to higher likelihood of imprisonment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "For this student, there is a 1.4% chance (nearly 14 people in every 1,000) that they will go on to be imprisoned if they go to an outstanding or good school. If they went to a satisfactory or inadequate school however, they would have a 1.5% (15 people in every 1,000) chance of imprisonment, even if everything else stayed the same."
+    },
+    {
+      "type": "p",
+      "h2": "Lower-rated schools linked to higher likelihood of imprisonment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In the following sections, we show how the likelihood of imprisonment is higher for people in disadvantaged situations and that some students are much less likely to attend a good or outstanding school."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Youth crime prevention programmes",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Youth crime prevention programmes"
+    },
+    {
+      "type": "p",
+      "h2": "Youth crime prevention programmes",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "To better illustrate what we cannot measure in data, we spoke to people working with pupils at risk of being excluded from school. [Our previous research](https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/articles/theeducationandsocialcarebackgroundofyoungpeoplewhointeractwiththecriminaljusticesystem/may2022) has shown that more than half (52.5%) of young adults who received immediate custodial sentences had been persistently absent during schooling."
+    },
+    {
+      "type": "p",
+      "h2": "Youth crime prevention programmes",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In 2019, Haverstock School opened the [Camden Reintegration Base (CRiB)](https://www.haverstock.camden.sch.uk/1900/the-camden-reintegration-basehttps://www.haverstock.camden.sch.uk/1900/the-camden-reintegration-basehttps://www.haverstock.camden.sch.uk/1900/the-camden-reintegration-base) in association with 11 other Camden secondary schools. This early intervention programme for students at risk of permanent exclusion takes in around 14 students three times a year for a seven-week programme."
+    },
+    {
+      "type": "p",
+      "h2": "Youth crime prevention programmes",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Haverstock School executive headteacher James Hadley said that, in his experience, it helps that the pupils in need of support are taught within a school environment."
+    },
+    {
+      "type": "p",
+      "h2": "Youth crime prevention programmes",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "“They come to the CRiB in uniform, they have a behaviour policy, they sit at desks. We do have more flexibility over what we do but we don’t want to lower our standards or cheapen their entitlement. We have good facilities and that is a statement of how valuable this provision is. We also put some of our best teachers in to work with the students. This is a precious opportunity, and they need quality. Schools should be a paradise where it doesn’t matter what your background is, you can come and learn."
+    },
+    {
+      "type": "p",
+      "h2": "Youth crime prevention programmes",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "“The CRiB programme is time limited but it’s not just respite. It’s a big pause in their education and a lot of work goes in to make sure they're still learning while we start to tackle the underpinning reasons for their conduct and behaviour.”"
+    },
+    {
+      "type": "p",
+      "h2": "Youth crime prevention programmes",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[EPIC Learning in Doncaster](https://www.epicdoncaster.co.uk/projects/epic-learning) was set up in 2019 and works with groups of up to 10 young people aged 11 to 16 years over a 12-week period. Students are taught the core curriculum and also connected with local businesses. The EPIC team includes a lead teacher, speech and language therapists, a forensic psychologist, a project lead, delivery manager and others with expertise in substance misuse, pastoral support and counselling."
+    },
+    {
+      "type": "p",
+      "h2": "Youth crime prevention programmes",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "EPIC programme lead Marcus Isman-Egal said: “My team is compassionate, understands trauma and understands that there is more to a young person than their behaviours. For some of them, 100% attendance in a programme or achieving a certificate of learning is a massive thing.”"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Most people imprisoned by age 24 first offended before the age of 16",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Most people imprisoned by age 24 first offended before the age of 16"
+    },
+    {
+      "type": "p",
+      "h2": "Most people imprisoned by age 24 first offended before the age of 16",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Not all young people receive intervention support or are detoured away from becoming involved in crime. Of people sentenced immediately to imprisonment by 24 years old in our study, the majority had been convicted or cautioned for an offence before the age of 16."
+    },
+    {
+      "type": "p",
+      "h2": "Most people imprisoned by age 24 first offended before the age of 16",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Around 38,200 young people had been cautioned by police or given a criminal sentence before they were 16 years old. Most of these sentences were not immediate custodial sentences. Less than 300 young people were sent to prison or a secure institution at this age ([sentencing guidelines are different for children and young people](https://www.sentencingcouncil.org.uk/overarching-guides/magistrates-court/item/sentencing-children-and-young-people/))."
+    },
+    {
+      "type": "p",
+      "h2": "Most people imprisoned by age 24 first offended before the age of 16",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "By the age of 24 years however, 3,115 (or 8.2%) of these young offenders had been handed an immediate custodial sentence. That means just over half (54.8%) of the 5,687 people who had been imprisoned by the age of 24 years first interacted with the criminal justice system while still of school age."
+    },
+    {
+      "type": "p",
+      "h2": "Most people imprisoned by age 24 first offended before the age of 16",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Organised crime groups are targeting more and more younger children into their criminal activities Marcus Isman-Egal, EPIC Learning"
+    },
+    {
+      "type": "quote",
+      "h2": "Most people imprisoned by age 24 first offended before the age of 16",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Organised crime groups are targeting more and more younger children into their criminal activities",
+      "source": "Marcus Isman-Egal, EPIC Learning"
+    },
+    {
+      "type": "p",
+      "h2": "Most people imprisoned by age 24 first offended before the age of 16",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Sentences may be short, and a young person may only be in prison or a young offenders’ institution for a day, but that does remain on their record."
+    },
+    {
+      "type": "p",
+      "h2": "Most people imprisoned by age 24 first offended before the age of 16",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "James Hadley said: “We see a lot of children who are on the fringes of criminality, who may not have entered the justice system yet but are at risk of criminal child exploitation. Where we are, you've got the county lines and issues in the community with drugs and some children are more likely to be sucked in. In our experience, early intervention with children and their families increases the chances of success.”"
+    },
+    {
+      "type": "p",
+      "h2": "Most people imprisoned by age 24 first offended before the age of 16",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "He said that early intervention can work out more cheaply for society if it prevents the additional cost of a pupil moving into a PRU or potentially on to prison."
+    },
+    {
+      "type": "p",
+      "h2": "Most people imprisoned by age 24 first offended before the age of 16",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "“Permanent exclusion is such a brutal experience for any young person and their family. They become disaffected with education and often with authority, and that contributes to a sense of them being unable to get success from their life.”"
+    },
+    {
+      "type": "p",
+      "h2": "Most people imprisoned by age 24 first offended before the age of 16",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The first two years of the CRiB programme have been very successful, with the majority of the young people going back to their mainstream school successfully. School exclusions in the area have also fallen."
+    },
+    {
+      "type": "p",
+      "h2": "Most people imprisoned by age 24 first offended before the age of 16",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Nearly all (93%) of the young people who do end up in prison or another secure setting are male](https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/articles/theeducationandsocialcarebackgroundofyoungpeoplewhointeractwiththecriminaljusticesystem/may2022#gender-ethnicity-and-region). EPIC’s Marcus Isman-Egal feels that having positive, male role models available to young people is crucial."
+    },
+    {
+      "type": "p",
+      "h2": "Most people imprisoned by age 24 first offended before the age of 16",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "“Some of the young men don't have a male role model at home or the role model that they have in the community presents a negative face of masculinity and perhaps is involved in crime,” he said."
+    },
+    {
+      "type": "p",
+      "h2": "Most people imprisoned by age 24 first offended before the age of 16",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "“Organised crime groups across the country really see young people as the foot soldiers, and they’re replaceable. They are targeting more and more younger children into their criminal activities. That is why there is a risk for the young people who feel out of the mainstream or excluded or different or not having the right support. They could see those groups looking out for them to recruit them as a family, as a way out."
+    },
+    {
+      "type": "p",
+      "h2": "Most people imprisoned by age 24 first offended before the age of 16",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "“If we don’t break the cycle and if we don’t support the most vulnerable, at-risk young people away from what they may see as perhaps the glamour of the family that is in their community, on the streets and involved in things that provide money, security and friendship, these young people will ultimately be on that pathway into a life of crime. Ultimately, that could lead to prison or, in some cases, could result in death.”"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Children in care or in need less likely to attend a good or outstanding school",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Children in care or in need less likely to attend a good or outstanding school"
+    },
+    {
+      "type": "p",
+      "h2": "Children in care or in need less likely to attend a good or outstanding school",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Our findings show that children who were [in care or flagged by authorities as “in need” during their secondary school years](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/methodologies/thelinksbetweenyoungpeoplebeingimprisonedpupilbackgroundandschoolqualitymethodology), and pupils who were eligible for free school meals in primary school were all less likely than others to attend a “good” or “outstanding” secondary school."
+    },
+    {
+      "type": "p",
+      "h2": "Children in care or in need less likely to attend a good or outstanding school",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Students with recorded behavioural, emotional and social difficulties (BESD) or other Special Educational Needs (SEN) were also less likely to have gone to a higher-rated school."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Children in care or in need less likely to attend a good or outstanding school",
+      "h3": null,
+      "h4": "Children with Special Educational Needs were less likely to go to a higher-rated school",
+      "h5": null,
+      "text": "Children with Special Educational Needs were less likely to go to a higher-rated school"
+    },
+    {
+      "type": "p",
+      "h2": "Children in care or in need less likely to attend a good or outstanding school",
+      "h3": null,
+      "h4": "Children with Special Educational Needs were less likely to go to a higher-rated school",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Children in care or in need less likely to attend a good or outstanding school",
+      "h3": null,
+      "h4": "Children with Special Educational Needs were less likely to go to a higher-rated school",
+      "h5": null,
+      "title": "Children with special educational needs were less likely to a higher-rated school",
+      "url": "/visualisations/dvc2377/fig1/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Children in care or in need less likely to attend a good or outstanding school",
+      "h3": null,
+      "h4": "Download the data",
+      "h5": null,
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": "Children in care or in need less likely to attend a good or outstanding school",
+      "h3": null,
+      "h4": "Download the data",
+      "h5": null,
+      "text": "[.xlsx](/visualisations/dvc2377/fig1/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "Children in care or in need less likely to attend a good or outstanding school",
+      "h3": null,
+      "h4": "Download the data",
+      "h5": null,
+      "text": "Rates of imprisonment for children in need and children in care during secondary school are markedly higher than for other students. Of the 5,560 students in this study who were in the care system during their secondary school years, 93% did not go on to be imprisoned. However, 400 were imprisoned after the age of 16 years. This is a rate of 7%, far above the 1% of pupils who were not in care."
+    },
+    {
+      "type": "p",
+      "h2": "Children in care or in need less likely to attend a good or outstanding school",
+      "h3": null,
+      "h4": "Download the data",
+      "h5": null,
+      "text": "At lower-rated schools, this rate is even higher, with 9% of children in care receiving an immediate custodial sentence, compared with 6% of children in care who went to a good or outstanding school."
+    },
+    {
+      "type": "p",
+      "h2": "Children in care or in need less likely to attend a good or outstanding school",
+      "h3": null,
+      "h4": "Download the data",
+      "h5": null,
+      "text": "For children in need, the imprisonment rate is 4.6%, compared with 0.9% of children not in need. That is 46 children in every 1,000 children in need, but just 9 in 1,000 children not in need."
+    },
+    {
+      "type": "p",
+      "h2": "Children in care or in need less likely to attend a good or outstanding school",
+      "h3": null,
+      "h4": "Download the data",
+      "h5": null,
+      "text": "Pupils with Special Educational Needs (SEN) also have a higher proportion of immediate custodial sentences, with 2.5% of all SEN students being imprisoned compared with 0.7% of non-SEN students."
+    },
+    {
+      "type": "p",
+      "h2": "Children in care or in need less likely to attend a good or outstanding school",
+      "h3": null,
+      "h4": "Download the data",
+      "h5": null,
+      "text": "Not all detail on family background is available in our data. At Haverstock School, many of the pupils being supported by the CRiB have overlapping challenges. The young people who have gone through the EPIC Learning programme to date are predominantly young men, and their backgrounds are complex."
+    },
+    {
+      "type": "p",
+      "h2": "Children in care or in need less likely to attend a good or outstanding school",
+      "h3": null,
+      "h4": "Download the data",
+      "h5": null,
+      "text": "Marcus Isman-Egal said: “Their background could involve a father being absent, a father being in prison, substance misuse issues at home, domestic violence, some young people witness this, some are perpetrators. There can be multiple childhood adverse experiences and also speech and language issues or Special Educational Needs."
+    },
+    {
+      "type": "p",
+      "h2": "Children in care or in need less likely to attend a good or outstanding school",
+      "h3": null,
+      "h4": "Download the data",
+      "h5": null,
+      "text": "“When you’re in a school of 1,000 young people and you have all this going on at home and you’re trying to fit in, sometimes you make wrong decisions. When they come to us, they can have a view of school that is quite negative and that may have been reinforced by family members. Some of the parents may have been quite combative with the school as well. That sows a seed for a battleground and lack of trust. They can be anxious and wary.”"
+    },
+    {
+      "type": "p",
+      "h2": "Children in care or in need less likely to attend a good or outstanding school",
+      "h3": null,
+      "h4": "Download the data",
+      "h5": null,
+      "text": "James Hadley said that many of the pupils attending the CRiB have some kind of chaos in their home life. They may have trauma in their backgrounds and complicated caring arrangements."
+    },
+    {
+      "type": "p",
+      "h2": "Children in care or in need less likely to attend a good or outstanding school",
+      "h3": null,
+      "h4": "Download the data",
+      "h5": null,
+      "text": "He continued: “They may be first generation English speakers and their family don't have the tools to really understand and monitor how they are getting on. There may also be a huge cultural divide. A lot of the students will have some form of Special Educational Needs which make it difficult for them to succeed at school. Some students are school refusers, so we use the CRiB to support them back in.”"
+    },
+    {
+      "type": "p",
+      "h2": "Children in care or in need less likely to attend a good or outstanding school",
+      "h3": null,
+      "h4": "Download the data",
+      "h5": null,
+      "text": "The young people we work with need considerable support and input Marcus Isman-Egal, EPIC Learning"
+    },
+    {
+      "type": "quote",
+      "h2": "Children in care or in need less likely to attend a good or outstanding school",
+      "h3": null,
+      "h4": "Download the data",
+      "h5": null,
+      "text": "The young people we work with need considerable support and input",
+      "source": "Marcus Isman-Egal, EPIC Learning"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Poorer pupils have higher rates of imprisonment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Poorer pupils have higher rates of imprisonment"
+    },
+    {
+      "type": "p",
+      "h2": "Poorer pupils have higher rates of imprisonment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Our analysis confirmed that poorer students also have higher rates of imprisonment. Free school meals are offered to households receiving Universal Credit that have an income of less than £7,400 a year. We also looked at levels of low income in the local area."
+    },
+    {
+      "type": "p",
+      "h2": "Poorer pupils have higher rates of imprisonment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Of the small minority of people who were imprisoned after key stage 4, more than half (57.8%) were eligible for free school meals in primary school. For context, students on free school meals are a fifth (22.9%) of all primary school pupils studied, so imprisonment for this group is disproportionately high."
+    },
+    {
+      "type": "p",
+      "h2": "Poorer pupils have higher rates of imprisonment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Marcus Isman-Egal said that the first step for the EPIC Learning team was to meet a young person and their family at their home and build a trusting relationship, even if that took a few attempts."
+    },
+    {
+      "type": "p",
+      "h2": "Poorer pupils have higher rates of imprisonment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "“One of my colleagues went to visit a family and he realised there was a lack of furniture in the house. No beds. No washing facilities. No washing machine. Mum was using substances and was in a state of denial about other things happening in the home as well. He realised that he had to support the whole family and resolved the issue of things like no bed, washing machine or mattress within a week."
+    },
+    {
+      "type": "p",
+      "h2": "Poorer pupils have higher rates of imprisonment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "“In some other homes, we find out that food is sparse and in those cases we might connect them to a food bank and approach that in a sensitive way. The young people we work with need considerable support and input.”"
+    },
+    {
+      "type": "p",
+      "h2": "Poorer pupils have higher rates of imprisonment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Children in households with a lower household income and pupils on free school meals are also less likely to attend a good or outstanding school."
+    },
+    {
+      "type": "p",
+      "h2": "Poorer pupils have higher rates of imprisonment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Among ethnic groups, Asian Other, White Irish and Chinese pupils were most likely to attend good or outstanding schools (72.9 to 74.4%), while White Roma or Gypsy, Mixed White and Black Caribbean, and Pakistani pupils were least likely to attend a good or outstanding school (54.2 to 61.4%)."
+    },
+    {
+      "type": "p",
+      "h2": "Poorer pupils have higher rates of imprisonment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The difference in imprisonment between lower- and higher-rated schools was greatest in students of Black and Mixed ethnicities. Of students of Black ethnicities who attended good or outstanding schools (around 10,100 people), 374 went on to be imprisoned, or 3.6%. For satisfactory or inadequate schools, the rate of imprisonment for Black students rose to 4.9%. There was also a higher rate of imprisonment for students with a Mixed ethnic background, 1.9% at good or outstanding schools, and 3.2% at lower-rated schools."
+    },
+    {
+      "type": "p",
+      "h2": "Poorer pupils have higher rates of imprisonment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "If you catch children early before they become disaffected there is a better chance of them coming back and being successful James Hadley, CRiB"
+    },
+    {
+      "type": "quote",
+      "h2": "Poorer pupils have higher rates of imprisonment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "If you catch children early before they become disaffected there is a better chance of them coming back and being successful",
+      "source": "James Hadley, CRiB"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Urban areas have higher rates of imprisonment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Urban areas have higher rates of imprisonment"
+    },
+    {
+      "type": "p",
+      "h2": "Urban areas have higher rates of imprisonment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Pupils who went to school in cities or more urban areas were most likely to be imprisoned (1.3% to 1.5%), compared with pupils in sparse rural settings or towns and fringes (0.6%)."
+    },
+    {
+      "type": "p",
+      "h2": "Urban areas have higher rates of imprisonment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This also partly explains why rates of imprisonment are higher in some regions. Pupils in London and the West Midlands were most likely to be imprisoned after age 16 (1.7% and 1.4%) while pupils in the East, South East and South West were least likely (0.6% to 0.8%)."
+    },
+    {
+      "type": "p",
+      "h2": "Urban areas have higher rates of imprisonment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Attendance of good or outstanding schools varied by region. Pupils were most likely to attend a good or outstanding school in London and the South West (71.4% to 71.6% of pupils), whereas pupils in the West Midlands, the North East and Yorkshire and the East Midlands were least likely to go to a higher-rated school (53.3 to 57.8% of pupils)."
+    },
+    {
+      "type": "p",
+      "h2": "Urban areas have higher rates of imprisonment",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "More rural areas (such as hamlets, villages and sparse rural settings) had a higher proportion of students attending good or outstanding schools (72.9 to 83.0% of pupils) compared with small cities and towns (46.6 to 49.5% of pupils)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Urban areas have higher rates of imprisonment",
+      "h3": null,
+      "h4": "School ratings were lowest in suburban fringes and semi-rural areas",
+      "h5": null,
+      "text": "School ratings were lowest in suburban fringes and semi-rural areas"
+    },
+    {
+      "type": "p",
+      "h2": "Urban areas have higher rates of imprisonment",
+      "h3": null,
+      "h4": "School ratings were lowest in suburban fringes and semi-rural areas",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Urban areas have higher rates of imprisonment",
+      "h3": null,
+      "h4": "School ratings were lowest in suburban fringes and semi-rural areas",
+      "h5": null,
+      "title": "School ratings were lowest in suburban fringes and semi-rural areas",
+      "url": "/visualisations/dvc2377/fig2/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Urban areas have higher rates of imprisonment",
+      "h3": null,
+      "h4": "Download the data",
+      "h5": null,
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": "Urban areas have higher rates of imprisonment",
+      "h3": null,
+      "h4": "Download the data",
+      "h5": null,
+      "text": "[.xlsx](/visualisations/dvc2377/fig2/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "Urban areas have higher rates of imprisonment",
+      "h3": null,
+      "h4": "Download the data",
+      "h5": null,
+      "text": "Marcus Isman-Egal is proud of the many cases where EPIC Learning has been able to turn people’s lives around in South Yorkshire, including one young man he worked with who was facing the pull to follow his dad and older siblings into criminality."
+    },
+    {
+      "type": "p",
+      "h2": "Urban areas have higher rates of imprisonment",
+      "h3": null,
+      "h4": "Download the data",
+      "h5": null,
+      "text": "“He knew his dad’s life hadn’t always been a bed of roses and they had always been worried about the knock on the door and retaliation. Going against what is the norm in that family is significant in terms of being your own person. He did that. He fought against all those pressures. Going on to college and then later university was a huge moment for that young person in recognising their own self-worth. Where you start in life doesn’t ultimately determine where you end up. It’s a choice that you make. Doing something different takes bravery but you can do that with the right support.”"
+    },
+    {
+      "type": "p",
+      "h2": "Urban areas have higher rates of imprisonment",
+      "h3": null,
+      "h4": "Download the data",
+      "h5": null,
+      "text": "Not every young person who attends EPIC Learning moves back into mainstream school and has a successful reintegration. Some move onto other alternative provision that can support them or into a PRU."
+    },
+    {
+      "type": "p",
+      "h2": "Urban areas have higher rates of imprisonment",
+      "h3": null,
+      "h4": "Download the data",
+      "h5": null,
+      "text": "Marcus added: “Our project is short-term. In 12 weeks we can do a lot but to cement it in terms of behaviour change and raising expectations it may not be enough.”"
+    },
+    {
+      "type": "p",
+      "h2": "Urban areas have higher rates of imprisonment",
+      "h3": null,
+      "h4": "Download the data",
+      "h5": null,
+      "text": "There have also been notable successes with young people in inner London."
+    },
+    {
+      "type": "p",
+      "h2": "Urban areas have higher rates of imprisonment",
+      "h3": null,
+      "h4": "Download the data",
+      "h5": null,
+      "text": "James Hadley said: “From our experience, catching children early in Year 7, 8 or 9 before they become disaffected gives a better chance of them coming back and being successful. Ideally, the home school is involved at the start, during and at the end to manage the reintegration back to their school."
+    },
+    {
+      "type": "p",
+      "h2": "Urban areas have higher rates of imprisonment",
+      "h3": null,
+      "h4": "Download the data",
+      "h5": null,
+      "text": "“One of the students who completed the pilot programme has gone on to study maths at a Russell Group university. Instead of being permanently excluded, he stayed on at school, became a prefect and went into sixth form. He was on the edge of criminal exploitation and very easily could have gone into that. Another student who had been at risk of permanent exclusion is now applying to university and mentoring younger students. Again, he could have gone the other way.”"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "About the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "About the data"
+    },
+    {
+      "type": "p",
+      "h2": "About the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Analysis in this article is based on [Ministry of Justice and Department for Education linked data](https://www.gov.uk/government/publications/moj-data-first-application-form-for-secure-access-to-data). This is an administrative source that connects education data with records from the Police National Computer. All records are anonymised, and only accredited researchers can apply to access the data."
+    },
+    {
+      "type": "p",
+      "h2": "About the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Our methodology paper](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/methodologies/thelinksbetweenyoungpeoplebeingimprisonedpupilbackgroundandschoolqualitymethodology) gives more detail on definitions for the categories mentioned in this article as well as a technical description of the statistical models used."
+    },
+    {
+      "type": "p",
+      "h2": "About the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The Department for Education has produced separate analysis [using another methodology](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1059556/Education_children_s_social_care_and_offending_descriptive_stats_FINAL.pdf) to explore similar topics. Readers should avoid making direct comparisons between the findings because of the different time periods and individuals included."
+    },
+    {
+      "type": "box",
+      "h2": "About the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "Holly Bathgate, Mathieu Stafford and Simeon North\n[integrated.data.analysis@ons.gov.uk](mailto:integrated.data.analysis@ons.gov.uk)\n Telephone: +44 345 601 3034",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:46:28.452166"
+}

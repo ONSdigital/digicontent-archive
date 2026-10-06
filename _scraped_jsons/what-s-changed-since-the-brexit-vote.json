@@ -1,0 +1,368 @@
+{
+  "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/whatschangedsincethebrexitvote/2017-06-23",
+  "title": "What's changed since the Brexit vote?",
+  "meta_description": "Find out what's changed in the UK economy since the Brexit vote. Draw your estimates for indicators such as GDP, inflation, unemployment and EU immigration on our interactive charts, then click the button to see how you did.",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "Economy",
+      "href": "https://www.ons.gov.uk/economy"
+    },
+    {
+      "text": "Gross Domestic Product (GDP)",
+      "href": "https://www.ons.gov.uk/economy/grossdomesticproductgdp"
+    },
+    {
+      "text": "What's changed since the Brexit vote?",
+      "href": null
+    }
+  ],
+  "date_published": "2018-12-19T00:00:00.000Z",
+  "date_modified": "2018-12-19T00:00:00.000Z",
+  "lede": "Use our interactive charts to find out what's changed in the UK economy since the Brexit vote in June 2016.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "19 December 2018"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The UK leaves the EU in 100 days after more than 40 years of membership."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The UK Prime Minister Theresa May triggered Article 50 of the Lisbon Treaty (the official mechanism for starting Brexit) in March 2017, nine months after the referendum result. The UK will leave the EU on 29 March 2019, following two years of talks."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Many predictions were made before the Brexit vote about what would happen to the economy and society as a whole if the UK chose to leave the EU."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "But what’s the reality? What’s changed since the vote?"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Draw your estimates on the following charts, then click the button to see how you did:"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "The rate of quarterly economic growth, as measured by gross domestic product (GDP)...",
+      "h4": null,
+      "h5": null,
+      "text": "The rate of quarterly economic growth, as measured by gross domestic product (GDP)..."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The rate of quarterly economic growth, as measured by gross domestic product (GDP)...",
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "The rate of quarterly economic growth, as measured by gross domestic product (GDP)...",
+      "h4": null,
+      "h5": null,
+      "title": "GDP",
+      "url": "/visualisations/dvc573/bgdp/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The rate of quarterly economic growth, as measured by gross domestic product (GDP)...",
+      "h4": null,
+      "h5": null,
+      "text": "[Download the data.](/visualisations/dvc573/gdp.csv)"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "The rate of inflation...",
+      "h4": null,
+      "h5": null,
+      "text": "The rate of inflation..."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The rate of inflation...",
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "The rate of inflation...",
+      "h4": null,
+      "h5": null,
+      "title": "CPIH",
+      "url": "/visualisations/dvc573/acpih/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The rate of inflation...",
+      "h4": null,
+      "h5": null,
+      "text": "[Download the data.](/visualisations/dvc573/cpih.csv)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The rate of inflation...",
+      "h4": null,
+      "h5": null,
+      "text": "Inflation is measured here by CPIH, which includes a measure of owner occupiers’ housing costs."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "The value of the pound relative to the euro…",
+      "h4": null,
+      "h5": null,
+      "text": "The value of the pound relative to the euro…"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The value of the pound relative to the euro…",
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "The value of the pound relative to the euro…",
+      "h4": null,
+      "h5": null,
+      "title": "Pound v Euro",
+      "url": "/visualisations/dvc573/cpound/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The value of the pound relative to the euro…",
+      "h4": null,
+      "h5": null,
+      "text": "Source: [Bank of England](http://www.bankofengland.co.uk/boeapps/iadb/index.asp?Travel=NIxIRx&levels=1&XNotes=Y&XNotes2=Y&Nodes=X3790X3791X3873X33940&SectionRequired=I&HideNums=-1&ExtraInfo=true&A3801XBMX3790X3791.x=5&A3801XBMX3790X3791.y=6)"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "The number of visits by overseas residents to the UK...",
+      "h4": null,
+      "h5": null,
+      "text": "The number of visits by overseas residents to the UK..."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The number of visits by overseas residents to the UK...",
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "The number of visits by overseas residents to the UK...",
+      "h4": null,
+      "h5": null,
+      "title": "Tourism",
+      "url": "/visualisations/dvc573/dtourism/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The number of visits by overseas residents to the UK...",
+      "h4": null,
+      "h5": null,
+      "text": "[Download the data.](/visualisations/dvc573/visits.csv)"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "The unemployment rate…",
+      "h4": null,
+      "h5": null,
+      "text": "The unemployment rate…"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The unemployment rate…",
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "The unemployment rate…",
+      "h4": null,
+      "h5": null,
+      "title": "Employment",
+      "url": "/visualisations/dvc573/funemployment/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The unemployment rate…",
+      "h4": null,
+      "h5": null,
+      "text": "[Download the data.](/visualisations/dvc573/unemployment.csv)"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "The number of job vacancies...",
+      "h4": null,
+      "h5": null,
+      "text": "The number of job vacancies..."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The number of job vacancies...",
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "The number of job vacancies...",
+      "h4": null,
+      "h5": null,
+      "title": "Vacancies",
+      "url": "/visualisations/dvc573/gvacancies/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The number of job vacancies...",
+      "h4": null,
+      "h5": null,
+      "text": "[Download the data.](/visualisations/dvc573/vacancies.csv)"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "The number of EU citizens who immigrated to the UK…",
+      "h4": null,
+      "h5": null,
+      "text": "The number of EU citizens who immigrated to the UK…"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The number of EU citizens who immigrated to the UK…",
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "The number of EU citizens who immigrated to the UK…",
+      "h4": null,
+      "h5": null,
+      "title": "Migration",
+      "url": "/visualisations/dvc573/emigration/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The number of EU citizens who immigrated to the UK…",
+      "h4": null,
+      "h5": null,
+      "text": "[Download the data.](/visualisations/dvc573/migration.csv)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The number of EU citizens who immigrated to the UK…",
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": "The number of EU citizens who immigrated to the UK…",
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "Note: given the limited time period since June 2016, even the most frequently published ONS statistics only have a relatively small number of data points available.\n\nThe charts will indicate the highest (maximum) and lowest (minimum) data points since 2008 for each statistic in order to put recent figures into context. All data is correct on 19 December 2018.",
+      "box_items": null
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": "The number of EU citizens who immigrated to the UK…",
+      "h4": null,
+      "h5": null,
+      "box_h2": "You might also be interested in",
+      "box_h3": null,
+      "box_text": "",
+      "box_items": [
+        "[Dashboard: Understanding the UK economy](https://www.ons.gov.uk/economy/nationalaccounts/articles/dashboardunderstandingtheukeconomy/2017-02-22)",
+        "[Migration since the Brexit vote: what’s changed in six charts](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/migrationsincethebrexitvotewhatschangedinsixcharts/2017-11-30)",
+        "[The UK contribution to the EU budget](https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/articles/theukcontributiontotheeubudget/2017-10-31)"
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": "The number of EU citizens who immigrated to the UK…",
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[digitalcontent@ons.gov.uk](mailto:digitalcontent@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:47:30.135293"
+}

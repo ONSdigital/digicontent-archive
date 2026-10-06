@@ -1,0 +1,955 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup20to24july2020/2020-07-24",
+  "title": "Coronavirus (COVID-19) roundup, 20 to 24 July 2020",
+  "meta_description": "Data and analysis related to the coronavirus (COVID-19) pandemic and its impact on our economy and society.",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Health and social care",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare"
+    },
+    {
+      "text": "Coronavirus (COVID-19)",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases"
+    },
+    {
+      "text": "Coronavirus (COVID-19) roundup, 20 to 24 July 2020",
+      "href": null
+    }
+  ],
+  "date_published": "2020-07-23T23:00:00.000Z",
+  "date_modified": "2020-07-23T23:00:00.000Z",
+  "lede": "Data and analysis related to the coronavirus (COVID-19) pandemic and its impact on our economy and society.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "24 July 2020"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This page contains data and analysis published by the Office for National Statistics (ONS) from 20 to 24 July 2020. Go to our [live page](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup/2020-03-26) for the most up-to-date insights on COVID-19."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "24 July 2020"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Deaths involving COVID-19 by local area",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Deaths involving COVID-19 by local area"
+    },
+    {
+      "type": "p",
+      "h2": "Deaths involving COVID-19 by local area",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Following the peak recorded in April 2020, in June 2020 there has been a large decrease in the proportion of deaths involving the coronavirus (COVID-19) across all English regions and Wales, as detailed in the [Deaths involving COVID-19 by local area and socioeconomic deprivation](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsinvolvingcovid19bylocalareasanddeprivation/deathsoccurringbetween1marchand30june2020) release."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths involving COVID-19 by local area",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "London experienced the largest decrease over the period from having more than one in two deaths in April 2020 that involved COVID-19, to only 1 in 20 deaths in June 2020 that were related to COVID-19."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths involving COVID-19 by local area",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The South West region continued to have the lowest proportion of COVID-19 deaths in June 2020 with fewer than 1 in 30 deaths involving COVID-19, while the North West had the highest where slightly more than one in eight deaths were COVID-19-related."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths involving COVID-19 by local area",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Taking into account the size and age structure of the population, there were 88.0 deaths involving COVID-19 per 100,000 people in England and Wales over the period March to June 2020."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths involving COVID-19 by local area",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Between March and June 2020, London had the highest age-standardised mortality rate with 141.8 deaths involving COVID-19 per 100,000 people; this was [statistically significantly](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsinvolvingcovid19bylocalareasanddeprivation/deathsoccurringbetween1marchand30june2020#glossary) higher than any other region in England, and nearly one-third (30.2%) higher than the region with the next highest rate (the North West)."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths involving COVID-19 by local area",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "chartbuilder",
+      "h2": "Deaths involving COVID-19 by local area",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "chartbuilder_h3": "The age-standardised mortality rate of deaths involving the coronavirus (COVID-19) was highest in April 2020 for all English regions and Wales",
+      "chartbuilder_h4": "Age-standardised mortality rates for deaths involving the coronavirus (COVID-19), per 100,000 people, English regions and Wales, deaths occurring in March, April, May and June 2020",
+      "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup20to24july2020/2020-07-24/c23fc6c4",
+      "src": "/_scraped_chartbuilder_imgs/c23fc6c4.png",
+      "local_filename": "c23fc6c4.png"
+    },
+    {
+      "type": "p",
+      "h2": "Deaths involving COVID-19 by local area",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Of the 10 local authorities with the highest age-standardised mortality rates for deaths involving COVID-19 over this period, nine were London boroughs; Brent had the highest overall age-standardized rate with 216.6 deaths per 100,000 people."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths involving COVID-19 by local area",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Rates of deaths involving COVID-19 are also provided by Rural Urban Classification, and by deprivation. In England, the age-standardised mortality rate for deaths involving COVID-19 in the most deprived areas between March and June 2020 was 139.6 deaths per 100,000 people; this was more than double the mortality rate in the least deprived areas (63.4 deaths per 100,000 people)."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths involving COVID-19 by local area",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "24 July 2020"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Interactive map of deaths involving COVID-19",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Interactive map of deaths involving COVID-19"
+    },
+    {
+      "type": "p",
+      "h2": "Interactive map of deaths involving COVID-19",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The coronavirus (COVID-19) has spread across the vast majority of neighbourhoods in England and Wales. The [interactive map](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/causesofdeath/articles/deathsinvolvingcovid19interactivemap/latest) allows you to see the number of deaths occurring in the period March to June 2020, where COVID-19 was mentioned as a cause on the death certificate."
+    },
+    {
+      "type": "p",
+      "h2": "Interactive map of deaths involving COVID-19",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The size of the circle represents the number of deaths."
+    },
+    {
+      "type": "p",
+      "h2": "Interactive map of deaths involving COVID-19",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Enter your postcode or interact with the map to see the number of deaths in an area."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Interactive map of deaths involving COVID-19",
+      "h3": null,
+      "h4": "Number of deaths involving COVID-19 in Middle Layer Super Output Areas, death occurring between March to June 2020, England and Wales",
+      "h5": null,
+      "text": "Number of deaths involving COVID-19 in Middle Layer Super Output Areas, death occurring between March to June 2020, England and Wales"
+    },
+    {
+      "type": "p",
+      "h2": "Interactive map of deaths involving COVID-19",
+      "h3": null,
+      "h4": "Number of deaths involving COVID-19 in Middle Layer Super Output Areas, death occurring between March to June 2020, England and Wales",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Interactive map of deaths involving COVID-19",
+      "h3": null,
+      "h4": "Number of deaths involving COVID-19 in Middle Layer Super Output Areas, death occurring between March to June 2020, England and Wales",
+      "h5": null,
+      "title": "Interactive chart",
+      "url": "/visualisations/dvc914/map/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "Interactive map of deaths involving COVID-19",
+      "h3": null,
+      "h4": "Number of deaths involving COVID-19 in Middle Layer Super Output Areas, death occurring between March to June 2020, England and Wales",
+      "h5": null,
+      "text": "24 June 2020"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Overseas travel and tourism dropped in March because of the coronavirus pandemic",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Overseas travel and tourism dropped in March because of the coronavirus pandemic"
+    },
+    {
+      "type": "p",
+      "h2": "Overseas travel and tourism dropped in March because of the coronavirus pandemic",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Overseas residents made [7 million visits to the UK in Quarter 1](https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/articles/overseastravelandtourismprovisionalresults/januarytomarch2020) (January to March 2020), a 16% drop compared with the same period last year. This is attributed to a reduction in travel because of the coronavirus (COVID-19) pandemic."
+    },
+    {
+      "type": "p",
+      "h2": "Overseas travel and tourism dropped in March because of the coronavirus pandemic",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In January and February, there were [more visits made from overseas to the UK than in the same period last year](https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/bulletins/overseastravelandtourism/januaryfebruaryandmarch2020provisionalresults): visits in January increased by 7% to 3.0 million, while visits in February increased by 6% to 2.5 million. However, in March, the first month where travel was seriously affected by the coronavirus, overseas residents made 1.4 million visits to the UK, a 54% drop compared with March 2019."
+    },
+    {
+      "type": "p",
+      "h2": "Overseas travel and tourism dropped in March because of the coronavirus pandemic",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "chartbuilder",
+      "h2": "Overseas travel and tourism dropped in March because of the coronavirus pandemic",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "chartbuilder_h3": "Visits to the UK by overseas residents decreased by 16% in Quarter 1 2020 compared with the same period a year earlier",
+      "chartbuilder_h4": "Quarterly change from a year earlier in visits to the UK from overseas residents, Quarter 1 (January to March) 2015 to Quarter 1 2020",
+      "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup20to24july2020/2020-07-24/7635370b",
+      "src": "/_scraped_chartbuilder_imgs/7635370b.png",
+      "local_filename": "7635370b.png"
+    },
+    {
+      "type": "p",
+      "h2": "Overseas travel and tourism dropped in March because of the coronavirus pandemic",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "UK residents made 13.9 million visits abroad in Quarter 1 2020, which was 24% fewer than in the same period in 2019. In March, UK residents made 3.2 million overseas trips, a drop of 50% compared with the same time last year."
+    },
+    {
+      "type": "p",
+      "h2": "Overseas travel and tourism dropped in March because of the coronavirus pandemic",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Although March is the first month where travel was severely disrupted because of the coronavirus, trips abroad by UK residents in January and February were lower than in the same period last year, too. Overseas visits in January decreased by 12% to 5.4 million, while visits in February decreased by 6% to 5.2 million."
+    },
+    {
+      "type": "p",
+      "h2": "Overseas travel and tourism dropped in March because of the coronavirus pandemic",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Note: Data collection on the International Passenger Survey was suspended on 16 March. This means that collection was incomplete, and results for March and Quarter 1 should therefore be treated with caution."
+    },
+    {
+      "type": "p",
+      "h2": "Overseas travel and tourism dropped in March because of the coronavirus pandemic",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "24 July 2020"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Retail sales",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Retail sales"
+    },
+    {
+      "type": "p",
+      "h2": "Retail sales",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The [volume of retail sales in Great Britain](https://www.ons.gov.uk/businessindustryandtrade/retailindustry/bulletins/retailsales/june2020) increased by 13.9% when compared with May 2020 as non-food and fuel stores continue their recovery from the sharp falls experienced since the start of the coronavirus (COVID-19) pandemic."
+    },
+    {
+      "type": "p",
+      "h2": "Retail sales",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "chartbuilder",
+      "h2": "Retail sales",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "chartbuilder_h3": "The two monthly increases in the volume of retail sales in May and June 2020 have brought total sales to a similar level as before the coronavirus pandemic",
+      "chartbuilder_h4": "Volume, seasonally adjusted, Great Britain, June 2017 to June 2020",
+      "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup20to24july2020/2020-07-24/08aeaeaf",
+      "src": "/_scraped_chartbuilder_imgs/08aeaeaf.png",
+      "local_filename": "08aeaeaf.png"
+    },
+    {
+      "type": "p",
+      "h2": "Retail sales",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "There is a mixed picture in different store types."
+    },
+    {
+      "type": "p",
+      "h2": "Retail sales",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In June, while non-food stores and fuel sales show strong monthly growths in the volume of sales at 45.5% and 21.5% respectively, levels have still not recovered from the sharp falls experienced in March and April."
+    },
+    {
+      "type": "p",
+      "h2": "Retail sales",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Food stores and non-store retailing both reached new high levels since the start of the pandemic. The non-store retailing sector is at a historically high level, with the benefit of continued trade for many online stores while social distancing measures were in place."
+    },
+    {
+      "type": "p",
+      "h2": "Retail sales",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The amount of money spent online has increased at a fast pace since before lockdown, increasing by 61.9% in June 2020 when compared with February 2020."
+    },
+    {
+      "type": "p",
+      "h2": "Retail sales",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Average weekly spending for online retailing has increased for all main stores. Feedback from non-food stores retailers had suggested that lockdown measures had encouraged them to diversify and trade online during lockdown."
+    },
+    {
+      "type": "p",
+      "h2": "Retail sales",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "23 July 2020"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Fewer people are continuing to follow shielding advice completely",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Fewer people are continuing to follow shielding advice completely"
+    },
+    {
+      "type": "p",
+      "h2": "Fewer people are continuing to follow shielding advice completely",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "At the start of the UK lockdown clinically extremely vulnerable (CEV) people were advised to shield from people they do not live with. The [latest figures](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronavirusandshieldingofclinicallyextremelyvulnerablepeopleinengland/24juneto30june2020) show fewer people report following the shielding advice completely."
+    },
+    {
+      "type": "p",
+      "h2": "Fewer people are continuing to follow shielding advice completely",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Between 24 June and 30 June 2020, 58% of CEV people said they were following the shielding advice completely. This is a significant drop from the 63% of CEV people who said the same between 9 June and 18 June 2020. The data show older CEV people are more likely to follow the shielding guidance completely compared with younger CEV people."
+    },
+    {
+      "type": "p",
+      "h2": "Fewer people are continuing to follow shielding advice completely",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "There has also been a significant decrease in the percentage of CEV people receiving no visitors (except for support with personal care), from 83% to 77%."
+    },
+    {
+      "type": "p",
+      "h2": "Fewer people are continuing to follow shielding advice completely",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "table",
+      "h2": "Fewer people are continuing to follow shielding advice completely",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "caption": "Indicators of clinically extremely vulnerable people following shielding advice\nEngland, 24 June to 30 June 2020",
+      "columns": [
+        {
+          "key": "col1",
+          "label": "col1"
+        },
+        {
+          "key": "col2",
+          "label": "14 May to 19 May"
+        },
+        {
+          "key": "col3",
+          "label": "28 May to 3 June"
+        },
+        {
+          "key": "col4",
+          "label": "9 June to 18 June"
+        },
+        {
+          "key": "col5",
+          "label": "24 June to 30 June"
+        }
+      ],
+      "data": [
+        {
+          "col1": "Percentage that report completely following shielding advice",
+          "col2": "63",
+          "col3": "62",
+          "col4": "63",
+          "col5": "58"
+        },
+        {
+          "col1": "Percentage that report either not leaving the house at all or leaving the house only for exercise",
+          "col2": "65",
+          "col3": "67",
+          "col4": "64",
+          "col5": "60"
+        },
+        {
+          "col1": "Percentage receiving no visitors, except for support with personal care",
+          "col2": "86",
+          "col3": "87",
+          "col4": "83",
+          "col5": "77"
+        }
+      ],
+      "source": "Source: Office for National Statistics – Shielding Behavioural Survey",
+      "footnotes": null
+    },
+    {
+      "type": "p",
+      "h2": "Fewer people are continuing to follow shielding advice completely",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The age groups of CEV people most likely to be furloughed are 50 to 59 years (42%) and 60 to 69 years (48%)."
+    },
+    {
+      "type": "p",
+      "h2": "Fewer people are continuing to follow shielding advice completely",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The Shielding Behavioural Survey asks CEV people about their well-being, too. Fewer CEV people aged over 70 years report experiencing a worsening in their mental health compared with those aged between 20 and 69 years."
+    },
+    {
+      "type": "p",
+      "h2": "Fewer people are continuing to follow shielding advice completely",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "More CEV people in the 40 to 49 years and 50 to 59 years age groups reported a worsening in their physical health than other age groups."
+    },
+    {
+      "type": "p",
+      "h2": "Fewer people are continuing to follow shielding advice completely",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Those shielding between the ages of 50 and 59 years seem to be disproportionately affected during the coronavirus pandemic, reporting a lower life satisfaction, a worsening in physical and mental health than older and younger age groups and are among the most likely to be furloughed. This is a pattern usually seen among 20- to 29-year-olds when looking at the overall population."
+    },
+    {
+      "type": "p",
+      "h2": "Fewer people are continuing to follow shielding advice completely",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "22 July 2020"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Working parents and childcare commitments in lockdown",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Working parents and childcare commitments in lockdown"
+    },
+    {
+      "type": "p",
+      "h2": "Working parents and childcare commitments in lockdown",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Parents have been fitting their work around their childcare commitments, because of the changes to their daily lives brought about by lockdown."
+    },
+    {
+      "type": "p",
+      "h2": "Working parents and childcare commitments in lockdown",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Analysis](http://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/parentinginlockdowncoronavirusandtheeffectsonworklifebalance/2020-07-22) has shown that those who have been able to work under lockdown were more likely to do so during the morning and at night."
+    },
+    {
+      "type": "p",
+      "h2": "Working parents and childcare commitments in lockdown",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Those who worked from home gave developmental childcare, such as helping with homework, throughout the day but there were peaks of activity around noon, 4pm and 8pm. Those working away from home showed a peak of developmental childcare activity at around late afternoon."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Working parents and childcare commitments in lockdown",
+      "h3": null,
+      "h4": "Parents have changed their weekday working patterns because of childcare commitments",
+      "h5": null,
+      "text": "Parents have changed their weekday working patterns because of childcare commitments"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Working parents and childcare commitments in lockdown",
+      "h3": null,
+      "h4": "Parents have changed their weekday working patterns because of childcare commitments",
+      "h5": "Percentage of group who were working at time of the day (weekdays only) in Great Britain, 2020",
+      "text": "Percentage of group who were working at time of the day (weekdays only) in Great Britain, 2020"
+    },
+    {
+      "type": "p",
+      "h2": "Working parents and childcare commitments in lockdown",
+      "h3": null,
+      "h4": "Parents have changed their weekday working patterns because of childcare commitments",
+      "h5": "Percentage of group who were working at time of the day (weekdays only) in Great Britain, 2020",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Working parents and childcare commitments in lockdown",
+      "h3": null,
+      "h4": "Parents have changed their weekday working patterns because of childcare commitments",
+      "h5": "Percentage of group who were working at time of the day (weekdays only) in Great Britain, 2020",
+      "title": "Interactive chart",
+      "url": "/visualisations/dvc913/dev-childcare/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "Working parents and childcare commitments in lockdown",
+      "h3": null,
+      "h4": "Parents have changed their weekday working patterns because of childcare commitments",
+      "h5": "Percentage of group who were working at time of the day (weekdays only) in Great Britain, 2020",
+      "text": "The analysis also showed that during the first few weeks of lockdown (28 March to 26 April, 2020) women were carrying out two-thirds more of the childcare duties per day than men."
+    },
+    {
+      "type": "p",
+      "h2": "Working parents and childcare commitments in lockdown",
+      "h3": null,
+      "h4": "Parents have changed their weekday working patterns because of childcare commitments",
+      "h5": "Percentage of group who were working at time of the day (weekdays only) in Great Britain, 2020",
+      "text": "Women delivered 3 hours and 18 minutes while men contributed two hours."
+    },
+    {
+      "type": "p",
+      "h2": "Working parents and childcare commitments in lockdown",
+      "h3": null,
+      "h4": "Parents have changed their weekday working patterns because of childcare commitments",
+      "h5": "Percentage of group who were working at time of the day (weekdays only) in Great Britain, 2020",
+      "text": "This gender difference was mostly driven by the extra time women spent in carrying out non-developmental childcare such as washing, dressing and feeding children."
+    },
+    {
+      "type": "p",
+      "h2": "Working parents and childcare commitments in lockdown",
+      "h3": null,
+      "h4": "Parents have changed their weekday working patterns because of childcare commitments",
+      "h5": "Percentage of group who were working at time of the day (weekdays only) in Great Britain, 2020",
+      "text": "22 July 2020"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Homeschooling",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Homeschooling"
+    },
+    {
+      "type": "p",
+      "h2": "Homeschooling",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Between 7 May and 7 June 2020, the majority of parents (87%) said a child in their household had been [homeschooled in the previous week because of the coronavirus (COVID-19) pandemic](http://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/articles/coronavirusandhomeschoolingingreatbritain/apriltojune2020)."
+    },
+    {
+      "type": "p",
+      "h2": "Homeschooling",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "On average, children completed 13 hours of learning in the previous week. However, children completed fewer hours of schoolwork on average if they were living with a very young sibling (aged 0 to 4 years)."
+    },
+    {
+      "type": "p",
+      "h2": "Homeschooling",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "chartbuilder",
+      "h2": "Homeschooling",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "chartbuilder_h3": "Parents with young children reported that their oldest child had completed fewer hours of learning over the last week",
+      "chartbuilder_h4": "Percentage of parents who said their only or eldest child had completed the banded number of hours of learning over the past week, by whether there is a child aged 0 to 4 years in the household, Great Britain, 7 May to 7 June 2020",
+      "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup20to24july2020/2020-07-24/b0172189",
+      "src": "/_scraped_chartbuilder_imgs/b0172189.png",
+      "local_filename": "b0172189.png"
+    },
+    {
+      "type": "p",
+      "h2": "Homeschooling",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Overall, more than half (52%) of parents with a school-aged child in their household said they were struggling to continue their education while at home, with lack of motivation most commonly cited as a contributing factor."
+    },
+    {
+      "type": "p",
+      "h2": "Homeschooling",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Parents who had a child aged 0 to 4 years and one or more school-aged children were significantly more likely than those without young children to say that their eldest child was struggling because of caring or monitoring responsibilities for younger children (39% compared with 7%), or a lack of quiet space for studying (41% compared with 13%)."
+    },
+    {
+      "type": "p",
+      "h2": "Homeschooling",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Meanwhile, older children aged 16 to 18 years – who are more likely to be able to learn on their own (without help from their parents) – were asked about homeschooling directly. Over half (53%) said they were struggling to continue their education while at home. Their most common reasons for struggling were the same as those given by parents: lack of motivation and lack of guidance and support."
+    },
+    {
+      "type": "p",
+      "h2": "Homeschooling",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Nearly two-thirds (64%) of older children said they were concerned that their future life plans will be negatively affected by continuing their education at home."
+    },
+    {
+      "type": "p",
+      "h2": "Homeschooling",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "21 July 2020"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Higher-paying jobs have most potential for homeworking",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Higher-paying jobs have most potential for homeworking"
+    },
+    {
+      "type": "p",
+      "h2": "Higher-paying jobs have most potential for homeworking",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Analysis of the jobs that might more easily adapt to remote working](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/whichjobscanbedonefromhome/2020-07-21) has shown that employees in higher-paying jobs are more likely to be able to work from home."
+    },
+    {
+      "type": "p",
+      "h2": "Higher-paying jobs have most potential for homeworking",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Chief executives and senior officials, whose median hourly earnings are £44.08, are among those most able to work remotely, as are financial managers and directors (£31.38) and programmers and software development professionals (£21.97)."
+    },
+    {
+      "type": "p",
+      "h2": "Higher-paying jobs have most potential for homeworking",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In contrast, gardeners, whose median hourly earnings are £10.27, are very unlikely to be able to work from home, as are carpenters and joiners (£13.18) and elementary construction occupations like labourers (£10.25)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Higher-paying jobs have most potential for homeworking",
+      "h3": null,
+      "h4": "Jobs that earn higher hourly wages are more likely to be adaptable to working from home",
+      "h5": null,
+      "text": "Jobs that earn higher hourly wages are more likely to be adaptable to working from home"
+    },
+    {
+      "type": "p",
+      "h2": "Higher-paying jobs have most potential for homeworking",
+      "h3": null,
+      "h4": "Jobs that earn higher hourly wages are more likely to be adaptable to working from home",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Higher-paying jobs have most potential for homeworking",
+      "h3": null,
+      "h4": "Jobs that earn higher hourly wages are more likely to be adaptable to working from home",
+      "h5": null,
+      "title": "Interactive chart",
+      "url": "/visualisations/dvc890/chart1/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "Higher-paying jobs have most potential for homeworking",
+      "h3": null,
+      "h4": "Jobs that earn higher hourly wages are more likely to be adaptable to working from home",
+      "h5": null,
+      "text": "The analysis used data from a US jobs survey to identify the main characteristics associated with not being able to work remotely, which included the amount of face-to-face interaction required in the role, and the use of specialist tools and equipment."
+    },
+    {
+      "type": "p",
+      "h2": "Higher-paying jobs have most potential for homeworking",
+      "h3": null,
+      "h4": "Jobs that earn higher hourly wages are more likely to be adaptable to working from home",
+      "h5": null,
+      "text": "The jobs least likely to be able to be carried out from home are mostly done by men. When looking at the fifth of workers in jobs least likely to be able to work from home, 75% are men. Men make up 48% of the whole workforce."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Higher-paying jobs have most potential for homeworking",
+      "h3": null,
+      "h4": "Workers least likely to be able to work from home are mostly men",
+      "h5": null,
+      "text": "Workers least likely to be able to work from home are mostly men"
+    },
+    {
+      "type": "p",
+      "h2": "Higher-paying jobs have most potential for homeworking",
+      "h3": null,
+      "h4": "Workers least likely to be able to work from home are mostly men",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Higher-paying jobs have most potential for homeworking",
+      "h3": null,
+      "h4": "Workers least likely to be able to work from home are mostly men",
+      "h5": null,
+      "title": "Interactive chart",
+      "url": "/visualisations/dvc890/chart3/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "Higher-paying jobs have most potential for homeworking",
+      "h3": null,
+      "h4": "Workers least likely to be able to work from home are mostly men",
+      "h5": null,
+      "text": "21 July 2020"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Public sector borrowing",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Public sector borrowing"
+    },
+    {
+      "type": "p",
+      "h2": "Public sector borrowing",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Today’s [public sector finance figures](https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/june2020) reflect the ongoing unprecedented impact of the coronavirus (COVID-19) lockdown and the government’s support for individuals and businesses."
+    },
+    {
+      "type": "p",
+      "h2": "Public sector borrowing",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Provisional estimates indicate borrowing in the first quarter of the current financial year (April to June 2020) reached £127.9 billion, more than double the £55.4 billion borrowed in the whole of the last full financial year (April 2019 to March 2020)."
+    },
+    {
+      "type": "p",
+      "h2": "Public sector borrowing",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Borrowing in June 2020 was provisionally estimated to be £35.5 billion, roughly five times that of June 2019 but around £10 billion less than market expectation."
+    },
+    {
+      "type": "p",
+      "h2": "Public sector borrowing",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Tax receipts and National Insurance contributions (on a national accounts basis) were down by 20% on June 2019, while central government spending increased by 25% over the same period."
+    },
+    {
+      "type": "p",
+      "h2": "Public sector borrowing",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Borrowing estimates are subject to greater than usual uncertainty because of their partial reliance on forecast data, with May 2020 being revised down by £9.8 billion to £45.5 billion, largely as a result of stronger than previously estimated tax receipts and National Insurance contributions."
+    },
+    {
+      "type": "p",
+      "h2": "Public sector borrowing",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The need for the extra funding required to support the government’s coronavirus relief schemes combined with a fall in gross domestic product (GDP) pushed debt at the end of June 2020 to 99.6% of GDP."
+    },
+    {
+      "type": "p",
+      "h2": "Public sector borrowing",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Estimates of GDP used to create this ratio are partly based on provisional data and official estimates and are subject to greater than usual uncertainty. Since our previous publication (19 June 2020), our GDP estimates have increased, reflecting the latest published data and leading to the debt ratio at the end of May 2020 falling from 100.9% to 96.9%."
+    },
+    {
+      "type": "p",
+      "h2": "Public sector borrowing",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Today’s data highlight the emerging fiscal impact of the coronavirus crisis but will be prone to material future revisions, and it will take many months before the true scale of the shock becomes clear."
+    },
+    {
+      "type": "p",
+      "h2": "Public sector borrowing",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "20 July 2020"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Ageing tool",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Ageing tool"
+    },
+    {
+      "type": "p",
+      "h2": "Ageing tool",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We have published a [subnational ageing tool](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/ageing/articles/subnationalageingtool/2020-07-20) that allows you to compare the age profile of the population in different areas."
+    },
+    {
+      "type": "p",
+      "h2": "Ageing tool",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The tool also includes measures of older people living alone and the employment status of older people."
+    },
+    {
+      "type": "p",
+      "h2": "Ageing tool",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "You can compare the measures across local authorities, regions and countries in the UK."
+    },
+    {
+      "type": "box",
+      "h2": "Ageing tool",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Related",
+      "box_h3": null,
+      "box_text": "Article | Released on 21 July 2020\n\nDuring the coronavirus (COVID-19) pandemic, government advice has said people in the UK should work from home if possible. This is easier for some workers than others, and jobs that pay more are more likely to be done remotely.\n\nArticle | Released on 22 July 2020\n\nAnalysis of homeschooling in Great Britain during the coronavirus (COVID-19) pandemic from the Opinions and Lifestyle Survey.\n\nArticle | Released on 22 July 2020\n\nParents in Great Britain who have been able to work through the coronavirus lockdown have adapted their working patterns around caring for their children. There were some clear trends in how that childcare was delivered.\n\nStatistical bulletin | Released on 22 September 2026\n\nHow the relationship between UK public sector monthly income and expenditure leads to changes in deficit and debt.\n\nStatistical bulletin | Released on 5 August 2020\n\nAnalysis of clinically extremely vulnerable people (the shielding population) in England during the coronavirus (COVID-19) pandemic, including their behaviours and mental and physical well-being.\n\nStatistical bulletin | Released on 28 August 2020\n\nProvisional counts of the number of deaths and age-standardised mortality rates involving the coronavirus (COVID-19) between 1 March and 31 July 2020 in England and Wales.\n\nStatistical bulletin | Released on 26 April 2023\n\nVisits to the UK by overseas residents, visits abroad by UK residents and spending by travellers, using provisional passenger traffic data.\n\nArticle | Released on 12 June 2020\n\nUse our interactive map to explore the number of COVID-19 deaths in your area.\n\nStatistical bulletin | Released on 18 September 2026\n\nRetail sales rose in the three months to August 2026, according to our first estimate.",
+      "box_items": [
+        "[Which jobs can be done from home?](/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/whichjobscanbedonefromhome/2020-07-21) Article | Released on 21 July 2020 During the coronavirus (COVID-19) pandemic, government advice has said people in the UK should work from home if possible. This is easier for some workers than others, and jobs that pay more are more likely to be done remotely.",
+        "[Coronavirus and homeschooling in Great Britain](/peoplepopulationandcommunity/educationandchildcare/articles/coronavirusandhomeschoolingingreatbritain/apriltojune2020) Article | Released on 22 July 2020 Analysis of homeschooling in Great Britain during the coronavirus (COVID-19) pandemic from the Opinions and Lifestyle Survey.",
+        "[Parenting in lockdown: Coronavirus and the effects on work-life balance](/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/parentinginlockdowncoronavirusandtheeffectsonworklifebalance/2020-07-22) Article | Released on 22 July 2020 Parents in Great Britain who have been able to work through the coronavirus lockdown have adapted their working patterns around caring for their children. There were some clear trends in how that childcare was delivered.",
+        "[Public sector finances, UK](/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/august2026) Statistical bulletin | Released on 22 September 2026 How the relationship between UK public sector monthly income and expenditure leads to changes in deficit and debt.",
+        "[Coronavirus and shielding of clinically extremely vulnerable people in England](/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronavirusandshieldingofclinicallyextremelyvulnerablepeopleinengland/9julyto16july2020) Statistical bulletin | Released on 5 August 2020 Analysis of clinically extremely vulnerable people (the shielding population) in England during the coronavirus (COVID-19) pandemic, including their behaviours and mental and physical well-being.",
+        "[Deaths involving COVID-19 by local area and socioeconomic deprivation](/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsinvolvingcovid19bylocalareasanddeprivation/deathsoccurringbetween1marchand31july2020) Statistical bulletin | Released on 28 August 2020 Provisional counts of the number of deaths and age-standardised mortality rates involving the coronavirus (COVID-19) between 1 March and 31 July 2020 in England and Wales.",
+        "[Overseas travel and tourism](/peoplepopulationandcommunity/leisureandtourism/bulletins/overseastravelandtourism/december2022provisionalresults) Statistical bulletin | Released on 26 April 2023 Visits to the UK by overseas residents, visits abroad by UK residents and spending by travellers, using provisional passenger traffic data.",
+        "[Deaths due to COVID-19 – Interactive map](/peoplepopulationandcommunity/healthandsocialcare/causesofdeath/articles/deathsinvolvingcovid19interactivemap/2020-06-12) Article | Released on 12 June 2020 Use our interactive map to explore the number of COVID-19 deaths in your area.",
+        "[Retail sales, Great Britain](/businessindustryandtrade/retailindustry/bulletins/retailsales/august2026) Statistical bulletin | Released on 18 September 2026 Retail sales rose in the three months to August 2026, according to our first estimate."
+      ]
+    },
+    {
+      "type": "box",
+      "h2": "Ageing tool",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[digitalcontent@ons.gov.uk](mailto:digitalcontent@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:48:07.376083"
+}

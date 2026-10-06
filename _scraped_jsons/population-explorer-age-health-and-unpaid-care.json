@@ -1,0 +1,172 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/populationexploreragehealthandunpaidcare/2020-04-08",
+  "title": "Population explorer: age, health and unpaid care",
+  "meta_description": "Explore the population of England and Wales by age, levels of health, and those providing unpaid care to others",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Health and social care",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare"
+    },
+    {
+      "text": "Coronavirus (COVID-19)",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases"
+    },
+    {
+      "text": "Population explorer: age, health and unpaid care",
+      "href": null
+    }
+  ],
+  "date_published": "2020-04-07T23:00:00.000Z",
+  "date_modified": "2020-04-07T23:00:00.000Z",
+  "lede": "Explore the population of England and Wales by age, levels of health, and those providing unpaid care to others",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "8 April 2020"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "People most at risk of severe illness from coronavirus (COVID-19) include those aged 70 years and over, those with underlying health conditions including certain chronic illnesses, as well as those with weakened immune systems. The UK government [advises people in these groups](https://www.gov.uk/government/publications/covid-19-guidance-on-social-distancing-and-for-vulnerable-people/guidance-on-social-distancing-for-everyone-in-the-uk-and-protecting-older-people-and-vulnerable-adults) to be particularly stringent in following “social distancing” measures."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "As the UK population steps up national, local and community efforts to support its most vulnerable members, our interactive map allows you to identify which areas have the highest concentrations of people in some of the most vulnerable groups."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Our data cannot identify the numbers of people with the specific underlying health conditions in the government’s guidance, but it is possible to explore the number of people in local areas who report having “bad” or “very bad” health, those with long-term health conditions or disability, and people whose day-to-day activities are limited a lot."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "You can also see the number of people in neighbourhoods who provide unpaid care to others."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "To select an area enter a postcode or hover over the map."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": null,
+      "h4": "Explore age, health and care small area data",
+      "h5": null,
+      "text": "Explore age, health and care small area data"
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": "Explore age, health and care small area data",
+      "h5": null,
+      "title": "Interactive chart",
+      "url": "/visualisations/dvc791/mapnav/index.html"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": "Explore age, health and care small area data",
+      "h5": null,
+      "text": "The data used to create this map do not allow individual people or households to be identified. Building groups are shaded to give a sense of the population density in an area."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": "Explore age, health and care small area data",
+      "h5": null,
+      "text": "The data for those aged 70 years and over and 85 years and over are sourced from the Small area population estimates, while the remaining data are sourced from the 2011 Census."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": "Explore age, health and care small area data",
+      "h5": null,
+      "text": "While the 2011 Census data are nine years old, they allow us to present the combinations of variables down to small areas. These variables will have changed, but the rate of change is likely to be slow."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Explore age, health and care small area data",
+      "h5": null,
+      "text": "[Download the data](/visualisations/dvc791/mapnav/datadownload.csv)"
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": "Explore age, health and care small area data",
+      "h5": null,
+      "box_h2": "Related",
+      "box_h3": null,
+      "box_text": "Article | Released on 24 March 2020\n\nSee the population of England and Wales aged 70 years and over mapped at a local level.\n\nStatistical bulletin | Released on 7 November 2025\n\nNational population estimates broken down into small geographical areas (Super Output Areas, health geographies, electoral wards, Parliamentary constituencies and National Parks).",
+      "box_items": [
+        "[Where do over-70s live?](/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/wheredoover70slive/2020-03-24) Article | Released on 24 March 2020 See the population of England and Wales aged 70 years and over mapped at a local level.",
+        "[Population estimates by output areas, electoral, health and other geographies, England and Wales](/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/annualsmallareapopulationestimates/mid2023andmid2024revisedmid2022) Statistical bulletin | Released on 7 November 2025 National population estimates broken down into small geographical areas (Super Output Areas, health geographies, electoral wards, Parliamentary constituencies and National Parks)."
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": "Explore age, health and care small area data",
+      "h5": null,
+      "box_h2": "You might also be interested in",
+      "box_h3": null,
+      "box_text": "",
+      "box_items": [
+        "[Coronavirus (COVID-19) roundup](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup/2020-03-26)",
+        "[UK population summary by age and geography, mid-2018](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/adhocs/11516ukpopulationsummarybyageandgeographymid2018)",
+        "[Commissioned table that classifies all usual residents by age by general health by long-term health problem or disability from National level to LSOA level in England and Wales on census day](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/adhocs/11483ct10872011census)",
+        "[Full data from the 2011 Census are available, covering the whole range of population characteristics and subject areas](https://www.nomisweb.co.uk/census/2011)"
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": "Explore age, health and care small area data",
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[digitalcontent@ons.gov.uk](mailto:digitalcontent@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:47:26.576198"
+}

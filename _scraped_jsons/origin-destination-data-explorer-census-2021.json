@@ -1,0 +1,176 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/origindestinationdataexplorercensus2021/2023-11-21",
+  "title": "Origin-destination data explorer: Census 2021",
+  "meta_description": "A tool to view animated flows of people moving between places for work or migration, based on data from Census 2021, to a neighbourhood (MSOA) level. Choose between visualised flows for Migration flows (Movement from address 12 months prior to census day) and Workplace flows (Usual residence and place of work).",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Population and migration",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration"
+    },
+    {
+      "text": "Population estimates",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates"
+    },
+    {
+      "text": "Origin-destination data explorer: Census 2021",
+      "href": null
+    }
+  ],
+  "date_published": "2023-11-21T00:00:00.000Z",
+  "date_modified": "2023-11-21T00:00:00.000Z",
+  "lede": "A tool to show animated flows of people for travel to work or migration, based on Census 2021.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "21 November 2023"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This is an [interactive guide and tool](/visualisations/censusorigindestination/) for exploring some of the origin-destination data published for Census 2021."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Origin-destination data show the movement of people from one location to another, such as migration and commuting patterns. It is sometimes known as \"flow data\"."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The coronavirus (COVID-19) pandemic strongly affected patterns of population movement. Census day was 21 March 2021, when lockdown restrictions were in force in the UK."
+    },
+    {
+      "type": "image",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "src": "/visualisations/censusorigindestination/img/header.png",
+      "alt": ""
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Origin-destination data explorer: Census 2021",
+      "h4": null,
+      "h5": null,
+      "text": "Origin-destination data explorer: Census 2021"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Origin-destination data explorer: Census 2021",
+      "h4": null,
+      "h5": null,
+      "text": "Use our interactive tool to visualise population flows"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Using the tool",
+      "h4": null,
+      "h5": null,
+      "text": "Using the tool"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Using the tool",
+      "h4": null,
+      "h5": null,
+      "text": "Choose between visualised flows for:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Using the tool",
+      "h4": null,
+      "h5": null,
+      "text": "Migration flows - Movement from address 12 months prior to census day"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Using the tool",
+      "h4": null,
+      "h5": null,
+      "text": "Workplace flows - Usual residence and place of work"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Using the tool",
+      "h4": null,
+      "h5": null,
+      "text": "You can also switch direction to see aggregated movements to and from an area."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Using the tool",
+      "h4": null,
+      "h5": null,
+      "text": "The tool is also embeddable for use in external websites. A link is provided within the guide article."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Get the data",
+      "h4": null,
+      "h5": null,
+      "text": "Get the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Get the data",
+      "h4": null,
+      "h5": null,
+      "text": "You can [download the data used in this tool](https://www.nomisweb.co.uk/sources/census_2021_od), along with a wider range of origin-destination datasets, from Nomis. You can read more about these datasets and how to use them in the [User guide to Census 2021 origin-destination data](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/methodologies/userguidetocensus2021origindestinationdataenglandandwales). Main findings about this data can be found in the [origin-destination data bulletin](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/origindestinationdataenglandandwales/census2021)."
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": "Get the data",
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[census.customerservices@ons.gov.uk](mailto:census.customerservices@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:46:42.711821"
+}

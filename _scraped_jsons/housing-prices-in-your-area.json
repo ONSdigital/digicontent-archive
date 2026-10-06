@@ -1,0 +1,120 @@
+{
+  "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/articles/housingpricesinyourarea/2024-03-20",
+  "title": "Housing prices in your area",
+  "meta_description": "An interactive article that allows users to find average house prices and monthly private rents for local areas across the UK. Users can see how changes in average prices compare with regional and national trends, and find other data such as average house prices for first-time buyers.",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "Economy",
+      "href": "https://www.ons.gov.uk/economy"
+    },
+    {
+      "text": "Inflation and price indices",
+      "href": "https://www.ons.gov.uk/economy/inflationandpriceindices"
+    },
+    {
+      "text": "Housing prices in your area",
+      "href": null
+    }
+  ],
+  "date_published": "2024-03-20T00:00:00.000Z",
+  "date_modified": "2024-03-20T00:00:00.000Z",
+  "lede": "Find house prices and private rental prices for local authority and broad rental market areas across the UK.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "20 March 2024"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "See the latest average house prices and monthly private rental prices for your local area, and how they have changed over time."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Select a district or unitary authority by typing, or click on an area in the list below."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "For more detail at national level, read our main [bulletin on private rent and house prices](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/privaterentandhousepricesuk/latest)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This tool was last updated on 16 September 2026."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "housingpriceslocal",
+      "url": "/visualisations/housingpriceslocal/landing"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This tool is updated monthly. It first published on 20 March 2024."
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Related",
+      "box_h3": null,
+      "box_text": "Statistical bulletin | Released on 16 September 2026\n\nThe Price Index of Private Rents (PIPR) measures private rent inflation for new and existing tenancies. The UK House Price Index (HPI) measures house price inflation.\n\nArticle | Released on 26 March 2026\n\nUse our calculator to explore the average cost of buying a home in your neighbourhood relative to local average earnings\n\nStatistical bulletin | Released on 26 March 2026\n\nData on house prices and annual earnings to calculate affordability ratios for national and subnational geographies in England and Wales on an annual basis.",
+      "box_items": [
+        "[Private rent and house prices, UK](/economy/inflationandpriceindices/bulletins/privaterentandhousepricesuk/september2026) Statistical bulletin | Released on 16 September 2026 The Price Index of Private Rents (PIPR) measures private rent inflation for new and existing tenancies. The UK House Price Index (HPI) measures house price inflation.",
+        "[How affordable are homes in your neighbourhood?](/peoplepopulationandcommunity/housing/articles/howaffordablearehomesinyourneighbourhood/2026-03-26) Article | Released on 26 March 2026 Use our calculator to explore the average cost of buying a home in your neighbourhood relative to local average earnings",
+        "[Housing affordability in England and Wales](/peoplepopulationandcommunity/housing/bulletins/housingaffordabilityinenglandandwales/2025) Statistical bulletin | Released on 26 March 2026 Data on house prices and annual earnings to calculate affordability ratios for national and subnational geographies in England and Wales on an annual basis."
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[digitalcontent@ons.gov.uk](mailto:digitalcontent@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:48:45.183136"
+}

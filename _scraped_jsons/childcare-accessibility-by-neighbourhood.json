@@ -1,0 +1,502 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/articles/childcareaccessibilitybyneighbourhood/2024-06-04",
+  "title": "Childcare accessibility by neighbourhood",
+  "meta_description": "This release allows users to compare levels of childcare accessibility across local areas in England, and explores the characteristics of areas with lower or higher levels of access.",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Education and childcare",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare"
+    },
+    {
+      "text": "Childcare accessibility by neighbourhood",
+      "href": null
+    }
+  ],
+  "date_published": "2024-06-03T23:00:00.000Z",
+  "date_modified": "2024-06-03T23:00:00.000Z",
+  "lede": "Levels of access to childcare vary across local areas in England",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "4 June 2024"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Accessible childcare can be crucial for parents and guardians who want to return to work, increase their hours, or even enter the labour market for the first time."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "A primary challenge for families is whether they can access suitable childcare locally."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Our analysis with Ofsted, which inspects and regulates childcare services, shows wide variation in the potential level of access to registered childcare places across the country in 2023. Affordability of childcare is not something we measure in this analysis."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Areas with lower levels of access to childcare were generally more likely to have lower disposable household incomes, on average, and a higher proportion of children living in poverty."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Our interactive tool below allows comparison of childcare accessibility between neighbourhoods across England."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Access to childcare is calculated as an equivalent number of childcare places per 100 children aged 0 to 7 years, accessible from a neighbourhood."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "A higher number of places per 100 children indicates better access. The figures, however, are estimates of potential supply and demand, and not all children will need care from registered providers."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This analysis only includes Ofsted-registered childcare places at nurseries and other group settings, and childminders. Around [300,000 (19%) places are school-based](http://Schools,%20pupils%20and%20their%20characteristics,%20Academic%20year%202022/23%20%E2%80%93%20Explore%20education%20statistics%20%E2%80%93%20GOV.UK%20(explore-education-statistics.service.gov.uk)), and are not considered in this analysis."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "Childcare places accessible per 100 children by neighbourhood, England, 2023",
+      "url": "/visualisations/dvc2940/build/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Download the data for childcare places accessible per 100 children by neighbourhood (XSLX, 2,382KB)](/visualisations/dvc2940/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "As well as looking at childcare access within small neighbourhoods, we can explore provision across local authority areas."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This allows us to look at other data to understand more about the characteristics of areas with particularly low or high levels of childcare access."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": null,
+      "h4": "Affluent areas like St Albans and Cambridge had the highest levels of childcare access",
+      "h5": null,
+      "text": "Affluent areas like St Albans and Cambridge had the highest levels of childcare access"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": null,
+      "h4": "Affluent areas like St Albans and Cambridge had the highest levels of childcare access",
+      "h5": "Local authorities with the most and least childcare places accessible per 100 children, England, 2023",
+      "text": "Local authorities with the most and least childcare places accessible per 100 children, England, 2023"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Affluent areas like St Albans and Cambridge had the highest levels of childcare access",
+      "h5": "Local authorities with the most and least childcare places accessible per 100 children, England, 2023",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": "Affluent areas like St Albans and Cambridge had the highest levels of childcare access",
+      "h5": "Local authorities with the most and least childcare places accessible per 100 children, England, 2023",
+      "title": "Local authorities with the most and least childcare places accessible per 100 children, England, 2023",
+      "url": "/visualisations/dvc2940/bartopbottom/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Affluent areas like St Albans and Cambridge had the highest levels of childcare access",
+      "h5": "Local authorities with the most and least childcare places accessible per 100 children, England, 2023",
+      "text": "[Download the data for most and least childcare places accessible per 100 children by local authority (XSLX, 20KB)](/visualisations/dvc2940/bartopbottom/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Affluent areas like St Albans and Cambridge had the highest levels of childcare access",
+      "h5": "Local authorities with the most and least childcare places accessible per 100 children, England, 2023",
+      "text": "Nearly all (9 out of 10) of the local authority areas with the highest number of childcare places relative to children had a higher than average gross disposable household income (GDHI) per head of the population. The only exception was South Ribble."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Affluent areas like St Albans and Cambridge had the highest levels of childcare access",
+      "h5": "Local authorities with the most and least childcare places accessible per 100 children, England, 2023",
+      "text": "GDHI is the amount of money individuals have left to spend or save after they have paid direct and indirect taxes and received any direct benefits. It is a measure intended to reflect the material welfare of households."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Affluent areas like St Albans and Cambridge had the highest levels of childcare access",
+      "h5": "Local authorities with the most and least childcare places accessible per 100 children, England, 2023",
+      "text": "In contrast, all the areas with the lowest levels of childcare access had a lower than average GDHI per head, with 6 out of 10 falling in the lowest 10% of local authorities."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Affluent areas like St Albans and Cambridge had the highest levels of childcare access",
+      "h5": "Local authorities with the most and least childcare places accessible per 100 children, England, 2023",
+      "text": "You can explore the relationship between levels of childcare access and GDHI – including for your local authority area – by using our interactive chart below."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": null,
+      "h4": "Households in areas with higher childcare access tend to have higher disposable incomes",
+      "h5": null,
+      "text": "Households in areas with higher childcare access tend to have higher disposable incomes"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": null,
+      "h4": "Households in areas with higher childcare access tend to have higher disposable incomes",
+      "h5": "Equivalent childcare places accessible per 100 children by local authority area, England, 2023, and gross disposable household income per head by local authority area, England, 2021",
+      "text": "Equivalent childcare places accessible per 100 children by local authority area, England, 2023, and gross disposable household income per head by local authority area, England, 2021"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Households in areas with higher childcare access tend to have higher disposable incomes",
+      "h5": "Equivalent childcare places accessible per 100 children by local authority area, England, 2023, and gross disposable household income per head by local authority area, England, 2021",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": "Households in areas with higher childcare access tend to have higher disposable incomes",
+      "h5": "Equivalent childcare places accessible per 100 children by local authority area, England, 2023, and gross disposable household income per head by local authority area, England, 2021",
+      "title": "Equivalent childcare places accessible per 100 children by local authority area, England, 2023, and gross disposable household income per head by local authority area, England, 2021",
+      "url": "/visualisations/dvc2940/scatter2/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Households in areas with higher childcare access tend to have higher disposable incomes",
+      "h5": "Equivalent childcare places accessible per 100 children by local authority area, England, 2023, and gross disposable household income per head by local authority area, England, 2021",
+      "text": "[Download the data for childcare access and household income (XSLX, 28KB)](/visualisations/dvc2940/scatter2/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Households in areas with higher childcare access tend to have higher disposable incomes",
+      "h5": "Equivalent childcare places accessible per 100 children by local authority area, England, 2023, and gross disposable household income per head by local authority area, England, 2021",
+      "text": "This pattern is similar when we consider child poverty. Children are defined as living in relative poverty if their household has an income at least 60% below the median income, which is the middle value of incomes nationally."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Households in areas with higher childcare access tend to have higher disposable incomes",
+      "h5": "Equivalent childcare places accessible per 100 children by local authority area, England, 2023, and gross disposable household income per head by local authority area, England, 2021",
+      "text": "The proportion of children living in relative poverty was generally higher in areas with lower levels of childcare access, and lower in areas with higher levels of access."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Households in areas with higher childcare access tend to have higher disposable incomes",
+      "h5": "Equivalent childcare places accessible per 100 children by local authority area, England, 2023, and gross disposable household income per head by local authority area, England, 2021",
+      "text": "There was a particularly strong relationship between childcare access and women's qualifications."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Households in areas with higher childcare access tend to have higher disposable incomes",
+      "h5": "Equivalent childcare places accessible per 100 children by local authority area, England, 2023, and gross disposable household income per head by local authority area, England, 2021",
+      "text": "Among women in households with dependent children aged 0 to 4 years, the proportion with higher education qualifications tended to be higher in areas with higher levels of childcare access."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": null,
+      "h4": "Areas with higher childcare access were more likely to have women with higher levels of qualification",
+      "h5": null,
+      "text": "Areas with higher childcare access were more likely to have women with higher levels of qualification"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": null,
+      "h4": "Areas with higher childcare access were more likely to have women with higher levels of qualification",
+      "h5": "Equivalent childcare places per 100 children by local authority area, England, 2023, and proportion of women in households with dependent children aged 0 to 4 years, who have higher education qualifications, by local authority area, England, 2021",
+      "text": "Equivalent childcare places per 100 children by local authority area, England, 2023, and proportion of women in households with dependent children aged 0 to 4 years, who have higher education qualifications, by local authority area, England, 2021"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Areas with higher childcare access were more likely to have women with higher levels of qualification",
+      "h5": "Equivalent childcare places per 100 children by local authority area, England, 2023, and proportion of women in households with dependent children aged 0 to 4 years, who have higher education qualifications, by local authority area, England, 2021",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": "Areas with higher childcare access were more likely to have women with higher levels of qualification",
+      "h5": "Equivalent childcare places per 100 children by local authority area, England, 2023, and proportion of women in households with dependent children aged 0 to 4 years, who have higher education qualifications, by local authority area, England, 2021",
+      "title": "Equivalent childcare places per 100 children by local authority area, England, 2023, and proportion of women in households with dependent children aged 0 to 4 years, who have higher education qualifications, by local authority area, England, 2021",
+      "url": "/visualisations/dvc2940/scatter1/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Areas with higher childcare access were more likely to have women with higher levels of qualification",
+      "h5": "Equivalent childcare places per 100 children by local authority area, England, 2023, and proportion of women in households with dependent children aged 0 to 4 years, who have higher education qualifications, by local authority area, England, 2021",
+      "text": "[Download the data for childcare access and women's qualifications (XSLX, 29KB)](/visualisations/dvc2940/scatter1/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Areas with higher childcare access were more likely to have women with higher levels of qualification",
+      "h5": "Equivalent childcare places per 100 children by local authority area, England, 2023, and proportion of women in households with dependent children aged 0 to 4 years, who have higher education qualifications, by local authority area, England, 2021",
+      "text": "Of the 10 local authorities with the highest levels of childcare access, nine were also in the highest 10% for the proportion of women in households with dependent young children, who were highly qualified. The 10 local authorities with the lowest levels of childcare access were in the lowest 30% for proportions of women with dependent children, who were highly qualified."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Areas with higher childcare access were more likely to have women with higher levels of qualification",
+      "h5": "Equivalent childcare places per 100 children by local authority area, England, 2023, and proportion of women in households with dependent children aged 0 to 4 years, who have higher education qualifications, by local authority area, England, 2021",
+      "text": "Accessible childcare is particularly important for women who want to increase their working hours or enter the labour market, because they are [more likely to take responsibility for unpaid childcare, according to our Time use in the UK release](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/timeuseintheuk/23septemberto1october2023)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Areas with higher childcare access were more likely to have women with higher levels of qualification",
+      "h5": "Equivalent childcare places per 100 children by local authority area, England, 2023, and proportion of women in households with dependent children aged 0 to 4 years, who have higher education qualifications, by local authority area, England, 2021",
+      "text": "Our analysis shows that areas with lower levels of childcare access tend to have higher proportions of women in households with dependent young children, who were neither working nor looking for work because of looking after the home or family."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Areas with higher childcare access were more likely to have women with higher levels of qualification",
+      "h5": "Equivalent childcare places per 100 children by local authority area, England, 2023, and proportion of women in households with dependent children aged 0 to 4 years, who have higher education qualifications, by local authority area, England, 2021",
+      "text": "However, this pattern was not as strong as for other characteristics we studied."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Areas with higher childcare access were more likely to have women with higher levels of qualification",
+      "h5": "Equivalent childcare places per 100 children by local authority area, England, 2023, and proportion of women in households with dependent children aged 0 to 4 years, who have higher education qualifications, by local authority area, England, 2021",
+      "text": "You can explore these characteristics by local authority in the [data download](https://ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/datasets/childcareaccessibilityinenglanddata)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": null,
+      "h4": "Childcare accessibility by public transport was lowest in the West Midlands",
+      "h5": null,
+      "text": "Childcare accessibility by public transport was lowest in the West Midlands"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": null,
+      "h4": "Childcare accessibility by public transport was lowest in the West Midlands",
+      "h5": "Equivalent childcare places accessible per 100 children by transport mode, English regions, 2023",
+      "text": "Equivalent childcare places accessible per 100 children by transport mode, English regions, 2023"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Childcare accessibility by public transport was lowest in the West Midlands",
+      "h5": "Equivalent childcare places accessible per 100 children by transport mode, English regions, 2023",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": "Childcare accessibility by public transport was lowest in the West Midlands",
+      "h5": "Equivalent childcare places accessible per 100 children by transport mode, English regions, 2023",
+      "title": "Equivalent childcare places accessible per 100 children by transport mode, English regions, 2023",
+      "url": "/visualisations/dvc2940/region/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Childcare accessibility by public transport was lowest in the West Midlands",
+      "h5": "Equivalent childcare places accessible per 100 children by transport mode, English regions, 2023",
+      "text": "[Download the data for childcare access by transport mode and region (XSLX, 18KB)](/visualisations/dvc2940/region/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Childcare accessibility by public transport was lowest in the West Midlands",
+      "h5": "Equivalent childcare places accessible per 100 children by transport mode, English regions, 2023",
+      "text": "By public transport, there was the equivalent of 13 childcare places accessible per 100 children aged 0 to 7 years in the West Midlands in 2023. That was the lowest of England’s nine regions."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Childcare accessibility by public transport was lowest in the West Midlands",
+      "h5": "Equivalent childcare places accessible per 100 children by transport mode, English regions, 2023",
+      "text": "London had the highest level of accessibility by public transport, at 25 places per 100 children. It also had the smallest gap between childcare accessibility by public transport, and by driving."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Childcare accessibility by public transport was lowest in the West Midlands",
+      "h5": "Equivalent childcare places accessible per 100 children by transport mode, English regions, 2023",
+      "text": "The South East had the largest accessibility gap by transport mode. However, it still had the second-highest level by public transport, at 19 places per 100 children and the highest by driving at 30 places per 100. The North East had the lowest level of access by driving."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "About the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "About the data"
+    },
+    {
+      "type": "p",
+      "h2": "About the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The figures on gross disposable household income (GDHI) are taken from our [Clustering similar local authorities in the UK](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/adhocs/1829clusteringsimilarlocalauthoritiesintheuk) release, and are for 2021. GDHI is the amount of money individuals have left for spending or saving after they have paid direct and indirect taxes and received any direct benefits. It is a measure intended to reflect the material welfare of households. GDHI per head is an estimate of the amount of money each individual within a household has available."
+    },
+    {
+      "type": "p",
+      "h2": "About the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The data on the percentage of children in relative poverty are taken from our [Clustering similar local authorities in the UK](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/adhocs/1829clusteringsimilarlocalauthoritiesintheuk) release, and cover the financial year ending 2022. They were sourced from the Department for Work and Pensions’ Children in low income families: local area statistics 2014 to 2022 release and they provide estimates for the percentage of children aged 0 to 15 years in families and households deemed to be in relative poverty. A household is defined as being in relative poverty if it has an income at least 60% below the median income, which is the middle value of incomes nationally."
+    },
+    {
+      "type": "p",
+      "h2": "About the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The data on highest qualifications and economic activity status for women in households with dependent children aged 0 to 4 years were taken from Census 2021. You can read more about these in the notes section of the [data download](https://ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/datasets/childcareaccessibilityinenglanddata)."
+    },
+    {
+      "type": "p",
+      "h2": "About the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "You can also read a [detailed methodology for how Ofsted calculated the childcare accessibility ratios](https://www.gov.uk/government/publications/childcare-accessibility-by-neighbourhood-england-ofsteds-methodology)."
+    },
+    {
+      "type": "box",
+      "h2": "About the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[Integrated.Data.Analysis@ons.gov.uk](mailto:Integrated.Data.Analysis@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:46:26.201903"
+}

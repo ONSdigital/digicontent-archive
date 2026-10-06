@@ -1,0 +1,383 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/censusmaps/2022-11-02",
+  "title": "Census maps",
+  "meta_description": "Census maps is an interactive tool to Census 2021 data across England and Wales for different topics down to a neighbourhood level",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Population and migration",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration"
+    },
+    {
+      "text": "Population estimates",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates"
+    },
+    {
+      "text": "Census maps",
+      "href": null
+    }
+  ],
+  "date_published": "2023-05-30T23:00:00.000Z",
+  "date_modified": "2023-05-30T23:00:00.000Z",
+  "lede": "Use our interactive map to find out what people’s lives were like across England and Wales in March 2021.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "31 May 2023"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Census maps is an interactive tool to explore Census 2021 data across England and Wales for different topics down to a neighbourhood level."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "As of 31 May 2023, you can see the geographic distribution of people and households with dot density maps in addition to percentages and change over time."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Census maps can help you to:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "see the mix of housing tenures in [Atwood Green and Central Park in Birmingham](https://www.ons.gov.uk/census/maps/dotdensity/housing/tenure-of-household/hh-tenure-5a/hh_tenure_5a-000%7Ehh_tenure_5a-001%7Ehh_tenure_5a-002%7Ehh_tenure_5a-003?msoa=E02006895)"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "see the percentage point change in the proportion of [households with four or more people in Barking and Dagenham](https://www.ons.gov.uk/census/maps/change/population/household-size/hh-size-5a/4-or-more-people-in-household?lad=E09000002)"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "view the percentages of [people by sexual orientation across Cardiff](https://www.ons.gov.uk/census/maps/choropleth/identity/sexual-orientation/sexual-orientation-4a/straight-or-heterosexual?lad=W06000015)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "You can also go straight to the [Census maps page](https://www.ons.gov.uk/census/maps) and make your selections there."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Census maps",
+      "h4": null,
+      "h5": null,
+      "text": "Census maps"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Census maps",
+      "h4": null,
+      "h5": null,
+      "text": "Use our interactive tool to see Census 2021 data for your neighbourhood"
+    },
+    {
+      "type": "image",
+      "h2": null,
+      "h3": "Census maps",
+      "h4": null,
+      "h5": null,
+      "src": "/visualisations/censusmapsimages/cm-preview-mobile.png",
+      "alt": null
+    },
+    {
+      "type": "image",
+      "h2": null,
+      "h3": "Census maps",
+      "h4": null,
+      "h5": null,
+      "src": "/visualisations/censusmapsimages/cm-preview-desktop.png",
+      "alt": null
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Dot density maps",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Dot density maps"
+    },
+    {
+      "type": "p",
+      "h2": "Dot density maps",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "On 31 May 2023, we added a new way to see the density and distribution of people or households by different characteristics."
+    },
+    {
+      "type": "p",
+      "h2": "Dot density maps",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Dot density maps group people or households within different areas so that a single, coloured dot represents them. The map legends show comparisons between different groups and how the area compares with England and Wales overall. The legends also show how many people or households are represented by each dot."
+    },
+    {
+      "type": "p",
+      "h2": "Dot density maps",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Dots are distributed around the selected area. They represent the area within the highlighted boundary shown on the map and not the individual building or street over which they appear."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Changes over time",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Changes over time"
+    },
+    {
+      "type": "p",
+      "h2": "Changes over time",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Since 7 March 2023, the maps have also included changes over time between the 2011 Census and Census 2021. These are presented as percentage point (pp) changes, unless otherwise stated in the map legend."
+    },
+    {
+      "type": "p",
+      "h2": "Changes over time",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "A percentage point change is the difference between percentages. For example, if the chosen group of people or households made up 10.2% of the population in 2011 and 9.1% in 2021, this would be shown as a decrease of -1.1pp."
+    },
+    {
+      "type": "p",
+      "h2": "Changes over time",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The maps were first published on 2 November 2022 and have been updated as more data from Census 2021 were released."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Using the data and maps",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Using the data and maps"
+    },
+    {
+      "type": "p",
+      "h2": "Using the data and maps",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "You can read more about Census maps and how to use it in [this accompanying blog post](https://digitalblog.ons.gov.uk/2022/11/02/census-maps/)."
+    },
+    {
+      "type": "p",
+      "h2": "Using the data and maps",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Datasets used in the map are available with the topic summaries for:"
+    },
+    {
+      "type": "li",
+      "h2": "Using the data and maps",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[demography and migration](https://www.ons.gov.uk/releases/demographyandmigrationcensus2021inenglandandwales)"
+    },
+    {
+      "type": "li",
+      "h2": "Using the data and maps",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[UK armed forces veterans](https://www.ons.gov.uk/releases/ukarmedforcesveteranscensus2021inenglandandwales)"
+    },
+    {
+      "type": "li",
+      "h2": "Using the data and maps",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[ethnic group, national identity, language and religion](https://www.ons.gov.uk/releases/ethnicgroupnationalidentitylanguageandreligioncensus2021inenglandandwales)"
+    },
+    {
+      "type": "li",
+      "h2": "Using the data and maps",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Welsh language in Wales](https://www.ons.gov.uk/releases/welshlanguagecensus2021inwales)"
+    },
+    {
+      "type": "li",
+      "h2": "Using the data and maps",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[labour market and travel to work](https://www.ons.gov.uk/releases/labourmarketandtraveltoworkcensus2021inenglandandwales)"
+    },
+    {
+      "type": "li",
+      "h2": "Using the data and maps",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[housing](https://www.ons.gov.uk/releases/housingcensus2021inenglandandwales)"
+    },
+    {
+      "type": "li",
+      "h2": "Using the data and maps",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[sexual orientation and gender identity](https://www.ons.gov.uk/releases/sexualorientationandgenderidentitycensus2021inenglandandwales)"
+    },
+    {
+      "type": "li",
+      "h2": "Using the data and maps",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[education](https://www.ons.gov.uk/releases/educationcensus2021inenglandandwales)"
+    },
+    {
+      "type": "li",
+      "h2": "Using the data and maps",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[health, disability and unpaid care](https://www.ons.gov.uk/releases/healthdisabilityandunpaidcarecensus2021inenglandandwales)\n\nYou can embed your customised map into your website by selecting \"embed this map\" and pasting the link into your content management system as an iframe.Get detailed information about the variables, definitions and classifications from the [Census 2021 dictionary](https://www.ons.gov.uk/census/census2021dictionary)."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "About the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "About the data"
+    },
+    {
+      "type": "p",
+      "h2": "About the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Data in Census maps are available at different levels of geography for England and Wales, including local authority areas and neighbourhoods."
+    },
+    {
+      "type": "p",
+      "h2": "About the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "MSOAs (or Middle-layer Super Output Areas) are statistical areas home to between 5,000 and 15,000 usual residents. The names used for these areas in Census maps were compiled by the [House of Commons Library](https://houseofcommonslibrary.github.io/msoanames/)."
+    },
+    {
+      "type": "p",
+      "h2": "About the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The most local available geographies for the majority of topics are [Output Areas of between 100 and 625 usual residents](https://www.ons.gov.uk/methodology/geography/ukgeographies/censusgeographies/census2021geographies)."
+    },
+    {
+      "type": "p",
+      "h2": "About the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We use statistical disclosure control, [as explained in our Census 2021 QMI](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/methodologies/qualityandmethodologyinformationqmiforcensus2021#:~:text=Statistical%20disclosure%20control%20is%20used%20to%20protect%20the%20confidentiality%20of%20census%20respondents.), to protect the confidentiality of census respondents."
+    },
+    {
+      "type": "p",
+      "h2": "About the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "For changes over time, we have not included topics that were new for Census 2021 or where there is no comparability with the 2011 Census. Read about how we [developed and tested the questions for Census 2021](https://www.ons.gov.uk/census/planningforcensus2021/questiondevelopment)."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Related links"
+    },
+    {
+      "type": "p",
+      "h2": "Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": "Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "[How your area has changed in 10 years: Census 2021](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/howyourareahaschangedin10yearscensus2021/2022-11-08)\n Digital content article | Updated 19 January 2023\n Find out how life changed for people living in different local authority areas in England and Wales.\n\n[Build a custom area profile](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/buildacustomareaprofile/2023-01-17) \n Interactive tool | Released 17 January 2023 \n Create your own profile for local areas in England and Wales using Census 2021 data.\n\n[Play the Census 2021 quiz: how well do you know your local area?](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/playthecensus2021quizhowwelldoyouknowyourarea/2022-12-02)\n Online game | Updated 3 April 2023\n See how well you know the population of your local authority area with our interactive quiz.\n\n[Census 2021 topic summaries](https://www.ons.gov.uk/census/aboutcensus/censusproducts/topicsummaries)\n Supporting information | Updated 7 March 2023 \n What topic summary data for Census 2021 will be available and how to view them.\n\n[Census 2021 dictionary](https://www.ons.gov.uk/census/census2021dictionary)\n Glossary | Released 28 October 2022\n Detailed information about variables, definitions and classifications to help when using Census 2021 data.\n\n[Quality and methodology information (QMI) for Census 2021](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/methodologies/qualityandmethodologyinformationqmiforcensus2021)\n Methodology | Released 28 June 2022\n Details the strengths, limitations, uses, users and methods for Census 2021, England and Wales.",
+      "box_items": null
+    },
+    {
+      "type": "box",
+      "h2": "Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[census.customerservices@ons.gov.uk](mailto:census.customerservices@ons.gov.uk)\n Telephone: +44 1329 444972",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:48:49.517091"
+}

@@ -1,0 +1,113 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/articles/babynamesexplorer/2019-06-07",
+  "title": "Baby names explorer",
+  "meta_description": "Use our interactive tool to compare changes in the top 100 baby names for boys and girls since 1904.",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Births, deaths and marriages",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages"
+    },
+    {
+      "text": "Live births",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths"
+    },
+    {
+      "text": "Baby names explorer",
+      "href": null
+    }
+  ],
+  "date_published": "2026-07-08T23:00:00.000Z",
+  "date_modified": "2026-07-08T23:00:00.000Z",
+  "lede": "Use our interactive tool to compare changes in the top 100 baby names for boys and girls since 1996.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "How popular is your name? Has it recently entered the top 100, dropped out and made a comeback, or disappeared from the list completely?"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Our interactive tool shows the top 100 names in 2025 for baby boys and girls in England and Wales each year since 1996."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "Top 100 baby names, 2024",
+      "url": "/visualisations/babynamesexplorer/explorer/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Download the data (XLSX, 50KB)](/visualisations/babynamesexplorer/explorer/datadownload.xlsx)"
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Related",
+      "box_h3": null,
+      "box_text": "Statistical bulletin | Released on 5 December 2024\n\nMost popular first names for baby girls and boys in 2023 using birth registration data.\n\nArticle | Released on 5 October 2022\n\nWe explore the popular culture-inspired baby names that have found favour with parents in recent years",
+      "box_items": [
+        "[Baby names in England and Wales](/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/babynamesenglandandwales/2023) Statistical bulletin | Released on 5 December 2024 Most popular first names for baby girls and boys in 2023 using birth registration data.",
+        "[From Star Wars to the Kardashians: the cultural influences that could be driving baby name trends](/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/articles/fromstarwarstothekardashianstheculturalinfluencesthatcouldbedrivingbabynametrends/2022-10-05) Article | Released on 5 October 2022 We explore the popular culture-inspired baby names that have found favour with parents in recent years"
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "You might also be interested in",
+      "box_h3": null,
+      "box_text": "",
+      "box_items": [
+        "[Life expectancy calculator](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/articles/lifeexpectancycalculator/2019-06-07)",
+        "[Gender pay gap explorer](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/genderpaygapexplorer/2019-06-07)"
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[vsob@ons.gov.uk](mailto:vsob@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:48:46.375396"
+}

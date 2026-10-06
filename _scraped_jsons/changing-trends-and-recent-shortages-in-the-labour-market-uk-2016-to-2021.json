@@ -1,0 +1,1384 @@
+{
+  "url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/changingtrendsandrecentshortagesinthelabourmarketuk/2016to2021",
+  "title": "Changing trends and recent shortages in the labour market, UK: 2016 to 2021",
+  "meta_description": "Changing trends and shortages in the labour market and how this affects different occupations and demographic groups. We look at where workers have entered or left the workforce and how this has changed in recent years. ",
+  "breadcrumb": null,
+  "date_published": "2021-12-20T00:00:00.000Z",
+  "date_modified": "2021-12-20T00:00:00.000Z",
+  "lede": null,
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Changing trends and shortages in the labour market and how this affects different occupations and demographic groups. We look at where workers have entered or left the workforce and how this has changed in recent years. Interactive data visualisations also allow detailed exploration of different measures and changing patterns."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This is the latest release."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Contact:\n[Abi Casey and Rhian Murphy](mailto:policy.evidence.analysis@ons.gov.uk)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Release date:\n20 December 2021\n"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Next release:\nTo be announced"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Table of contents"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Main points](#main-points)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Recent labour market trends: record job vacancies and businesses struggling to fill posts](#recent-labour-market-trends-record-job-vacancies-and-businesses-struggling-to-fill-posts)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Falling employment numbers seen during the coronavirus (COVID-19) pandemic, especially within elementary occupations](#falling-employment-numbers-seen-during-the-coronavirus-covid-19-pandemic-especially-within-elementary-occupations)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[The movements in and out of the workforce](#the-movements-in-and-out-of-the-workforce)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Data](#data)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Glossary](#glossary)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Data sources and quality](#data-sources-and-quality)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Related links](#related-links)"
+    },
+    {
+      "type": "p",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Print this Article]()"
+    },
+    {
+      "type": "p",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Download as PDF](/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/changingtrendsandrecentshortagesinthelabourmarketuk/2016to2021/pdf)"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "1. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "1. Main points"
+    },
+    {
+      "type": "li",
+      "h2": "1. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "With a record 1.2 million job vacancies in the three months to November 2021, more than half of businesses who reported a worker shortage stated they were unable to meet demands."
+    },
+    {
+      "type": "li",
+      "h2": "1. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Employment fell by 466,000 (1.4%) in the year ending September 2021, largely driven by younger workers (the number of workers aged 16 to 24 years fell by 201,000) and elementary occupations; employment had previously been rising by 0.9% on average in the four years prior."
+    },
+    {
+      "type": "li",
+      "h2": "1. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The average age of those in employment has increased, with the number of younger workers (aged 16 to 34 years) falling by 2.5%, compared with the number of those aged 50 years and over falling 0.8% in the year ending September 2021."
+    },
+    {
+      "type": "li",
+      "h2": "1. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In Quarter 2 (Apr to June) 2021, the majority (89.5%) of workers with a job a year ago remained in the same occupation major group, while 5.6% moved occupation, 1.5% became unemployed and 3.2% became economically inactive; this was broadly the same across the years from 2016."
+    },
+    {
+      "type": "li",
+      "h2": "1. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Younger workers (aged under 35 years) were more transient in the workforce, with a high number moving from a job or business and into unemployment in Quarter 2 2020 at the start of the coronavirus (COVID-19) pandemic."
+    },
+    {
+      "type": "li",
+      "h2": "1. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Inactivity for workers aged 55 years and over increased in the early stages of the pandemic (Quarter 2 2020), and while movements to inactivity were lower in the same quarter in 2021, it remained higher than in 2019 before the pandemic."
+    },
+    {
+      "type": "li",
+      "h2": "1. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The movement of workers into redundancy (including voluntary redundancies) in Quarter 2 2021 nearly doubled for those aged 55 years and over, compared with the previous year; early retirement also saw an increase during this period."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "2. Recent labour market trends: record job vacancies and businesses struggling to fill posts",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "2. Recent labour market trends: record job vacancies and businesses struggling to fill posts"
+    },
+    {
+      "type": "p",
+      "h2": "2. Recent labour market trends: record job vacancies and businesses struggling to fill posts",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The labour market has been affected by the coronavirus (COVID-19) pandemic, with restrictions affecting some businesses' ability to trade, and the introduction of support schemes such as Coronavirus Job Retention Scheme (CJRS). The pandemic has also affected how people work, accelerating new ways of working such as home and hybrid working."
+    },
+    {
+      "type": "p",
+      "h2": "2. Recent labour market trends: record job vacancies and businesses struggling to fill posts",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This article looks at changing trends and shortages in the labour market and how different occupations and demographic groups have been affected. We look at where workers have entered or left the labour market and how this has changed in recent years."
+    },
+    {
+      "type": "p",
+      "h2": "2. Recent labour market trends: record job vacancies and businesses struggling to fill posts",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The [most recent labour market data](https://www.ons.gov.uk/releases/uklabourmarketdecember2021) show that the number of vacancies increased sharply to a record 1.2 million in the three months to November 2021, having reached a record low of 340,000 in the three months to June 2020. Unemployment also continues to decline, falling to 1.4 million (4.2%) in the three months to October 2021. While unemployment is still above levels prior to the pandemic, it is now below the average level in the five years before the beginning of the pandemic (1.5 million)."
+    },
+    {
+      "type": "p",
+      "h2": "2. Recent labour market trends: record job vacancies and businesses struggling to fill posts",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Increasing vacancies and falling unemployment could indicate a tightening of the labour market, as there are fewer people to fill vacancies, potentially contributing to challenges in filling vacancies. Figure 1 shows that the number of unemployed persons per vacancy fell to 1.2 in the three months to October 2021, the lowest on record. The fall from 4.1 unemployed persons per vacancy in the three months to June 2020, the highest point during the pandemic, has largely been driven by the increasing number of vacancies."
+    },
+    {
+      "type": "p",
+      "h2": "2. Recent labour market trends: record job vacancies and businesses struggling to fill posts",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "chartbuilder",
+      "h2": "2. Recent labour market trends: record job vacancies and businesses struggling to fill posts",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "chartbuilder_h3": "Figure 1: The number of unemployed persons per vacancy has fallen sharply since the three months to June 2020",
+      "chartbuilder_h4": "Number of unemployed persons per vacancy, UK, December 2006 to February 2007, to August to October 2021",
+      "data_uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/changingtrendsandrecentshortagesinthelabourmarketuk/2016to2021/d1389ead",
+      "src": "/_scraped_chartbuilder_imgs/d1389ead.png",
+      "local_filename": "d1389ead.png"
+    },
+    {
+      "type": "p",
+      "h2": "2. Recent labour market trends: record job vacancies and businesses struggling to fill posts",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Businesses, particularly those with 10 or more employees, are reporting difficulties filling vacancies and a shortage of workers. Recent data from the [Business Insights and Conditions Survey (BICS](https://www.ons.gov.uk/economy/economicoutputandproductivity/output/datasets/businessinsightsandimpactontheukeconomy)), show that over a third of businesses with 10 or more employees experienced a shortage of workers in late November 2021. The most common reasons for businesses of all sizes finding vacancies more difficult to fill were a low number of applications and a lack of qualified applicants. Over half of businesses reporting a shortage of workers said they were unable to meet demands, while over 60% of businesses with 10 or more employees said their employees were working longer hours (Figure 2)."
+    },
+    {
+      "type": "p",
+      "h2": "2. Recent labour market trends: record job vacancies and businesses struggling to fill posts",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "chartbuilder",
+      "h2": "2. Recent labour market trends: record job vacancies and businesses struggling to fill posts",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "chartbuilder_h3": "Figure 2: Over 50% of businesses with a shortage of workers said they were unable to meet demands",
+      "chartbuilder_h4": "Impact of worker shortages, percentage of businesses not permanently stopped trading and are experiencing worker shortages, broken down by employment size band, weighted by count, UK, 15 to 28 November 2021",
+      "data_uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/changingtrendsandrecentshortagesinthelabourmarketuk/2016to2021/2311cad6",
+      "src": "/_scraped_chartbuilder_imgs/2311cad6.png",
+      "local_filename": "2311cad6.png"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "3. Falling employment numbers seen during the coronavirus (COVID-19) pandemic, especially within elementary occupations",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "3. Falling employment numbers seen during the coronavirus (COVID-19) pandemic, especially within elementary occupations"
+    },
+    {
+      "type": "p",
+      "h2": "3. Falling employment numbers seen during the coronavirus (COVID-19) pandemic, especially within elementary occupations",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In the year ending September 2021, employee numbers fell by 466,000 (1.4%). This was largely caused by a 201,000 (5.5%) fall in employment among those aged 16 to 24 years (Figure 3). In contrast, in the previous four years, employment numbers rose by 0.9% a year on average."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "3. Falling employment numbers seen during the coronavirus (COVID-19) pandemic, especially within elementary occupations",
+      "h3": null,
+      "h4": "Figure 3: Fall in employment numbers during the pandemic period largely driven by a fall in younger workers",
+      "h5": null,
+      "text": "Figure 3: Fall in employment numbers during the pandemic period largely driven by a fall in younger workers"
+    },
+    {
+      "type": "p",
+      "h2": "3. Falling employment numbers seen during the coronavirus (COVID-19) pandemic, especially within elementary occupations",
+      "h3": null,
+      "h4": "Figure 3: Fall in employment numbers during the pandemic period largely driven by a fall in younger workers",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "3. Falling employment numbers seen during the coronavirus (COVID-19) pandemic, especially within elementary occupations",
+      "h3": null,
+      "h4": "Figure 3: Fall in employment numbers during the pandemic period largely driven by a fall in younger workers",
+      "h5": null,
+      "title": "Figure 3",
+      "url": "/visualisations/dvc1670/areadropdown/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "3. Falling employment numbers seen during the coronavirus (COVID-19) pandemic, especially within elementary occupations",
+      "h3": null,
+      "h4": "Figure 3: Fall in employment numbers during the pandemic period largely driven by a fall in younger workers",
+      "h5": null,
+      "text": "[.xlsx](/visualisations/dvc1670/areadropdown/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "3. Falling employment numbers seen during the coronavirus (COVID-19) pandemic, especially within elementary occupations",
+      "h3": null,
+      "h4": "Figure 3: Fall in employment numbers during the pandemic period largely driven by a fall in younger workers",
+      "h5": null,
+      "text": "Challenges in the labour market have not affected all occupations equally. Occupations such as [HGV drivers](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/fallinhgvdriverslargestamongmiddleagedworkers/2021-10-19) saw a fall in employees, causing wider impacts on supply chains."
+    },
+    {
+      "type": "p",
+      "h2": "3. Falling employment numbers seen during the coronavirus (COVID-19) pandemic, especially within elementary occupations",
+      "h3": null,
+      "h4": "Figure 3: Fall in employment numbers during the pandemic period largely driven by a fall in younger workers",
+      "h5": null,
+      "text": "While the overall level of employment rose by 2.0% between the year ending September 2016 and year ending September 2021, many lower-paid and lower-skilled occupations saw falls in employment during this time. This trend is evident in several elementary occupations such as \"elementary cleaning occupations\" and \"elementary sales occupations\", where employment fell by 36.0% and 33.5% respectively, with \"elementary cleaning occupations\" seeing the largest absolute fall of 265,000."
+    },
+    {
+      "type": "p",
+      "h2": "3. Falling employment numbers seen during the coronavirus (COVID-19) pandemic, especially within elementary occupations",
+      "h3": null,
+      "h4": "Figure 3: Fall in employment numbers during the pandemic period largely driven by a fall in younger workers",
+      "h5": null,
+      "text": "In comparison, many higher-paid and higher-skilled occupations saw an increase in employment between the year ending September 2016 and year ending September 2021. Employment in \"IT and telecommunications professionals\" and \"business, research and administrative professionals\" increased 42.1% and 30.1% respectively. \"IT and telecommunications professionals\" saw the largest absolute increase of 407,000. Figure 4 provides further data on how these and other occupations have changed for key metrics on employment."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "3. Falling employment numbers seen during the coronavirus (COVID-19) pandemic, especially within elementary occupations",
+      "h3": null,
+      "h4": "Figure 4: Employment trends have not been felt equally across occupations with many elementary professions seeing the largest falls",
+      "h5": null,
+      "text": "Figure 4: Employment trends have not been felt equally across occupations with many elementary professions seeing the largest falls"
+    },
+    {
+      "type": "p",
+      "h2": "3. Falling employment numbers seen during the coronavirus (COVID-19) pandemic, especially within elementary occupations",
+      "h3": null,
+      "h4": "Figure 4: Employment trends have not been felt equally across occupations with many elementary professions seeing the largest falls",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "3. Falling employment numbers seen during the coronavirus (COVID-19) pandemic, especially within elementary occupations",
+      "h3": null,
+      "h4": "Figure 4: Employment trends have not been felt equally across occupations with many elementary professions seeing the largest falls",
+      "h5": null,
+      "title": "Figure 4",
+      "url": "/visualisations/dvc1670/beeswarm/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "3. Falling employment numbers seen during the coronavirus (COVID-19) pandemic, especially within elementary occupations",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": "3. Falling employment numbers seen during the coronavirus (COVID-19) pandemic, especially within elementary occupations",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Occupation data based on three-digit Standard Occupation Classification (SOC)."
+    },
+    {
+      "type": "p",
+      "h2": "3. Falling employment numbers seen during the coronavirus (COVID-19) pandemic, especially within elementary occupations",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "[.xlsx](/visualisations/dvc1670/beeswarm/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "3. Falling employment numbers seen during the coronavirus (COVID-19) pandemic, especially within elementary occupations",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "The age composition of those in employment has changed in the five years leading to September 2021. The number of those aged under 35 years in employment fell 1.1% over this period, with the pandemic period (year ending September 2020 and September 2021) seeing the largest fall of 2.5%. The number of those aged 50 years and over in employment rose 8.2% in the five years leading to September 2021. This increased annually between the year ending September 2016 and year ending September 2020, before falling 0.8% during the pandemic period (year ending September 2020 and September 2021). This was likely affected by the increase in older workers becoming economically inactive (Figure 9). The data are available in Table 7 of the [accompanying dataset](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/changingtrendsandrecentshortagesinthelabourmarketuk)."
+    },
+    {
+      "type": "p",
+      "h2": "3. Falling employment numbers seen during the coronavirus (COVID-19) pandemic, especially within elementary occupations",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "The occupations which saw the largest increase in average age, when comparing year ending September 2016 with year ending September 2021, are:"
+    },
+    {
+      "type": "li",
+      "h2": "3. Falling employment numbers seen during the coronavirus (COVID-19) pandemic, especially within elementary occupations",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "conservation and environmental asset professionals (increased 4.8 years to 45.8 years)"
+    },
+    {
+      "type": "li",
+      "h2": "3. Falling employment numbers seen during the coronavirus (COVID-19) pandemic, especially within elementary occupations",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "financial institution managers and directors (increased by 4.5 years to 46.6 years)"
+    },
+    {
+      "type": "li",
+      "h2": "3. Falling employment numbers seen during the coronavirus (COVID-19) pandemic, especially within elementary occupations",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "mobile machine drivers and operatives (increased by 4.2 years to 45.7 years)"
+    },
+    {
+      "type": "li",
+      "h2": "3. Falling employment numbers seen during the coronavirus (COVID-19) pandemic, especially within elementary occupations",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "elementary process plant occupations (increased by 3.8 years to 42.7 years)"
+    },
+    {
+      "type": "li",
+      "h2": "3. Falling employment numbers seen during the coronavirus (COVID-19) pandemic, especially within elementary occupations",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "sports and fitness occupations (increased by 3.5 years to 37.7 years)"
+    },
+    {
+      "type": "li",
+      "h2": "3. Falling employment numbers seen during the coronavirus (COVID-19) pandemic, especially within elementary occupations",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "hairdressers and related services (increased by 3.4 years to 38.1 years)"
+    },
+    {
+      "type": "p",
+      "h2": "3. Falling employment numbers seen during the coronavirus (COVID-19) pandemic, especially within elementary occupations",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "The increases in mean age may have occurred for differing reasons. For example, \"hairdressers and related services\" saw a 25.1% fall in those aged 16 to 24 years over the pandemic period, comparing year ending September 2020 with year ending September 2021. The fall in younger workers is likely linked to the fall in hair and beauty apprenticeships during the pandemic, which [fell by 3,200 (28%) in the 2019 to 2020 academic year](https://researchbriefings.files.parliament.uk/documents/CDP-2021-0097/CDP-2021-0097.pdf). The pandemic has had a different impact on \"elementary process plant occupations\", which saw an 85.8% increase in those aged 50 to 64 years between the year ending September 2020 and year ending September 2021. This is higher than the 41.3% increase seen in the younger age group of those aged 16 to 49 years."
+    },
+    {
+      "type": "p",
+      "h2": "3. Falling employment numbers seen during the coronavirus (COVID-19) pandemic, especially within elementary occupations",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Nominal median hourly pay grew 16.0% between April 2016 and April 2021. This is despite [11.6% of workers seeing reduced pay under the furlough scheme in 2020, and 5.8% in 2021](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/lowandhighpayuk/2021#distribution-of-pay). Many lower-skilled occupations saw relatively larger increases in nominal pay, potentially affected by [increases in the national living wage and national minimum wage](https://www.gov.uk/national-minimum-wage-rates), which increased by 21.7% on average for all age categories from April 2016 to September 2016 and from April 2020 to March 2021."
+    },
+    {
+      "type": "p",
+      "h2": "3. Falling employment numbers seen during the coronavirus (COVID-19) pandemic, especially within elementary occupations",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "The [overall change in pay growth could be affected by changes in composition of the labour force](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/averageweeklyearningsingreatbritain/november2021#measuring-the-data), where falls in the number and proportion of low-paid occupations would increase the average pay."
+    },
+    {
+      "type": "p",
+      "h2": "3. Falling employment numbers seen during the coronavirus (COVID-19) pandemic, especially within elementary occupations",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Coronavirus (COVID-19) has also affected working patterns. For example, average hours fell by 3.1 hours (9.0%) in the year ending September 2020, compared with the year ending September 2019. The reduction in hours is [largely driven by furloughed workers](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/employmentintheuk/april2021) during the pandemic period, with [11.6 million jobs being supported by the furlough scheme](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/anoverviewofworkerswhowerefurloughedintheuk/october2021)at one point."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "4. The movements in and out of the workforce"
+    },
+    {
+      "type": "p",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We have looked at movements in and out of occupations to understand the recent changing trends seen in the workforce."
+    },
+    {
+      "type": "p",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Looking at all people who reported being in a paid job or business a year ago, they fit into one of four categories:"
+    },
+    {
+      "type": "li",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Stayed in the same occupation as the previous year"
+    },
+    {
+      "type": "li",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Changed occupation since the previous year"
+    },
+    {
+      "type": "li",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Became unemployed"
+    },
+    {
+      "type": "li",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Became economically inactive"
+    },
+    {
+      "type": "p",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "\"Stayed in the same occupation\" includes both those who remained in the same job, and those who moved jobs but stayed in the same major occupation group."
+    },
+    {
+      "type": "p",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The proportion of workers flowing into these four categories remains broadly the same over the five years (Figure 5)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": null,
+      "h4": "Figure 5: The majority of workers with a job a year ago remained in the same major occupation level",
+      "h5": null,
+      "text": "Figure 5: The majority of workers with a job a year ago remained in the same major occupation level"
+    },
+    {
+      "type": "p",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": null,
+      "h4": "Figure 5: The majority of workers with a job a year ago remained in the same major occupation level",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": null,
+      "h4": "Figure 5: The majority of workers with a job a year ago remained in the same major occupation level",
+      "h5": null,
+      "title": "Figure 5",
+      "url": "/visualisations/dvc1670/stacked-bar-horizontal/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "A small proportion of respondents did not provide details of their occupation; totals may not add to 100 for this reason."
+    },
+    {
+      "type": "li",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "For more information see [Section 8](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/changingtrendsandrecentshortagesinthelabourmarketuk/2016to2021#related-links)."
+    },
+    {
+      "type": "p",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "[.xlsx](/visualisations/dvc1670/stacked-bar-horizontal/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Each age group behaves differently when looking at movements within and from the workforce (Figure 6)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": null,
+      "h4": "Figure 6: Those aged under 35 years were most likely to change occupation or become unemployed",
+      "h5": null,
+      "text": "Figure 6: Those aged under 35 years were most likely to change occupation or become unemployed"
+    },
+    {
+      "type": "p",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": null,
+      "h4": "Figure 6: Those aged under 35 years were most likely to change occupation or become unemployed",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": null,
+      "h4": "Figure 6: Those aged under 35 years were most likely to change occupation or become unemployed",
+      "h5": null,
+      "title": "Figure 6",
+      "url": "/visualisations/dvc1670/age_small-multiple/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "For more information see [Section 8](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/changingtrendsandrecentshortagesinthelabourmarketuk/2016to2021#related-links)."
+    },
+    {
+      "type": "p",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "[.xlsx](/visualisations/dvc1670/age_small-multiple/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "In Quarter 2 (Apr to June) 2020, during the first coronavirus (COVID-19) lockdown, the proportion remaining in the same occupation declined for all age groups."
+    },
+    {
+      "type": "p",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "There was a large increase in the proportion of those aged under 35 years becoming unemployed, and an increase in all age groups becoming inactive, with the largest increase for those aged 55 years and over."
+    },
+    {
+      "type": "p",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "In Quarter 2 2021, these changes reversed, with fewer of those aged under 35 years becoming unemployed. However, the proportion of those aged 35 to 54 years and those aged 55 years and over becoming unemployed increased compared with Quarter 2 2020. Meanwhile, the proportion becoming inactive reduced for all age groups closer to pre-coronavirus pandemic levels. However, those aged 55 and over still remained higher than the levels seen in 2019."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "A high proportion of workers entered the workforce in 2021 as they returned to work following lockdown restrictions in 2020",
+      "h4": null,
+      "h5": null,
+      "text": "A high proportion of workers entered the workforce in 2021 as they returned to work following lockdown restrictions in 2020"
+    },
+    {
+      "type": "p",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "A high proportion of workers entered the workforce in 2021 as they returned to work following lockdown restrictions in 2020",
+      "h4": null,
+      "h5": null,
+      "text": "Quarter 2 (Apr to June) 2020 saw unusually low numbers of workers entering the workforce and high numbers leaving, creating conditions for potential labour shortages. Conversely, Quarter 2 2021 saw the highest influx of workers since at least 2016, while those exiting returned to levels similar to the same quarter in 2018 and 2019. This indicates that more people were returning to the workforce as the economy re-opened following coronavirus (COVID-19) lockdowns."
+    },
+    {
+      "type": "p",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "A high proportion of workers entered the workforce in 2021 as they returned to work following lockdown restrictions in 2020",
+      "h4": null,
+      "h5": null,
+      "text": "Figure 7 shows the number of people who a year ago were either; not in a paid job or business and have now entered the workforce, or in a paid job or business and have now left the workforce."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "A high proportion of workers entered the workforce in 2021 as they returned to work following lockdown restrictions in 2020",
+      "h4": "Figure 7: More adults entered the workforce in Quarter 2 (Apr to June) 2021 than in any of the previous five years, an increase from unusually low numbers in Quarter 2 2020",
+      "h5": null,
+      "text": "Figure 7: More adults entered the workforce in Quarter 2 (Apr to June) 2021 than in any of the previous five years, an increase from unusually low numbers in Quarter 2 2020"
+    },
+    {
+      "type": "p",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "A high proportion of workers entered the workforce in 2021 as they returned to work following lockdown restrictions in 2020",
+      "h4": "Figure 7: More adults entered the workforce in Quarter 2 (Apr to June) 2021 than in any of the previous five years, an increase from unusually low numbers in Quarter 2 2020",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "A high proportion of workers entered the workforce in 2021 as they returned to work following lockdown restrictions in 2020",
+      "h4": "Figure 7: More adults entered the workforce in Quarter 2 (Apr to June) 2021 than in any of the previous five years, an increase from unusually low numbers in Quarter 2 2020",
+      "h5": null,
+      "title": "Figure 7",
+      "url": "/visualisations/dvc1670/inflows_outflows/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "A high proportion of workers entered the workforce in 2021 as they returned to work following lockdown restrictions in 2020",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "A high proportion of workers entered the workforce in 2021 as they returned to work following lockdown restrictions in 2020",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Index: 100 = Quarter 2 (Apr to June) 2016."
+    },
+    {
+      "type": "li",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "A high proportion of workers entered the workforce in 2021 as they returned to work following lockdown restrictions in 2020",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Because the estimates are indexed to Quarter 2 (Apr to June) 2016, the values for later years are influenced by both the proportion of workers in each occupation moving in and out of the workforce, and the changing size of each occupation."
+    },
+    {
+      "type": "li",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "A high proportion of workers entered the workforce in 2021 as they returned to work following lockdown restrictions in 2020",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Indices should not be used to compare the size of each occupation."
+    },
+    {
+      "type": "li",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "A high proportion of workers entered the workforce in 2021 as they returned to work following lockdown restrictions in 2020",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "For more information see [Section 8](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/changingtrendsandrecentshortagesinthelabourmarketuk/2016to2021#related-links)."
+    },
+    {
+      "type": "p",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "A high proportion of workers entered the workforce in 2021 as they returned to work following lockdown restrictions in 2020",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "[.xlsx](/visualisations/dvc1670/inflows_outflows/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "A high proportion of workers entered the workforce in 2021 as they returned to work following lockdown restrictions in 2020",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "The number of people moving into employment, that were not in a paid job or business a year ago, declined in Quarter 2 2020 to its lowest point in the same quarters from 2016 to 2021. There were notably large decreases in the number of people entering administrative and secretarial occupations, caring, leisure and other service occupations, and process plant and machine operatives."
+    },
+    {
+      "type": "p",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "A high proportion of workers entered the workforce in 2021 as they returned to work following lockdown restrictions in 2020",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "In Quarter 2 2021, those entering the workforce increased to a higher level than any of the previous five years as the UK economy began to recover from the impact of the coronavirus pandemic. The increase in workers may indicate increased demand caused by the need to refill posts that were vacated and not filled in 2020. The largest increases can be seen in skilled trades occupations, and process plant and machine operatives."
+    },
+    {
+      "type": "p",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "A high proportion of workers entered the workforce in 2021 as they returned to work following lockdown restrictions in 2020",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Conversely, there was little change in the number of people entering sales and customer service occupations in the same period."
+    },
+    {
+      "type": "p",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "A high proportion of workers entered the workforce in 2021 as they returned to work following lockdown restrictions in 2020",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Those leaving the workforce reached their highest point during Quarter 2 2020 and decreased to pre-coronavirus pandemic levels in Quarter 2 2021, with most occupations reporting similar levels to 2019. However, sales and customer service occupations have the opposite pattern, with a decrease in people leaving the workforce in 2020, followed by an increase in 2021."
+    },
+    {
+      "type": "p",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "A high proportion of workers entered the workforce in 2021 as they returned to work following lockdown restrictions in 2020",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "The occupation with the largest increase in the proportion of people moving to unemployed or inactive in the 12 months prior to Quarter 2 2020 was professional occupations, followed by process, plant and machine operatives, and associate professional and technical occupations."
+    },
+    {
+      "type": "p",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "A high proportion of workers entered the workforce in 2021 as they returned to work following lockdown restrictions in 2020",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Among all those who left their paid job or business in the 12 months up to Quarter 2 2021, 14.7% became unemployed and 30.9% became inactive (Figure 8)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "A high proportion of workers entered the workforce in 2021 as they returned to work following lockdown restrictions in 2020",
+      "h4": "Figure 8: A little under half (45.6%) of people who left their major occupation group in the 12 months to April to June 2021 became either unemployed or inactive",
+      "h5": null,
+      "text": "Figure 8: A little under half (45.6%) of people who left their major occupation group in the 12 months to April to June 2021 became either unemployed or inactive"
+    },
+    {
+      "type": "p",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "A high proportion of workers entered the workforce in 2021 as they returned to work following lockdown restrictions in 2020",
+      "h4": "Figure 8: A little under half (45.6%) of people who left their major occupation group in the 12 months to April to June 2021 became either unemployed or inactive",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "A high proportion of workers entered the workforce in 2021 as they returned to work following lockdown restrictions in 2020",
+      "h4": "Figure 8: A little under half (45.6%) of people who left their major occupation group in the 12 months to April to June 2021 became either unemployed or inactive",
+      "h5": null,
+      "title": "Figure 8",
+      "url": "/visualisations/dvc1670/sankey/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "A high proportion of workers entered the workforce in 2021 as they returned to work following lockdown restrictions in 2020",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "A high proportion of workers entered the workforce in 2021 as they returned to work following lockdown restrictions in 2020",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "A small proportion of respondents did not provide details of their occupation and have been excluded from this analysis.; totals may not add to 100 for this reason."
+    },
+    {
+      "type": "li",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "A high proportion of workers entered the workforce in 2021 as they returned to work following lockdown restrictions in 2020",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Unweighted counts of less than three have been suppressed."
+    },
+    {
+      "type": "li",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "A high proportion of workers entered the workforce in 2021 as they returned to work following lockdown restrictions in 2020",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "For more information see [Section 8](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/changingtrendsandrecentshortagesinthelabourmarketuk/2016to2021#related-links)."
+    },
+    {
+      "type": "p",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "A high proportion of workers entered the workforce in 2021 as they returned to work following lockdown restrictions in 2020",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "[.xlsx](/visualisations/dvc1670/sankey/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "A high proportion of workers entered the workforce in 2021 as they returned to work following lockdown restrictions in 2020",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "The Sankey diagram (Figure 8) shows individuals who reported being in a paid job or business in Quarter 2 2020, who had moved out of their occupation 12 months later. Some changed their major occupation group, while others became unemployed or inactive. It does not include those who stayed in the same occupation."
+    },
+    {
+      "type": "p",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "A high proportion of workers entered the workforce in 2021 as they returned to work following lockdown restrictions in 2020",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Associate professional and technical occupations saw the largest change between Quarter 2 2020 and Quarter 2 2021 (15.8%), with 4.1% moving to professional occupations. However, associate professional occupations also saw the largest influx of workers, with 11.5% joining from other occupations."
+    },
+    {
+      "type": "p",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "A high proportion of workers entered the workforce in 2021 as they returned to work following lockdown restrictions in 2020",
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Of those moving out of their occupation, 14.7% moved to unemployed and 30.9% became inactive. Elementary occupations saw the most workers become unemployed (3.2%), while professional occupations saw the largest move to inactive (5.5%). This may be because of a large increase in retirement within this occupation (Figure 9)."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "Early retirement and redundancy increased in the 12 months to April to June 2021",
+      "h4": null,
+      "h5": null,
+      "text": "Early retirement and redundancy increased in the 12 months to April to June 2021"
+    },
+    {
+      "type": "p",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "Early retirement and redundancy increased in the 12 months to April to June 2021",
+      "h4": null,
+      "h5": null,
+      "text": "All three age groups saw an increase in the proportion leaving the workforce in Quarter 2 (Apr to June) 2020, compared with the same period in 2019. All three also saw a decrease in 2021, with the largest decline for those aged under 35 years (Figure 9)."
+    },
+    {
+      "type": "p",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "Early retirement and redundancy increased in the 12 months to April to June 2021",
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "chartbuilder",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "Early retirement and redundancy increased in the 12 months to April to June 2021",
+      "h4": null,
+      "h5": null,
+      "chartbuilder_h3": "Figure 9: The proportion leaving the workforce was lower in April to June 2021 than in 2020 for all three age groups",
+      "chartbuilder_h4": "People in employment 12 months previously who are now unemployed or inactive, UK, April to June 2021",
+      "data_uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/changingtrendsandrecentshortagesinthelabourmarketuk/2016to2021/4b6406d4",
+      "src": "/_scraped_chartbuilder_imgs/4b6406d4.png",
+      "local_filename": "4b6406d4.png"
+    },
+    {
+      "type": "p",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "Early retirement and redundancy increased in the 12 months to April to June 2021",
+      "h4": null,
+      "h5": null,
+      "text": "In Quarter 2 2021, nearly every reason for becoming inactive or unemployed saw its number decline. There were particularly large declines in people leaving the workforce because of resignations and temporary jobs coming to an end. The exceptions were redundancy and early retirement."
+    },
+    {
+      "type": "p",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "Early retirement and redundancy increased in the 12 months to April to June 2021",
+      "h4": null,
+      "h5": null,
+      "text": "Among the age bands, those aged under 35 years were most likely to resign, and the least likely to be made redundant. However, in Quarter 2 2021 the proportion resigning decreased, and the proportion being made redundant remained steady, while it increased for the older age groups. This partly explains why those aged under 35 years saw fewer people leaving the workforce."
+    },
+    {
+      "type": "p",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "Early retirement and redundancy increased in the 12 months to April to June 2021",
+      "h4": null,
+      "h5": null,
+      "text": "Persons in employment aged 55 years and over were generally most likely to leave the labour market, mainly because of retirement. In Quarter 2 2020, the proportion of those aged 55 years and over leaving the workforce increased by nearly two percentage points, partly caused by increasing retirement and early retirement."
+    },
+    {
+      "type": "p",
+      "h2": "4. The movements in and out of the workforce",
+      "h3": "Early retirement and redundancy increased in the 12 months to April to June 2021",
+      "h4": null,
+      "h5": null,
+      "text": "In Quarter 2 2021, for persons aged 55 years and over, the number of retirements fell, but early retirements remained stable. However, redundancies (including voluntary redundancies) more than doubled, compared with the previous year."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "5. Data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "5. Data"
+    },
+    {
+      "type": "p",
+      "h2": "5. Data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": "5. Data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "[Changing trends and recent shortages in the labour market, UK](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/changingtrendsandrecentshortagesinthelabourmarketuk)\n Dataset | Released 20 December 2021\n A summary of metrics to understand changes within occupations between 2016 and 2021, with a look at movements in and out of the workforce in addition to workforce demographics.",
+      "box_items": null
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "6. Glossary",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "6. Glossary"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "6. Glossary",
+      "h3": "EU nationality and EU-born groups",
+      "h4": null,
+      "h5": null,
+      "text": "EU nationality and EU-born groups"
+    },
+    {
+      "type": "p",
+      "h2": "6. Glossary",
+      "h3": "EU nationality and EU-born groups",
+      "h4": null,
+      "h5": null,
+      "text": "Nationals or those born of countries that were EU members prior to 2004, for example, France, Germany, and Spain are termed the EU14. Central and Eastern European countries that joined the EU in 2004, for example, Poland, are termed the EU8. EU2 comprises Bulgaria and Romania, which became EU members in 2007."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "6. Glossary",
+      "h3": "Pandemic period",
+      "h4": null,
+      "h5": null,
+      "text": "Pandemic period"
+    },
+    {
+      "type": "p",
+      "h2": "6. Glossary",
+      "h3": "Pandemic period",
+      "h4": null,
+      "h5": null,
+      "text": "In this article, we use the phrase \"during the pandemic\", or refer to the \"pandemic period\". When using Labour Force Survey (LFS) data, the \"pandemic period\" refers to the period March 2020 to June 2021."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "7. Data sources and quality",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "7. Data sources and quality"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "7. Data sources and quality",
+      "h3": "Data sources",
+      "h4": null,
+      "h5": null,
+      "text": "Data sources"
+    },
+    {
+      "type": "p",
+      "h2": "7. Data sources and quality",
+      "h3": "Data sources",
+      "h4": null,
+      "h5": null,
+      "text": "[Section 4](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/changingtrendsandrecentshortagesinthelabourmarketuk/2016to2021#the-movements-in-and-out-of-the-workforce) on movements in the labour market in this article uses data collected through the Office for National Statistics' (ONS) Labour Force Survey (LFS), using the Quarter 2 (Apr to June) 2021 data."
+    },
+    {
+      "type": "p",
+      "h2": "7. Data sources and quality",
+      "h3": "Data sources",
+      "h4": null,
+      "h5": null,
+      "text": "The LFS is a large representative survey of households in the UK. The analysis presented in this article focuses on those currently an employee or those who have had a job at some point since March 2020. The [LFS performance and quality monitoring reports](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/labourforcesurveyperformanceandqualitymonitoringreports/labourforcesurveyperformanceandqualitymonitoringreportapriltojune2021) provide data on response rates and other quality measures."
+    },
+    {
+      "type": "p",
+      "h2": "7. Data sources and quality",
+      "h3": "Data sources",
+      "h4": null,
+      "h5": null,
+      "text": "Data on characteristics are taken from the [Annual Population Survey (APS)](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/annualpopulationsurveyapsqmi), which uses data combined from two waves of the main Labour Force Survey, with data collected on a local sample boost."
+    },
+    {
+      "type": "p",
+      "h2": "7. Data sources and quality",
+      "h3": "Data sources",
+      "h4": null,
+      "h5": null,
+      "text": "Data on earnings growth are taken from the [Annual Survey of Hours and Earnings (ASHE)](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/methodologies/annualsurveyofhoursandearningslowpayandannualsurveyofhoursandearningspensionresultsqmi) conducted by the ONS. ASHE is the most comprehensive source of earnings information in the UK and is based on a 1% sample of employee jobs taken from HM Revenue and Customs (HMRC) Pay As You Earn (PAYE) records."
+    },
+    {
+      "type": "p",
+      "h2": "7. Data sources and quality",
+      "h3": "Data sources",
+      "h4": null,
+      "h5": null,
+      "text": "Information on the quality and methodology for the Business Insights and Conditions Survey (BICS), including information on strengths, limitations, appropriate uses, and how the data were created is available in [the BICS QMI, published on 20 May 2021.](https://www.ons.gov.uk/releases/businessinsightsandconditionssurveybicsqmi)"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "7. Data sources and quality",
+      "h3": "Quality",
+      "h4": null,
+      "h5": null,
+      "text": "Quality"
+    },
+    {
+      "type": "p",
+      "h2": "7. Data sources and quality",
+      "h3": "Quality",
+      "h4": null,
+      "h5": null,
+      "text": "Estimates for occupations using both the Labour Force Survey (LFS) Annual Population Survey (APS) are based on the Standard Occupational Classification (SOC) 2010. SOC 2020 was introduced in January 2021, so the data up to December 2020 are collected on a SOC 2010 basis, while the data from January 2021 to June 2021 are collected on a SOC 2020 basis and mapped to SOC 2010. This may result in some inconsistencies with previous estimates."
+    },
+    {
+      "type": "p",
+      "h2": "7. Data sources and quality",
+      "h3": "Quality",
+      "h4": null,
+      "h5": null,
+      "text": "LFS and APS responses are weighted to official population projections. As the current projections are 2018-based they are based on demographic trends that pre-date the coronavirus (COVID-19) pandemic. We are analysing the population totals used in the weighting process and will make adjustments where appropriate. Rates published from the LFS remain robust; however, levels and changes in levels should be used with caution. This will particularly affect estimates for country of birth and nationality."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "7. Data sources and quality",
+      "h3": "Workforce movements",
+      "h4": null,
+      "h5": null,
+      "text": "Workforce movements"
+    },
+    {
+      "type": "p",
+      "h2": "7. Data sources and quality",
+      "h3": "Workforce movements",
+      "h4": null,
+      "h5": null,
+      "text": "\"People entering the workforce\" refers to individuals who reported not being in a paid job or business in the previous 12 months to become employed as either an employee or self-employed."
+    },
+    {
+      "type": "p",
+      "h2": "7. Data sources and quality",
+      "h3": "Workforce movements",
+      "h4": null,
+      "h5": null,
+      "text": "\"People leaving the workforce\" refers to individuals who moved from a paid job or business in the previous 12 months to become either economically inactive or unemployed."
+    },
+    {
+      "type": "p",
+      "h2": "7. Data sources and quality",
+      "h3": "Workforce movements",
+      "h4": null,
+      "h5": null,
+      "text": "The section on movements in and out of the workforce uses the OYCIRC variable from the LFS, which is asked in the Quarter 2 (Apr to June) period."
+    },
+    {
+      "type": "p",
+      "h2": "7. Data sources and quality",
+      "h3": "Workforce movements",
+      "h4": null,
+      "h5": null,
+      "text": "This asks the respondent to tell us their situation 12 months ago:"
+    },
+    {
+      "type": "p",
+      "h2": "7. Data sources and quality",
+      "h3": "Workforce movements",
+      "h4": null,
+      "h5": null,
+      "text": "I should (also) like to ask you now about your situation 12 months ago, that is in [date], were you..."
+    },
+    {
+      "type": "li",
+      "h2": "7. Data sources and quality",
+      "h3": "Workforce movements",
+      "h4": null,
+      "h5": null,
+      "text": "Working in a paid job or business?"
+    },
+    {
+      "type": "li",
+      "h2": "7. Data sources and quality",
+      "h3": "Workforce movements",
+      "h4": null,
+      "h5": null,
+      "text": "Laid off or on short time at a firm?"
+    },
+    {
+      "type": "li",
+      "h2": "7. Data sources and quality",
+      "h3": "Workforce movements",
+      "h4": null,
+      "h5": null,
+      "text": "Unemployed, actively seeking work?"
+    },
+    {
+      "type": "li",
+      "h2": "7. Data sources and quality",
+      "h3": "Workforce movements",
+      "h4": null,
+      "h5": null,
+      "text": "On a special government scheme?"
+    },
+    {
+      "type": "li",
+      "h2": "7. Data sources and quality",
+      "h3": "Workforce movements",
+      "h4": null,
+      "h5": null,
+      "text": "Doing unpaid work for you or a relative?"
+    },
+    {
+      "type": "li",
+      "h2": "7. Data sources and quality",
+      "h3": "Workforce movements",
+      "h4": null,
+      "h5": null,
+      "text": "A full-time student or pupil?"
+    },
+    {
+      "type": "li",
+      "h2": "7. Data sources and quality",
+      "h3": "Workforce movements",
+      "h4": null,
+      "h5": null,
+      "text": "Looking after the family or home?"
+    },
+    {
+      "type": "li",
+      "h2": "7. Data sources and quality",
+      "h3": "Workforce movements",
+      "h4": null,
+      "h5": null,
+      "text": "Temporarily sick or injured?"
+    },
+    {
+      "type": "li",
+      "h2": "7. Data sources and quality",
+      "h3": "Workforce movements",
+      "h4": null,
+      "h5": null,
+      "text": "Long-term sick or disabled?"
+    },
+    {
+      "type": "li",
+      "h2": "7. Data sources and quality",
+      "h3": "Workforce movements",
+      "h4": null,
+      "h5": null,
+      "text": "Retired from paid work?"
+    },
+    {
+      "type": "li",
+      "h2": "7. Data sources and quality",
+      "h3": "Workforce movements",
+      "h4": null,
+      "h5": null,
+      "text": "None of these"
+    },
+    {
+      "type": "p",
+      "h2": "7. Data sources and quality",
+      "h3": "Workforce movements",
+      "h4": null,
+      "h5": null,
+      "text": "More information can be found in Volume 2 of the [Labour Force Survey user guidance](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/labourforcesurveyuserguidance)."
+    },
+    {
+      "type": "p",
+      "h2": "7. Data sources and quality",
+      "h3": "Workforce movements",
+      "h4": null,
+      "h5": null,
+      "text": "The OYCIRC question is only asked in the April to June period each year and is not analysed using a longitudinal dataset. In addition, imputed responses from the previous wave have been excluded to enable a true comparison with the situation 12 months ago. This means the analysis does not comprehensively cover all persons in a paid job or business a year ago. For these reasons the estimates are expressed as proportions of the base instead of absolute values and should be treated with caution."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "8. Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "8. Related links"
+    },
+    {
+      "type": "p",
+      "h2": "8. Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": "8. Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "[Labour market overview, UK: December 2021](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/latest)\n Bulletin | Released 14 December 2021\n Estimates of employment, unemployment, economic inactivity, and other employment-related statistics for the UK.\n\n[Low and high pay in the UK: 2021](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/lowandhighpayuk/2021#distribution-of-pay)\n Bulletin | Released 26 October 2021\n The distribution of hourly earnings of high-paid and low-paid jobs and jobs paid below the National Minimum Wage.\n\n[An overview of workers who were furloughed in the UK: October 2021](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/anoverviewofworkerswhowerefurloughedintheuk/october2021)\n Article | Released 1 October 2021\n Characteristics of those who have been furloughed in the UK and how the furlough scheme has affected labour market outcomes and skills: data from the Labour Force Survey (LFS) for April to June 2021 and Opinions and Lifestyle Survey (OPN) for July to August 2021. Experimental Statistics.\n\n[Review of the shortage occupation list: 2020](https://www.gov.uk/government/publications/review-of-the-shortage-occupation-list-2020)\n GOV.UK report | Released 29 September 2020\n The Migration Advisory Committee (MAC) review of the shortage occupation lists (SOLs) for the UK. The report examines which occupations are in shortage and makes recommendations as to which eligible occupations should be included in the SOLs.",
+      "box_items": null
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "8. Related links",
+      "h3": "Contact details for this Article",
+      "h4": null,
+      "h5": null,
+      "text": "Contact details for this Article"
+    }
+  ],
+  "scraped_at": "2026-09-22 11:46:47.870859"
+}

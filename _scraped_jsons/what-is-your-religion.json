@@ -1,0 +1,91 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/migrationwithintheuk/articles/whatisyourreligion/2015-01-15",
+  "title": "What is your religion?",
+  "meta_description": null,
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Population and migration",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration"
+    },
+    {
+      "text": "Migration within the UK",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/migrationwithintheuk"
+    },
+    {
+      "text": "What is your religion?",
+      "href": null
+    }
+  ],
+  "date_published": "2015-01-15T08:14:43.000Z",
+  "date_modified": "2015-01-15T08:14:43.000Z",
+  "lede": null,
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "15 January 2015"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This infographic illustrates data on religion from the [2011 Census](www.ons.gov.uk/ons/guide-method/census/2011/index.html) to provide a picture of the various faiths across England and Wales."
+    },
+    {
+      "type": "image",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "src": "/visualisations//visual/2015/01/Religion-Infographic-768px-V2.png",
+      "alt": null
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Download the data for this infographic.](/visualisations//visual/2015/01/relig_infog_data.csv)"
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "You might also be interested in",
+      "box_h3": null,
+      "box_text": "",
+      "box_items": [
+        "[2011 Census data on religion by age, ethnicity and country of birth](http://www.ons.gov.uk/ons/rel/census/2011-census/detailed-characteristics-for-local-authorities-in-england-and-wales/rpt---religion.html)",
+        "[Religion in England and Wales 2011](http://www.ons.gov.uk/ons/rel/census/2011-census/key-statistics-for-local-authorities-in-england-and-wales/rpt-religion.html)"
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[digitalcontent@ons.gov.uk](mailto:digitalcontent@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:48:25.308771"
+}

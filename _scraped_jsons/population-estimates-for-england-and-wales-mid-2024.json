@@ -1,0 +1,1690 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/populationestimatesforenglandandwales/mid2024",
+  "title": "Population estimates for England and Wales: mid-2024",
+  "meta_description": "National and subnational mid-year population estimates for England and Wales by administrative area, age and sex.",
+  "breadcrumb": null,
+  "date_published": "2025-07-29T23:00:00.000Z",
+  "date_modified": "2025-07-29T23:00:00.000Z",
+  "lede": null,
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "National and subnational mid-year population estimates for England and Wales by administrative area, age and sex."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This is not the latest release. [View latest release](/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/populationestimatesforenglandandwales/mid2025)"
+    },
+    {
+      "type": "image",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "src": "/visualisations//assets/images/ons-logo/kitemark/v2/uksa-kitemark-en.svg",
+      "alt": "These are accredited official statistics. Click for information about types of official statistics."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Contact:\n[Email Demography team](mailto:pop.info@ons.gov.uk)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Release date:\n30 July 2025\n"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Next release:\nTo be announced"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Table of contents"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Overview](#overview)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Comparisons over time](#comparisons-over-time)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Countries and regions](#countries-and-regions)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Local authorities](#local-authorities)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Revisions to population data](#revisions-to-population-data)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Comparing admin-based and mid-year population estimates](#comparing-admin-based-and-mid-year-population-estimates)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Definitions](#definitions)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Data on population estimates](#data-on-population-estimates)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Data from other statistics producers](#data-from-other-statistics-producers)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Quality, methods and data sources](#quality-methods-and-data-sources)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Related links](#related-links)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Cite this page](#cite-this-page)"
+    },
+    {
+      "type": "p",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Print this Statistical bulletin]()"
+    },
+    {
+      "type": "p",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Download as PDF](/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/populationestimatesforenglandandwales/mid2024/pdf)"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "1. Overview",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "1. Overview"
+    },
+    {
+      "type": "p",
+      "h2": "1. Overview",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The population of England and Wales continued to grow in the year to mid-2024, reaching an estimated 61.8 million people (61,806,682). The size of the population increased by 706,900 (1.2%) from mid-2023."
+    },
+    {
+      "type": "p",
+      "h2": "1. Overview",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This is a similar rate of increase to the previous two years and represents the second largest annual numerical increase in over 75 years. This takes into account recent [revisions for mid-2022 and mid-2023](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/populationestimatesforenglandandwales/mid2024#revisions-to-population-data)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "1. Overview",
+      "h3": null,
+      "h4": "Figure 1: The size of the population in England and Wales continues to grow",
+      "h5": null,
+      "text": "Figure 1: The size of the population in England and Wales continues to grow"
+    },
+    {
+      "type": "p",
+      "h2": "1. Overview",
+      "h3": null,
+      "h4": "Figure 1: The size of the population in England and Wales continues to grow",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "1. Overview",
+      "h3": null,
+      "h4": "Figure 1: The size of the population in England and Wales continues to grow",
+      "h5": null,
+      "title": "Figure 1",
+      "url": "/visualisations/dvc3286/fig01/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "1. Overview",
+      "h3": null,
+      "h4": "Figure 1: The size of the population in England and Wales continues to grow",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": "1. Overview",
+      "h3": null,
+      "h4": "Figure 1: The size of the population in England and Wales continues to grow",
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "View recent population trends for local areas in our new interactive tool in [Section 4](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/populationestimatesforenglandandwales/mid2024#local-authorities).",
+      "box_items": null
+    },
+    {
+      "type": "p",
+      "h2": "1. Overview",
+      "h3": null,
+      "h4": "Figure 1: The size of the population in England and Wales continues to grow",
+      "h5": null,
+      "text": "Population change is mainly determined by [international migration, internal migration](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/populationestimatesforenglandandwales/mid2024#definitions), births and deaths."
+    },
+    {
+      "type": "p",
+      "h2": "1. Overview",
+      "h3": null,
+      "h4": "Figure 1: The size of the population in England and Wales continues to grow",
+      "h5": null,
+      "text": "Although estimated net international migration was lower in the year to mid-2024 compared with the previous year, it continued to contribute most to population growth."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "1. Overview",
+      "h3": null,
+      "h4": "Figure 2: Population growth in mid-2024 resulted mostly from net international migration",
+      "h5": null,
+      "text": "Figure 2: Population growth in mid-2024 resulted mostly from net international migration"
+    },
+    {
+      "type": "p",
+      "h2": "1. Overview",
+      "h3": null,
+      "h4": "Figure 2: Population growth in mid-2024 resulted mostly from net international migration",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "1. Overview",
+      "h3": null,
+      "h4": "Figure 2: Population growth in mid-2024 resulted mostly from net international migration",
+      "h5": null,
+      "title": "Figure 2",
+      "url": "/visualisations/dvc3286/fig02/index.html"
+    },
+    {
+      "type": "li",
+      "h2": "1. Overview",
+      "h3": null,
+      "h4": "Figure 2: Population growth in mid-2024 resulted mostly from net international migration",
+      "h5": null,
+      "text": "“Other changes” are changes in armed forces personnel and dependants."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "1. Overview",
+      "h3": "Migration",
+      "h4": null,
+      "h5": null,
+      "text": "Migration"
+    },
+    {
+      "type": "p",
+      "h2": "1. Overview",
+      "h3": "Migration",
+      "h4": null,
+      "h5": null,
+      "text": "The number of people immigrating to England and Wales from outside the UK decreased compared with the previous year. Overall, net international migration also declined but continues to remain high compared with historical levels."
+    },
+    {
+      "type": "p",
+      "h2": "1. Overview",
+      "h3": "Migration",
+      "h4": null,
+      "h5": null,
+      "text": "We estimate that in the year to mid-2024:"
+    },
+    {
+      "type": "li",
+      "h2": "1. Overview",
+      "h3": "Migration",
+      "h4": null,
+      "h5": null,
+      "text": "1,142,300 people immigrated to England and Wales from outside the UK"
+    },
+    {
+      "type": "li",
+      "h2": "1. Overview",
+      "h3": "Migration",
+      "h4": null,
+      "h5": null,
+      "text": "452,200 people emigrated from England and Wales to another country outside the UK"
+    },
+    {
+      "type": "li",
+      "h2": "1. Overview",
+      "h3": "Migration",
+      "h4": null,
+      "h5": null,
+      "text": "net international migration to England and Wales was 690,100"
+    },
+    {
+      "type": "p",
+      "h2": "1. Overview",
+      "h3": "Migration",
+      "h4": null,
+      "h5": null,
+      "text": "Our [Long-term international migration, provisional: year ending December 2024 bulletin](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/longterminternationalmigrationprovisional/yearendingdecember2024) explains how at the UK level, net migration has declined because fewer [non-EU+](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/populationestimatesforenglandandwales/mid2024#definitions) nationals arrived on work- and study-related visas, and more people departed who originally came on study-related visas."
+    },
+    {
+      "type": "p",
+      "h2": "1. Overview",
+      "h3": "Migration",
+      "h4": null,
+      "h5": null,
+      "text": "[Net internal migration](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/populationestimatesforenglandandwales/mid2024#definitions) has remained at a similar level compared with the previous year. We estimate that there were 13,600 net internal moves out of England and Wales to the rest of the UK in the year to mid-2024."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "1. Overview",
+      "h3": "Births and deaths",
+      "h4": null,
+      "h5": null,
+      "text": "Births and deaths"
+    },
+    {
+      "type": "p",
+      "h2": "1. Overview",
+      "h3": "Births and deaths",
+      "h4": null,
+      "h5": null,
+      "text": "There was a decrease in the number of births and deaths in the year to mid-2024, compared with the previous year."
+    },
+    {
+      "type": "p",
+      "h2": "1. Overview",
+      "h3": "Births and deaths",
+      "h4": null,
+      "h5": null,
+      "text": "We estimate that:"
+    },
+    {
+      "type": "li",
+      "h2": "1. Overview",
+      "h3": "Births and deaths",
+      "h4": null,
+      "h5": null,
+      "text": "there were 596,000 births, a decrease of 2,400 compared with mid-2023 and the lowest since mid-2002"
+    },
+    {
+      "type": "li",
+      "h2": "1. Overview",
+      "h3": "Births and deaths",
+      "h4": null,
+      "h5": null,
+      "text": "there were 566,000 deaths, a decrease of 32,000 compared with mid-2023 and the lowest since mid-2019 before the coronavirus (COVID-19) pandemic"
+    },
+    {
+      "type": "li",
+      "h2": "1. Overview",
+      "h3": "Births and deaths",
+      "h4": null,
+      "h5": null,
+      "text": "natural change, the difference between births and deaths, contributed an increase in the population of 30,000"
+    },
+    {
+      "type": "p",
+      "h2": "1. Overview",
+      "h3": "Births and deaths",
+      "h4": null,
+      "h5": null,
+      "text": "These estimates differ slightly to other Office for National Statistics (ONS) birth and death statistics, which are reported by calendar year."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "1. Overview",
+      "h3": "Population by sex",
+      "h4": null,
+      "h5": null,
+      "text": "Population by sex"
+    },
+    {
+      "type": "p",
+      "h2": "1. Overview",
+      "h3": "Population by sex",
+      "h4": null,
+      "h5": null,
+      "text": "We estimate that there were 31.5 million females and 30.3 million males in England and Wales in mid-2024. The number of males has increased at a slightly faster rate than females (1.2% and 1.1%, respectively) since mid-2023. The higher rate for males was largely influenced by:"
+    },
+    {
+      "type": "li",
+      "h2": "1. Overview",
+      "h3": "Population by sex",
+      "h4": null,
+      "h5": null,
+      "text": "net international migration, which was 18,000 higher for males than for females"
+    },
+    {
+      "type": "li",
+      "h2": "1. Overview",
+      "h3": "Population by sex",
+      "h4": null,
+      "h5": null,
+      "text": "births, which were 14,800 higher for males than for females; it is normal to have roughly 105 male births for every 100 female births"
+    },
+    {
+      "type": "p",
+      "h2": "1. Overview",
+      "h3": "Population by sex",
+      "h4": null,
+      "h5": null,
+      "text": "There were 9,600 more male deaths than female deaths, and natural change was 5,300 higher for males."
+    },
+    {
+      "type": "p",
+      "h2": "1. Overview",
+      "h3": "Population by sex",
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "p",
+      "h2": "1. Overview",
+      "h3": "Population by sex",
+      "h4": null,
+      "h5": null,
+      "text": "We have revised population estimates for mid-2022 and mid-2023. These estimates are consistent with long-term international migration estimates and use previously unavailable administrative data for internal migration. Read more in [Section 5: Revisions to population data](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/populationestimatesforenglandandwales/mid2024#revisions-to-population-data)."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "1. Overview",
+      "h3": "Share your feedback",
+      "h4": null,
+      "h5": null,
+      "text": "Share your feedback"
+    },
+    {
+      "type": "p",
+      "h2": "1. Overview",
+      "h3": "Share your feedback",
+      "h4": null,
+      "h5": null,
+      "text": "We have updated the structure and content of this statistical bulletin and welcome your feedback to help us improve it. Share your thoughts by emailing [pop.info@ons.gov.uk](mailto:pop.info@ons.gov.uk)."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "2. Comparisons over time",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "2. Comparisons over time"
+    },
+    {
+      "type": "p",
+      "h2": "2. Comparisons over time",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The population of England and Wales has increased each year since mid-1982. The greatest percentage increase over this period (1.4%) was in the year to mid-2023. The coronavirus (COVID-19) pandemic led to smaller population increases in the years ending mid-2020 and mid-2021."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "2. Comparisons over time",
+      "h3": null,
+      "h4": "Figure 3: Net migration has contributed most to population growth over the last 25 years",
+      "h5": null,
+      "text": "Figure 3: Net migration has contributed most to population growth over the last 25 years"
+    },
+    {
+      "type": "p",
+      "h2": "2. Comparisons over time",
+      "h3": null,
+      "h4": "Figure 3: Net migration has contributed most to population growth over the last 25 years",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "2. Comparisons over time",
+      "h3": null,
+      "h4": "Figure 3: Net migration has contributed most to population growth over the last 25 years",
+      "h5": null,
+      "title": "Figure 3",
+      "url": "/visualisations/dvc3286/fig03/index.html"
+    },
+    {
+      "type": "li",
+      "h2": "2. Comparisons over time",
+      "h3": null,
+      "h4": "Figure 3: Net migration has contributed most to population growth over the last 25 years",
+      "h5": null,
+      "text": "“Net-migration and other” includes international and internal migration, changes in armed forces personnel and dependants, and unattributable population change.\n"
+    },
+    {
+      "type": "p",
+      "h2": "2. Comparisons over time",
+      "h3": null,
+      "h4": "Figure 3: Net migration has contributed most to population growth over the last 25 years",
+      "h5": null,
+      "text": "Since mid-1999, migration has contributed most to population growth. Before this, population growth was mainly caused by natural change. At the country level, migration includes people moving to or from non-UK countries, people moving between UK countries, and changes in armed forces and dependants."
+    },
+    {
+      "type": "p",
+      "h2": "2. Comparisons over time",
+      "h3": null,
+      "h4": "Figure 3: Net migration has contributed most to population growth over the last 25 years",
+      "h5": null,
+      "text": "International migration is by far the largest component of migration. Lower levels of net migration in the year to mid-2020 are because of travel restrictions during the coronavirus pandemic. For three years before the pandemic, net migration had remained relatively unchanged."
+    },
+    {
+      "type": "p",
+      "h2": "2. Comparisons over time",
+      "h3": null,
+      "h4": "Figure 3: Net migration has contributed most to population growth over the last 25 years",
+      "h5": null,
+      "text": "Overall, births have declined since mid-2012 except for brief increases in the years ending mid-2016 and mid-2022. Over the same period, deaths have generally increased despite some annual decreases, including a 5.3% decrease in the latest year to mid-2024. The increasing number of deaths reflects the growing size of the population and increasing number of older people in the population as people are living longer."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "3. Countries and regions",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "3. Countries and regions"
+    },
+    {
+      "type": "p",
+      "h2": "3. Countries and regions",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "There was population growth for both England and Wales in the year to mid-2024 compared with the previous year. This meant an increase of:"
+    },
+    {
+      "type": "li",
+      "h2": "3. Countries and regions",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "687,600 people (1.2%) for England"
+    },
+    {
+      "type": "li",
+      "h2": "3. Countries and regions",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "19,300 people (0.6%) for Wales"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "3. Countries and regions",
+      "h3": null,
+      "h4": "Figure 4: For both England and Wales, the highest rate of population growth for over 50 years was in the year to mid-2023",
+      "h5": null,
+      "text": "Figure 4: For both England and Wales, the highest rate of population growth for over 50 years was in the year to mid-2023"
+    },
+    {
+      "type": "p",
+      "h2": "3. Countries and regions",
+      "h3": null,
+      "h4": "Figure 4: For both England and Wales, the highest rate of population growth for over 50 years was in the year to mid-2023",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "3. Countries and regions",
+      "h3": null,
+      "h4": "Figure 4: For both England and Wales, the highest rate of population growth for over 50 years was in the year to mid-2023",
+      "h5": null,
+      "title": "Figure 4",
+      "url": "/visualisations/dvc3286/fig04/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "3. Countries and regions",
+      "h3": null,
+      "h4": "Figure 4: For both England and Wales, the highest rate of population growth for over 50 years was in the year to mid-2023",
+      "h5": null,
+      "text": "The rate of growth in England has been higher for the last three years than at any point since 1972. For Wales, the population growth has slowed in the year to mid-2024 but remains high compared with historical levels. We have no separate population estimates for England, and Wales before 1971."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "3. Countries and regions",
+      "h3": "Contributors to population change",
+      "h4": null,
+      "h5": null,
+      "text": "Contributors to population change"
+    },
+    {
+      "type": "p",
+      "h2": "3. Countries and regions",
+      "h3": "Contributors to population change",
+      "h4": null,
+      "h5": null,
+      "text": "In both England and Wales, net international migration contributed most to population growth in the year to mid-2024. The rate of net international migration was higher for England than for Wales, continuing the long-term trend (1.2% and 0.7%, respectively). Rates of population change by component are explained in [Section 7: Definitions](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/populationestimatesforenglandandwales/mid2024#definitions)."
+    },
+    {
+      "type": "p",
+      "h2": "3. Countries and regions",
+      "h3": "Contributors to population change",
+      "h4": null,
+      "h5": null,
+      "text": "Natural change and internal migration contributed less than international migration to the population growth of both countries in the year to mid-2024. They partially offset the increase in population from international migration in two instances:"
+    },
+    {
+      "type": "li",
+      "h2": "3. Countries and regions",
+      "h3": "Contributors to population change",
+      "h4": null,
+      "h5": null,
+      "text": "for Wales, natural change was negative; the population of Wales is older on average than the population of England, leading to a slightly higher rate of deaths and lower rate of births for Wales"
+    },
+    {
+      "type": "li",
+      "h2": "3. Countries and regions",
+      "h3": "Contributors to population change",
+      "h4": null,
+      "h5": null,
+      "text": "for England, there was a net outflow of people migrating to the rest of the UK"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "3. Countries and regions",
+      "h3": "Age composition",
+      "h4": null,
+      "h5": null,
+      "text": "Age composition"
+    },
+    {
+      "type": "p",
+      "h2": "3. Countries and regions",
+      "h3": "Age composition",
+      "h4": null,
+      "h5": null,
+      "text": "The median (average) age in Wales is higher than for England. Over the last decade, the median age has increased by similar amounts in both countries, reaching 40.2 years in England and 42.8 years in Wales in mid-2024."
+    },
+    {
+      "type": "p",
+      "h2": "3. Countries and regions",
+      "h3": "Age composition",
+      "h4": null,
+      "h5": null,
+      "text": "The age structure of the population is determined by the patterns of births, deaths and migration in previous years. The size of population cohorts at different ages vary. In the year to mid-2024:"
+    },
+    {
+      "type": "li",
+      "h2": "3. Countries and regions",
+      "h3": "Age composition",
+      "h4": null,
+      "h5": null,
+      "text": "the number of people aged 65 years and over increased by 1.8% in England and by 1.5% in Wales, continuing the long-term trend of an ageing population"
+    },
+    {
+      "type": "li",
+      "h2": "3. Countries and regions",
+      "h3": "Age composition",
+      "h4": null,
+      "h5": null,
+      "text": "the population aged 16 to 64 years also increased in both countries at a slightly slower rate, 1.2% in England and 0.7% in Wales"
+    },
+    {
+      "type": "li",
+      "h2": "3. Countries and regions",
+      "h3": "Age composition",
+      "h4": null,
+      "h5": null,
+      "text": "the number of people aged 15 years and under in Wales decreased by 0.7% but increased in England by 0.6%"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Regions",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Regions"
+    },
+    {
+      "type": "p",
+      "h2": "Regions",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "All regions in England had similar levels of population growth in the year to mid-2024, between 1.0% and 1.4%."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Regions",
+      "h3": null,
+      "h4": "Figure 5: The North West had the highest rate of population growth, London and the South West had the lowest",
+      "h5": null,
+      "text": "Figure 5: The North West had the highest rate of population growth, London and the South West had the lowest"
+    },
+    {
+      "type": "p",
+      "h2": "Regions",
+      "h3": null,
+      "h4": "Figure 5: The North West had the highest rate of population growth, London and the South West had the lowest",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Regions",
+      "h3": null,
+      "h4": "Figure 5: The North West had the highest rate of population growth, London and the South West had the lowest",
+      "h5": null,
+      "title": "Figure 5",
+      "url": "/visualisations/dvc3286/fig05/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "Regions",
+      "h3": null,
+      "h4": "Figure 5: The North West had the highest rate of population growth, London and the South West had the lowest",
+      "h5": null,
+      "text": "Natural change in the year to mid-2024 increased the size of the population in four regions, London, the South East, West Midlands and East of England. The other regions had negative natural change, which reflects a long-term decline in fertility and an increasing number of deaths because of the growing proportion of older people. London had the highest rates of natural change and net international migration; these were partially offset by net outward internal migration to other UK countries or regions in England."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "4. Local authorities",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "4. Local authorities"
+    },
+    {
+      "type": "p",
+      "h2": "4. Local authorities",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The size of the population increased in 96% of all local authorities in the year to mid-2024 (306 out of 318 areas)."
+    },
+    {
+      "type": "p",
+      "h2": "4. Local authorities",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The highest rates of population growth were City of London (11.1%), Oadby and Wigston (3.1%), and Preston (2.9%). The greatest rates of population decrease were Isles of Scilly (negative 2.8%), Kensington and Chelsea (negative 1.4%) and Lambeth (negative 0.6%). Isles of Scilly and City of London have very small populations, which can often lead to outlying results."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "4. Local authorities",
+      "h3": null,
+      "h4": "Use our new interactive tool to view the latest population trends for your local area",
+      "h5": null,
+      "text": "Use our new interactive tool to view the latest population trends for your local area"
+    },
+    {
+      "type": "p",
+      "h2": "4. Local authorities",
+      "h3": null,
+      "h4": "Use our new interactive tool to view the latest population trends for your local area",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "4. Local authorities",
+      "h3": null,
+      "h4": "Use our new interactive tool to view the latest population trends for your local area",
+      "h5": null,
+      "title": "Use our new interactive tool to view the latest population trends for your local area",
+      "url": "/visualisations/dvc3286localcomponent/build/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "5. Revisions to population data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "5. Revisions to population data"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "5. Revisions to population data",
+      "h3": "Revisions to population estimates for mid-2022 and mid-2023, England and Wales",
+      "h4": null,
+      "h5": null,
+      "text": "Revisions to population estimates for mid-2022 and mid-2023, England and Wales"
+    },
+    {
+      "type": "p",
+      "h2": "5. Revisions to population data",
+      "h3": "Revisions to population estimates for mid-2022 and mid-2023, England and Wales",
+      "h4": null,
+      "h5": null,
+      "text": "Revisions have been made to mid-2022 and mid-2023 population estimates to incorporate improved international and internal migration data."
+    },
+    {
+      "type": "p",
+      "h2": "5. Revisions to population data",
+      "h3": "Revisions to population estimates for mid-2022 and mid-2023, England and Wales",
+      "h4": null,
+      "h5": null,
+      "text": "For international migration, we have used the latest long-term international migration estimates, which were published in May 2025. For internal migration, we have included previously unavailable NHS Personal Demographics Service and Higher Education Statistics Agency data. Changes to international migration estimates have contributed the most to these revisions."
+    },
+    {
+      "type": "p",
+      "h2": "5. Revisions to population data",
+      "h3": "Revisions to population estimates for mid-2022 and mid-2023, England and Wales",
+      "h4": null,
+      "h5": null,
+      "text": "The population estimates for England and Wales have been revised upwards to:"
+    },
+    {
+      "type": "li",
+      "h2": "5. Revisions to population data",
+      "h3": "Revisions to population estimates for mid-2022 and mid-2023, England and Wales",
+      "h4": null,
+      "h5": null,
+      "text": "60.3 million in mid-2022, an increase of 33,400 (0.1%)"
+    },
+    {
+      "type": "li",
+      "h2": "5. Revisions to population data",
+      "h3": "Revisions to population estimates for mid-2022 and mid-2023, England and Wales",
+      "h4": null,
+      "h5": null,
+      "text": "61.1 million in mid-2023, an increase of 245,100 (0.4%)"
+    },
+    {
+      "type": "p",
+      "h2": "5. Revisions to population data",
+      "h3": "Revisions to population estimates for mid-2022 and mid-2023, England and Wales",
+      "h4": null,
+      "h5": null,
+      "text": "Estimates for males and females have changed:"
+    },
+    {
+      "type": "li",
+      "h2": "5. Revisions to population data",
+      "h3": "Revisions to population estimates for mid-2022 and mid-2023, England and Wales",
+      "h4": null,
+      "h5": null,
+      "text": "the number of females is now 0.2% higher in mid-2022 and 0.5% higher in mid-2023"
+    },
+    {
+      "type": "li",
+      "h2": "5. Revisions to population data",
+      "h3": "Revisions to population estimates for mid-2022 and mid-2023, England and Wales",
+      "h4": null,
+      "h5": null,
+      "text": "the number of males is now 0.1% lower in mid-2022 and 0.3% higher in mid-2023"
+    },
+    {
+      "type": "p",
+      "h2": "5. Revisions to population data",
+      "h3": "Revisions to population estimates for mid-2022 and mid-2023, England and Wales",
+      "h4": null,
+      "h5": null,
+      "text": "By age-group, the most notable changes are for mid-2023, where revised estimates for persons aged:"
+    },
+    {
+      "type": "li",
+      "h2": "5. Revisions to population data",
+      "h3": "Revisions to population estimates for mid-2022 and mid-2023, England and Wales",
+      "h4": null,
+      "h5": null,
+      "text": "30 to 44 years are 0.8% higher"
+    },
+    {
+      "type": "li",
+      "h2": "5. Revisions to population data",
+      "h3": "Revisions to population estimates for mid-2022 and mid-2023, England and Wales",
+      "h4": null,
+      "h5": null,
+      "text": "16 to 29 years are 0.7% higher"
+    },
+    {
+      "type": "li",
+      "h2": "5. Revisions to population data",
+      "h3": "Revisions to population estimates for mid-2022 and mid-2023, England and Wales",
+      "h4": null,
+      "h5": null,
+      "text": "15 years and under are 0.5% higher"
+    },
+    {
+      "type": "p",
+      "h2": "5. Revisions to population data",
+      "h3": "Revisions to population estimates for mid-2022 and mid-2023, England and Wales",
+      "h4": null,
+      "h5": null,
+      "text": "By country, revised estimates for:"
+    },
+    {
+      "type": "li",
+      "h2": "5. Revisions to population data",
+      "h3": "Revisions to population estimates for mid-2022 and mid-2023, England and Wales",
+      "h4": null,
+      "h5": null,
+      "text": "England are 0.06% higher for mid-2022 and 0.4% higher for mid-2023"
+    },
+    {
+      "type": "li",
+      "h2": "5. Revisions to population data",
+      "h3": "Revisions to population estimates for mid-2022 and mid-2023, England and Wales",
+      "h4": null,
+      "h5": null,
+      "text": "Wales are 0.05% higher for mid-2022 and 0.1% higher for mid-2023"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "5. Revisions to population data",
+      "h3": "Local authority population estimates revisions",
+      "h4": null,
+      "h5": null,
+      "text": "Local authority population estimates revisions"
+    },
+    {
+      "type": "p",
+      "h2": "5. Revisions to population data",
+      "h3": "Local authority population estimates revisions",
+      "h4": null,
+      "h5": null,
+      "text": "The impact of the revisions varies by local authority:"
+    },
+    {
+      "type": "li",
+      "h2": "5. Revisions to population data",
+      "h3": "Local authority population estimates revisions",
+      "h4": null,
+      "h5": null,
+      "text": "for mid-2022, the population in most local authorities (99%) was revised up or down by less than 0.5%"
+    },
+    {
+      "type": "li",
+      "h2": "5. Revisions to population data",
+      "h3": "Local authority population estimates revisions",
+      "h4": null,
+      "h5": null,
+      "text": "revisions are larger for mid-2023; in 35% of local authorities, the population has increased by more than 0.5%, and in 3% of local authorities, the population has decreased by more than 0.5%"
+    },
+    {
+      "type": "p",
+      "h2": "5. Revisions to population data",
+      "h3": "Local authority population estimates revisions",
+      "h4": null,
+      "h5": null,
+      "text": "For 72% of local authorities, revised net international migration contributed most to the population estimate revisions."
+    },
+    {
+      "type": "p",
+      "h2": "5. Revisions to population data",
+      "h3": "Local authority population estimates revisions",
+      "h4": null,
+      "h5": null,
+      "text": "For mid-2022:"
+    },
+    {
+      "type": "li",
+      "h2": "5. Revisions to population data",
+      "h3": "Local authority population estimates revisions",
+      "h4": null,
+      "h5": null,
+      "text": "Middlesbrough had the largest upward revision (0.5% higher); we have excluded City of London and Isles of Scilly because they have very small populations, which can often lead to outlying results"
+    },
+    {
+      "type": "li",
+      "h2": "5. Revisions to population data",
+      "h3": "Local authority population estimates revisions",
+      "h4": null,
+      "h5": null,
+      "text": "Hounslow and Southwark both had the largest downward revisions (0.7% lower)"
+    },
+    {
+      "type": "p",
+      "h2": "5. Revisions to population data",
+      "h3": "Local authority population estimates revisions",
+      "h4": null,
+      "h5": null,
+      "text": "For 2023:"
+    },
+    {
+      "type": "li",
+      "h2": "5. Revisions to population data",
+      "h3": "Local authority population estimates revisions",
+      "h4": null,
+      "h5": null,
+      "text": "Slough had the largest upward revision (2.0% higher)"
+    },
+    {
+      "type": "li",
+      "h2": "5. Revisions to population data",
+      "h3": "Local authority population estimates revisions",
+      "h4": null,
+      "h5": null,
+      "text": "Camden had the largest downward revision (1.7% lower)"
+    },
+    {
+      "type": "p",
+      "h2": "5. Revisions to population data",
+      "h3": "Local authority population estimates revisions",
+      "h4": null,
+      "h5": null,
+      "text": "Further information on the impact of revisions is available in our [accompanying datasets](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/populationestimatesforenglandandwales/mid2024/relateddata) and in our [analysis of population estimates tool](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/analysisofpopulationestimatestoolforuk). Using the analysis tool, you can explore the full impact of revisions for each area broken down by internal and international migration flows, single year of age, and sex."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "5. Revisions to population data",
+      "h3": "Local authority population estimates revisions",
+      "h4": "Figure 6: Revisions to local authority population estimates are larger for mid-2023 than for mid-2022",
+      "h5": null,
+      "text": "Figure 6: Revisions to local authority population estimates are larger for mid-2023 than for mid-2022"
+    },
+    {
+      "type": "p",
+      "h2": "5. Revisions to population data",
+      "h3": "Local authority population estimates revisions",
+      "h4": "Figure 6: Revisions to local authority population estimates are larger for mid-2023 than for mid-2022",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "5. Revisions to population data",
+      "h3": "Local authority population estimates revisions",
+      "h4": "Figure 6: Revisions to local authority population estimates are larger for mid-2023 than for mid-2022",
+      "h5": null,
+      "title": "Figure 6",
+      "url": "/visualisations/dvc3286/fig06/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "5. Revisions to population data",
+      "h3": "Local authority population estimates revisions",
+      "h4": "Figure 6: Revisions to local authority population estimates are larger for mid-2023 than for mid-2022",
+      "h5": "Notes:",
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": "5. Revisions to population data",
+      "h3": "Local authority population estimates revisions",
+      "h4": "Figure 6: Revisions to local authority population estimates are larger for mid-2023 than for mid-2022",
+      "h5": "Notes:",
+      "text": "Isles of Scilly and City of London are not included in this chart because they have very small populations, which can often lead to outlying results."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "6. Comparing admin-based and mid-year population estimates",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "6. Comparing admin-based and mid-year population estimates"
+    },
+    {
+      "type": "p",
+      "h2": "6. Comparing admin-based and mid-year population estimates",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "p",
+      "h2": "6. Comparing admin-based and mid-year population estimates",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Admin-based population estimates do not replace our official mid-year population estimates and you should not use them for decision-making. They are [official statistics in development](https://osr.statisticsauthority.gov.uk/policies/official-statistics-policies/official-statistics-in-development/) while we refine methods and data sources. Do not use these outputs without this warning."
+    },
+    {
+      "type": "p",
+      "h2": "6. Comparing admin-based and mid-year population estimates",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We have released admin-based population estimates (ABPEs) alongside the accredited official mid-year population estimates (MYEs). ABPEs use innovative new methods and a wider range of data sources. Differences between the methods and the data sources used mean we do not expect both sets of estimates to match exactly. More information is available in our [Understanding mid-year admin-based population estimates for local authorities in England and Wales article](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/methodologies/understandingmidyearadminbasedpopulationestimatesforlocalauthoritiesinenglandandwales)."
+    },
+    {
+      "type": "p",
+      "h2": "6. Comparing admin-based and mid-year population estimates",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We are confident that ABPEs will be the best method for estimating the population in the future. We are working to successfully meet the [acceptance criteria](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/assessmentofcriteriaformovingtoadminbasedpopulationestimatesasofficialestimatesofpopulationenglandandwales/2025) and are aiming for the ABPEs to become the official estimates of the population in 2026."
+    },
+    {
+      "type": "p",
+      "h2": "6. Comparing admin-based and mid-year population estimates",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "For mid-2024, ABPEs are very similar to our accredited official MYEs. The total ABPE for England and Wales is an estimated 61.7 million people (61,737,459), which is 0.1% lower than the official MYE. For England, the ABPE is 0.1% lower than the official MYE and for Wales, it is 0.3% lower."
+    },
+    {
+      "type": "p",
+      "h2": "6. Comparing admin-based and mid-year population estimates",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Figure 7 shows that differences between the ABPEs and official MYEs vary by geographical area, age and sex. Reasons behind some of these differences are explained in our [Admin-based population estimates: local authority case studies, England and Wales, mid-2023 article](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/adminbasedpopulationestimates/localauthoritycasestudiesenglandandwalesmid2023)."
+    },
+    {
+      "type": "p",
+      "h2": "6. Comparing admin-based and mid-year population estimates",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Mid-2024 ABPEs were greater than MYEs in nearly a half (47%) of all local authorities (149 out of 318). Differences were greatest for:"
+    },
+    {
+      "type": "li",
+      "h2": "6. Comparing admin-based and mid-year population estimates",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Barking and Dagenham (ABPE 1.9% higher)"
+    },
+    {
+      "type": "li",
+      "h2": "6. Comparing admin-based and mid-year population estimates",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Redbridge (ABPE 1.8% higher)"
+    },
+    {
+      "type": "li",
+      "h2": "6. Comparing admin-based and mid-year population estimates",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Boston (ABPE 1.7% higher)"
+    },
+    {
+      "type": "li",
+      "h2": "6. Comparing admin-based and mid-year population estimates",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Hounslow (ABPE 1.7% higher)"
+    },
+    {
+      "type": "p",
+      "h2": "6. Comparing admin-based and mid-year population estimates",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In mid-2023, these areas and Rutland also had the greatest differences (ABPE between 1.1% and 1.4% higher). Rutland has a small population, which can often lead to outlying results."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "6. Comparing admin-based and mid-year population estimates",
+      "h3": null,
+      "h4": "Figure 7: Differences between admin-based population estimates and accredited official population estimates vary by area, age and sex",
+      "h5": null,
+      "text": "Figure 7: Differences between admin-based population estimates and accredited official population estimates vary by area, age and sex"
+    },
+    {
+      "type": "p",
+      "h2": "6. Comparing admin-based and mid-year population estimates",
+      "h3": null,
+      "h4": "Figure 7: Differences between admin-based population estimates and accredited official population estimates vary by area, age and sex",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "6. Comparing admin-based and mid-year population estimates",
+      "h3": null,
+      "h4": "Figure 7: Differences between admin-based population estimates and accredited official population estimates vary by area, age and sex",
+      "h5": null,
+      "title": "Figure 7",
+      "url": "/visualisations/dvc3286/fig07/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "6. Comparing admin-based and mid-year population estimates",
+      "h3": null,
+      "h4": "Figure 7: Differences between admin-based population estimates and accredited official population estimates vary by area, age and sex",
+      "h5": null,
+      "text": "Among the local authorities where the mid-2024 ABPE was lower than the official MYE, the percentage difference was most notable for:"
+    },
+    {
+      "type": "li",
+      "h2": "6. Comparing admin-based and mid-year population estimates",
+      "h3": null,
+      "h4": "Figure 7: Differences between admin-based population estimates and accredited official population estimates vary by area, age and sex",
+      "h5": null,
+      "text": "Exeter (ABPE 2.2% lower)"
+    },
+    {
+      "type": "li",
+      "h2": "6. Comparing admin-based and mid-year population estimates",
+      "h3": null,
+      "h4": "Figure 7: Differences between admin-based population estimates and accredited official population estimates vary by area, age and sex",
+      "h5": null,
+      "text": "Cardiff (ABPE 2.1% lower)"
+    },
+    {
+      "type": "li",
+      "h2": "6. Comparing admin-based and mid-year population estimates",
+      "h3": null,
+      "h4": "Figure 7: Differences between admin-based population estimates and accredited official population estimates vary by area, age and sex",
+      "h5": null,
+      "text": "Coventry (ABPE 2.0% lower)"
+    },
+    {
+      "type": "li",
+      "h2": "6. Comparing admin-based and mid-year population estimates",
+      "h3": null,
+      "h4": "Figure 7: Differences between admin-based population estimates and accredited official population estimates vary by area, age and sex",
+      "h5": null,
+      "text": "Westminster (ABPE 2.0% lower)"
+    },
+    {
+      "type": "p",
+      "h2": "6. Comparing admin-based and mid-year population estimates",
+      "h3": null,
+      "h4": "Figure 7: Differences between admin-based population estimates and accredited official population estimates vary by area, age and sex",
+      "h5": null,
+      "text": "These areas have a large, highly mobile student population. Our [Admin-based population estimates: local authority case studies, England and Wales, mid-2023 article](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/adminbasedpopulationestimates/localauthoritycasestudiesenglandandwalesmid2023), covers Cardiff. It explains how our ABPEs are produced using a wider range of data sources and innovative methods, which account for quality limitations in the data, including challenges associated with measuring highly mobile populations."
+    },
+    {
+      "type": "p",
+      "h2": "6. Comparing admin-based and mid-year population estimates",
+      "h3": null,
+      "h4": "Figure 7: Differences between admin-based population estimates and accredited official population estimates vary by area, age and sex",
+      "h5": null,
+      "text": "These areas, and others with large student populations also had some of the greatest percentage differences between the ABPEs and MYEs in mid-2023. Isles of Scilly and City of London both had the greatest differences. Both these areas have very small populations."
+    },
+    {
+      "type": "p",
+      "h2": "6. Comparing admin-based and mid-year population estimates",
+      "h3": null,
+      "h4": "Figure 7: Differences between admin-based population estimates and accredited official population estimates vary by area, age and sex",
+      "h5": null,
+      "text": "The uncertainty around the ABPEs is shown by 95% credible intervals. These provide the range in which the true value of each population estimate is likely to be contained."
+    },
+    {
+      "type": "p",
+      "h2": "6. Comparing admin-based and mid-year population estimates",
+      "h3": null,
+      "h4": "Figure 7: Differences between admin-based population estimates and accredited official population estimates vary by area, age and sex",
+      "h5": null,
+      "text": "For all except two local authorities, the ABPE credible intervals for the total population for mid-2022 to mid-2024 contain the accredited official MYE. For Coventry in mid-2024, the MYE is 1,200 persons higher than the upper bound of the ABPE credible interval. For City of London in mid-2022, the MYE is 100 persons higher than the upper bound of the ABPE credible interval. More information on credible intervals and the methods used to produce the ABPEs is available in our [Mid-year admin-based population estimates for England and Wales quality and methods guide](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/methodologies/midyearadminbasedpopulationestimatesforenglandandwalesqualityandmethodsguide)."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "7. Definitions",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "7. Definitions"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "7. Definitions",
+      "h3": "Components of change",
+      "h4": null,
+      "h5": null,
+      "text": "Components of change"
+    },
+    {
+      "type": "p",
+      "h2": "7. Definitions",
+      "h3": "Components of change",
+      "h4": null,
+      "h5": null,
+      "text": "Components of change are the factors that contribute to population change. This includes births and deaths (commonly referred to as natural change) and net migration. Migration includes movements of people between England and Wales and the various countries of the world (international migration) and between local authority areas within the UK (internal migration)."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "7. Definitions",
+      "h3": "Internal migration",
+      "h4": null,
+      "h5": null,
+      "text": "Internal migration"
+    },
+    {
+      "type": "p",
+      "h2": "7. Definitions",
+      "h3": "Internal migration",
+      "h4": null,
+      "h5": null,
+      "text": "Describes moves made between local authorities, regions, or countries within the UK. Unlike international migration, there is no internationally agreed definition."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "7. Definitions",
+      "h3": "International migration",
+      "h4": null,
+      "h5": null,
+      "text": "International migration"
+    },
+    {
+      "type": "p",
+      "h2": "7. Definitions",
+      "h3": "International migration",
+      "h4": null,
+      "h5": null,
+      "text": "We use the United Nations (UN) recommended definition of a long-term international migrant: “a person who moves to a country other than that of his or her usual residence for a period of at least a year (12 months), so that the country of destination effectively becomes his or her new country of usual residence.”"
+    },
+    {
+      "type": "p",
+      "h2": "7. Definitions",
+      "h3": "International migration",
+      "h4": null,
+      "h5": null,
+      "text": "Net international migration is the difference between the number of people moving into and out of England and Wales from outside the UK."
+    },
+    {
+      "type": "p",
+      "h2": "7. Definitions",
+      "h3": "International migration",
+      "h4": null,
+      "h5": null,
+      "text": "EU+ migration refers to the migration of people who hold EU nationality. Non-EU+ is the sum of the rest of the world, including the rest of Europe, not included in the EU+ category. British nationals are excluded from these numbers. More information is available in [Long-term international migration, provisional: year ending December 2024](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/longterminternationalmigrationprovisional/yearendingdecember2024#glossary)."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "7. Definitions",
+      "h3": "Median age",
+      "h4": null,
+      "h5": null,
+      "text": "Median age"
+    },
+    {
+      "type": "p",
+      "h2": "7. Definitions",
+      "h3": "Median age",
+      "h4": null,
+      "h5": null,
+      "text": "The age of the person in the middle of the group, such that one half of the group is younger than that person and the other half is older."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "7. Definitions",
+      "h3": "Mid-year population estimates",
+      "h4": null,
+      "h5": null,
+      "text": "Mid-year population estimates"
+    },
+    {
+      "type": "p",
+      "h2": "7. Definitions",
+      "h3": "Mid-year population estimates",
+      "h4": null,
+      "h5": null,
+      "text": "Population estimates produced using the cohort component method. This is a standard demographic method that estimates the size of the population using the components of population change, like the census estimate, to update a population base. These are [accredited official statistics](https://osr.statisticsauthority.gov.uk/accredited-official-statistics/)."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "7. Definitions",
+      "h3": "Natural change",
+      "h4": null,
+      "h5": null,
+      "text": "Natural change"
+    },
+    {
+      "type": "p",
+      "h2": "7. Definitions",
+      "h3": "Natural change",
+      "h4": null,
+      "h5": null,
+      "text": "The difference between births and deaths. If natural change is greater than zero, then there have been more births than deaths. If natural change is negative, then there have been more deaths than births."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "7. Definitions",
+      "h3": "Net migration",
+      "h4": null,
+      "h5": null,
+      "text": "Net migration"
+    },
+    {
+      "type": "p",
+      "h2": "7. Definitions",
+      "h3": "Net migration",
+      "h4": null,
+      "h5": null,
+      "text": "The difference between the number of people coming to live in an area (immigration) and the number of people leaving to live elsewhere (emigration). When more people are coming to the area than leaving, net migration is above zero and so adds to the population. Net migration takes account of both international and internal migration."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "7. Definitions",
+      "h3": "Rate of population change by component",
+      "h4": null,
+      "h5": null,
+      "text": "Rate of population change by component"
+    },
+    {
+      "type": "p",
+      "h2": "7. Definitions",
+      "h3": "Rate of population change by component",
+      "h4": null,
+      "h5": null,
+      "text": "We use these rates to compare how the different components of population change have contributed to changes in the size of the population in different areas. Rates for mid-2024 are calculated by dividing the estimated number of events for each component in the year to mid-2024 by the mid-2023 population estimate. We then multiply this figure by 100 to present the rate per 100 population."
+    },
+    {
+      "type": "p",
+      "h2": "7. Definitions",
+      "h3": "Rate of population change by component",
+      "h4": null,
+      "h5": null,
+      "text": "The annual percentage change in the size of the population is the sum of all rates of change for each component. Figures may not sum exactly because of rounding."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "7. Definitions",
+      "h3": "Usually resident population",
+      "h4": null,
+      "h5": null,
+      "text": "Usually resident population"
+    },
+    {
+      "type": "p",
+      "h2": "7. Definitions",
+      "h3": "Usually resident population",
+      "h4": null,
+      "h5": null,
+      "text": "These data estimate the “usually resident population”. This is the standard United Nations definition outlined on page 40 in the [Principles and Recommendations for Population and Housing Censuses (PDF, 2.36MB)](https://unstats.un.org/unsd/demographic-social/Standards-and-Methods/files/Principles_and_Recommendations/Population-and-Housing-Censuses/Series_M67rev3-E.pdf#page=56). It includes only people who reside in a country for 12 months or more, making them usually resident in that country. Visitors and short-term migrants are excluded."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "8. Data on population estimates",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "8. Data on population estimates"
+    },
+    {
+      "type": "p",
+      "h2": "8. Data on population estimates",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": "8. Data on population estimates",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "[Estimates of the population for England and Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/estimatesofthepopulationforenglandandwales) \n Dataset | Released 30 July 2025 \n National and subnational mid-year population estimates for England and Wales by administrative area, age and sex (including components of population change, median age and population density).\n\nAlternatively, [Nomis](https://www.nomisweb.co.uk/) provides free access to the most detailed and up-to-date population estimates.\n\n[Population estimates: quality information](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationestimatesqualitytools) \n Dataset | Released 30 July 2025 \n Quality information on the mid-year population estimates at local authority level.\n\n[Internal migration in England and Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/internalmigrationinenglandandwales) \n Dataset | Released 30 July 2025 \n Annual mid-year data on internal migration moves for England and Wales, by local authority, age and sex.",
+      "box_items": null
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "9. Data from other statistics producers",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "9. Data from other statistics producers"
+    },
+    {
+      "type": "p",
+      "h2": "9. Data from other statistics producers",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Population estimates for Scotland and Northern Ireland are available from other statistics producers. These estimates are highly comparable with Office for National Statistics (ONS) population estimates for England and Wales but follow different release schedules. These estimates will be incorporated into our UK release later in the year when updated estimates are available."
+    },
+    {
+      "type": "p",
+      "h2": "9. Data from other statistics producers",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": "9. Data from other statistics producers",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "\n\n[Mid-year population estimates for Scotland: mid-2023](https://www.nrscotland.gov.uk/publications/mid-2023-population-estimates/) \n Report | Released 8 October 2024 \n The latest annual mid-year population estimates for Scotland and its constituent NHS Board and council areas, produced by National Records of Scotland (NRS).\n\n[Mid-year population estimates for Northern Ireland: mid-2023](https://www.nisra.gov.uk/statistics/population/mid-year-population-estimates) \n Report | Released 19 September 2024 \n The latest annual mid-year population estimates for Northern Ireland, produced by the Northern Ireland Statistics and Research Agency (NISRA).\n\n[Mid-year population estimates for Wales: mid-2024](https://www.gov.wales/mid-year-estimates-population)\n Report | Released 30 July 2025 \n Commentary on the latest population estimates for Wales.\n\n",
+      "box_items": null
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "10. Quality, methods and data sources",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "10. Quality, methods and data sources"
+    },
+    {
+      "type": "p",
+      "h2": "10. Quality, methods and data sources",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": "10. Quality, methods and data sources",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "[Mid-year population estimates Quality and Methodology Information (QMI) report](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/methodologies/midyearpopulationestimatesqmi) \n Methodology | Last revised 30 July 2025 \n Learn more about population estimates, including what they are used for and how they are created and quality assured.\n\n[Population estimates for England and Wales, mid-2024: methods guide](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/methodologies/populationestimatesforenglandandwalesmid2022methodsguide) \n Methodology | Last revised 30 July 2025 \n Covers the concepts and methodologies underpinning the population estimates in more detail.\n\n[Population estimates: quality information dataset](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationestimatesqualitytools) \n Dataset | Released 30 July 2025 \n Quality indicators showing the percentage of a local authority population that consists of difficult-to-estimate population groups.",
+      "box_items": null
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "10. Quality, methods and data sources",
+      "h3": "Accredited official statistics",
+      "h4": null,
+      "h5": null,
+      "text": "Accredited official statistics"
+    },
+    {
+      "type": "p",
+      "h2": "10. Quality, methods and data sources",
+      "h3": "Accredited official statistics",
+      "h4": null,
+      "h5": null,
+      "text": "These [accredited official statistics](https://osr.statisticsauthority.gov.uk/accredited-official-statistics/) were independently reviewed by the Office for Statistics Regulation in March 2017. They comply with the standards of trustworthiness, quality and value in the [Code of Practice for Statistics](https://code.statisticsauthority.gov.uk/) and should be labelled “accredited official statistics”."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "11. Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "11. Related links"
+    },
+    {
+      "type": "p",
+      "h2": "11. Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": "11. Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "[Nomis website](https://www.nomisweb.co.uk/) \n Datasets | Updated 30 July 2025 \n The mid-year population estimates are also available on the Nomis website where you can use the “Query data” option to create customised extracts for your chosen year, area, sex and age combination.\n\n[Population statistics and sources guide](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/methodologies/populationstatisticsandsourcesguide)\n Article | Updated 30 July 2025\n A comparison of the different types of population estimate that are published on the ONS website or are planned for future publication.\n\n[Estimates of the population for the UK, England, Wales, Scotland and Northern Ireland](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/annualmidyearpopulationestimates/mid2023) \n Bulletin | Released 8 October 2024 \n National mid-year population estimates for the UK and its constituent countries by age and sex. The next release of mid-2024 estimates is planned for August or September 2025. Estimates for mid-2011 to mid-2023 will be revised to align with revised population estimates for Scotland.\n\n[Population estimates by output areas, electoral, health and other geographies, England and Wales: rebased mid-2012 to mid-2020](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/annualsmallareapopulationestimates/rebasedmid2012tomid2020)\n Article | Released 25 November 2024\n Population estimates for small geographical areas (Super Output Areas, health geographies, electoral wards, Parliamentary constituencies and national parks). The next release of mid-2023 and mid-2024 estimates is planned for October or November 2025. Estimates for mid-2022 will be revised.\n\n[Long-term international migration, provisional: year ending December 2024](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/longterminternationalmigrationprovisional/yearendingdecember2024)\n Article | Released 22 May 2025\n Estimates of UK international migration. These are official statistics in development.\n\n[Subnational population projections for England: 2022-based](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/bulletins/subnationalpopulationprojectionsforengland/2022based)\n Article | Released 24 June 2025\n Indicate potential future population size of English local authorities and health geographies. Widely used in planning – for example, labour market, housing, health and education.\n\n",
+      "box_items": null
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "12. Cite this page",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "12. Cite this page"
+    },
+    {
+      "type": "p",
+      "h2": "12. Cite this page",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": "12. Cite this page",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "Office for National Statistics (ONS), released 30 July 2025, ONS website, statistical bulletin, [Population estimates for England and Wales: mid-2024](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/populationestimatesforenglandandwales/mid2024)",
+      "box_items": null
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "12. Cite this page",
+      "h3": "Contact details",
+      "h4": null,
+      "h5": null,
+      "text": "Contact details"
+    },
+    {
+      "type": "p",
+      "h2": "12. Cite this page",
+      "h3": "Contact details",
+      "h4": null,
+      "h5": null,
+      "text": "Name: Demography team \n Email: [pop.info@ons.gov.uk](mailto:pop.info@ons.gov.uk) \n Telephone: +44 1329 444661 \n"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "12. Cite this page",
+      "h3": "Contact details for this Statistical bulletin",
+      "h4": null,
+      "h5": null,
+      "text": "Contact details for this Statistical bulletin"
+    }
+  ],
+  "scraped_at": "2026-09-22 11:48:58.728176"
+}

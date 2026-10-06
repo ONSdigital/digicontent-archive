@@ -1,0 +1,1647 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/populationandmigrationstatisticstransformationblackpoolcasestudy/2023",
+  "title": "Population and migration statistics transformation, Blackpool case study: 2023",
+  "meta_description": "Understanding the effectiveness of our administrative data in telling the story of Blackpool.",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Population and migration",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration"
+    },
+    {
+      "text": "Population estimates",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates"
+    },
+    {
+      "text": "Population and migration statistics transformation, Blackpool case study",
+      "href": null
+    }
+  ],
+  "date_published": "2023-06-26T23:00:00.000Z",
+  "date_modified": "2023-06-26T23:00:00.000Z",
+  "lede": "Understanding the effectiveness of our administrative data in telling the story of Blackpool.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "27 June 2023"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "\n"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Blackpool is a coastal local authority with some urban areas including a city and town. As a seaside tourist area, Blackpool’s population is partly driven by seasonal workers and migration into and out of the area."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This brings challenges when estimating the population at a given time, meaning more timely and granular data are needed to provide the most accurate picture of Blackpool’s population and best direct services to meet needs across the area. The research showcased in this article shows how we can use administrative data alongside a wider range of data sources to achieve this."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "All admin-based statistics in this article are referenced to mid-year, and Census 2021 statistics are referenced to March 2021. This may lead to some differences in the comparisons. The exception to this is the admin-based population estimates (excluding Figure 3), which are compared with the Census 2021-based mid-year estimates."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Some statistics in this report are not official and should not be used for decision-making. They are estimates based on new methodologies that are different from those currently used to produce official statistics. These outputs must not be reproduced without this warning."
+    },
+    {
+      "type": "image",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "src": "/visualisations/dvc2609/images/2156_Population-and-migration_Illustration.png",
+      "alt": null
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Population and migration in Blackpool",
+      "h4": null,
+      "h5": null,
+      "text": "Population and migration in Blackpool"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population and migration in Blackpool",
+      "h4": null,
+      "h5": null,
+      "text": "The size and structure of the population in Blackpool is largely characterised as an ageing population, with changes in the population mostly accounted for by the working-age population moving into and out of the area. These patterns are similar for admin-based population estimates (ABPEs) and Census 2021-based mid-year estimates (MYEs). Our ABPEs show that there were 140,900 people living in Blackpool in 2021. This increased by 0.3% to 141,300 in 2022 (Figure 2). The population was 50.7% female and 49.3% male."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Population and migration in Blackpool",
+      "h4": "Figure 1: Admin-based population estimates (ABPE) data show the population living in Blackpool is an ageing population",
+      "h5": null,
+      "text": "Figure 1: Admin-based population estimates (ABPE) data show the population living in Blackpool is an ageing population"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Population and migration in Blackpool",
+      "h4": "Figure 1: Admin-based population estimates (ABPE) data show the population living in Blackpool is an ageing population",
+      "h5": "Age structure of the population for mid-year estimates compared with ABPE, by sex, LA, 2021",
+      "text": "Age structure of the population for mid-year estimates compared with ABPE, by sex, LA, 2021"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population and migration in Blackpool",
+      "h4": "Figure 1: Admin-based population estimates (ABPE) data show the population living in Blackpool is an ageing population",
+      "h5": "Age structure of the population for mid-year estimates compared with ABPE, by sex, LA, 2021",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Population and migration in Blackpool",
+      "h4": "Figure 1: Admin-based population estimates (ABPE) data show the population living in Blackpool is an ageing population",
+      "h5": "Age structure of the population for mid-year estimates compared with ABPE, by sex, LA, 2021",
+      "title": "",
+      "url": "/visualisations/dvc2609/Blackpool/Fig1/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Population and migration in Blackpool",
+      "h4": "Figure 1: Admin-based population estimates (ABPE) data show the population living in Blackpool is an ageing population",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population and migration in Blackpool",
+      "h4": "Figure 1: Admin-based population estimates (ABPE) data show the population living in Blackpool is an ageing population",
+      "h5": "Download the data",
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Blackpool/Fig1/datadownload.xlsx)"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Population and migration in Blackpool",
+      "h4": "Figure 1: Admin-based population estimates (ABPE) data show the population living in Blackpool is an ageing population",
+      "h5": "Notes:",
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Population and migration in Blackpool",
+      "h4": "Figure 1: Admin-based population estimates (ABPE) data show the population living in Blackpool is an ageing population",
+      "h5": "Notes:",
+      "text": "As Census 2021-based mid-year estimates (MYE) are used as an input to the model, outputs are very similar to Census 2021-based MYE. There are small differences because the dynamic population model (DPM) balances the information available in population stocks and flows based on their respective measures of precision."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population and migration in Blackpool",
+      "h4": "Figure 1: Admin-based population estimates (ABPE) data show the population living in Blackpool is an ageing population",
+      "h5": "Notes:",
+      "text": "Identifying movement of the population into and out of the area is also important for decision makers to understand the changing service needs, particularly during and after a special event such as the coronavirus (COVID-19) pandemic. Our ABPEs allowed us to see the change in population between 2021 (during various lockdowns) and 2022 (after lockdown) at least four months earlier than the current census-based system."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Population and migration in Blackpool",
+      "h4": "Figure 2: Blackpool’s population increased by 0.3% to 141,300 people between 2021 and 2022",
+      "h5": null,
+      "text": "Figure 2: Blackpool’s population increased by 0.3% to 141,300 people between 2021 and 2022"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Population and migration in Blackpool",
+      "h4": "Figure 2: Blackpool’s population increased by 0.3% to 141,300 people between 2021 and 2022",
+      "h5": "Admin-based population estimates (ABPE) percentage change in population, local authorities in England and Wales",
+      "text": "Admin-based population estimates (ABPE) percentage change in population, local authorities in England and Wales"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population and migration in Blackpool",
+      "h4": "Figure 2: Blackpool’s population increased by 0.3% to 141,300 people between 2021 and 2022",
+      "h5": "Admin-based population estimates (ABPE) percentage change in population, local authorities in England and Wales",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Population and migration in Blackpool",
+      "h4": "Figure 2: Blackpool’s population increased by 0.3% to 141,300 people between 2021 and 2022",
+      "h5": "Admin-based population estimates (ABPE) percentage change in population, local authorities in England and Wales",
+      "title": "",
+      "url": "/visualisations/dvc2609/Blackpool/Fig2/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Population and migration in Blackpool",
+      "h4": "Figure 2: Blackpool’s population increased by 0.3% to 141,300 people between 2021 and 2022",
+      "h5": "Notes:",
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Population and migration in Blackpool",
+      "h4": "Figure 2: Blackpool’s population increased by 0.3% to 141,300 people between 2021 and 2022",
+      "h5": "Notes:",
+      "text": "City of London (plus 24%) and Isles of Scilly (plus 10%) have been omitted from the figure to show the distribution of all other areas more clearly across England and Wales."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Population and migration in Blackpool",
+      "h4": "Figure 2: Blackpool’s population increased by 0.3% to 141,300 people between 2021 and 2022",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population and migration in Blackpool",
+      "h4": "Figure 2: Blackpool’s population increased by 0.3% to 141,300 people between 2021 and 2022",
+      "h5": "Download the data",
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Blackpool/Fig2/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population and migration in Blackpool",
+      "h4": "Figure 2: Blackpool’s population increased by 0.3% to 141,300 people between 2021 and 2022",
+      "h5": "Download the data",
+      "text": "We are also able to understand more local areas, such as Lower layer Super Output Areas (LSOA), by using administrative data on a regular basis to understand how the local populations are changing."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population and migration in Blackpool",
+      "h4": "Figure 2: Blackpool’s population increased by 0.3% to 141,300 people between 2021 and 2022",
+      "h5": "Download the data",
+      "text": "We have compared our ABPEs with the Census 2021 estimates at LSOA level, with just under 90% of LSOAs showing differences of within plus or minus 8% of the census estimates."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population and migration in Blackpool",
+      "h4": "Figure 2: Blackpool’s population increased by 0.3% to 141,300 people between 2021 and 2022",
+      "h5": "Download the data",
+      "text": "There are greater differences between estimates than at local authority (LA) level in certain areas. Our [previous research](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/developingstatisticalpopulationdatasetsenglandandwales/2021#output-areas) shows these larger differences are often where there are communal establishments (CEs) with large, regularly changing populations concentrated in small areas, such as students in halls of residence or armed forces in military bases. These population groups are less likely to interact with services in a typical way and may not be captured at the same location as the census."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population and migration in Blackpool",
+      "h4": "Figure 2: Blackpool’s population increased by 0.3% to 141,300 people between 2021 and 2022",
+      "h5": "Download the data",
+      "text": "We also see differences between census-based and admin-based estimates in areas with high levels of migration into and out of an area. This is because of differences in the reference period and the time taken to update administrative records following a move."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Population and migration in Blackpool",
+      "h4": "Figure 3: The largest difference in population estimates between ABPEs and Census 2021 were in LSOAs containing residential suburbs, hotels, and care homes",
+      "h5": null,
+      "text": "Figure 3: The largest difference in population estimates between ABPEs and Census 2021 were in LSOAs containing residential suburbs, hotels, and care homes"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Population and migration in Blackpool",
+      "h4": "Figure 3: The largest difference in population estimates between ABPEs and Census 2021 were in LSOAs containing residential suburbs, hotels, and care homes",
+      "h5": "Percentage difference in admin-based population estimates (ABPE) and Census 2021 estimates at Lower layer Super Output Areas (LSOA) level, LA, 2021 ",
+      "text": "Percentage difference in admin-based population estimates (ABPE) and Census 2021 estimates at Lower layer Super Output Areas (LSOA) level, LA, 2021 "
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population and migration in Blackpool",
+      "h4": "Figure 3: The largest difference in population estimates between ABPEs and Census 2021 were in LSOAs containing residential suburbs, hotels, and care homes",
+      "h5": "Percentage difference in admin-based population estimates (ABPE) and Census 2021 estimates at Lower layer Super Output Areas (LSOA) level, LA, 2021 ",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Population and migration in Blackpool",
+      "h4": "Figure 3: The largest difference in population estimates between ABPEs and Census 2021 were in LSOAs containing residential suburbs, hotels, and care homes",
+      "h5": "Percentage difference in admin-based population estimates (ABPE) and Census 2021 estimates at Lower layer Super Output Areas (LSOA) level, LA, 2021 ",
+      "title": "",
+      "url": "/visualisations/dvc2609/Blackpool/Fig3/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Population and migration in Blackpool",
+      "h4": "Figure 3: The largest difference in population estimates between ABPEs and Census 2021 were in LSOAs containing residential suburbs, hotels, and care homes",
+      "h5": "Notes:",
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Population and migration in Blackpool",
+      "h4": "Figure 3: The largest difference in population estimates between ABPEs and Census 2021 were in LSOAs containing residential suburbs, hotels, and care homes",
+      "h5": "Notes:",
+      "text": "The figures in this chart have used the Census 2021 estimates rather than our mid-year estimates (MYEs) referenced in Figures 1 and 2. These have been used as a proxy since we are currently working on producing MYEs at local levels. For more information on this, please see our [Population and migration statistics transformation in England and Wales, technical topic guide: 2023](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/methodologies/populationandmigrationstatisticstransformationinenglandandwalestechnicaltopicguide2023)."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Population and migration in Blackpool",
+      "h4": "Figure 3: The largest difference in population estimates between ABPEs and Census 2021 were in LSOAs containing residential suburbs, hotels, and care homes",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population and migration in Blackpool",
+      "h4": "Figure 3: The largest difference in population estimates between ABPEs and Census 2021 were in LSOAs containing residential suburbs, hotels, and care homes",
+      "h5": "Download the data",
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Blackpool/Fig3/datadownload.xlsx)"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Changes in Blackpool's daytime population",
+      "h4": null,
+      "h5": null,
+      "text": "Changes in Blackpool's daytime population"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Changes in Blackpool's daytime population",
+      "h4": null,
+      "h5": null,
+      "text": "Understanding who or what behaviours are causing these population changes further supports decision making around directing services. For example, an area may need more medical services if the population increases significantly during the day."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Changes in Blackpool's daytime population",
+      "h4": null,
+      "h5": null,
+      "text": "Looking at the changes in Blackpool's local area populations, we see certain areas experience higher population counts at certain points in the day, which we believe are caused by people travelling into and out of work or university."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Changes in Blackpool's daytime population",
+      "h4": null,
+      "h5": null,
+      "text": "To view how Blackpool's population changes over the day, please see our [Estimating the population by time of day methodology](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsworkingpaperseriesno31estimatingpopulationbytimeofday)."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Changes in Blackpool's daytime population",
+      "h4": null,
+      "h5": null,
+      "text": "To view work-related travel to and from small areas in Blackpool, please see the [Data Science Campus's Estimation of travel to work matrices, 23 June 2023](https://datasciencecampus.ons.gov.uk/?p=12459)."
+    },
+    {
+      "type": "image",
+      "h2": null,
+      "h3": "Changes in Blackpool's daytime population",
+      "h4": null,
+      "h5": null,
+      "src": "/visualisations/dvc2609/images/2156_Population-sub-groups-characteristics_Illustration.png",
+      "alt": null
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": null,
+      "h5": null,
+      "text": "Population sub-groups and characteristics in Blackpool"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": null,
+      "h5": null,
+      "text": "Beyond the size and structure of the population, we can learn more about the make-up of the local areas and communities across Blackpool by examining the characteristics of those who live there. This will aid us in further understanding where inequalities may exist across local areas in order to to identify where additional support or services may be required."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": null,
+      "h5": null,
+      "text": "Blackpool has a lower proportion of people identifying with each ethnic minority group (excluding white ethnic minorities when referring to ethnic minority group) in the [admin-based ethnicity statistics (ABES)](https://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/ethnicity/articles/developingadminbasedethnicitystatisticsforenglandandwales/2020) compared with the national figure (between 0.6 to 7.5 percentage points lower). Those in the \"White\" ethnic group made up a larger proportion than the average for England, in which 96.4% identified as \"White\". These trends align with the equivalent Census 2021 figures."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": null,
+      "h5": null,
+      "text": "When examining the overall differences between Census 2021 and ABES estimates in Blackpool, they are very similar (all within 1.7 percentage points). In almost all cases, ABES estimates are lower than census, with the exceptions being \"White\" where ABES proportions are 1.7 percentage points higher than census. We noted similar patterns in our previous [Developing admin-based ethnicity statistics for England and Wales: 2020 article](https://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/ethnicity/articles/developingadminbasedethnicitystatisticsforenglandandwales/2020#ethnic-breakdown:~:text=Comparisons%20of%20ethnicity%20statistics)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 4: The ABES proportion of ethnic groups in Blackpool is similar to Census 2021",
+      "h5": null,
+      "text": "Figure 4: The ABES proportion of ethnic groups in Blackpool is similar to Census 2021"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 4: The ABES proportion of ethnic groups in Blackpool is similar to Census 2021",
+      "h5": "Admin-based ethnicity statistics (ABES) and Census 2021 population by five-category ethnic group, LA, 2021 ",
+      "text": "Admin-based ethnicity statistics (ABES) and Census 2021 population by five-category ethnic group, LA, 2021 "
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 4: The ABES proportion of ethnic groups in Blackpool is similar to Census 2021",
+      "h5": "Admin-based ethnicity statistics (ABES) and Census 2021 population by five-category ethnic group, LA, 2021 ",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 4: The ABES proportion of ethnic groups in Blackpool is similar to Census 2021",
+      "h5": "Admin-based ethnicity statistics (ABES) and Census 2021 population by five-category ethnic group, LA, 2021 ",
+      "title": "",
+      "url": "/visualisations/dvc2609/Blackpool/Fig4/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 4: The ABES proportion of ethnic groups in Blackpool is similar to Census 2021",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 4: The ABES proportion of ethnic groups in Blackpool is similar to Census 2021",
+      "h5": "Download the data",
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Blackpool/Fig4/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 4: The ABES proportion of ethnic groups in Blackpool is similar to Census 2021",
+      "h5": "Download the data",
+      "text": "We can learn more about our population and their service needs through disaggregating by characteristics such as age and sex. For example, to better understand healthcare needs we can explore the differences between types of ageing populations across our local areas."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 4: The ABES proportion of ethnic groups in Blackpool is similar to Census 2021",
+      "h5": "Download the data",
+      "text": "In the “White” ethnic group, the 65 years and over age group makes up the largest proportion of residents. There are some small differences between ABES and Census 2021 estimates when broken down by age and sex, but these represent relatively low counts. Trends in the ABES and Census 2021 distributions generally follow the same patterns."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 4: The ABES proportion of ethnic groups in Blackpool is similar to Census 2021",
+      "h5": "Download the data",
+      "text": "Figure 5 shows the age breakdowns of different ethnic groups. We see slightly more diversity in younger age groups compared with the older age groups."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 4: The ABES proportion of ethnic groups in Blackpool is similar to Census 2021",
+      "h5": "Download the data",
+      "text": "For the “White” ethnic group, the proportion of those aged under 16 years is approximately 90% compared with nearly 100% of those aged 65 years and over."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 4: The ABES proportion of ethnic groups in Blackpool is similar to Census 2021",
+      "h5": "Download the data",
+      "text": "These trends are similar to the overall Census 2021 ethnic group distribution, with larger differences in the “Asian” ethnic group."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 5: There is a slight trend for younger age groups in Blackpool to be more ethnically diverse for both males and females",
+      "h5": null,
+      "text": "Figure 5: There is a slight trend for younger age groups in Blackpool to be more ethnically diverse for both males and females"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 5: There is a slight trend for younger age groups in Blackpool to be more ethnically diverse for both males and females",
+      "h5": "5a. Admin-based ethnicity statistics (ABES), “White” ethnic group by age and sex, LA, 2021",
+      "text": "5a. Admin-based ethnicity statistics (ABES), “White” ethnic group by age and sex, LA, 2021"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 5: There is a slight trend for younger age groups in Blackpool to be more ethnically diverse for both males and females",
+      "h5": "5a. Admin-based ethnicity statistics (ABES), “White” ethnic group by age and sex, LA, 2021",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 5: There is a slight trend for younger age groups in Blackpool to be more ethnically diverse for both males and females",
+      "h5": "5a. Admin-based ethnicity statistics (ABES), “White” ethnic group by age and sex, LA, 2021",
+      "title": "",
+      "url": "/visualisations/dvc2609/Blackpool/Fig5a/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 5: There is a slight trend for younger age groups in Blackpool to be more ethnically diverse for both males and females",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 5: There is a slight trend for younger age groups in Blackpool to be more ethnically diverse for both males and females",
+      "h5": "Download the data",
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Blackpool/Fig5a/datadownload.xlsx)"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 5: There is a slight trend for younger age groups in Blackpool to be more ethnically diverse for both males and females",
+      "h5": "5b. Admin-based ethnicity statistics (ABES), all other ethnic groups by age and sex, LA, 2021",
+      "text": "5b. Admin-based ethnicity statistics (ABES), all other ethnic groups by age and sex, LA, 2021"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 5: There is a slight trend for younger age groups in Blackpool to be more ethnically diverse for both males and females",
+      "h5": "5b. Admin-based ethnicity statistics (ABES), all other ethnic groups by age and sex, LA, 2021",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 5: There is a slight trend for younger age groups in Blackpool to be more ethnically diverse for both males and females",
+      "h5": "5b. Admin-based ethnicity statistics (ABES), all other ethnic groups by age and sex, LA, 2021",
+      "title": "",
+      "url": "/visualisations/dvc2609/Blackpool/Fig5b/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 5: There is a slight trend for younger age groups in Blackpool to be more ethnically diverse for both males and females",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 5: There is a slight trend for younger age groups in Blackpool to be more ethnically diverse for both males and females",
+      "h5": "Download the data",
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Blackpool/Fig5b/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 5: There is a slight trend for younger age groups in Blackpool to be more ethnically diverse for both males and females",
+      "h5": "Download the data",
+      "text": "We can also learn about these differences at smaller local areas including Lower layer Super Output Areas (LSOA). For more information on ethnic groups at LSOA level, please see our [associated datasets](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/casestudiesforthepopulationandmigrationstatisticstransformation/englandandwales2023/relateddata) which include updated figures for 2021. Please see evidence of LSOA coverage by ABES in our previous [Developing admin-based ethnicity statistics for England and Wales: 2020 article](https://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/ethnicity/articles/developingadminbasedethnicitystatisticsforenglandandwales/2020#ethnic-breakdown:~:text=Comparisons%20of%20ethnicity%20statistics)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 5: There is a slight trend for younger age groups in Blackpool to be more ethnically diverse for both males and females",
+      "h5": "Download the data",
+      "text": "Using our [admin-based income statistics (ABIS)](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/articles/adminbasedincomestatisticsenglandandwales/taxyearending2018), we can form a more detailed picture of how the people of Blackpool are living and understand where inequality may be occurring at local levels."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 5: There is a slight trend for younger age groups in Blackpool to be more ethnically diverse for both males and females",
+      "h5": "Download the data",
+      "text": "Median occupied address net income is the income for people living at the same address, which we use as a proxy for households. In Blackpool, median occupied address net income (£23,638) is lower than for England overall (£27,269), for reference tax year ending 2018."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 5: There is a slight trend for younger age groups in Blackpool to be more ethnically diverse for both males and females",
+      "h5": "Download the data",
+      "text": "By looking at the variation at LSOA level, we show that while this trend is true for most areas within Blackpool, in the east there is a small area where median occupied address net income is higher than the England average. This is important for local planners and service providers to better target their services. There are some caveats to be considered when analysing these trends, for example there are 1% of occupied addresses in Blackpool with no recorded income on the administrative data. For more information please see our [technical topic guide: 2023](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/methodologies/populationandmigrationstatisticstransformationinenglandandwalestechnicaltopicguide2023)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 6: Median occupied address net income is similar across most of Blackpool’s local areas, with some more affluent and deprived areas across the city",
+      "h5": null,
+      "text": "Figure 6: Median occupied address net income is similar across most of Blackpool’s local areas, with some more affluent and deprived areas across the city"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 6: Median occupied address net income is similar across most of Blackpool’s local areas, with some more affluent and deprived areas across the city",
+      "h5": "Admin-based income statistics (ABIS) median occupied address net income (£), LA, tax year ending 2018",
+      "text": "Admin-based income statistics (ABIS) median occupied address net income (£), LA, tax year ending 2018"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 6: Median occupied address net income is similar across most of Blackpool’s local areas, with some more affluent and deprived areas across the city",
+      "h5": "Admin-based income statistics (ABIS) median occupied address net income (£), LA, tax year ending 2018",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 6: Median occupied address net income is similar across most of Blackpool’s local areas, with some more affluent and deprived areas across the city",
+      "h5": "Admin-based income statistics (ABIS) median occupied address net income (£), LA, tax year ending 2018",
+      "title": "",
+      "url": "/visualisations/dvc2609/Blackpool/Fig6/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 6: Median occupied address net income is similar across most of Blackpool’s local areas, with some more affluent and deprived areas across the city",
+      "h5": "Notes:",
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 6: Median occupied address net income is similar across most of Blackpool’s local areas, with some more affluent and deprived areas across the city",
+      "h5": "Notes:",
+      "text": "Admin-based income statistics uses the concept of occupied address to capture household income, grouping individuals who are recorded as living at the same address."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 6: Median occupied address net income is similar across most of Blackpool’s local areas, with some more affluent and deprived areas across the city",
+      "h5": "Notes:",
+      "text": "Figures assume that income is shared evenly between all occupied address members."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 6: Median occupied address net income is similar across most of Blackpool’s local areas, with some more affluent and deprived areas across the city",
+      "h5": "Notes:",
+      "text": "Net income is calculated by deducting Income Tax and National Insurance contributions (derived in accordance with HM Revenue and Customs guidelines) from gross income."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 6: Median occupied address net income is similar across most of Blackpool’s local areas, with some more affluent and deprived areas across the city",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 6: Median occupied address net income is similar across most of Blackpool’s local areas, with some more affluent and deprived areas across the city",
+      "h5": "Download the data",
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Blackpool/Fig6/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 6: Median occupied address net income is similar across most of Blackpool’s local areas, with some more affluent and deprived areas across the city",
+      "h5": "Download the data",
+      "text": "Our [admin-based income by ethnicity statistics (ABIES)](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/articles/developingsubnationalmultivariateincomebyethnicitystatisticsfromadministrativedataenglandandwalestaxyearending2018/2023-02-20) estimate the net income for individuals aged 16 years and over with income information identified by five-category ethnic group. With a mostly \"White\" ethnic group in the population in Blackpool, and lower median occupied address income than the national average, we see this reflected in the \"White\" ethnic group individual income distribution. There are wider variations in income distributions in all the other ethnic groups, primarily because of the small size of this population being more affected by extreme values."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 7: Income measures in the ABIES dataset for Blackpool show variation between ethnic groups",
+      "h5": null,
+      "text": "Figure 7: Income measures in the ABIES dataset for Blackpool show variation between ethnic groups"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 7: Income measures in the ABIES dataset for Blackpool show variation between ethnic groups",
+      "h5": "The 10th percentile, median, and 90th percentile net income for individuals aged 16 years and over with income information identified by five-category ethnic group, LA, tax year ending 2018",
+      "text": "The 10th percentile, median, and 90th percentile net income for individuals aged 16 years and over with income information identified by five-category ethnic group, LA, tax year ending 2018"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 7: Income measures in the ABIES dataset for Blackpool show variation between ethnic groups",
+      "h5": "The 10th percentile, median, and 90th percentile net income for individuals aged 16 years and over with income information identified by five-category ethnic group, LA, tax year ending 2018",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 7: Income measures in the ABIES dataset for Blackpool show variation between ethnic groups",
+      "h5": "The 10th percentile, median, and 90th percentile net income for individuals aged 16 years and over with income information identified by five-category ethnic group, LA, tax year ending 2018",
+      "title": "",
+      "url": "/visualisations/dvc2609/Blackpool/Fig7/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 7: Income measures in the ABIES dataset for Blackpool show variation between ethnic groups",
+      "h5": "Notes:",
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 7: Income measures in the ABIES dataset for Blackpool show variation between ethnic groups",
+      "h5": "Notes:",
+      "text": "We are not yet able to determine how representative our analysis is of the total population and so these figures may not reflect the incomes of the underlying population and should be interpreted with caution."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 7: Income measures in the ABIES dataset for Blackpool show variation between ethnic groups",
+      "h5": "Notes:",
+      "text": "We were able to identify 79.9% of records with both income information and a stated ethnicity."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 7: Income measures in the ABIES dataset for Blackpool show variation between ethnic groups",
+      "h5": "Notes:",
+      "text": "For more information on the categories included, see our [technical topic guide](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/methodologies/populationandmigrationstatisticstransformationinenglandandwalestechnicaltopicguide2023)."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 7: Income measures in the ABIES dataset for Blackpool show variation between ethnic groups",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 7: Income measures in the ABIES dataset for Blackpool show variation between ethnic groups",
+      "h5": "Download the data",
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Blackpool/Fig7/datadownload.xlsx)"
+    },
+    {
+      "type": "image",
+      "h2": null,
+      "h3": "Population sub-groups and characteristics in Blackpool",
+      "h4": "Figure 7: Income measures in the ABIES dataset for Blackpool show variation between ethnic groups",
+      "h5": "Download the data",
+      "src": "/visualisations/dvc2609/images/2156_Housing-accomodation-and-living-arrangements_Illustration.png",
+      "alt": null
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": null,
+      "h5": null,
+      "text": "Housing, housing characteristics and living arrangements in Blackpool"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": null,
+      "h5": null,
+      "text": "Looking beyond the individuals who make up our population, we have used administrative data to understand how people live together across local communities."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": null,
+      "h5": null,
+      "text": "The census groups usual residents into households based on the self-reported use of shared facilities. Most residential addresses in England and Wales are used by a single household. In contrast, we report on occupied addresses as it is currently not possible to accurately identify multiple households at an address from administrative data alone. Addresses are most closely related to a self-contained dwelling definition. From the census, we estimate that this difference in definitions affects less than 1% of dwellings."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": null,
+      "h5": null,
+      "text": "Our admin-based occupied address dataset (ABOAD) identified 60,700 occupied addresses in Blackpool in 2021, compared with 64,800 households on Census 2021. ABOAD counts occupied addresses while census counts households, so multiple households living at the same address will be counted individually for the census. This is not the only factor contributing to the difference, for example we have undercount in our underlying dataset and the base population, and these factors are likely to vary across geographies. For more information, see our [technical topic guide](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/methodologies/populationandmigrationstatisticstransformationinenglandandwalestechnicaltopicguide2023)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 8: There are more Census 2021 households in Blackpool than occupied addresses in the admin-based occupied address dataset (ABOAD)",
+      "h5": null,
+      "text": "Figure 8: There are more Census 2021 households in Blackpool than occupied addresses in the admin-based occupied address dataset (ABOAD)"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 8: There are more Census 2021 households in Blackpool than occupied addresses in the admin-based occupied address dataset (ABOAD)",
+      "h5": "Number of occupied addresses in the ABOAD and households in Census 2021, LA, June 2021",
+      "text": "Number of occupied addresses in the ABOAD and households in Census 2021, LA, June 2021"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 8: There are more Census 2021 households in Blackpool than occupied addresses in the admin-based occupied address dataset (ABOAD)",
+      "h5": "Number of occupied addresses in the ABOAD and households in Census 2021, LA, June 2021",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 8: There are more Census 2021 households in Blackpool than occupied addresses in the admin-based occupied address dataset (ABOAD)",
+      "h5": "Number of occupied addresses in the ABOAD and households in Census 2021, LA, June 2021",
+      "title": "",
+      "url": "/visualisations/dvc2609/Blackpool/Fig8/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 8: There are more Census 2021 households in Blackpool than occupied addresses in the admin-based occupied address dataset (ABOAD)",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 8: There are more Census 2021 households in Blackpool than occupied addresses in the admin-based occupied address dataset (ABOAD)",
+      "h5": "Download the data",
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Blackpool/Fig8/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 8: There are more Census 2021 households in Blackpool than occupied addresses in the admin-based occupied address dataset (ABOAD)",
+      "h5": "Download the data",
+      "text": "Occupied addresses with one or two persons living there were the most common among occupied addresses across Blackpool in 2021. Census shows the same for households."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 9: Most residential addresses in Blackpool have one or two people living there",
+      "h5": null,
+      "text": "Figure 9: Most residential addresses in Blackpool have one or two people living there"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 9: Most residential addresses in Blackpool have one or two people living there",
+      "h5": "Size of occupied addresses in the admin-based occupied address dataset (ABOAD) and households in Census 2021 by number of people living there, LA, June 2021",
+      "text": "Size of occupied addresses in the admin-based occupied address dataset (ABOAD) and households in Census 2021 by number of people living there, LA, June 2021"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 9: Most residential addresses in Blackpool have one or two people living there",
+      "h5": "Size of occupied addresses in the admin-based occupied address dataset (ABOAD) and households in Census 2021 by number of people living there, LA, June 2021",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 9: Most residential addresses in Blackpool have one or two people living there",
+      "h5": "Size of occupied addresses in the admin-based occupied address dataset (ABOAD) and households in Census 2021 by number of people living there, LA, June 2021",
+      "title": "",
+      "url": "/visualisations/dvc2609/Blackpool/Fig9/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 9: Most residential addresses in Blackpool have one or two people living there",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 9: Most residential addresses in Blackpool have one or two people living there",
+      "h5": "Download the data",
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Blackpool/Fig9/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 9: Most residential addresses in Blackpool have one or two people living there",
+      "h5": "Download the data",
+      "text": "To further understand living arrangements, we can use our [Admin-based housing stock dataset version 1.0 (ABHS V1.0)](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/adminbasedhousingstockstatisticsenglandandwales). This may help housing planners and policymakers better understand characteristics of the dwelling stock in their areas and better meet future housing needs of residents. The ABHS currently provides the following housing characteristics:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 9: Most residential addresses in Blackpool have one or two people living there",
+      "h5": "Download the data",
+      "text": "accommodation type"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 9: Most residential addresses in Blackpool have one or two people living there",
+      "h5": "Download the data",
+      "text": "number of bedrooms"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 9: Most residential addresses in Blackpool have one or two people living there",
+      "h5": "Download the data",
+      "text": "number of rooms"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 9: Most residential addresses in Blackpool have one or two people living there",
+      "h5": "Download the data",
+      "text": "number of bathrooms"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 9: Most residential addresses in Blackpool have one or two people living there",
+      "h5": "Download the data",
+      "text": "build period"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 9: Most residential addresses in Blackpool have one or two people living there",
+      "h5": "Download the data",
+      "text": "Figure 8 shows that ABOAD counts fewer occupied addresses than census households. This is reflected in the ABHS. When comparing Valuation Office Agency (VOA) estimates of number of rooms with Census 2021, figures differ based on whether we analyse all residential or occupied residential addresses. In Figure 10, we see how the ABHS shows a similar distribution to Census 2021, with most dwellings in Blackpool having between three and five rooms."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 10: Dwellings in Blackpool most commonly have five rooms",
+      "h5": null,
+      "text": "Figure 10: Dwellings in Blackpool most commonly have five rooms"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 10: Dwellings in Blackpool most commonly have five rooms",
+      "h5": "Distribution of Census 2021 households by number of rooms, alongside the distribution of residential addresses and occupied residential addresses in the ABHS V1.0, LA, 2021",
+      "text": "Distribution of Census 2021 households by number of rooms, alongside the distribution of residential addresses and occupied residential addresses in the ABHS V1.0, LA, 2021"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 10: Dwellings in Blackpool most commonly have five rooms",
+      "h5": "Distribution of Census 2021 households by number of rooms, alongside the distribution of residential addresses and occupied residential addresses in the ABHS V1.0, LA, 2021",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 10: Dwellings in Blackpool most commonly have five rooms",
+      "h5": "Distribution of Census 2021 households by number of rooms, alongside the distribution of residential addresses and occupied residential addresses in the ABHS V1.0, LA, 2021",
+      "title": "",
+      "url": "/visualisations/dvc2609/Blackpool/Fig10/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 10: Dwellings in Blackpool most commonly have five rooms",
+      "h5": "Notes:",
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 10: Dwellings in Blackpool most commonly have five rooms",
+      "h5": "Notes:",
+      "text": "ABHS counts addresses while Census 2021 counts households, so multiple households living at the same address will be counted individually for the census."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 10: Dwellings in Blackpool most commonly have five rooms",
+      "h5": "Notes:",
+      "text": "In contrast to previous censuses, Census 2021 did not ask a question on number of rooms, but it used linked administrative data."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 10: Dwellings in Blackpool most commonly have five rooms",
+      "h5": "Notes:",
+      "text": "For more information on these different definitions see our [technical topic guide](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/methodologies/populationandmigrationstatisticstransformationinenglandandwalestechnicaltopicguide2023)."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 10: Dwellings in Blackpool most commonly have five rooms",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 10: Dwellings in Blackpool most commonly have five rooms",
+      "h5": "Download the data",
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Blackpool/Fig10/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 10: Dwellings in Blackpool most commonly have five rooms",
+      "h5": "Download the data",
+      "text": "Knowing the age of dwellings in which residents are living allows us to further understand the features of our housing stock and plan for future need. In Blackpool, 18,960 dwellings were built before 1919 but only 13,485 were found as being occupied in 2021 according to the ABHS V1.0."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 11: A large proportion of Blackpool’s housing stock was built before 1919",
+      "h5": null,
+      "text": "Figure 11: A large proportion of Blackpool’s housing stock was built before 1919"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 11: A large proportion of Blackpool’s housing stock was built before 1919",
+      "h5": "Number of dwellings by Valuation Office Agency (VOA) build period for all addresses and occupied addresses in the ABHS V1.0, LA, June 2021",
+      "text": "Number of dwellings by Valuation Office Agency (VOA) build period for all addresses and occupied addresses in the ABHS V1.0, LA, June 2021"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 11: A large proportion of Blackpool’s housing stock was built before 1919",
+      "h5": "Number of dwellings by Valuation Office Agency (VOA) build period for all addresses and occupied addresses in the ABHS V1.0, LA, June 2021",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 11: A large proportion of Blackpool’s housing stock was built before 1919",
+      "h5": "Number of dwellings by Valuation Office Agency (VOA) build period for all addresses and occupied addresses in the ABHS V1.0, LA, June 2021",
+      "title": "",
+      "url": "/visualisations/dvc2609/Blackpool/Fig11/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 11: A large proportion of Blackpool’s housing stock was built before 1919",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 11: A large proportion of Blackpool’s housing stock was built before 1919",
+      "h5": "Download the data",
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Blackpool/Fig11/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 11: A large proportion of Blackpool’s housing stock was built before 1919",
+      "h5": "Download the data",
+      "text": "Using our [admin-based housing by ethnicity dataset version 2.0 (ABHED V2.0)](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/developingsubnationalmultivariatehousingbyethnicitystatisticsfromadministrativedataenglandandwales/2020), we can extend our understanding of the living arrangements of different ethnic groups across Blackpool. As an example, we produced analysis on the accommodation type lived in by ethnic groups and numbers of bedrooms within these dwellings."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 11: A large proportion of Blackpool’s housing stock was built before 1919",
+      "h5": "Download the data",
+      "text": "In Blackpool, there are differences in the types of accommodation occupied by different ethnic groups, which are also reflected in the number of bedrooms (see Figure 12)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 11: A large proportion of Blackpool’s housing stock was built before 1919",
+      "h5": "Download the data",
+      "text": "Compared with other ethnic groups, individuals in the \"Asian\" ethnic group were more likely to live in detached houses and those in the \"White\" ethnic group were more likely to live in semi-detached houses."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 12: Semi-detached and terraced houses are the most common VOA accommodation types for all ethnic groups in Blackpool",
+      "h5": null,
+      "text": "Figure 12: Semi-detached and terraced houses are the most common VOA accommodation types for all ethnic groups in Blackpool"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 12: Semi-detached and terraced houses are the most common VOA accommodation types for all ethnic groups in Blackpool",
+      "h5": "Admin-based housing by ethnicity dataset version 2.0 (ABHED V2.0) VOA accommodation type (Census 2021 definition) by ethnic group, LA, 2021",
+      "text": "Admin-based housing by ethnicity dataset version 2.0 (ABHED V2.0) VOA accommodation type (Census 2021 definition) by ethnic group, LA, 2021"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 12: Semi-detached and terraced houses are the most common VOA accommodation types for all ethnic groups in Blackpool",
+      "h5": "Admin-based housing by ethnicity dataset version 2.0 (ABHED V2.0) VOA accommodation type (Census 2021 definition) by ethnic group, LA, 2021",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 12: Semi-detached and terraced houses are the most common VOA accommodation types for all ethnic groups in Blackpool",
+      "h5": "Admin-based housing by ethnicity dataset version 2.0 (ABHED V2.0) VOA accommodation type (Census 2021 definition) by ethnic group, LA, 2021",
+      "title": "",
+      "url": "/visualisations/dvc2609/Blackpool/Fig12/vis/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 12: Semi-detached and terraced houses are the most common VOA accommodation types for all ethnic groups in Blackpool",
+      "h5": "Notes:",
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 12: Semi-detached and terraced houses are the most common VOA accommodation types for all ethnic groups in Blackpool",
+      "h5": "Notes:",
+      "text": "Data represent individuals rather than addresses, as was used in the above housing section."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 12: Semi-detached and terraced houses are the most common VOA accommodation types for all ethnic groups in Blackpool",
+      "h5": "Notes:",
+      "text": "Valuation Office Agency (VOA) accommodation type is a derived variable designed to align with the Census 2021 definition: for more information see our [technical topic guide](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/methodologies/populationandmigrationstatisticstransformationinenglandandwalestechnicaltopicguide2023)."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 12: Semi-detached and terraced houses are the most common VOA accommodation types for all ethnic groups in Blackpool",
+      "h5": "Notes:",
+      "text": "Figures have not been adjusted to account for differences in age structure or household size by ethnic group within the population."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 12: Semi-detached and terraced houses are the most common VOA accommodation types for all ethnic groups in Blackpool",
+      "h5": "Notes:",
+      "text": "Figures include supressed and rounded values, so some categories appear under or over 100%."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 12: Semi-detached and terraced houses are the most common VOA accommodation types for all ethnic groups in Blackpool",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 12: Semi-detached and terraced houses are the most common VOA accommodation types for all ethnic groups in Blackpool",
+      "h5": "Download the data",
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Blackpool/Fig12/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 12: Semi-detached and terraced houses are the most common VOA accommodation types for all ethnic groups in Blackpool",
+      "h5": "Download the data",
+      "text": "While the most common number of bedrooms for all ethnic groups was three, those in the “Asian” ethnic group were more likely than other ethnic groups to live in dwellings with four or more bedrooms (see Figure 13)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 13: Individuals in the “Asian” ethnic group are most likely to live in a dwelling with four or more bedrooms compared with all other ethnic groups",
+      "h5": null,
+      "text": "Figure 13: Individuals in the “Asian” ethnic group are most likely to live in a dwelling with four or more bedrooms compared with all other ethnic groups"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 13: Individuals in the “Asian” ethnic group are most likely to live in a dwelling with four or more bedrooms compared with all other ethnic groups",
+      "h5": "Admin-based housing by ethnicity dataset version 2.0 (ABHED V2.0) VOA number of bedrooms by ethnic group, LA, 2021",
+      "text": "Admin-based housing by ethnicity dataset version 2.0 (ABHED V2.0) VOA number of bedrooms by ethnic group, LA, 2021"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 13: Individuals in the “Asian” ethnic group are most likely to live in a dwelling with four or more bedrooms compared with all other ethnic groups",
+      "h5": "Admin-based housing by ethnicity dataset version 2.0 (ABHED V2.0) VOA number of bedrooms by ethnic group, LA, 2021",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 13: Individuals in the “Asian” ethnic group are most likely to live in a dwelling with four or more bedrooms compared with all other ethnic groups",
+      "h5": "Admin-based housing by ethnicity dataset version 2.0 (ABHED V2.0) VOA number of bedrooms by ethnic group, LA, 2021",
+      "title": "",
+      "url": "/visualisations/dvc2609/Blackpool/Fig13/vis/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 13: Individuals in the “Asian” ethnic group are most likely to live in a dwelling with four or more bedrooms compared with all other ethnic groups",
+      "h5": "Notes:",
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 13: Individuals in the “Asian” ethnic group are most likely to live in a dwelling with four or more bedrooms compared with all other ethnic groups",
+      "h5": "Notes:",
+      "text": "Data are by individual and not addresses as used in housing figures in the housing section."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 13: Individuals in the “Asian” ethnic group are most likely to live in a dwelling with four or more bedrooms compared with all other ethnic groups",
+      "h5": "Notes:",
+      "text": "There are differences in definitions between the number of bedrooms for Census 2021 and the Valuation Office Agency (VOA) data used in the admin-based housing by ethnicity dataset; for more information see our [Population and migration statistics transformation in England and Wales, technical topic guide: 2023](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/methodologies/populationandmigrationstatisticstransformationinenglandandwalestechnicaltopicguide2023)."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 13: Individuals in the “Asian” ethnic group are most likely to live in a dwelling with four or more bedrooms compared with all other ethnic groups",
+      "h5": "Notes:",
+      "text": "Figures have not been adjusted to account for differences in age structure or household size by ethnic group within the population."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 13: Individuals in the “Asian” ethnic group are most likely to live in a dwelling with four or more bedrooms compared with all other ethnic groups",
+      "h5": "Notes:",
+      "text": "Figures include supressed and rounded values, so some categories appear under or over 100%."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 13: Individuals in the “Asian” ethnic group are most likely to live in a dwelling with four or more bedrooms compared with all other ethnic groups",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 13: Individuals in the “Asian” ethnic group are most likely to live in a dwelling with four or more bedrooms compared with all other ethnic groups",
+      "h5": "Download the data",
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Blackpool/Fig13/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 13: Individuals in the “Asian” ethnic group are most likely to live in a dwelling with four or more bedrooms compared with all other ethnic groups",
+      "h5": "Download the data",
+      "text": "Beyond the population living in private households, we can learn more about the population living in communal establishments (CEs). CEs are places with full or part-time supervision providing accommodation. These groups are challenging to capture in our population, so work has started to understand more about who is living there. With more frequently updated figures, we can capture how the population living in CEs changes over time and the affect this has on service provision for local areas."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 13: Individuals in the “Asian” ethnic group are most likely to live in a dwelling with four or more bedrooms compared with all other ethnic groups",
+      "h5": "Download the data",
+      "text": "The admin-based communal establishment dataset (ABCED) shows that the total population living in CEs in Blackpool was 1,650 compared with 3,019 on the census. Of those found in CEs on administrative data, 67.0% lived in care homes."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 13: Individuals in the “Asian” ethnic group are most likely to live in a dwelling with four or more bedrooms compared with all other ethnic groups",
+      "h5": "Download the data",
+      "text": ""
+    },
+    {
+      "type": "table",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 13: Individuals in the “Asian” ethnic group are most likely to live in a dwelling with four or more bedrooms compared with all other ethnic groups",
+      "h5": "Download the data",
+      "caption": "Table 1: Across Blackpool, the largest percentage of communal establishment residents live in care homes\nAdmin-based communal establishment dataset (ABCED) type of communal establishments (CEs), LA, 2021",
+      "columns": [
+        {
+          "key": "col1",
+          "label": "Communal\nestablishment \ntype"
+        },
+        {
+          "key": "col2",
+          "label": "Percentage of \nusual residents"
+        },
+        {
+          "key": "col3",
+          "label": "col3"
+        }
+      ],
+      "data": [
+        {
+          "col1": "Care homes",
+          "col2": "67.0",
+          "col3": ""
+        },
+        {
+          "col1": "Holiday accommodation",
+          "col2": "28.5",
+          "col3": ""
+        },
+        {
+          "col1": "Hostel/temporary \nshelter for \nthe homeless",
+          "col2": "1.8",
+          "col3": ""
+        },
+        {
+          "col1": "Halls of residence",
+          "col2": "1.5",
+          "col3": ""
+        },
+        {
+          "col1": "Mental health unit",
+          "col2": "0.9",
+          "col3": ""
+        }
+      ],
+      "source": "Source: Office for National Statistics",
+      "footnotes": [
+        "The ABCED has a different reference period compared with the data used in the occupied address dataset so they are not directly comparable.",
+        "These figures are not directly comparable with official Higher Education Statistics Agency (HESA) halls of residence figures as the base population only includes usual residents while HESA includes all who are registered.",
+        "These figures are not comparable with official Ministry of Justice data on residents in prison.",
+        "CE categories within Census 2021 and administrative data are different so we have not been able to compare them."
+      ]
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 13: Individuals in the “Asian” ethnic group are most likely to live in a dwelling with four or more bedrooms compared with all other ethnic groups",
+      "h5": "Download the data",
+      "text": "Through disaggregating by age and sex, we see who makes up the population of residents in CEs across Blackpool."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 14: The most common age group of communal establishment residents in Blackpool was those aged 85 years and over for females and aged 50 to 64 years for males",
+      "h5": null,
+      "text": "Figure 14: The most common age group of communal establishment residents in Blackpool was those aged 85 years and over for females and aged 50 to 64 years for males"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 14: The most common age group of communal establishment residents in Blackpool was those aged 85 years and over for females and aged 50 to 64 years for males",
+      "h5": "Admin-based communal establishment dataset (ABCED) communal establishment residents by sex and banded age groups, LA, 2021",
+      "text": "Admin-based communal establishment dataset (ABCED) communal establishment residents by sex and banded age groups, LA, 2021"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 14: The most common age group of communal establishment residents in Blackpool was those aged 85 years and over for females and aged 50 to 64 years for males",
+      "h5": "Admin-based communal establishment dataset (ABCED) communal establishment residents by sex and banded age groups, LA, 2021",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 14: The most common age group of communal establishment residents in Blackpool was those aged 85 years and over for females and aged 50 to 64 years for males",
+      "h5": "Admin-based communal establishment dataset (ABCED) communal establishment residents by sex and banded age groups, LA, 2021",
+      "title": "",
+      "url": "/visualisations/dvc2609/Blackpool/Fig14/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 14: The most common age group of communal establishment residents in Blackpool was those aged 85 years and over for females and aged 50 to 64 years for males",
+      "h5": "Notes:",
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 14: The most common age group of communal establishment residents in Blackpool was those aged 85 years and over for females and aged 50 to 64 years for males",
+      "h5": "Notes:",
+      "text": "The admin-based communal establishment dataset (ABCED) has a different reference period compared with the data used in the occupied address dataset, so they are not directly comparable."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 14: The most common age group of communal establishment residents in Blackpool was those aged 85 years and over for females and aged 50 to 64 years for males",
+      "h5": "Notes:",
+      "text": "Figures are not directly comparable to official Higher Education Statistics Agency (HESA) halls of residence figures as the base population only includes usual residents, while HESA includes all who are registered."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 14: The most common age group of communal establishment residents in Blackpool was those aged 85 years and over for females and aged 50 to 64 years for males",
+      "h5": "Notes:",
+      "text": "These figures are not comparable with official Ministry of Justice data on residents in prison."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 14: The most common age group of communal establishment residents in Blackpool was those aged 85 years and over for females and aged 50 to 64 years for males",
+      "h5": "Notes:",
+      "text": "The ABCED includes raw figures and has not had additional estimation methods applied, unlike the official Census 2021 estimates."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 14: The most common age group of communal establishment residents in Blackpool was those aged 85 years and over for females and aged 50 to 64 years for males",
+      "h5": "Notes:",
+      "text": "Percentages have been calculated for the whole population, so each individual sex will not total 100%; this differs from previously published figures, which are therefore not comparable."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 14: The most common age group of communal establishment residents in Blackpool was those aged 85 years and over for females and aged 50 to 64 years for males",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 14: The most common age group of communal establishment residents in Blackpool was those aged 85 years and over for females and aged 50 to 64 years for males",
+      "h5": "Download the data",
+      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Blackpool/Fig14/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 14: The most common age group of communal establishment residents in Blackpool was those aged 85 years and over for females and aged 50 to 64 years for males",
+      "h5": "Download the data",
+      "text": "The analysis presented in this article shows how our admin-based statistics can support our understanding of the diverse and changing needs of the local communities across Blackpool. This demonstrates their potential and is just a subset of what users can expect from our future population and social statistics system."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 14: The most common age group of communal establishment residents in Blackpool was those aged 85 years and over for females and aged 50 to 64 years for males",
+      "h5": "Download the data",
+      "text": "View the [administrative data story of another local area](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/casestudiesforthepopulationandmigrationstatisticstransformation/englandandwales2023)."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 14: The most common age group of communal establishment residents in Blackpool was those aged 85 years and over for females and aged 50 to 64 years for males",
+      "h5": "Download the data",
+      "text": "For more information on the methodology behind the administrative data collections referenced previously, please see our [technical topic guide](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/methodologies/populationandmigrationstatisticstransformationinenglandandwalestechnicaltopicguide2023)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 14: The most common age group of communal establishment residents in Blackpool was those aged 85 years and over for females and aged 50 to 64 years for males",
+      "h5": "Download the data",
+      "text": "To find out more about our progress towards a transformed population and migration statistics system, please see our [research overview](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/populationandmigrationstatisticstransformationinenglandandwalesresearchoverview/2023)."
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": "Housing, housing characteristics and living arrangements in Blackpool",
+      "h4": "Figure 14: The most common age group of communal establishment residents in Blackpool was those aged 85 years and over for females and aged 50 to 64 years for males",
+      "h5": "Download the data",
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "Lucy Pilkington, Justine McNally\n[2023Consultation@ons.gov.uk](mailto:2023Consultation@ons.gov.uk)\n Telephone: +44 1329 444972",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:47:06.009754"
+}

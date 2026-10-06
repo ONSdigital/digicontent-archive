@@ -1,0 +1,634 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup19to23october2020/2020-10-23",
+  "title": "Coronavirus (COVID-19) roundup, 19 to 23 October 2020",
+  "meta_description": "Data and analysis related to the coronavirus (COVID-19) pandemic and its impact on our economy and society.",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Health and social care",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare"
+    },
+    {
+      "text": "Coronavirus (COVID-19)",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases"
+    },
+    {
+      "text": "Coronavirus (COVID-19) roundup, 19 to 23 October 2020",
+      "href": null
+    }
+  ],
+  "date_published": "2020-10-22T23:00:00.000Z",
+  "date_modified": "2020-10-22T23:00:00.000Z",
+  "lede": "Data and analysis related to the coronavirus (COVID-19) pandemic and its impact on our economy and society.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "23 October 2020"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This page contains data and analysis published by the Office for National Statistics (ONS) from 12 to 16 October 2020. Go to our [live page](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup/2020-03-26) for the most up-to-date insights on COVID-19."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "23 October 2020"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Monthly mortality analysis, September 2020",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Monthly mortality analysis, September 2020"
+    },
+    {
+      "type": "p",
+      "h2": "Monthly mortality analysis, September 2020",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Mortality rates for deaths in September 2020 due to the coronavirus (COVID-19) have increased for the first time since the peak in April 2020."
+    },
+    {
+      "type": "p",
+      "h2": "Monthly mortality analysis, September 2020",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Our monthly mortality analysis](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/monthlymortalityanalysisenglandandwales/september2020) of provisional death registration data in England and Wales in September 2020 shows there were 39,827 deaths registered in England, 2,568 deaths more than the five-year average for September; in Wales, there were 2,610 deaths registered, 135 deaths more than the five-year average."
+    },
+    {
+      "type": "p",
+      "h2": "Monthly mortality analysis, September 2020",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The leading cause of death in September 2020 was dementia and Alzheimer’s disease in England (accounting for 11.2% of all deaths) and in Wales (11.1% of all deaths). The coronavirus (COVID-19) did not feature in the top 10 leading causes of death in September 2020, neither in England nor in Wales."
+    },
+    {
+      "type": "p",
+      "h2": "Monthly mortality analysis, September 2020",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Age-standardised mortality rates (ASMRs) are used for comparisons over time rather than numbers of deaths, as ASMRs account for changes to the population size and age structure."
+    },
+    {
+      "type": "p",
+      "h2": "Monthly mortality analysis, September 2020",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The ASMR of deaths in September 2020 due to COVID-19 was 12.6 per 100,000 persons in England, and in Wales the ASMR was 10.8 per 100,000 persons; in England, for the first time since April 2020, the COVID-19 mortality rate [significantly](https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/uncertaintyandhowwemeasureit#statistical-significance) increased, compared with the previous month."
+    },
+    {
+      "type": "p",
+      "h2": "Monthly mortality analysis, September 2020",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Since September 2003, overall mortality rates in England for the month of September had been decreasing, to a low in September 2018. However, the overall mortality rate significantly increased in September 2019 and in September 2020. Mortality rates in Wales show a similar pattern over time."
+    },
+    {
+      "type": "p",
+      "h2": "Monthly mortality analysis, September 2020",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "chartbuilder",
+      "h2": "Monthly mortality analysis, September 2020",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "chartbuilder_h3": "Mortality rates for the month of September have fallen between 2003 and 2020",
+      "chartbuilder_h4": "Age-standardised mortality rates by sex, England and Wales, deaths registered in September 2001 to September 2020",
+      "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup19to23october2020/2020-10-23/9fc3de6d",
+      "src": "/_scraped_chartbuilder_imgs/9fc3de6d.png",
+      "local_filename": "9fc3de6d.png"
+    },
+    {
+      "type": "p",
+      "h2": "Monthly mortality analysis, September 2020",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "23 October 2020"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Retail sales see fifth consecutive month of growth",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Retail sales see fifth consecutive month of growth"
+    },
+    {
+      "type": "p",
+      "h2": "Retail sales see fifth consecutive month of growth",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Retail sales volumes increased](https://www.ons.gov.uk/businessindustryandtrade/retailindustry/bulletins/retailsales/september2020) by 1.5% in September 2020, compared with August; this is the fifth consecutive month of growth, resulting in an increase of 5.5% when compared with February’s pre-pandemic level. While non-food store sales have seen an increase, fuel and clothing sales are still below their February level, as fewer people travel to work."
+    },
+    {
+      "type": "p",
+      "h2": "Retail sales see fifth consecutive month of growth",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In September, fuel was the only main retail sector with sales volumes still below February levels, as many continued to work from home. While non-food store sales as a whole recovered to above February’s levels, clothing sales volumes were also still 12.7% below February. In contrast, household goods stores sales volumes have increased to 11% above February’s levels."
+    },
+    {
+      "type": "p",
+      "h2": "Retail sales see fifth consecutive month of growth",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In September, volume sales within non-store retailing were 36.6% higher than in February, as consumers continued to carry out much of their shopping online."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Retail sales see fifth consecutive month of growth",
+      "h3": null,
+      "h4": "Food and non-store retailing were at higher levels in February, while fuel remained lower than February 2020",
+      "h5": null,
+      "text": "Food and non-store retailing were at higher levels in February, while fuel remained lower than February 2020"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Retail sales see fifth consecutive month of growth",
+      "h3": null,
+      "h4": "Food and non-store retailing were at higher levels in February, while fuel remained lower than February 2020",
+      "h5": "Volume sales, seasonally adjusted, Great Britain, September 2017 to September 2020",
+      "text": "Volume sales, seasonally adjusted, Great Britain, September 2017 to September 2020"
+    },
+    {
+      "type": "p",
+      "h2": "Retail sales see fifth consecutive month of growth",
+      "h3": null,
+      "h4": "Food and non-store retailing were at higher levels in February, while fuel remained lower than February 2020",
+      "h5": "Volume sales, seasonally adjusted, Great Britain, September 2017 to September 2020",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Retail sales see fifth consecutive month of growth",
+      "h3": null,
+      "h4": "Food and non-store retailing were at higher levels in February, while fuel remained lower than February 2020",
+      "h5": "Volume sales, seasonally adjusted, Great Britain, September 2017 to September 2020",
+      "title": "Food and non-store retailing were at higher levels in February, while fuel remained lower than February 2020\" full-width=\"false",
+      "url": "/visualisations/dvc1028/fig2/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "Retail sales see fifth consecutive month of growth",
+      "h3": null,
+      "h4": "Food and non-store retailing were at higher levels in February, while fuel remained lower than February 2020",
+      "h5": "Volume sales, seasonally adjusted, Great Britain, September 2017 to September 2020",
+      "text": "In the three months to September, retail sales volumes increased by 17.4% when compared with the previous three months; this is the biggest quarterly increase on record as sales picked up from record-low levels experienced earlier in the year."
+    },
+    {
+      "type": "p",
+      "h2": "Retail sales see fifth consecutive month of growth",
+      "h3": null,
+      "h4": "Food and non-store retailing were at higher levels in February, while fuel remained lower than February 2020",
+      "h5": "Volume sales, seasonally adjusted, Great Britain, September 2017 to September 2020",
+      "text": "21 October 2020"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Average house prices continued to rise in July 2020",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Average house prices continued to rise in July 2020"
+    },
+    {
+      "type": "p",
+      "h2": "Average house prices continued to rise in July 2020",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The [UK’s average house prices](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/housepriceindex/august2020) increased by 2.5%, to £239,000, over the year to August 2020, up from 2.1% in July 2020; this is £6,000 higher than last year."
+    },
+    {
+      "type": "p",
+      "h2": "Average house prices continued to rise in July 2020",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "chartbuilder",
+      "h2": "Average house prices continued to rise in July 2020",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "chartbuilder_h3": "UK house price growth has generally slowed since mid-2016, but has picked up this year",
+      "chartbuilder_h4": "Annual house price rates of change for all dwellings, UK, January 2006 to August 2020",
+      "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup19to23october2020/2020-10-23/0e8c6851",
+      "src": "/_scraped_chartbuilder_imgs/0e8c6851.png",
+      "local_filename": "0e8c6851.png"
+    },
+    {
+      "type": "p",
+      "h2": "Average house prices continued to rise in July 2020",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Average house prices increased by 2.8% in England, 2.7% in Wales and 0.6% in Scotland over the year to August 2020. In Northern Ireland, average house prices increased by 3.0% over the year to Quarter 2 (Apr to June) 2020."
+    },
+    {
+      "type": "p",
+      "h2": "Average house prices continued to rise in July 2020",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "During July 2020, changes were made to Stamp Duty Land Tax, Land Transaction Tax and Land and Buildings Transaction Tax. The UK House Price Index (HPI) is based on completed housing transactions. Typically, a house purchase can take six to eight weeks to reach completion. Therefore, the price data feeding into the August 2020 UK HPI will mainly reflect those agreements that occurred before the tax changes took place."
+    },
+    {
+      "type": "p",
+      "h2": "Average house prices continued to rise in July 2020",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "21 October 2020"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Impact of Eat Out to Help Out on prices",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Impact of Eat Out to Help Out on prices"
+    },
+    {
+      "type": "p",
+      "h2": "Impact of Eat Out to Help Out on prices",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Last month’s prices release revealed that the 12-month inflation rate – measured by the Consumer Prices Index including owner occupiers’ housing costs (CPIH) – had fallen to 0.5% in August 2020, the lowest since December 2015."
+    },
+    {
+      "type": "p",
+      "h2": "Impact of Eat Out to Help Out on prices",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This was mostly driven by lower prices in restaurants and cafés, as a result of the Eat Out to Help Out scheme and the temporary reduction of Value Added Tax (VAT) from 20% to 5% for firms in the hospitality sector."
+    },
+    {
+      "type": "p",
+      "h2": "Impact of Eat Out to Help Out on prices",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In the absence of Eat Out to Help Out and the VAT reduction, [our analysis estimates that the inflation rate would have been approximately 0.9% in August](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/priceseconomicanalysisquarterly/october2020), compared with the actual rate of 0.5%. Most of this difference comes from Eat Out to Help Out."
+    },
+    {
+      "type": "p",
+      "h2": "Impact of Eat Out to Help Out on prices",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Under the scheme, participating restaurants could offer a 50% discount on food and non-alcoholic beverages consumed on the premises from Monday to Wednesday, up to the value of £10 per person, with the remaining 50% paid by the government."
+    },
+    {
+      "type": "p",
+      "h2": "Impact of Eat Out to Help Out on prices",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "UK restaurants made [claims for around 100 million covers](https://www.gov.uk/government/collections/hmrc-coronavirus-covid-19-statistics#eat-out-to-help-out-scheme) during August, to the value of £522 million. By region, the average discount per meal ranged from £5.17 in the South West to £6.36 in London."
+    },
+    {
+      "type": "p",
+      "h2": "Impact of Eat Out to Help Out on prices",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Comparing card transaction data from the fintech Revolut for August with the rest of and before the lockdown, we can see how consumer behaviour responded to the Eat Out to Help Out scheme. There are normally fewer transactions at the beginning of the week, rising gradually from Monday to Thursday, and considerably more transactions on Friday and Saturday."
+    },
+    {
+      "type": "p",
+      "h2": "Impact of Eat Out to Help Out on prices",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The average for August, when Eat Out to Help Out was running, showed a flattening of this trend with a higher than usual proportion of transactions earlier in the week (Monday to Wednesday) and a lower proportion than usual at the weekend. This suggests that the discount offered earlier in the week may have incentivised some people to eat out on days when they otherwise would not have."
+    },
+    {
+      "type": "p",
+      "h2": "Impact of Eat Out to Help Out on prices",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The proportion being spent on Monday to Wednesday was also higher during August than at other periods, despite a 50% discount being in effect. This may partly reflect a change in the type of purchases being made at this time with a shift towards sit-down meals."
+    },
+    {
+      "type": "p",
+      "h2": "Impact of Eat Out to Help Out on prices",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "For the latest inflation data, read our bulletin for [September 2020](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/september2020)."
+    },
+    {
+      "type": "p",
+      "h2": "Impact of Eat Out to Help Out on prices",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "21 October 2020"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Public sector borrowing",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Public sector borrowing"
+    },
+    {
+      "type": "p",
+      "h2": "Public sector borrowing",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Today’s [public sector finance figures](https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/september2020) reflect the ongoing unprecedented impact of the coronavirus (COVID-19) lockdown and the government’s support for individuals and businesses."
+    },
+    {
+      "type": "p",
+      "h2": "Public sector borrowing",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "UK borrowing was £36.1 billion in September 2020, nearly five times the £7.7 billion borrowed in September 2019 but broadly in line with the £33.6 billion market expectation."
+    },
+    {
+      "type": "p",
+      "h2": "Public sector borrowing",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Central government tax receipts were £37.7 billion in September 2020 (on a national accounts basis), £6.0 billion less than in September 2019, with large falls in Value Added Tax (VAT), business rates and Corporation Tax receipts."
+    },
+    {
+      "type": "p",
+      "h2": "Public sector borrowing",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Central government bodies spent £77.8 billion in September 2020 on day-to-day activities (current expenditure), £18.1 billion more than in September 2019, including nearly £5.9 billion on its job furlough schemes."
+    },
+    {
+      "type": "p",
+      "h2": "Public sector borrowing",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Provisional estimates indicate borrowing in the first six months of the financial year-to-September 2020 have reached £208.5 billion, more than three times the £54.5 billion borrowed in the whole of 2019 to 2020."
+    },
+    {
+      "type": "p",
+      "h2": "Public sector borrowing",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The need for the extra funding required to support the government’s coronavirus relief schemes combined with a fall in gross domestic product (GDP) has helped push debt at the end of September 2020 to 103.5% of GDP, the highest debt ratio since the financial year ending March 1960."
+    },
+    {
+      "type": "p",
+      "h2": "Public sector borrowing",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Today’s data highlight the emerging fiscal impact of the coronavirus pandemic but will be prone to material future revisions, and it will take many months before the true scale of the shock becomes clear."
+    },
+    {
+      "type": "p",
+      "h2": "Public sector borrowing",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "20 October 2020"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Deaths in private homes",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Deaths in private homes"
+    },
+    {
+      "type": "p",
+      "h2": "Deaths in private homes",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We have provided [detailed analysis of deaths](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/deathsinprivatehomesenglandandwalesprovisional/deathsregisteredfrom28december2019to11september2020) that occurred in private homes in England and Wales during the pandemic."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths in private homes",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "There were 108,842 deaths in private homes in England registered from 28 December 2019 to 11 September 2020, and 7,440 deaths in private homes in Wales in the same period."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths in private homes",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This was 25,472 deaths more than the five-year average in England and 1,624 deaths more than the five-year average in Wales."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths in private homes",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The number of deaths in private homes registered in England each week in 2020 was above the five-year average, with the exception of the week ending 3 January. In Wales, the number of deaths in private homes has remained above the five-year average since the week ending 20 March, with the exception of the week ending 4 September."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths in private homes",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Males accounted for a higher percentage of excess deaths in private homes than females. People aged 70 to 89 years contributed most to the excess deaths in private homes, accounting for 58.5% of excess deaths in England and 63.6% in Wales."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths in private homes",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Deaths in private homes for males from ischaemic heart diseases increased by 25.9% in England and 22.7% in Wales compared with the five-year average. Deaths in private homes for females from dementia and Alzheimer’s disease increased by 75.0% in England and 92.2% in Wales compared with the five-year average."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths in private homes",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In England, between the week ending 20 March 2020 and the week ending 11 September 2020, 39.6% of all deaths occurred in hospitals, followed by private homes (27.7%) and care homes (25.9%). However, since the peak in deaths, trends have differed between places of death."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Deaths in private homes",
+      "h3": null,
+      "h4": "Almost 60% of excess deaths in private homes in England were of people aged 70 to 89 years",
+      "h5": null,
+      "text": "Almost 60% of excess deaths in private homes in England were of people aged 70 to 89 years"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Deaths in private homes",
+      "h3": null,
+      "h4": "Almost 60% of excess deaths in private homes in England were of people aged 70 to 89 years",
+      "h5": "Number of deaths in private homes by sex and age, England, registered 14 March 2020 to 11 September 2020",
+      "text": "Number of deaths in private homes by sex and age, England, registered 14 March 2020 to 11 September 2020"
+    },
+    {
+      "type": "p",
+      "h2": "Deaths in private homes",
+      "h3": null,
+      "h4": "Almost 60% of excess deaths in private homes in England were of people aged 70 to 89 years",
+      "h5": "Number of deaths in private homes by sex and age, England, registered 14 March 2020 to 11 September 2020",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Deaths in private homes",
+      "h3": null,
+      "h4": "Almost 60% of excess deaths in private homes in England were of people aged 70 to 89 years",
+      "h5": "Number of deaths in private homes by sex and age, England, registered 14 March 2020 to 11 September 2020",
+      "title": "Almost 60% of excess deaths in private homes in England were of people aged 70 to 89 years\" full-width=\"false",
+      "url": "/visualisations/dvc1014/fig3/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "Deaths in private homes",
+      "h3": null,
+      "h4": "Almost 60% of excess deaths in private homes in England were of people aged 70 to 89 years",
+      "h5": "Number of deaths in private homes by sex and age, England, registered 14 March 2020 to 11 September 2020",
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": "Deaths in private homes",
+      "h3": null,
+      "h4": "Almost 60% of excess deaths in private homes in England were of people aged 70 to 89 years",
+      "h5": "Number of deaths in private homes by sex and age, England, registered 14 March 2020 to 11 September 2020",
+      "text": "Figures exclude deaths of non-residents."
+    },
+    {
+      "type": "li",
+      "h2": "Deaths in private homes",
+      "h3": null,
+      "h4": "Almost 60% of excess deaths in private homes in England were of people aged 70 to 89 years",
+      "h5": "Number of deaths in private homes by sex and age, England, registered 14 March 2020 to 11 September 2020",
+      "text": "Based on date a death was registered rather than occurred."
+    },
+    {
+      "type": "li",
+      "h2": "Deaths in private homes",
+      "h3": null,
+      "h4": "Almost 60% of excess deaths in private homes in England were of people aged 70 to 89 years",
+      "h5": "Number of deaths in private homes by sex and age, England, registered 14 March 2020 to 11 September 2020",
+      "text": "Figures for 2020 are provisional."
+    },
+    {
+      "type": "li",
+      "h2": "Deaths in private homes",
+      "h3": null,
+      "h4": "Almost 60% of excess deaths in private homes in England were of people aged 70 to 89 years",
+      "h5": "Number of deaths in private homes by sex and age, England, registered 14 March 2020 to 11 September 2020",
+      "text": "The International Classification of Diseases, Tenth Edition (ICD-10) definitions are as follows: coronavirus (COVID-19) (U07.1 and U07.2)."
+    },
+    {
+      "type": "li",
+      "h2": "Deaths in private homes",
+      "h3": null,
+      "h4": "Almost 60% of excess deaths in private homes in England were of people aged 70 to 89 years",
+      "h5": "Number of deaths in private homes by sex and age, England, registered 14 March 2020 to 11 September 2020",
+      "text": "“Deaths involving COVID-19” refers to deaths that had COVID-19 mentioned anywhere on the death certificate, whether as an underlying cause of death or not."
+    },
+    {
+      "type": "p",
+      "h2": "Deaths in private homes",
+      "h3": null,
+      "h4": "Almost 60% of excess deaths in private homes in England were of people aged 70 to 89 years",
+      "h5": "Number of deaths in private homes by sex and age, England, registered 14 March 2020 to 11 September 2020",
+      "text": "[Download the data](/visualisations/dvc1014/fig3/datadownload.xlsx)"
+    },
+    {
+      "type": "box",
+      "h2": "Deaths in private homes",
+      "h3": null,
+      "h4": "Almost 60% of excess deaths in private homes in England were of people aged 70 to 89 years",
+      "h5": "Number of deaths in private homes by sex and age, England, registered 14 March 2020 to 11 September 2020",
+      "box_h2": "Related",
+      "box_h3": null,
+      "box_text": "Article | Released on 19 October 2020\n\nProvisional figures on deaths in private homes in England and Wales.\n\nStatistical bulletin | Released on 22 September 2026\n\nHow the relationship between UK public sector monthly income and expenditure leads to changes in deficit and debt.\n\nArticle | Released on 23 March 2022\n\nA detailed look into recent drivers of UK consumer price inflation.\n\nStatistical bulletin | Released on 14 February 2024\n\nMonthly house price inflation in the UK, calculated using data from HM Land Registry, Registers of Scotland, and Land and Property Services Northern Ireland.\n\nStatistical bulletin | Released on 18 September 2026\n\nRetail sales rose in the three months to August 2026, according to our first estimate.\n\nStatistical bulletin | Released on 23 August 2023\n\nProvisional death registration data for England and Wales, broken down by sex, age and country. Includes deaths due to coronavirus (COVID-19) and leading causes of death.",
+      "box_items": [
+        "[Deaths in private homes, England and Wales (provisional)](/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/deathsinprivatehomesenglandandwalesprovisional/deathsregisteredfrom28december2019to11september2020) Article | Released on 19 October 2020 Provisional figures on deaths in private homes in England and Wales.",
+        "[Public sector finances, UK](/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/august2026) Statistical bulletin | Released on 22 September 2026 How the relationship between UK public sector monthly income and expenditure leads to changes in deficit and debt.",
+        "[Recent drivers of UK consumer price inflation](/economy/inflationandpriceindices/articles/priceseconomicanalysisquarterly/march2022) Article | Released on 23 March 2022 A detailed look into recent drivers of UK consumer price inflation.",
+        "[UK House Price Index](/economy/inflationandpriceindices/bulletins/housepriceindex/december2023) Statistical bulletin | Released on 14 February 2024 Monthly house price inflation in the UK, calculated using data from HM Land Registry, Registers of Scotland, and Land and Property Services Northern Ireland.",
+        "[Retail sales, Great Britain](/businessindustryandtrade/retailindustry/bulletins/retailsales/august2026) Statistical bulletin | Released on 18 September 2026 Retail sales rose in the three months to August 2026, according to our first estimate.",
+        "[Monthly mortality analysis, England and Wales](/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/monthlymortalityanalysisenglandandwales/july2023) Statistical bulletin | Released on 23 August 2023 Provisional death registration data for England and Wales, broken down by sex, age and country. Includes deaths due to coronavirus (COVID-19) and leading causes of death."
+      ]
+    },
+    {
+      "type": "box",
+      "h2": "Deaths in private homes",
+      "h3": null,
+      "h4": "Almost 60% of excess deaths in private homes in England were of people aged 70 to 89 years",
+      "h5": "Number of deaths in private homes by sex and age, England, registered 14 March 2020 to 11 September 2020",
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[digitalcontent@ons.gov.uk](mailto:digitalcontent@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:48:15.245252"
+}

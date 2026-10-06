@@ -1,0 +1,129 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/willanextensionincreasethevalueofmyhouse/2017-10-11",
+  "title": "Will an extension increase the value of my house?",
+  "meta_description": null,
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Housing",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing"
+    },
+    {
+      "text": "Will an extension increase the value of my house?",
+      "href": null
+    }
+  ],
+  "date_published": "2017-10-11T08:30:03.000Z",
+  "date_modified": "2017-10-11T08:30:03.000Z",
+  "lede": null,
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "11 October 2017"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We’ve used ONS data on [property prices per square metre in England and Wales](https://www.ons.gov.uk/releases/housepricepersquaremeterandhousepriceperroomenglandandwales2004to2016) to help you find out what extra floor space could be worth in your area."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The value of an extension will depend on many things that we haven’t allowed for here, like the quality of construction, what type of room it is, and the exact location of the property within your local authority. This calculator uses average values for houses across local authority areas."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "Interactive chart",
+      "url": "/visualisations/dvc434/calculator/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Download the data](/visualisations/20170726163612///visual.ons.gov.uk/wp-content/uploads/2017/10/extension_calculator.csv)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Other Visual.ONS articles:"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[How do the jobs men and women do affect the gender pay gap?](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/howdothejobsmenandwomendoaffectthegenderpaygap/2017-10-06)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Migration levels: What do you know about your area?](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/migrationlevelswhatdoyouknowaboutyourarea/2017-08-24)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[How likely are you to become a victim of crime?](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/articles/peoplegreatlyoverestimatetheirlikelihoodofbeingrobbed/2017-09-07)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "If you like our Visual.ONS content and would like to see more, please [sign up](https://public.govdelivery.com/accounts/UKONS/subscribers/new) to our email alerts, selecting 'stories and infographics' under preferences."
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[digitalcontent@ons.gov.uk](mailto:digitalcontent@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:46:46.498254"
+}

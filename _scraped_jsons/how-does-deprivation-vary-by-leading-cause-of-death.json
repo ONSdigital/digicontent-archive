@@ -1,0 +1,569 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/howdoesdeprivationvarybyleadingcauseofdeath/2017-11-01",
+  "title": "How does deprivation vary by leading cause of death?",
+  "meta_description": "Analysis into how deprivation impacts cause of death in England and Wales. ",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Births, deaths and marriages",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages"
+    },
+    {
+      "text": "Deaths",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths"
+    },
+    {
+      "text": "How does deprivation vary by leading cause of death?",
+      "href": null
+    }
+  ],
+  "date_published": "2017-11-01T10:07:35.000Z",
+  "date_modified": "2017-11-01T10:07:35.000Z",
+  "lede": "Analysis into how deprivation impacts cause of death in England and Wales.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "1 November 2017"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The more deprived areas in both England and Wales experienced a higher number of deaths from[leading causes](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/methodologies/userguidetomortalitystatistics/leadingcausesofdeathinenglandandwalesrevised2016) such as heart diseases, chronic respiratory diseases and lung cancer than less deprived areas, according to new analysis."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Past analysis](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/bulletins/lifeexpectancyatbirthandatage65bylocalareasinenglandandwales/2015-11-04) has shown that people in areas of high deprivation don’t live as long. For instance, men in the Hampshire town of Hart, the least deprived local authority in England, outlive men in the most deprived area, Blackpool, by almost eight years. Women in Hart outlive their female peers in Blackpool by almost seven years."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": "What is deprivation?",
+      "box_text": "\n\nDeprivation is an overall measure based on factors such as income, employment, health and education within an area.",
+      "box_items": null
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Heart disease was the biggest killer of men",
+      "h4": null,
+      "h5": null,
+      "text": "Heart disease was the biggest killer of men"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Heart disease was the biggest killer of men",
+      "h4": null,
+      "h5": null,
+      "text": "The leading cause of death for males in both England and Wales in 2016 was heart disease, with more than 32,000 deaths in England and more than 2,300 in Wales. More people in deprived areas died as a result of heart disease, and more men suffered than women."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Heart disease was the biggest killer of men",
+      "h4": null,
+      "h5": null,
+      "text": "[Risk factors](https://www.nhs.uk/Conditions/Coronary-heart-disease/Pages/Causes.aspx) such as a poor diet and lack of exercise increase the chances of a person developing a form of heart disease compared to someone who leads a healthy lifestyle."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Heart disease was the biggest killer of men",
+      "h4": "Number of deaths as a result of heart disease, 2016",
+      "h5": null,
+      "text": "Number of deaths as a result of heart disease, 2016"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Heart disease was the biggest killer of men",
+      "h4": "Number of deaths as a result of heart disease, 2016",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Heart disease was the biggest killer of men",
+      "h4": "Number of deaths as a result of heart disease, 2016",
+      "h5": null,
+      "title": "Ischaemic Heart Disease",
+      "url": "/visualisations/dvc453/bar-graphs/Heart_Disease/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Heart disease was the biggest killer of men",
+      "h4": "Number of deaths as a result of heart disease, 2016",
+      "h5": null,
+      "text": "[Download the data.](/visualisations//visual/2017/10/heart_disease_data-1.csv)"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Dementia and Alzheimer’s was the biggest killer of women",
+      "h4": null,
+      "h5": null,
+      "text": "Dementia and Alzheimer’s was the biggest killer of women"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Dementia and Alzheimer’s was the biggest killer of women",
+      "h4": null,
+      "h5": null,
+      "text": "For women in England and Wales combined, the leading cause of death was dementia and Alzheimer’s disease, with more than 41,000 women dying from this cause in 2016. This was almost double the number of men who died as a result of these diseases."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Dementia and Alzheimer’s was the biggest killer of women",
+      "h4": null,
+      "h5": null,
+      "text": "There was a higher number of deaths as a result of dementia and Alzheimer's among those living in mid-deprived areas of England, and in Wales."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Dementia and Alzheimer’s was the biggest killer of women",
+      "h4": null,
+      "h5": null,
+      "text": "Dementia and Alzheimer’s disease are [not fully understood](https://www.nhs.uk/Conditions/Alzheimers-disease/Pages/Causes.aspx), and at present there is no cure. There are treatments available to slow down the effects of the diseases and [NHS research](https://www.nhs.uk/Conditions/Alzheimers-disease/Pages/Causes.aspx) suggests that some lifestyle factors like diabetes and smoking, which are linked with cardiovascular disease, can increase the risk of Alzheimer's disease."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Dementia and Alzheimer’s was the biggest killer of women",
+      "h4": null,
+      "h5": null,
+      "text": "According to [Alzheimer's Research UK,](http://www.alzheimersresearchuk.org/about-dementia/helpful-information/reducing-the-risk/?gclid=CjwKCAjw7MDPBRAFEiwAppdF9HRd21quXFxcoTEB7VSRfbqMfrn1ZKwhemiawnWI4EDvKQB46fdDBBoCwUgQAvD_BwE) age is the biggest risk factor for Alzheimer's disease and dementia."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Dementia and Alzheimer’s was the biggest killer of women",
+      "h4": "Number of deaths as a result of dementia and Alzheimer's disease, 2016",
+      "h5": null,
+      "text": "Number of deaths as a result of dementia and Alzheimer's disease, 2016"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Dementia and Alzheimer’s was the biggest killer of women",
+      "h4": "Number of deaths as a result of dementia and Alzheimer's disease, 2016",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Dementia and Alzheimer’s was the biggest killer of women",
+      "h4": "Number of deaths as a result of dementia and Alzheimer's disease, 2016",
+      "h5": null,
+      "title": "Dementia and Alzheimer's Disease",
+      "url": "/visualisations/dvc453/bar-graphs/Dementia/"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Dementia and Alzheimer’s was the biggest killer of women",
+      "h4": "Number of deaths as a result of dementia and Alzheimer's disease, 2016",
+      "h5": null,
+      "text": "[Download the data.](/visualisations//visual/2017/10/dementia_alzheimers_data.csv)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Dementia and Alzheimer’s was the biggest killer of women",
+      "h4": "Number of deaths as a result of dementia and Alzheimer's disease, 2016",
+      "h5": null,
+      "text": "Overall, dementia and Alzheimer’s disease, and heart disease were the two leading causes of death in both England, and in Wales in 2016."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "The trend in deprivation and deaths",
+      "h4": null,
+      "h5": null,
+      "text": "The trend in deprivation and deaths"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The trend in deprivation and deaths",
+      "h4": null,
+      "h5": null,
+      "text": "The top 10 leading causes of death were the same for males and females in both England and Wales, although in a slightly different ranking order. After heart disease, dementia and Alzheimer's disease, for men the third-biggest killer was lung cancer, and for women it was cerebrovascular diseases."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Lung cancer",
+      "h4": null,
+      "h5": null,
+      "text": "Lung cancer"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Lung cancer",
+      "h4": null,
+      "h5": null,
+      "text": "Cancers or tissue growths (neoplasms) in the trachea, bronchus and/or lung were a major cause of death for men in 2016, with approximately 16,500 deaths compared with nearly 14,000 deaths among women in both England and Wales combined. In the most deprived areas, men are twice as likely to die from these cancers compared with the least deprived areas."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Lung cancer",
+      "h4": null,
+      "h5": null,
+      "text": "In 85% of [cases where a patient has lung cancer](https://www.nhs.uk/Conditions/Cancer-of-the-lung/Pages/Causes.aspx), smoking is the biggest risk factor. However, people who have never smoked can also develop this disease."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Lung cancer",
+      "h4": "Number of deaths as a result of lung cancer, 2016",
+      "h5": null,
+      "text": "Number of deaths as a result of lung cancer, 2016"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Lung cancer",
+      "h4": "Number of deaths as a result of lung cancer, 2016",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Lung cancer",
+      "h4": "Number of deaths as a result of lung cancer, 2016",
+      "h5": null,
+      "title": "Lung cancer",
+      "url": "/visualisations/dvc453/bar-graphs/Lung_cancer/"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Lung cancer",
+      "h4": "Number of deaths as a result of lung cancer, 2016",
+      "h5": null,
+      "text": "[Download the data.](/visualisations//visual/2017/10/lung_cancer_data.csv)"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Strokes and brain haemorrhages",
+      "h4": null,
+      "h5": null,
+      "text": "Strokes and brain haemorrhages"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Strokes and brain haemorrhages",
+      "h4": null,
+      "h5": null,
+      "text": "For women, the third most common cause of death was cerebrovascular diseases, which includes strokes and brain haemorrhages."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Strokes and brain haemorrhages",
+      "h4": null,
+      "h5": null,
+      "text": "Responsible for nearly 19,000 female deaths and approximately 14,000 male deaths in England, and in Wales combined, cerebrovascular diseases caused higher numbers of deaths in the mid-deprived areas. The exact causes of strokes and haemorrhages are not known, but there are [risk factors](https://www.nhs.uk/conditions/Cardiovascular-disease/Pages/Introduction.aspx#causes)such as smoking and inactivity that increase the risk of developing these diseases."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Strokes and brain haemorrhages",
+      "h4": "Number of deaths as a result of cerebrovascular diseases, 2016",
+      "h5": null,
+      "text": "Number of deaths as a result of cerebrovascular diseases, 2016"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Strokes and brain haemorrhages",
+      "h4": "Number of deaths as a result of cerebrovascular diseases, 2016",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Strokes and brain haemorrhages",
+      "h4": "Number of deaths as a result of cerebrovascular diseases, 2016",
+      "h5": null,
+      "title": "Cerebrovascular Disease",
+      "url": "/visualisations/dvc453/bar-graphs/Cerebrovascular/"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Strokes and brain haemorrhages",
+      "h4": "Number of deaths as a result of cerebrovascular diseases, 2016",
+      "h5": null,
+      "text": "[Download the data.](/visualisations//visual/2017/10/cereb_disease_data.csv)"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Respiratory diseases",
+      "h4": null,
+      "h5": null,
+      "text": "Respiratory diseases"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Respiratory diseases",
+      "h4": null,
+      "h5": null,
+      "text": "Ranking highly for both men and women across both England and Wales were chronic lower respiratory diseases like emphysema and chronic bronchitis, which were much more prevalent causes of death in more deprived areas."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Respiratory diseases",
+      "h4": null,
+      "h5": null,
+      "text": "[Causes of respiratory diseases](https://www.nhs.uk/Conditions/Chronic-obstructive-pulmonary-disease/Pages/Causes.aspx) include smoking, pollution and exposure to dangerous substances."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Respiratory diseases",
+      "h4": null,
+      "h5": null,
+      "text": "Chronic obstructive pulmonary disease (COPD) is a type of respiratory disease. According to the NHS, [smoking is thought to be responsible for 9 out of 10 cases.](https://www.nhs.uk/Conditions/Chronic-obstructive-pulmonary-disease/Pages/Causes.aspx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Respiratory diseases",
+      "h4": null,
+      "h5": null,
+      "text": "[People who work](https://www.nhs.uk/Conditions/Chronic-obstructive-pulmonary-disease/Pages/Causes.aspx) around exhaust fumes and substances such asbestos and silica are at a much higher risk of developing a respiratory disease."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Respiratory diseases",
+      "h4": "Number of deaths as a result of respiratory diseases, 2016",
+      "h5": null,
+      "text": "Number of deaths as a result of respiratory diseases, 2016"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Respiratory diseases",
+      "h4": "Number of deaths as a result of respiratory diseases, 2016",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Respiratory diseases",
+      "h4": "Number of deaths as a result of respiratory diseases, 2016",
+      "h5": null,
+      "title": "Chronic Lower Respiratory Disease",
+      "url": "/visualisations/dvc453/bar-graphs/Chronic_Resp/"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Respiratory diseases",
+      "h4": "Number of deaths as a result of respiratory diseases, 2016",
+      "h5": null,
+      "text": "[Download the data.](/visualisations//visual/2017/10/chronic_resp_data.csv)"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Leading causes specific to males and females",
+      "h4": null,
+      "h5": null,
+      "text": "Leading causes specific to males and females"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Leading causes specific to males and females",
+      "h4": null,
+      "h5": null,
+      "text": "When looking at sex-specific leading causes of deaths, female deaths from breast cancer and male deaths from prostate cancer are more prevalent in areas of mid to low deprivation levels in England."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Leading causes specific to males and females",
+      "h4": null,
+      "h5": null,
+      "text": "This trend can't be seen as clearly in Wales, but there is a slight pattern of higher occurrences of death in mid-deprived areas."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Leading causes specific to males and females",
+      "h4": null,
+      "h5": null,
+      "text": "The reasons as to why women develop [breast cancer](https://www.nhs.uk/Conditions/Cancer-of-the-breast-female/Pages/Causes.aspx) and why men develop [prostate cancer](https://www.nhs.uk/Conditions/Cancer-of-the-prostate/Pages/Causes.aspx) are unclear but there are many risk factors associated with both cancers. One of these is age. As a person gets older, the risk of developing one of these cancers increases. It is also thought that those living in less deprived areas tend to live longer than those in more deprived areas."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Leading causes specific to males and females",
+      "h4": null,
+      "h5": null,
+      "text": "Number of deaths as a result of prostate cancer and breast cancer, 2016"
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Leading causes specific to males and females",
+      "h4": null,
+      "h5": null,
+      "title": "Breast and Prostate Cancer",
+      "url": "/visualisations/dvc453/bar-graphs/Breast_Prostate/"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Leading causes specific to males and females",
+      "h4": null,
+      "h5": null,
+      "text": "[Download the data.](/visualisations//visual/2017/10/breast_prostate_data.csv)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Leading causes specific to males and females",
+      "h4": null,
+      "h5": null,
+      "text": "[Click here](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/adhocs/007643leadingcausesofdeathbydeprivationenglandandwales2016) to view and download all of the data used in this visual.ONS article."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Leading causes specific to males and females",
+      "h4": null,
+      "h5": null,
+      "text": "For more information, please contact: [vsob@ons.gov.uk](mailto:'vsob@ons.gov.uk')"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Leading causes specific to males and females",
+      "h4": null,
+      "h5": null,
+      "text": "Other Visual.ONS articles:"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Leading causes specific to males and females",
+      "h4": null,
+      "h5": null,
+      "text": "[Causes of death over 100 years](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/causesofdeathover100years/2017-09-18)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Leading causes specific to males and females",
+      "h4": null,
+      "h5": null,
+      "text": "[You draw the charts: 60 Years of Change](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/articles/youdrawthecharts60yearsofchange/2017-10-24)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Leading causes specific to males and females",
+      "h4": null,
+      "h5": null,
+      "text": "[House prices: How much does one square metre cost in your area? ](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/housepriceshowmuchdoesonesquaremetrecostinyourarea/2017-10-11)"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Leading causes specific to males and females",
+      "h4": null,
+      "h5": null,
+      "text": "Deprivation is measured using The Index Multiple of Deprivation (IMD). There are different measurements for [England](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2015)and [Wales](http://gov.wales/statistics-and-research/welsh-index-multiple-deprivation/?lang=en), which are not comparable."
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": "Leading causes specific to males and females",
+      "h4": null,
+      "h5": null,
+      "box_h2": "You might also be interested in",
+      "box_h3": null,
+      "box_text": "",
+      "box_items": [
+        "[Deaths registered in England and Wales (series DR): 2016](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredinenglandandwalesseriesdr/2016)",
+        "[Leading causes of death by deprivation, England and Wales, 2016](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/adhocs/007643leadingcausesofdeathbydeprivationenglandandwales2016)",
+        "[Leading causes of death in England and Wales (revised 2016)](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/methodologies/userguidetomortalitystatistics/leadingcausesofdeathinenglandandwalesrevised2016)",
+        "[Life Expectancy at Birth and at Age 65 by Local Areas in England and Wales: 2012 to 2014](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/bulletins/lifeexpectancyatbirthandatage65bylocalareasinenglandandwales/2015-11-04)"
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": "Leading causes specific to males and females",
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[digitalcontent@ons.gov.uk](mailto:digitalcontent@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:47:13.382808"
+}

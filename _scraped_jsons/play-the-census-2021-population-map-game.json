@@ -1,0 +1,188 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/playthecensus2021populationmapgame/2022-06-28",
+  "title": "Play the Census 2021 population map game",
+  "meta_description": "Higher or lower game made with Census 2021 data. Guess if the next local authority area has more or fewer residents than the previous one.",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Population and migration",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration"
+    },
+    {
+      "text": "Population estimates",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates"
+    },
+    {
+      "text": "Play the Census 2021 population map game",
+      "href": null
+    }
+  ],
+  "date_published": "2022-06-27T23:00:00.000Z",
+  "date_modified": "2022-06-27T23:00:00.000Z",
+  "lede": "Move across England and Wales by correctly guessing if the number of people living in an area is higher or lower than others.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "28 June 2022"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Can you guess whether the next local authority area you land on has more or fewer residents than the previous one, according to Census 2021? Complete your trip in as few guesses as possible."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Play the census map game",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Play the census map game"
+    },
+    {
+      "type": "p",
+      "h2": "Play the census map game",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Play the census map game",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "Census map game",
+      "url": "/visualisations/censusmapgame/"
+    },
+    {
+      "type": "p",
+      "h2": "Play the census map game",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "You can share your score on social media and challenge your friends. You can come back to this page to play our daily game, with a new route each day, or try our other game modes."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Add the game to your website",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Add the game to your website"
+    },
+    {
+      "type": "p",
+      "h2": "Add the game to your website",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "You can add this game to your own website by copying the “embed code” link above. If you want to allow users to share their scores and play in full screen mode, you can use the enhanced embed code below. If you include the <script> tag also, shared scores will include a link to return players to your website."
+    },
+    {
+      "type": "p",
+      "h2": "Add the game to your website",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "<iframe id=\"censusgame\" src=\"https://www.ons.gov.uk/visualisations/censusmapgame/\" width=\"100%\" height=\"600px\" frameborder=\"0\" allow=\"clipboard-write\" allowfullscreen>/<\/iframe>"
+    },
+    {
+      "type": "p",
+      "h2": "Add the game to your website",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "<script>(function(){let f=document.getElementById(\"censusgame\");f.src=f.src+\"?parentUrl=\"+document.location.href;})()<\/script>"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "About the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "About the data"
+    },
+    {
+      "type": "p",
+      "h2": "About the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The first results from Census 2021 provide [early rounded population estimates for England and Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/populationandhouseholdestimatesenglandandwales/census2021). Unrounded figures will be released in autumn 2022. Figures may differ slightly in future releases because of the impact of removing rounding and applying further statistical processes."
+    },
+    {
+      "type": "p",
+      "h2": "About the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Area in square kilometres, excluding inland water, is taken from the 2021 [standard area measurements for local authority areas](https://geoportal.statistics.gov.uk/datasets/ons::standard-area-measurements-latest-for-administrative-areas-in-the-united-kingdom-v2/about)."
+    },
+    {
+      "type": "p",
+      "h2": "About the data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Population density is the estimated number of usual residents per square kilometre. It has been calculated using population estimates rounded to the nearest hundred."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Related links"
+    },
+    {
+      "type": "p",
+      "h2": "Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": "Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "\n\n[Population and household estimates, England and Wales: Census 2021](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/populationandhouseholdestimatesenglandandwales/census2021)\n Bulletin | Released 28 June 2022\n Census 2021 rounded population and household estimates for local authorities in England and Wales, by sex and five-year age group.\n\n[Population and household estimates, Wales: Census 2021](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/populationandhouseholdestimateswales/census2021)\n Bulletin | Released 28 June 2022\n Census 2021 rounded population and household estimates for local authorities in Wales, by sex and five-year age group.\n\n[How the population changed where you live: Census 2021](https://www.ons.gov.uk/visualisations/censuspopulationchange/)\n Digital content article | Released 28 June 2022\n Interactive scrolly-telling article visualising the first results from Census 2021 in England and Wales at a local level.\n\n[History of the census: 1801 to 2021](https://www.ons.gov.uk/visualisations/storyofthecensus/)\n Digital content article | Released 20 June 2022\n How the census in England and Wales has evolved over 220 years, from the first census in 1801 to 2021 and the future of population statistics.",
+      "box_items": null
+    },
+    {
+      "type": "box",
+      "h2": "Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[census.customerservices@ons.gov.uk](mailto:census.customerservices@ons.gov.uk)\n Telephone: +44 1329 44 4972",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:46:15.599399"
+}

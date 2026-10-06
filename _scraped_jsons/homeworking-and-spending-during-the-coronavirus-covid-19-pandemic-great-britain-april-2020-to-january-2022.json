@@ -1,0 +1,1034 @@
+{
+  "url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/homeworkingandspendingduringthecoronaviruscovid19pandemicgreatbritain/april2020tojanuary2022",
+  "title": "Homeworking and spending during the coronavirus (COVID-19) pandemic, Great Britain: April 2020 to January 2022",
+  "meta_description": "Analysis of how working from home has affected individuals’ spending, how this differs by characteristics, and how consumer spending has been affected.",
+  "breadcrumb": null,
+  "date_published": "2022-02-14T00:00:00.000Z",
+  "date_modified": "2022-02-14T00:00:00.000Z",
+  "lede": null,
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Analysis of how working from home has affected individuals’ spending, how this differs by characteristics, and how consumer spending has been affected."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This is the latest release."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Contact:\n[James Probert](mailto:economic.advice@ons.gov.uk)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Release date:\n14 February 2022\n"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Next release:\nTo be announced"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Table of contents"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Main points](#main-points)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Homeworking and spending by characteristic](#homeworking-and-spending-by-characteristic)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Homeworking and spending by spending area](#homeworking-and-spending-by-spending-area)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[The macroeconomic effect of homeworking on consumer spending](#the-macroeconomic-effect-of-homeworking-on-consumer-spending)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Defining homeworking](#defining-homeworking)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Homeworking and spending during the coronavirus (COVID-19) pandemic data](#homeworking-and-spending-during-the-coronavirus-covid-19-pandemic-data)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Glossary](#glossary)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Data sources and quality](#data-sources-and-quality)"
+    },
+    {
+      "type": "li",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Related links](#related-links)"
+    },
+    {
+      "type": "p",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Print this Article]()"
+    },
+    {
+      "type": "p",
+      "h2": "Table of contents",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Download as PDF](/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/homeworkingandspendingduringthecoronaviruscovid19pandemicgreatbritain/april2020tojanuary2022/pdf)"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "1. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "1. Main points"
+    },
+    {
+      "type": "li",
+      "h2": "1. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Between 19 and 30 January 2022, 36% of working adults reported having worked from home at least once in the last seven days because of the coronavirus (COVID-19) pandemic."
+    },
+    {
+      "type": "li",
+      "h2": "1. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Almost half (46%) of these homeworkers said they spent less as a result of homeworking because of the COVID-19 pandemic. A similar proportion of homeworkers reported spending less when interviewed in November (49%)."
+    },
+    {
+      "type": "li",
+      "h2": "1. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The area where homeworkers most commonly saw spending increase was utility bills, where 86% reported their spending had risen."
+    },
+    {
+      "type": "li",
+      "h2": "1. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Half of homeworkers (50%) reported spending less on fuel and parking for commuting, and two fifths (40%) reported spending less on commuting using public transport."
+    },
+    {
+      "type": "li",
+      "h2": "1. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Around 9 in 10 homeworkers who live in rented housing (92%) reported increased spending on utilities, compared with 86% of those who are currently paying a mortgage and 77% of homeworkers who own their home outright."
+    },
+    {
+      "type": "li",
+      "h2": "1. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Homeworkers with dependent children are slightly more likely to report increased spending on food (39%), utilities (89%), and internet access (27%) than those without dependent children (29%, 85% and 23%) respectively."
+    },
+    {
+      "type": "li",
+      "h2": "1. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The percentage of people homeworking is positively correlated with the stringency of COVID-19 restrictions and negatively correlated with aggregate spending on debit and credit cards."
+    },
+    {
+      "type": "p",
+      "h2": "1. Main points",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Further information on how we have defined homeworking in this article is laid out in [Section 5](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/homeworkingandspendingduringthecoronaviruscovid19pandemicgreatbritain/april2020tojanuary2022#defining-homeworking)."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "2. Homeworking and spending by characteristic",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "2. Homeworking and spending by characteristic"
+    },
+    {
+      "type": "p",
+      "h2": "2. Homeworking and spending by characteristic",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Over a third of working adults (36%) reported having worked from home at least once in the past seven days because of the coronavirus (COVID-19) pandemic, according to Opinions and Lifestyle Survey (OPN) data collected between 19 and 30 January 2022."
+    },
+    {
+      "type": "p",
+      "h2": "2. Homeworking and spending by characteristic",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This proportion has increased slightly in recent weeks but is below the peak recorded from 11 – 14 June 2020, during the first lockdown, when nearly half of all workers worked from home (49%)."
+    },
+    {
+      "type": "p",
+      "h2": "2. Homeworking and spending by characteristic",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In the most recent OPN data (19 to 30 January 2022), nearly half (46%) of these homeworkers reported having spent less as a result of working from home because of the pandemic. In contrast, just 18% said their spending had risen, 28% that it had remained the same and 8% were unsure. The last time the OPN asked this question (3 to 14 November 2021), 49% of homeworkers reported spending less as a result of working from home because of the pandemic, and 14% reported spending more."
+    },
+    {
+      "type": "p",
+      "h2": "2. Homeworking and spending by characteristic",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "chartbuilder",
+      "h2": "2. Homeworking and spending by characteristic",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "chartbuilder_h3": "Figure 1: Almost half of homeworkers reported spending less as a result of homeworking more because of the coronavirus pandemic",
+      "chartbuilder_h4": "Proportion of homeworkers who report changes in their spending on account of increased homeworking because of the coronavirus pandemic, Great Britain, 19 to 30 January 2022",
+      "data_uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/homeworkingandspendingduringthecoronaviruscovid19pandemicgreatbritain/april2020tojanuary2022/16060f5d",
+      "src": "/_scraped_chartbuilder_imgs/16060f5d.png",
+      "local_filename": "16060f5d.png"
+    },
+    {
+      "type": "p",
+      "h2": "2. Homeworking and spending by characteristic",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Nearly half (48%) of employees who worked from home reported spending less since the pandemic, compared to around a third (32%) of those who are self-employed and worked from home."
+    },
+    {
+      "type": "p",
+      "h2": "2. Homeworking and spending by characteristic",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This might be a result of [self-employed workers being more likely than employees to have worked from home pre-pandemic](https://webarchive.nationalarchives.gov.uk/ukgwa/20160107085351/http:/www.ons.gov.uk/ons/rel/lmac/characteristics-of-home-workers/2014/rpt-home-workers.html#tab-Characteristics-of-home-workers-in-the-UK). Nearly half of self-employed workers (49%) said they were spending the same as before the pandemic compared with 26% of employees, and self-employed workers were less likely than employees to have spent less on fuel and parking for commuting since the pandemic. However, care needs to be taken when interpreting figures on self-employed workers due to small sample sizes."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "2. Homeworking and spending by characteristic",
+      "h3": null,
+      "h4": "Figure 2: Nearly half of self-employed homeworkers did not see a change in spending",
+      "h5": null,
+      "text": "Figure 2: Nearly half of self-employed homeworkers did not see a change in spending"
+    },
+    {
+      "type": "p",
+      "h2": "2. Homeworking and spending by characteristic",
+      "h3": null,
+      "h4": "Figure 2: Nearly half of self-employed homeworkers did not see a change in spending",
+      "h5": null,
+      "text": "Proportion of homeworkers who have seen their spending change since the coronavirus pandemic, by employment status, Great Britain, 19 to 30 January 2022"
+    },
+    {
+      "type": "p",
+      "h2": "2. Homeworking and spending by characteristic",
+      "h3": null,
+      "h4": "Figure 2: Nearly half of self-employed homeworkers did not see a change in spending",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "2. Homeworking and spending by characteristic",
+      "h3": null,
+      "h4": "Figure 2: Nearly half of self-employed homeworkers did not see a change in spending",
+      "h5": null,
+      "title": "Nearly half of self-employed homeworkers did not see a change in spending ",
+      "url": "/visualisations/dvc1801/stacked-bar-horizontal-selfemployed/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "2. Homeworking and spending by characteristic",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": "2. Homeworking and spending by characteristic",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "The question being asked was \"Since working from home more because of the coronavirus (COVID-19) pandemic, do you feel you are spending more or less money?\" The base was adults who reported being self-employed or reported being an employee and working from home in the past seven days because of the coronavirus pandemic between 19 and 30 January 2022."
+    },
+    {
+      "type": "li",
+      "h2": "2. Homeworking and spending by characteristic",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Care needs to be taken when interpreting figures on self-employed homeworkers because of small sample sizes."
+    },
+    {
+      "type": "li",
+      "h2": "2. Homeworking and spending by characteristic",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Confidence intervals are presented in the reference tables."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "2. Homeworking and spending by characteristic",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": "2. Homeworking and spending by characteristic",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "[.xlsx](/visualisations/dvc1801/stacked-bar-horizontal-selfemployed/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "2. Homeworking and spending by characteristic",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "Homeworkers with dependent children were more likely than those without to report a change in spending. A fifth of homeworkers with dependent children (22%) reported increased spending, compared with (16%) of those without dependent children. Those with dependent children appeared more likely to report increased spending on food (39%), utilities (89%), and internet access (27%) compared to those without dependent children (29%, 85% and 23%) respectively."
+    },
+    {
+      "type": "p",
+      "h2": "2. Homeworking and spending by characteristic",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "A slightly higher proportion of homeworkers with dependent children also reported spending less (48%) than homeworkers without dependent children (45%). A higher percentage of those with dependent children reported reduced spending on fuel and parking for commuting (55%) and public transport for commuting (42%) compared to those without dependent children (47% and 38% respectively). No change in spending was more common amongst homeworkers without dependent children (30%) than homeworkers with dependent children (25%)."
+    },
+    {
+      "type": "p",
+      "h2": "2. Homeworking and spending by characteristic",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "In contrast, the proportion of those with dependent children who reported spending less (48%) was slightly higher than those without dependent children (45%). Almost half of men (49%) reported spending less as a result of homeworking which is slightly higher than women (43%)."
+    },
+    {
+      "type": "p",
+      "h2": "2. Homeworking and spending by characteristic",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "In addition to the demographic differences in spending reported above, previous analysis on [which jobs can be done from home](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/whichjobscanbedonefromhome/2020-07-21) has found differences in ability to work from home across occupations and demographics, with lower earners, frontline workers, and men less likely to be able to work from home."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "3. Homeworking and spending by spending area",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "3. Homeworking and spending by spending area"
+    },
+    {
+      "type": "p",
+      "h2": "3. Homeworking and spending by spending area",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The most common areas where people who worked from home reported seeing their spending increase was utilities and internet."
+    },
+    {
+      "type": "p",
+      "h2": "3. Homeworking and spending by spending area",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "More than 8 in 10 (86%) of respondents said they had spent more on utility bills since working from home because of the pandemic, similar to the 82% who reported higher spending on utility bills from 3 to 14 November 2021. This could reflect higher power and heating bills as workers spend time at home that would usually be spent in their place of work."
+    },
+    {
+      "type": "p",
+      "h2": "3. Homeworking and spending by spending area",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This may also in part reflect the rise in energy bill prices, following the [rise of the Office of Gas and Electricity Markets (Ofgem) energy price cap](https://www.ofgem.gov.uk/publications/record-gas-prices-drive-price-cap-ps139-customers-encouraged-contact-supplier-support-and-switch-better-deal-if-possible) in October 2021. Whether working from home or not, [most OPN respondents reported their cost of living rising in early 2022](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/4february2022#household-finances-and-cost-of-living), with energy bills a common cause of increased spending, [especially for those on lower incomes](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/energypricesandtheireffectonhouseholds/2022-02-01)."
+    },
+    {
+      "type": "p",
+      "h2": "3. Homeworking and spending by spending area",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Almost a quarter of people working from home (24%) said they spent more on internet. In March 2021, the UK telecommunications regulator Ofcom [reported increased average broadband speeds compared with November 2019](https://www.ofcom.org.uk/__data/assets/pdf_file/0020/224192/uk-home-broadband-performance-technical-report-march-2021-data.pdf), as households upgraded their internet packages because of mass homeworking and learning."
+    },
+    {
+      "type": "p",
+      "h2": "3. Homeworking and spending by spending area",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In contrast, 50% of people who worked from home said they had spent less on fuel and parking for commuting since working from home because of the pandemic, and 40% said they were spending less on commuting using public transport since working from home because of the pandemic."
+    },
+    {
+      "type": "p",
+      "h2": "3. Homeworking and spending by spending area",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Very few people who worked from home reported that their spending on food stayed the same. A third (33%) said they spent more on food since working from home, and 34% said they had spent less."
+    },
+    {
+      "type": "p",
+      "h2": "3. Homeworking and spending by spending area",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "It's not clear why food spending changed in opposing ways for so many homeworkers. This could reflect the amount people chose to dine out since restrictions were eased, or people making changes to their grocery shopping."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "3. Homeworking and spending by spending area",
+      "h3": null,
+      "h4": "Figure 3: Homeworkers were most likely to have spent more on utilities, and less on commuting",
+      "h5": null,
+      "text": "Figure 3: Homeworkers were most likely to have spent more on utilities, and less on commuting"
+    },
+    {
+      "type": "p",
+      "h2": "3. Homeworking and spending by spending area",
+      "h3": null,
+      "h4": "Figure 3: Homeworkers were most likely to have spent more on utilities, and less on commuting",
+      "h5": null,
+      "text": "Difference in the proportion of homeworkers who spent more and less on different areas as a result of working from home, Great Britain, 19 to 30 January 2022"
+    },
+    {
+      "type": "p",
+      "h2": "3. Homeworking and spending by spending area",
+      "h3": null,
+      "h4": "Figure 3: Homeworkers were most likely to have spent more on utilities, and less on commuting",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "3. Homeworking and spending by spending area",
+      "h3": null,
+      "h4": "Figure 3: Homeworkers were most likely to have spent more on utilities, and less on commuting",
+      "h5": null,
+      "title": "Homeworkers were most likely to have spent more on utilities, and less on commuting ",
+      "url": "/visualisations/dvc1801/diverging-bar-all/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "3. Homeworking and spending by spending area",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": "3. Homeworking and spending by spending area",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "The question being asked was \"Which, if any of these, are you spending less/more money on now that you are working from home more?\" The base was working adults who reported working from home in the past seven days because of coronavirus between 19 and 30 January 2022. Respondents were able to choose more than one option."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "3. Homeworking and spending by spending area",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": "3. Homeworking and spending by spending area",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "[.xlsx](/visualisations/dvc1801/diverging-bar-all/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "3. Homeworking and spending by spending area",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "The vast majority of homeworkers who live in rented housing (92%) reported their spending on utilities had increased. This was 15 percentage points higher than the proportion of homeworkers who own their home outright who saw spending on utilities rise (77%). Among homeworkers who are currently paying off a mortgage, 86% said their spending on utilities had increased since the pandemic."
+    },
+    {
+      "type": "p",
+      "h2": "3. Homeworking and spending by spending area",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "Compared with the period 3 – 14 November 2021, the proportion of homeworkers in rented housing who reported spending more on utilities as a result of homeworking increased by 10 percentage points (92% in January 2022 compared with 82% in November 2021). The proportion of homeworkers who reported spending more on utilities in homes they owned outright and in homes they pay a mortgage on rose by 3 percentage points and 1 percentage point, respectively."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "3. Homeworking and spending by spending area",
+      "h3": null,
+      "h4": "Figure 4: Homeworkers in rented housing were more likely to report increased spending on utilities than those who own their home outright",
+      "h5": null,
+      "text": "Figure 4: Homeworkers in rented housing were more likely to report increased spending on utilities than those who own their home outright"
+    },
+    {
+      "type": "p",
+      "h2": "3. Homeworking and spending by spending area",
+      "h3": null,
+      "h4": "Figure 4: Homeworkers in rented housing were more likely to report increased spending on utilities than those who own their home outright",
+      "h5": null,
+      "text": "Proportion of homeworkers spending less and more on utilities, by housing tenure, Great Britain, 19 to 30 January 2022"
+    },
+    {
+      "type": "p",
+      "h2": "3. Homeworking and spending by spending area",
+      "h3": null,
+      "h4": "Figure 4: Homeworkers in rented housing were more likely to report increased spending on utilities than those who own their home outright",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "3. Homeworking and spending by spending area",
+      "h3": null,
+      "h4": "Figure 4: Homeworkers in rented housing were more likely to report increased spending on utilities than those who own their home outright",
+      "h5": null,
+      "title": "Homeworkers in rented housing were more likely to report increased spending on utilities than those who own their home outright ",
+      "url": "/visualisations/dvc1801/diverging-bar-tenure-utilities/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "3. Homeworking and spending by spending area",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": "3. Homeworking and spending by spending area",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "The question being asked was \"Which, if any of these, are you spending less/more money on now that you are working from home more?\" The base was working adults who reported working from home in the past seven days because of the coronavirus pandemic between 19 and 30 January 2022. Respondents were able to choose more than one option."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "3. Homeworking and spending by spending area",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": "3. Homeworking and spending by spending area",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "[.xlsx](/visualisations/dvc1801/diverging-bar-tenure-utilities/datadownload.xlsx)"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "4. The macroeconomic effect of homeworking on consumer spending",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "4. The macroeconomic effect of homeworking on consumer spending"
+    },
+    {
+      "type": "p",
+      "h2": "4. The macroeconomic effect of homeworking on consumer spending",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "It is challenging to identify the extent to which homeworking during the pandemic has affected consumer spending, because increased numbers of people working from home has coincided with changes in other factors which affect spending, such as spikes in coronavirus (COVID-19) infection levels, retail and hospitality closures, domestic and foreign travel restrictions and various safety measures in public places."
+    },
+    {
+      "type": "p",
+      "h2": "4. The macroeconomic effect of homeworking on consumer spending",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The [Oxford Covid-19 Government Response Tracker](https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker) (OxCGRT) collects information on the measures that governments have taken to tackle COVID-19 and provides a Stringency Index that quantifies the strictness of policies through time. This OxCGRT Stringency Index is significantly positively correlated with the percentage of people reporting they are homeworking in the Opinions and Lifestyle Survey (OPN) and significantly negatively correlated with the Google Mobility Workplace Index. The Google Mobility Workplace Index reports movement trends over time in workplaces and provides an additional measure of homeworking."
+    },
+    {
+      "type": "p",
+      "h2": "4. The macroeconomic effect of homeworking on consumer spending",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "These correlations indicate that, at times when restrictions were strict, fewer people were spending time in workplaces and more people were working from home."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "4. The macroeconomic effect of homeworking on consumer spending",
+      "h3": null,
+      "h4": "Figure 5: The percentage of homeworkers is correlated with the stringency of coronavirus restrictions",
+      "h5": null,
+      "text": "Figure 5: The percentage of homeworkers is correlated with the stringency of coronavirus restrictions"
+    },
+    {
+      "type": "p",
+      "h2": "4. The macroeconomic effect of homeworking on consumer spending",
+      "h3": null,
+      "h4": "Figure 5: The percentage of homeworkers is correlated with the stringency of coronavirus restrictions",
+      "h5": null,
+      "text": "Percentage of adults who report working from home, Great Britain; Oxford Stringency Index, UK, April 2020 to January 2022"
+    },
+    {
+      "type": "p",
+      "h2": "4. The macroeconomic effect of homeworking on consumer spending",
+      "h3": null,
+      "h4": "Figure 5: The percentage of homeworkers is correlated with the stringency of coronavirus restrictions",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "4. The macroeconomic effect of homeworking on consumer spending",
+      "h3": null,
+      "h4": "Figure 5: The percentage of homeworkers is correlated with the stringency of coronavirus restrictions",
+      "h5": null,
+      "title": "The percentage of homeworkers is correlated with the stringency of COVID-19 restrictions",
+      "url": "/visualisations/dvc1801/small-multiple-line-homework-osi/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "4. The macroeconomic effect of homeworking on consumer spending",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": "4. The macroeconomic effect of homeworking on consumer spending",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "The percentage of adults who report working from home is taken from the Opinions and Lifestyle Survey (OPN), which has been released weekly or every other week between April 2020 and January 2022."
+    },
+    {
+      "type": "li",
+      "h2": "4. The macroeconomic effect of homeworking on consumer spending",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "The Oxford Stringency Index records the strictness of “lockdown style” policies that primarily restrict people’s behaviour to a value from 0 to 100 (100 = the most strict). It is calculated using all ordinal containment and closure policy indicators, plus an indicator recording public information campaigns. The Oxford Stringency Index simply records the number and strictness of government policies and should not be interpreted as “scoring” the appropriateness or effectiveness of a country’s response."
+    },
+    {
+      "type": "li",
+      "h2": "4. The macroeconomic effect of homeworking on consumer spending",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Data for weekends and bank holidays were removed from the Oxford Stringency Index to maintain consistency and allow for direct comparisons."
+    },
+    {
+      "type": "li",
+      "h2": "4. The macroeconomic effect of homeworking on consumer spending",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "The Clearing House Automated Payment System (CHAPS) indicator lacks data for weekends and bank holidays."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "4. The macroeconomic effect of homeworking on consumer spending",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "Download the data"
+    },
+    {
+      "type": "p",
+      "h2": "4. The macroeconomic effect of homeworking on consumer spending",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "[.xlsx](/visualisations/dvc1801/small-multiple-line-homework-osi/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "4. The macroeconomic effect of homeworking on consumer spending",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "The Bank of England’s aggregate Clearing House Automated Payment System (CHAPS) based indicator of credit and debit card purchases is significantly negatively correlated with the percentage of people working from home and significantly positively correlated with the Google Mobility Workplace Index."
+    },
+    {
+      "type": "p",
+      "h2": "4. The macroeconomic effect of homeworking on consumer spending",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": ""
+    },
+    {
+      "type": "chartbuilder",
+      "h2": "4. The macroeconomic effect of homeworking on consumer spending",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "chartbuilder_h3": "Figure 6: Spending on credit and debit cards is correlated with the number of people in workplaces",
+      "chartbuilder_h4": "Aggregated Clearing House Automated Payment System (CHAPS) card spending index, Google Workplace Mobility Index, UK, April 2020 to January 2022",
+      "data_uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/homeworkingandspendingduringthecoronaviruscovid19pandemicgreatbritain/april2020tojanuary2022/fc2a80ee",
+      "src": "/_scraped_chartbuilder_imgs/fc2a80ee.png",
+      "local_filename": "fc2a80ee.png"
+    },
+    {
+      "type": "p",
+      "h2": "4. The macroeconomic effect of homeworking on consumer spending",
+      "h3": null,
+      "h4": "Notes:",
+      "h5": "Download the data",
+      "text": "Using only these data, it isn’t possible to establish direct causality or estimate the amount by which homeworking has contributed to reduced credit and debit card expenditure. However, these results indicates that there was less spending on credit and debit cards when fewer people were spending time in workplaces and more people were reporting working from home."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "5. Defining homeworking",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "5. Defining homeworking"
+    },
+    {
+      "type": "p",
+      "h2": "5. Defining homeworking",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Working adults responding to the Opinions and Lifestyle Survey were asked if they had 'worked from home in the past seven days because of the coronavirus (COVID-19) pandemic'. Between 19 and 30 January 2022, 670 respondents (36% of working adults) reported having worked from home at some point in the past seven days."
+    },
+    {
+      "type": "p",
+      "h2": "5. Defining homeworking",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "These individuals were then asked, 'since working from home more because of the COVID-19 pandemic, do you feel you are spending more or less money?' and which, if any areas, they were spending more or less money on."
+    },
+    {
+      "type": "p",
+      "h2": "5. Defining homeworking",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Defining homeworking as 'having worked from home in the past seven days' incorporates individuals who might otherwise be classified as hybrid working into our definition of homeworking, which may increase variability in responses. However, limited sample size precludes breaking the dataset down to look at homeworking in terms of e.g. the number of days individuals have worked from home in the past seven."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "6. Homeworking and spending during the coronavirus (COVID-19) pandemic data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "6. Homeworking and spending during the coronavirus (COVID-19) pandemic data"
+    },
+    {
+      "type": "p",
+      "h2": "6. Homeworking and spending during the coronavirus (COVID-19) pandemic data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": "6. Homeworking and spending during the coronavirus (COVID-19) pandemic data",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "[Working from home and spending: regression outputs, standard linear ordinary least squares between different variables](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/workingfromhomeandspendingregressionoutputsstandardlinearordinaryleastsquaresbetweendifferentvariables)\n Dataset | 14 February 2022\n Analysis of the relationships between COVID-19 restrictions, homeworking and spending, comparison of these variables: percentage of homeworkers, Google Workplace Mobility Index, Oxford Stringency Index and CHAPS spending.\n\n[Effects of working from home on finances](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/effectsofworkingfromhomeonfinances)\n Dataset | 14 February 2022\n Analysis of how working from home has affected individuals’ spending and how this differs by characteristics, Great Britain.\n\n",
+      "box_items": null
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "7. Glossary",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "7. Glossary"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "7. Glossary",
+      "h3": "Homeworking",
+      "h4": null,
+      "h5": null,
+      "text": "Homeworking"
+    },
+    {
+      "type": "p",
+      "h2": "7. Glossary",
+      "h3": "Homeworking",
+      "h4": null,
+      "h5": null,
+      "text": "In this article we have defined homeworking as any working adult who has worked at home for at least one day in the week collected between 19 January and 30 January 2022. This article focuses on the population of working adults who have worked one or more days at home in the last week."
+    },
+    {
+      "type": "p",
+      "h2": "7. Glossary",
+      "h3": "Homeworking",
+      "h4": null,
+      "h5": null,
+      "text": "In the Opinions and Lifestyle Survey respondents were asked: \"In the past seven days, have you worked from home because of the coronavirus (COVID-19) pandemic?\" This question was asked to anyone who is either a current employee, is self-employed, has done any casual work for payment or anyone who has done any unpaid or voluntary work in the last week."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "7. Glossary",
+      "h3": "OPN",
+      "h4": null,
+      "h5": null,
+      "text": "OPN"
+    },
+    {
+      "type": "p",
+      "h2": "7. Glossary",
+      "h3": "OPN",
+      "h4": null,
+      "h5": null,
+      "text": "The Opinions and Lifestyle Survey (OPN) is an Office for National Statistics (ONS) survey used to understand the impact of the COVID-19 pandemic on British society."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "7. Glossary",
+      "h3": "OxCGRT",
+      "h4": null,
+      "h5": null,
+      "text": "OxCGRT"
+    },
+    {
+      "type": "p",
+      "h2": "7. Glossary",
+      "h3": "OxCGRT",
+      "h4": null,
+      "h5": null,
+      "text": "The Oxford COVID-19 Government Response Tracker (OxCGRT) collects information on the measures that governments have taken to tackle COVID-19 and provides a stringency index that quantifies the strictness of policies. The stringency index is calculated using 9 indicators, 8 containment indicators and 1 health policy indicator."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "7. Glossary",
+      "h3": "CHAPS",
+      "h4": null,
+      "h5": null,
+      "text": "CHAPS"
+    },
+    {
+      "type": "p",
+      "h2": "7. Glossary",
+      "h3": "CHAPS",
+      "h4": null,
+      "h5": null,
+      "text": "Is an experimental real time indicator for monitoring UK spending using debit and credit cards both in-store and online. They track the daily Clearing House Automated Payment System (CHAPS) payments made by credit and debit card payment processors to around 100 major UK retail corporates, based on data supplied by the Bank of England."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "7. Glossary",
+      "h3": "Google Mobility",
+      "h4": null,
+      "h5": null,
+      "text": "Google Mobility"
+    },
+    {
+      "type": "p",
+      "h2": "7. Glossary",
+      "h3": "Google Mobility",
+      "h4": null,
+      "h5": null,
+      "text": "Google community mobility reports aim to provide insights into what has changed in response to policies aimed at combating COVID-19. The reports chart movement trends over time by geography, across different categories of places such as retail and recreation, groceries and pharmacies, parks, transit stations, workplaces, and residential."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "8. Data sources and quality",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "8. Data sources and quality"
+    },
+    {
+      "type": "p",
+      "h2": "8. Data sources and quality",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This release contains data and indicators from a module being undertaken through the Office for National Statistics' (ONS) Opinions and Lifestyle Survey (OPN) to understand the impact of the coronavirus (COVID-19) pandemic on British society."
+    },
+    {
+      "type": "p",
+      "h2": "8. Data sources and quality",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The survey results are weighted to be a nationally representative sample for Great Britain (based on June 2021 population estimates). Further information on the survey design and quality can be found in the [Opinions and Lifestyle Survey Quality and Methodology Information](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/methodologies/opinionsandlifestylesurveyqmi)."
+    },
+    {
+      "type": "p",
+      "h2": "8. Data sources and quality",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In the period between 19 to 30 January 2022 we sampled 4,496 households. These were randomly selected from those that had previously completed the Labour Market Survey (LMS) or OPN. The responding sample contained 3,441 individuals, representing a 77% response rate."
+    },
+    {
+      "type": "p",
+      "h2": "8. Data sources and quality",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The set of results presented in this article are based on 670 individual respondents who have identified themselves as having worked from home as a result of the COVID-19 pandemic."
+    },
+    {
+      "type": "p",
+      "h2": "8. Data sources and quality",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This release also contains faster indicator data on UK debit and credit card spending which provides insights into economic activity using close-to-real-time big data, administrative data sources, rapid response surveys or Experimental Statistics, which represent useful economic and social concepts."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "9. Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "9. Related links"
+    },
+    {
+      "type": "p",
+      "h2": "9. Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": "9. Related links",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "[Which jobs can be done from home?](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/whichjobscanbedonefromhome/2020-07-21)\n Article | 21 July 2020\n During the coronavirus (COVID-19) pandemic, government advice has said people in the UK should work from home if possible. This is easier for some workers than others, and jobs that pay more are more likely to be done remotely.\n\n[Business and individual attitudes towards the future of homeworking, UK](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/businessandindividualattitudestowardsthefutureofhomeworkinguk/apriltomay2021)\n Article | 14 June 2021\n Analysis of the effects of the coronavirus (COVID-19) pandemic on office working and of business and individual attitudes to future working practices.\n\n[Homeworking hours, rewards and opportunities in the UK: 2011 to 2020](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity/articles/homeworkinghoursrewardsandopportunitiesintheuk2011to2020/2021-04-19)\n Article | 19 April 2021\n Working from home in the UK between 2011 and 2020, including the impact of the coronavirus (COVID-19) pandemic. Looking at indicators of productivity and work success such as pay, hours worked, bonuses, promotions and more, with industry, region and demographic breakdowns.\n\n[COVID-19 restrictions cut household emissions](https://www.ons.gov.uk/economy/environmentalaccounts/articles/covid19restrictionscuthouseholdemissions/2021-09-21)\n Article | 21 September 2021\n With more people staying at home last year, household greenhouse gas emissions dropped by 10%. Could the shift to homeworking see lower emissions in the longer term?",
+      "box_items": null
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "9. Related links",
+      "h3": "Contact details for this Article",
+      "h4": null,
+      "h5": null,
+      "text": "Contact details for this Article"
+    }
+  ],
+  "scraped_at": "2026-09-22 11:47:25.070201"
+}

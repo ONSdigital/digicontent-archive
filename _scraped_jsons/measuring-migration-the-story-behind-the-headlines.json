@@ -1,0 +1,718 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/measuringmigrationthestorybehindtheheadlines/2021-09-17",
+  "title": "Measuring migration: the story behind the headlines",
+  "meta_description": "In this interactive article, we take you behind the headlines and use the latest data to answer questions about international migration. We also explain why measuring migration is harder than you might think.",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Population and migration",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration"
+    },
+    {
+      "text": "International migration",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration"
+    },
+    {
+      "text": "Measuring migration: the story behind the headlines",
+      "href": null
+    }
+  ],
+  "date_published": "2021-09-16T23:00:00.000Z",
+  "date_modified": "2021-09-16T23:00:00.000Z",
+  "lede": "In this interactive article, we take you behind the headlines and use the latest data to answer questions about international migration. We also explain why measuring migration is harder than you might think.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "17 September 2021"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The migration of people in and out of the UK has been in the news recently, with stories about shortages of lorry drivers, EU citizens leaving the UK, and the crisis in Afghanistan resulting in emergency airlifts of refugees. What’s really going on?"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In this article we take you behind the headlines and answer your questions about international migration using the latest data - including our [new migrant population figures for 2020](https://www.ons.gov.uk/releases/populationoftheukbycountryofbirthandnationality2020), released today (17 September 2021)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Answering these questions is not straightforward because migration is a very difficult thing to measure. We also explain why counting migrants is so difficult, and why we can’t simply count people in and out at the border."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "What we mean when we talk about \"migrants\"",
+      "h4": null,
+      "h5": null,
+      "text": "What we mean when we talk about \"migrants\""
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "What we mean when we talk about \"migrants\"",
+      "h4": null,
+      "h5": null,
+      "text": "It is very common for people to move to another country, either to stay for just a few months or to stay for many years. Some even settle permanently in their new country."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "What we mean when we talk about \"migrants\"",
+      "h4": null,
+      "h5": null,
+      "text": "Some of the reasons people migrate include work, study, to join loved ones, or to seek protection."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "What we mean when we talk about \"migrants\"",
+      "h4": null,
+      "h5": null,
+      "text": "You might have heard the word \"migrant\" used to describe people trying to cross the English Channel on boats or under lorries. At the Office for National Statistics (ONS), we use the term \"international migrant\" more broadly, to describe all people who move from one country to another."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "What we mean when we talk about \"migrants\"",
+      "h4": null,
+      "h5": null,
+      "text": "[You can learn more about how we define migrants.](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/definingandmeasuringinternationalmigration/2020-02-14)"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Understanding how many migrants live in the UK",
+      "h4": null,
+      "h5": null,
+      "text": "Understanding how many migrants live in the UK"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Understanding how many migrants live in the UK",
+      "h4": null,
+      "h5": null,
+      "text": "Use our interactive explorer to see how many different types of migrants are in the UK as a proportion of the overall population."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Understanding how many migrants live in the UK",
+      "h4": null,
+      "h5": null,
+      "text": "Press the 'next' button to move through the explorer:"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Understanding how many migrants live in the UK",
+      "h4": "How many migrants live in the UK",
+      "h5": null,
+      "text": "How many migrants live in the UK"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Understanding how many migrants live in the UK",
+      "h4": "How many migrants live in the UK",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Understanding how many migrants live in the UK",
+      "h4": "How many migrants live in the UK",
+      "h5": null,
+      "title": "How many migrants live in the UK ",
+      "url": "/visualisations/dvc1542/stepthru/interactive/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Understanding how many migrants live in the UK",
+      "h4": "How many migrants live in the UK",
+      "h5": null,
+      "text": "Notes: Estimates are either rounded to the nearest 100,000 or the nearest 1,000"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Understanding how many migrants live in the UK",
+      "h4": "How many migrants live in the UK",
+      "h5": null,
+      "text": "[Download the data](/visualisations/dvc1542/stepthru/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Understanding how many migrants live in the UK",
+      "h4": "How many migrants live in the UK",
+      "h5": null,
+      "text": "Caution should be used when comparing statistics from 2020 with those of previous years. This is because both data collection and migration patterns have been [impacted by the coronavirus](https://blog.ons.gov.uk/2021/05/17/meeting-the-challenges-in-population-estimation/) (COVID-19) pandemic."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Migration levels in different parts of the UK",
+      "h4": null,
+      "h5": null,
+      "text": "Migration levels in different parts of the UK"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Migration levels in different parts of the UK",
+      "h4": null,
+      "h5": null,
+      "text": "Many people wonder how many migrants are living in different places across the UK."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Migration levels in different parts of the UK",
+      "h4": null,
+      "h5": null,
+      "text": "This varies. For example, in 2020, roughly one in every three people in London were born overseas, compared to 1 in 10 people in Scotland."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Migration levels in different parts of the UK",
+      "h4": "Migration levels in the UK",
+      "h5": null,
+      "text": "Migration levels in the UK"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Migration levels in different parts of the UK",
+      "h4": "Migration levels in the UK",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Migration levels in different parts of the UK",
+      "h4": "Migration levels in the UK",
+      "h5": null,
+      "title": "Migration levels in the UK",
+      "url": "/visualisations/dvc1542/inmyarea/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Migration levels in different parts of the UK",
+      "h4": "Migration levels in the UK",
+      "h5": null,
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Migration levels in different parts of the UK",
+      "h4": "Migration levels in the UK",
+      "h5": null,
+      "text": "Some areas have been removed due to estimates being too small"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Migration levels in different parts of the UK",
+      "h4": "Migration levels in the UK",
+      "h5": null,
+      "text": "Percentages have been rounded to the nearest whole number"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Migration levels in different parts of the UK",
+      "h4": "Migration levels in the UK",
+      "h5": null,
+      "text": "[Download the data](/visualisations/dvc1542/inmyarea/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Migration levels in different parts of the UK",
+      "h4": "Migration levels in the UK",
+      "h5": null,
+      "text": "The data presented here are based on a small sample size and are therefore subject to greater uncertainty. It is not possible to survey all people who are residents in the UK, so these statistics are estimates based on a sample, rather than precise figures. We have excluded statistics for those local authorities which have very small number of migrants. Northern Ireland local authorities are excluded."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Migration levels in different parts of the UK",
+      "h4": "Migration levels in the UK",
+      "h5": null,
+      "text": "Read our [latest local area migration indicators](https://www.ons.gov.uk/releases/localareamigrationindicatorsuk) for more data."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "How many people have left the UK since the coronavirus pandemic and Brexit",
+      "h4": null,
+      "h5": null,
+      "text": "How many people have left the UK since the coronavirus pandemic and Brexit"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "How many people have left the UK since the coronavirus pandemic and Brexit",
+      "h4": null,
+      "h5": null,
+      "text": "Since March 2020, the coronavirus pandemic has disrupted the entire world. Restrictions to travel, alongside various social and economic factors, have influenced people’s plans and decisions to travel or migrate to and from the UK."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "How many people have left the UK since the coronavirus pandemic and Brexit",
+      "h4": null,
+      "h5": null,
+      "text": "Another major event occurred in 2020 when the UK left the European Union (EU). Free movement with the EU ended on 31 December 2020, meaning anyone who does not already have the right to live in the UK now must apply for a visa to come to the UK to work, live or study."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "How many people have left the UK since the coronavirus pandemic and Brexit",
+      "h4": null,
+      "h5": null,
+      "text": "We expect that both the pandemic and Brexit have fundamentally changed patterns of migration in and out of the UK."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "How many people have left the UK since the coronavirus pandemic and Brexit",
+      "h4": null,
+      "h5": null,
+      "text": "There has been speculation that during 2020 and 2021 there was an exodus of people – particularly EU citizens – leaving the UK to go and live elsewhere. Did this actually happen? Simply put, we don’t know yet."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "How many people have left the UK since the coronavirus pandemic and Brexit",
+      "h4": null,
+      "h5": null,
+      "text": "Our usual source for measuring migration, the International Passenger Survey (IPS), was suspended at the start of the pandemic. Instead, we’re using experimental [statistical models](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/datasets/usingstatisticalmodellingtoestimateukinternationalmigration) which give our best estimates so far:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "How many people have left the UK since the coronavirus pandemic and Brexit",
+      "h4": null,
+      "h5": null,
+      "text": "it looks as though slightly more people left the UK (emigrated) than usual in the early stages of the pandemic (March to June 2020)"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "How many people have left the UK since the coronavirus pandemic and Brexit",
+      "h4": null,
+      "h5": null,
+      "text": "an estimated 100,000 people left the UK between March and June 2020. This is slightly more than March to June of the previous two years (89,000 in 2019, and 74,000 in 2018)"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "How many people have left the UK since the coronavirus pandemic and Brexit",
+      "h4": null,
+      "h5": null,
+      "text": "most of the people who left in the early stages of the pandemic were EU nationals. We estimate that 78,000 EU nationals left the UK between March and June 2020, compared to 52,000 that left during the same period in 2019"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "How many people have left the UK since the coronavirus pandemic and Brexit",
+      "h4": null,
+      "h5": null,
+      "text": "looking further back, our [official estimates](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/migrationstatisticsquarterlyreport/august2020#eu-and-non-eu-migration-over-time) showed that the number of EU citizens leaving the UK had started to increase since 2015, although this had stabilised in the last two years before the pandemic. But there were still more EU citizens arriving than departing."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "How many people have left the UK since the coronavirus pandemic and Brexit",
+      "h4": null,
+      "h5": null,
+      "text": "It’s too early to say whether these are temporary departures due to the pandemic and Brexit or the continuation of a trend which may have been emerging anyway. As we gather more data, the picture will become much clearer."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "How many people have left the UK since the coronavirus pandemic and Brexit",
+      "h4": null,
+      "h5": null,
+      "text": "People were migrating into the UK during this period too, but in relatively small numbers. Between March and June 2020, our statistical models estimated 33,000 people came to live in the UK – a much smaller number than usual."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "How many people have left the UK since the coronavirus pandemic and Brexit",
+      "h4": "Total UK immigration and emigration from January 2018 to June 2020",
+      "h5": null,
+      "text": "Total UK immigration and emigration from January 2018 to June 2020"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "How many people have left the UK since the coronavirus pandemic and Brexit",
+      "h4": "Total UK immigration and emigration from January 2018 to June 2020",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "How many people have left the UK since the coronavirus pandemic and Brexit",
+      "h4": "Total UK immigration and emigration from January 2018 to June 2020",
+      "h5": null,
+      "title": "Total UK immigration and emigration from January 2018 to June 2020  ",
+      "url": "/visualisations/dvc1542/emigration/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "How many people have left the UK since the coronavirus pandemic and Brexit",
+      "h4": "Total UK immigration and emigration from January 2018 to June 2020",
+      "h5": null,
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "How many people have left the UK since the coronavirus pandemic and Brexit",
+      "h4": "Total UK immigration and emigration from January 2018 to June 2020",
+      "h5": null,
+      "text": "Monthly IPS estimates and uncertainty intervals for January 2018 to February 2020 are presented in the [data tab](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/datasets/usingstatisticalmodellingtoestimateukinternationalmigration). Modelled estimates and uncertainty intervals are presented for March 2020 to June 2020."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "How many people have left the UK since the coronavirus pandemic and Brexit",
+      "h4": "Total UK immigration and emigration from January 2018 to June 2020",
+      "h5": null,
+      "text": "The monthly estimates of international migration flows have been derived solely for the purpose of this research and should not be treated as official statistics or used in any other context."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "How many people have left the UK since the coronavirus pandemic and Brexit",
+      "h4": "Total UK immigration and emigration from January 2018 to June 2020",
+      "h5": null,
+      "text": "Modelled estimates are based on the UN definition of an international migrant. For emigration, that is a person who leaves the UK for more than a year, who was previously living in the UK for a period at least a year (12 months). This means it will exclude those who were living in the UK for a shorter time period and then left. It also excludes refugees and asylum seekers."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "How many people have left the UK since the coronavirus pandemic and Brexit",
+      "h4": "Total UK immigration and emigration from January 2018 to June 2020",
+      "h5": null,
+      "text": "Our [statistical models](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/usingstatisticalmodellingtoestimateukinternationalmigration#modelled-estimates-for-uk-immigration-emigration-and-net-migration) are experimental and innovative. It combines real-life data with expert-driven assumptions about people’s behaviour patterns during the pandemic. Modelling is not an exact science and there is uncertainty shown in the ranges around the estimates."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "How many people have left the UK since the coronavirus pandemic and Brexit",
+      "h4": "Total UK immigration and emigration from January 2018 to June 2020",
+      "h5": null,
+      "text": "[Download the data](/visualisations/dvc1542/emigration/datadownload.xlsx)"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Why we can’t simply count people in and out at the border",
+      "h4": null,
+      "h5": null,
+      "text": "Why we can’t simply count people in and out at the border"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Why we can’t simply count people in and out at the border",
+      "h4": null,
+      "h5": null,
+      "text": "Many people believe it is easy to measure international migration because it’s something that can be done by counting people in and out at the border."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Why we can’t simply count people in and out at the border",
+      "h4": null,
+      "h5": null,
+      "text": "It’s not that simple and countries across the world have the same problem. There are many reasons why it is difficult to count migrants by monitoring cross-border travel data using passport scans at airports. Such as:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Why we can’t simply count people in and out at the border",
+      "h4": null,
+      "h5": null,
+      "text": "It’s quite common for people to hold two passports. For example, if a person has a British and American passport, they may travel out of the UK using their American passport and return to the UK on their British passport. This makes it difficult to connect the information together, because we don’t have a population register of everyone who lives in the UK and all their passport numbers."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Why we can’t simply count people in and out at the border",
+      "h4": null,
+      "h5": null,
+      "text": "Another reason that it can be difficult to count migrants is because movements across the Irish border are not tracked. For example, a person could fly into Belfast airport, live in Northern Ireland for years, then emigrate to live in the Republic of Ireland. We would not know (from border data) that they had emigrated to Ireland. The UK and Ireland belong to a free travel zone called the Common Travel Area; people can travel freely between the two countries."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Why we can’t simply count people in and out at the border",
+      "h4": null,
+      "h5": null,
+      "text": "We continue to look for ways to overcome these challenges. The Home Office is currently looking at alternative methods of collection from the planned [new digital systems](https://www.gov.uk/government/publications/new-plan-for-immigration-legal-migration-and-border-control) at the border. Also, [our plans to change how we measure migration](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/transformationofthepopulationandmigrationstatisticssystemoverview/2019-06-21) using a wider range of data will help with this."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Migrant workers and the shortage of lorry drivers",
+      "h4": null,
+      "h5": null,
+      "text": "Migrant workers and the shortage of lorry drivers"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Migrant workers and the shortage of lorry drivers",
+      "h4": null,
+      "h5": null,
+      "text": "News reports have suggested that the current shortage of lorry drivers has been driven by EU citizens going home after Brexit."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Migrant workers and the shortage of lorry drivers",
+      "h4": null,
+      "h5": null,
+      "text": "Newly released Office for National Statistics (ONS) estimates [on HGV drivers by nationality](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/adhocs/13633hgvdriversbynationality) may explain this. The estimates show that as of March 2021, 25,000 EU citizens were working as lorry drivers in the UK. This number has fallen by 14,000, or more than a third, since mid-2020."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Migrant workers and the shortage of lorry drivers",
+      "h4": null,
+      "h5": null,
+      "text": "We cannot say yet why this happened. It doesn’t necessarily mean that the former lorry drivers have left the UK. They could have switched to a different career."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Migrant workers and the shortage of lorry drivers",
+      "h4": null,
+      "h5": null,
+      "text": "The number of British lorry drivers also fell during this time."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Migrant workers and the shortage of lorry drivers",
+      "h4": null,
+      "h5": null,
+      "text": "To put this in context, as of March 2021 there were 229,000 lorry drivers working in the UK."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Why 6 million EU settlement scheme applications doesn’t mean 6 million EU citizens in the UK",
+      "h4": null,
+      "h5": null,
+      "text": "Why 6 million EU settlement scheme applications doesn’t mean 6 million EU citizens in the UK"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Why 6 million EU settlement scheme applications doesn’t mean 6 million EU citizens in the UK",
+      "h4": null,
+      "h5": null,
+      "text": "You might think that because there were just over 6 million applications to the [EU Settlement Scheme (EUSS)](https://www.gov.uk/government/statistics/eu-settlement-scheme-quarterly-statistics-june-2021/eu-settlement-scheme-quarterly-statistics-june-2021), this means there are 6 million EU nationals living here. This is not correct, because of the large pool of people who could apply for EUSS."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Why 6 million EU settlement scheme applications doesn’t mean 6 million EU citizens in the UK",
+      "h4": null,
+      "h5": null,
+      "text": "For example, non-EU partners of EU nationals could also apply, and people could apply from outside of the UK if they used to live here."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Why 6 million EU settlement scheme applications doesn’t mean 6 million EU citizens in the UK",
+      "h4": null,
+      "h5": null,
+      "text": "Many people who applied for the EUSS when it opened in 2019 will have since left the country."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Why 6 million EU settlement scheme applications doesn’t mean 6 million EU citizens in the UK",
+      "h4": null,
+      "h5": null,
+      "text": "Of the 6 million applications, around 472,000 were from repeat applicants."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Why 6 million EU settlement scheme applications doesn’t mean 6 million EU citizens in the UK",
+      "h4": null,
+      "h5": null,
+      "text": "For all these reasons, it would be a mistake to assume that the number of applications to EUSS equals the number of EU citizens living in the UK."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Why 6 million EU settlement scheme applications doesn’t mean 6 million EU citizens in the UK",
+      "h4": null,
+      "h5": null,
+      "text": "Our [latest ONS statistics](https://www.ons.gov.uk/releases/populationoftheukbycountryofbirthandnationality2020), released today (17 September 2021) show that in 2020 there were 3.5 million EU citizens living in the UK. This is around 2 million fewer than the number of people who are estimated to have applied for the EUSS by the time the scheme closed in June 2021."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Why 6 million EU settlement scheme applications doesn’t mean 6 million EU citizens in the UK",
+      "h4": null,
+      "h5": null,
+      "text": "Learn more about the [differences between these statistics](https://blog.ons.gov.uk/2021/07/02/are-there-really-6m-eu-citizens-living-in-the-uk/)."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "The huge challenge of understanding \"illegal\" immigration in the UK",
+      "h4": null,
+      "h5": null,
+      "text": "The huge challenge of understanding \"illegal\" immigration in the UK"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The huge challenge of understanding \"illegal\" immigration in the UK",
+      "h4": null,
+      "h5": null,
+      "text": "It is almost [impossible to accurately count irregular (also called \"illegal\") migrants](https://migrationobservatory.ox.ac.uk/resources/briefings/irregular-migration-in-the-uk/). As you might expect, these people do not want to be found. They don’t interact with surveys or public services and therefore usually don’t appear in government datasets."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The huge challenge of understanding \"illegal\" immigration in the UK",
+      "h4": null,
+      "h5": null,
+      "text": "When thinking about irregular immigration, you may think of people trying to enter the UK by hiding in lorries or travelling across the English Channel on small boats. But irregular immigration can come in other forms too; for instance, people who enter the UK with a visa but then overstay after the visa expires."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "The huge challenge of understanding \"illegal\" immigration in the UK",
+      "h4": null,
+      "h5": null,
+      "text": "The Office for National Statistics (ONS) and the Home Office are exploring new ways to meet the significant challenge of understanding irregular migrants in the UK."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "What census data will tell us about migrants living in the UK",
+      "h4": null,
+      "h5": null,
+      "text": "What census data will tell us about migrants living in the UK"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "What census data will tell us about migrants living in the UK",
+      "h4": null,
+      "h5": null,
+      "text": "Census 2021 will give us many rich insights into [foreign nationals and overseas-born people living in the UK](https://www.ons.gov.uk/census/censustransformationprogramme/census2021outputs/2021dataproducts/analysis/internationalmigrationanalysisplanscensus2021) and the [information will be released from Spring 2022.](https://www.ons.gov.uk/census/censustransformationprogramme/census2021outputs/releaseplans)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "What census data will tell us about migrants living in the UK",
+      "h4": null,
+      "h5": null,
+      "text": "[Learn more](https://blog.ons.gov.uk/2021/07/13/population-and-social-statistics-in-a-rapidly-changing-world/) about how the ONS will be maximising the value of the data collected from Census 2021 alongside other data to provide timely statistics in a rapidly changing world."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Give us your feedback",
+      "h4": null,
+      "h5": null,
+      "text": "Give us your feedback"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Give us your feedback",
+      "h4": null,
+      "h5": null,
+      "text": "This is the first article in a series in which we explain international migration and reveal the stories behind the headlines. We welcome your feedback on the questions that are important to you."
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": "Give us your feedback",
+      "h4": null,
+      "h5": null,
+      "box_h2": "You might also be interested in",
+      "box_h3": null,
+      "box_text": "",
+      "box_items": [
+        "[Population of the UK by country of birth and nationality:2020](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/datasets/populationoftheunitedkingdombycountryofbirthandnationality)",
+        "[Local area migration indicators, UK](https://www.ons.gov.uk/releases/localareamigrationindicatorsuk)",
+        "[Using statistical modelling to estimate UK international migration](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/usingstatisticalmodellingtoestimateukinternationalmigration)",
+        "[Immigration statistics (Home Office)](https://www.gov.uk/government/collections/immigration-statistics-quarterly-release)",
+        "[Higher Education Student Agency Statistics: UK, 2019/20](https://www.hesa.ac.uk/news/27-01-2021/sb258-higher-education-student-statistics)",
+        "[EU Settlement Scheme statistics (Home Office)](https://www.gov.uk/government/collections/eu-settlement-scheme-statistics)"
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": "Give us your feedback",
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "Megan Bowers\n[pop.info@ons.gov.uk](mailto:pop.info@ons.gov.uk)\n Telephone: +44 (0)1329 444661",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:46:47.20805"
+}

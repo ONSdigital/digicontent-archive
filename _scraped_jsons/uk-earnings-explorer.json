@@ -1,0 +1,114 @@
+{
+  "url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/ukearningsexplorer/2019-08-16",
+  "title": "UK earnings explorer",
+  "meta_description": "Our interactive explorer shows the average full-time gross annual pay for different occupations. Find out which jobs pay the most – and least – and see how your job compares.",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "Employment and labour market",
+      "href": "https://www.ons.gov.uk/employmentandlabourmarket"
+    },
+    {
+      "text": "People in work",
+      "href": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork"
+    },
+    {
+      "text": "Earnings and working hours",
+      "href": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours"
+    },
+    {
+      "text": "UK earnings explorer",
+      "href": null
+    }
+  ],
+  "date_published": "2019-08-15T23:00:00.000Z",
+  "date_modified": "2019-08-15T23:00:00.000Z",
+  "lede": "How much are people earning in jobs like yours? And how does that compare to other occupations?",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Our interactive explorer shows the average full-time gross annual pay for different occupations. Find out which jobs pay the most – and least – and see how your job compares."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "ASHE occupation earnings",
+      "url": "/visualisations/dvc2755/fig10/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Last updated 1 November 2023."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The explorer uses data from [Table 14 of the Annual Survey of Hours and Earnings dataset](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/occupation4digitsoc2010ashetable14), showing median average earnings for employees on adult rates of pay who have been in the same job for more than a year. Full details of the coverage, timeliness and quality measures can be found in the data table."
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Related",
+      "box_h3": null,
+      "box_text": "Statistical bulletin | Released on 23 October 2025\n\nMeasures of employee earnings, using data from the Annual Survey for Hours and Earnings (ASHE).",
+      "box_items": [
+        "[Employee earnings in the UK](/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/annualsurveyofhoursandearnings/2025) Statistical bulletin | Released on 23 October 2025 Measures of employee earnings, using data from the Annual Survey for Hours and Earnings (ASHE)."
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "You might also be interested in",
+      "box_h3": null,
+      "box_text": "",
+      "box_items": [
+        "[World trade explorer](https://www.ons.gov.uk/businessindustryandtrade/internationaltrade/articles/worldtradeexplorer/2019-07-24)",
+        "[Gender pay gap explorer](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/genderpaygapexplorer/2019-06-07)",
+        "[Life expectancy calculator](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/articles/lifeexpectancycalculator/2019-06-07)",
+        "[Baby names explorer](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/articles/babynamesexplorer/2019-06-07)"
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "Roger Smith\n[earnings@ons.gov.uk](mailto:earnings@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:46:54.225496"
+}

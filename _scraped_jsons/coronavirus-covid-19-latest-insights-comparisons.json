@@ -1,0 +1,719 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19latestinsights/overview",
+  "title": "Coronavirus (COVID-19) latest insights: Comparisons",
+  "meta_description": "A roundup of the latest data and trends about the Coronavirus (COVID-19) pandemic from the ONS and other sources.",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Health and social care",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare"
+    },
+    {
+      "text": "Coronavirus (COVID-19)",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases"
+    },
+    {
+      "text": "Coronavirus (COVID-19) latest insights",
+      "href": null
+    }
+  ],
+  "date_published": "2022-12-06T00:00:00.000Z",
+  "date_modified": "2022-12-06T00:00:00.000Z",
+  "lede": null,
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "6 December 2022"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This page is no longer being updated. The final weekly Coronavirus (COVID-19) Infection Survey release was published on 24 March 2023. Please search [the ONS release calendar](https://www.ons.gov.uk/releasecalendar) for the most recent ONS releases."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Explore by topic",
+      "h4": null,
+      "h5": null,
+      "text": "Explore by topic"
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Explore by topic",
+      "h4": null,
+      "h5": null,
+      "title": null,
+      "url": null
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Comparing different data types and sources",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Comparing different data types and sources"
+    },
+    {
+      "type": "p",
+      "h2": "Comparing different data types and sources",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "\n Here we present charts comparing data about the coronavirus (COVID-19) pandemic across various sources. You can read more about how these sources differ from each other on our [more information page](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/moreinformationondatasourcesrelatedtocoronaviruscovid19/2020-12-11)."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "On this page",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "On this page"
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": "On this page",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "",
+      "box_items": [
+        "[Infections and hospitalisations increased while deaths decreased](#tripleline)",
+        "[Infections varied across age groups in England](#age)",
+        "[Trends in infections and hospitalisations varied across English regions, while deaths decreased in most regions](#region)",
+        "[COVID-19 deaths were higher than flu and pneumonia deaths in winter 2021/22](#covidflu)",
+        "[Further information](#further-information)",
+        "[Glossary](#glossary)"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "On this page",
+      "h3": "Infections, hospital admissions and deaths in England",
+      "h4": null,
+      "h5": null,
+      "text": "Infections, hospital admissions and deaths in England"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "On this page",
+      "h3": "Infections, hospital admissions and deaths in England",
+      "h4": "Infections and hospitalisations increased while deaths decreased",
+      "h5": null,
+      "text": "Infections and hospitalisations increased while deaths decreased"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "On this page",
+      "h3": "Infections, hospital admissions and deaths in England",
+      "h4": "Infections and hospitalisations increased while deaths decreased",
+      "h5": "Estimated coronavirus (COVID-19) positivity rates, overall hospital admissions, intensive care unit (ICU) and high dependency unit (HDU) admissions, and number of deaths, England, 6 August 2020 to 27 November 2022",
+      "text": "Estimated coronavirus (COVID-19) positivity rates, overall hospital admissions, intensive care unit (ICU) and high dependency unit (HDU) admissions, and number of deaths, England, 6 August 2020 to 27 November 2022"
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Infections, hospital admissions and deaths in England",
+      "h4": "Infections and hospitalisations increased while deaths decreased",
+      "h5": "Estimated coronavirus (COVID-19) positivity rates, overall hospital admissions, intensive care unit (ICU) and high dependency unit (HDU) admissions, and number of deaths, England, 6 August 2020 to 27 November 2022",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "On this page",
+      "h3": "Infections, hospital admissions and deaths in England",
+      "h4": "Infections and hospitalisations increased while deaths decreased",
+      "h5": "Estimated coronavirus (COVID-19) positivity rates, overall hospital admissions, intensive care unit (ICU) and high dependency unit (HDU) admissions, and number of deaths, England, 6 August 2020 to 27 November 2022",
+      "title": "Regulars Triple line",
+      "url": "/visualisations/dvc1470/tripleline/wrapper/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Infections, hospital admissions and deaths in England",
+      "h4": "Infections and hospitalisations increased while deaths decreased",
+      "h5": "Estimated coronavirus (COVID-19) positivity rates, overall hospital admissions, intensive care unit (ICU) and high dependency unit (HDU) admissions, and number of deaths, England, 6 August 2020 to 27 November 2022",
+      "text": "[Download the data](/visualisations/dvc1470/tripleline/wrapper/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Infections, hospital admissions and deaths in England",
+      "h4": "Infections and hospitalisations increased while deaths decreased",
+      "h5": "Estimated coronavirus (COVID-19) positivity rates, overall hospital admissions, intensive care unit (ICU) and high dependency unit (HDU) admissions, and number of deaths, England, 6 August 2020 to 27 November 2022",
+      "text": "The percentage of people testing positive for COVID-19 in England increased to 1.60% in the week ending 21 November 2022."
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Infections, hospital admissions and deaths in England",
+      "h4": "Infections and hospitalisations increased while deaths decreased",
+      "h5": "Estimated coronavirus (COVID-19) positivity rates, overall hospital admissions, intensive care unit (ICU) and high dependency unit (HDU) admissions, and number of deaths, England, 6 August 2020 to 27 November 2022",
+      "text": "Overall hospital admissions increased slightly to 4.69 per 100,000 people, while ICU and HDU admissions remained low, at 0.11 per 100,000 people, in the week ending 27 November 2022."
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Infections, hospital admissions and deaths in England",
+      "h4": "Infections and hospitalisations increased while deaths decreased",
+      "h5": "Estimated coronavirus (COVID-19) positivity rates, overall hospital admissions, intensive care unit (ICU) and high dependency unit (HDU) admissions, and number of deaths, England, 6 August 2020 to 27 November 2022",
+      "text": "Deaths involving COVID-19 registered in England continued to decrease to 333 in the week ending 25 November 2022."
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Infections, hospital admissions and deaths in England",
+      "h4": "Infections and hospitalisations increased while deaths decreased",
+      "h5": "Estimated coronavirus (COVID-19) positivity rates, overall hospital admissions, intensive care unit (ICU) and high dependency unit (HDU) admissions, and number of deaths, England, 6 August 2020 to 27 November 2022",
+      "text": "The hospital admission rate and number of deaths involving COVID-19 are lower now than earlier in the coronavirus pandemic, despite similar infection levels."
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Infections, hospital admissions and deaths in England",
+      "h4": "Infections and hospitalisations increased while deaths decreased",
+      "h5": "Estimated coronavirus (COVID-19) positivity rates, overall hospital admissions, intensive care unit (ICU) and high dependency unit (HDU) admissions, and number of deaths, England, 6 August 2020 to 27 November 2022",
+      "text": "There is a delay (lag) between a person becoming infected with COVID-19 and being admitted to hospital or dying, and this is reflected in the lags in trends."
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Infections, hospital admissions and deaths in England",
+      "h4": "Infections and hospitalisations increased while deaths decreased",
+      "h5": "Estimated coronavirus (COVID-19) positivity rates, overall hospital admissions, intensive care unit (ICU) and high dependency unit (HDU) admissions, and number of deaths, England, 6 August 2020 to 27 November 2022",
+      "text": "The data used in the chart come from our [Coronavirus Infection Survey](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/latest), UKHSA's [National flu and COVID-19 surveillance reports](https://www.gov.uk/government/statistics/national-flu-and-covid-19-surveillance-reports-2022-to-2023-season), and our [Deaths registered weekly in England and Wales, provisional bulletin](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/latest)."
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Infections, hospital admissions and deaths in England",
+      "h4": "Infections and hospitalisations increased while deaths decreased",
+      "h5": "Estimated coronavirus (COVID-19) positivity rates, overall hospital admissions, intensive care unit (ICU) and high dependency unit (HDU) admissions, and number of deaths, England, 6 August 2020 to 27 November 2022",
+      "text": "Last updated: 6 December 2022"
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Infections, hospital admissions and deaths in England",
+      "h4": "Infections and hospitalisations increased while deaths decreased",
+      "h5": "Estimated coronavirus (COVID-19) positivity rates, overall hospital admissions, intensive care unit (ICU) and high dependency unit (HDU) admissions, and number of deaths, England, 6 August 2020 to 27 November 2022",
+      "text": "[🠕 Back to the top](#top)"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "On this page",
+      "h3": "Comparisons by age group",
+      "h4": null,
+      "h5": null,
+      "text": "Comparisons by age group"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "On this page",
+      "h3": "Comparisons by age group",
+      "h4": "Infections increased for those in school Year 7 to aged 24 years and those aged 35 to 49 years",
+      "h5": null,
+      "text": "Infections increased for those in school Year 7 to aged 24 years and those aged 35 to 49 years"
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Comparisons by age group",
+      "h4": "Infections increased for those in school Year 7 to aged 24 years and those aged 35 to 49 years",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "On this page",
+      "h3": "Comparisons by age group",
+      "h4": "Infections increased for those in school Year 7 to aged 24 years and those aged 35 to 49 years",
+      "h5": null,
+      "title": "regulars infect age",
+      "url": "/visualisations/dvc1470/new_age/infections/wrapper/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Comparisons by age group",
+      "h4": "Infections increased for those in school Year 7 to aged 24 years and those aged 35 to 49 years",
+      "h5": null,
+      "text": "[Download the data](/visualisations/dvc1470/new_age/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Comparisons by age group",
+      "h4": "Infections increased for those in school Year 7 to aged 24 years and those aged 35 to 49 years",
+      "h5": null,
+      "text": "In England, the infection rate increased for groups in school Year 7 to aged 24 years and those aged 35 to 49 years in the week ending 21 November 2022. Trends were uncertain for those aged 2 years to school Year 6, those aged 25 to 34 years, and those aged 50 years and over."
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Comparisons by age group",
+      "h4": "Infections increased for those in school Year 7 to aged 24 years and those aged 35 to 49 years",
+      "h5": null,
+      "text": "Infection rates were highest for those aged 35 to 49 years (1.92%) and lowest for those aged 2 years to school Year 6 (1.25%) in the latest week. The age groups with the highest and lowest infection rates have varied throughout the pandemic."
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Comparisons by age group",
+      "h4": "Infections increased for those in school Year 7 to aged 24 years and those aged 35 to 49 years",
+      "h5": null,
+      "text": "The data used in this chart come from our [Coronavirus Infection Survey](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/latest)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "On this page",
+      "h3": "Comparisons by age group",
+      "h4": "Hospital admissions remain highest for those aged 85 years and over",
+      "h5": null,
+      "text": "Hospital admissions remain highest for those aged 85 years and over"
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Comparisons by age group",
+      "h4": "Hospital admissions remain highest for those aged 85 years and over",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "On this page",
+      "h3": "Comparisons by age group",
+      "h4": "Hospital admissions remain highest for those aged 85 years and over",
+      "h5": null,
+      "title": "regulars hospicu age",
+      "url": "/visualisations/dvc1470/new_age/hospicu/wrapper/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Comparisons by age group",
+      "h4": "Hospital admissions remain highest for those aged 85 years and over",
+      "h5": null,
+      "text": "[Download the data](/visualisations/dvc1470/new_age/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Comparisons by age group",
+      "h4": "Hospital admissions remain highest for those aged 85 years and over",
+      "h5": null,
+      "text": "Trends in overall hospital admission rates for COVID-19-confirmed patients in England varied across age groups in the week ending 27 November 2022. Rates increased for those aged 45 years and over. However, they remained similar for groups aged 5 to 44 years and decreased for those aged under 5 years."
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Comparisons by age group",
+      "h4": "Hospital admissions remain highest for those aged 85 years and over",
+      "h5": null,
+      "text": "ICU and HDU admission rates decreased or remained low across all age groups in the week ending 27 November 2022."
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Comparisons by age group",
+      "h4": "Hospital admissions remain highest for those aged 85 years and over",
+      "h5": null,
+      "text": "Overall hospital admissions were highest for those aged 85 years and over, and lowest for children aged 5 to 14 years. This has been consistent throughout the coronavirus pandemic. ICU and HDU admission rates were highest for those aged 75 years and over, and lowest for those aged 5 to 14 years. Although overall hospital admission rates have consistently been highest in the oldest age group, the highest ICU and HDU admission rates have varied across groups aged 55 years and over."
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Comparisons by age group",
+      "h4": "Hospital admissions remain highest for those aged 85 years and over",
+      "h5": null,
+      "text": "The data used in this chart come from UKHSA's [National flu and COVID-19 surveillance reports](https://www.gov.uk/government/statistics/national-flu-and-covid-19-surveillance-reports-2022-to-2023-season)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "On this page",
+      "h3": "Comparisons by age group",
+      "h4": "Deaths remain highest for those aged 85 years and over",
+      "h5": null,
+      "text": "Deaths remain highest for those aged 85 years and over"
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Comparisons by age group",
+      "h4": "Deaths remain highest for those aged 85 years and over",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "On this page",
+      "h3": "Comparisons by age group",
+      "h4": "Deaths remain highest for those aged 85 years and over",
+      "h5": null,
+      "title": "regulars deaths age",
+      "url": "/visualisations/dvc1470/new_age/deaths/wrapper/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Comparisons by age group",
+      "h4": "Deaths remain highest for those aged 85 years and over",
+      "h5": null,
+      "text": "[Download the data](/visualisations/dvc1470/new_age/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Comparisons by age group",
+      "h4": "Deaths remain highest for those aged 85 years and over",
+      "h5": null,
+      "text": "Deaths involving COVID-19 in England remained similar for those aged under 55 years and decreased for those aged 55 years and over in the week ending 25 November 2022. There were zero deaths for groups aged 1 to 24 years. Deaths were low for those aged under 1 year and those aged 25 to 44 years."
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Comparisons by age group",
+      "h4": "Deaths remain highest for those aged 85 years and over",
+      "h5": null,
+      "text": "Deaths involving COVID-19 were highest for those aged 85 years and over (150 deaths) and lowest for groups aged under 25 years, where there was one (week ending 25 November 2022). This has been consistent throughout the coronavirus pandemic and reflects the highest overall hospital admission rates in the oldest age groups."
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Comparisons by age group",
+      "h4": "Deaths remain highest for those aged 85 years and over",
+      "h5": null,
+      "text": "The data in this chart come from our [Deaths registered weekly in England and Wales, provisional bulletin](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/latest)."
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Comparisons by age group",
+      "h4": "Deaths remain highest for those aged 85 years and over",
+      "h5": null,
+      "text": "Last updated: 6 December 2022"
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Comparisons by age group",
+      "h4": "Deaths remain highest for those aged 85 years and over",
+      "h5": null,
+      "text": "[🠕 Back to the top](#top)"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "On this page",
+      "h3": "Comparisons by region",
+      "h4": null,
+      "h5": null,
+      "text": "Comparisons by region"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "On this page",
+      "h3": "Comparisons by region",
+      "h4": "Trends in infections and hospitalisations varied across English regions, while deaths decreased in most regions",
+      "h5": null,
+      "text": "Trends in infections and hospitalisations varied across English regions, while deaths decreased in most regions"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "On this page",
+      "h3": "Comparisons by region",
+      "h4": "Trends in infections and hospitalisations varied across English regions, while deaths decreased in most regions",
+      "h5": "Estimated coronavirus (COVID-19) positivity rates, overall hospital admission rates with intensive care unit (ICU) and high dependency unit (HDU) admissions, and number of deaths, by English regions, week ending 14 October to 27 November 2022",
+      "text": "Estimated coronavirus (COVID-19) positivity rates, overall hospital admission rates with intensive care unit (ICU) and high dependency unit (HDU) admissions, and number of deaths, by English regions, week ending 14 October to 27 November 2022"
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Comparisons by region",
+      "h4": "Trends in infections and hospitalisations varied across English regions, while deaths decreased in most regions",
+      "h5": "Estimated coronavirus (COVID-19) positivity rates, overall hospital admission rates with intensive care unit (ICU) and high dependency unit (HDU) admissions, and number of deaths, by English regions, week ending 14 October to 27 November 2022",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "On this page",
+      "h3": "Comparisons by region",
+      "h4": "Trends in infections and hospitalisations varied across English regions, while deaths decreased in most regions",
+      "h5": "Estimated coronavirus (COVID-19) positivity rates, overall hospital admission rates with intensive care unit (ICU) and high dependency unit (HDU) admissions, and number of deaths, by English regions, week ending 14 October to 27 November 2022",
+      "title": "Comparison by region",
+      "url": "/visualisations/dvc1470/regionaltripletrio/wrapper/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Comparisons by region",
+      "h4": "Trends in infections and hospitalisations varied across English regions, while deaths decreased in most regions",
+      "h5": "Estimated coronavirus (COVID-19) positivity rates, overall hospital admission rates with intensive care unit (ICU) and high dependency unit (HDU) admissions, and number of deaths, by English regions, week ending 14 October to 27 November 2022",
+      "text": "[Download the data](/visualisations/dvc1470/regionaltripletrio/wrapper/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Comparisons by region",
+      "h4": "Trends in infections and hospitalisations varied across English regions, while deaths decreased in most regions",
+      "h5": "Estimated coronavirus (COVID-19) positivity rates, overall hospital admission rates with intensive care unit (ICU) and high dependency unit (HDU) admissions, and number of deaths, by English regions, week ending 14 October to 27 November 2022",
+      "text": "The infection rate increased in the West Midlands, London, the South East, and the South West and decreased in the North West in the latest week (ending 21 November 2022). Trends were uncertain in the North East, Yorkshire and The Humber, the East Midlands, and East of England."
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Comparisons by region",
+      "h4": "Trends in infections and hospitalisations varied across English regions, while deaths decreased in most regions",
+      "h5": "Estimated coronavirus (COVID-19) positivity rates, overall hospital admission rates with intensive care unit (ICU) and high dependency unit (HDU) admissions, and number of deaths, by English regions, week ending 14 October to 27 November 2022",
+      "text": "Trends in overall hospital admissions of COVID-19-confirmed patients varied across English regions in the week ending 27 November 2022. Hospital admissions increased in the North East, Yorkshire and The Humber, and the East Midlands, while they decreased in London and remained similar for all other regions. ICU and HDU admissions remained low across most regions."
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Comparisons by region",
+      "h4": "Trends in infections and hospitalisations varied across English regions, while deaths decreased in most regions",
+      "h5": "Estimated coronavirus (COVID-19) positivity rates, overall hospital admission rates with intensive care unit (ICU) and high dependency unit (HDU) admissions, and number of deaths, by English regions, week ending 14 October to 27 November 2022",
+      "text": "Deaths involving COVID-19 decreased in all English regions, except the South East where they increased, and the East of England and London where they remained similar, in the week ending 25 November 2022."
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Comparisons by region",
+      "h4": "Trends in infections and hospitalisations varied across English regions, while deaths decreased in most regions",
+      "h5": "Estimated coronavirus (COVID-19) positivity rates, overall hospital admission rates with intensive care unit (ICU) and high dependency unit (HDU) admissions, and number of deaths, by English regions, week ending 14 October to 27 November 2022",
+      "text": "There is a delay between a person becoming infected with COVID-19 and being admitted to hospital or dying, and this is reflected in the lags in trends. Deaths figures are the number of deaths registered in the time period. The number of deaths in each region will be affected by population size and do not necessarily reflect the rate of deaths."
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Comparisons by region",
+      "h4": "Trends in infections and hospitalisations varied across English regions, while deaths decreased in most regions",
+      "h5": "Estimated coronavirus (COVID-19) positivity rates, overall hospital admission rates with intensive care unit (ICU) and high dependency unit (HDU) admissions, and number of deaths, by English regions, week ending 14 October to 27 November 2022",
+      "text": "The data used in the chart come from our [Coronavirus Infection Survey](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/latest), UKHSA's [National flu and COVID-19 surveillance reports](https://www.gov.uk/government/statistics/national-flu-and-covid-19-surveillance-reports-2022-to-2023-season), and our [Deaths registered weekly in England and Wales, provisional bulletin](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/latest)."
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Comparisons by region",
+      "h4": "Trends in infections and hospitalisations varied across English regions, while deaths decreased in most regions",
+      "h5": "Estimated coronavirus (COVID-19) positivity rates, overall hospital admission rates with intensive care unit (ICU) and high dependency unit (HDU) admissions, and number of deaths, by English regions, week ending 14 October to 27 November 2022",
+      "text": "Last updated: 6 December 2022"
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Comparisons by region",
+      "h4": "Trends in infections and hospitalisations varied across English regions, while deaths decreased in most regions",
+      "h5": "Estimated coronavirus (COVID-19) positivity rates, overall hospital admission rates with intensive care unit (ICU) and high dependency unit (HDU) admissions, and number of deaths, by English regions, week ending 14 October to 27 November 2022",
+      "text": "[🠕 Back to the top](#top)"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "On this page",
+      "h3": "Winter COVID-19 and flu deaths",
+      "h4": null,
+      "h5": null,
+      "text": "Winter COVID-19 and flu deaths"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "On this page",
+      "h3": "Winter COVID-19 and flu deaths",
+      "h4": "Deaths due to COVID-19 were higher than those due to flu and pneumonia in winter 2021/22, but much lower than in 2020/21",
+      "h5": null,
+      "text": "Deaths due to COVID-19 were higher than those due to flu and pneumonia in winter 2021/22, but much lower than in 2020/21"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "On this page",
+      "h3": "Winter COVID-19 and flu deaths",
+      "h4": "Deaths due to COVID-19 were higher than those due to flu and pneumonia in winter 2021/22, but much lower than in 2020/21",
+      "h5": "Monthly deaths registered due to flu and pneumonia in December to March, England and Wales, 2001 to 2022, and deaths due to COVID-19, December to March, 2020 to 2022",
+      "text": "Monthly deaths registered due to flu and pneumonia in December to March, England and Wales, 2001 to 2022, and deaths due to COVID-19, December to March, 2020 to 2022"
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Winter COVID-19 and flu deaths",
+      "h4": "Deaths due to COVID-19 were higher than those due to flu and pneumonia in winter 2021/22, but much lower than in 2020/21",
+      "h5": "Monthly deaths registered due to flu and pneumonia in December to March, England and Wales, 2001 to 2022, and deaths due to COVID-19, December to March, 2020 to 2022",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "On this page",
+      "h3": "Winter COVID-19 and flu deaths",
+      "h4": "Deaths due to COVID-19 were higher than those due to flu and pneumonia in winter 2021/22, but much lower than in 2020/21",
+      "h5": "Monthly deaths registered due to flu and pneumonia in December to March, England and Wales, 2001 to 2022, and deaths due to COVID-19, December to March, 2020 to 2022",
+      "title": "due to involving",
+      "url": "/visualisations/dvc1945/winterdeaths_v2/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Winter COVID-19 and flu deaths",
+      "h4": "Deaths due to COVID-19 were higher than those due to flu and pneumonia in winter 2021/22, but much lower than in 2020/21",
+      "h5": "Monthly deaths registered due to flu and pneumonia in December to March, England and Wales, 2001 to 2022, and deaths due to COVID-19, December to March, 2020 to 2022",
+      "text": "[Download the data](/visualisations/dvc1945/winterdeaths_v2/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Winter COVID-19 and flu deaths",
+      "h4": "Deaths due to COVID-19 were higher than those due to flu and pneumonia in winter 2021/22, but much lower than in 2020/21",
+      "h5": "Monthly deaths registered due to flu and pneumonia in December to March, England and Wales, 2001 to 2022, and deaths due to COVID-19, December to March, 2020 to 2022",
+      "text": "During the winter of 2020/21, deaths due to both COVID-19 and flu and pneumonia exceeded those due to flu and pneumonia alone in pre-coronavirus years. In the latest winter (December 2021 to March 2022), the number of deaths with COVID-19 as the underlying cause has fallen more in line with those due to flu and pneumonia in pre-pandemic years. However, the number of deaths due to COVID-19 is still double the amount of deaths due to flu and pneumonia in the same period."
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Winter COVID-19 and flu deaths",
+      "h4": "Deaths due to COVID-19 were higher than those due to flu and pneumonia in winter 2021/22, but much lower than in 2020/21",
+      "h5": "Monthly deaths registered due to flu and pneumonia in December to March, England and Wales, 2001 to 2022, and deaths due to COVID-19, December to March, 2020 to 2022",
+      "text": "There have been considerably fewer deaths due to flu and pneumonia over the last two winters compared with previous years, with deaths due to flu and pneumonia at historic lows. Although deaths due to flu and pneumonia seem to be rising again and deaths due to COVID-19 are decreasing, deaths due to COVID-19 remain higher than deaths due to flu and pneumonia."
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Winter COVID-19 and flu deaths",
+      "h4": "Deaths due to COVID-19 were higher than those due to flu and pneumonia in winter 2021/22, but much lower than in 2020/21",
+      "h5": "Monthly deaths registered due to flu and pneumonia in December to March, England and Wales, 2001 to 2022, and deaths due to COVID-19, December to March, 2020 to 2022",
+      "text": "Infection and antibody levels, vaccination rates, restrictions and differences between COVID-19 variants all affect the data we have on COVID-19 mortality. Some of these factors also have affected flu and pneumonia deaths over the same period."
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Winter COVID-19 and flu deaths",
+      "h4": "Deaths due to COVID-19 were higher than those due to flu and pneumonia in winter 2021/22, but much lower than in 2020/21",
+      "h5": "Monthly deaths registered due to flu and pneumonia in December to March, England and Wales, 2001 to 2022, and deaths due to COVID-19, December to March, 2020 to 2022",
+      "text": "Last updated: 23 May 2022"
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Winter COVID-19 and flu deaths",
+      "h4": "Deaths due to COVID-19 were higher than those due to flu and pneumonia in winter 2021/22, but much lower than in 2020/21",
+      "h5": "Monthly deaths registered due to flu and pneumonia in December to March, England and Wales, 2001 to 2022, and deaths due to COVID-19, December to March, 2020 to 2022",
+      "text": "Read more about this in our [How coronavirus (COVID-19) compares with flu as a cause of death article](https://www.ons.gov.uk/releases/howcoronaviruscovid19compareswithfluasacauseofdeath)"
+    },
+    {
+      "type": "p",
+      "h2": "On this page",
+      "h3": "Winter COVID-19 and flu deaths",
+      "h4": "Deaths due to COVID-19 were higher than those due to flu and pneumonia in winter 2021/22, but much lower than in 2020/21",
+      "h5": "Monthly deaths registered due to flu and pneumonia in December to March, England and Wales, 2001 to 2022, and deaths due to COVID-19, December to March, 2020 to 2022",
+      "text": "[🠕 Back to the top](#top)"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Further information",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Further information"
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "\n This page provides an overview of the coronavirus (COVID-19) pandemic in the UK, bringing together data from multiple sources. Each graphic provides a link to explore the topic further."
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "To read about different data sources used in this tool see our [more information](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/moreinformationondatasourcesrelatedtocoronaviruscovid19/2020-12-11) page."
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[🠕 Back to the top](#top)"
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "\n"
+    },
+    {
+      "type": "interactive",
+      "h2": "Further information",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "Glossary",
+      "url": "/visualisations/covidgloss/covid_gloss/index.html"
+    },
+    {
+      "type": "box",
+      "h2": "Further information",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[Health.Data@ons.gov.uk](mailto:Health.Data@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:48:54.588701"
+}

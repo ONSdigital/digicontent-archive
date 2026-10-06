@@ -1,0 +1,366 @@
+{
+  "url": "https://www.ons.gov.uk/economy/environmentalaccounts/articles/doesexposuretoairpollutionincreasetheriskofdyingfromthecoronaviruscovid19/2020-08-13",
+  "title": "Does exposure to air pollution increase the risk of dying from the coronavirus (COVID-19)?",
+  "meta_description": "Our analysis measures the link between long-term exposure to dirty air and COVID-19 deaths in England.",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "Economy",
+      "href": "https://www.ons.gov.uk/economy"
+    },
+    {
+      "text": "Environmental accounts",
+      "href": "https://www.ons.gov.uk/economy/environmentalaccounts"
+    },
+    {
+      "text": "Does exposure to air pollution increase the risk of dying from the coronavirus (COVID-19)?",
+      "href": null
+    }
+  ],
+  "date_published": "2020-08-12T23:00:00.000Z",
+  "date_modified": "2020-08-12T23:00:00.000Z",
+  "lede": "Our analysis measures the link between long-term exposure to dirty air and COVID-19 deaths in England.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "13 August 2020"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The coronavirus (COVID-19) pandemic has led to a big drop in pollution levels – global carbon emissions per day were [up to 17% lower than normal](https://www.carbonbrief.org/daily-global-co2-emissions-cut-to-2006-levels-during-height-of-coronavirus-crisis) at one stage in early April, returning to levels last seen in 2006."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "However, some studies have suggested that long-term exposure to air pollution before the pandemic is associated with severe symptoms from COVID-19 and a greater risk of death."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Studies in the United States (US), Northern Italy and the Netherlands all found that a small increase in pollution exposure raises the number of COVID-19 deaths, with the most recent study in the Netherlands pointing to a rise in the death rate of up to 21%."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Our analysis examines the [impact of long-term exposure to air pollution on COVID-19 deaths in England](http://www.ons.gov.uk/economy/environmentalaccounts/methodologies/coronaviruscovid19relatedmortalityratesandtheeffectsofairpollutioninengland), with results pointing to a smaller effect than previous studies."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "What links pollution exposure and COVID-19 deaths?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "What links pollution exposure and COVID-19 deaths?"
+    },
+    {
+      "type": "p",
+      "h2": "What links pollution exposure and COVID-19 deaths?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Consistent exposure to air pollution is a known cause of breathing difficulties and other long-term conditions in the lungs and the heart."
+    },
+    {
+      "type": "p",
+      "h2": "What links pollution exposure and COVID-19 deaths?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Our data show that more than one-third (35%) of deaths involving COVID-19 in England up to the end of June had a respiratory or cardiovascular disease as the main pre-existing health condition."
+    },
+    {
+      "type": "p",
+      "h2": "What links pollution exposure and COVID-19 deaths?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We have published [detailed analysis](http://www.ons.gov.uk/economy/environmentalaccounts/methodologies/coronaviruscovid19relatedmortalityratesandtheeffectsofairpollutioninengland) showing that deaths involving COVID-19 were more common in highly polluted areas, particularly early in the pandemic."
+    },
+    {
+      "type": "p",
+      "h2": "What links pollution exposure and COVID-19 deaths?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "However, the correlation between pollution and mortality fell as deaths rose and lockdown was introduced, before levelling off in early May."
+    },
+    {
+      "type": "p",
+      "h2": "What links pollution exposure and COVID-19 deaths?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The link between early COVID-19 deaths and exposure to dirty air was partly down to the outbreak in London (where pollution levels are generally higher than the rest of the country)."
+    },
+    {
+      "type": "p",
+      "h2": "What links pollution exposure and COVID-19 deaths?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Up to the week when lockdown began (week ending 27 March 2020), 45% of COVID-19 deaths in England had occurred in the capital. By the week ending 12 June (cut-off date for this analysis), this had fallen to 18%."
+    },
+    {
+      "type": "p",
+      "h2": "What links pollution exposure and COVID-19 deaths?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "As the virus spread across the country and deaths became more evenly distributed, the correlation between air pollution exposure and COVID-19 mortality decreased."
+    },
+    {
+      "type": "p",
+      "h2": "What links pollution exposure and COVID-19 deaths?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Our analysis includes 46,471 deaths involving COVID-19 among usual residents of England between 7 March 2020 and 12 June 2020, registered by 22 June 2020."
+    },
+    {
+      "type": "p",
+      "h2": "What links pollution exposure and COVID-19 deaths?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We considered exposure to ozone, fine particulate matter (known as PM2.5), and nitrogen dioxide (NO2) and NOx. We did not account for changes in pollution levels since the pandemic began."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "What links pollution exposure and COVID-19 deaths?",
+      "h3": null,
+      "h4": "Polluted areas initially had higher rates of COVID-19 deaths, but this trend decreased as the death toll rose",
+      "h5": null,
+      "text": "Polluted areas initially had higher rates of COVID-19 deaths, but this trend decreased as the death toll rose"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "What links pollution exposure and COVID-19 deaths?",
+      "h3": null,
+      "h4": "Polluted areas initially had higher rates of COVID-19 deaths, but this trend decreased as the death toll rose",
+      "h5": "Correlation between COVID-19 deaths in England and 10-year exposure to nitrogen dioxide (NO2) and fine particulate matter (PM2.5)",
+      "text": "Correlation between COVID-19 deaths in England and 10-year exposure to nitrogen dioxide (NO2) and fine particulate matter (PM2.5)"
+    },
+    {
+      "type": "p",
+      "h2": "What links pollution exposure and COVID-19 deaths?",
+      "h3": null,
+      "h4": "Polluted areas initially had higher rates of COVID-19 deaths, but this trend decreased as the death toll rose",
+      "h5": "Correlation between COVID-19 deaths in England and 10-year exposure to nitrogen dioxide (NO2) and fine particulate matter (PM2.5)",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "What links pollution exposure and COVID-19 deaths?",
+      "h3": null,
+      "h4": "Polluted areas initially had higher rates of COVID-19 deaths, but this trend decreased as the death toll rose",
+      "h5": "Correlation between COVID-19 deaths in England and 10-year exposure to nitrogen dioxide (NO2) and fine particulate matter (PM2.5)",
+      "title": "dvc934- air pollution",
+      "url": "/visualisations/dvc934/animatedline/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "What links pollution exposure and COVID-19 deaths?",
+      "h3": null,
+      "h4": "Polluted areas initially had higher rates of COVID-19 deaths, but this trend decreased as the death toll rose",
+      "h5": "Correlation between COVID-19 deaths in England and 10-year exposure to nitrogen dioxide (NO2) and fine particulate matter (PM2.5)",
+      "text": "[Download the data](/visualisations/dvc934/datadownload/data.xlsx)"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "The effects of long-term exposure to air pollution on COVID-19 deaths appear smaller than reported in previous studies",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The effects of long-term exposure to air pollution on COVID-19 deaths appear smaller than reported in previous studies"
+    },
+    {
+      "type": "p",
+      "h2": "The effects of long-term exposure to air pollution on COVID-19 deaths appear smaller than reported in previous studies",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "While death rates have generally been higher in polluted areas, this on its own does not establish pollution exposure as a cause of COVID-19 deaths."
+    },
+    {
+      "type": "p",
+      "h2": "The effects of long-term exposure to air pollution on COVID-19 deaths appear smaller than reported in previous studies",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "To isolate the impact of air pollution, we developed a statistical model controlling for factors such as levels of deprivation, population density, public health (such as smoking rates) and pre-existing health conditions. This enables us to compare deaths among populations of similar health from the same sort of area, with the main difference being long-term exposure to air pollution."
+    },
+    {
+      "type": "p",
+      "h2": "The effects of long-term exposure to air pollution on COVID-19 deaths appear smaller than reported in previous studies",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We also controlled for ethnicity, thereby comparing deaths among populations with similar levels of ethnic diversity."
+    },
+    {
+      "type": "p",
+      "h2": "The effects of long-term exposure to air pollution on COVID-19 deaths appear smaller than reported in previous studies",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Our [previous analysis](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/coronaviruscovid19relateddeathsbyethnicgroupenglandandwales/2march2020to15may2020) suggests that a range of structural differences are resulting in higher COVID-19 death rates among people of Black, Asian and Minority Ethnicity (BAME). Air pollution exposure could be a contributing factor if it causes COVID-19 deaths, with the BAME population more likely than those of White ethnicity to live in inner city areas (that are more polluted)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "The effects of long-term exposure to air pollution on COVID-19 deaths appear smaller than reported in previous studies",
+      "h3": null,
+      "h4": "Ethnicity is strongly correlated with pollution exposure, with ethnic minorities more likely to live in polluted areas",
+      "h5": null,
+      "text": "Ethnicity is strongly correlated with pollution exposure, with ethnic minorities more likely to live in polluted areas"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "The effects of long-term exposure to air pollution on COVID-19 deaths appear smaller than reported in previous studies",
+      "h3": null,
+      "h4": "Ethnicity is strongly correlated with pollution exposure, with ethnic minorities more likely to live in polluted areas",
+      "h5": "Percentage of the population of Black, Asian and Minority Ethnicity (BAME) compared with average 10-year exposure to NO2, selected areas in England",
+      "text": "Percentage of the population of Black, Asian and Minority Ethnicity (BAME) compared with average 10-year exposure to NO2, selected areas in England"
+    },
+    {
+      "type": "p",
+      "h2": "The effects of long-term exposure to air pollution on COVID-19 deaths appear smaller than reported in previous studies",
+      "h3": null,
+      "h4": "Ethnicity is strongly correlated with pollution exposure, with ethnic minorities more likely to live in polluted areas",
+      "h5": "Percentage of the population of Black, Asian and Minority Ethnicity (BAME) compared with average 10-year exposure to NO2, selected areas in England",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "The effects of long-term exposure to air pollution on COVID-19 deaths appear smaller than reported in previous studies",
+      "h3": null,
+      "h4": "Ethnicity is strongly correlated with pollution exposure, with ethnic minorities more likely to live in polluted areas",
+      "h5": "Percentage of the population of Black, Asian and Minority Ethnicity (BAME) compared with average 10-year exposure to NO2, selected areas in England",
+      "title": "Scatter plot with voronoi and zoom",
+      "url": "/visualisations/dvc934/fig9/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "The effects of long-term exposure to air pollution on COVID-19 deaths appear smaller than reported in previous studies",
+      "h3": null,
+      "h4": "Ethnicity is strongly correlated with pollution exposure, with ethnic minorities more likely to live in polluted areas",
+      "h5": "Percentage of the population of Black, Asian and Minority Ethnicity (BAME) compared with average 10-year exposure to NO2, selected areas in England",
+      "text": "[Download the data](/visualisations/dvc934/datadownload/fig9.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "The effects of long-term exposure to air pollution on COVID-19 deaths appear smaller than reported in previous studies",
+      "h3": null,
+      "h4": "Ethnicity is strongly correlated with pollution exposure, with ethnic minorities more likely to live in polluted areas",
+      "h5": "Percentage of the population of Black, Asian and Minority Ethnicity (BAME) compared with average 10-year exposure to NO2, selected areas in England",
+      "text": "Ultimately, our analysis is inconclusive."
+    },
+    {
+      "type": "p",
+      "h2": "The effects of long-term exposure to air pollution on COVID-19 deaths appear smaller than reported in previous studies",
+      "h3": null,
+      "h4": "Ethnicity is strongly correlated with pollution exposure, with ethnic minorities more likely to live in polluted areas",
+      "h5": "Percentage of the population of Black, Asian and Minority Ethnicity (BAME) compared with average 10-year exposure to NO2, selected areas in England",
+      "text": "Without controlling for ethnicity, we find that long-term exposure to fine particulate matter (PM2.5) could increase the risk of contracting and dying from COVID-19 by up to 7% (comparable with results from a [US study](https://www.medrxiv.org/content/10.1101/2020.04.05.20054502v2))."
+    },
+    {
+      "type": "p",
+      "h2": "The effects of long-term exposure to air pollution on COVID-19 deaths appear smaller than reported in previous studies",
+      "h3": null,
+      "h4": "Ethnicity is strongly correlated with pollution exposure, with ethnic minorities more likely to live in polluted areas",
+      "h5": "Percentage of the population of Black, Asian and Minority Ethnicity (BAME) compared with average 10-year exposure to NO2, selected areas in England",
+      "text": "However, when controlling for ethnicity, air pollution exposure has no statistically significant impact on COVID-19 deaths."
+    },
+    {
+      "type": "p",
+      "h2": "The effects of long-term exposure to air pollution on COVID-19 deaths appear smaller than reported in previous studies",
+      "h3": null,
+      "h4": "Ethnicity is strongly correlated with pollution exposure, with ethnic minorities more likely to live in polluted areas",
+      "h5": "Percentage of the population of Black, Asian and Minority Ethnicity (BAME) compared with average 10-year exposure to NO2, selected areas in England",
+      "text": "As air pollution is just one of many factors that could be driving disproportionate outcomes for minority ethnic groups, the increased risk of dying from COVID-19 (found when ethnicity is not controlled for) is likely to be an overestimate of the true effect."
+    },
+    {
+      "type": "p",
+      "h2": "The effects of long-term exposure to air pollution on COVID-19 deaths appear smaller than reported in previous studies",
+      "h3": null,
+      "h4": "Ethnicity is strongly correlated with pollution exposure, with ethnic minorities more likely to live in polluted areas",
+      "h5": "Percentage of the population of Black, Asian and Minority Ethnicity (BAME) compared with average 10-year exposure to NO2, selected areas in England",
+      "text": "A [recent study of 400 COVID-19 patients admitted to a Birmingham hospital](https://www.researchsquare.com/article/rs-35617/v1) said that BAME patients were “more likely to be admitted from regions of highest air pollution, housing quality and household overcrowding deprivation”."
+    },
+    {
+      "type": "p",
+      "h2": "The effects of long-term exposure to air pollution on COVID-19 deaths appear smaller than reported in previous studies",
+      "h3": null,
+      "h4": "Ethnicity is strongly correlated with pollution exposure, with ethnic minorities more likely to live in polluted areas",
+      "h5": "Percentage of the population of Black, Asian and Minority Ethnicity (BAME) compared with average 10-year exposure to NO2, selected areas in England",
+      "text": "[Our approach in this study](http://www.ons.gov.uk/economy/environmentalaccounts/methodologies/coronaviruscovid19relatedmortalityratesandtheeffectsofairpollutioninengland) was not sufficient to pull all these factors apart. Achieving this is likely to require highly detailed individual-based modelling."
+    },
+    {
+      "type": "p",
+      "h2": "The effects of long-term exposure to air pollution on COVID-19 deaths appear smaller than reported in previous studies",
+      "h3": null,
+      "h4": "Ethnicity is strongly correlated with pollution exposure, with ethnic minorities more likely to live in polluted areas",
+      "h5": "Percentage of the population of Black, Asian and Minority Ethnicity (BAME) compared with average 10-year exposure to NO2, selected areas in England",
+      "text": "In this study, we have only been able to examine air quality and COVID-19 deaths at the population level, based on the availability of existing data. At this level, we have to make assumptions such as consistent exposure to pollution across a 1km grid square. In reality, exposure could vary from one end of a street to another, and individual exposure is affected by where someone works as well as where they live."
+    },
+    {
+      "type": "p",
+      "h2": "The effects of long-term exposure to air pollution on COVID-19 deaths appear smaller than reported in previous studies",
+      "h3": null,
+      "h4": "Ethnicity is strongly correlated with pollution exposure, with ethnic minorities more likely to live in polluted areas",
+      "h5": "Percentage of the population of Black, Asian and Minority Ethnicity (BAME) compared with average 10-year exposure to NO2, selected areas in England",
+      "text": "To disentangle factors such as pollution and ethnicity, and their contribution to COVID-19 mortality, we would need to identify detailed characteristics of the individuals who have died from COVID-19. While we hope to publish this kind of analysis in future, the data and modelling required take much longer to put together."
+    },
+    {
+      "type": "box",
+      "h2": "The effects of long-term exposure to air pollution on COVID-19 deaths appear smaller than reported in previous studies",
+      "h3": null,
+      "h4": "Ethnicity is strongly correlated with pollution exposure, with ethnic minorities more likely to live in polluted areas",
+      "h5": "Percentage of the population of Black, Asian and Minority Ethnicity (BAME) compared with average 10-year exposure to NO2, selected areas in England",
+      "box_h2": "You might also be interested in",
+      "box_h3": null,
+      "box_text": "",
+      "box_items": [
+        "[One in eight British households has no garden](https://www.ons.gov.uk/economy/environmentalaccounts/articles/oneineightbritishhouseholdshasnogarden/2020-05-14)",
+        "[Coronavirus (COVID-19) related deaths by ethnic group, England and Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/coronaviruscovid19relateddeathsbyethnicgroupenglandandwales/2march2020to15may2020)"
+      ]
+    },
+    {
+      "type": "box",
+      "h2": "The effects of long-term exposure to air pollution on COVID-19 deaths appear smaller than reported in previous studies",
+      "h3": null,
+      "h4": "Ethnicity is strongly correlated with pollution exposure, with ethnic minorities more likely to live in polluted areas",
+      "h5": "Percentage of the population of Black, Asian and Minority Ethnicity (BAME) compared with average 10-year exposure to NO2, selected areas in England",
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "Adam Dutton\n[natural.capital.team@ons.gov.uk](mailto:natural.capital.team@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:47:48.951059"
+}

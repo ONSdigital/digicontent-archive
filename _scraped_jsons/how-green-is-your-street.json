@@ -1,0 +1,465 @@
+{
+  "url": "https://www.ons.gov.uk/economy/environmentalaccounts/articles/howgreenisyourstreet/2018-11-19",
+  "title": "How green is your street?",
+  "meta_description": "Have you ever wondered how green your street is compared with your neighbourhood, or your city? The Data Science Campus at Office for National Statistics is experimenting with a new way of analysing how green cities are.",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "Economy",
+      "href": "https://www.ons.gov.uk/economy"
+    },
+    {
+      "text": "Environmental accounts",
+      "href": "https://www.ons.gov.uk/economy/environmentalaccounts"
+    },
+    {
+      "text": "How green is your street?",
+      "href": null
+    }
+  ],
+  "date_published": "2018-11-19T00:00:00.000Z",
+  "date_modified": "2018-11-19T00:00:00.000Z",
+  "lede": "Have you ever wondered how green your street is compared with your neighbourhood, or your city? The Data Science Campus at Office for National Statistics is experimenting with a new way of analysing how green cities are.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "19 November 2018"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Have you ever wondered how green your street is compared with your neighbourhood, or your city?"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "\n\nHow do we know how green a street is?\n\nThe percentage of greenery in a given street was calculated using Google Streetview images and assigning a category to every pixel.\n\nCategories include vegetation, cars, pedestrians, buildings, and sky.\n\nFor more information, [read the technical report by the Data Science Campus](https://datasciencecampus.ons.gov.uk/mapping-the-urban-forest-at-street-level/).",
+      "box_items": null
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The Data Science Campus at Office for National Statistics is experimenting with a new way of assessing how green cities are and initial results from Cardiff and Newport show the Welsh capital is marginally greener than its neighbouring city."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This unique piece of research – which quantifies trees and hedges along the road as seen from Google Streetview cars – gives a percentage value for each side of a 10 metre section of road."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The analysis is planned to be rolled out across the UK, informing our understanding of the environment and its value."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Not only are more trees and green spaces aesthetically desirable, but urban greenery can help improve health by removing air pollution. Vegetation also helps to cool cities down, combating the common issue of urban heat islands where buildings and roads radiate heat."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Across Cardiff, on average, the streets have 13% greenery visible from the road. In Newport, the average street has 12% greenery."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": null,
+      "h4": "Explore the data using our map, or read on to find out more about each city",
+      "h5": null,
+      "text": "Explore the data using our map, or read on to find out more about each city"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Explore the data using our map, or read on to find out more about each city",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": "Explore the data using our map, or read on to find out more about each city",
+      "h5": null,
+      "title": "Explore the data using our map, or read on to find out more about each city",
+      "url": "/visualisations/dvc562/urbanforestmap/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Explore the data using our map, or read on to find out more about each city",
+      "h5": null,
+      "text": "Please note: This interactive approach is experimental. It may not be fully reliable across all devices."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "Explore the data using our map, or read on to find out more about each city",
+      "h5": null,
+      "text": "This image shows the left and right section of Cathedral Road in Cardiff, with vegetation values. Street View images, © Google"
+    },
+    {
+      "type": "image",
+      "h2": null,
+      "h3": null,
+      "h4": "Explore the data using our map, or read on to find out more about each city",
+      "h5": null,
+      "src": "/resource?uri=/economy/environmentalaccounts/articles/howgreenisyourstreet/2018-11-19/a0965908.png",
+      "alt": "This image shows the left and right section of Cathedral Road in Cardiff, with vegetation values"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Which areas of Cardiff and Newport are greenest?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Which areas of Cardiff and Newport are greenest?"
+    },
+    {
+      "type": "p",
+      "h2": "Which areas of Cardiff and Newport are greenest?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Despite Cardiff being marginally greener than its smaller counterpart, only 4 out of 37 Cardiff parishes could be said to be relatively green (where roads average 30% or more greenery), while 14 could be said to be not very green at all (less than 15% vegetation)."
+    },
+    {
+      "type": "p",
+      "h2": "Which areas of Cardiff and Newport are greenest?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In Newport, 4 out of 17 parishes could be said to be relatively green, just like Cardiff, while 4 parishes could be said to be not very green at all."
+    },
+    {
+      "type": "p",
+      "h2": "Which areas of Cardiff and Newport are greenest?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In Cardiff, Old St Mellons is the area with the greenest streets. In this area, 7 out of 41 roads are relatively green, while 18 would count as not very green at all. On average, there is 35% vegetation visible at ground level on these streets. It’s followed by Lisvane with 32% greenery, and then Pontprennau, where the streets have, on average, 29% vegetation."
+    },
+    {
+      "type": "p",
+      "h2": "Which areas of Cardiff and Newport are greenest?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Perhaps unsurprising to people who know the city, Riverside is the least green area. In Riverside, only 1 out of 73 roads would qualify as being relatively green, with the majority of roads having no vegetation (less than 1%). Cathays, Splott and Adamsdown follow Riverside, and all have less than 10% vegetation, on average, along their streets. These areas are mostly highly built-up areas with very few public green spaces, trees and shrubs. Roath is fifth lowest, with 10% vegetation along the streets, on average."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Which areas of Cardiff and Newport are greenest?",
+      "h3": null,
+      "h4": "Distribution of vegetation in Cardiff parishes",
+      "h5": null,
+      "text": "Distribution of vegetation in Cardiff parishes"
+    },
+    {
+      "type": "p",
+      "h2": "Which areas of Cardiff and Newport are greenest?",
+      "h3": null,
+      "h4": "Distribution of vegetation in Cardiff parishes",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Which areas of Cardiff and Newport are greenest?",
+      "h3": null,
+      "h4": "Distribution of vegetation in Cardiff parishes",
+      "h5": null,
+      "title": "Distribution of vegetation in Cardiff parishes",
+      "url": "/visualisations/dvc562/urbanforesthisto/smallhistocardiff/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "Which areas of Cardiff and Newport are greenest?",
+      "h3": null,
+      "h4": "Distribution of vegetation in Cardiff parishes",
+      "h5": null,
+      "text": "In Newport, Langstone is the area with the greenest streets. In Langstone, 18 roads out of 43 are at least relatively green, while only 11 could be said to be not very green at all. On average, the streets in this area of Newport have 35% vegetation visible at ground level. Langstone is followed by Graig with 25% greenery, and then Rogerstone where the streets have, on average, 24% vegetation."
+    },
+    {
+      "type": "p",
+      "h2": "Which areas of Cardiff and Newport are greenest?",
+      "h3": null,
+      "h4": "Distribution of vegetation in Cardiff parishes",
+      "h5": null,
+      "text": "There is just one area where there is less than 10% vegetation on the streets – Victoria. Here, 80 out of 86 streets would count as not very green. After Victoria, St Julians and Stow Hill have 11% vegetation, and Pillgwenlly has, on average, 12% vegetation."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Which areas of Cardiff and Newport are greenest?",
+      "h3": null,
+      "h4": "Distribution of vegetation in Newport parishes",
+      "h5": null,
+      "text": "Distribution of vegetation in Newport parishes"
+    },
+    {
+      "type": "p",
+      "h2": "Which areas of Cardiff and Newport are greenest?",
+      "h3": null,
+      "h4": "Distribution of vegetation in Newport parishes",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Which areas of Cardiff and Newport are greenest?",
+      "h3": null,
+      "h4": "Distribution of vegetation in Newport parishes",
+      "h5": null,
+      "title": "Distribution of vegetation in Newport parishes",
+      "url": "/visualisations/dvc562/urbanforesthisto/smallhistonewport/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Which areas of Cardiff and Newport are greenest?",
+      "h3": null,
+      "h4": "Explore the levels of vegetation in your parish in Newport or Cardiff",
+      "h5": null,
+      "text": "Explore the levels of vegetation in your parish in Newport or Cardiff"
+    },
+    {
+      "type": "p",
+      "h2": "Which areas of Cardiff and Newport are greenest?",
+      "h3": null,
+      "h4": "Explore the levels of vegetation in your parish in Newport or Cardiff",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Which areas of Cardiff and Newport are greenest?",
+      "h3": null,
+      "h4": "Explore the levels of vegetation in your parish in Newport or Cardiff",
+      "h5": null,
+      "title": "Explore the levels of vegetation in your parish in Newport or Cardiff",
+      "url": "/visualisations/dvc562/urbanforesthisto/histogramselect/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "The greenest streets in Cardiff",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The greenest streets in Cardiff"
+    },
+    {
+      "type": "p",
+      "h2": "The greenest streets in Cardiff",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Out of 3,219 streets in Cardiff, just 44 of them have 50% or more vegetation at street level."
+    },
+    {
+      "type": "p",
+      "h2": "The greenest streets in Cardiff",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Looking closer, at street level, Tŷ-Draw Road in Pontprennau is the greenest street in the city."
+    },
+    {
+      "type": "p",
+      "h2": "The greenest streets in Cardiff",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "On the road, which is flanked on one side by fields and trees, and home to Corpus Christi High School, an average of 87% of your field of vision as a pedestrian would be taken up by vegetation and greenery."
+    },
+    {
+      "type": "p",
+      "h2": "The greenest streets in Cardiff",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Tŷ-Draw Road is closely followed by St Mellons Road, where, on average, there’s 83% vegetation visible from the road. It is worth noting that this is another long country road in the same area – the roads actually lead onto each other."
+    },
+    {
+      "type": "p",
+      "h2": "The greenest streets in Cardiff",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Old Mill Road in the leafy suburb of Lisvane is third on the list, with 81% greenery, followed by Jindabyne Court (off Druidstone Road) in Old St Mellons and Wild Gardens Road, with 81% and 77% vegetation respectively. With the exception of Wild Gardens Road, which separates two parts of Roath Park with no houses, these roads are lined with dwellings that tend to be detached homes with front gardens."
+    },
+    {
+      "type": "p",
+      "h2": "The greenest streets in Cardiff",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "On the other end of the scale, the road with the least amount of greenery along it is Scott Road, which is in the centre of the city, right near the Principality Stadium and surrounded by high buildings and concrete on all sides. It has exactly 0% vegetation along it."
+    },
+    {
+      "type": "p",
+      "h2": "The greenest streets in Cardiff",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Most of the streets that feature near the bottom of the scale when it comes to vegetation are on industrial sites such as near the docks, or on industrial estates that feature warehouse units. But some streets where people live, like Devon Street, Warwick Street and Chester Street – all in Grangetown – have less than 1% vegetation along them."
+    },
+    {
+      "type": "p",
+      "h2": "The greenest streets in Cardiff",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Overall, the city becomes greener the further north you travel."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "The greenest streets in Newport",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The greenest streets in Newport"
+    },
+    {
+      "type": "p",
+      "h2": "The greenest streets in Newport",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Out of 1,603 streets in Newport, only 30 of them have 50% or more vegetation at street level."
+    },
+    {
+      "type": "p",
+      "h2": "The greenest streets in Newport",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Looking closer, at street level, Robin Hood Lane in Langstone is the greenest street in the city."
+    },
+    {
+      "type": "p",
+      "h2": "The greenest streets in Newport",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Robin Hood Lane is a short country road that is flanked on both sides by fields and trees and other greenery. If you were walking along the road, 77% of your field of vision would be taken up by vegetation."
+    },
+    {
+      "type": "p",
+      "h2": "The greenest streets in Newport",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "It is followed by Mill Lane (also known as Watery Lane), where, on average, there’s 73% vegetation visible from the road. This is another country road – somewhat longer – on the outskirts of Newport."
+    },
+    {
+      "type": "p",
+      "h2": "The greenest streets in Newport",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Stow Park Gardens and Stow Park Circle – which are linked together, and situated in Gaer – are third and fourth, both with 72% vegetation along the roads. Langstone Court Road is the fifth most green street with 71% vegetation. With the exception of Stow Park Gardens and Stow Park Circle, all of the top five streets in Newport are within the suburban area of Langstone."
+    },
+    {
+      "type": "p",
+      "h2": "The greenest streets in Newport",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Looking at streets that have very little greenery, there are 72 roads with less than 1% greenery along them. Among those at the bottom are Wallis Street, Usk Street and Baneswell Road, with just 0.08% greenery."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Why are we doing this?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Why are we doing this?"
+    },
+    {
+      "type": "p",
+      "h2": "Why are we doing this?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This work forms part of an innovative research programme which aims to make use of new data sources, and cutting edge Data Science techniques to help us better understand the environment and its value. For more detail about this work and future plans, [contact the Data Science Campus](https://datasciencecampus.ons.gov.uk/)."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Notes",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Notes"
+    },
+    {
+      "type": "p",
+      "h2": "Notes",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "If you do not see your area in the interactives, it is because there are not enough roads for us to fairly compare distribution. We have set a minumum of 10 roads in each area, to make it a fair comparison."
+    },
+    {
+      "type": "box",
+      "h2": "Notes",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[datasciencecampus@ons.gov.uk](mailto:datasciencecampus@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:47:34.422772"
+}

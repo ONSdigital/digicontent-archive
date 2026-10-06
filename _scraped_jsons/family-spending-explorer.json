@@ -1,0 +1,139 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/expenditure/articles/familyspendingexplorer/2020-03-26",
+  "title": "Family spending explorer",
+  "meta_description": "Use our interactive family spending tree map to find out more about how families in the UK spend their money every week.",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Personal and household finances",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances"
+    },
+    {
+      "text": "Expenditure",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/expenditure"
+    },
+    {
+      "text": "Family spending explorer",
+      "href": null
+    }
+  ],
+  "date_published": "2020-03-26T00:00:00.000Z",
+  "date_modified": "2020-03-26T00:00:00.000Z",
+  "lede": "Use our interactive family spending tree map to find out more about how families in the UK spend their money every week.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "How much do you spend on food, utility bills, and transport every week? You can compare yourself with the average family in the UK using our interactive. Find out how much families spend on things like transport, food and non-alcoholic drinks, education, health, and other things."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Housing costs might seem lower than you expect. That is because mortgage payments, Council Tax and Northern Ireland rates are not counted in this definition of household spending. Rental payments are also averaged out across all households, regardless of whether they own or rent their home."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Click in each category to see a more detailed breakdown of spending."
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "Family spending treemap - dvc565",
+      "url": "/visualisations/dvc773/treemap/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Mortgage interest payments, Council Tax and Northern Ireland rates are not included in Housing (net) fuel and power."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "text": "Components of spending based on fewer than 10 recording households, or where the average rounds to 0, do not appear in the tree map."
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "box_h2": "Related",
+      "box_h3": null,
+      "box_text": "Statistical bulletin | Released on 11 June 2026\n\nAverage weekly household expenditure on goods and services in the UK, by age, income, economic status, socio-economic class, household composition and region.",
+      "box_items": [
+        "[Family spending in the UK](/peoplepopulationandcommunity/personalandhouseholdfinances/expenditure/bulletins/familyspendingintheuk/april2024tomarch2025) Statistical bulletin | Released on 11 June 2026 Average weekly household expenditure on goods and services in the UK, by age, income, economic status, socio-economic class, household composition and region."
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "box_h2": "You might also be interested in",
+      "box_h3": null,
+      "box_text": "",
+      "box_items": [
+        "[Gender pay gap explorer](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/genderpaygapexplorer/2019-06-07)",
+        "[Baby names explorer](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/articles/babynamesexplorer/2019-06-07)",
+        "[Life expectancy calculator](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/articles/lifeexpectancycalculator/2019-06-07)",
+        "[Other ONS interactive tools](https://www.ons.gov.uk/search?q=interactivetool)"
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": "Notes:",
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[wealth.and.assets.survey@ons.gov.uk](mailto:wealth.and.assets.survey@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:46:30.155288"
+}

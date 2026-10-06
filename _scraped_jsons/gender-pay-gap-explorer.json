@@ -1,0 +1,202 @@
+{
+  "url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/genderpaygapexplorer/2019-06-07",
+  "title": "Gender pay gap explorer",
+  "meta_description": "Use our interactive tool to find out the gender pay gap for a range of different jobs, and the percentage of men and women doing those jobs. There are breakdowns available for full- and part-time employees.",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "Employment and labour market",
+      "href": "https://www.ons.gov.uk/employmentandlabourmarket"
+    },
+    {
+      "text": "People in work",
+      "href": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork"
+    },
+    {
+      "text": "Earnings and working hours",
+      "href": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours"
+    },
+    {
+      "text": "Gender pay gap explorer",
+      "href": null
+    }
+  ],
+  "date_published": "2019-06-06T23:00:00.000Z",
+  "date_modified": "2019-06-06T23:00:00.000Z",
+  "lede": "Use our interactive tool to find out the gender pay gap for your job.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The gender pay gap is the percentage difference between men's and women’s median hourly earnings."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "It is not a measure of the difference in pay between men and women doing the same job. It is affected by things like the proportion of men and women working part-time, and the proportion of men and women working in different industries or occupations."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Use our interactive tool to find out the gender pay gap for your job, and the proportion of men and women who work in your field. Select the different tabs to see data broken down for full- and part-time employees."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "What is the gender pay gap for your job?",
+      "url": "/visualisations/dvc2758/fig05-explorer/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "Estimates for 2022 data are provisional."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "Employees are on adult rates, pay is unaffected by absence unless furloughed."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "Full-time is defined as employees working more than 30 paid hours per week (or 25 or more for the teaching professions)."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "Figures represent the difference between men's and women's hourly earnings as a percentage of men's hourly earnings."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "Some occupations can be included in more than one grouping."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "Some data is unavailable as considered unreliable (small sample size)."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "The quality of earning estimates vary by occupation - quality measures are available in the accompanying published data tables."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "Please note that the percentages in this visual may differ to the figures in the accompanying published data tables by 0.1% due to the effects of rounding. When conducting any analyses, please use the data from the tables."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "[Download the data (XLSX, 204KB)](/visualisations/dvc2758/fig05-explorer/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "Last updated: 31 October 2023"
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "box_h2": "Related",
+      "box_h3": null,
+      "box_text": "Statistical bulletin | Released on 23 October 2025\n\nDifferences in pay between women and men by age, region, full-time and part-time, and occupation.",
+      "box_items": [
+        "[Gender pay gap in the UK](/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/genderpaygapintheuk/2025) Statistical bulletin | Released on 23 October 2025 Differences in pay between women and men by age, region, full-time and part-time, and occupation."
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "box_h2": "You might also be interested in",
+      "box_h3": null,
+      "box_text": "",
+      "box_items": [
+        "[Cost of living latest insights tool](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/costofliving/latestinsights)",
+        "[Life expectancy calculator](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/articles/lifeexpectancycalculator/2019-06-07)",
+        "[Baby names explorer](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/articles/babynamesexplorer/2019-06-07)"
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[earnings@ons.gov.uk](mailto:earnings@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:48:48.785885"
+}

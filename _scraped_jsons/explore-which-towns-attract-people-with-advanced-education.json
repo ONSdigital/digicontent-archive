@@ -1,0 +1,164 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/articles/explorewhichtownsattractpeoplewithadvancededucation/2024-03-15",
+  "title": "Explore: Which towns attract people with advanced education?",
+  "meta_description": "Discover how many people with post-16 qualifications stayed in or returned to the towns they grew up in. ",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Education and childcare",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare"
+    },
+    {
+      "text": "Explore: Which towns attract people with advanced education?",
+      "href": null
+    }
+  ],
+  "date_published": "2024-03-15T00:00:00.000Z",
+  "date_modified": "2024-03-15T00:00:00.000Z",
+  "lede": "Discover how many people with post-16 qualifications stayed in or returned to the English towns they grew up in.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "15 March 2024"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "People with more education [are generally more likely to move away from their hometown](https://ifs.org.uk/news/higher-education-enables-graduates-move-places-better-career-prospects-leads-brain-drain-north). This is important because [people with more qualifications tend to have higher earning potential](https://www.gov.uk/government/publications/labour-market-value-of-higher-and-further-education-qualifications-a-summary-report/labour-market-value-of-higher-and-further-education-qualifications-a-summary-report) – if a town does not retain people once they become more qualified, it could suggest a lack of suitable local jobs, or a weaker local economy."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We have explored which English towns and cities ([built-up areas](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/townsandcitiescharacteristicsofbuiltupareasenglandandwales/census2021#built-up-areas)) retain and attract people with higher levels of education, and which tend to lose them. We do this using data related to all state-school pupils in England who sat their GCSEs between the 2007 to 2008 and 2010 to 2011 school years."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We have looked at how many of these pupils went on to complete a degree or other post-16 education ([levels 3 to 5 as defined by the Office of Qualifications and Examinations Regulation](https://www.gov.uk/what-different-qualification-levels-mean/list-of-qualification-levels)), and whether, in the 2018 to 2019 academic year, those people lived in the same town that they were living in when they sat their GCSEs."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The tool below lets you explore how attractive your nearest town or city is for people with advanced qualifications, and how it compares with other English areas."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In general, those with degree-level qualifications were more likely to leave their hometown than those with other advanced qualifications. Young people in both groups were more likely to move away from small towns than cities."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "You can read more about the trends seen across England as a whole in our analysis article [Geographical mobility of young people across English towns and cities, March 2024.](https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/articles/geographicalmobilityofyoungpeopleacrossenglishtownsandcities/march2024)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": null,
+      "box_h3": null,
+      "box_text": "Notice, 19 March 2024: In a previous version of this tool, some towns with local universities whose main campus sat outside the boundary of the built-up area were listed as not having a university. An update has been made to change this. Please note, the tool only includes a university's main campus location.\n",
+      "box_items": null
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "Where did students from your town end up after gaining qualifications?",
+      "url": "/visualisations/dvc2734/build/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Download the data [XLSX, 342KB]](/visualisations/dvc2734/build/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This analysis builds on previous work looking at [the educational attainment of pupils in English towns](https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/articles/whydochildrenandyoungpeopleinsmallertownsdobetteracademicallythanthoseinlargertowns/2023-07-25). This found that those who grew up in smaller towns and those with lower levels of deprivation tended to do better academically."
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "You might also be interested in",
+      "box_h3": null,
+      "box_text": "",
+      "box_items": [
+        "[Geographical mobility of young people across English towns and cities: March 2024](https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/articles/geographicalmobilityofyoungpeopleacrossenglishtownsandcities/march2024)",
+        "[Why do children and young people in smaller towns do better academically than those in larger towns?](https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/articles/whydochildrenandyoungpeopleinsmallertownsdobetteracademicallythanthoseinlargertowns/2023-07-25)",
+        "[Exploring educational attainment and internal migration within English Travel to Work Areas: 2002 to 2019](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/migrationwithintheuk/articles/exploringeducationalattainmentandinternalmigrationwithinenglishtraveltoworkareas/2002to2019)",
+        "[Why free school meal recipients earn less than their peers](https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/articles/whyfreeschoolmealrecipientsearnlessthantheirpeers/2022-08-04)"
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "Digital content\n[digitalcontent@ons.gov.uk](mailto:digitalcontent@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:46:53.27184"
+}

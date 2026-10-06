@@ -1,0 +1,635 @@
+{
+  "url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/whichjobscanbedonefromhome/2020-07-21",
+  "title": "Which jobs can be done from home?",
+  "meta_description": "Analysis of which occupations are likely to be able to be done from home, using data from a United States survey (carried out before coronavirus) of characteristics of different jobs.",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "Employment and labour market",
+      "href": "https://www.ons.gov.uk/employmentandlabourmarket"
+    },
+    {
+      "text": "People in work",
+      "href": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork"
+    },
+    {
+      "text": "Employment and employee types",
+      "href": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes"
+    },
+    {
+      "text": "Which jobs can be done from home?",
+      "href": null
+    }
+  ],
+  "date_published": "2020-07-20T23:00:00.000Z",
+  "date_modified": "2020-07-20T23:00:00.000Z",
+  "lede": "During the coronavirus (COVID-19) pandemic, government advice has said people in the UK should work from home if possible. This is easier for some workers than others, and jobs that pay more are more likely to be done remotely.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "21 July 2020"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Employees in higher-paying jobs are more likely to be able to work from home, according to Office for National Statistics (ONS) analysis of how adaptable jobs are to remote working."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Since the start of the pandemic, many employees have been unable to work because of restrictions imposed to control COVID-19. But in April 2020, in the middle of lockdown, [nearly half (47%) of people in employment did at least some of their work from home](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/coronavirusandhomeworkingintheuk/april2020)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Using data from a [United States (US) survey of characteristics](https://www.onetcenter.org/database.html#individual-files) of different jobs (carried out before the pandemic), we can identify five factors that are associated with being less able to work from home. These are:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "whether the job has to be carried out in a specific location"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "amount of face-to-face interaction with others"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "exposure to burns, infections and other hazards"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "whether the job requires physical activity"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "use of tools or protective equipment"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "One additional element – not fully reflected by the US survey data and therefore in these factors – that increases the likelihood of working from home is the extent to which digital communication is integrated into the workplace, and whether employees have the technology they need to work from home. This was explored in [Technology intensity and homeworking in the UK](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/technologyintensityandhomeworkingintheuk/2020-05-01)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "While there are some differences in working practices between the US and the UK, combining these factors and applying them to the UK workforce allows us to estimate how likely it is to be able to work from home in different occupations."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Workers who earn more tend to work in jobs with more scope for home working",
+      "h4": null,
+      "h5": null,
+      "text": "Workers who earn more tend to work in jobs with more scope for home working"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Workers who earn more tend to work in jobs with more scope for home working",
+      "h4": null,
+      "h5": null,
+      "text": "Employees who earn higher hourly wages are more likely to be able to work from home."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Workers who earn more tend to work in jobs with more scope for home working",
+      "h4": null,
+      "h5": null,
+      "text": "Chief executives and senior officials, whose median earnings are £44.08 an hour, are among those most able to work remotely, as are financial managers and directors (£31.38) and programmers and software development professionals (£21.97)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Workers who earn more tend to work in jobs with more scope for home working",
+      "h4": null,
+      "h5": null,
+      "text": "Gardeners, whose median hourly earnings are £10.27, are very unlikely to be able to work from home, as are carpenters and joiners (£13.18) and elementary construction occupations such as labourers (£10.25)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Workers who earn more tend to work in jobs with more scope for home working",
+      "h4": null,
+      "h5": null,
+      "text": "The median earnings of employees in the 20% of the workforce most likely to be able to work from home is £19.01, compared with £11.28 for workers in the 20% of workers in jobs least likely to be adaptable to home working."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Workers who earn more tend to work in jobs with more scope for home working",
+      "h4": "Jobs that pay higher hourly wages are more likely to be adaptable to working from home",
+      "h5": null,
+      "text": "Jobs that pay higher hourly wages are more likely to be adaptable to working from home"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Workers who earn more tend to work in jobs with more scope for home working",
+      "h4": "Jobs that pay higher hourly wages are more likely to be adaptable to working from home",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Workers who earn more tend to work in jobs with more scope for home working",
+      "h4": "Jobs that pay higher hourly wages are more likely to be adaptable to working from home",
+      "h5": null,
+      "title": "Jobs that pay higher hourly wages are more likely to be adaptable to working from home",
+      "url": "/visualisations/dvc890/chart1/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Frontline workers among least likely to work from home",
+      "h4": null,
+      "h5": null,
+      "text": "Frontline workers among least likely to work from home"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Frontline workers among least likely to work from home",
+      "h4": null,
+      "h5": null,
+      "text": "According to our analysis, professional occupations such as actuaries, economists and statisticians are most likely to be able to be done from home. Jobs like these, alongside management, technical and administrative jobs, involve relatively little face-to-face contact, physical activity or use of tools or equipment."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Frontline workers among least likely to work from home",
+      "h4": null,
+      "h5": null,
+      "text": "By contrast, elementary occupations (including cleaners, waiting staff and security guards) together with process, plant and machine operatives, are much less likely to be able to work remotely."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Frontline workers among least likely to work from home",
+      "h4": null,
+      "h5": null,
+      "text": "Among the jobs least likely to be able to work from home are also frontline workers, many of which have been designated as “key workers” during the coronavirus pandemic. These include police officers, paramedics, and – scoring lowest on the scale – firefighters."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Frontline workers among least likely to work from home",
+      "h4": "Professional occupations are most likely to be adaptable to home working",
+      "h5": null,
+      "text": "Professional occupations are most likely to be adaptable to home working"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Frontline workers among least likely to work from home",
+      "h4": "Professional occupations are most likely to be adaptable to home working",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Frontline workers among least likely to work from home",
+      "h4": "Professional occupations are most likely to be adaptable to home working",
+      "h5": null,
+      "title": "Professional occupations are most likely to be adaptable to home working",
+      "url": "/visualisations/dvc890/chart2/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Frontline workers among least likely to work from home",
+      "h4": "Professional occupations are most likely to be adaptable to home working",
+      "h5": null,
+      "text": "Among the jobs least likely to be able to be carried out from home, the main factor contributing to the score was the use of tools and specialist equipment. The exposure and physical activities factors generally also contributed more than location and interaction intensity."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Workers least likely to be able to work from home are mostly men",
+      "h4": null,
+      "h5": null,
+      "text": "Workers least likely to be able to work from home are mostly men"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Workers least likely to be able to work from home are mostly men",
+      "h4": null,
+      "h5": null,
+      "text": "The top 20% of workers most likely to be able to work from home are fairly representative of the gender split in the workforce as a whole: 49% are women."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Workers least likely to be able to work from home are mostly men",
+      "h4": null,
+      "h5": null,
+      "text": "On the other hand, the fifth of workers least likely to be able to work from home are mostly men: 75% of workers in these jobs are men, compared with 48% of the whole workforce."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Workers least likely to be able to work from home are mostly men",
+      "h4": null,
+      "h5": null,
+      "text": "Only 12 of the 103 jobs in this group have a majority of women in them (including police community support officers, vets and radiographers). Many of the rest are dominated by men: for example, only 1% of plumbers, carpenters and joiners are women."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": "Workers least likely to be able to work from home are mostly men",
+      "h4": "Workers least able to work from home are mostly men",
+      "h5": null,
+      "text": "Workers least able to work from home are mostly men"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Workers least likely to be able to work from home are mostly men",
+      "h4": "Workers least able to work from home are mostly men",
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Workers least likely to be able to work from home are mostly men",
+      "h4": "Workers least able to work from home are mostly men",
+      "h5": null,
+      "title": "Workers least able to work from home are mostly men",
+      "url": "/visualisations/dvc890/chart3/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Jobs in London and the South East are more likely to be able to be carried out from home",
+      "h4": null,
+      "h5": null,
+      "text": "Jobs in London and the South East are more likely to be able to be carried out from home"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Jobs in London and the South East are more likely to be able to be carried out from home",
+      "h4": null,
+      "h5": null,
+      "text": "Jobs based in workplaces in London and the South East are much more likely to be possible to do from home compared with the rest of the UK, probably due to a higher proportion of professional occupations in the region. [Recent analysis](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandtraveltowork/june2020) showed over 50% of workers with a workplace in Inner London commuted by rail or underground compared with 16% of workers working in Outer London and even fewer elsewhere."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Jobs in London and the South East are more likely to be able to be carried out from home",
+      "h4": null,
+      "h5": null,
+      "text": "The high concentration of finance and IT jobs in London is probably the cause of this disparity."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Ethnicity and home working",
+      "h4": null,
+      "h5": null,
+      "text": "Ethnicity and home working"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Ethnicity and home working",
+      "h4": null,
+      "h5": null,
+      "text": "Due to small sample sizes in certain occupations, it is not possible to identify clear trends between workers’ ethnicity and jobs with the ability to work from home. Based on this scale, which analyses the characteristics of an occupation that might make a job easy or difficult to adapt to home working, no significant trends were revealed."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Ethnicity and home working",
+      "h4": null,
+      "h5": null,
+      "text": "When looking at the fifth of the workforce in jobs with the most ability to work from home, workers from black, Asian and minority ethnic backgrounds were very marginally overrepresented. Around 12% of workers in this group are from ethnic minority backgrounds, compared with nearly 11% of the working population as a whole. In the fifth of the workforce whose jobs were least adaptable to home working, just 9% are from ethnic minority backgrounds."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Coronavirus: how many people are working from home?",
+      "h4": null,
+      "h5": null,
+      "text": "Coronavirus: how many people are working from home?"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Coronavirus: how many people are working from home?",
+      "h4": null,
+      "h5": null,
+      "text": "[Data from before the pandemic](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/coronavirusandhomeworkingintheuklabourmarket/2019) show that 1.7 million people (around 5% of the workforce) in the UK reported working mainly from home in 2019. A further 8.7 million people (27%) said they worked from home at least once in their current primary job, and 2.9 million people (9%) worked either in the same grounds or buildings as their home or used home as a base."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Coronavirus: how many people are working from home?",
+      "h4": null,
+      "h5": null,
+      "text": "The lockdown changed this radically: surveyed [between 8 and 12 July 2020](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronavirustheukeconomyandsocietyfasterindicators/16july2020#social-impacts-of-the-coronavirus-on-great-britain), just over a quarter of adults (27%) worked exclusively at home in the previous week – a slight decrease from 30% of adults surveyed the week prior as restrictions continued to ease."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": null,
+      "h3": "Coronavirus: how many people are working from home?",
+      "h4": null,
+      "h5": "Notes",
+      "text": "Notes"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Coronavirus: how many people are working from home?",
+      "h4": null,
+      "h5": "Notes",
+      "text": "Please note the ability to homework score was calculated by O*NET prior to the coronavirus (COVID-19) outbreak, therefore will not reflect any changes to working practices implemented since the outbreak."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Coronavirus: how many people are working from home?",
+      "h4": null,
+      "h5": "Notes",
+      "text": "This measure of pay comes from the 2019 Annual Survey of Hours and Earnings (ASHE). It is hourly earnings excluding overtime. It's calculated as gross pay /basic paid hours. The pay period in question was not affected by absence. It includes people aged 16+ both full-time and part-time"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Coronavirus: how many people are working from home?",
+      "h4": null,
+      "h5": "Notes",
+      "text": "Number of employees are from the Annual Population Survey (APS). Data are for the period April 2019 to March 2020."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Coronavirus: how many people are working from home?",
+      "h4": null,
+      "h5": "Notes",
+      "text": "Characteristics are from the Annual Population Survey (APS). Data are for the period April 2019 to March 2020"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": "Coronavirus: how many people are working from home?",
+      "h4": null,
+      "h5": "Notes",
+      "text": "For the percentage of women in each occupation, figures have been grouped together for percentages greater than 95% for disclosure reasons"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Quality and methodology",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Quality and methodology"
+    },
+    {
+      "type": "p",
+      "h2": "Quality and methodology",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The data used to define the ability to work from home was obtained from the Occupational Information Network (O*NET), which contains information about the features and the nature of the work of the US. This includes the technology and tools that are employed, and tasks performed in different jobs roles, as well as the traits of workers in those occupations."
+    },
+    {
+      "type": "p",
+      "h2": "Quality and methodology",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Two O*NET datasets, the Content Model Work Activity data and the Content Model Work Context data, were used in this method. The data allotted different occupations a score of between one and five to reflect the frequency and importance of different tasks and characteristics to various jobs."
+    },
+    {
+      "type": "p",
+      "h2": "Quality and methodology",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "For this work, variables from both databases were selected and assigned one of five categories:"
+    },
+    {
+      "type": "li",
+      "h2": "Quality and methodology",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "exposure"
+    },
+    {
+      "type": "li",
+      "h2": "Quality and methodology",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "interaction intensity"
+    },
+    {
+      "type": "li",
+      "h2": "Quality and methodology",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "location"
+    },
+    {
+      "type": "li",
+      "h2": "Quality and methodology",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "physical activities"
+    },
+    {
+      "type": "li",
+      "h2": "Quality and methodology",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "tools or protective equipment."
+    },
+    {
+      "type": "p",
+      "h2": "Quality and methodology",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "For every US occupation, a score for each category is calculated by summing the variable scores within each category."
+    },
+    {
+      "type": "p",
+      "h2": "Quality and methodology",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The category scores are rescaled to between 0 and 1 to account for the different number of variables within each category using the following equation:"
+    },
+    {
+      "type": "p",
+      "h2": "Quality and methodology",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "S = (O-L)/(H-L)"
+    },
+    {
+      "type": "p",
+      "h2": "Quality and methodology",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Where: S = rescaled score O = original rating score between one and five L = lowest possible score within the category H = highest possible score within the category"
+    },
+    {
+      "type": "p",
+      "h2": "Quality and methodology",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The overall ability to homework score is calculated as the sum of the five rescaled category values."
+    },
+    {
+      "type": "p",
+      "h2": "Quality and methodology",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The higher the score, the less likely an occupation is to be performed from home."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "Quality and methodology",
+      "h3": "Mapping to UK SOC codes",
+      "h4": null,
+      "h5": null,
+      "text": "Mapping to UK SOC codes"
+    },
+    {
+      "type": "p",
+      "h2": "Quality and methodology",
+      "h3": "Mapping to UK SOC codes",
+      "h4": null,
+      "h5": null,
+      "text": "To show exposure to disease and physical proximity by UK Standard Occupational Classification (SOC) codes, US SOC codes were first mapped to ISCO-08 codes and then mapped from ISCO-08 codes to UK SOC codes."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "Quality and methodology",
+      "h3": "Annual Population Survey",
+      "h4": null,
+      "h5": null,
+      "text": "Annual Population Survey"
+    },
+    {
+      "type": "p",
+      "h2": "Quality and methodology",
+      "h3": "Annual Population Survey",
+      "h4": null,
+      "h5": null,
+      "text": "This analysis uses the Annual Population Survey (APS) April 2019 to March 2020. More quality and methodology information on strengths, limitations, appropriate uses, and how the data were created is available in the [APS Quality and methodology information report](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/annualpopulationsurveyapsqmi) (QMI)."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "Quality and methodology",
+      "h3": "Annual Survey of Hours and Earnings",
+      "h4": null,
+      "h5": null,
+      "text": "Annual Survey of Hours and Earnings"
+    },
+    {
+      "type": "p",
+      "h2": "Quality and methodology",
+      "h3": "Annual Survey of Hours and Earnings",
+      "h4": null,
+      "h5": null,
+      "text": "Only respondents who said they were employed were included in this analysis. The Annual Survey of Hours and Earnings (ASHE) is the primary source of data for earnings analysis in the UK and therefore was used here to find median hourly pay for each SOC code. The period covered by the ASHE data is April 2019. More quality and methodology information on strengths, limitations, appropriate uses, and how the data were created is available in the [ASHE Quality and methodology information report](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/methodologies/annualsurveyofhoursandearningslowpayandannualsurveyofhoursandearningspensionresultsqmi) (QMI)."
+    },
+    {
+      "type": "box",
+      "h2": "Quality and methodology",
+      "h3": "Annual Survey of Hours and Earnings",
+      "h4": null,
+      "h5": null,
+      "box_h2": "Related",
+      "box_h3": null,
+      "box_text": "Statistical bulletin | Released on 8 July 2020\n\nHomeworking patterns in the UK, broken down by sex, age, region and ethnicity.\n\nStatistical bulletin | Released on 15 September 2026\n\nEstimates of employment, unemployment, economic inactivity, and other employment-related statistics for the UK.",
+      "box_items": [
+        "[Coronavirus and homeworking in the UK](/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/coronavirusandhomeworkingintheuk/april2020) Statistical bulletin | Released on 8 July 2020 Homeworking patterns in the UK, broken down by sex, age, region and ethnicity.",
+        "[Labour market overview, UK](/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/september2026) Statistical bulletin | Released on 15 September 2026 Estimates of employment, unemployment, economic inactivity, and other employment-related statistics for the UK."
+      ]
+    },
+    {
+      "type": "box",
+      "h2": "Quality and methodology",
+      "h3": "Annual Survey of Hours and Earnings",
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[economic.advice@ons.gov.uk](mailto:economic.advice@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:47:17.255945"
+}

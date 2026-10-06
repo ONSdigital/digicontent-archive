@@ -1,0 +1,219 @@
+{
+  "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/whoismostexposedtorisinghousingcostsinenglandandwales/2024-04-25",
+  "title": "Who is most exposed to rising housing costs in England and Wales?",
+  "meta_description": "See which areas were most and least affected by rising mortgage and rent costs in 2023",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "People, population and community",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity"
+    },
+    {
+      "text": "Housing",
+      "href": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing"
+    },
+    {
+      "text": "Who is most exposed to rising housing costs in England and Wales?",
+      "href": null
+    }
+  ],
+  "date_published": "2024-04-24T23:00:00.000Z",
+  "date_modified": "2024-04-24T23:00:00.000Z",
+  "lede": "See which areas were most and least affected by rising mortgage and rent costs in 2023",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "25 April 2024"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Housing costs have increased since 2022 amid rising inflation and higher interest rates."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In the year to October 2022, inflation reached a 40-year-high, according to the [Consumer Prices Index including owner occupier housing costs](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/october2022)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In response, the Bank of England's Monetary Policy Committee gradually raised the [Bank Rate](https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate) from 0.10% to 5.25% between winter 2021 and summer 2023."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[More than 1.4 million households in the UK had fixed-term mortgages due for renewal in 2023](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/howincreasesinhousingcostsimpacthouseholds/2023-01-09), with more than half coming off interest rates of less than 2%."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "By the end of 2023, more than a third of those responsible for rent or mortgage payments in Great Britain were struggling to afford them, according to our [Opinions and Lifestyle survey](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/datasets/publicopinionsandsocialtrendsgreatbritainhouseholdfinances)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We have explored which areas of England and Wales have been most and least exposed to rising mortgage and rent costs during 2023."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "We have assigned each area an exposure score relative to other local authorities based on two measures:"
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The estimated proportion of households affected by rising costs."
+    },
+    {
+      "type": "li",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The increase in costs as a proportion of estimated disposable income for the average household."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Measures of housing costs and the affected households presented in this article are experimental estimates and rely on some assumptions. See our [methodology](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/methodologies/changinghousingcostsacrossenglandandwalesforaffectedhouseholdsqualityandmethodologyinformation) for more information on how we calculate local area exposure scores."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Select an area below for maps, charts and analysis showing how housing costs are estimated to have risen in 2023, and how it compares to its region, similar areas, and the rest of England and Wales."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "Housing pressures local area embed",
+      "url": "/visualisations/housingpressures/index.html"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[Download the data (XLSX, 109KB)](/visualisations/housingpressures/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Articles are not available for Isles of Scilly and City of London, as some rent data is not available because of low collection volumes."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": null,
+      "h4": "More about housing costs in your area",
+      "h5": null,
+      "text": "More about housing costs in your area"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "More about housing costs in your area",
+      "h5": null,
+      "text": "Explore the latest house prices and private rental prices for your area with our [interactive article](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/housingpricesinyourarea/2024-03-20), or check how monthly mortgage payments our changing with our [mortgage calculator](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/howaremonthlymortgagerepaymentschangingingreatbritain/2023-03-08)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": null,
+      "h3": null,
+      "h4": "About the article",
+      "h5": null,
+      "text": "About the article"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "About the article",
+      "h5": null,
+      "text": "The content in this article is generated using semi-automated journalism, based on rules pre-programmed by Office for National Statistics (ONS) staff."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": "About the article",
+      "h5": null,
+      "text": "See our [methodology](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/methodologies/changinghousingcostsacrossenglandandwalesforaffectedhouseholdsqualityandmethodologyinformation) for detailed information on the methods and data sources used in this release."
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": "About the article",
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "Integrated Data Analysis\n[Integrated.Data.Analysis@ons.gov.uk](mailto:Integrated.Data.Analysis@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:46:43.205751"
+}

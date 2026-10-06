@@ -1,0 +1,110 @@
+{
+  "url": "https://www.ons.gov.uk/businessindustryandtrade/internationaltrade/articles/worldtradeexplorer/2019-07-24",
+  "title": "World trade explorer",
+  "meta_description": "Use our interactive to understand how the UK trades with the rest of the world.",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "Business, industry and trade",
+      "href": "https://www.ons.gov.uk/businessindustryandtrade"
+    },
+    {
+      "text": "International trade",
+      "href": "https://www.ons.gov.uk/businessindustryandtrade/internationaltrade"
+    },
+    {
+      "text": "World trade explorer",
+      "href": null
+    }
+  ],
+  "date_published": "2019-07-23T23:00:00.000Z",
+  "date_modified": "2019-07-23T23:00:00.000Z",
+  "lede": "Use our interactive to understand how the UK trades with the rest of the world.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In 2021 the UK had a trade deficit with the rest of the world, which means we imported more from other countries than we exported to them."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This overall deficit was made up of a large deficit in goods, partly offset by a surplus in services."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Use our interactive to explore UK trade relationships with the rest of the world. Select a country by using the dropdown or hovering over the map and see total UK trade with that country broken down by goods and services."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "title": "UK trade in goods and services",
+      "url": "/visualisations/dvc1974/barcode_ally1/index.html"
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Related",
+      "box_h3": null,
+      "box_text": "Statistical bulletin | Released on 11 September 2026\n\nTotal value of UK exports and imports of goods and services in current prices, chained volume measures and implied deflators.\n\nStatistical bulletin | Released on 22 January 2020\n\nTrade in services data Experimental Statistics, including breakdown of exports and imports by country and geographical region, EU and non-EU.",
+      "box_items": [
+        "[UK trade](/economy/nationalaccounts/balanceofpayments/bulletins/uktrade/july2026) Statistical bulletin | Released on 11 September 2026 Total value of UK exports and imports of goods and services in current prices, chained volume measures and implied deflators.",
+        "[UK trade in services by partner country](/businessindustryandtrade/internationaltrade/bulletins/exportsandimportsstatisticsbycountryforuktradeinservices/julytoseptember2019) Statistical bulletin | Released on 22 January 2020 Trade in services data Experimental Statistics, including breakdown of exports and imports by country and geographical region, EU and non-EU."
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "You might also be interested in",
+      "box_h3": null,
+      "box_text": "",
+      "box_items": [
+        "[How is inflation affecting your household costs?](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/howisinflationaffectingyourhouseholdcosts/2022-03-23)",
+        "[Income, spending and wealth: how do you compare?](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/articles/incomespendingandwealthhowdoyoucompare/2022-03-09)",
+        "[Gender pay gap explorer](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/genderpaygapexplorer/2019-06-07)"
+      ]
+    },
+    {
+      "type": "box",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "Hannah Donnarumma\n[trade@ons.gov.uk](mailto:trade@ons.gov.uk)\n Telephone: +44 1329 447648",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:48:56.653001"
+}

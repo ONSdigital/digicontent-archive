@@ -1,0 +1,430 @@
+{
+  "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/articles/shoppingpricescomparisontool/2023-05-03",
+  "title": "Shopping prices comparison tool",
+  "meta_description": "This article contains a searchable tool that allows you to see how the average prices of hundreds of shopping items are changing ",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "Economy",
+      "href": "https://www.ons.gov.uk/economy"
+    },
+    {
+      "text": "Inflation and price indices",
+      "href": "https://www.ons.gov.uk/economy/inflationandpriceindices"
+    },
+    {
+      "text": "Shopping prices comparison tool",
+      "href": null
+    }
+  ],
+  "date_published": "2023-05-02T23:00:00.000Z",
+  "date_modified": "2023-05-02T23:00:00.000Z",
+  "lede": "Search to see how the average prices of hundreds of shopping items are changing",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "3 May 2023"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": null,
+      "h3": "Notice",
+      "h4": null,
+      "h5": null,
+      "text": "Notice"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Notice",
+      "h4": null,
+      "h5": null,
+      "text": "From March 2025 onwards, the process for aggregating our prices changed, a necessary step towards incorporating larger and more granular data into the Consumer Prices Index (CPI). Goods and services are allocated into \"consumption segments\" for different categories of expenditure. More detailed methods information is available in our [Consumer prices indices technical guidance](https://www.ons.gov.uk/economy/inflationandpriceindices/methodologies/consumerpricesindicestechnicalguidance)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Notice",
+      "h4": null,
+      "h5": null,
+      "text": "From March 2026 onwards, average prices for many food, drink and tobacco products incorporate scanner data alongside locally collected prices, where applicable. This means users will see price points for more specific product types with accompanying units of measurement to support more meaningful comparisons."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Notice",
+      "h4": null,
+      "h5": null,
+      "text": "The newly introduced consumption segments for food, drinks and tobacco will not have data before 2025 in the tool. However, the historical average prices for food, drinks and tobacco items, that were on the tool before the update in 2025, can be found on our [Shopping prices comparison tool data download before the 2025 update](https://www.ons.gov.uk/economy/inflationandpriceindices/adhocs/2724shoppingpricescomparisontooldatadownloadbeforethe2025update) page."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": "Notice",
+      "h4": null,
+      "h5": null,
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": null,
+      "h3": "Notice",
+      "h4": null,
+      "h5": null,
+      "title": "Shopping prices comparison tool",
+      "url": "/visualisations/dvc2523/shopping-prices-comparison-tool/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "What is inflation?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "What is inflation?"
+    },
+    {
+      "type": "p",
+      "h2": "What is inflation?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Inflation is a measure of how prices of goods and services are changing in the UK, and it can have a big impact on people's household finances."
+    },
+    {
+      "type": "p",
+      "h2": "What is inflation?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Each month, the Office for National Statistics (ONS) publishes [the latest annual inflation rate](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/latest), which measures the change in the price of regularly purchased items (known as the basket of goods and services) compared with the same time the previous year."
+    },
+    {
+      "type": "p",
+      "h2": "What is inflation?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The overall inflation rate depends on how the prices of different goods and services are moving, and also on what items we tend to spend our money on. Some goods and services contribute more to the overall inflation rate than others: if some items see a large increase in prices, while others stay more stable, then inflation would be driven by the changing prices in that spending category."
+    },
+    {
+      "type": "p",
+      "h2": "What is inflation?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This tool shows how the price of different items has changed since 2020."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "How to use the shopping prices comparison tool",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "How to use the shopping prices comparison tool"
+    },
+    {
+      "type": "p",
+      "h2": "How to use the shopping prices comparison tool",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The shopping prices comparison tool has been built to help people understand why their household might have experienced inflation. This interactive shows how the average price of different items has changed in the last year by using the [published consumption segment indices and price information](https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/consumerpriceindicescpiandretailpricesindexrpiitemindicesandpricequotes) we collect monthly."
+    },
+    {
+      "type": "p",
+      "h2": "How to use the shopping prices comparison tool",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "You have the option to select from more than 650 items in the interactive, which are currently in the [consumer prices basket](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/ukconsumerpriceinflationbasketofgoodsandservices/latest) used to produce inflation figures. These include items in a range of categories, including:"
+    },
+    {
+      "type": "li",
+      "h2": "How to use the shopping prices comparison tool",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "groceries"
+    },
+    {
+      "type": "li",
+      "h2": "How to use the shopping prices comparison tool",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "clothing and footwear"
+    },
+    {
+      "type": "li",
+      "h2": "How to use the shopping prices comparison tool",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "health"
+    },
+    {
+      "type": "li",
+      "h2": "How to use the shopping prices comparison tool",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "recreation and culture"
+    },
+    {
+      "type": "li",
+      "h2": "How to use the shopping prices comparison tool",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "services"
+    },
+    {
+      "type": "li",
+      "h2": "How to use the shopping prices comparison tool",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "transport"
+    },
+    {
+      "type": "li",
+      "h2": "How to use the shopping prices comparison tool",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "household items"
+    },
+    {
+      "type": "li",
+      "h2": "How to use the shopping prices comparison tool",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "eating and drinking out"
+    },
+    {
+      "type": "p",
+      "h2": "How to use the shopping prices comparison tool",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The interactive will also show the current average price of the items compared with the same month the previous year. Details of how we have estimated average prices for these select items are included in the [further information section](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/shoppingpricescomparisontool/2023-05-03#further-information)."
+    },
+    {
+      "type": "p",
+      "h2": "How to use the shopping prices comparison tool",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "All the data used in the tool, from January 2020 to now, is available through the \"download all data\" button."
+    },
+    {
+      "type": "p",
+      "h2": "How to use the shopping prices comparison tool",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The average prices included in this interactive are calculated using the price quotes collected as part of the consumer prices monthly price collection. For grocery items, we use a combination of these price quotes with our \"scanner\" (supermarket checkout and online sales) data. The number of price quotes collected per item will differ and does not reflect the average of all prices possible for each item in the basket. The average price estimates presented are official statistics in development. More information is available in our [Guide to official statistics in development](https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/guidetoofficialstatisticsindevelopment)."
+    },
+    {
+      "type": "p",
+      "h2": "How to use the shopping prices comparison tool",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Please note the percentage changes in price are based on unrounded item price data so may differ from estimates based on the rounded item prices."
+    },
+    {
+      "type": "p",
+      "h2": "How to use the shopping prices comparison tool",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "If you have any questions about this interactive, please email [cpi@ons.gov.uk](mailto:cpi@ons.gov.uk)."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Further information",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Further information"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "Further information",
+      "h3": "About the shopping prices comparison tool",
+      "h4": null,
+      "h5": null,
+      "text": "About the shopping prices comparison tool"
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": "About the shopping prices comparison tool",
+      "h4": null,
+      "h5": null,
+      "text": "Our measures of inflation are designed to reflect the change in prices of goods and services bought by all households."
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": "About the shopping prices comparison tool",
+      "h4": null,
+      "h5": null,
+      "text": "The shopping prices comparison tool uses the latest available inflation indices, but it cannot predict how prices might change in the future."
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": "About the shopping prices comparison tool",
+      "h4": null,
+      "h5": null,
+      "text": "The shopping prices comparison tool uses our most comprehensive measure of consumer prices inflation, which is the Consumer Prices Index including owner occupiers' housing costs (CPIH). The CPIH is very similar to the Consumer Prices Index (CPI), but includes the costs associated with owning, maintaining and living in one's own home. It does not measure the change in the value of a house. Please note that the shopping prices comparison tool does not include any items reflecting costs associated with owning a home."
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": "About the shopping prices comparison tool",
+      "h4": null,
+      "h5": null,
+      "text": "The CPIH covers household spending on goods and services but not spending by businesses."
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": "About the shopping prices comparison tool",
+      "h4": null,
+      "h5": null,
+      "text": "The interactive shows price movements only of individual items in the consumer price basket. The movements of individual items might differ from the indices they feed into as [weights and methods are used for the CPIH](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/consumerpriceinflationupdatingweights/2022#data-sources-and-quality) in line with international guidance."
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": "About the shopping prices comparison tool",
+      "h4": null,
+      "h5": null,
+      "text": "From March 2025 onwards, the process for aggregating our prices changed, a necessary step towards incorporating larger and more granular data into the CPI."
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": "About the shopping prices comparison tool",
+      "h4": null,
+      "h5": null,
+      "text": "Goods and services are allocated into \"consumption segments\" for different categories of expenditure. In some cases, these consumption segments are based on one item for which the ONS tracks prices over time. But in cases where more comprehensive source data are available, or expected to be available in the future, a consumption segment will typically include much more than just one item. For example, basmati rice (500 grammes to 1 kilogramme), microwave rice and rice cakes will feed into the \"Rice, in all forms (excl. rice flour)\" consumption segment. However, for simplicity we continue to refer to \"items\" in this tool. More detailed methods information is available in our [Consumer prices indices technical guidance](https://www.ons.gov.uk/economy/inflationandpriceindices/methodologies/consumerpricesindicestechnicalguidance)."
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": "About the shopping prices comparison tool",
+      "h4": null,
+      "h5": null,
+      "text": "The newly introduced consumption segments for food, drinks and tobacco will not have data before 2025 in the tool, however, the historical average prices for food, drinks and tobacco items, that were on the tool before the update in 2025, can be found on our [Shopping prices comparison tool data download before the 2025 update](https://www.ons.gov.uk/economy/inflationandpriceindices/adhocs/2724shoppingpricescomparisontooldatadownloadbeforethe2025update)."
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "h2": "Further information",
+      "h3": "About the shopping prices comparison tool",
+      "h4": "Average prices",
+      "h5": null,
+      "text": "Average prices"
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": "About the shopping prices comparison tool",
+      "h4": "Average prices",
+      "h5": null,
+      "text": "Average prices will be published for most items that appear in both the [published consumption segment indices and price quotes](https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/consumerpriceindicescpiandretailpricesindexrpiitemindicesandpricequotes). The average prices for some items have been removed because of volatile month-on-month changes, or because the price collection methods or coverage of the item make it too difficult to define a meaningful average price."
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": "About the shopping prices comparison tool",
+      "h4": "Average prices",
+      "h5": null,
+      "text": "Average prices are calculated by first determining an average price for the latest January. For products and services where scanner data are not available, this is done by taking a weighted arithmetic mean of the price quotes collected for each item in the latest January, with a weighted mean used to reflect the relative popularity of each individual priced item."
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": "About the shopping prices comparison tool",
+      "h4": "Average prices",
+      "h5": null,
+      "text": "To calculate a combined average price of both scanner and locally collected data, the products included in these calculations must share compatible units of measurement. To make the two data sources comparable, we filter scanner products to match the units defined in the corresponding basket item description, with weights or volumes adjusted where necessary. These adjusted prices are then expressed in the same unit as the basket item so the two data sources can be combined. For more information on this calculation, please refer to [Changes to the provision of microdata outputs for consumer price inflation statistics: January 2026](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/changestotheprovisionofmicrodataoutputsforconsumerpriceinflationstatistics/january2026)."
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": "About the shopping prices comparison tool",
+      "h4": "Average prices",
+      "h5": null,
+      "text": "The remaining months' average prices are calculated by multiplying the current month's CPIH item index growth rate since January by the calculated January average price."
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": "About the shopping prices comparison tool",
+      "h4": "Average prices",
+      "h5": null,
+      "text": "This method is used to avoid misleading changes in the published average price because of changes in the sample of items. However, it is important to note that the sample of prices that is collected as part of the consumer prices monthly price collection is designed to best capture price change, not price levels, which are presented in this interactive. Secondly, sample changes and quality changes over link periods might mean that average prices may not look as expected over the longer term."
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": "About the shopping prices comparison tool",
+      "h4": "Average prices",
+      "h5": null,
+      "text": "While the interactive will update each month with [the latest inflation data](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/latest), the items in the shopping prices comparison tool will be updated in March of each year to coincide with the revision of items in the inflation basket. This will cause all average prices in the interactive to be updated and revised to reflect the most recent data. The difference in average prices in the annual update will vary across items. While these estimates will be revised, [the revision policy for CPIH and CPI](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/revisionspolicyforconsumerpriceinflationstatistics/2017-03-21) is that they are rarely revised, and the Retail Prices Index (RPI) is never revised."
+    },
+    {
+      "type": "p",
+      "h2": "Further information",
+      "h3": "About the shopping prices comparison tool",
+      "h4": "Average prices",
+      "h5": null,
+      "text": "The average prices in this tool will also differ from those presented in our [tracking the lowest priced grocery items article](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/trackingthelowestcostgroceryitemsukexperimentalanalysis/latest), which focuses on the average price of the lowest-cost grocery items for 30 everyday items. In contrast, the average prices in this interactive are calculated using a wider distribution of prices quotes collected as part of the monthly consumer price collection."
+    },
+    {
+      "type": "box",
+      "h2": "Further information",
+      "h3": "About the shopping prices comparison tool",
+      "h4": "Average prices",
+      "h5": null,
+      "box_h2": "You might also be interested in",
+      "box_h3": null,
+      "box_text": "",
+      "box_items": [
+        "[The latest monthly CPIH figures](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/latest)",
+        "[Our personal inflation calculator](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/howisinflationaffectingyourhouseholdcosts/2022-03-23)",
+        "[How monthly mortgage payments are changing in Great Britain](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/howaremonthlymortgagerepaymentschangingingreatbritain/2023-03-08)"
+      ]
+    },
+    {
+      "type": "box",
+      "h2": "Further information",
+      "h3": "About the shopping prices comparison tool",
+      "h4": "Average prices",
+      "h5": null,
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "Consumer Price Inflation team\n[cpi@ons.gov.uk](mailto:cpi@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:48:49.655511"
+}

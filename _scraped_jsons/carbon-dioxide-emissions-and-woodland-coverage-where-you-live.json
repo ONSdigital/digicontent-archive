@@ -1,0 +1,633 @@
+{
+  "url": "https://www.ons.gov.uk/economy/environmentalaccounts/articles/carbondioxideemissionsandwoodlandcoveragewhereyoulive/2021-10-21",
+  "title": "Carbon dioxide emissions and woodland coverage where you live",
+  "meta_description": "Interactive maps and analysis showing how estimated CO2 emissions have changed and woodland area at UK local authority district level.",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "href": "https://www.ons.gov.uk/"
+    },
+    {
+      "text": "Economy",
+      "href": "https://www.ons.gov.uk/economy"
+    },
+    {
+      "text": "Environmental accounts",
+      "href": "https://www.ons.gov.uk/economy/environmentalaccounts"
+    },
+    {
+      "text": "Carbon dioxide emissions and woodland coverage where you live",
+      "href": null
+    }
+  ],
+  "date_published": "2021-10-20T23:00:00.000Z",
+  "date_modified": "2021-10-20T23:00:00.000Z",
+  "lede": "The levels of carbon dioxide (CO2) emissions and woodland coverage vary across the UK. Our interactive maps let you see how your area looks, and how it compares with other areas.",
+  "body": [
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "21 October 2021"
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "To help address climate change, a UK-wide target of [reaching net zero greenhouse gas emissions by 2050](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1026655/net-zero-strategy.pdf) has been adopted. This means reducing carbon dioxide (CO2) emissions, with any remaining emissions offset by measures that remove greenhouse gases from the atmosphere, including increasing numbers of trees."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The UK Government has set [a target for at least 30,000 hectares of trees a year to be planted by the end of this Parliament](https://www.gov.uk/government/news/tree-planting-rates-to-treble-by-end-of-this-parliament) (May 2024), while the devolved administrations for [Wales](https://gov.wales/written-statement-trees-and-timber), [Scotland](https://forestry.gov.scot/news-releases/on-track-to-meet-tree-planting-targets) and [Northern Ireland](https://www.daera-ni.gov.uk/articles/daera-forestry-grants) also have plans for new woodland. The UK annual tree planting target is equivalent to an area twice the size of Cardiff or almost the size of the borough of Milton Keynes."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The Department for Business, Energy and Industrial Strategy (BEIS) [produces annual CO2 emissions estimates](https://www.gov.uk/government/statistics/uk-local-authority-and-regional-carbon-dioxide-emissions-national-statistics-2005-to-2019) for the UK nations, nine English regions and individual local authority areas. [CO2 accounted for 80% of greenhouse gas emissions in the UK in 2019](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/957687/2019_Final_emissions_statistics_one_page_summary.pdf), with the rest including methane (12%), nitrous oxide (5%) and fluorinated gases (3%)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Total UK CO2 emissions fell by 36% between 2005 and 2019, but the picture varies depending on where you live."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In England, overall CO2 emissions reduced by 36% between 2005 and 2019, compared with 35% in Scotland, 29% in Wales and 23% in Northern Ireland."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Across the English regions level, between 2005 and 2019 CO2 emissions fell the most in percentage terms in the North East (56%) and the least in the East of England (30%)."
+    },
+    {
+      "type": "p",
+      "h2": null,
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Various changes have contributed to the national fall in CO2 emissions. In the energy sector and in industry, such as manufacturing, there has been a decrease in the use of coal for electricity generation and an [increase in the use of renewable sources](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1007132/DUKES_2021_Chapters_1_to_7.pdf)."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "CO2 emissions per kilometre squared fell by 36% between 2005 and 2019, but vary by area",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "CO2 emissions per kilometre squared fell by 36% between 2005 and 2019, but vary by area"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "CO2 emissions per kilometre squared fell by 36% between 2005 and 2019, but vary by area",
+      "h3": null,
+      "h4": null,
+      "h5": "Annual CO2 emissions, kilotonnes per kilometre squared, 2005 to 2019, UK local authority districts",
+      "text": "Annual CO2 emissions, kilotonnes per kilometre squared, 2005 to 2019, UK local authority districts"
+    },
+    {
+      "type": "p",
+      "h2": "CO2 emissions per kilometre squared fell by 36% between 2005 and 2019, but vary by area",
+      "h3": null,
+      "h4": null,
+      "h5": "Annual CO2 emissions, kilotonnes per kilometre squared, 2005 to 2019, UK local authority districts",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "CO2 emissions per kilometre squared fell by 36% between 2005 and 2019, but vary by area",
+      "h3": null,
+      "h4": null,
+      "h5": "Annual CO2 emissions, kilotonnes per kilometre squared, 2005 to 2019, UK local authority districts",
+      "title": "Estimated CO2 emissions per kilometre squared fell by 36% between 2005 and 2019, but vary by area ",
+      "url": "/visualisations/dvc1588/map-emissions-transition/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "CO2 emissions per kilometre squared fell by 36% between 2005 and 2019, but vary by area",
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": "CO2 emissions per kilometre squared fell by 36% between 2005 and 2019, but vary by area",
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "The CO2 estimates used include those emitted within a local authority area, including from large industrial sites, railways, land use and motorways that pass through but are not within the control of local authorities. We have used emissions estimates per km2 to show change over time as these are not affected by population change the way a per capita rate would be."
+    },
+    {
+      "type": "p",
+      "h2": "CO2 emissions per kilometre squared fell by 36% between 2005 and 2019, but vary by area",
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "[Download the data for CO2 emissions by local authority district (XLSX, 53KB)](/visualisations/dvc1588/map-emissions-transition/data/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "CO2 emissions per kilometre squared fell by 36% between 2005 and 2019, but vary by area",
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "Out of 379 local authority districts in the UK, parts of Greater London had the highest CO2 emissions by area in 2019."
+    },
+    {
+      "type": "p",
+      "h2": "CO2 emissions per kilometre squared fell by 36% between 2005 and 2019, but vary by area",
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "The City of London, historically the UK capital’s financial district, had 203 kilotonnes (kt) CO2 per kilometre squared (km2), down by 61% since 2005. However, it is also the smallest local authority area at just 3 km2."
+    },
+    {
+      "type": "p",
+      "h2": "CO2 emissions per kilometre squared fell by 36% between 2005 and 2019, but vary by area",
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "Area emissions in Westminster were 77 kt CO2 per km2 in 2019, down 50% from 155 kt CO2 per km2 in 2005, with the next 11 areas with the highest CO2 emissions per km2 all London boroughs: Kensington and Chelsea, Tower Hamlets, Camden, Islington, Hammersmith and Fulham, Lambeth, Hackney, Southwark, Newham, Wandsworth and Haringey."
+    },
+    {
+      "type": "p",
+      "h2": "CO2 emissions per kilometre squared fell by 36% between 2005 and 2019, but vary by area",
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "Slough had the highest CO2 emissions by area outside London in 2019, at 21 kt CO2 per km2, down by 18% since 2005."
+    },
+    {
+      "type": "p",
+      "h2": "CO2 emissions per kilometre squared fell by 36% between 2005 and 2019, but vary by area",
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "Although Northumberland had the highest percentage fall in CO2 emissions per km2 since 2005 (down by 82%), it started from a comparatively low base of less than 1 kt CO2 per km2."
+    },
+    {
+      "type": "p",
+      "h2": "CO2 emissions per kilometre squared fell by 36% between 2005 and 2019, but vary by area",
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "Redcar and Cleveland, [an area known for large industrial installations, some of which closed recently](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/996056/2005-19-local-authority-co2-emissions-statistical-release.pdf), has seen its CO2 emissions by area fall 77% from 42 kt CO2 per km2 in 2005 to 10 kt CO2 per km2 in 2019."
+    },
+    {
+      "type": "p",
+      "h2": "CO2 emissions per kilometre squared fell by 36% between 2005 and 2019, but vary by area",
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "Emissions decreased the least in percentage terms in Neath Port Talbot, down by 9% from 17 kt CO2 per km2 in 2005 to 16 kt CO2 per km2 in 2019. The area is also known for heavy industry."
+    },
+    {
+      "type": "p",
+      "h2": "CO2 emissions per kilometre squared fell by 36% between 2005 and 2019, but vary by area",
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "While local data only cover up to 2019, the Office for National Statistics (ONS) has published UK provisional emissions for 2020 [with breakdowns for broad industrial sectors](https://www.ons.gov.uk/economy/environmentalaccounts/bulletins/greenhousegasintensityprovisionalestimatesuk/2020provisionalestimates) and households."
+    },
+    {
+      "type": "p",
+      "h2": "CO2 emissions per kilometre squared fell by 36% between 2005 and 2019, but vary by area",
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "These suggest that [household emissions fell by 10% on the previous year,](https://www.ons.gov.uk/economy/environmentalaccounts/articles/covid19restrictionscuthouseholdemissions/2021-09-21) with the largest reduction in emissions in the transport and storage sector falling by 40%."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "The UK plans to plant many more trees to absorb greenhouse gases",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The UK plans to plant many more trees to absorb greenhouse gases"
+    },
+    {
+      "type": "p",
+      "h2": "The UK plans to plant many more trees to absorb greenhouse gases",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "How land is used will play a role in removing, or “sequestering”, some of the emissions that are produced. Trees [absorb CO2 through photosynthesis](https://www.forestresearch.gov.uk/tools-and-resources/statistics/forestry-statistics/forestry-statistics-2018/uk-forests-and-climate-change/carbon-cycle/). In 2017, woodland in the UK is [estimated to have removed 18 million tonnes of CO2](https://www.ons.gov.uk/economy/environmentalaccounts/bulletins/woodlandnaturalcapitalaccountsuk/ecosystemservicesforenglandscotlandwalesandnorthernireland2020), which is equivalent to 4% of [the total UK greenhouse gas emissions that year](https://www.ons.gov.uk/economy/environmentalaccounts/datasets/ukenvironmentalaccountsatmosphericemissionsbridgingtables), not including shipping or aviation."
+    },
+    {
+      "type": "p",
+      "h2": "The UK plans to plant many more trees to absorb greenhouse gases",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The [area of tree-covered woodland in the UK](https://www.forestresearch.gov.uk/tools-and-resources/statistics/forestry-statistics/forestry-statistics-2021/) has increased by 11% between 1998 and 2021."
+    },
+    {
+      "type": "p",
+      "h2": "The UK plans to plant many more trees to absorb greenhouse gases",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "In the year ending March 2021, woodland covered about 3.2 million hectares (13%) of the UK’s land area and, by proportion of area, accounted for:"
+    },
+    {
+      "type": "li",
+      "h2": "The UK plans to plant many more trees to absorb greenhouse gases",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "10% of England"
+    },
+    {
+      "type": "li",
+      "h2": "The UK plans to plant many more trees to absorb greenhouse gases",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "15% of Wales"
+    },
+    {
+      "type": "li",
+      "h2": "The UK plans to plant many more trees to absorb greenhouse gases",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "19% of Scotland"
+    },
+    {
+      "type": "li",
+      "h2": "The UK plans to plant many more trees to absorb greenhouse gases",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "9% of Northern Ireland"
+    },
+    {
+      "type": "p",
+      "h2": "The UK plans to plant many more trees to absorb greenhouse gases",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "This compares with an average [estimated woodland coverage](https://www.forestresearch.gov.uk/documents/8164/Ch9_International_FS2021.pdf) of 31% worldwide, 32% in France, 33% in Germany and 11% in the Republic of Ireland in 2020."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "How much of where you live is covered by woodland?",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "How much of where you live is covered by woodland?"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "How much of where you live is covered by woodland?",
+      "h3": null,
+      "h4": null,
+      "h5": "Woodland as a percentage of area, local authority districts, UK, 2019",
+      "text": "Woodland as a percentage of area, local authority districts, UK, 2019"
+    },
+    {
+      "type": "p",
+      "h2": "How much of where you live is covered by woodland?",
+      "h3": null,
+      "h4": null,
+      "h5": "Woodland as a percentage of area, local authority districts, UK, 2019",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "How much of where you live is covered by woodland?",
+      "h3": null,
+      "h4": null,
+      "h5": "Woodland as a percentage of area, local authority districts, UK, 2019",
+      "title": "How much of where you live is covered by woodland? ",
+      "url": "/visualisations/dvc1588/map-trees/index.html"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "How much of where you live is covered by woodland?",
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "Notes:"
+    },
+    {
+      "type": "li",
+      "h2": "How much of where you live is covered by woodland?",
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "Woodland cover for Great Britain is based on areas of trees of at least 0.5 hectares, wider than 20 metres, with a minimum of 20% canopy cover, or the potential to achieve it. In Northern Ireland, woodland is classed as an area of trees of 0.1 hectares or more. See [Measuring the data](#measuring) for more information"
+    },
+    {
+      "type": "li",
+      "h2": "How much of where you live is covered by woodland?",
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "In 2017, there were around [742,000 hectares of trees outside woodland in Great Britain](https://www.forestresearch.gov.uk/documents/2698/FR_Tree_cover_outside_woodland_in_GB_summary_report_2017.pdf) that are not shown in the map, including 390,000 hectares of small woods between 0.1 and 0.5 hectares in size."
+    },
+    {
+      "type": "p",
+      "h2": "How much of where you live is covered by woodland?",
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "[Download the data for woodland by local authority district (XLSX, 30KB)](/visualisations/dvc1588/map-trees/data/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "How much of where you live is covered by woodland?",
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "Our analysis of the latest local estimates for 2019 showed that the area with the highest percentage of woodland cover (excluding inland water) in the UK was Neath Port Talbot in South Wales, where 39% of land was woodland. It had the 23rd highest CO2 emissions by area (per 16 kt CO2 per km2) out of UK local authorities in 2019."
+    },
+    {
+      "type": "p",
+      "h2": "How much of where you live is covered by woodland?",
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "In England, Waverley in Surrey had the highest proportion of its area covered by woodland, with almost 34% in 2019. The highest in Scotland was Moray, with around 30% of its area covered by woodland, while in Northern Ireland the highest woodland cover was 13% of Fermanagh and Omagh."
+    },
+    {
+      "type": "p",
+      "h2": "How much of where you live is covered by woodland?",
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "The areas with the lowest percentage of land covered by woodland were Shetland (0.04%) and the Orkney Islands (0.2%)."
+    },
+    {
+      "type": "p",
+      "h2": "How much of where you live is covered by woodland?",
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "The Committee on Climate Change, which advises the government on emissions targets, recommends that woodland should be increased to [at least 17% of land area](https://www.theccc.org.uk/publication/land-use-policies-for-a-net-zero-uk/) by 2050 to raise the amount of greenhouse gases that are removed from the air and stored by trees."
+    },
+    {
+      "type": "p",
+      "h2": "How much of where you live is covered by woodland?",
+      "h3": null,
+      "h4": null,
+      "h5": "Notes:",
+      "text": "The Forestry Commission has found [strong public support for tree-planting](https://www.forestresearch.gov.uk/tools-and-resources/statistics/statistics-by-topic/public-opinion-of-forestry/), with 83% of those surveyed in the UK in early 2021 who had visited woodland in the previous few years agreeing with the statement that “a lot more trees should be planted” in response to the threat of climate change."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Why some areas have low woodland coverage",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Why some areas have low woodland coverage"
+    },
+    {
+      "type": "p",
+      "h2": "Why some areas have low woodland coverage",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Some of the areas with low percentages of woodland include places with large amounts of wetland, while about [12% of the UK land area is peatland](https://www.ons.gov.uk/economy/environmentalaccounts/bulletins/uknaturalcapitalforpeatlands/naturalcapitalaccounts)."
+    },
+    {
+      "type": "p",
+      "h2": "Why some areas have low woodland coverage",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Parts of Lincolnshire and Cambridgeshire, along with areas of Norfolk and Suffolk, are known as The Fens. South Holland in Lincolnshire has 0.4% woodland. Fenland in Cambridgeshire has 0.5% as does Boston in Lincolnshire."
+    },
+    {
+      "type": "p",
+      "h2": "Why some areas have low woodland coverage",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "[According to Natural England (PDF, 3.5 MB)](http://%20http://publications.naturalengland.org.uk/file/6741421035356160), deep fen peats are found in the Fens of Cambridgeshire and Lincolnshire, around the Broads and Fens of East Anglia, the Somerset Levels and the Lancashire Mosslands. While trees remove carbon dioxide from the air, peat bogs also store large amounts of carbon. However, when peat bogs are in a poor condition they release greenhouse gases."
+    },
+    {
+      "type": "p",
+      "h2": "Why some areas have low woodland coverage",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Planting trees on deep peat leads to the drying out of the soils and release of greenhouse gases, so the [UK Forestry Standard (UKFS)](https://www.forestresearch.gov.uk/documents/7105/FCFC001_Y3KHNAW.pdf) says planting trees should be avoided on peat deeper than 50cm."
+    },
+    {
+      "type": "p",
+      "h2": "Why some areas have low woodland coverage",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The net benefits, in terms of climate change emissions alone, of restoring 55% of peatlands to near natural condition were estimated in 2019 to have a value of approximately £45 billion to £51 billion over the next 100 years."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "The target for new woodland in the UK is the equivalent of covering twice the area of Cardiff with trees every year",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The target for new woodland in the UK is the equivalent of covering twice the area of Cardiff with trees every year"
+    },
+    {
+      "type": "p",
+      "h2": "The target for new woodland in the UK is the equivalent of covering twice the area of Cardiff with trees every year",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The [Committee on Climate Change](https://www.theccc.org.uk/publication/land-use-policies-for-a-net-zero-uk/), which recommended the 30,000 hectare a year target for new woodland, as adopted by the UK government, says this is equivalent to between 90 and 120 million trees, depending on planting density."
+    },
+    {
+      "type": "p",
+      "h2": "The target for new woodland in the UK is the equivalent of covering twice the area of Cardiff with trees every year",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "To put this target into perspective, 30,000 hectares would be similar to planting enough trees every year to cover Cardiff (14,000 hectares) or Belfast (14,000 hectares) more than twice, or more than cover the whole of the City of Edinburgh (26,000 hectares), or almost cover the Milton Keynes local authority area (31,000 hectares)."
+    },
+    {
+      "type": "p",
+      "h2": "The target for new woodland in the UK is the equivalent of covering twice the area of Cardiff with trees every year",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "The most recent year when new woodland planting in the UK was 30,000 hectares or more was April 1988 to March 1989."
+    },
+    {
+      "type": "p",
+      "h2": "The target for new woodland in the UK is the equivalent of covering twice the area of Cardiff with trees every year",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "On the latest figures, for the year ending 31 March 2021, there were 13,290 hectares of new [woodland planted](https://www.forestresearch.gov.uk/tools-and-resources/statistics/forestry-statistics/) in the UK. This compares with 13,660 hectares in the year ending 31 March 2020."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "h2": "Annual woodland planting in the UK has been above 13,000 hectares for three years",
+      "h3": null,
+      "h4": null,
+      "h5": null,
+      "text": "Annual woodland planting in the UK has been above 13,000 hectares for three years"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Annual woodland planting in the UK has been above 13,000 hectares for three years",
+      "h3": null,
+      "h4": null,
+      "h5": "Hectares, thousands, of new woodland planted in the UK, years ending 31 March, 1976 to 2021",
+      "text": "Hectares, thousands, of new woodland planted in the UK, years ending 31 March, 1976 to 2021"
+    },
+    {
+      "type": "p",
+      "h2": "Annual woodland planting in the UK has been above 13,000 hectares for three years",
+      "h3": null,
+      "h4": null,
+      "h5": "Hectares, thousands, of new woodland planted in the UK, years ending 31 March, 1976 to 2021",
+      "text": ""
+    },
+    {
+      "type": "interactive",
+      "h2": "Annual woodland planting in the UK has been above 13,000 hectares for three years",
+      "h3": null,
+      "h4": null,
+      "h5": "Hectares, thousands, of new woodland planted in the UK, years ending 31 March, 1976 to 2021",
+      "title": "Government woodland targets are more than double recent annual planting ",
+      "url": "/visualisations/dvc1588/countries-stacked/index.html"
+    },
+    {
+      "type": "p",
+      "h2": "Annual woodland planting in the UK has been above 13,000 hectares for three years",
+      "h3": null,
+      "h4": null,
+      "h5": "Hectares, thousands, of new woodland planted in the UK, years ending 31 March, 1976 to 2021",
+      "text": "[Download the data for new woodland planting in the UK (XLSX, 12KB)](/visualisations/dvc1588/countries-stacked/datadownload.xlsx)"
+    },
+    {
+      "type": "p",
+      "h2": "Annual woodland planting in the UK has been above 13,000 hectares for three years",
+      "h3": null,
+      "h4": null,
+      "h5": "Hectares, thousands, of new woodland planted in the UK, years ending 31 March, 1976 to 2021",
+      "text": "The type of tree being planted is also important. The Committee on Climate Change assumes a [60:40 split of broadleaf to conifer trees](https://www.theccc.org.uk/publication/land-use-policies-for-a-net-zero-uk/)."
+    },
+    {
+      "type": "p",
+      "h2": "Annual woodland planting in the UK has been above 13,000 hectares for three years",
+      "h3": null,
+      "h4": null,
+      "h5": "Hectares, thousands, of new woodland planted in the UK, years ending 31 March, 1976 to 2021",
+      "text": "Conifer species, such as the Sitka spruce, which is widely planted in forests, tend to grow faster and therefore absorb carbon faster, but broadleaf species, such as oak, store more carbon in the long term."
+    },
+    {
+      "type": "p",
+      "h2": "Annual woodland planting in the UK has been above 13,000 hectares for three years",
+      "h3": null,
+      "h4": null,
+      "h5": "Hectares, thousands, of new woodland planted in the UK, years ending 31 March, 1976 to 2021",
+      "text": "[Conifers account for approximately half](https://www.forestresearch.gov.uk/tools-and-resources/statistics/data-downloads/) (51%) of the UK woodland area in 2021, with just over half (56%) of these conifers privately owned. In contrast, the majority (92%) of broadleaved woodland is privately owned."
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "h2": "Annual woodland planting in the UK has been above 13,000 hectares for three years",
+      "h3": "Measuring the data",
+      "h4": null,
+      "h5": null,
+      "text": "Measuring the data"
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Annual woodland planting in the UK has been above 13,000 hectares for three years",
+      "h3": "Measuring the data",
+      "h4": null,
+      "h5": "CO2 emissions",
+      "text": "CO2 emissions"
+    },
+    {
+      "type": "p",
+      "h2": "Annual woodland planting in the UK has been above 13,000 hectares for three years",
+      "h3": "Measuring the data",
+      "h4": null,
+      "h5": "CO2 emissions",
+      "text": "Local authority area CO2 estimates are quoted on an ‘end-user’ basis. This means that emissions from energy supply, such as those from power stations and refineries, are allocated to areas based on their energy use rather than the location where the emission occurs. Other emissions are allocated based on the location of the emission. The CO2 estimates used include those emitted within a local authority area, including from large industrial sites, railways, land use and motorways that pass through but are not within the control of local authorities. [More information can be found in the BEIS statistical release](https://www.gov.uk/government/statistics/uk-local-authority-and-regional-carbon-dioxide-emissions-national-statistics-2005-to-2019)."
+    },
+    {
+      "type": "heading",
+      "level": "h5",
+      "h2": "Annual woodland planting in the UK has been above 13,000 hectares for three years",
+      "h3": "Measuring the data",
+      "h4": null,
+      "h5": "Woodland cover",
+      "text": "Woodland cover"
+    },
+    {
+      "type": "p",
+      "h2": "Annual woodland planting in the UK has been above 13,000 hectares for three years",
+      "h3": "Measuring the data",
+      "h4": null,
+      "h5": "Woodland cover",
+      "text": "The [National Forest Inventory](https://www.forestresearch.gov.uk/tools-and-resources/national-forest-inventory/) (NFI) woodland map for 2019 was used, to work out the percentage of local authority areas comprised of woodland. Released in June 2021, this provides the most up-to-date local dataset on woodland in Great Britain. Only woodland that covers more than 0.5 hectares and is wider than 20 metres, with a minimum of 20% canopy cover, or the potential to achieve it, is included; trees in private gardens and parks are not included. In 2017, there were around [742,000 hectares of trees outside woodland in Great Britain](https://www.forestresearch.gov.uk/documents/2698/FR_Tree_cover_outside_woodland_in_GB_summary_report_2017.pdf) that are not shown in the map, including 390,000 hectares of small woods between 0.1 and 0.5 hectares in size. Northern Ireland data for 2019 came from the [Northern Ireland Woodland Register](http://www.daera-ni.gov.uk/publications/woodland-register). For these data, woodland is an area of trees, excluding agroforestry, orchards and other non-forestry uses, of at least 0.1 hectare and an average width of greater than 20 metres. We have used the [2020 Standard Area Measurements](https://geoportal.statistics.gov.uk/datasets/1d1d783368d2403d92ad0d61c7d24caf/about), excluding areas of inland water."
+    },
+    {
+      "type": "box",
+      "h2": "Annual woodland planting in the UK has been above 13,000 hectares for three years",
+      "h3": "Measuring the data",
+      "h4": null,
+      "h5": "Woodland cover",
+      "box_h2": "Related",
+      "box_h3": null,
+      "box_text": "Article | Released on 24 July 2019\n\nThe UK government has announced a target of net zero for UK greenhouse gas (GHG) emissions by 2050. This article explains what net zero means, how progress towards it is measured and the differences between official measures of UK GHG emissions.\n\nStatistical bulletin | Released on 15 May 2024\n\nNatural capital accounts containing information on the extent, condition and ecosystem services for woodlands in the UK.\n\nStatistical bulletin | Released on 24 October 2025\n\nMeasuring the air emissions generated by UK economic activities.\n\nArticle | Released on 21 September 2021\n\nWith more people staying at home last year, household greenhouse gas emissions dropped by 10%. Could the shift to home working see lower emissions in the longer term?",
+      "box_items": [
+        "[Net zero and the different official measures of the UK's greenhouse gas emissions](/economy/environmentalaccounts/articles/netzeroandthedifferentofficialmeasuresoftheuksgreenhousegasemissions/2019-07-24) Article | Released on 24 July 2019 The UK government has announced a target of net zero for UK greenhouse gas (GHG) emissions by 2050. This article explains what net zero means, how progress towards it is measured and the differences between official measures of UK GHG emissions.",
+        "[Woodland natural capital accounts, UK](/economy/environmentalaccounts/bulletins/woodlandnaturalcapitalaccountsuk/2024) Statistical bulletin | Released on 15 May 2024 Natural capital accounts containing information on the extent, condition and ecosystem services for woodlands in the UK.",
+        "[Greenhouse gas emissions, UK](/economy/environmentalaccounts/bulletins/greenhousegasintensityprovisionalestimatesuk/2024) Statistical bulletin | Released on 24 October 2025 Measuring the air emissions generated by UK economic activities.",
+        "[COVID-19 restrictions cut household emissions](/economy/environmentalaccounts/articles/covid19restrictionscuthouseholdemissions/2021-09-21) Article | Released on 21 September 2021 With more people staying at home last year, household greenhouse gas emissions dropped by 10%. Could the shift to home working see lower emissions in the longer term?"
+      ]
+    },
+    {
+      "type": "box",
+      "h2": "Annual woodland planting in the UK has been above 13,000 hectares for three years",
+      "h3": "Measuring the data",
+      "h4": null,
+      "h5": "Woodland cover",
+      "box_h2": "Contact",
+      "box_h3": null,
+      "box_text": "[digitalcontent@ons.gov.uk](mailto:digitalcontent@ons.gov.uk)\n",
+      "box_items": null
+    }
+  ],
+  "scraped_at": "2026-09-22 11:47:04.040399"
+}
