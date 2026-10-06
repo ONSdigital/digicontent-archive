@@ -1,0 +1,58 @@
+﻿plot,xcategory,ycategory,value
+White ,19 or less hours,"English, Welsh, Scottish, Northern Irish or British",0.048
+White ,20 to 49 hours,"English, Welsh, Scottish, Northern Irish or British",0.019
+White ,50 or more hours,"English, Welsh, Scottish, Northern Irish or British",0.03
+White ,19 or less hours,Irish,0.047
+White ,20 to 49 hours,Irish,0.017
+White ,50 or more hours,Irish,0.029
+White ,19 or less hours,Gypsy or Irish Traveller,0.032
+White ,20 to 49 hours,Gypsy or Irish Traveller,0.034
+White ,50 or more hours,Gypsy or Irish Traveller,0.052
+White ,19 or less hours,Other White,0.02
+White ,20 to 49 hours,Other White,0.011
+White ,50 or more hours,Other White,0.013
+White ,19 or less hours,Roma,0.012
+White ,20 to 49 hours,Roma,0.014
+White ,50 or more hours,Roma,0.014
+"Asian, Asian British or Asian Welsh",19 or less hours,Indian,0.037
+"Asian, Asian British or Asian Welsh",20 to 49 hours,Indian,0.019
+"Asian, Asian British or Asian Welsh",50 or more hours,Indian,0.019
+"Asian, Asian British or Asian Welsh",19 or less hours,Pakistani,0.03
+"Asian, Asian British or Asian Welsh",20 to 49 hours,Pakistani,0.026
+"Asian, Asian British or Asian Welsh",50 or more hours,Pakistani,0.024
+"Asian, Asian British or Asian Welsh",19 or less hours,Bangladeshi,0.029
+"Asian, Asian British or Asian Welsh",20 to 49 hours,Bangladeshi,0.023
+"Asian, Asian British or Asian Welsh",50 or more hours,Bangladeshi,0.024
+"Asian, Asian British or Asian Welsh",19 or less hours,Other Asian,0.023
+"Asian, Asian British or Asian Welsh",20 to 49 hours,Other Asian,0.018
+"Asian, Asian British or Asian Welsh",50 or more hours,Other Asian,0.017
+"Asian, Asian British or Asian Welsh",19 or less hours,Chinese,0.022
+"Asian, Asian British or Asian Welsh",20 to 49 hours,Chinese,0.009
+"Asian, Asian British or Asian Welsh",50 or more hours,Chinese,0.011
+"Black, Black British, Black Welsh, Caribbean or African",19 or less hours,Caribbean,0.048
+"Black, Black British, Black Welsh, Caribbean or African",20 to 49 hours,Caribbean,0.024
+"Black, Black British, Black Welsh, Caribbean or African",50 or more hours,Caribbean,0.023
+"Black, Black British, Black Welsh, Caribbean or African",19 or less hours,Other Black,0.033
+"Black, Black British, Black Welsh, Caribbean or African",20 to 49 hours,Other Black,0.018
+"Black, Black British, Black Welsh, Caribbean or African",50 or more hours,Other Black,0.016
+"Black, Black British, Black Welsh, Caribbean or African",19 or less hours,African,0.021
+"Black, Black British, Black Welsh, Caribbean or African",20 to 49 hours,African,0.022
+"Black, Black British, Black Welsh, Caribbean or African",50 or more hours,African,0.014
+Other ethnic group,19 or less hours,Any other ethnic group,0.03
+Other ethnic group,20 to 49 hours,Any other ethnic group,0.02
+Other ethnic group,50 or more hours,Any other ethnic group,0.02
+Other ethnic group,19 or less hours,Arab,0.023
+Other ethnic group,20 to 49 hours,Arab,0.022
+Other ethnic group,50 or more hours,Arab,0.021
+Mixed or Multiple ethnic groups,19 or less hours,Other Mixed or Multiple ethnic groups,0.038
+Mixed or Multiple ethnic groups,20 to 49 hours,Other Mixed or Multiple ethnic groups,0.015
+Mixed or Multiple ethnic groups,50 or more hours,Other Mixed or Multiple ethnic groups,0.016
+Mixed or Multiple ethnic groups,19 or less hours,White and Black Caribbean,0.033
+Mixed or Multiple ethnic groups,20 to 49 hours,White and Black Caribbean,0.017
+Mixed or Multiple ethnic groups,50 or more hours,White and Black Caribbean,0.017
+Mixed or Multiple ethnic groups,19 or less hours,White and Black African,0.027
+Mixed or Multiple ethnic groups,20 to 49 hours,White and Black African,0.013
+Mixed or Multiple ethnic groups,50 or more hours,White and Black African,0.012
+Mixed or Multiple ethnic groups,19 or less hours,White and Asian,0.033
+Mixed or Multiple ethnic groups,20 to 49 hours,White and Asian,0.011
+Mixed or Multiple ethnic groups,50 or more hours,White and Asian,0.011

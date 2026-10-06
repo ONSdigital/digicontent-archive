@@ -1,0 +1,27 @@
+name,Student,Looking after home or family,Long-term sick or disabled,Retired,Other,yPosition,labelOnly
+White,0,0,0,0,0,0.04,T
+Gypsy or Irish Traveller,0.06,0.18,0.15,0.01,0.14,0.06,F
+"English, Welsh, Scottish, Northern Irish or British",0.06,0.05,0.05,0.04,0.03,0.088,F
+Roma,0.06,0.07,0.02,0.01,0.07,0.116,F
+Irish,0.05,0.04,0.05,0.04,0.03,0.144,F
+Other White,0.06,0.05,0.01,0.01,0.03,0.172,F
+Other ethnic group,,,,,,0.2,T
+Arab,0.2,0.14,0.05,0.01,0.07,0.22,F
+Any other ethnic group,0.1,0.1,0.04,0.01,0.08,0.248,F
+"Asian, Asian British or Asian Welsh",,,,,,0.276,T
+"Asian, Asian British or Asian Welsh",,,,,,0.276,T
+Bangladeshi,0.13,0.18,0.04,0.01,0.06,0.296,F
+Other Asian,0.12,0.17,0.04,0.01,0.07,0.324,F
+Chinese,0.24,0.08,0.01,0.03,0.04,0.352,F
+Pakistani,0.12,0.11,0.02,0.01,0.06,0.38,F
+Indian,0.09,0.07,0.02,0.02,0.04,0.408,F
+"Black, Black British, Black Welsh, Caribbean or African",,,,,,0.436,T
+Other Black,0.16,0.05,0.06,0.01,0.07,0.456,F
+African,0.15,0.06,0.03,0,0.06,0.484,F
+Caribbean,0.07,0.05,0.06,0.02,0.06,0.512,F
+Mixed or Multiple ethnic groups,,,,,,0.54,T
+White and Black Caribbean,0.13,0.06,0.06,0.01,0.06,0.56,F
+White and Asian,0.19,0.04,0.03,0.01,0.04,0.588,F
+White and Black African,0.16,0.05,0.04,0.01,0.05,0.616,F
+Other Mixed or Multiple ethnic groups,0.14,0.05,0.04,0.01,0.05,0.644,F
+Overall (England and Wales),0.073,0.058,0.047,0.031,0.038,100,F
