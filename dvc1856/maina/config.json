@@ -1,0 +1,201 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "reference": "max",
+    "comparison": "min",
+    "dateFormat": "%d/%m/%Y",
+    "tickFormat": "%Y",
+    "legendLabels": ["Overall GDP"],
+    "LegendPosition_x": [-30, -30, -30],
+    "LegendPosition_y":[-70,-50, -30],
+    "colour_palette": ["#fff", "#118C7B","#F66068","#00A7A3"],
+    "legendStyle": ["line", "rect","rect","line"],
+    "plotLines": [{
+      "key": "Overall GDP",
+      "colour": "#206095",
+
+      "strokewidth":"2px",
+      "strokedasharray": "3 3"
+    },
+    {
+      "key": "latest",
+      "colour": "#206095",
+
+      "strokewidth":"2px",
+      "strokedasharray":"7 7"
+    }
+
+  ],
+  "GDPevents": [{
+    "xVal": "1956-01-01T00:00:00.000Z",
+    "xValend":"1957-12-31T00:00:00.000Z",
+    "yVal": 20,
+    "path": "",
+    "key": "",
+    "colour": "#206095",
+    "barcolour": "#206095",
+    "text": "A",
+    "anchor":"middle",
+    "link":"eventa",
+    "strokewidth":"2px",
+    "strokedasharray": "3 3"
+  },
+  {
+    "xVal": "1973-01-01T00:00:00.000Z",
+    "xValend":"1975-12-31T00:00:00.000Z",
+    "yVal": 20,
+    "path": "",
+    "key": "",
+    "colour": "#fff",
+    "barcolour": "#a6bfd5",
+    "text": "B",
+    "anchor":"middle",
+    "link":"eventb",
+    "strokewidth":"2px",
+    "strokedasharray":"7 7"
+  },
+  {
+    "xVal": "1979-01-01T00:00:00.000Z",
+    "xValend":"1981-12-31T00:00:00.000Z",
+    "yVal": 20,
+    "path": "",
+    "key": "",
+    "colour": "#fff",
+    "barcolour": "#a6bfd5",
+    "text": "C",
+    "anchor":"middle",
+    "link":"eventb",
+    "strokewidth":"2px",
+    "strokedasharray":"7 7"
+  },
+  {
+    "xVal": "1984-01-01T00:00:00.000Z",
+    "xValend":"1985-12-31T00:00:00.000Z",
+    "yVal": 20,
+    "path": "",
+    "key": "",
+    "colour": "#fff",
+    "barcolour": "#a6bfd5",
+    "text": "D",
+    "anchor":"middle",
+    "link":"eventd",
+    "strokewidth":"2px",
+    "strokedasharray":"7 7"
+  },
+  {
+    "xVal": "1990-01-01T00:00:00.000Z",
+    "xValend":"1999-12-31T00:00:00.000Z",
+    "yVal": 20,
+    "path": "",
+    "key": "",
+    "colour": "#fff",
+    "barcolour": "#a6bfd5",
+    "text": "E",
+    "anchor":"middle",
+    "link":"evente",
+    "strokewidth":"2px",
+    "strokedasharray":"7 7"
+  },
+  {
+    "xVal": "2008-01-01T00:00:00.000Z",
+    "xValend":"2008-12-31T00:00:00.000Z",
+    "yVal": 20,
+    "path": "",
+    "key": "",
+    "colour": "#fff",
+    "barcolour": "#a6bfd5",
+    "text": "F",
+    "anchor":"middle",
+    "link":"eventf",
+    "strokewidth":"2px",
+    "strokedasharray":"7 7"
+  },
+  {
+    "xVal": "2019-01-01T00:00:00.000Z",
+    "xValend":"2020-12-31T00:00:00.000Z",
+    "yVal": 20,
+    "path": "",
+    "key": "",
+    "colour": "#fff",
+    "barcolour": "#a6bfd5",
+    "text": "G",
+    "anchor":"middle",
+    "link":"eventg",
+    "strokewidth":"2px",
+    "strokedasharray":"7 7"
+  }
+
+],
+    "directLabels": [{
+        "variable": "Overall GDP",
+        "label": "Overall GDP",
+        "colour": "#666"
+      }
+    ],
+    "sourceText": ["Office for National Statistics – GDP monthly estimate"],
+    "circles": false,
+
+    "yAxisLabel": "12-month percentage change in monthly output",
+    "xAxisLabel": "",
+    "yAxisScale": [-20, 20],
+    "yAxisBreak": false,
+    "yAxisBreakValue": {
+      "sm": 11,
+      "md": 11,
+      "lg": 11
+    },
+    "altmeans": [0.54],
+    "altmins": [0.34],
+    "altmaxs": [0.78],
+    "altdates":["18/11/2020"]
+  },
+
+
+
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 40,
+        "right": 20,
+        "bottom": 20,
+        "left": 15
+      },
+      "md": {
+        "top": 40,
+        "right": 20,
+        "bottom": 20,
+        "left": 15
+      },
+      "lg": {
+        "top": 40,
+        "right": 20,
+        "bottom": 20,
+        "left": 15
+      }
+    },
+
+    "aspectRatio": {
+      "sm": [16, 6],
+      "md": [16, 6],
+      "lg": [16, 6]
+    },
+
+    "mobileBreakpoint": 500,
+    "middleBreakpoint": 650,
+
+    "x_ticks_every": {
+      "sm": 40,
+      "md": 20,
+      "lg": 20
+    },
+    "y_num_ticks": {
+      "sm": 6,
+      "md": 6,
+      "lg": 6
+    },
+
+    "lineMarkers": false
+
+
+  }
+}
