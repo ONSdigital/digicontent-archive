@@ -1,0 +1,27 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "useRanks":true,
+    "timeFormat": "%Y",
+    "timePeriods":["2011","2021"],
+    "colour_palette": ["#36ADD9", "#BBBDBF", "#BBBDBF","#BBBDBF", "#BBBDBF", "#BBBDBF"],
+    "sourceText": ["Office for National Statistics — Inter-Departmental Business Register"],
+    "yAxisLabel":"Rank",
+	"xAxisLabel":"",
+    "yAxisBreak":10.5,
+    "yAxisBreakText":"Top 10\u25B2"
+  },
+
+  "optional": {
+    "margin_sm": [50, 30, 20, 215],
+    "margin_md": [50, 30, 20, 215],
+    "margin_lg": [50, 210, 20, 215],
+
+    "aspectRatio_sm": [7, 50],
+    "aspectRatio_md": [7, 14],
+    "aspectRatio_lg": [7, 14],
+
+    "mobileBreakpoint": 414,
+    "tabletBreakpoint": 650
+  }
+}

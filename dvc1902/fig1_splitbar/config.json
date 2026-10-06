@@ -1,0 +1,24 @@
+{
+  "essential": {
+    "graphic_data_url": "datatri.csv",
+    "colour_palette": ["#871A5B", "#206095"],
+    "screenreadertext":"",
+    "sourceText": ["Office for National Statistics — Inter-Departmental Business Register"],
+    "numberFormat":".0f",
+    "xAxisScale": [-10, 90],
+    "barHeight": {
+      "sm": 30,
+      "md": 30,
+      "lg": 40
+    },
+    "margin":{
+      "sm":{"top":20,"right":0,"bottom":25,"left":180},
+      "md":{"top":20,"right":5,"bottom":25,"left":180},
+      "lg":{"top":20,"right":5,"bottom":25,"left":170}
+    }
+  },
+  "optional": {
+    "mobileBreakpoint": 414,
+    "middleBreakpoint": 600
+  }
+}
