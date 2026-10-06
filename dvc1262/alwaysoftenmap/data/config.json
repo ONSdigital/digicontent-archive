@@ -1,0 +1,10 @@
+{"ons":{
+"maptitle": "Interactive map: Loneliness rates by local authority",
+"varcolour": ["#9bf4ff", "#81bae2", "#6483c6", "#414ea9", "#001c8d"],
+"varunit": "% often or always lonely",
+"displaydecimals": 1,
+"legenddecimals": 0,
+"breaks": "jenks",
+"dropticks": false,
+"numberBreaks": 5
+}}
