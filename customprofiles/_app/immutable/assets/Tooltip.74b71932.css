@@ -1,0 +1,28 @@
+/* purgecss start ignore */
+
+.tooltip.svelte-1491tb3{
+  background:#333;
+  color:white;
+  border-radius:2px;
+  padding:4px;
+  position:absolute;
+  transform:translate(-50%,7px);
+  font-size:0.85em;
+  white-space:nowrap;
+  pointer-events:none;
+  z-index:9999
+}
+
+.caret.svelte-1491tb3{
+  content:" ";
+  position:absolute;
+  bottom:calc(100% - 1px);
+  left:50%;
+  margin-left:-6px;
+  border-width:6px;
+  border-style:solid;
+  border-color:transparent transparent #333 transparent;
+  pointer-events:none
+}
+
+/* purgecss end ignore */
