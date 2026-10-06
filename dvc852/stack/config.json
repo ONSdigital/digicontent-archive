@@ -1,0 +1,51 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+
+            "sort_data": false,
+
+            "colour_palette": ["#24a79b","#515243","#84847a"],
+
+            "dateFormat":"",
+
+            "legendLabels" : ["Arm's length to touching","Slightly close to arm's length","Not near people to slightly close"],
+		
+            "sourceText":["Office for National Statistics – Annual Population Survey"],
+            "sourceURL":["http://www.ons.gov.uk/ons/rel/census/2011-census-analysis/overcrowding-and-under-occupation-in-england-and-wales/index.html"],
+
+            "annotationChart": [],
+            "annotationBullet": [],
+            "annotationXY":[
+                [90,"Private rented" ]
+
+            ],
+            "annotationAlign":[
+                "middle"
+            ],
+
+            "circles" : false,
+            "annotationCXCY":[
+                ["60","Social  rented"]
+
+            ],
+
+            "xAxisLabel":"%",
+            "xAxisScale":[0,100],
+            "xAxisBreak": true,
+            "xAxisBreak_sm_md_lg": [65,65,65]
+    },
+    "optional" : {
+            "margin_sm": [20, 10, 35, 145],
+            "margin_md": [20, 10, 35, 145],
+            "margin_lg": [20, 10, 35, 145],
+
+            "aspectRatio_sm" : [16,50],
+            "aspectRatio_md" : [16,20],
+            "aspectRatio_lg" : [16,20],
+
+            "mobileBreakpoint" : 610,
+
+            "x_num_ticks_sm_md_lg" : [6,8,10]
+
+    }
+}
