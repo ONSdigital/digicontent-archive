@@ -1,0 +1,121 @@
+{
+  "essential": {
+    "graphic_data_url": "regions.csv",
+    "dateFormat": "%d/%m/%Y",
+    "structure": [{
+        "category": ["Covid deaths"],
+        "text": "<span id=\"headerText\">Covid deaths</span><br>In <span id=\"winter2text_cov\">Winter 2021/22</span>, deaths due to Covid have fallen to similar levels as those due to <span id=\"flutext\">flu and pneumonia in Winters 2001/02 to 2019/20</span>, after far exceeding them in <span id=\"winter1text_cov\">Winter 2020/21</span> .",
+        "colour": ["#206095", "#F66068"],
+        "yoffset":{"Vacancies":[-5,12],"Employees on payroll":[0,12]}
+      },
+      {
+        "category": ["Flu deaths"],
+        "text": "<span id=\"headerText\">Flu and pneumonia deaths</span><br>Deaths due to flu and pneumonia in <span id=\"winter1text_flu\">Winter 2020/21</span> and <span id=\"winter2text_flu\">Winter 2021/22</span> were lower than in <span id=\"flutext\">Winters 2001/02 to 2019/20</span>",
+        "colour": ["#871A5B", "#A8BD3A"],
+        "yoffset":{"Vacancies":[5,5],"Employees on payroll":[0,12]}
+      }
+    ],
+    "colour_palette": [
+      {"key":"2001/02", "colour":"#a9a9a9"},
+      {"key":"2002/03", "colour":"#a9a9a9"},
+      {"key":"2003/04", "colour":"#a9a9a9"},
+      {"key":"2004/05", "colour":"#a9a9a9"},
+      {"key":"2005/06", "colour":"#a9a9a9"},
+      {"key":"2006/07", "colour":"#a9a9a9"},
+      {"key":"2007/08", "colour":"#a9a9a9"},
+      {"key":"2008/09", "colour":"#a9a9a9"},
+      {"key":"2009/10", "colour":"#a9a9a9"},
+      {"key":"2010/11", "colour":"#a9a9a9"},
+      {"key":"2011/12", "colour":"#a9a9a9"},
+      {"key":"2012/13", "colour":"#a9a9a9"},
+      {"key":"2013/14", "colour":"#a9a9a9"},
+      {"key":"2014/15", "colour":"#a9a9a9"},
+      {"key":"2015/16", "colour":"#a9a9a9"},
+      {"key":"2016/17", "colour":"#a9a9a9"},
+      {"key":"2017/18", "colour":"#a9a9a9"},
+      {"key":"2018/19", "colour":"#a9a9a9"},
+      {"key":"2019/20", "colour":"#a9a9a9"},
+      {"key":"2020/21", "colour":"#27A0CC"},
+      {"key":"2021/22", "colour":"#003C57"},
+      {"key":"2020/21_c", "colour":"#F66068"},
+      {"key":"2021/22_c", "colour":"#871A5B"}
+    ],
+    "opacity": [
+      {"key":"2001/02", "opacity":0.3},
+      {"key":"2002/03", "opacity":0.3},
+      {"key":"2003/04", "opacity":0.3},
+      {"key":"2004/05", "opacity":0.3},
+      {"key":"2005/06", "opacity":0.3},
+      {"key":"2006/07", "opacity":0.3},
+      {"key":"2007/08", "opacity":0.3},
+      {"key":"2008/09", "opacity":0.3},
+      {"key":"2009/10", "opacity":0.3},
+      {"key":"2010/11", "opacity":0.3},
+      {"key":"2011/12", "opacity":0.3},
+      {"key":"2012/13", "opacity":0.3},
+      {"key":"2013/14", "opacity":0.3},
+      {"key":"2014/15", "opacity":0.3},
+      {"key":"2015/16", "opacity":0.3},
+      {"key":"2016/17", "opacity":0.3},
+      {"key":"2017/18", "opacity":0.3},
+      {"key":"2018/19", "opacity":0.3},
+      {"key":"2019/20", "opacity":0.3},
+      {"key":"2020/21", "opacity":1},
+      {"key":"2021/22", "opacity":1},
+      {"key":"2020/21_c", "opacity":1},
+      {"key":"2021/22_c", "opacity":1}
+    ],
+    "categorySort": [
+
+    ],
+    "sourceText": ["Office for National Statistics"],
+    "xAxisLabel": "",
+    "yAxisLabel": "Monthly deaths",
+    "yAxisScale": "auto_zero_max_total"
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 30,
+        "right": 30,
+        "bottom": 45,
+        "left": 50
+      },
+      "md": {
+        "top": 30,
+        "right": 25,
+        "bottom": 50,
+        "left": 40
+      },
+      "lg": {
+        "top": 35,
+        "right": 35,
+        "bottom": 45,
+        "left": 40
+      }
+    },
+    "chart_every":{
+      "sm": 1,
+      "md": 2,
+      "lg": 2
+    },
+    "aspectRatio": {
+      "sm": [16, 8],
+      "md": [16, 8],
+      "lg": [16, 10]
+    },
+    "legendHeight":{
+      "sm": 45,
+      "md": 30,
+      "lg": 30
+    },
+
+    "mobileBreakpoint": 430,
+    "middleBreakpoint": 670,
+    "x_ticks_every": {
+      "sm": 380,
+      "md": 380,
+      "lg": 210
+    }
+  }
+}

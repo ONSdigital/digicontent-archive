@@ -1,0 +1,102 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "screenreadertext":"The chart canvas is hidden from screen readers. The main message is summarised by the chart title and the data behind the chart is available to download below.",
+    "dateFormat": "%d-%b-%y",
+    "displayTicksFormat":"%b-%Y",
+    "colour_palette": [{
+        "key": "Deaths due to",
+        "colour": "#003C57"
+      },
+      {
+          "key": "Deaths involving but not due to",
+          "colour": "#27A0CC"
+      }
+    ],
+    "categorySort": [],
+    "sourceText": ["Office for National Statistics"],
+    "xAxisLabel": "",
+    "yAxisLabel": ["Weekly deaths", "%"],
+    "yAxisScale": "auto_zero_max_total"
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 50,
+        "right": 30,
+        "bottom": 50,
+        "left": 50
+      },
+      "md": {
+        "top": 50,
+        "right": 30,
+        "bottom": 50,
+        "left": 50
+      },
+      "lg": {
+        "top": 50,
+        "right": 50,
+        "bottom": 50,
+        "left": 50
+      }
+    },
+    "chart_every":{
+      "sm": 1,
+      "md": 1,
+      "lg": 2
+    },
+    "aspectRatio": {
+      "sm": [16, 12],
+      "md": [16, 10],
+      "lg": [16, 12]
+    },
+    "legendHeight":{
+      "sm": 60,
+      "md": 40,
+      "lg": 40
+    },
+    "legendStyle": "rect",
+
+    "mobileBreakpoint": 480,
+    "middleBreakpoint": 645,
+    "x_ticks_every": {
+      "sm": 26,
+      "md": 26,
+      "lg": 26
+    },
+    "chartNames":{
+      "COVID-19": "COVID-19",
+      "Flu": "Flu and pneumonia",
+      "Respiratory": "All respiratory diseases (including flu and pneumonia)"
+    },
+    "annotationChart": [
+    "By the end of Jan 2021, 90% of all deaths involving COVID-19 listed coronavirus as the primary cause of death",
+    "By the end of Jan 2022, this had fallen to 71% of all deaths involving COVID-19"
+     ],
+     "annotationSelect":[
+       "COVID-19",
+       "COVID-19"
+     ],
+     "annotationBullet": [
+     "Lorem ipsum  dolor sit amet",
+     "Lorem ipsum  dolor sit amet"
+      ],
+     "annotationXY":[
+      ["29-Jan-21",7400],
+      ["26-Jan-22",986]
+     ],
+     "annotationOffset":[
+     [120,10],
+     [-100,-60]
+     ],
+     "annotationAlign":[
+      "middle",
+      "middle"
+     ],
+     "lineCurveOffset":[
+       [0,-10],
+       [10,0]
+     ],
+    "wordwrap":[100,100]
+  }
+}
