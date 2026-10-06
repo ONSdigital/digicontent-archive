@@ -1,0 +1,63 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "legendLabels": ["July 2019 to March 2020", "January to March 2021"],
+    "colour_palette": ["#003C57","#1AA590"],
+    "sourceText": ["Office for National Statistics – Opinions and Lifestyle Survey"],
+
+    "annotationChart": [
+    ],
+    "annotationBullet": [],
+    "annotationXY": [
+    ],
+    "annotationAlign": [
+
+    ],
+    "minmaxonly": true,
+    "arrows": "none",
+    "tooltip": true,
+    "xAxisLabel": "Rates (%)",
+    "yAxisLabel": "",
+    "xAxisScale": [0,40],
+    "dotsize": [5,5]
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 20,
+        "right": 10,
+        "bottom": 5,
+        "left": 220
+      },
+      "md": {
+        "top": 10,
+        "right": 10,
+        "bottom": 5,
+        "left": 220
+      },
+      "lg": {
+        "top": 10,
+        "right": 10,
+        "bottom": 5,
+        "left": 220
+      }
+    },
+
+    "aspectRatio": {
+      "sm": [4, 11],
+      "md": [3, 4],
+      "lg": [16, 16]
+    },
+
+    "mobileBreakpoint": 510,
+    "middleBreakpoint": 600,
+    "x_num_ticks": {
+      "sm": 6,
+      "md": 8,
+      "lg": 10
+    },
+
+    "centre_line": false,
+    "centre_line_value": 0
+  }
+}
