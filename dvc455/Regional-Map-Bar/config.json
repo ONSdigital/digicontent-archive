@@ -1,0 +1,49 @@
+{
+    "essential" : {
+
+            "colour_palette":[
+                "#414042","#747374","#abaaab","#e5e5e5","#D32F2F"
+
+            ],
+
+            "sourceText":["Public sector employment, ONS"],
+            "sourceURL":["https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/publicsectorpersonnel/bulletins/publicsectoremployment/previousReleases"],
+
+            "annotationChart": [
+
+            ],
+            "annotationBullet": [
+
+            ],
+            "annotationXY":[
+
+            ],
+            "annotationAlign":[
+                "middle"
+            ],
+
+            "barHeight_sm_md_lg" : [30,30,30],
+
+            "xAxisLabel":"%",
+            "xAxisScale":[-20,5]
+    },
+    "optional" : {
+            "display_average": "",
+            "average": "",
+            "margin_sm": [25, 20, 35, 190],
+            "margin_md": [25, 20, 35, 190],
+            "margin_lg": [25, 20, 35, 190],
+
+            "aspectRatio_sm" : [4,7],
+            "aspectRatio_md" : [1,1],
+            "aspectRatio_lg" : [16,10],
+            "number_breaks" : 5,
+            "breaks_choice" : [-20,-14,-10,-7,0,5],
+            "mobileBreakpoint" : 550,
+
+            "x_num_ticks_sm_md_lg" : [6,5,5],
+
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}
