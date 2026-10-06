@@ -1,0 +1,378 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Page title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1; maximum-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css" media="screen">
+    
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+    <!-- Optional CSS -->
+    <!--
+    <link rel="stylesheet" href="css/jquery-ui-1.10.4.custom.min.css">
+    <link rel="stylesheet" href="css/jquery.ui.labeledslider.css">
+    <link rel="stylesheet" href="css/jquery.zglossary.css">
+    <link rel="stylesheet" href="css/owl.carousel.css">
+    <link rel="stylesheet" href="css/jowl.default.css">
+    <link rel="stylesheet" href="css/owl.theme.default.css">
+    <link rel="stylesheet" href="css/style-chosen.css">
+	-->
+    
+    <style>
+		
+		body {
+			
+			color:#666;
+		}
+		#main {
+			padding-top:10px;
+			padding-left:10px;
+			padding-right:10px;
+		}
+		
+		@font-face {
+			font-family: 'open_sanslight';		
+			src: url('assets/OpenSans-Light-webfont.woff') format('woff');
+			font-weight: normal;
+			font-style: normal;
+		
+		}
+		
+		@font-face {
+			font-family: 'open_sansitalic';		
+			src: url('assets/OpenSans-Italic-webfont.woff') format('woff');
+			font-weight: normal;
+			font-style: normal;
+		
+		}
+		
+		@font-face {
+			font-family: 'open_sansregular';		
+			src: url('assets/OpenSans-Regular-webfont.woff') format('woff');
+			font-weight: normal;
+			font-style: normal;
+		
+		}
+		
+		@font-face {
+			font-family: 'open_sanssemibold';		
+			src: url('assets/OpenSans-Semibold-webfont.woff') format('woff');
+			font-weight: normal;
+			font-style: normal;
+		
+		}
+		
+		.foot {
+			font-size:12px;
+		}
+		
+		.row {
+			margin-bottom:15px;	
+		}
+		
+		
+	
+		
+		/*Slider CSS*/
+
+		#range{
+			border:none;
+			height:10px;
+		
+		}
+		
+		#slider:before{
+			display:block;
+			/*background-image: url('../img/rangeBar.png');	*/
+			background-position:0px 10px;
+			background-repeat: repeat-x;
+			margin-left:9px;
+			width:calc(100%-9px);
+			height:30px;
+			position:relative;
+			position:absolute;
+			content:""
+		}
+		
+		#range td{
+			border:none;
+		}
+		
+		.rangeGrip{
+			width:30px;
+			height:30px;
+			cursor:ew-resize;
+			background-color:#dadada;
+			-webkit-animation-name: gripper; /* Chrome, Safari, Opera */
+			animation-iteration-count: infinite;
+			animation-name: gripper;
+			animation-duration: 2s;
+		  border: 6px solid #FFF;
+		  border-radius: 18px;
+		  box-shadow: 0 0 2px #888;
+			z-index:8;
+		}
+		/* Chrome, Safari, Opera */
+		@-webkit-keyframes gripper {
+			0% {border:11px solid #FFF;}
+			50% {border:4px solid #FFF;}
+			100% {border:11px solid #FFF;}
+		}
+		/* Standard syntax */
+		@keyframes gripper {
+			0% {border:11px solid #FFF;}
+			50% {border:4px solid #FFF;}
+			100% {border:11px solid #FFF;}
+		}
+		
+		
+		.rangeDrag .rangeGrip, .rangeGrip:hover{
+			background-position:right;
+		}
+		
+		#text{
+			color:#666;
+			float:right;
+			pointer-events:none;
+		}
+
+		.box1{
+			background:#004358;
+			border-radius:10px;
+            border-width: 5px;
+			margin-right:4px;
+		}
+		
+		.box2{
+			background:#F1C40F;
+			border-radius:10px;
+            border-width: 5px;
+			margin-right:4px;
+		}
+		
+		.box3{
+			background:#1695A3;
+			border-radius:10px;
+            border-width: 5px;
+			margin-right:4px;
+		}
+		
+		.box4{
+			background:#FFA296;
+			border-radius:20px;
+            border-width: 5px;
+			margin-right:4px;
+		}
+		
+		.box5{
+			background:rgb(255,149,14);
+			border-radius:20px;
+	
+		}
+
+		.sixth{
+			background:rgb(144, 176, 201);
+			border-radius:20px;
+		}
+		
+		.box {
+			width:20px;
+			height:20px;
+			margin: 0 auto;
+			margin-bottom:5px;
+			border-radius:10px;
+			border-style:none!important;
+		}
+	
+		#rotate {
+			text-align:center;	
+		}
+	
+		.textsec {
+			text-align:center;
+			font-family: 'open_sansregular';	
+			font-size:14px;
+		}
+		
+		.textsec span {
+			text-align:center;
+			font-family: 'open_sanssemibold';	
+			font-size:20px;
+		}
+		
+		#submitbut {
+			background-color:rgb(0,132,209);
+			width:200px;
+			text-align:center;
+			font-size:14px;
+			color:white;
+		}
+		#submitbut2 {
+			background-color:rgb(0,132,209);
+			width:100px;
+			text-align:center;
+			font-size:18px;
+			color:white;
+			float:right;
+			margin-top:10px;
+		}
+		#submitbut:hover, #submitbut2:hover {
+			cursor: pointer;
+			cursor: hand;
+			background-color:rgb(5,163,255);
+			text-align:center;
+			color:white;
+		}
+		#submitbuttext {
+			padding-bottom:10px;
+			padding-top:10px;
+			margin-bottom:0!important;
+		}
+		#submitbuttext2 {
+			padding-bottom:10px!important;
+			padding-top:10px!important;
+			margin-bottom:0!important;
+			font-size:18px!important;
+			text-decoration:none!important;
+			color:white!important;
+		}
+		#instructionpara {
+			margin-bottom:20px;
+		}
+		
+			.marker, .marker2{
+		stroke:#008cba;
+		stroke-width:3px;
+		fill:none;
+		display:block;
+		}
+		#QuestionMain {
+			font-weight:bold;
+			font-family:'Open Sans','Lucida Grande','Arial',sans-serif;
+			color:#004159;
+			line-height:2.8rem;
+			font-size:26px;
+			margin-bottom:30px;
+		}
+		#AnswerDescription {
+			line-height:2.8rem;
+			margin-top:40px;
+			background-color:#f4f4f4;
+			margin-top: 40px;
+			font-family: 'Open Sans','Lucida Grande','Arial',sans-serif;
+			color: #414042;
+			font-weight:lighter!important;
+			font-size: 1.8rem;
+			padding:30px 30px 30px 30px;
+		}
+		#sourceInfo {
+			font-size:14px;
+		}
+		
+		
+		#bold {
+			font-weight:bold;	
+		}
+		.share {
+			padding-left:0px!important;
+			padding-right:0px!important;
+			padding-top:0px!important;
+			margin-top:0px!important;
+			cursor:pointer;
+			opacity:0.7;
+		}
+		
+		.share:hover {
+			
+			opacity:1;
+		}
+			
+
+@media (min-width: 768px) {
+
+}
+		
+	</style>
+
+
+  </head>
+  <body id="childt">
+  
+<div class="container-fluid">   
+<div id="main">
+<div class="row">
+<div class="col-sm-12 col-xs-12">
+
+ 
+<p id="QuestionMain">Thank you for playing.</p>
+<p id="instructionpara" class="instructionparaGo">For more information on UK migration, please see the following;</p>
+
+<p id="instructionpara" class="instructionparaGo">
+<a href="http://visual.ons.gov.uk/uk-perspectives-2016-international-migration-to-and-from-the-uk">International migration to and from the UK (article)</a></p>
+
+<p id="instructionpara" class="instructionparaGo">
+<a href="https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration">International migration (ONS release)</a></p>
+
+
+<div style="padding-left:0px; padding-top:15px;" class="col-sm-12 col-xs-12" id="share">
+                <p>Why not share this?</p>
+                	<div style="padding-bottom:0px; padding-top:0px; padding-left:0px; margin-bottom:0px; float:left;" id="share1"></div>
+                    <div style="padding-bottom:0px; padding-left:10px; margin-bottom:0px; float:left;" id="share2"></div>
+</div>         
+</div>      
+</div><!--end main -->
+</div> <!--end container -->
+</div>
+
+
+
+
+<!-- Constant libraries / frameworks -->
+    <script src="js/jquery-1.11.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+ 	<script src="js/modernizr.custom.56904.js"></script>
+    <script src="js/pym.js" charset="utf-8"></script>
+    <script src="js/colResizable-1.5.min.js"></script>
+    <script src="js/script.js"></script>
+
+    <script>
+	
+		  /* Analytics */
+
+		  /* Google */
+		  // var _gaq = _gaq || [];
+		  // _gaq.push(['_setAccount', 'UA-37894017-1']);
+		  // _gaq.push(['_trackPageview']);
+		
+		
+		  (function() {
+			// var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			// ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			// var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+
+
+		  
+		/* Webtrends v9 (should update to v10)*/
+		var _tag=new WebTrends();
+		_tag.dcsGetId();
+		//]]>
+		</script>
+		<script type="text/javascript">
+		//<![CDATA[
+		_tag.dcsCustom=function(){
+		// Add custom parameters here.
+		//_tag.DCSext.param_name=param_value;
+		}
+		_tag.dcsCollect();
+		</script>
+		<noscript>
+		<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="//statse.webtrendslive.com/dcsay0hycvz5bd4kzkvzlhgdu_5j1u/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.4.0&amp;dcssip=www.statistics.gov.uk"/></div>
+		</noscript>
+
+    </script>
+
+
+  <script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a40b1e2b89c5a598',t:'MTc5MDM1MDcyNg=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
