@@ -1,0 +1,15 @@
+{"code":"worthw",
+ "filepth":"https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/measuringnationalwellbeing/july2017tojune2018",
+ "description":{
+        "title":"Very high rating of how worthwhile the things they do are",
+        "unit":"%"
+    },
+    "months":[],
+    "days":[],
+    "quarters":[],
+    "years":{
+            "catLabels":["2012","2013","2014","2015","2016","2017","2018"],
+            "dataValues":[31.5,32.33,33.86,34.46,34.92,35.7,36]
+    }
+} 
+
