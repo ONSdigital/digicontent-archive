@@ -1,0 +1,39 @@
+﻿ycategory,xcategory,amount
+Whole economy,growth,-20.4
+Agriculture,growth,-4.8
+Index of Production,growth,-16.9
+"Mining, energy and water supply",growth,-7.3
+Manufacturing,growth,-20.2
+Construction,growth,-35
+Index of Services,growth,-19.9
+"Wholesale, retail and motor trades",growth,-20
+Transport and storage,growth,-30
+Accommodation and food services,growth,-86.7
+Information and communication,growth,-11.8
+Financial and insurance services,growth,-3.7
+Real estate,growth,-3.2
+"Professional, scientific and technical activities",growth,-20.4
+Administrative and support activities,growth,-30.2
+Public administration and defence,growth,0.4
+Education,growth,-34.4
+Human health and social activities,growth,-27.2
+All Other services,growth,-45.4
+Whole economy,contrib,-20.4
+Agriculture,contrib,-0.03
+Index of Production,contrib,-2.24
+"Mining, energy and water supply",contrib,-0.28
+Manufacturing,contrib,-1.93
+Construction,contrib,-2.15
+Index of Services,contrib,-15.9
+"Wholesale, retail and motor trades",contrib,-2.11
+Transport and storage,contrib,-1.23
+Accommodation and food services,contrib,-2.24
+Information and communication,contrib,-0.86
+Financial and insurance services,contrib,-0.25
+Real estate,contrib,-0.43
+"Professional, scientific and technical activities",contrib,-1.67
+Administrative and support activities,contrib,-1.64
+Public administration and defence,contrib,0.02
+Education,contrib,-1.94
+Human health and social activities,contrib,-2.04
+All Other services,contrib,-1.58
