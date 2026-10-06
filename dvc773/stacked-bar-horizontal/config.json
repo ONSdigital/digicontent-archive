@@ -1,0 +1,42 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+
+            "sort_data": false,
+
+            "colour_palette": [ "#B8860B", "#0075A3", "#adb8bf", "#8596a0", "#5f7682"],
+
+            "dateFormat":"",
+
+            "legendLabels" : ["Privately rented","Owned with mortgage","Council rented","Housing association","Owned outright"],
+
+            "sourceText":["Office for National Statistics"],
+
+            "annotationChart": [],
+            "annotationBullet": [],
+            "annotationXY":[
+            ],
+            "annotationAlign":[
+            ],
+
+            "circles" : false,
+            "annotationCXCY":[
+            ],
+
+            "xAxisLabel":"%",
+            "xAxisScale":"auto_zero_max",
+            "xAxisBreak_sm_md_lg": [65,65,65]
+    },
+    "optional" : {
+            "margin_sm": [20, 10, 35, 60],
+            "margin_md": [20, 5, 35, 60],
+            "margin_lg": [20, 5, 35, 60],
+
+            "aspectRatio_sm" : [16,10],
+            "aspectRatio_md" : [16,8],
+            "aspectRatio_lg" : [16,6],
+            "mobileBreakpoint" : 610,
+            "x_num_ticks_sm_md_lg" : [6,8,10]
+
+    }
+}
