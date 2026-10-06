@@ -1,0 +1,937 @@
+Product,variable,value,factor,sort_order
+Agriculture products,Industry consumption at basic prices,1.037906612002899,total impact,1
+Forestry products,Industry consumption at basic prices,0.7434404614395981,total impact,1
+Fishing products,Industry consumption at basic prices,0.7172321046677086,total impact,1
+Coal and lignite,Industry consumption at basic prices,1.207859316669431,total impact,1
+"Petroleum, natural gas and mining of metal ores",Industry consumption at basic prices,0.3327340801923184,total impact,1
+Other mining products,Industry consumption at basic prices,1.034403342804138,total impact,1
+Mining support services,Industry consumption at basic prices,0.7772000328332961,total impact,1
+Meat and preserved meat products,Industry consumption at basic prices,1.546653246477293,total impact,1
+"Fish, seafood, fruit and vegetables",Industry consumption at basic prices,1.282565097886822,total impact,1
+Oils and fats,Industry consumption at basic prices,0.8853393318487082,total impact,1
+Dairy products,Industry consumption at basic prices,1.637438782913061,total impact,1
+Grain mill and starch products,Industry consumption at basic prices,0.8446865693199451,total impact,1
+Bakery products,Industry consumption at basic prices,1.186618886286629,total impact,1
+Other food products,Industry consumption at basic prices,1.07852563231395,total impact,1
+Animal feeds,Industry consumption at basic prices,1.488301911931813,total impact,1
+Alcoholic beverages and tobacco,Industry consumption at basic prices,0.941339646236133,total impact,1
+Soft drinks,Industry consumption at basic prices,1.194030678514872,total impact,1
+Textiles,Industry consumption at basic prices,0.5617560950670317,total impact,1
+Clothing,Industry consumption at basic prices,0.6589414487160145,total impact,1
+Leather products,Industry consumption at basic prices,0.772430779666714,total impact,1
+Wood products (excl. furniture),Industry consumption at basic prices,0.5354120714958478,total impact,1
+Paper products,Industry consumption at basic prices,0.8132156738615424,total impact,1
+Printing and recording services,Industry consumption at basic prices,0.6932517577858028,total impact,1
+Coke and refined petroleum products,Industry consumption at basic prices,0.1475000767505271,total impact,1
+Paints and coatings,Industry consumption at basic prices,0.6127664863941898,total impact,1
+Soap and detergents,Industry consumption at basic prices,0.6193600806027337,total impact,1
+Other chemical products,Industry consumption at basic prices,0.5316851334979624,total impact,1
+Industrial gases and fertilizers,Industry consumption at basic prices,0.8869517800804317,total impact,1
+Petrochemicals,Industry consumption at basic prices,0.7913823899379813,total impact,1
+Dyestuffs and agro-chemicals,Industry consumption at basic prices,0.7384353787647341,total impact,1
+Pharmaceutical products,Industry consumption at basic prices,0.4625207647976114,total impact,1
+Rubber and plastic products,Industry consumption at basic prices,0.6254629251840366,total impact,1
+Cement and concrete products,Industry consumption at basic prices,0.8983128557891443,total impact,1
+"Glass, ceramic and stone products",Industry consumption at basic prices,0.9051482550348883,total impact,1
+Basic iron and steel,Industry consumption at basic prices,0.6999975612212873,total impact,1
+Other basic metals and casting,Industry consumption at basic prices,0.4679034953598319,total impact,1
+Fabricated metal products,Industry consumption at basic prices,0.5774045345087647,total impact,1
+Computer and electronic products,Industry consumption at basic prices,0.4928443055413291,total impact,1
+Electrical equipment,Industry consumption at basic prices,0.5974540954850986,total impact,1
+Other machinery and equipment,Industry consumption at basic prices,0.6281542316021406,total impact,1
+Motor vehicles,Industry consumption at basic prices,0.8362260902001245,total impact,1
+Ships and boats,Industry consumption at basic prices,0.9120717586020682,total impact,1
+Aircraft and spacecraft products,Industry consumption at basic prices,0.6938971323032729,total impact,1
+Other Transport Equipment,Industry consumption at basic prices,0.7023478760208939,total impact,1
+Furniture,Industry consumption at basic prices,0.7509173963101541,total impact,1
+Other manufactured goods,Industry consumption at basic prices,0.7484324708543809,total impact,1
+Ship and boat repair and maintenance,Industry consumption at basic prices,0.609574128369495,total impact,1
+Air- and spacecraft repair and maintenance,Industry consumption at basic prices,0.3499879120513656,total impact,1
+Other repair services,Industry consumption at basic prices,0.6291812197430092,total impact,1
+Electricity services,Industry consumption at basic prices,1.786068162951706,total impact,1
+"Mains gas, steam and air conditioning services",Industry consumption at basic prices,1.828146841403498,total impact,1
+Water services,Industry consumption at basic prices,0.5771624892485294,total impact,1
+Sewerage services,Industry consumption at basic prices,0.3362360901047466,total impact,1
+Waste collection and treatment services,Industry consumption at basic prices,0.7675887658540808,total impact,1
+Remediation and waste management services,Industry consumption at basic prices,0.774995117821058,total impact,1
+Construction services,Industry consumption at basic prices,1.145589731947962,total impact,1
+Motor vehicle trade services,Industry consumption at basic prices,0.6803556552840542,total impact,1
+Wholesale trade services,Industry consumption at basic prices,0.6265927017238776,total impact,1
+Retail trade services,Industry consumption at basic prices,0.6417942095642143,total impact,1
+Rail transport services,Industry consumption at basic prices,1.360464811912666,total impact,1
+Land transport services,Industry consumption at basic prices,0.735035188694481,total impact,1
+Water transport services,Industry consumption at basic prices,0.8558303855763059,total impact,1
+Air transport services,Industry consumption at basic prices,0.6197116344104352,total impact,1
+Warehousing services,Industry consumption at basic prices,0.7614480817482954,total impact,1
+Postal and courier services,Industry consumption at basic prices,0.7011866593530589,total impact,1
+Accommodation services,Industry consumption at basic prices,0.7002151358429456,total impact,1
+Food and beverage services,Industry consumption at basic prices,0.7903587598484201,total impact,1
+Publishing services,Industry consumption at basic prices,0.6353912556841166,total impact,1
+Media Production services,Industry consumption at basic prices,0.7776633024977009,total impact,1
+Telecommunications services,Industry consumption at basic prices,0.533699413838906,total impact,1
+Computer programming services,Industry consumption at basic prices,0.5648947568487698,total impact,1
+Information services,Industry consumption at basic prices,0.6229039090068581,total impact,1
+Financial services (excl. insurance and pensions),Industry consumption at basic prices,0.4822321756546928,total impact,1
+Insurance and pension services,Industry consumption at basic prices,0.5012080146669216,total impact,1
+Auxiliary financial services,Industry consumption at basic prices,0.4314672763778896,total impact,1
+Real estate services,Industry consumption at basic prices,0.6508692540755272,total impact,1
+Owner-occupier housing services,Industry consumption at basic prices,0.1993245695520661,total impact,1
+Other real estate services,Industry consumption at basic prices,0.5836743440833142,total impact,1
+Legal services,Industry consumption at basic prices,0.3526493144054498,total impact,1
+Accounting and tax services,Industry consumption at basic prices,0.2448610419403545,total impact,1
+Management consulting services,Industry consumption at basic prices,0.517795626077692,total impact,1
+Architectural and engineering services,Industry consumption at basic prices,0.6839608950016703,total impact,1
+Scientific research and development services,Industry consumption at basic prices,0.5602727465238183,total impact,1
+Advertising and market research services,Industry consumption at basic prices,0.5030641837840593,total impact,1
+Other scientific and technical services,Industry consumption at basic prices,0.8348938722762734,total impact,1
+Veterinary services,Industry consumption at basic prices,0.3175849349075243,total impact,1
+Rental and leasing services,Industry consumption at basic prices,0.5116413165405507,total impact,1
+Employment services,Industry consumption at basic prices,0.6275079231092124,total impact,1
+Travel services,Industry consumption at basic prices,0.9136442197866679,total impact,1
+Security services,Industry consumption at basic prices,0.7858229091902359,total impact,1
+Building and landscape services,Industry consumption at basic prices,0.9288946257826258,total impact,1
+Office support services,Industry consumption at basic prices,0.5363197792454215,total impact,1
+Public administration services (including defence),Industry consumption at basic prices,0.5618958714760839,total impact,1
+Education services,Industry consumption at basic prices,0.3953052005553642,total impact,1
+Health services,Industry consumption at basic prices,0.4987395293788504,total impact,1
+Residential and social care services,Industry consumption at basic prices,0.5833990336985958,total impact,1
+Arts and entertainment services,Industry consumption at basic prices,0.5574224345125521,total impact,1
+Libraries and other cultural services,Industry consumption at basic prices,0.7196489314178565,total impact,1
+Gambling services,Industry consumption at basic prices,0.7449184598270325,total impact,1
+Sports and recreation services,Industry consumption at basic prices,0.6646454451747663,total impact,1
+Membership services,Industry consumption at basic prices,0.6997675802998381,total impact,1
+Computer repair services,Industry consumption at basic prices,0.5385711392425586,total impact,1
+Other personal services,Industry consumption at basic prices,0.3147220843160606,total impact,1
+Services of households who employ domestic personnel,Industry consumption at basic prices,0.0,total impact,1
+Agriculture products,Imports,0.202324941030039,total impact,2
+Forestry products,Imports,0.1152731448308754,total impact,2
+Fishing products,Imports,0.3348602729980787,total impact,2
+Coal and lignite,Imports,0.3111661174026044,total impact,2
+"Petroleum, natural gas and mining of metal ores",Imports,0.08755973710009689,total impact,2
+Other mining products,Imports,0.2741799381943373,total impact,2
+Mining support services,Imports,0.2484485859966226,total impact,2
+Meat and preserved meat products,Imports,0.1971011067348672,total impact,2
+"Fish, seafood, fruit and vegetables",Imports,0.2342520630763012,total impact,2
+Oils and fats,Imports,0.5422165736338356,total impact,2
+Dairy products,Imports,0.2130571284130083,total impact,2
+Grain mill and starch products,Imports,0.4609101000566795,total impact,2
+Bakery products,Imports,0.1994456631498719,total impact,2
+Other food products,Imports,0.2368961572849878,total impact,2
+Animal feeds,Imports,0.2978858880204233,total impact,2
+Alcoholic beverages and tobacco,Imports,0.2142992441334604,total impact,2
+Soft drinks,Imports,0.2692505064402041,total impact,2
+Textiles,Imports,0.2659437803590141,total impact,2
+Clothing,Imports,0.152025698929802,total impact,2
+Leather products,Imports,0.2315011035191791,total impact,2
+Wood products (excl. furniture),Imports,0.3782645842458908,total impact,2
+Paper products,Imports,0.3953269806301128,total impact,2
+Printing and recording services,Imports,0.3076440238707155,total impact,2
+Coke and refined petroleum products,Imports,0.875314140187457,total impact,2
+Paints and coatings,Imports,0.3917027108381729,total impact,2
+Soap and detergents,Imports,0.2968424556287516,total impact,2
+Other chemical products,Imports,0.4645526574087158,total impact,2
+Industrial gases and fertilizers,Imports,0.4508603354821262,total impact,2
+Petrochemicals,Imports,0.572498625110713,total impact,2
+Dyestuffs and agro-chemicals,Imports,0.4093128298004963,total impact,2
+Pharmaceutical products,Imports,0.298133796448773,total impact,2
+Rubber and plastic products,Imports,0.442390762864884,total impact,2
+Cement and concrete products,Imports,0.2782463090606499,total impact,2
+"Glass, ceramic and stone products",Imports,0.2899433872298182,total impact,2
+Basic iron and steel,Imports,0.4002590524098499,total impact,2
+Other basic metals and casting,Imports,0.4163210005762169,total impact,2
+Fabricated metal products,Imports,0.2902112106374783,total impact,2
+Computer and electronic products,Imports,0.1995116937885099,total impact,2
+Electrical equipment,Imports,0.3154306153315833,total impact,2
+Other machinery and equipment,Imports,0.3549697315339699,total impact,2
+Motor vehicles,Imports,0.4177701992525072,total impact,2
+Ships and boats,Imports,0.1433831777271536,total impact,2
+Aircraft and spacecraft products,Imports,0.2998008677537456,total impact,2
+Other Transport Equipment,Imports,0.332591444037218,total impact,2
+Furniture,Imports,0.2410425644000978,total impact,2
+Other manufactured goods,Imports,0.2836288215823393,total impact,2
+Ship and boat repair and maintenance,Imports,0.126709413023506,total impact,2
+Air- and spacecraft repair and maintenance,Imports,0.4119043974986198,total impact,2
+Other repair services,Imports,0.2659241273996306,total impact,2
+Electricity services,Imports,0.5069742234690825,total impact,2
+"Mains gas, steam and air conditioning services",Imports,0.6132592500295273,total impact,2
+Water services,Imports,0.08864362706013144,total impact,2
+Sewerage services,Imports,0.03514482834964992,total impact,2
+Waste collection and treatment services,Imports,0.2215651240263208,total impact,2
+Remediation and waste management services,Imports,0.07976601621113218,total impact,2
+Construction services,Imports,0.1465095430873688,total impact,2
+Motor vehicle trade services,Imports,0.1607401237108278,total impact,2
+Wholesale trade services,Imports,0.1791796836155525,total impact,2
+Retail trade services,Imports,0.106936002422856,total impact,2
+Rail transport services,Imports,0.1834633022459377,total impact,2
+Land transport services,Imports,0.1759255714872196,total impact,2
+Water transport services,Imports,0.2327792747554235,total impact,2
+Air transport services,Imports,0.4654055456268212,total impact,2
+Warehousing services,Imports,0.2156063631375202,total impact,2
+Postal and courier services,Imports,0.1135664404316221,total impact,2
+Accommodation services,Imports,0.09044135901909163,total impact,2
+Food and beverage services,Imports,0.1276990998971821,total impact,2
+Publishing services,Imports,0.1586539818133647,total impact,2
+Media Production services,Imports,0.2375300836390266,total impact,2
+Telecommunications services,Imports,0.1524349605947738,total impact,2
+Computer programming services,Imports,0.1773330808317108,total impact,2
+Information services,Imports,0.1225570842259753,total impact,2
+Financial services (excl. insurance and pensions),Imports,0.1850837738216813,total impact,2
+Insurance and pension services,Imports,0.1514108073416237,total impact,2
+Auxiliary financial services,Imports,0.1272388485191273,total impact,2
+Real estate services,Imports,0.07387252609855156,total impact,2
+Owner-occupier housing services,Imports,0.01950100910950918,total impact,2
+Other real estate services,Imports,0.07913441169990768,total impact,2
+Legal services,Imports,0.05219484918751287,total impact,2
+Accounting and tax services,Imports,0.07256238216270952,total impact,2
+Management consulting services,Imports,0.1762219745805255,total impact,2
+Architectural and engineering services,Imports,0.2133035718454276,total impact,2
+Scientific research and development services,Imports,0.1461815098570769,total impact,2
+Advertising and market research services,Imports,0.1892309059034138,total impact,2
+Other scientific and technical services,Imports,0.1435883122147859,total impact,2
+Veterinary services,Imports,0.05988499239400154,total impact,2
+Rental and leasing services,Imports,0.1188566939726367,total impact,2
+Employment services,Imports,0.06262511142599754,total impact,2
+Travel services,Imports,0.1777631000428284,total impact,2
+Security services,Imports,0.0731575560570565,total impact,2
+Building and landscape services,Imports,0.1053003427392716,total impact,2
+Office support services,Imports,0.1806457101152649,total impact,2
+Public administration services (including defence),Imports,0.1254115703736281,total impact,2
+Education services,Imports,0.0450427823582531,total impact,2
+Health services,Imports,0.1432436814565418,total impact,2
+Residential and social care services,Imports,0.04852560260266446,total impact,2
+Arts and entertainment services,Imports,0.09097770180963846,total impact,2
+Libraries and other cultural services,Imports,0.1223643753187708,total impact,2
+Gambling services,Imports,0.09570485031547463,total impact,2
+Sports and recreation services,Imports,0.1180391265903181,total impact,2
+Membership services,Imports,0.08828967601815017,total impact,2
+Computer repair services,Imports,0.1262866110894056,total impact,2
+Other personal services,Imports,0.05765765194029306,total impact,2
+Services of households who employ domestic personnel,Imports,0.0,total impact,2
+Agriculture products,Taxes less subsidies on products,0.01745272072168459,total impact,3
+Forestry products,Taxes less subsidies on products,0.02245022453721376,total impact,3
+Fishing products,Taxes less subsidies on products,0.01580018307277059,total impact,3
+Coal and lignite,Taxes less subsidies on products,0.03740189113123722,total impact,3
+"Petroleum, natural gas and mining of metal ores",Taxes less subsidies on products,0.005137741641169236,total impact,3
+Other mining products,Taxes less subsidies on products,0.02435500725646389,total impact,3
+Mining support services,Taxes less subsidies on products,0.008649568778233797,total impact,3
+Meat and preserved meat products,Taxes less subsidies on products,-0.001081670225448752,total impact,3
+"Fish, seafood, fruit and vegetables",Taxes less subsidies on products,0.007130662475800942,total impact,3
+Oils and fats,Taxes less subsidies on products,0.002670270028663704,total impact,3
+Dairy products,Taxes less subsidies on products,-0.002686201375414699,total impact,3
+Grain mill and starch products,Taxes less subsidies on products,-0.001490391928551825,total impact,3
+Bakery products,Taxes less subsidies on products,0.007008863615191515,total impact,3
+Other food products,Taxes less subsidies on products,0.00766813557951969,total impact,3
+Animal feeds,Taxes less subsidies on products,0.002769662351819033,total impact,3
+Alcoholic beverages and tobacco,Taxes less subsidies on products,0.02951597660962088,total impact,3
+Soft drinks,Taxes less subsidies on products,0.01477904180944635,total impact,3
+Textiles,Taxes less subsidies on products,0.007353690328371508,total impact,3
+Clothing,Taxes less subsidies on products,0.009210533654022026,total impact,3
+Leather products,Taxes less subsidies on products,0.009316007403986169,total impact,3
+Wood products (excl. furniture),Taxes less subsidies on products,0.008037298049575365,total impact,3
+Paper products,Taxes less subsidies on products,0.006362806845173611,total impact,3
+Printing and recording services,Taxes less subsidies on products,0.005763349347998738,total impact,3
+Coke and refined petroleum products,Taxes less subsidies on products,0.01391004254731153,total impact,3
+Paints and coatings,Taxes less subsidies on products,0.01108343406406596,total impact,3
+Soap and detergents,Taxes less subsidies on products,0.007878651815767308,total impact,3
+Other chemical products,Taxes less subsidies on products,0.01053986381588397,total impact,3
+Industrial gases and fertilizers,Taxes less subsidies on products,-0.001614492150483059,total impact,3
+Petrochemicals,Taxes less subsidies on products,0.01799718504034984,total impact,3
+Dyestuffs and agro-chemicals,Taxes less subsidies on products,0.004089284048888702,total impact,3
+Pharmaceutical products,Taxes less subsidies on products,0.006057102830160649,total impact,3
+Rubber and plastic products,Taxes less subsidies on products,0.01066728746169941,total impact,3
+Cement and concrete products,Taxes less subsidies on products,0.01914570496454709,total impact,3
+"Glass, ceramic and stone products",Taxes less subsidies on products,0.02497540004512954,total impact,3
+Basic iron and steel,Taxes less subsidies on products,0.01336181255717983,total impact,3
+Other basic metals and casting,Taxes less subsidies on products,0.006882165648329209,total impact,3
+Fabricated metal products,Taxes less subsidies on products,0.007403546348078415,total impact,3
+Computer and electronic products,Taxes less subsidies on products,0.005781333610730478,total impact,3
+Electrical equipment,Taxes less subsidies on products,0.009047953336237919,total impact,3
+Other machinery and equipment,Taxes less subsidies on products,0.00867760381528876,total impact,3
+Motor vehicles,Taxes less subsidies on products,0.01251508273491909,total impact,3
+Ships and boats,Taxes less subsidies on products,0.01215443319688332,total impact,3
+Aircraft and spacecraft products,Taxes less subsidies on products,0.01071610152622545,total impact,3
+Other Transport Equipment,Taxes less subsidies on products,0.0133721071574034,total impact,3
+Furniture,Taxes less subsidies on products,0.009924700083868396,total impact,3
+Other manufactured goods,Taxes less subsidies on products,0.0106874074566885,total impact,3
+Ship and boat repair and maintenance,Taxes less subsidies on products,0.007563648126721841,total impact,3
+Air- and spacecraft repair and maintenance,Taxes less subsidies on products,0.006810294609021457,total impact,3
+Other repair services,Taxes less subsidies on products,0.00973255709394344,total impact,3
+Electricity services,Taxes less subsidies on products,-0.03104928150843661,total impact,3
+"Mains gas, steam and air conditioning services",Taxes less subsidies on products,-0.04710427094616293,total impact,3
+Water services,Taxes less subsidies on products,0.002501963343989638,total impact,3
+Sewerage services,Taxes less subsidies on products,0.02044963879683755,total impact,3
+Waste collection and treatment services,Taxes less subsidies on products,0.09222871779744662,total impact,3
+Remediation and waste management services,Taxes less subsidies on products,0.01631453205114158,total impact,3
+Construction services,Taxes less subsidies on products,0.03767819627819422,total impact,3
+Motor vehicle trade services,Taxes less subsidies on products,0.01153364510555339,total impact,3
+Wholesale trade services,Taxes less subsidies on products,0.01606305742148646,total impact,3
+Retail trade services,Taxes less subsidies on products,0.009393304376705948,total impact,3
+Rail transport services,Taxes less subsidies on products,0.007706104536526629,total impact,3
+Land transport services,Taxes less subsidies on products,0.03924625695060699,total impact,3
+Water transport services,Taxes less subsidies on products,0.04394172455114258,total impact,3
+Air transport services,Taxes less subsidies on products,0.1128746460418026,total impact,3
+Warehousing services,Taxes less subsidies on products,0.01948317572936328,total impact,3
+Postal and courier services,Taxes less subsidies on products,0.05572976241811112,total impact,3
+Accommodation services,Taxes less subsidies on products,0.02144630984577217,total impact,3
+Food and beverage services,Taxes less subsidies on products,0.0310623053378413,total impact,3
+Publishing services,Taxes less subsidies on products,0.006447341258384524,total impact,3
+Media Production services,Taxes less subsidies on products,0.007433170853519282,total impact,3
+Telecommunications services,Taxes less subsidies on products,0.005297850700435973,total impact,3
+Computer programming services,Taxes less subsidies on products,0.0105791515688968,total impact,3
+Information services,Taxes less subsidies on products,0.00811529386082847,total impact,3
+Financial services (excl. insurance and pensions),Taxes less subsidies on products,0.04816565953950187,total impact,3
+Insurance and pension services,Taxes less subsidies on products,0.05544197104550624,total impact,3
+Auxiliary financial services,Taxes less subsidies on products,0.04249833572098991,total impact,3
+Real estate services,Taxes less subsidies on products,0.0135019045942344,total impact,3
+Owner-occupier housing services,Taxes less subsidies on products,0.003170240877180611,total impact,3
+Other real estate services,Taxes less subsidies on products,0.0180160476106003,total impact,3
+Legal services,Taxes less subsidies on products,0.005283184387812835,total impact,3
+Accounting and tax services,Taxes less subsidies on products,0.004108912084010389,total impact,3
+Management consulting services,Taxes less subsidies on products,0.01360850499976152,total impact,3
+Architectural and engineering services,Taxes less subsidies on products,0.01326404294023438,total impact,3
+Scientific research and development services,Taxes less subsidies on products,0.01365193801921909,total impact,3
+Advertising and market research services,Taxes less subsidies on products,0.008552621069862988,total impact,3
+Other scientific and technical services,Taxes less subsidies on products,0.01270047280175919,total impact,3
+Veterinary services,Taxes less subsidies on products,0.003692128683280639,total impact,3
+Rental and leasing services,Taxes less subsidies on products,0.01239844686983474,total impact,3
+Employment services,Taxes less subsidies on products,0.006233790026502488,total impact,3
+Travel services,Taxes less subsidies on products,0.04492145075033797,total impact,3
+Security services,Taxes less subsidies on products,0.006784400793403864,total impact,3
+Building and landscape services,Taxes less subsidies on products,0.01258575268992859,total impact,3
+Office support services,Taxes less subsidies on products,0.01260282383584277,total impact,3
+Public administration services (including defence),Taxes less subsidies on products,0.0509188862213134,total impact,3
+Education services,Taxes less subsidies on products,0.02445673891732707,total impact,3
+Health services,Taxes less subsidies on products,0.0489082603516879,total impact,3
+Residential and social care services,Taxes less subsidies on products,0.04326333272093421,total impact,3
+Arts and entertainment services,Taxes less subsidies on products,0.0562906804464403,total impact,3
+Libraries and other cultural services,Taxes less subsidies on products,0.00940595742649489,total impact,3
+Gambling services,Taxes less subsidies on products,0.02345891755790797,total impact,3
+Sports and recreation services,Taxes less subsidies on products,0.0549150064282135,total impact,3
+Membership services,Taxes less subsidies on products,0.01812809470824478,total impact,3
+Computer repair services,Taxes less subsidies on products,0.006411210725036204,total impact,3
+Other personal services,Taxes less subsidies on products,0.02728346963473598,total impact,3
+Services of households who employ domestic personnel,Taxes less subsidies on products,0.0,total impact,3
+Agriculture products,Industry consumption at purchasers' prices,1.257684273754621,total impact,4
+Forestry products,Industry consumption at purchasers' prices,0.8811638308076865,total impact,4
+Fishing products,Industry consumption at purchasers' prices,1.067892560738557,total impact,4
+Coal and lignite,Industry consumption at purchasers' prices,1.556427325203272,total impact,4
+"Petroleum, natural gas and mining of metal ores",Industry consumption at purchasers' prices,0.4254315589335846,total impact,4
+Other mining products,Industry consumption at purchasers' prices,1.332938288254938,total impact,4
+Mining support services,Industry consumption at purchasers' prices,1.034298187608152,total impact,4
+Meat and preserved meat products,Industry consumption at purchasers' prices,1.742672682986711,total impact,4
+"Fish, seafood, fruit and vegetables",Industry consumption at purchasers' prices,1.523947823438925,total impact,4
+Oils and fats,Industry consumption at purchasers' prices,1.430226175511207,total impact,4
+Dairy products,Industry consumption at purchasers' prices,1.847809709950654,total impact,4
+Grain mill and starch products,Industry consumption at purchasers' prices,1.304106277448073,total impact,4
+Bakery products,Industry consumption at purchasers' prices,1.393073413051692,total impact,4
+Other food products,Industry consumption at purchasers' prices,1.323089925178458,total impact,4
+Animal feeds,Industry consumption at purchasers' prices,1.788957462304055,total impact,4
+Alcoholic beverages and tobacco,Industry consumption at purchasers' prices,1.185154866979214,total impact,4
+Soft drinks,Industry consumption at purchasers' prices,1.478060226764521,total impact,4
+Textiles,Industry consumption at purchasers' prices,0.8350535657544175,total impact,4
+Clothing,Industry consumption at purchasers' prices,0.8201776812998384,total impact,4
+Leather products,Industry consumption at purchasers' prices,1.013247890589879,total impact,4
+Wood products (excl. furniture),Industry consumption at purchasers' prices,0.9217139537913143,total impact,4
+Paper products,Industry consumption at purchasers' prices,1.21490546133683,total impact,4
+Printing and recording services,Industry consumption at purchasers' prices,1.006659131004517,total impact,4
+Coke and refined petroleum products,Industry consumption at purchasers' prices,1.036724259485295,total impact,4
+Paints and coatings,Industry consumption at purchasers' prices,1.015552631296429,total impact,4
+Soap and detergents,Industry consumption at purchasers' prices,0.9240811880472527,total impact,4
+Other chemical products,Industry consumption at purchasers' prices,1.006777654722562,total impact,4
+Industrial gases and fertilizers,Industry consumption at purchasers' prices,1.336197623412075,total impact,4
+Petrochemicals,Industry consumption at purchasers' prices,1.381878200089045,total impact,4
+Dyestuffs and agro-chemicals,Industry consumption at purchasers' prices,1.15183749261412,total impact,4
+Pharmaceutical products,Industry consumption at purchasers' prices,0.766711664076545,total impact,4
+Rubber and plastic products,Industry consumption at purchasers' prices,1.078520975510621,total impact,4
+Cement and concrete products,Industry consumption at purchasers' prices,1.195704869814342,total impact,4
+"Glass, ceramic and stone products",Industry consumption at purchasers' prices,1.220067042309836,total impact,4
+Basic iron and steel,Industry consumption at purchasers' prices,1.113618426188317,total impact,4
+Other basic metals and casting,Industry consumption at purchasers' prices,0.891106661584378,total impact,4
+Fabricated metal products,Industry consumption at purchasers' prices,0.8750192914943221,total impact,4
+Computer and electronic products,Industry consumption at purchasers' prices,0.6981373329405698,total impact,4
+Electrical equipment,Industry consumption at purchasers' prices,0.9219326641529199,total impact,4
+Other machinery and equipment,Industry consumption at purchasers' prices,0.9918015669513992,total impact,4
+Motor vehicles,Industry consumption at purchasers' prices,1.266511372187552,total impact,4
+Ships and boats,Industry consumption at purchasers' prices,1.067609369526105,total impact,4
+Aircraft and spacecraft products,Industry consumption at purchasers' prices,1.004414101583244,total impact,4
+Other Transport Equipment,Industry consumption at purchasers' prices,1.048311427215516,total impact,4
+Furniture,Industry consumption at purchasers' prices,1.00188466079412,total impact,4
+Other manufactured goods,Industry consumption at purchasers' prices,1.042748699893409,total impact,4
+Ship and boat repair and maintenance,Industry consumption at purchasers' prices,0.7438471895197231,total impact,4
+Air- and spacecraft repair and maintenance,Industry consumption at purchasers' prices,0.768702604159006,total impact,4
+Other repair services,Industry consumption at purchasers' prices,0.9048379042365832,total impact,4
+Electricity services,Industry consumption at purchasers' prices,2.261993104912351,total impact,4
+"Mains gas, steam and air conditioning services",Industry consumption at purchasers' prices,2.394301820486862,total impact,4
+Water services,Industry consumption at purchasers' prices,0.6683080796526502,total impact,4
+Sewerage services,Industry consumption at purchasers' prices,0.3918305572512342,total impact,4
+Waste collection and treatment services,Industry consumption at purchasers' prices,1.081382607677848,total impact,4
+Remediation and waste management services,Industry consumption at purchasers' prices,0.8710756660833321,total impact,4
+Construction services,Industry consumption at purchasers' prices,1.329777471313525,total impact,4
+Motor vehicle trade services,Industry consumption at purchasers' prices,0.8526294241004353,total impact,4
+Wholesale trade services,Industry consumption at purchasers' prices,0.8218354427609168,total impact,4
+Retail trade services,Industry consumption at purchasers' prices,0.7581235163637761,total impact,4
+Rail transport services,Industry consumption at purchasers' prices,1.55163421869513,total impact,4
+Land transport services,Industry consumption at purchasers' prices,0.9502070171323074,total impact,4
+Water transport services,Industry consumption at purchasers' prices,1.132551384882871,total impact,4
+Air transport services,Industry consumption at purchasers' prices,1.197991826079059,total impact,4
+Warehousing services,Industry consumption at purchasers' prices,0.9965376206151789,total impact,4
+Postal and courier services,Industry consumption at purchasers' prices,0.8704828622027921,total impact,4
+Accommodation services,Industry consumption at purchasers' prices,0.8121028047078096,total impact,4
+Food and beverage services,Industry consumption at purchasers' prices,0.9491201650834431,total impact,4
+Publishing services,Industry consumption at purchasers' prices,0.8004925787558654,total impact,4
+Media Production services,Industry consumption at purchasers' prices,1.022626556990247,total impact,4
+Telecommunications services,Industry consumption at purchasers' prices,0.6914322251341158,total impact,4
+Computer programming services,Industry consumption at purchasers' prices,0.7528069892493768,total impact,4
+Information services,Industry consumption at purchasers' prices,0.7535762870936618,total impact,4
+Financial services (excl. insurance and pensions),Industry consumption at purchasers' prices,0.7154816090158761,total impact,4
+Insurance and pension services,Industry consumption at purchasers' prices,0.7080607930540515,total impact,4
+Auxiliary financial services,Industry consumption at purchasers' prices,0.6012044606180065,total impact,4
+Real estate services,Industry consumption at purchasers' prices,0.7382436847683128,total impact,4
+Owner-occupier housing services,Industry consumption at purchasers' prices,0.2219958195387559,total impact,4
+Other real estate services,Industry consumption at purchasers' prices,0.6808248033938227,total impact,4
+Legal services,Industry consumption at purchasers' prices,0.4101273479807755,total impact,4
+Accounting and tax services,Industry consumption at purchasers' prices,0.3215323361870743,total impact,4
+Management consulting services,Industry consumption at purchasers' prices,0.7076261056579791,total impact,4
+Architectural and engineering services,Industry consumption at purchasers' prices,0.9105285097873324,total impact,4
+Scientific research and development services,Industry consumption at purchasers' prices,0.720106194400114,total impact,4
+Advertising and market research services,Industry consumption at purchasers' prices,0.7008477107573362,total impact,4
+Other scientific and technical services,Industry consumption at purchasers' prices,0.9911826572928192,total impact,4
+Veterinary services,Industry consumption at purchasers' prices,0.3811620559848065,total impact,4
+Rental and leasing services,Industry consumption at purchasers' prices,0.6428964573830226,total impact,4
+Employment services,Industry consumption at purchasers' prices,0.6963668245617125,total impact,4
+Travel services,Industry consumption at purchasers' prices,1.136328770579835,total impact,4
+Security services,Industry consumption at purchasers' prices,0.8657648660406962,total impact,4
+Building and landscape services,Industry consumption at purchasers' prices,1.046780721211826,total impact,4
+Office support services,Industry consumption at purchasers' prices,0.7295683131965295,total impact,4
+Public administration services (including defence),Industry consumption at purchasers' prices,0.7382263280710255,total impact,4
+Education services,Industry consumption at purchasers' prices,0.4648047218309444,total impact,4
+Health services,Industry consumption at purchasers' prices,0.69089147118708,total impact,4
+Residential and social care services,Industry consumption at purchasers' prices,0.6751879690221946,total impact,4
+Arts and entertainment services,Industry consumption at purchasers' prices,0.704690816768631,total impact,4
+Libraries and other cultural services,Industry consumption at purchasers' prices,0.8514192641631223,total impact,4
+Gambling services,Industry consumption at purchasers' prices,0.8640822277004151,total impact,4
+Sports and recreation services,Industry consumption at purchasers' prices,0.8375995781932979,total impact,4
+Membership services,Industry consumption at purchasers' prices,0.8061853510262331,total impact,4
+Computer repair services,Industry consumption at purchasers' prices,0.6712689610570006,total impact,4
+Other personal services,Industry consumption at purchasers' prices,0.3996632058910897,total impact,4
+Services of households who employ domestic personnel,Industry consumption at purchasers' prices,0.0,total impact,4
+Agriculture products,Wages and other employee compensation,0.309314301812798,total impact,5
+Forestry products,Wages and other employee compensation,0.4040459909626883,total impact,5
+Fishing products,Wages and other employee compensation,0.3771300366079143,total impact,5
+Coal and lignite,Wages and other employee compensation,0.5873558522152307,total impact,5
+"Petroleum, natural gas and mining of metal ores",Wages and other employee compensation,0.1338289364750283,total impact,5
+Other mining products,Wages and other employee compensation,0.3692654524533927,total impact,5
+Mining support services,Wages and other employee compensation,0.457528256216891,total impact,5
+Meat and preserved meat products,Wages and other employee compensation,0.4763753954554427,total impact,5
+"Fish, seafood, fruit and vegetables",Wages and other employee compensation,0.4738508731951116,total impact,5
+Oils and fats,Wages and other employee compensation,0.2861522776005829,total impact,5
+Dairy products,Wages and other employee compensation,0.4070698307165617,total impact,5
+Grain mill and starch products,Wages and other employee compensation,0.308901756431377,total impact,5
+Bakery products,Wages and other employee compensation,0.5319539837692374,total impact,5
+Other food products,Wages and other employee compensation,0.482952147582398,total impact,5
+Animal feeds,Wages and other employee compensation,0.3906636025180268,total impact,5
+Alcoholic beverages and tobacco,Wages and other employee compensation,0.3486521268169833,total impact,5
+Soft drinks,Wages and other employee compensation,0.4212470238071586,total impact,5
+Textiles,Wages and other employee compensation,0.4568228859818924,total impact,5
+Clothing,Wages and other employee compensation,0.5768760535933423,total impact,5
+Leather products,Wages and other employee compensation,0.5180114631311706,total impact,5
+Wood products (excl. furniture),Wages and other employee compensation,0.352200266751219,total impact,5
+Paper products,Wages and other employee compensation,0.3808126496808512,total impact,5
+Printing and recording services,Wages and other employee compensation,0.4268247544333163,total impact,5
+Coke and refined petroleum products,Wages and other employee compensation,0.04609114463823265,total impact,5
+Paints and coatings,Wages and other employee compensation,0.4369157241626351,total impact,5
+Soap and detergents,Wages and other employee compensation,0.4012635926377004,total impact,5
+Other chemical products,Wages and other employee compensation,0.2876580138797249,total impact,5
+Industrial gases and fertilizers,Wages and other employee compensation,0.2487341339144107,total impact,5
+Petrochemicals,Wages and other employee compensation,0.2682443766955375,total impact,5
+Dyestuffs and agro-chemicals,Wages and other employee compensation,0.3910780912533282,total impact,5
+Pharmaceutical products,Wages and other employee compensation,0.2547133152032157,total impact,5
+Rubber and plastic products,Wages and other employee compensation,0.3568608331175672,total impact,5
+Cement and concrete products,Wages and other employee compensation,0.3928966181679658,total impact,5
+"Glass, ceramic and stone products",Wages and other employee compensation,0.4231715853685651,total impact,5
+Basic iron and steel,Wages and other employee compensation,0.3370050860047756,total impact,5
+Other basic metals and casting,Wages and other employee compensation,0.3140134247011795,total impact,5
+Fabricated metal products,Wages and other employee compensation,0.4518067090431746,total impact,5
+Computer and electronic products,Wages and other employee compensation,0.5431686900604757,total impact,5
+Electrical equipment,Wages and other employee compensation,0.4369160276375403,total impact,5
+Other machinery and equipment,Wages and other employee compensation,0.4005808749694111,total impact,5
+Motor vehicles,Wages and other employee compensation,0.3733383763892957,total impact,5
+Ships and boats,Wages and other employee compensation,0.6165268355432422,total impact,5
+Aircraft and spacecraft products,Wages and other employee compensation,0.3939144332003744,total impact,5
+Other Transport Equipment,Wages and other employee compensation,0.4313295664115898,total impact,5
+Furniture,Wages and other employee compensation,0.5152046419040579,total impact,5
+Other manufactured goods,Wages and other employee compensation,0.4447333194621767,total impact,5
+Ship and boat repair and maintenance,Wages and other employee compensation,0.6127394667520504,total impact,5
+Air- and spacecraft repair and maintenance,Wages and other employee compensation,0.3640411103622961,total impact,5
+Other repair services,Wages and other employee compensation,0.4635217863206543,total impact,5
+Electricity services,Wages and other employee compensation,0.2176294942800721,total impact,5
+"Mains gas, steam and air conditioning services",Wages and other employee compensation,0.1916758059473567,total impact,5
+Water services,Wages and other employee compensation,0.2982309274623591,total impact,5
+Sewerage services,Wages and other employee compensation,0.238916016461605,total impact,5
+Waste collection and treatment services,Wages and other employee compensation,0.3862035217676216,total impact,5
+Remediation and waste management services,Wages and other employee compensation,0.4495668645365961,total impact,5
+Construction services,Wages and other employee compensation,0.3968646869687967,total impact,5
+Motor vehicle trade services,Wages and other employee compensation,0.5899005721892052,total impact,5
+Wholesale trade services,Wages and other employee compensation,0.4800461786127283,total impact,5
+Retail trade services,Wages and other employee compensation,0.5227488577548373,total impact,5
+Rail transport services,Wages and other employee compensation,0.7211315820584544,total impact,5
+Land transport services,Wages and other employee compensation,0.5348836339088051,total impact,5
+Water transport services,Wages and other employee compensation,0.4410045022186566,total impact,5
+Air transport services,Wages and other employee compensation,0.288759310345561,total impact,5
+Warehousing services,Wages and other employee compensation,0.5169279508394765,total impact,5
+Postal and courier services,Wages and other employee compensation,0.5405119454024021,total impact,5
+Accommodation services,Wages and other employee compensation,0.5279005233053021,total impact,5
+Food and beverage services,Wages and other employee compensation,0.5661060244018183,total impact,5
+Publishing services,Wages and other employee compensation,0.5177695890338516,total impact,5
+Media Production services,Wages and other employee compensation,0.3925465183669847,total impact,5
+Telecommunications services,Wages and other employee compensation,0.4621413372283429,total impact,5
+Computer programming services,Wages and other employee compensation,0.5762625196626932,total impact,5
+Information services,Wages and other employee compensation,0.5176762876896508,total impact,5
+Financial services (excl. insurance and pensions),Wages and other employee compensation,0.4055310996558511,total impact,5
+Insurance and pension services,Wages and other employee compensation,0.2548623550041736,total impact,5
+Auxiliary financial services,Wages and other employee compensation,0.4738336015306914,total impact,5
+Real estate services,Wages and other employee compensation,0.574596823200191,total impact,5
+Owner-occupier housing services,Wages and other employee compensation,0.04199017346316341,total impact,5
+Other real estate services,Wages and other employee compensation,0.2836435938356517,total impact,5
+Legal services,Wages and other employee compensation,0.4422063071295274,total impact,5
+Accounting and tax services,Wages and other employee compensation,0.642043454468974,total impact,5
+Management consulting services,Wages and other employee compensation,0.5647928758811797,total impact,5
+Architectural and engineering services,Wages and other employee compensation,0.541368916620698,total impact,5
+Scientific research and development services,Wages and other employee compensation,0.4846049134613187,total impact,5
+Advertising and market research services,Wages and other employee compensation,0.4474308290789265,total impact,5
+Other scientific and technical services,Wages and other employee compensation,0.5675734997262853,total impact,5
+Veterinary services,Wages and other employee compensation,0.6081983585750051,total impact,5
+Rental and leasing services,Wages and other employee compensation,0.4258147653965881,total impact,5
+Employment services,Wages and other employee compensation,0.7175037759375,total impact,5
+Travel services,Wages and other employee compensation,0.4784355553403539,total impact,5
+Security services,Wages and other employee compensation,0.6218245347924123,total impact,5
+Building and landscape services,Wages and other employee compensation,0.5588920860549965,total impact,5
+Office support services,Wages and other employee compensation,0.5096991873874527,total impact,5
+Public administration services (including defence),Wages and other employee compensation,0.5484329544252488,total impact,5
+Education services,Wages and other employee compensation,0.6845234101301194,total impact,5
+Health services,Wages and other employee compensation,0.5953430251417154,total impact,5
+Residential and social care services,Wages and other employee compensation,0.7210270184247033,total impact,5
+Arts and entertainment services,Wages and other employee compensation,0.3604256519816915,total impact,5
+Libraries and other cultural services,Wages and other employee compensation,0.5669495480017919,total impact,5
+Gambling services,Wages and other employee compensation,0.4573489799072274,total impact,5
+Sports and recreation services,Wages and other employee compensation,0.5400685323287034,total impact,5
+Membership services,Wages and other employee compensation,0.6841083340989874,total impact,5
+Computer repair services,Wages and other employee compensation,0.4818799586639496,total impact,5
+Other personal services,Wages and other employee compensation,0.3172493573042218,total impact,5
+Services of households who employ domestic personnel,Wages and other employee compensation,1.0,total impact,5
+Agriculture products,Company profits,0.4614202004551262,total impact,6
+Forestry products,Company profits,0.4540837362085026,total impact,6
+Fishing products,Company profits,0.2666604878474861,total impact,6
+Coal and lignite,Company profits,0.1827228771939807,total impact,6
+"Petroleum, natural gas and mining of metal ores",Company profits,0.7634018863533347,total impact,6
+Other mining products,Company profits,0.3197795481992829,total impact,6
+Mining support services,Company profits,0.2785571115459125,total impact,6
+Meat and preserved meat products,Company profits,0.3199484640380884,total impact,6
+"Fish, seafood, fruit and vegetables",Company profits,0.2787732345247418,total impact,6
+Oils and fats,Company profits,0.1889642012677297,total impact,6
+Dairy products,Company profits,0.3756744306899858,total impact,6
+Grain mill and starch products,Company profits,0.2311413387978145,total impact,6
+Bakery products,Company profits,0.2526894241358311,total impact,6
+Other food products,Company profits,0.2630502214451137,total impact,6
+Animal feeds,Company profits,0.3053971344053271,total impact,6
+Alcoholic beverages and tobacco,Company profits,0.4039830662824184,total impact,6
+Soft drinks,Company profits,0.2931872114249534,total impact,6
+Textiles,Company profits,0.2654352365736238,total impact,6
+Clothing,Company profits,0.2639725724483456,total impact,6
+Leather products,Company profits,0.2873024988691693,total impact,6
+Wood products (excl. furniture),Company profits,0.2514770644618675,total impact,6
+Paper products,Company profits,0.2040445381041092,total impact,6
+Printing and recording services,Company profits,0.2539817036870058,total impact,6
+Coke and refined petroleum products,Company profits,0.05654489927594783,total impact,6
+Paints and coatings,Company profits,0.165199163528999,total impact,6
+Soap and detergents,Company profits,0.2912041302810712,total impact,6
+Other chemical products,Company profits,0.2365484779035944,total impact,6
+Industrial gases and fertilizers,Company profits,0.2958494564603896,total impact,6
+Petrochemicals,Company profits,0.1293039780536634,total impact,6
+Dyestuffs and agro-chemicals,Company profits,0.2062168147075831,total impact,6
+Pharmaceutical products,Company profits,0.4378710699406332,total impact,6
+Rubber and plastic products,Company profits,0.180599133924023,total impact,6
+Cement and concrete products,Company profits,0.2906642367396408,total impact,6
+"Glass, ceramic and stone products",Company profits,0.2472114323367303,total impact,6
+Basic iron and steel,Company profits,0.2225535004602125,total impact,6
+Other basic metals and casting,Company profits,0.2569099882385984,total impact,6
+Fabricated metal products,Company profits,0.23983942686729,total impact,6
+Computer and electronic products,Company profits,0.2442385023625173,total impact,6
+Electrical equipment,Company profits,0.2318056872243936,total impact,6
+Other machinery and equipment,Company profits,0.2267377909752579,total impact,6
+Motor vehicles,Company profits,0.1870163757273536,total impact,6
+Ships and boats,Company profits,0.2311962136774144,total impact,6
+Aircraft and spacecraft products,Company profits,0.2899217755938076,total impact,6
+Other Transport Equipment,Company profits,0.2307567809835709,total impact,6
+Furniture,Company profits,0.220245367834278,total impact,6
+Other manufactured goods,Company profits,0.2538233058577221,total impact,6
+Ship and boat repair and maintenance,Company profits,0.2835799408800234,total impact,6
+Air- and spacecraft repair and maintenance,Company profits,0.2233851790996865,total impact,6
+Other repair services,Company profits,0.2542790604657844,total impact,6
+Electricity services,Company profits,0.2551118155755919,total impact,6
+"Mains gas, steam and air conditioning services",Company profits,0.2051326551644501,total impact,6
+Water services,Company profits,0.5677489280125657,total impact,6
+Sewerage services,Company profits,0.6953947465689683,total impact,6
+Waste collection and treatment services,Company profits,0.2878254891603182,total impact,6
+Remediation and waste management services,Company profits,0.4442824013820066,total impact,6
+Construction services,Company profits,0.4055123256864034,total impact,6
+Motor vehicle trade services,Company profits,0.2180443707873476,total impact,6
+Wholesale trade services,Company profits,0.3121000483539822,total impact,6
+Retail trade services,Company profits,0.3287288986862542,total impact,6
+Rail transport services,Company profits,0.3129179964235375,total impact,6
+Land transport services,Company profits,0.2470185740001129,total impact,6
+Water transport services,Company profits,0.2708762357978099,total impact,6
+Air transport services,Company profits,0.1308280513210921,total impact,6
+Warehousing services,Company profits,0.2250081771915692,total impact,6
+Postal and courier services,Company profits,0.2749226786581912,total impact,6
+Accommodation services,Company profits,0.3343539834966284,total impact,6
+Food and beverage services,Company profits,0.2515223827306119,total impact,6
+Publishing services,Company profits,0.3154874827439585,total impact,6
+Media Production services,Company profits,0.3976532350636811,total impact,6
+Telecommunications services,Company profits,0.3735195417559441,total impact,6
+Computer programming services,Company profits,0.2275254298549118,total impact,6
+Information services,Company profits,0.3494029666251849,total impact,6
+Financial services (excl. insurance and pensions),Company profits,0.3466616740342675,total impact,6
+Insurance and pension services,Company profits,0.5290178242977436,total impact,6
+Auxiliary financial services,Company profits,0.3507365394183665,total impact,6
+Real estate services,Company profits,0.3064515097818717,total impact,6
+Owner-occupier housing services,Company profits,0.9338647193392193,total impact,6
+Other real estate services,Company profits,0.6363100734789628,total impact,6
+Legal services,Company profits,0.4904034978237355,total impact,6
+Accounting and tax services,Company profits,0.2785750156685375,total impact,6
+Management consulting services,Company profits,0.2346419386199609,total impact,6
+Architectural and engineering services,Company profits,0.2235238455814099,total impact,6
+Scientific research and development services,Company profits,0.3514065919075622,total impact,6
+Advertising and market research services,Company profits,0.3554441997538106,total impact,6
+Other scientific and technical services,Company profits,0.2641886807335935,total impact,6
+Veterinary services,Company profits,0.3423524503563536,total impact,6
+Rental and leasing services,Company profits,0.4330925763080019,total impact,6
+Employment services,Company profits,0.2017719513278251,total impact,6
+Travel services,Company profits,0.2935360577410847,total impact,6
+Security services,Company profits,0.2854659407500034,total impact,6
+Building and landscape services,Company profits,0.3193486467600414,total impact,6
+Office support services,Company profits,0.2837166402290724,total impact,6
+Public administration services (including defence),Company profits,0.2730622810924936,total impact,6
+Education services,Company profits,0.241073281481088,total impact,6
+Health services,Company profits,0.2091972260496445,total impact,6
+Residential and social care services,Company profits,0.1786130355329706,total impact,6
+Arts and entertainment services,Company profits,0.4862945196998558,total impact,6
+Libraries and other cultural services,Company profits,0.2971427404557426,total impact,6
+Gambling services,Company profits,0.4121024479184508,total impact,6
+Sports and recreation services,Company profits,0.2716610032968595,total impact,6
+Membership services,Company profits,0.1975413029269708,total impact,6
+Computer repair services,Company profits,0.3767963243613436,total impact,6
+Other personal services,Company profits,0.5801654396184492,total impact,6
+Services of households who employ domestic personnel,Company profits,0.0,total impact,6
+Agriculture products,Taxes less subsidies on production,0.009487835980352133,total impact,7
+Forestry products,Taxes less subsidies on production,0.004146903460719525,total impact,7
+Fishing products,Taxes less subsidies on production,0.00554901947375049,total impact,7
+Coal and lignite,Taxes less subsidies on production,-0.1186467379430531,total impact,7
+"Petroleum, natural gas and mining of metal ores",Taxes less subsidies on production,0.01007169843037106,total impact,7
+Other mining products,Taxes less subsidies on production,0.01242005389652359,total impact,7
+Mining support services,Taxes less subsidies on production,0.006816477462339979,total impact,7
+Meat and preserved meat products,Taxes less subsidies on production,0.007656703997050173,total impact,7
+"Fish, seafood, fruit and vegetables",Taxes less subsidies on production,0.005993166728044966,total impact,7
+Oils and fats,Taxes less subsidies on production,-0.02000332253081135,total impact,7
+Dairy products,Taxes less subsidies on production,0.00688481155585874,total impact,7
+Grain mill and starch products,Taxes less subsidies on production,0.0005371966426808482,total impact,7
+Bakery products,Taxes less subsidies on production,0.008902065329867566,total impact,7
+Other food products,Taxes less subsidies on production,0.009433338107981167,total impact,7
+Animal feeds,Taxes less subsidies on production,0.003283712704403888,total impact,7
+Alcoholic beverages and tobacco,Taxes less subsidies on production,0.003549586157516907,total impact,7
+Soft drinks,Taxes less subsidies on production,0.001536216518237443,total impact,7
+Textiles,Taxes less subsidies on production,0.00444440675709885,total impact,7
+Clothing,Taxes less subsidies on production,-0.002084858625511568,total impact,7
+Leather products,Taxes less subsidies on production,-0.04613107292350517,total impact,7
+Wood products (excl. furniture),Taxes less subsidies on production,0.01002078649144732,total impact,7
+Paper products,Taxes less subsidies on production,0.01345302473975287,total impact,7
+Printing and recording services,Taxes less subsidies on production,0.005786168660963633,total impact,7
+Coke and refined petroleum products,Taxes less subsidies on production,0.008139773351051326,total impact,7
+Paints and coatings,Taxes less subsidies on production,-0.004901032593873184,total impact,7
+Soap and detergents,Taxes less subsidies on production,0.0028111696367097,total impact,7
+Other chemical products,Taxes less subsidies on production,0.0007009869920811625,total impact,7
+Industrial gases and fertilizers,Taxes less subsidies on production,0.006170566293556723,total impact,7
+Petrochemicals,Taxes less subsidies on production,0.01195583509973567,total impact,7
+Dyestuffs and agro-chemicals,Taxes less subsidies on production,-0.01069701981029618,total impact,7
+Pharmaceutical products,Taxes less subsidies on production,0.003224715577217321,total impact,7
+Rubber and plastic products,Taxes less subsidies on production,0.009481982631826593,total impact,7
+Cement and concrete products,Taxes less subsidies on production,0.01904713106719612,total impact,7
+"Glass, ceramic and stone products",Taxes less subsidies on production,0.01469819501975715,total impact,7
+Basic iron and steel,Taxes less subsidies on production,0.02682054856798223,total impact,7
+Other basic metals and casting,Taxes less subsidies on production,0.005873420835675754,total impact,7
+Fabricated metal products,Taxes less subsidies on production,0.01073910710397869,total impact,7
+Computer and electronic products,Taxes less subsidies on production,0.007299780177766743,total impact,7
+Electrical equipment,Taxes less subsidies on production,0.006799716470244903,total impact,7
+Other machinery and equipment,Taxes less subsidies on production,0.00903399870607238,total impact,7
+Motor vehicles,Taxes less subsidies on production,0.009359965895924404,total impact,7
+Ships and boats,Taxes less subsidies on production,-0.003260660144693428,total impact,7
+Aircraft and spacecraft products,Taxes less subsidies on production,0.005646821925846477,total impact,7
+Other Transport Equipment,Taxes less subsidies on production,-0.008049898589781914,total impact,7
+Furniture,Taxes less subsidies on production,0.01358272577769832,total impact,7
+Other manufactured goods,Taxes less subsidies on production,0.007127145641073434,total impact,7
+Ship and boat repair and maintenance,Taxes less subsidies on production,-0.03059246878230192,total impact,7
+Air- and spacecraft repair and maintenance,Taxes less subsidies on production,-0.006140981569623592,total impact,7
+Other repair services,Taxes less subsidies on production,0.006542468719987891,total impact,7
+Electricity services,Taxes less subsidies on production,0.05133374818369048,total impact,7
+"Mains gas, steam and air conditioning services",Taxes less subsidies on production,0.03703655980482903,total impact,7
+Water services,Taxes less subsidies on production,0.04287455412095435,total impact,7
+Sewerage services,Taxes less subsidies on production,0.01009476982293922,total impact,7
+Waste collection and treatment services,Taxes less subsidies on production,0.01217714724829319,total impact,7
+Remediation and waste management services,Taxes less subsidies on production,0.01007018581912362,total impact,7
+Construction services,Taxes less subsidies on production,0.01343524797923724,total impact,7
+Motor vehicle trade services,Taxes less subsidies on production,0.01978128820706646,total impact,7
+Wholesale trade services,Taxes less subsidies on production,0.01261103199625057,total impact,7
+Retail trade services,Taxes less subsidies on production,0.03219293675934655,total impact,7
+Rail transport services,Taxes less subsidies on production,-0.2252189852644557,total impact,7
+Land transport services,Taxes less subsidies on production,0.002925963653255462,total impact,7
+Water transport services,Taxes less subsidies on production,0.01139826267696713,total impact,7
+Air transport services,Taxes less subsidies on production,0.002132446664723276,total impact,7
+Warehousing services,Taxes less subsidies on production,0.02297433310207088,total impact,7
+Postal and courier services,Taxes less subsidies on production,0.01526917308967334,total impact,7
+Accommodation services,Taxes less subsidies on production,0.0258578243332058,total impact,7
+Food and beverage services,Taxes less subsidies on production,0.02361018763254661,total impact,7
+Publishing services,Taxes less subsidies on production,0.001641605150440669,total impact,7
+Media Production services,Taxes less subsidies on production,-0.03516300792321206,total impact,7
+Telecommunications services,Taxes less subsidies on production,0.006606309720503708,total impact,7
+Computer programming services,Taxes less subsidies on production,0.008299818081787367,total impact,7
+Information services,Taxes less subsidies on production,0.002248367598360067,total impact,7
+Financial services (excl. insurance and pensions),Taxes less subsidies on production,0.01455779294869816,total impact,7
+Insurance and pension services,Taxes less subsidies on production,0.009267042310952815,total impact,7
+Auxiliary financial services,Taxes less subsidies on production,0.005692674810824979,total impact,7
+Real estate services,Taxes less subsidies on production,0.03157723632515189,total impact,7
+Owner-occupier housing services,Taxes less subsidies on production,0.001473857210927485,total impact,7
+Other real estate services,Taxes less subsidies on production,-0.01710412662512203,total impact,7
+Legal services,Taxes less subsidies on production,0.009912161471411477,total impact,7
+Accounting and tax services,Taxes less subsidies on production,0.002710235615769068,total impact,7
+Management consulting services,Taxes less subsidies on production,0.01073470591857263,total impact,7
+Architectural and engineering services,Taxes less subsidies on production,0.00853962301222975,total impact,7
+Scientific research and development services,Taxes less subsidies on production,0.00415504675482295,total impact,7
+Advertising and market research services,Taxes less subsidies on production,-0.0006585558060139748,total impact,7
+Other scientific and technical services,Taxes less subsidies on production,0.01194903452357587,total impact,7
+Veterinary services,Taxes less subsidies on production,-0.01412793000864123,total impact,7
+Rental and leasing services,Taxes less subsidies on production,0.009837517452938923,total impact,7
+Employment services,Taxes less subsidies on production,0.01186537128217475,total impact,7
+Travel services,Taxes less subsidies on production,0.005343836125395087,total impact,7
+Security services,Taxes less subsidies on production,0.01276756760712418,total impact,7
+Building and landscape services,Taxes less subsidies on production,0.00387317175576207,total impact,7
+Office support services,Taxes less subsidies on production,0.01333563843236726,total impact,7
+Public administration services (including defence),Taxes less subsidies on production,0.002174307887316574,total impact,7
+Education services,Taxes less subsidies on production,0.004903787113212379,total impact,7
+Health services,Taxes less subsidies on production,0.003307807000410276,total impact,7
+Residential and social care services,Taxes less subsidies on production,0.008571010718727744,total impact,7
+Arts and entertainment services,Taxes less subsidies on production,0.006011446062373768,total impact,7
+Libraries and other cultural services,Taxes less subsidies on production,0.004137378797199778,total impact,7
+Gambling services,Taxes less subsidies on production,0.01138480430093931,total impact,7
+Sports and recreation services,Taxes less subsidies on production,0.01531633135590562,total impact,7
+Membership services,Taxes less subsidies on production,0.01193259224764701,total impact,7
+Computer repair services,Taxes less subsidies on production,0.008625895160264982,total impact,7
+Other personal services,Taxes less subsidies on production,0.01764408150230003,total impact,7
+Services of households who employ domestic personnel,Taxes less subsidies on production,0.0,total impact,7
+Agriculture products,Value added by producers,0.7802223382482757,total impact,8
+Forestry products,Value added by producers,0.8622766306319102,total impact,8
+Fishing products,Value added by producers,0.6493395439291505,total impact,8
+Coal and lignite,Value added by producers,0.6514319914661585,total impact,8
+"Petroleum, natural gas and mining of metal ores",Value added by producers,0.9073025212587333,total impact,8
+Other mining products,Value added by producers,0.7014650545491984,total impact,8
+Mining support services,Value added by producers,0.7429018452251435,total impact,8
+Meat and preserved meat products,Value added by producers,0.8039805634905818,total impact,8
+"Fish, seafood, fruit and vegetables",Value added by producers,0.7586172744478976,total impact,8
+Oils and fats,Value added by producers,0.4551131563375013,total impact,8
+Dairy products,Value added by producers,0.7896290729624067,total impact,8
+Grain mill and starch products,Value added by producers,0.5405802918718725,total impact,8
+Bakery products,Value added by producers,0.7935454732349368,total impact,8
+Other food products,Value added by producers,0.7554357071354927,total impact,8
+Animal feeds,Value added by producers,0.6993444496277578,total impact,8
+Alcoholic beverages and tobacco,Value added by producers,0.7561847792569187,total impact,8
+Soft drinks,Value added by producers,0.7159704517503492,total impact,8
+Textiles,Value added by producers,0.7267025293126146,total impact,8
+Clothing,Value added by producers,0.8387637674161754,total impact,8
+Leather products,Value added by producers,0.7591828890768342,total impact,8
+Wood products (excl. furniture),Value added by producers,0.6136981177045338,total impact,8
+Paper products,Value added by producers,0.5983102125247133,total impact,8
+Printing and recording services,Value added by producers,0.6865926267812855,total impact,8
+Coke and refined petroleum products,Value added by producers,0.1107758172652319,total impact,8
+Paints and coatings,Value added by producers,0.5972138550977609,total impact,8
+Soap and detergents,Value added by producers,0.6952788925554809,total impact,8
+Other chemical products,Value added by producers,0.5249074787754004,total impact,8
+Industrial gases and fertilizers,Value added by producers,0.5507541566683571,total impact,8
+Petrochemicals,Value added by producers,0.4095041898489369,total impact,8
+Dyestuffs and agro-chemicals,Value added by producers,0.5865978861506147,total impact,8
+Pharmaceutical products,Value added by producers,0.6958091007210664,total impact,8
+Rubber and plastic products,Value added by producers,0.5469419496734164,total impact,8
+Cement and concrete products,Value added by producers,0.7026079859748027,total impact,8
+"Glass, ceramic and stone products",Value added by producers,0.6850812127250527,total impact,8
+Basic iron and steel,Value added by producers,0.5863791350329706,total impact,8
+Other basic metals and casting,Value added by producers,0.5767968337754539,total impact,8
+Fabricated metal products,Value added by producers,0.7023852430144435,total impact,8
+Computer and electronic products,Value added by producers,0.7947069726007597,total impact,8
+Electrical equipment,Value added by producers,0.6755214313321783,total impact,8
+Other machinery and equipment,Value added by producers,0.6363526646507414,total impact,8
+Motor vehicles,Value added by producers,0.5697147180125739,total impact,8
+Ships and boats,Value added by producers,0.8444623890759626,total impact,8
+Aircraft and spacecraft products,Value added by producers,0.6894830307200287,total impact,8
+Other Transport Equipment,Value added by producers,0.6540364488053789,total impact,8
+Furniture,Value added by producers,0.7490327355160341,total impact,8
+Other manufactured goods,Value added by producers,0.7056837709609722,total impact,8
+Ship and boat repair and maintenance,Value added by producers,0.8657269388497728,total impact,8
+Air- and spacecraft repair and maintenance,Value added by producers,0.5812853078923591,total impact,8
+Other repair services,Value added by producers,0.7243433155064268,total impact,8
+Electricity services,Value added by producers,0.5240750580393547,total impact,8
+"Mains gas, steam and air conditioning services",Value added by producers,0.4338450209166359,total impact,8
+Water services,Value added by producers,0.9088544095958792,total impact,8
+Sewerage services,Value added by producers,0.944405532853513,total impact,8
+Waste collection and treatment services,Value added by producers,0.6862061581762328,total impact,8
+Remediation and waste management services,Value added by producers,0.9039194517377261,total impact,8
+Construction services,Value added by producers,0.8158122606344377,total impact,8
+Motor vehicle trade services,Value added by producers,0.827726231183619,total impact,8
+Wholesale trade services,Value added by producers,0.8047572589629609,total impact,8
+Retail trade services,Value added by producers,0.8836706932004386,total impact,8
+Rail transport services,Value added by producers,0.8088305932175359,total impact,8
+Land transport services,Value added by producers,0.7848281715621738,total impact,8
+Water transport services,Value added by producers,0.7232790006934341,total impact,8
+Air transport services,Value added by producers,0.4217198083313763,total impact,8
+Warehousing services,Value added by producers,0.7649104611331168,total impact,8
+Postal and courier services,Value added by producers,0.8307037971502668,total impact,8
+Accommodation services,Value added by producers,0.8881123311351362,total impact,8
+Food and beverage services,Value added by producers,0.8412385947649762,total impact,8
+Publishing services,Value added by producers,0.8348986769282507,total impact,8
+Media Production services,Value added by producers,0.7550367455074534,total impact,8
+Telecommunications services,Value added by producers,0.8422671887047903,total impact,8
+Computer programming services,Value added by producers,0.8120877675993926,total impact,8
+Information services,Value added by producers,0.869327621913196,total impact,8
+Financial services (excl. insurance and pensions),Value added by producers,0.7667505666388168,total impact,8
+Insurance and pension services,Value added by producers,0.79314722161287,total impact,8
+Auxiliary financial services,Value added by producers,0.8302628157598827,total impact,8
+Real estate services,Value added by producers,0.912625569307214,total impact,8
+Owner-occupier housing services,Value added by producers,0.9773287500133104,total impact,8
+Other real estate services,Value added by producers,0.9028495406894923,total impact,8
+Legal services,Value added by producers,0.9425219664246743,total impact,8
+Accounting and tax services,Value added by producers,0.9233287057532803,total impact,8
+Management consulting services,Value added by producers,0.8101695204197134,total impact,8
+Architectural and engineering services,Value added by producers,0.7734323852143378,total impact,8
+Scientific research and development services,Value added by producers,0.8401665521237043,total impact,8
+Advertising and market research services,Value added by producers,0.8022164730267233,total impact,8
+Other scientific and technical services,Value added by producers,0.8437112149834542,total impact,8
+Veterinary services,Value added by producers,0.9364228789227177,total impact,8
+Rental and leasing services,Value added by producers,0.8687448591575285,total impact,8
+Employment services,Value added by producers,0.9311410985475005,total impact,8
+Travel services,Value added by producers,0.7773154492068335,total impact,8
+Security services,Value added by producers,0.9200580431495397,total impact,8
+Building and landscape services,Value added by producers,0.8821139045708005,total impact,8
+Office support services,Value added by producers,0.8067514660488926,total impact,8
+Public administration services (including defence),Value added by producers,0.8236695434050588,total impact,8
+Education services,Value added by producers,0.9305004787244193,total impact,8
+Health services,Value added by producers,0.8078480581917704,total impact,8
+Residential and social care services,Value added by producers,0.9082110646764016,total impact,8
+Arts and entertainment services,Value added by producers,0.8527316177439211,total impact,8
+Libraries and other cultural services,Value added by producers,0.8682296672547343,total impact,8
+Gambling services,Value added by producers,0.8808362321266177,total impact,8
+Sports and recreation services,Value added by producers,0.8270458669814684,total impact,8
+Membership services,Value added by producers,0.8935822292736052,total impact,8
+Computer repair services,Value added by producers,0.867302178185558,total impact,8
+Other personal services,Value added by producers,0.9150588784249711,total impact,8
+Services of households who employ domestic personnel,Value added by producers,1.0,total impact,8
+Agriculture products,Output,2.0379066120028972,total impact,9
+Forestry products,Output,1.7434404614395969,total impact,9
+Fishing products,Output,1.7172321046677077,total impact,9
+Coal and lignite,Output,2.2078593166694307,total impact,9
+"Petroleum, natural gas and mining of metal ores",Output,1.3327340801923186,total impact,9
+Other mining products,Output,2.0344033428041377,total impact,9
+Mining support services,Output,1.7772000328332955,total impact,9
+Meat and preserved meat products,Output,2.5466532464772924,total impact,9
+"Fish, seafood, fruit and vegetables",Output,2.282565097886823,total impact,9
+Oils and fats,Output,1.8853393318487082,total impact,9
+Dairy products,Output,2.6374387829130606,total impact,9
+Grain mill and starch products,Output,1.8446865693199452,total impact,9
+Bakery products,Output,2.1866188862866283,total impact,9
+Other food products,Output,2.078525632313951,total impact,9
+Animal feeds,Output,2.488301911931813,total impact,9
+Alcoholic beverages and tobacco,Output,1.9413396462361328,total impact,9
+Soft drinks,Output,2.19403067851487,total impact,9
+Textiles,Output,1.5617560950670326,total impact,9
+Clothing,Output,1.6589414487160146,total impact,9
+Leather products,Output,1.7724307796667138,total impact,9
+Wood products (excl. furniture),Output,1.5354120714958481,total impact,9
+Paper products,Output,1.8132156738615433,total impact,9
+Printing and recording services,Output,1.6932517577858028,total impact,9
+Coke and refined petroleum products,Output,1.1475000767505268,total impact,9
+Paints and coatings,Output,1.61276648639419,total impact,9
+Soap and detergents,Output,1.619360080602734,total impact,9
+Other chemical products,Output,1.5316851334979624,total impact,9
+Industrial gases and fertilizers,Output,1.8869517800804319,total impact,9
+Petrochemicals,Output,1.7913823899379817,total impact,9
+Dyestuffs and agro-chemicals,Output,1.738435378764735,total impact,9
+Pharmaceutical products,Output,1.4625207647976113,total impact,9
+Rubber and plastic products,Output,1.625462925184038,total impact,9
+Cement and concrete products,Output,1.8983128557891447,total impact,9
+"Glass, ceramic and stone products",Output,1.9051482550348886,total impact,9
+Basic iron and steel,Output,1.6999975612212872,total impact,9
+Other basic metals and casting,Output,1.4679034953598316,total impact,9
+Fabricated metal products,Output,1.5774045345087655,total impact,9
+Computer and electronic products,Output,1.4928443055413296,total impact,9
+Electrical equipment,Output,1.5974540954850986,total impact,9
+Other machinery and equipment,Output,1.6281542316021405,total impact,9
+Motor vehicles,Output,1.8362260902001257,total impact,9
+Ships and boats,Output,1.9120717586020683,total impact,9
+Aircraft and spacecraft products,Output,1.6938971323032725,total impact,9
+Other Transport Equipment,Output,1.7023478760208948,total impact,9
+Furniture,Output,1.7509173963101543,total impact,9
+Other manufactured goods,Output,1.7484324708543815,total impact,9
+Ship and boat repair and maintenance,Output,1.609574128369495,total impact,9
+Air- and spacecraft repair and maintenance,Output,1.3499879120513651,total impact,9
+Other repair services,Output,1.6291812197430098,total impact,9
+Electricity services,Output,2.7860681629517057,total impact,9
+"Mains gas, steam and air conditioning services",Output,2.8281468414034983,total impact,9
+Water services,Output,1.5771624892485292,total impact,9
+Sewerage services,Output,1.3362360901047468,total impact,9
+Waste collection and treatment services,Output,1.7675887658540812,total impact,9
+Remediation and waste management services,Output,1.7749951178210586,total impact,9
+Construction services,Output,2.1455897319479624,total impact,9
+Motor vehicle trade services,Output,1.6803556552840546,total impact,9
+Wholesale trade services,Output,1.6265927017238777,total impact,9
+Retail trade services,Output,1.6417942095642142,total impact,9
+Rail transport services,Output,2.3604648119126663,total impact,9
+Land transport services,Output,1.735035188694481,total impact,9
+Water transport services,Output,1.8558303855763045,total impact,9
+Air transport services,Output,1.6197116344104352,total impact,9
+Warehousing services,Output,1.7614480817482956,total impact,9
+Postal and courier services,Output,1.7011866593530587,total impact,9
+Accommodation services,Output,1.7002151358429458,total impact,9
+Food and beverage services,Output,1.7903587598484199,total impact,9
+Publishing services,Output,1.6353912556841161,total impact,9
+Media Production services,Output,1.7776633024977007,total impact,9
+Telecommunications services,Output,1.5336994138389066,total impact,9
+Computer programming services,Output,1.564894756848769,total impact,9
+Information services,Output,1.6229039090068573,total impact,9
+Financial services (excl. insurance and pensions),Output,1.4822321756546928,total impact,9
+Insurance and pension services,Output,1.5012080146669216,total impact,9
+Auxiliary financial services,Output,1.4314672763778895,total impact,9
+Real estate services,Output,1.6508692540755272,total impact,9
+Owner-occupier housing services,Output,1.199324569552066,total impact,9
+Other real estate services,Output,1.5836743440833152,total impact,9
+Legal services,Output,1.3526493144054499,total impact,9
+Accounting and tax services,Output,1.244861041940355,total impact,9
+Management consulting services,Output,1.5177956260776926,total impact,9
+Architectural and engineering services,Output,1.68396089500167,total impact,9
+Scientific research and development services,Output,1.560272746523818,total impact,9
+Advertising and market research services,Output,1.5030641837840595,total impact,9
+Other scientific and technical services,Output,1.8348938722762738,total impact,9
+Veterinary services,Output,1.317584934907524,total impact,9
+Rental and leasing services,Output,1.5116413165405516,total impact,9
+Employment services,Output,1.6275079231092124,total impact,9
+Travel services,Output,1.9136442197866685,total impact,9
+Security services,Output,1.785822909190236,total impact,9
+Building and landscape services,Output,1.9288946257826258,total impact,9
+Office support services,Output,1.536319779245422,total impact,9
+Public administration services (including defence),Output,1.5618958714760844,total impact,9
+Education services,Output,1.3953052005553643,total impact,9
+Health services,Output,1.4987395293788501,total impact,9
+Residential and social care services,Output,1.5833990336985961,total impact,9
+Arts and entertainment services,Output,1.557422434512552,total impact,9
+Libraries and other cultural services,Output,1.7196489314178565,total impact,9
+Gambling services,Output,1.7449184598270324,total impact,9
+Sports and recreation services,Output,1.6646454451747665,total impact,9
+Membership services,Output,1.6997675802998382,total impact,9
+Computer repair services,Output,1.538571139242559,total impact,9
+Other personal services,Output,1.3147220843160607,total impact,9
+Services of households who employ domestic personnel,Output,1.0,total impact,9
