@@ -1,0 +1,100 @@
+{
+  "essential": {
+    "graphic_data_url": "ages.csv",
+    "dateFormat": "%d/%m/%Y",
+    "colour_palette": [
+      {
+        "key": "Without self-reported long COVID",
+        "colour": "#206095",
+        "smallkey": "Region",
+        "legendstyle": "line",
+        "opacity": "1",
+        "dash": "false"
+      },
+      {
+        "key": "95% confidence interval",
+        "colour": "#206095",
+        "smallkey": "95% credible interval",
+        "legendstyle": "rect",
+        "opacity": "0.6",
+        "dash": "false"
+      },
+      {
+        "key": "With self-reported long COVID",
+        "colour": "#118C7B",
+        "smallkey": "UK",
+        "legendstyle": "line",
+        "opacity": "1",
+        "dash": "false"
+      },
+      {
+        "key": "95% confidence interval",
+        "colour": "#118C7B",
+        "smallkey": "UK",
+        "legendstyle": "rect",
+        "opacity": "0.6",
+        "dash": "false"
+      }
+    ],
+    "categorySort": ["Data Collection Method"],
+    "sourceText": [
+      "Office for National Statistics – Coronavirus (COVID-19) Infection Survey"
+    ],
+    "xAxisLabel": "",
+    "yAxisLabel": "%",
+    "yAxisScale": ["auto_zero_max_total"],
+    "annotationYpos": 9.2,
+    "method1nudges": [0, 0, 8, -2, 5, 8, -5],
+    "method2nudges": [-5, 0, 0, 0, -2, 0, 0]
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 15,
+        "right": 30,
+        "bottom": 30,
+        "left": 28
+      },
+      "md": {
+        "top": 15,
+        "right": 30,
+        "bottom": 30,
+        "left": 28
+      },
+      "lg": {
+        "top": 15,
+        "right": 30,
+        "bottom": 30,
+        "left": 28
+      }
+    },
+    "chart_every": {
+      "sm": 1,
+      "md": 1,
+      "lg": 1
+    },
+    "aspectRatio": {
+      "sm": [16, 8],
+      "md": [16, 8],
+      "lg": [16, 10]
+    },
+    "legendHeight": {
+      "sm": 40,
+      "md": 40,
+      "lg": 40
+    },
+    "legendWidth": {
+      "sm": 400,
+      "md": 420,
+      "lg": 420
+    },
+    "anno_line": [],
+    "mobileBreakpoint": 480,
+    "middleBreakpoint": 670,
+    "x_ticks_every": {
+      "sm": 8,
+      "md": 8,
+      "lg": 8    
+    }
+  }
+}

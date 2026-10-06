@@ -1,0 +1,20 @@
+﻿category,state,value,LCI,UCI
+Less than 12 weeks,Previously infected without long COVID,0.952720305,0.914316709,0.99273695
+12 to 17 weeks,Previously infected without long COVID,0.872571279,0.817237759,0.93165132
+12 to 17 weeks,Currently reporting long COVID,0.825950062,0.681855335,1.000495955
+12 to 17 weeks,Previously reported long COVID,0.601322446,0.360417288,1.003250111
+18 to 23 weeks,Previously infected without long COVID,0.9468505,0.880476193,1.018228405
+18 to 23 weeks,Currently reporting long COVID,1.11986541,0.901782728,1.39068813
+18 to 23 weeks,Previously reported long COVID,0.895203081,0.672105915,1.192354566
+24 to 29 weeks,Previously infected without long COVID,0.954655451,0.880181112,1.035431252
+24 to 29 weeks,Currently reporting long COVID,1.205206989,0.953993142,1.52257267
+24 to 29 weeks,Previously reported long COVID,0.936958822,0.725532108,1.20999722
+30 to 39 weeks,Previously infected without long COVID,0.988765058,0.90997489,1.074377272
+30 to 39 weeks,Currently reporting long COVID,1.454507016,1.169170368,1.809480224
+30 to 39 weeks,Previously reported long COVID,0.968935285,0.784855848,1.196188561
+40 to 51 weeks,Previously infected without long COVID,0.945462058,0.848494937,1.05351071
+40 to 51 weeks,Currently reporting long COVID,1.34278289,1.045278578,1.72496206
+40 to 51 weeks,Previously reported long COVID,1.0906676,0.878304247,1.354377846
+52 weeks or more,Previously infected without long COVID,0.917224745,0.817339664,1.029316537
+52 weeks or more,Currently reporting long COVID,1.198866441,0.95267083,1.508685579
+52 weeks or more,Previously reported long COVID,1.098275566,0.905747191,1.331728357
