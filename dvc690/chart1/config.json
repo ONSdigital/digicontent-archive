@@ -1,0 +1,102 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+
+            "dateFormat":"%d/%m/%Y",
+
+            "legendLabels" : ["Blue"],
+            "legendStyle": "line",
+            "directLabeling" : false,
+            "directLabelingAdjust" : {
+              "Blue": {"x": 0, "y": 0},
+              "Green": {"x": 0, "y": 7},
+              "Red": {"x": 0, "y": -7}
+            },
+            "colour_palette": {
+              "Blue": "rgb(0, 117, 163)",
+              "Green": "green",
+              "Red": "#E73F40"
+            },
+
+            "sourceText":["Office for National Statistics"],
+            "sourceURL":["http://www.ons.gov.uk"],
+            "draggable": false,
+           "annotationsChart" : [
+  {
+    "xVal": "2019-07-24T00:00:00.000Z",
+    "yVal": 800,
+    "path": "M44,10C37,21,23,33,11,36",
+    "text": "Heatwave  warnings ¹",
+    "textOffset": [
+      79,
+      -15
+    ]
+  },
+  {
+    "xVal": "2019-08-24T00:00:00.000Z",
+    "yVal": 800,
+    "path": "M-47,7C-38,16,-21,22,-4,23",
+    "text": "",
+    "textOffset": [
+      0,
+      0
+    ]
+  },
+  {
+    "xVal": "2019-07-24T00:00:00.000Z",
+    "yVal": 600,
+    "path": "M-48,4C-33,9,-19,18,0,22",
+    "text": "UK hottest record temperature",
+    "textOffset": [
+      -53,
+      -8
+    ]
+  }
+],
+
+            "wordwrap":[10,10,10],
+            "annoAlign": ["middle","middle","end"],
+            "annotationBullet" : [],
+
+            "circles" : false,
+            "annotationCXCY":[
+                ["Jan-93","68.4"],
+                ["Jan-08","73"]
+            ],
+            "annotationColour": ["green"],
+
+            "yAxisLabel":"Number of deaths",
+            "yAxisScale":[0,1600],
+            "yAxisBreak": false,
+            "yAxisBreak_sm_md_lg": [65,65,65]
+    },
+
+    "optional" : {
+            "margin_sm": [50, 10, 55, 40],
+            "margin_md": [50, 50, 55, 40],
+            "margin_lg": [50, 50, 55, 40],
+
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+
+            "mobileBreakpoint" : 414,
+
+            "xAxisTextFormat_sm_md_lg" : ["%d %b", "%d %b", "%d %b"],
+
+            "x_num_ticks_sm_md_lg" : [6,7,9],
+            "y_num_ticks_sm_md_lg" : [5,7,7],
+
+            "lineMarkers" : false,
+
+            "vertical_line" : true,
+            "annotateLineX1_Y1_X2_Y2" : [ [["24/07/2019", "1600"],["24/07/2019", "0"]]],
+
+            "annotateRect" : true,
+            "annotateRectX_Y" : [ [["22/07/2019", "1600"],["26/07/2019", "0"]], [["24/08/2019", "1600"],["28/08/2019", "0"]] ],
+            "lineColor_opcty" : [["#ccc", 0.3], ["#ccc", 0.3]],
+
+            "centre_line" : false,
+            "centre_line_value" : 25
+    }
+}
