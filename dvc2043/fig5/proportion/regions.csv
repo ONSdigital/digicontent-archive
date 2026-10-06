@@ -1,0 +1,268 @@
+date,category,chiffre,series
+01/01/2015,Proportion of online sales,11.89512967,Clothing
+01/02/2015,Proportion of online sales,11.57739039,Clothing
+01/03/2015,Proportion of online sales,11.56203015,Clothing
+01/04/2015,Proportion of online sales,12.31983595,Clothing
+01/05/2015,Proportion of online sales,11.88712001,Clothing
+01/06/2015,Proportion of online sales,13.26688164,Clothing
+01/07/2015,Proportion of online sales,12.42397452,Clothing
+01/08/2015,Proportion of online sales,13.97058801,Clothing
+01/09/2015,Proportion of online sales,13.27905787,Clothing
+01/10/2015,Proportion of online sales,13.37141396,Clothing
+01/11/2015,Proportion of online sales,13.51008954,Clothing
+01/12/2015,Proportion of online sales,13.86981748,Clothing
+01/01/2016,Proportion of online sales,13.22943334,Clothing
+01/02/2016,Proportion of online sales,13.47247423,Clothing
+01/03/2016,Proportion of online sales,12.8866187,Clothing
+01/04/2016,Proportion of online sales,13.5270627,Clothing
+01/05/2016,Proportion of online sales,13.7122561,Clothing
+01/06/2016,Proportion of online sales,13.68980413,Clothing
+01/07/2016,Proportion of online sales,13.32539015,Clothing
+01/08/2016,Proportion of online sales,13.79508144,Clothing
+01/09/2016,Proportion of online sales,13.61596393,Clothing
+01/10/2016,Proportion of online sales,13.68501818,Clothing
+01/11/2016,Proportion of online sales,14.65069666,Clothing
+01/12/2016,Proportion of online sales,14.43669689,Clothing
+01/01/2017,Proportion of online sales,14.53505649,Clothing
+01/02/2017,Proportion of online sales,14.92798928,Clothing
+01/03/2017,Proportion of online sales,14.92012977,Clothing
+01/04/2017,Proportion of online sales,13.75834734,Clothing
+01/05/2017,Proportion of online sales,14.71444741,Clothing
+01/06/2017,Proportion of online sales,14.68327023,Clothing
+01/07/2017,Proportion of online sales,15.2038673,Clothing
+01/08/2017,Proportion of online sales,15.65070127,Clothing
+01/09/2017,Proportion of online sales,15.56512695,Clothing
+01/10/2017,Proportion of online sales,16.0921664,Clothing
+01/11/2017,Proportion of online sales,15.74487886,Clothing
+01/12/2017,Proportion of online sales,16.36956056,Clothing
+01/01/2018,Proportion of online sales,17.13898928,Clothing
+01/02/2018,Proportion of online sales,16.24679535,Clothing
+01/03/2018,Proportion of online sales,17.01301363,Clothing
+01/04/2018,Proportion of online sales,17.52031576,Clothing
+01/05/2018,Proportion of online sales,18.01530113,Clothing
+01/06/2018,Proportion of online sales,17.32130732,Clothing
+01/07/2018,Proportion of online sales,17.26274734,Clothing
+01/08/2018,Proportion of online sales,17.62196039,Clothing
+01/09/2018,Proportion of online sales,18.46006184,Clothing
+01/10/2018,Proportion of online sales,18.12300099,Clothing
+01/11/2018,Proportion of online sales,18.29157124,Clothing
+01/12/2018,Proportion of online sales,17.94026302,Clothing
+01/01/2019,Proportion of online sales,18.22694618,Clothing
+01/02/2019,Proportion of online sales,17.2368177,Clothing
+01/03/2019,Proportion of online sales,17.88620818,Clothing
+01/04/2019,Proportion of online sales,18.21094349,Clothing
+01/05/2019,Proportion of online sales,19.03429636,Clothing
+01/06/2019,Proportion of online sales,19.55346619,Clothing
+01/07/2019,Proportion of online sales,18.92162011,Clothing
+01/08/2019,Proportion of online sales,18.15509255,Clothing
+01/09/2019,Proportion of online sales,18.87566652,Clothing
+01/10/2019,Proportion of online sales,18.50048815,Clothing
+01/11/2019,Proportion of online sales,18.93072065,Clothing
+01/12/2019,Proportion of online sales,18.29316838,Clothing
+01/01/2020,Proportion of online sales,18.7146739,Clothing
+01/02/2020,Proportion of online sales,20.53423769,Clothing
+01/03/2020,Proportion of online sales,27.3782366,Clothing
+01/04/2020,Proportion of online sales,50.44052799,Clothing
+01/05/2020,Proportion of online sales,47.93854903,Clothing
+01/06/2020,Proportion of online sales,40.82587009,Clothing
+01/07/2020,Proportion of online sales,31.30689489,Clothing
+01/08/2020,Proportion of online sales,29.59521291,Clothing
+01/09/2020,Proportion of online sales,28.55778144,Clothing
+01/10/2020,Proportion of online sales,30.02290395,Clothing
+01/11/2020,Proportion of online sales,42.38039906,Clothing
+01/12/2020,Proportion of online sales,33.34693406,Clothing
+01/01/2021,Proportion of online sales,51.46564263,Clothing
+01/02/2021,Proportion of online sales,65.05387922,Clothing
+01/03/2021,Proportion of online sales,54.75074119,Clothing
+01/04/2021,Proportion of online sales,31.71245561,Clothing
+01/05/2021,Proportion of online sales,29.85936592,Clothing
+01/06/2021,Proportion of online sales,30.11544323,Clothing
+01/07/2021,Proportion of online sales,30.49773149,Clothing
+01/08/2021,Proportion of online sales,30.29903821,Clothing
+01/09/2021,Proportion of online sales,29.21319045,Clothing
+01/10/2021,Proportion of online sales,28.7078493,Clothing
+01/11/2021,Proportion of online sales,27.21699574,Clothing
+01/12/2021,Proportion of online sales,28.98075223,Clothing
+01/01/2022,Proportion of online sales,29.11465973,Clothing
+01/02/2022,Proportion of online sales,27.0369465,Clothing
+01/03/2022,Proportion of online sales,26.41582019,Clothing
+01/04/2022,Proportion of online sales,27.27564777,Clothing
+01/05/2022,Proportion of online sales,26.25195871,Clothing
+01/01/2015,Proportion of online sales,4.194153364,Non specialist food stores
+01/02/2015,Proportion of online sales,4.23688168,Non specialist food stores
+01/03/2015,Proportion of online sales,4.353346799,Non specialist food stores
+01/04/2015,Proportion of online sales,4.17020241,Non specialist food stores
+01/05/2015,Proportion of online sales,4.27553321,Non specialist food stores
+01/06/2015,Proportion of online sales,4.34915502,Non specialist food stores
+01/07/2015,Proportion of online sales,4.399314458,Non specialist food stores
+01/08/2015,Proportion of online sales,4.632125837,Non specialist food stores
+01/09/2015,Proportion of online sales,4.451751532,Non specialist food stores
+01/10/2015,Proportion of online sales,4.414257617,Non specialist food stores
+01/11/2015,Proportion of online sales,4.45357329,Non specialist food stores
+01/12/2015,Proportion of online sales,4.871246837,Non specialist food stores
+01/01/2016,Proportion of online sales,4.661424854,Non specialist food stores
+01/02/2016,Proportion of online sales,4.555483276,Non specialist food stores
+01/03/2016,Proportion of online sales,4.622138941,Non specialist food stores
+01/04/2016,Proportion of online sales,4.813991979,Non specialist food stores
+01/05/2016,Proportion of online sales,5.071311708,Non specialist food stores
+01/06/2016,Proportion of online sales,5.043001823,Non specialist food stores
+01/07/2016,Proportion of online sales,5.042053702,Non specialist food stores
+01/08/2016,Proportion of online sales,5.011970271,Non specialist food stores
+01/09/2016,Proportion of online sales,5.189824353,Non specialist food stores
+01/10/2016,Proportion of online sales,5.410294039,Non specialist food stores
+01/11/2016,Proportion of online sales,5.551358395,Non specialist food stores
+01/12/2016,Proportion of online sales,5.527500634,Non specialist food stores
+01/01/2017,Proportion of online sales,5.357261851,Non specialist food stores
+01/02/2017,Proportion of online sales,5.093673754,Non specialist food stores
+01/03/2017,Proportion of online sales,5.215356923,Non specialist food stores
+01/04/2017,Proportion of online sales,5.320107982,Non specialist food stores
+01/05/2017,Proportion of online sales,5.219043048,Non specialist food stores
+01/06/2017,Proportion of online sales,5.348765511,Non specialist food stores
+01/07/2017,Proportion of online sales,5.519583451,Non specialist food stores
+01/08/2017,Proportion of online sales,5.564395085,Non specialist food stores
+01/09/2017,Proportion of online sales,5.541277944,Non specialist food stores
+01/10/2017,Proportion of online sales,5.556216421,Non specialist food stores
+01/11/2017,Proportion of online sales,5.626518712,Non specialist food stores
+01/12/2017,Proportion of online sales,5.698936709,Non specialist food stores
+01/01/2018,Proportion of online sales,5.586827251,Non specialist food stores
+01/02/2018,Proportion of online sales,5.751454297,Non specialist food stores
+01/03/2018,Proportion of online sales,5.795468668,Non specialist food stores
+01/04/2018,Proportion of online sales,5.829680374,Non specialist food stores
+01/05/2018,Proportion of online sales,5.900870074,Non specialist food stores
+01/06/2018,Proportion of online sales,5.8238942,Non specialist food stores
+01/07/2018,Proportion of online sales,5.835723742,Non specialist food stores
+01/08/2018,Proportion of online sales,5.820682235,Non specialist food stores
+01/09/2018,Proportion of online sales,5.709810118,Non specialist food stores
+01/10/2018,Proportion of online sales,5.747551674,Non specialist food stores
+01/11/2018,Proportion of online sales,5.807849267,Non specialist food stores
+01/12/2018,Proportion of online sales,5.747391782,Non specialist food stores
+01/01/2019,Proportion of online sales,5.447960861,Non specialist food stores
+01/02/2019,Proportion of online sales,5.559417723,Non specialist food stores
+01/03/2019,Proportion of online sales,5.491895147,Non specialist food stores
+01/04/2019,Proportion of online sales,5.720584876,Non specialist food stores
+01/05/2019,Proportion of online sales,5.58734831,Non specialist food stores
+01/06/2019,Proportion of online sales,5.395538536,Non specialist food stores
+01/07/2019,Proportion of online sales,5.659506495,Non specialist food stores
+01/08/2019,Proportion of online sales,5.969657871,Non specialist food stores
+01/09/2019,Proportion of online sales,5.783548191,Non specialist food stores
+01/10/2019,Proportion of online sales,5.699848434,Non specialist food stores
+01/11/2019,Proportion of online sales,5.563424869,Non specialist food stores
+01/12/2019,Proportion of online sales,5.320374991,Non specialist food stores
+01/01/2020,Proportion of online sales,5.303855281,Non specialist food stores
+01/02/2020,Proportion of online sales,5.367958778,Non specialist food stores
+01/03/2020,Proportion of online sales,5.645753057,Non specialist food stores
+01/04/2020,Proportion of online sales,8.83684537,Non specialist food stores
+01/05/2020,Proportion of online sales,10.68835718,Non specialist food stores
+01/06/2020,Proportion of online sales,10.82187859,Non specialist food stores
+01/07/2020,Proportion of online sales,10.96669931,Non specialist food stores
+01/08/2020,Proportion of online sales,10.81492625,Non specialist food stores
+01/09/2020,Proportion of online sales,10.57061138,Non specialist food stores
+01/10/2020,Proportion of online sales,10.78592097,Non specialist food stores
+01/11/2020,Proportion of online sales,10.71749247,Non specialist food stores
+01/12/2020,Proportion of online sales,11.70117618,Non specialist food stores
+01/01/2021,Proportion of online sales,11.9485169,Non specialist food stores
+01/02/2021,Proportion of online sales,11.56266653,Non specialist food stores
+01/03/2021,Proportion of online sales,11.23572504,Non specialist food stores
+01/04/2021,Proportion of online sales,10.51651857,Non specialist food stores
+01/05/2021,Proportion of online sales,10.66746917,Non specialist food stores
+01/06/2021,Proportion of online sales,9.991987009,Non specialist food stores
+01/07/2021,Proportion of online sales,10.32950087,Non specialist food stores
+01/08/2021,Proportion of online sales,10.19628023,Non specialist food stores
+01/09/2021,Proportion of online sales,10.17296457,Non specialist food stores
+01/10/2021,Proportion of online sales,9.82032086,Non specialist food stores
+01/11/2021,Proportion of online sales,9.639166196,Non specialist food stores
+01/12/2021,Proportion of online sales,10.84606172,Non specialist food stores
+01/01/2022,Proportion of online sales,9.481211398,Non specialist food stores
+01/02/2022,Proportion of online sales,9.270638838,Non specialist food stores
+01/03/2022,Proportion of online sales,9.413174654,Non specialist food stores
+01/04/2022,Proportion of online sales,9.468868086,Non specialist food stores
+01/05/2022,Proportion of online sales,9.490881743,Non specialist food stores
+01/01/2015,Proportion of online sales,1.951485668,Specialist food stores
+01/02/2015,Proportion of online sales,0.972807551,Specialist food stores
+01/03/2015,Proportion of online sales,1.009833443,Specialist food stores
+01/04/2015,Proportion of online sales,1.410692164,Specialist food stores
+01/05/2015,Proportion of online sales,1.489254744,Specialist food stores
+01/06/2015,Proportion of online sales,2.19653454,Specialist food stores
+01/07/2015,Proportion of online sales,1.808516026,Specialist food stores
+01/08/2015,Proportion of online sales,1.633400137,Specialist food stores
+01/09/2015,Proportion of online sales,1.619807818,Specialist food stores
+01/10/2015,Proportion of online sales,1.368772462,Specialist food stores
+01/11/2015,Proportion of online sales,1.119546082,Specialist food stores
+01/12/2015,Proportion of online sales,1.033417444,Specialist food stores
+01/01/2016,Proportion of online sales,1.132325157,Specialist food stores
+01/02/2016,Proportion of online sales,1.00080361,Specialist food stores
+01/03/2016,Proportion of online sales,0.935858752,Specialist food stores
+01/04/2016,Proportion of online sales,0.567485765,Specialist food stores
+01/05/2016,Proportion of online sales,0.98658343,Specialist food stores
+01/06/2016,Proportion of online sales,0.863312774,Specialist food stores
+01/07/2016,Proportion of online sales,0.835311209,Specialist food stores
+01/08/2016,Proportion of online sales,0.987702049,Specialist food stores
+01/09/2016,Proportion of online sales,1.00954556,Specialist food stores
+01/10/2016,Proportion of online sales,1.11343921,Specialist food stores
+01/11/2016,Proportion of online sales,1.131346116,Specialist food stores
+01/12/2016,Proportion of online sales,1.449297745,Specialist food stores
+01/01/2017,Proportion of online sales,1.465862641,Specialist food stores
+01/02/2017,Proportion of online sales,1.48517137,Specialist food stores
+01/03/2017,Proportion of online sales,1.557514824,Specialist food stores
+01/04/2017,Proportion of online sales,1.239211749,Specialist food stores
+01/05/2017,Proportion of online sales,1.312858245,Specialist food stores
+01/06/2017,Proportion of online sales,1.490678053,Specialist food stores
+01/07/2017,Proportion of online sales,1.352826277,Specialist food stores
+01/08/2017,Proportion of online sales,1.735000008,Specialist food stores
+01/09/2017,Proportion of online sales,1.661611903,Specialist food stores
+01/10/2017,Proportion of online sales,1.806491843,Specialist food stores
+01/11/2017,Proportion of online sales,1.775959907,Specialist food stores
+01/12/2017,Proportion of online sales,1.91601756,Specialist food stores
+01/01/2018,Proportion of online sales,1.797195444,Specialist food stores
+01/02/2018,Proportion of online sales,1.60587272,Specialist food stores
+01/03/2018,Proportion of online sales,1.582185398,Specialist food stores
+01/04/2018,Proportion of online sales,1.880456983,Specialist food stores
+01/05/2018,Proportion of online sales,1.541536323,Specialist food stores
+01/06/2018,Proportion of online sales,1.689218145,Specialist food stores
+01/07/2018,Proportion of online sales,2.274877174,Specialist food stores
+01/08/2018,Proportion of online sales,1.646799373,Specialist food stores
+01/09/2018,Proportion of online sales,1.861715163,Specialist food stores
+01/10/2018,Proportion of online sales,2.742330887,Specialist food stores
+01/11/2018,Proportion of online sales,2.275386339,Specialist food stores
+01/12/2018,Proportion of online sales,2.083728271,Specialist food stores
+01/01/2019,Proportion of online sales,1.890110717,Specialist food stores
+01/02/2019,Proportion of online sales,1.664252786,Specialist food stores
+01/03/2019,Proportion of online sales,1.26054153,Specialist food stores
+01/04/2019,Proportion of online sales,1.475432374,Specialist food stores
+01/05/2019,Proportion of online sales,1.804537226,Specialist food stores
+01/06/2019,Proportion of online sales,2.090476451,Specialist food stores
+01/07/2019,Proportion of online sales,2.679619105,Specialist food stores
+01/08/2019,Proportion of online sales,2.707914626,Specialist food stores
+01/09/2019,Proportion of online sales,3.439743367,Specialist food stores
+01/10/2019,Proportion of online sales,2.62364107,Specialist food stores
+01/11/2019,Proportion of online sales,2.520459153,Specialist food stores
+01/12/2019,Proportion of online sales,2.290107175,Specialist food stores
+01/01/2020,Proportion of online sales,2.529902923,Specialist food stores
+01/02/2020,Proportion of online sales,2.426256672,Specialist food stores
+01/03/2020,Proportion of online sales,3.269579343,Specialist food stores
+01/04/2020,Proportion of online sales,13.76806586,Specialist food stores
+01/05/2020,Proportion of online sales,13.90702668,Specialist food stores
+01/06/2020,Proportion of online sales,8.972120612,Specialist food stores
+01/07/2020,Proportion of online sales,5.021683741,Specialist food stores
+01/08/2020,Proportion of online sales,5.39712881,Specialist food stores
+01/09/2020,Proportion of online sales,4.929111805,Specialist food stores
+01/10/2020,Proportion of online sales,4.793696551,Specialist food stores
+01/11/2020,Proportion of online sales,6.054302778,Specialist food stores
+01/12/2020,Proportion of online sales,6.899600898,Specialist food stores
+01/01/2021,Proportion of online sales,9.585426299,Specialist food stores
+01/02/2021,Proportion of online sales,10.60251312,Specialist food stores
+01/03/2021,Proportion of online sales,8.855517125,Specialist food stores
+01/04/2021,Proportion of online sales,8.494024379,Specialist food stores
+01/05/2021,Proportion of online sales,8.501878229,Specialist food stores
+01/06/2021,Proportion of online sales,8.403152425,Specialist food stores
+01/07/2021,Proportion of online sales,8.031367808,Specialist food stores
+01/08/2021,Proportion of online sales,8.272633677,Specialist food stores
+01/09/2021,Proportion of online sales,7.621187739,Specialist food stores
+01/10/2021,Proportion of online sales,7.658743063,Specialist food stores
+01/11/2021,Proportion of online sales,6.722207512,Specialist food stores
+01/12/2021,Proportion of online sales,6.365985916,Specialist food stores
+01/01/2022,Proportion of online sales,6.0725148,Specialist food stores
+01/02/2022,Proportion of online sales,6.562076791,Specialist food stores
+01/03/2022,Proportion of online sales,5.88988489,Specialist food stores
+01/04/2022,Proportion of online sales,5.686217983,Specialist food stores
+01/05/2022,Proportion of online sales,6.232739149,Specialist food stores

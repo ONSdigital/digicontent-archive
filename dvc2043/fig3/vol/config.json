@@ -1,0 +1,81 @@
+{
+  "essential": {
+    "graphic_data_url": "regions.csv",
+    "dateFormat": "%d/%m/%Y",
+    "displayTicksFormat":"%b %Y",
+    "structure": [{
+        "series": ["Sports equipment games and toys"],
+            "text": "The <span id=\"bold_text\">quantity bought</span> continues to increase partly as a result of increased online spend.",
+        "colour": ["#206095"],
+        "yoffset":{"Proportion of online sales":[-5,12],"Total volume":[0,12]}
+      },
+      {
+        "series":["Books newspapers and stationary"],
+        "text": "The <span id=\"bold_text\">quantity bought</span> has still not returned to 2019 levels.",
+        "colour":["#27A0CC"],
+        "yoffset":{"Proportion of online sales":[6],"Total volume":[6]}
+      },
+      {
+        "series": ["Flowers plants seeds fertilisers and pet foods"],
+        "text": "The <span id=\"bold_text\">quantity bought</span> continues to increase partly as a result of increased online spend.",
+        "colour": ["#871A5B"],
+        "yoffset":{"Proportion of online sales":[5,5],"Total volume":[0,12]}
+      }
+    ],
+    "categorySort": {
+      "on":false,
+      "sortby":["South East","North West","East","West Midlands","London","Yorkshire and The Humber","South West","East Midlands","North East","Wales"]
+      },
+    "sourceText": "Office for National Statistics – Monthly Business Survey – Retail Sales Inquiry",
+    "xAxisLabel": ["", ""],
+    "yAxisLabel": ["Index 2019=100"],
+    "yAxisScale": {"Proportion of online sales":[0,100],"Total volume":[0,175]},
+    "yAxisRange": {"Proportion of online sales":[115,0],"Total volume":[201.25,0]},
+    "screenreadertext":""
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 40,
+        "right": 47,
+        "bottom": 125,
+        "left": 30
+      },
+      "md": {
+        "top": 40,
+        "right": 47,
+        "bottom": 125,
+        "left": 30
+      },
+      "lg": {
+        "top": 40,
+        "right": 47,
+        "bottom": 125,
+        "left": 30
+      }
+    },
+    "chart_every":{
+      "sm": 1,
+      "md": 1,
+      "lg": 3
+    },
+    "aspectRatio": {
+      "sm": [10, 3],
+      "md": [10, 3],
+      "lg": [4, 3]
+    },
+    "legendHeight":{
+      "sm": 60,
+      "md": 40,
+      "lg": 30
+    },
+
+    "mobileBreakpoint": 480,
+    "middleBreakpoint": 620,
+    "x_ticks_every": {
+      "sm": 48,
+      "md": 48,
+      "lg": 48
+    }
+  }
+}
