@@ -1,0 +1,45 @@
+date,series,Central estimate,Central estimate_lowerCI,Central estimate_upperCI
+01/01/2012,Asian or Asian British,0.04,0.011,0.068
+01/01/2013,Asian or Asian British,0.047,0.009,0.083
+01/01/2014,Asian or Asian British,0.09,0.06,0.119
+01/01/2015,Asian or Asian British,0.074,0.037,0.109
+01/01/2016,Asian or Asian British,0.007,-0.034,0.047
+01/01/2017,Asian or Asian British,0.027,-0.001,0.054
+01/01/2018,Asian or Asian British,-0.003,-0.037,0.029
+01/01/2019,Asian or Asian British,-0.006,-0.039,0.026
+01/01/2020,Asian or Asian British,-0.052,-0.084,-0.021
+01/01/2021,Asian or Asian British,-0.059,-0.097,-0.022
+01/01/2022,Asian or Asian British,-0.033,-0.077,0.008
+01/01/2012,"Black, African, Caribbean or Black British",0.056,0.018,0.093
+01/01/2013,"Black, African, Caribbean or Black British",0.021,-0.023,0.062
+01/01/2014,"Black, African, Caribbean or Black British",0.066,0.023,0.108
+01/01/2015,"Black, African, Caribbean or Black British",0.088,0.064,0.112
+01/01/2016,"Black, African, Caribbean or Black British",0.075,0.046,0.103
+01/01/2017,"Black, African, Caribbean or Black British",0.054,0.009,0.097
+01/01/2018,"Black, African, Caribbean or Black British",0.089,0.057,0.119
+01/01/2019,"Black, African, Caribbean or Black British",0.057,0.024,0.088
+01/01/2020,"Black, African, Caribbean or Black British",0.043,-0.013,0.096
+01/01/2021,"Black, African, Caribbean or Black British",0.07,0.029,0.11
+01/01/2022,"Black, African, Caribbean or Black British",0.057,0.017,0.096
+01/01/2012,Mixed or Multiple ethnic groups,0.016,-0.082,0.105
+01/01/2013,Mixed or Multiple ethnic groups,-0.057,-0.145,0.024
+01/01/2014,Mixed or Multiple ethnic groups,0.025,-0.055,0.099
+01/01/2015,Mixed or Multiple ethnic groups,0.013,-0.06,0.08
+01/01/2016,Mixed or Multiple ethnic groups,-0.036,-0.118,0.04
+01/01/2017,Mixed or Multiple ethnic groups,0.046,-0.017,0.105
+01/01/2018,Mixed or Multiple ethnic groups,-0.031,-0.113,0.045
+01/01/2019,Mixed or Multiple ethnic groups,-0.013,-0.078,0.048
+01/01/2020,Mixed or Multiple ethnic groups,-0.021,-0.107,0.058
+01/01/2021,Mixed or Multiple ethnic groups,-0.045,-0.159,0.058
+01/01/2022,Mixed or Multiple ethnic groups,-0.072,-0.146,-0.002
+01/01/2012,Other ethnic group,0.067,-0.007,0.134
+01/01/2013,Other ethnic group,0.088,0.025,0.148
+01/01/2014,Other ethnic group,0.098,0.029,0.163
+01/01/2015,Other ethnic group,0.086,0.036,0.133
+01/01/2016,Other ethnic group,0.078,0.012,0.14
+01/01/2017,Other ethnic group,0.078,0.009,0.142
+01/01/2018,Other ethnic group,0.087,0.022,0.148
+01/01/2019,Other ethnic group,0.067,-0.009,0.138
+01/01/2020,Other ethnic group,-0.063,-0.179,0.042
+01/01/2021,Other ethnic group,-0.098,-0.218,0.009
+01/01/2022,Other ethnic group,-0.045,-0.124,0.028
