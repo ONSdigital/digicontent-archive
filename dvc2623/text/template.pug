@@ -1,0 +1,560 @@
+//rendering of percentage values with context
+mixin percent(x, i)
+  if ((Math.abs(x)/307)>0.4)
+    | close to the national average
+  else
+    if (x>0)
+      if (negs.includes((sto[i].metric).toLowerCase()))
+        | among the best
+      else
+        | in the top
+    else if (x<0)
+      if (negs.includes((sto[i].metric).toLowerCase()))
+        | among the worst
+      else
+        | in the bottom
+    if (Math.abs(x)/307 < 0.01)
+      | #[+value(0.01, {'FORMAT': '0%'})]
+    else if (Math.abs(x)/307 < 0.05)
+      | #[+value(0.05, {'FORMAT': '0%'})]
+    else if (Math.abs(x)/307 < 0.1)
+      | #[+value(0.1, {'FORMAT': '0%'})]
+    else if (Math.abs(x)/307 < 0.2)
+      | #[+value(0.2, {'FORMAT': '0%'})]
+    else if (Math.abs(x)/307 < 0.25)
+      | #[+value(0.25, {'FORMAT': '0%'})]
+    else if (Math.abs(x)/307 < 0.3)
+      | #[+value(0.3, {'FORMAT': '0%'})]    
+    else if (Math.abs(x)/307 < 0.4)
+      | #[+value(0.4, {'FORMAT': '0%'})]
+    else if (Math.abs(x)/307 < 0.5)
+      | #[+value(0.5, {'FORMAT': '0%'})]
+    | of local authority areas
+
+//this function controls the first line of the first section
+//named secondSen as it comes after main line in graphic, set in Svelte
+mixin secondSenfirst(i, met)
+  | #[+value(place.name)]'s best score across all subdomains is 
+  | #[+value(place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2021].value, {'FORMAT': '0.0'})] for
+  if (sto[i].metric!='Mental health')
+    | health relating to 
+  | #[+value("&quot"+(sto[i].metric).toLowerCase()+"&quot")]
+  |.
+
+//when introducing a subdomain write this
+mixin subd(i)
+  | #[+value("&quot"+(sto[i].metric)+"&quot")] 
+  synz {mode:'sequence'}
+    syn
+      | looks at
+    syn
+      | addresses
+  if (twoindis.includes(sto[i].metric))
+    eachz indic in indLU[sto[i].metric] with { separator:',', last_separator:' and' }
+      | #[+value((uncap(indikey[indic])=='personal crime')? 'personal crime (crimes against individuals)' : uncap(indikey[indic]))]
+  else
+    eachz indic in indLU[sto[i].metric] with { separator:',', last_separator:', and' }
+      | #[+value(uncap(indikey[indic]))]
+  | .
+  | #[+caveat(sto[i].metric)]
+
+//call subdomain caveat from Svelte defined list
+mixin caveat(metric)
+  if Object.keys(caveats).includes(metric)
+    if (metric=='Access to services')
+      | #[+value(caveats[metric])]
+    else
+      p.general #[+value(caveats[metric])]
+
+//first section outro
+mixin thirdfirst(i, met)
+  | The second highest scoring subdomain is #[+value("&quot"+ (orda[1].metric.toLowerCase()) +"&quot")], 
+  | while #[+value(place.name)]'s worst score is for 
+  | #[+value("&quot"+ (orda[orda.length-1].metric.toLowerCase()) +"&quot")].
+
+//if subdomain is a static variable
+mixin accessfirst(i)
+  | #[+value(place.name)] has a Health Index score of 
+  | #[+value(place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2021].value, {'FORMAT': '0.0'})]
+  | for #[+value("&quot"+(sto[i].metric).toLowerCase()+"&quot")]. 
+  | The score for #[+value(parent)] is 
+  | #[+value(region.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2021].value, {'FORMAT': '0.0'})],
+  | while England has a score of 
+  | #[+value(england.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2021].value, {'FORMAT': '0.0'})].
+
+//if subdomain has only one indicator
+mixin singleIndie(i, met)
+  | #[+value(place.name)]'s score for #[+value("&quot"+(sto[i].metric).toLowerCase()+"&quot")] puts it
+  | #[+percent(sto[i][met]), i)]
+  | across England for this subdomain.
+
+//third part of a subdomain section on access, which is static
+mixin access(i)
+  if (sto[i].value<100)
+    | This subdomain's lowest scoring indicator was
+    //- | #[+value(place.name)]'s score is lower for
+    | #[+value(indiSort(indis[sto[i].metric], -1, 'rank')[0])]
+    | , with an index value of 
+    | #[+value(indiSort(indis[sto[i].metric], -1, 'rank')[1])].
+    if ( ['Access to services'].includes(sto[i].metric) )
+      | The highest scoring indicator was 
+      | #[+value(indiSort(indis[sto[i].metric], 0, 'rank')[0])]
+      | , which has an index value of 
+      | #[+value(indiSort(indis[sto[i].metric], 0, 'rank')[1])].
+    else 
+      | The index value for
+      | #[+value(indiSort(indis[sto[i].metric], 0, 'rank')[0])]
+      | in #[+value(place.name)] is
+      | #[+value(indiSort(indis[sto[i].metric], 0, 'rank')[1])].
+  else
+    | This subdomain's highest scoring indicator was
+    //- | #[+value(place.name)]'s score is higher for
+    | #[+value(indiSort(indis[sto[i].metric], 0, 'rank')[0])]
+    | , with an index value of 
+    | #[+value(indiSort(indis[sto[i].metric], 0, 'rank')[1])].
+    if ( ['Access to services'].includes(sto[i].metric) )
+      | The lowest scoring indicator was 
+      | #[+value(indiSort(indis[sto[i].metric], -1, 'rank')[0])]
+      | , which has an index value of 
+      | #[+value(indiSort(indis[sto[i].metric], -1, 'rank')[1])].
+    else 
+      | The index value for
+      | #[+value(indiSort(indis[sto[i].metric], -1, 'rank')[0])]
+      | in #[+value(place.name)] is
+      | #[+value(indiSort(indis[sto[i].metric], -1, 'rank')[1])].
+
+//for most sections, structure like this after introducing indicator
+mixin secondSen(i, met)
+  synz {mode:'sequence'}
+    syn
+      | #[+secondSenB(i, met)]
+    syn
+      | #[+secondSenA(i, met)]
+
+//called by secondSen to construct second line of section
+mixin secondSenB(i, met)
+  - past_value = ((met=="Change6year Rank") ? place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2015].value:place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2020].value)
+  //- var subcha = place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2021].value - past_value
+  //- var actranka = ((met=="Change6year Rank")?place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2015].rank:place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2020].rank)
+  //- if (actranka<0) { actranka = actranka +308}
+  //- var actrankb = place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2021].rank
+  //- if (actrankb<0) { actrankb = actrankb +308}
+  //- var subrankcha = actrankb - actranka
+  - var changequantB = (Math.round(place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2021].value*10)/10) - (Math.round(past_value*10)/10)
+  - var thenrankB = ((met=="Change6year Rank")?place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2015].rank:place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2020].rank)
+  - if (thenrankB<0) { thenrankB = thenrankB +308}
+  - var nowrankB = place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2021].rank
+  - if (nowrankB<0) { nowrankB = nowrankB +308}
+  - var diffrankB = nowrankB - thenrankB
+
+  | #[+value(place.name)]'s score for #[+value("&quot"+(sto[i].metric).toLowerCase()+"&quot")] 
+  if (changequantB==0)
+    | remained at
+    | #[+value(place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2021].value, {'FORMAT': '0.0'})] in 2021.
+  else
+    | #[+value( (changequantB>0)? "improved" : (Math.abs(changequantB)<0.4)?"decreased":"fell" )]
+    | from 
+    if (met=="Change6year Rank")
+      | #[+value(place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2015].value, {'FORMAT': '0.0'})] in 2015
+    else
+      | #[+value(place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2020].value, {'FORMAT': '0.0'})] in 2020
+    | to #[+value(place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2021].value, {'FORMAT': '0.0'})] in 2021.
+  if ((Math.sign(changequantB) != Math.sign(diffrankB)) | (changequantB==0))
+    | This means 
+  else 
+    | Despite the #[+value( (changequantB>0)? "increase" : "decrease" )],
+  | #[+value(place.name)]
+  if (met=="Change6year Rank")
+    if ( topbotnp(i, 2015, sto) != topbotnp(i, 2021, sto) )
+      | went from being #[+topBot(i, 2015)] to being
+    else
+      | remained
+    | #[+topBot(i, 2021)] 
+  else
+    if ( topbotnp(i, 2020, sto) != topbotnp(i, 2021, sto) )
+      | went from being #[+topBot(i, 2020)] to being
+    else
+      | remained
+    | #[+topBot(i, 2021)]
+  | across England for this subdomain.
+
+//comparison to LA level
+mixin topBot(i, yr)
+  //- - console.log("sto[i].metric", sto[i].metric)
+  //- - console.log("yr", yr)
+  //- - console.log("rank", place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[yr].rank)
+  //- - console.log("307", Math.abs(place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[yr].rank/307))
+  if (Math.abs(place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[yr].rank/307) > 0.4)
+    | close to average 
+    if !hasSaid('LAA')
+      | among local authority areas
+      recordSaid('LAA')
+  else
+    if (place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[yr].rank>0)
+      if (negs.includes((sto[i].metric).toLowerCase()))
+        | among the best 
+      else
+        | in the top
+    else
+      if (negs.includes((sto[i].metric).toLowerCase()))
+        | among the worst 
+      else
+        | in the bottom
+    if (Math.abs(place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[yr].rank/307) < 0.05)
+      | #[+value((Math.ceil(Math.abs(place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[yr].rank)*100/307)/100), {'FORMAT': '0%'})]
+    else if (Math.abs(place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[yr].rank/307) < 0.1)
+      | #[+value(0.1, {'FORMAT': '0%'})]
+    else if (Math.abs(place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[yr].rank/307) < 0.15)
+      | #[+value(0.15, {'FORMAT': '0%'})]
+    else if (Math.abs(place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[yr].rank/307) < 0.2)
+      | #[+value(0.2, {'FORMAT': '0%'})]
+    else if (Math.abs(place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[yr].rank/307) < 0.25)
+      | #[+value(0.25, {'FORMAT': '0%'})]
+    else if (Math.abs(place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[yr].rank/307) < 0.3)
+      | #[+value(0.3, {'FORMAT': '0%'})]
+    else if (Math.abs(place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[yr].rank/307) < 0.4)
+      | #[+value(0.4, {'FORMAT': '0%'})]
+    else if (Math.abs(place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[yr].rank/307) < 0.5)
+      | #[+value(0.5, {'FORMAT': '0%'})]
+    if !hasSaid('LAA')
+      | of local authority areas
+      recordSaid('LAA')
+
+
+//alternative version called by secondSen for variation
+mixin secondSenA(i, met)
+  //- var subchaa = place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2021].value - ((met=="Change1year Rank")?place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2020].value:place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2015].value)
+  //- var actrankaa = ((met=="Change1year Rank")?place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2020].rank:place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2015].rank)
+  //- if (actrankaa<0) { actrankaa = actrankaa +308}
+  //- var actrankba = place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2021].rank
+  //- if (actrankba<0) { actrankba = actrankba +308}
+  //- var subrankchaa = actrankba - actrankaa
+  - var changequantA = Math.round(place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2021].value*10)/10 - ((met=="Change6year Rank")?(Math.round(place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2015].value*10)/10):(Math.round(place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2020].value*10)/10))
+  - var thenrankA = ((met=="Change6year Rank")?place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2015].rank:place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2020].rank)
+  //if that year's rank is negative, flip
+  - if (thenrankA<0) { thenrankA = thenrankA +308}
+  - var nowrankA = place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2021].rank
+  - if (nowrankA<0) {nowrankA = nowrankA +308}
+  - var diffrank = nowrankA - thenrankA
+  | Between #[+value((met=="Change6year Rank")?'2015':'2020')] and 2021,
+  | #[+value(place.name)]'s Health Index value for #[+value("&quot"+(sto[i].metric).toLowerCase()+"&quot")] 
+  if (changequantA==0)
+    | remained similar at
+  else
+    | went from 
+    if (met=="Change6year Rank")
+      | #[+value(place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2015].value,{'FORMAT': '0.0'})]
+    else
+      | #[+value(place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2020].value, {'FORMAT': '0.0'})]
+  | to #[+value(place.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2021].value, {'FORMAT': '0.0'})].
+  if ((Math.sign(changequantA) != Math.sign(diffrank)) | (changequantA==0))
+    | This means 
+  else 
+    | Despite the #[+value( (changequantA>0)? "increase" : "decrease" )],
+  | #[+value(place.name)]
+  if (met=="Change6year Rank")
+    if ( topbotnp(i, 2015, sto) != topbotnp(i, 2021, sto) )
+      | went from being #[+topBot(i, 2015)] to being
+    else
+      | remained
+    | #[+topBot(i, 2021)] 
+  else
+    if ( topbotnp(i, 2020, sto) != topbotnp(i, 2021, sto) )
+      | went from being #[+topBot(i, 2020)] to being
+    else
+      | remained
+    | #[+topBot(i, 2021)]
+  |for this subdomain.
+
+
+//noise caveat sits at end of section (split out here from 'caveat' to allow bespoke ordering)
+mixin caveatNoise(metric)
+  if Object.keys(caveatsNoise).includes(metric)
+    p.general #[+value(caveatsNoise[metric])]
+
+//write last sentence as
+//calls declineImp1/2, driven and within that, however
+mixin lastSen(i, met)
+  - var imprDecl = (met == 'rank') ? ( (sto[i]['Change1year']>0) ? 'improvement' : 'worsening' ) : ( (sto[i][met.split(" ")[0]]>0) ? 'improvement' : 'worsening' )
+  | The change was largely because of
+  if (met=="Change6year Rank")
+    | #[+driven(i, "Change6year", imprDecl)]
+  else
+    | #[+driven(i, "Change1year", imprDecl)]
+
+//driven by...calls however
+mixin driven(i, change, impDec)
+  | #[+declineImp1(i, change, 0, impDec)]
+  | #[+declineImp2(i, change, 1, impDec)]
+  | #[+however(i, change, impDec)]
+  | .
+  
+mixin declineImp1(i, change, index, impDec)
+  //- - console.log('declineImp 1')
+  //- - console.log("indis[sto[i].metric]", indis[sto[i].metric])
+  - var poscha = indiSort(indis[sto[i].metric], index, change)[1]
+  - var negcha = indiSort(indis[sto[i].metric], (-1-index), change)[1]
+
+  //- - console.log("sto[i]", sto[i])
+  //- - console.log("sto[i].metric", sto[i].metric)
+  //- - console.log("indis[sto[i].metric", indis[sto[i].metric])
+  //- - console.log("change", change)
+
+  - console.log('poscha', poscha)
+  - console.log('negcha', negcha)
+  - console.log('impDec', impDec)
+  if ((impDec=="improvement")&(poscha>0.5))
+    if (negs.includes(indiSort(indis[sto[i].metric], index, change)[0]))
+      | a decrease in
+      | #[+value(indiSort(indis[sto[i].metric], index, change)[0])]
+      | (the index improved by #[+value(poscha, {'FORMAT': '0.0'})] points)
+    else
+      | improvements in
+      | #[+value( indiSort(indis[sto[i].metric], index, change)[0] )]
+      | (an increase of #[+value( Math.abs(poscha), {'FORMAT': '0.0'})])
+  else if ((impDec!="improvement")&(negcha<0.5) & (negcha!==0.0))
+    if (negs.includes(indiSort(indis[sto[i].metric], (-1-index), change)[0]))
+      | an increase in
+      | #[+value(indiSort(indis[sto[i].metric], (-1-index), change)[0])]
+      | (the index worsened by #[+value(Math.abs(negcha), {'FORMAT': '0.0'})] points)
+    else
+      | a worsening in
+      | #[+value(indiSort(indis[sto[i].metric], (-1-index), change)[0])]
+      | (a decrease of #[+value(Math.abs(negcha), {'FORMAT': '0.0'})])
+
+mixin declineImp2(i, change, index, impDec)
+  //- - console.log('declineImp 2')
+  //- - console.log("indis[sto[i].metric]", indis[sto[i].metric])
+  - var poscha = indiSort(indis[sto[i].metric], index, change)[1]
+  - var negcha = indiSort(indis[sto[i].metric], (-1-index), change)[1]
+  - console.log('poscha', poscha)
+  - console.log('negcha', negcha)
+  //- - console.log('impDec', impDec)
+  if ((impDec=="improvement")&(poscha>0.5))
+    | and
+    if (negs.includes(indiSort(indis[sto[i].metric], index, change)[0]))
+      | a decrease in
+      | #[+value(indiSort(indis[sto[i].metric], index, change)[0])]
+      | (the index improved by #[+value(poscha, {'FORMAT': '0.0'})] points)
+    else
+      | improvements in
+      | #[+value( indiSort(indis[sto[i].metric], index, change)[0] )]
+      | (an increase of #[+value( Math.abs(poscha), {'FORMAT': '0.0'})])
+  //- else if (Math.abs(negcha)>0.5)
+  else if ((impDec!="improvement")&(negcha<0.5) & (negcha!==0.0))
+    | and
+    if (negs.includes(indiSort(indis[sto[i].metric], (-1-index), change)[0]))
+      | an increase in
+      | #[+value(indiSort(indis[sto[i].metric], (-1-index), change)[0])]
+      | (the index worsened by #[+value(Math.abs(negcha), {'FORMAT': '0.0'})] points)
+    else
+      | a worsening in
+      | #[+value(indiSort(indis[sto[i].metric], (-1-index), change)[0])]
+      | (a decrease of #[+value(Math.abs(negcha), {'FORMAT': '0.0'})])
+
+
+//the indiSort function within however is in Svelte
+mixin however(i, change, impDec)
+  if (impDec=="improvement")
+    if ( indiSort(indis[sto[i].metric], -1, change)[1] < 0 )
+      if (negs.includes(indiSort(indis[sto[i].metric], -1, change)[0]))
+        | . However, there was also an increase in
+        | #[+value(indiSort(indis[sto[i].metric], -1, change)[0])]
+        | (the index worsened by #[+value(Math.abs(indiSort(indis[sto[i].metric], -1, change)[1]), {'FORMAT': '0.0'})] points)
+      else
+        | . However, there was a worsening in
+        | #[+value(indiSort(indis[sto[i].metric], -1, change)[0])]
+        | (a decrease of #[+value(Math.abs(indiSort(indis[sto[i].metric], -1, change)[1]), {'FORMAT': '0.0'})])
+  else
+    if (indiSort(indis[sto[i].metric], -1, change)[1]>0)
+      if (negs.includes(indiSort(indis[sto[i].metric], -1, change)[0]))
+        | . However, there was an improvement in
+        | #[+value(indiSort(indis[sto[i].metric], 0, change)[0])]
+        | (an increase of #[+value(indiSort(indis[sto[i].metric], 0, change)[1], {'FORMAT': '0.0'})])
+      else
+        | . However, there was an decrease in
+        | #[+value(indiSort(indis[sto[i].metric], 0, change)[0])]
+        | (the index improved by #[+value(indiSort(indis[sto[i].metric], 0, change)[0], {'FORMAT': '0.0'})] points)
+
+//set chart title by calling firstSen
+mixin chartTitle(i, met)
+  | #[+firstSen(i, met)]
+
+//chose if firstSen is the first chart, a rank story or a change story
+mixin firstSen(i, met)
+  if (i==0)
+    | #[+firstfirst(i, met)]
+  else if (met=="rank")
+    | #[+firstrank(i, met)]
+  else
+    | #[+firstchange(i, met)]
+
+//set chart title for first chart only
+mixin firstfirst(i, met)
+  | Health in #[+value(place.name)] is strongest among measures relating to the 
+  | #[+value("&quot"+(sto[i].metric).toLowerCase()+"&quot")] subdomain
+
+//set chart title for any rank story
+mixin firstrank(i, met)
+  if (Math.abs(sto[i][met])>5)
+    | !{place.name}'s score for 
+    if (sto[i].metric!='Mental health')
+      | health relating to 
+    | #[+value("&quot"+(sto[i].metric).toLowerCase()+"&quot")] is 
+    if ( sto[i]['value'] > england.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2021].value + 1 )
+      | better than
+    else if ( sto[i]['value'] < england.data[domLU[sto[i].metric]].subdomains[sto[i].metric].total[2021].value - 1 )
+      | worse than 
+    else
+      | close to
+    | the score for England as a whole
+  else
+    | #[+value(place.name)]
+    | has !{parent}'s
+    if (Math.abs(sto[i][met+"_Reg"])!=1)
+      | #[+value(Math.abs(sto[i][met+"_Reg"]), {'ORDINAL_TEXTUAL':true})]
+    if (sto[i][met]>0)
+      if (negs.includes((sto[i].metric).toLowerCase()))
+        | best score for
+      else
+        | highest score for
+    else
+      if (negs.includes((sto[i].metric).toLowerCase()))
+        | worst score for
+      else
+        | lowest score for
+    if (sto[i].metric!='Mental health')
+      | health relating to 
+    | #[+value("&quot"+(sto[i].metric).toLowerCase()+"&quot")]
+
+//set chart title for a change story
+mixin firstchange(i, met)
+  | #[+value(place.name)]
+  if (Math.abs(sto[i][met])>5)
+    | 's Health Index value for #[+value("&quot"+(sto[i].metric).toLowerCase()+"&quot")]
+    if (sto[i][met.split(" ")[0]] > 0)
+      | improved
+    else
+      | worsened
+    if (met=="Change1year Rank")
+      | by #[+value( Math.abs(sto[i]['Change1year']), {'FORMAT': '0.0'} )] points
+      | between 2020 and 2021
+    else if (met=="Change6year Rank")
+      | by #[+value( Math.abs(sto[i]['Change6year']), {'FORMAT': '0.0'} )] points
+      | in the six years between 2015 and 2021
+  else
+    | saw England’s
+    if (Math.abs(sto[i][met])>1)
+      | #[+value(Math.abs(sto[i][met]), {'ORDINAL_TEXTUAL':true})]
+    | greatest #[+value((sto[i][met]>0)?'improvement':'worsening')] in
+    if (sto[i].metric!='Mental health')
+      | health relating to 
+    | #[+value("&quot"+(sto[i].metric).toLowerCase()+"&quot")]
+    if (met=="Change1year Rank")
+      | between 2020 and 2021
+    else if (met=="Change6year Rank")
+      | in the six years between 2015 and 2021
+
+//sets all subtitles in all three story cases
+mixin chartSubTitle(i, met)
+  if (i==0)
+    | Health Index values for each subdomain, #[+value(place.name)], 2021
+  else if (met=="rank")
+      if (['Access to green space', 'Access to services'].includes(sto[i].metric))
+        | Health Index values for the #[+value("&quot"+(sto[i].metric).toLowerCase()+"&quot")] subdomain in England and 
+        | across local authority areas in #[+value(parent)], 2021
+      else
+        | Health Index values for the #[+value("&quot"+(sto[i].metric).toLowerCase()+"&quot")] subdomain in England and 
+        | across local authority areas in #[+value(parent)], 2020 and 2021
+  else 
+    | Health Index values for the #[+value("&quot"+(sto[i].metric).toLowerCase()+"&quot")] subdomain, 
+    | #[+value(place.name)], #[+value(parent)] and England,
+    | 2015 to 2021
+
+//master function to 'write paragraph according to section, metric type and subdomain type'
+mixin para(i, met)
+  deleteSaid('LAA')
+  -console.log('sto[i]', sto[i])
+  -console.log('met', met)
+  //- - console.log('indi length', indLU[sto[i].metric].length)
+  if (i == 0)
+    p.general #[+secondSenfirst(i, met)]
+    p.general #[+subd(i, met)]
+    p.general #[+thirdfirst(i, met)]
+  else if (indLU[sto[i].metric].length == 1 || 'Difficulties in daily life'.includes(sto[i].metric))
+    if ( ['Access to green space', 'Access to services'].includes(sto[i].metric) )
+      p.general #[+accessfirst(i, met)]
+      p.general #[+singleIndie(i, met)]
+    else
+      p.general #[+subd(i, met)]
+      p.general #[+singleIndie(i, met)]
+  else
+    if ( met=='rank' && ['Access to green space', 'Access to services', 'Mortality', 'Crime'].includes(sto[i].metric) )
+      p.general #[+accessfirst(i, met)]
+      p.general #[+subd(i, met)]
+      p.general #[+access(i, met)]
+    else
+      p.general #[+subd(i, met)]
+      p.general #[+secondSen(i, met)]
+      p.general #[+lastSen(i, met)]
+    | #[+caveatNoise(sto[i].metric)]
+  
+//for area story list starting at position 0, set story metric type as variable 'met'
+//generate sections
+if (sto.length>0)
+  -console.log(' ***   ***   *** ')
+  - var met = whichMet(sto[0])
+  if ( ['Access to green space', 'Access to services'].includes( sto[0].metric ) )
+    - met = "rank"
+  h4 #[+chartTitle(0, met)]
+  h5 #[+chartSubTitle(0, met)]
+  div#esc123
+  div#catchthisdivforchart1
+  div#legend1
+  div#info1
+  div#chart1
+    h6 Source: Health Index for England from the Office for National Statistics
+  div#source1
+  p #[+para(0, met)]
+  div.funky
+if (sto.length>1)
+  - var met = whichMet(sto[1])
+  if ( ['Access to green space', 'Access to services'].includes( sto[1].metric ) )
+    - met = "rank"
+  h4 #[+chartTitle(1, met)]
+  h5 #[+chartSubTitle(1, met)]
+  div#esc123
+  div#legend2
+  div#info2
+  div#chart2
+    h6 Source: Health Index for England from the Office for National Statistics
+  div#source2
+  p #[+para(1, met)]
+  div.funky
+if (sto.length>2)
+  - var met = whichMet(sto[2])
+  if ( ['Access to green space', 'Access to services'].includes( sto[2].metric ) )
+    - met = "rank"
+  h4 #[+chartTitle(2, met)]
+  h5 #[+chartSubTitle(2, met)]
+  div#esc123
+  div#legend3
+  div#info3
+  div#chart3
+    h6 Source: Health Index for England from the Office for National Statistics
+  div#source3
+  p #[+para(2, met)]
+  div.funky
+if (sto.length>3)
+  - var met = whichMet(sto[3])
+  if ( ['Access to green space', 'Access to services'].includes( sto[3].metric ) )
+    - met = "rank"
+  h4 #[+chartTitle(3, met)]
+  h5 #[+chartSubTitle(3, met)]
+  div#esc123
+  div#legend4
+  div#info4
+  div#chart4 
+    h6 Source: Health Index for England from the Office for National Statistics
+  div#source4
+  p #[+para(3, met)]
