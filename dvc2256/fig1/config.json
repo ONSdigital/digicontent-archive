@@ -1,0 +1,23 @@
+{
+    "essential" : {
+          "graphic_data_url": "data.csv",
+          "colour_palette":["#206095","#a8bd3a"],
+          "accessibleSummary":"Description of what the chart is showing....",
+      		"sourceText":["Census 2021 from Office for National Statistics"],
+          "sourceURL":[""],
+          "xAxisScale":[[0,4500000],[0,4]],
+          "average_line":[0,2.41916107309227],
+          "columnTitles": ["Number of people", "Qualification index score"],
+          "columnFormats": [".0f", ",.3r"],
+          "barHeight_sm_md_lg" : [40,30,30],
+          "legendLabel" : ["Country"]
+
+
+    },
+    "optional" : {
+          "margin_sm": [8, 0, 25, 222],
+          "margin_md": [8, 0, 25, 250],
+          "mobileBreakpoint" : 610
+
+    }
+}

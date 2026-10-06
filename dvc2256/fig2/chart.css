@@ -1,0 +1,37 @@
+.dataLabels{
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.vertical-line {
+  stroke-dasharray: 5, 5;
+  stroke: "#888888";
+}
+
+#container{
+  display:flex;
+  align-items:flex-end;
+}
+
+#legendleft{
+  padding-right:25px;
+}
+
+.vertical-line {
+  stroke-linecap: round;
+}
+
+.bar {
+  stroke-linecap: round;
+}
+
+#graphic{
+  padding-bottom:0px
+}
+
+div.legend--item--here {
+  display:flex;
+  padding-right:40px;
+  padding-bottom: 12px;
+  margin-top: 12px;
+}

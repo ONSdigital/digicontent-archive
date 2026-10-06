@@ -1,0 +1,44 @@
+{
+    "essential" : {
+            "graphic_data_url": "data/data.csv",
+            "pickxdata":"density",
+            "pickydata":"HE_plus_perc",
+
+            "sourceText":["Census 2021 from Office for National Statistics"],
+            "sourceURL":["http://www.ons.gov.uk/"],
+            "rectannotations":[],
+            "textAnnotations":[{
+                "x":17,
+                "y":48,
+                "text":"England and Wales average"
+                }],
+            "textAnnotationWrap":100,
+            "d3AnnotationWrap":300,
+            "xAxisLabel":"Ratio of people in industry relative to average",
+            "yAxisLabel":"Percentage with Higher Education qualifications and above",
+            "AxisScale":"auto_min_max",
+      			"xAxisScale":[0,20],
+      			"yAxisScale":[0,100]
+
+	},
+    "optional" : {
+            "margin_sm": [50 ,20, 0, 50],
+            "margin_md": [50, 20, 0, 50],
+            "margin_lg": [50, 20, 0, 50],
+
+            "aspectRatio_sm" : [0.8,1],
+            "aspectRatio_md" : [1.2,1],
+            "aspectRatio_lg" : [1.4,1],
+
+            "mobileBreakpoint" : 610,
+
+            "x_num_ticks_sm_md_lg" : [4,4,5],
+            "y_num_ticks_sm_md_lg" : [4,4,5],
+
+            "annotateLineX1_Y1_X2_Y2":[[0,43.78,30000,43.78]],
+            "annotateLineWidth":[1.2,1.2],
+            "lineColor_opcty" : [0.5,0.5]
+
+
+    }
+}

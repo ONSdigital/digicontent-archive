@@ -1,0 +1,610 @@
+name,value,average,option,group
+No quals,0.113760218,0.175395859,"01 Crop and animal production, hunting and related service activities","A Agriculture, forestry and fishing"
+Level 1,0.10013624,0.125309757,"01 Crop and animal production, hunting and related service activities","A Agriculture, forestry and fishing"
+Level 2,0.160762943,0.163887606,"01 Crop and animal production, hunting and related service activities","A Agriculture, forestry and fishing"
+Appreticeship,0.0626703,0.066130455,"01 Crop and animal production, hunting and related service activities","A Agriculture, forestry and fishing"
+Level 3,0.244550409,0.197005334,"01 Crop and animal production, hunting and related service activities","A Agriculture, forestry and fishing"
+Level 4 +,0.28746594,0.239909278,"01 Crop and animal production, hunting and related service activities","A Agriculture, forestry and fishing"
+Other,0.030653951,0.032361712,"01 Crop and animal production, hunting and related service activities","A Agriculture, forestry and fishing"
+No quals,0.180947547,0.175395859,02 Forestry and logging,"A Agriculture, forestry and fishing"
+Level 1,0.123654822,0.125309757,02 Forestry and logging,"A Agriculture, forestry and fishing"
+Level 2,0.155076142,0.163887606,02 Forestry and logging,"A Agriculture, forestry and fishing"
+Appreticeship,0.064094755,0.066130455,02 Forestry and logging,"A Agriculture, forestry and fishing"
+Level 3,0.186328257,0.197005334,02 Forestry and logging,"A Agriculture, forestry and fishing"
+Level 4 +,0.256717428,0.239909278,02 Forestry and logging,"A Agriculture, forestry and fishing"
+Other,0.033181049,0.032361712,02 Forestry and logging,"A Agriculture, forestry and fishing"
+No quals,0.214703425,0.175395859,03 Fishing and aquaculture,"A Agriculture, forestry and fishing"
+Level 1,0.14619883,0.125309757,03 Fishing and aquaculture,"A Agriculture, forestry and fishing"
+Level 2,0.158730159,0.163887606,03 Fishing and aquaculture,"A Agriculture, forestry and fishing"
+Appreticeship,0.081871345,0.066130455,03 Fishing and aquaculture,"A Agriculture, forestry and fishing"
+Level 3,0.147869674,0.197005334,03 Fishing and aquaculture,"A Agriculture, forestry and fishing"
+Level 4 +,0.204678363,0.239909278,03 Fishing and aquaculture,"A Agriculture, forestry and fishing"
+Other,0.045948204,0.032361712,03 Fishing and aquaculture,"A Agriculture, forestry and fishing"
+No quals,0.257575758,0.067297581,05 Mining of coal and lignite,B Mining and quarrying
+Level 1,0.088383838,0.069166959,05 Mining of coal and lignite,B Mining and quarrying
+Level 2,0.095959596,0.096623437,05 Mining of coal and lignite,B Mining and quarrying
+Appreticeship,0.113636364,0.060871597,05 Mining of coal and lignite,B Mining and quarrying
+Level 3,0.141414141,0.209253417,05 Mining of coal and lignite,B Mining and quarrying
+Level 4 +,0.267676768,0.478326907,05 Mining of coal and lignite,B Mining and quarrying
+Other,0.035353535,0.0184601,05 Mining of coal and lignite,B Mining and quarrying
+No quals,0.032095901,0.067297581,06 Extraction of crude petroleum and natural gas,B Mining and quarrying
+Level 1,0.045630317,0.069166959,06 Extraction of crude petroleum and natural gas,B Mining and quarrying
+Level 2,0.069798917,0.096623437,06 Extraction of crude petroleum and natural gas,B Mining and quarrying
+Appreticeship,0.052204176,0.060871597,06 Extraction of crude petroleum and natural gas,B Mining and quarrying
+Level 3,0.21771075,0.209253417,06 Extraction of crude petroleum and natural gas,B Mining and quarrying
+Level 4 +,0.568445476,0.478326907,06 Extraction of crude petroleum and natural gas,B Mining and quarrying
+Other,0.014114462,0.0184601,06 Extraction of crude petroleum and natural gas,B Mining and quarrying
+No quals,0.027522936,0.067297581,07 Mining of metal ores,B Mining and quarrying
+Level 1,0.018348624,0.069166959,07 Mining of metal ores,B Mining and quarrying
+Level 2,0.036697248,0.096623437,07 Mining of metal ores,B Mining and quarrying
+Appreticeship,0.027522936,0.060871597,07 Mining of metal ores,B Mining and quarrying
+Level 3,0.119266055,0.209253417,07 Mining of metal ores,B Mining and quarrying
+Level 4 +,0.770642202,0.478326907,07 Mining of metal ores,B Mining and quarrying
+Other,c,0.0184601,07 Mining of metal ores,B Mining and quarrying
+No quals,0.118565401,0.067297581,08 Other mining and quarrying,B Mining and quarrying
+Level 1,0.118565401,0.069166959,08 Other mining and quarrying,B Mining and quarrying
+Level 2,0.160337553,0.096623437,08 Other mining and quarrying,B Mining and quarrying
+Appreticeship,0.074261603,0.060871597,08 Other mining and quarrying,B Mining and quarrying
+Level 3,0.212236287,0.209253417,08 Other mining and quarrying,B Mining and quarrying
+Level 4 +,0.289451477,0.478326907,08 Other mining and quarrying,B Mining and quarrying
+Other,0.026582278,0.0184601,08 Other mining and quarrying,B Mining and quarrying
+No quals,0.048449612,0.067297581,09 Mining support service activities,B Mining and quarrying
+Level 1,0.073643411,0.069166959,09 Mining support service activities,B Mining and quarrying
+Level 2,0.087209302,0.096623437,09 Mining support service activities,B Mining and quarrying
+Appreticeship,0.054263566,0.060871597,09 Mining support service activities,B Mining and quarrying
+Level 3,0.182170543,0.209253417,09 Mining support service activities,B Mining and quarrying
+Level 4 +,0.53875969,0.478326907,09 Mining support service activities,B Mining and quarrying
+Other,0.015503876,0.0184601,09 Mining support service activities,B Mining and quarrying
+No quals,0.210480925,0.130071389,10 Manufacture of food products,C Manufacturing
+Level 1,0.132406656,0.114765416,10 Manufacture of food products,C Manufacturing
+Level 2,0.138206845,0.139697602,10 Manufacture of food products,C Manufacturing
+Appreticeship,0.059642181,0.073905422,10 Manufacture of food products,C Manufacturing
+Level 3,0.153442911,0.190347836,10 Manufacture of food products,C Manufacturing
+Level 4 +,0.256628788,0.324054761,10 Manufacture of food products,C Manufacturing
+Other,0.049191694,0.027157574,10 Manufacture of food products,C Manufacturing
+No quals,0.072669626,0.130071389,11 Manufacture of beverages,C Manufacturing
+Level 1,0.086239696,0.114765416,11 Manufacture of beverages,C Manufacturing
+Level 2,0.133544705,0.139697602,11 Manufacture of beverages,C Manufacturing
+Appreticeship,0.041344325,0.073905422,11 Manufacture of beverages,C Manufacturing
+Level 3,0.193151554,0.190347836,11 Manufacture of beverages,C Manufacturing
+Level 4 +,0.456055802,0.324054761,11 Manufacture of beverages,C Manufacturing
+Other,0.016994293,0.027157574,11 Manufacture of beverages,C Manufacturing
+No quals,0.038727524,0.130071389,12 Manufacture of tobacco products,C Manufacturing
+Level 1,0.042876902,0.114765416,12 Manufacture of tobacco products,C Manufacturing
+Level 2,0.077455048,0.139697602,12 Manufacture of tobacco products,C Manufacturing
+Appreticeship,0.022130014,0.073905422,12 Manufacture of tobacco products,C Manufacturing
+Level 3,0.139695712,0.190347836,12 Manufacture of tobacco products,C Manufacturing
+Level 4 +,0.662517289,0.324054761,12 Manufacture of tobacco products,C Manufacturing
+Other,0.01659751,0.027157574,12 Manufacture of tobacco products,C Manufacturing
+No quals,0.202166897,0.130071389,13 Manufacture of textiles,C Manufacturing
+Level 1,0.150760719,0.114765416,13 Manufacture of textiles,C Manufacturing
+Level 2,0.166666667,0.139697602,13 Manufacture of textiles,C Manufacturing
+Appreticeship,0.062010143,0.073905422,13 Manufacture of textiles,C Manufacturing
+Level 3,0.155255878,0.190347836,13 Manufacture of textiles,C Manufacturing
+Level 4 +,0.231788843,0.324054761,13 Manufacture of textiles,C Manufacturing
+Other,0.031350853,0.027157574,13 Manufacture of textiles,C Manufacturing
+No quals,0.191275313,0.130071389,14 Manufacture of wearing apparel,C Manufacturing
+Level 1,0.121200295,0.114765416,14 Manufacture of wearing apparel,C Manufacturing
+Level 2,0.146567798,0.139697602,14 Manufacture of wearing apparel,C Manufacturing
+Appreticeship,0.054854516,0.073905422,14 Manufacture of wearing apparel,C Manufacturing
+Level 3,0.175447726,0.190347836,14 Manufacture of wearing apparel,C Manufacturing
+Level 4 +,0.276137201,0.324054761,14 Manufacture of wearing apparel,C Manufacturing
+Other,0.03451715,0.027157574,14 Manufacture of wearing apparel,C Manufacturing
+No quals,0.182285714,0.130071389,15 Manufacture of leather and related products,C Manufacturing
+Level 1,0.134857143,0.114765416,15 Manufacture of leather and related products,C Manufacturing
+Level 2,0.149714286,0.139697602,15 Manufacture of leather and related products,C Manufacturing
+Appreticeship,0.065714286,0.073905422,15 Manufacture of leather and related products,C Manufacturing
+Level 3,0.16,0.190347836,15 Manufacture of leather and related products,C Manufacturing
+Level 4 +,0.280571429,0.324054761,15 Manufacture of leather and related products,C Manufacturing
+Other,0.026857143,0.027157574,15 Manufacture of leather and related products,C Manufacturing
+No quals,0.149303696,0.130071389,"16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",C Manufacturing
+Level 1,0.135243706,0.114765416,"16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",C Manufacturing
+Level 2,0.15747188,0.139697602,"16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",C Manufacturing
+Appreticeship,0.097080878,0.073905422,"16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",C Manufacturing
+Level 3,0.208355651,0.190347836,"16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",C Manufacturing
+Level 4 +,0.224290305,0.324054761,"16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",C Manufacturing
+Other,0.028253883,0.027157574,"16 Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",C Manufacturing
+No quals,0.166763397,0.130071389,17 Manufacture of paper and paper products,C Manufacturing
+Level 1,0.149158445,0.114765416,17 Manufacture of paper and paper products,C Manufacturing
+Level 2,0.162700716,0.139697602,17 Manufacture of paper and paper products,C Manufacturing
+Appreticeship,0.069645966,0.073905422,17 Manufacture of paper and paper products,C Manufacturing
+Level 3,0.183787967,0.190347836,17 Manufacture of paper and paper products,C Manufacturing
+Level 4 +,0.234668214,0.324054761,17 Manufacture of paper and paper products,C Manufacturing
+Other,0.033275295,0.027157574,17 Manufacture of paper and paper products,C Manufacturing
+No quals,0.113262614,0.130071389,18 Printing and reproduction of recorded media,C Manufacturing
+Level 1,0.139529663,0.114765416,18 Printing and reproduction of recorded media,C Manufacturing
+Level 2,0.171858338,0.139697602,18 Printing and reproduction of recorded media,C Manufacturing
+Appreticeship,0.106190717,0.073905422,18 Printing and reproduction of recorded media,C Manufacturing
+Level 3,0.202559353,0.190347836,18 Printing and reproduction of recorded media,C Manufacturing
+Level 4 +,0.24454173,0.324054761,18 Printing and reproduction of recorded media,C Manufacturing
+Other,0.022057585,0.027157574,18 Printing and reproduction of recorded media,C Manufacturing
+No quals,0.061295972,0.130071389,19 Manufacture of coke and refined petroleum products,C Manufacturing
+Level 1,0.070928196,0.114765416,19 Manufacture of coke and refined petroleum products,C Manufacturing
+Level 2,0.107267951,0.139697602,19 Manufacture of coke and refined petroleum products,C Manufacturing
+Appreticeship,0.061295972,0.073905422,19 Manufacture of coke and refined petroleum products,C Manufacturing
+Level 3,0.229422067,0.190347836,19 Manufacture of coke and refined petroleum products,C Manufacturing
+Level 4 +,0.454028021,0.324054761,19 Manufacture of coke and refined petroleum products,C Manufacturing
+Other,0.015761821,0.027157574,19 Manufacture of coke and refined petroleum products,C Manufacturing
+No quals,0.107185391,0.130071389,20 Manufacture of chemicals and chemical products,C Manufacturing
+Level 1,0.112107979,0.114765416,20 Manufacture of chemicals and chemical products,C Manufacturing
+Level 2,0.145216356,0.139697602,20 Manufacture of chemicals and chemical products,C Manufacturing
+Appreticeship,0.056371576,0.073905422,20 Manufacture of chemicals and chemical products,C Manufacturing
+Level 3,0.198888448,0.190347836,20 Manufacture of chemicals and chemical products,C Manufacturing
+Level 4 +,0.356093688,0.324054761,20 Manufacture of chemicals and chemical products,C Manufacturing
+Other,0.024136562,0.027157574,20 Manufacture of chemicals and chemical products,C Manufacturing
+No quals,0.040713105,0.130071389,21 Manufacture of basic pharmaceutical products and pharmaceutical preparations,C Manufacturing
+Level 1,0.053382743,0.114765416,21 Manufacture of basic pharmaceutical products and pharmaceutical preparations,C Manufacturing
+Level 2,0.083829936,0.139697602,21 Manufacture of basic pharmaceutical products and pharmaceutical preparations,C Manufacturing
+Appreticeship,0.021082678,0.073905422,21 Manufacture of basic pharmaceutical products and pharmaceutical preparations,C Manufacturing
+Level 3,0.131003055,0.190347836,21 Manufacture of basic pharmaceutical products and pharmaceutical preparations,C Manufacturing
+Level 4 +,0.657869698,0.324054761,21 Manufacture of basic pharmaceutical products and pharmaceutical preparations,C Manufacturing
+Other,0.012118784,0.027157574,21 Manufacture of basic pharmaceutical products and pharmaceutical preparations,C Manufacturing
+No quals,0.178129049,0.130071389,22 Manufacture of rubber and plastic products,C Manufacturing
+Level 1,0.161026173,0.114765416,22 Manufacture of rubber and plastic products,C Manufacturing
+Level 2,0.177299819,0.139697602,22 Manufacture of rubber and plastic products,C Manufacturing
+Appreticeship,0.079346981,0.073905422,22 Manufacture of rubber and plastic products,C Manufacturing
+Level 3,0.180046644,0.190347836,22 Manufacture of rubber and plastic products,C Manufacturing
+Level 4 +,0.191189427,0.324054761,22 Manufacture of rubber and plastic products,C Manufacturing
+Other,0.032961907,0.027157574,22 Manufacture of rubber and plastic products,C Manufacturing
+No quals,0.157215945,0.130071389,23 Manufacture of other non-metallic mineral products,C Manufacturing
+Level 1,0.138030271,0.114765416,23 Manufacture of other non-metallic mineral products,C Manufacturing
+Level 2,0.162971648,0.139697602,23 Manufacture of other non-metallic mineral products,C Manufacturing
+Appreticeship,0.078021744,0.073905422,23 Manufacture of other non-metallic mineral products,C Manufacturing
+Level 3,0.18407589,0.190347836,23 Manufacture of other non-metallic mineral products,C Manufacturing
+Level 4 +,0.251012577,0.324054761,23 Manufacture of other non-metallic mineral products,C Manufacturing
+Other,0.028671925,0.027157574,23 Manufacture of other non-metallic mineral products,C Manufacturing
+No quals,0.145921771,0.130071389,24 Manufacture of basic metals,C Manufacturing
+Level 1,0.125454821,0.114765416,24 Manufacture of basic metals,C Manufacturing
+Level 2,0.145770164,0.139697602,24 Manufacture of basic metals,C Manufacturing
+Appreticeship,0.093162523,0.073905422,24 Manufacture of basic metals,C Manufacturing
+Level 3,0.2047453,0.190347836,24 Manufacture of basic metals,C Manufacturing
+Level 4 +,0.260915706,0.324054761,24 Manufacture of basic metals,C Manufacturing
+Other,0.024029715,0.027157574,24 Manufacture of basic metals,C Manufacturing
+No quals,0.142743083,0.130071389,"25 Manufacture of fabricated metal products, except machinery and equipment",C Manufacturing
+Level 1,0.119241851,0.114765416,"25 Manufacture of fabricated metal products, except machinery and equipment",C Manufacturing
+Level 2,0.140660256,0.139697602,"25 Manufacture of fabricated metal products, except machinery and equipment",C Manufacturing
+Appreticeship,0.121602388,0.073905422,"25 Manufacture of fabricated metal products, except machinery and equipment",C Manufacturing
+Level 3,0.22012011,0.190347836,"25 Manufacture of fabricated metal products, except machinery and equipment",C Manufacturing
+Level 4 +,0.228798556,0.324054761,"25 Manufacture of fabricated metal products, except machinery and equipment",C Manufacturing
+Other,0.026833756,0.027157574,"25 Manufacture of fabricated metal products, except machinery and equipment",C Manufacturing
+No quals,0.066858884,0.130071389,"26 Manufacture of computer, electrical and optical products",C Manufacturing
+Level 1,0.089979328,0.114765416,"26 Manufacture of computer, electrical and optical products",C Manufacturing
+Level 2,0.127189642,0.139697602,"26 Manufacture of computer, electrical and optical products",C Manufacturing
+Appreticeship,0.050212164,0.073905422,"26 Manufacture of computer, electrical and optical products",C Manufacturing
+Level 3,0.188608421,0.190347836,"26 Manufacture of computer, electrical and optical products",C Manufacturing
+Level 4 +,0.46039604,0.324054761,"26 Manufacture of computer, electrical and optical products",C Manufacturing
+Other,0.016755522,0.027157574,"26 Manufacture of computer, electrical and optical products",C Manufacturing
+No quals,0.114584544,0.130071389,27 Manufacture of electrical equipment,C Manufacturing
+Level 1,0.12434631,0.114765416,27 Manufacture of electrical equipment,C Manufacturing
+Level 2,0.15444509,0.139697602,27 Manufacture of electrical equipment,C Manufacturing
+Appreticeship,0.07181871,0.073905422,27 Manufacture of electrical equipment,C Manufacturing
+Level 3,0.199186519,0.190347836,27 Manufacture of electrical equipment,C Manufacturing
+Level 4 +,0.312957583,0.324054761,27 Manufacture of electrical equipment,C Manufacturing
+Other,0.022661243,0.027157574,27 Manufacture of electrical equipment,C Manufacturing
+No quals,0.097010003,0.130071389,28 Manufacture of machinery and equipment not otherwise specified,C Manufacturing
+Level 1,0.108002638,0.114765416,28 Manufacture of machinery and equipment not otherwise specified,C Manufacturing
+Level 2,0.14301418,0.139697602,28 Manufacture of machinery and equipment not otherwise specified,C Manufacturing
+Appreticeship,0.102451358,0.073905422,28 Manufacture of machinery and equipment not otherwise specified,C Manufacturing
+Level 3,0.230185776,0.190347836,28 Manufacture of machinery and equipment not otherwise specified,C Manufacturing
+Level 4 +,0.298450038,0.324054761,28 Manufacture of machinery and equipment not otherwise specified,C Manufacturing
+Other,0.020886006,0.027157574,28 Manufacture of machinery and equipment not otherwise specified,C Manufacturing
+No quals,0.115253347,0.130071389,"29 Manufacture of motor vehicles, trailers and semi-trailers",C Manufacturing
+Level 1,0.11010764,0.114765416,"29 Manufacture of motor vehicles, trailers and semi-trailers",C Manufacturing
+Level 2,0.142583355,0.139697602,"29 Manufacture of motor vehicles, trailers and semi-trailers",C Manufacturing
+Appreticeship,0.075872933,0.073905422,"29 Manufacture of motor vehicles, trailers and semi-trailers",C Manufacturing
+Level 3,0.205198215,0.190347836,"29 Manufacture of motor vehicles, trailers and semi-trailers",C Manufacturing
+Level 4 +,0.32756629,0.324054761,"29 Manufacture of motor vehicles, trailers and semi-trailers",C Manufacturing
+Other,0.02341822,0.027157574,"29 Manufacture of motor vehicles, trailers and semi-trailers",C Manufacturing
+No quals,0.052397587,0.130071389,30 Manufacture of other transport equipment,C Manufacturing
+Level 1,0.067821984,0.114765416,30 Manufacture of other transport equipment,C Manufacturing
+Level 2,0.098035658,0.139697602,30 Manufacture of other transport equipment,C Manufacturing
+Appreticeship,0.085423944,0.073905422,30 Manufacture of other transport equipment,C Manufacturing
+Level 3,0.240030849,0.190347836,30 Manufacture of other transport equipment,C Manufacturing
+Level 4 +,0.443224606,0.324054761,30 Manufacture of other transport equipment,C Manufacturing
+Other,0.013065372,0.027157574,30 Manufacture of other transport equipment,C Manufacturing
+No quals,0.184004934,0.130071389,31 Manufacture of furniture,C Manufacturing
+Level 1,0.140693531,0.114765416,31 Manufacture of furniture,C Manufacturing
+Level 2,0.153782895,0.139697602,31 Manufacture of furniture,C Manufacturing
+Appreticeship,0.103344298,0.073905422,31 Manufacture of furniture,C Manufacturing
+Level 3,0.175849781,0.190347836,31 Manufacture of furniture,C Manufacturing
+Level 4 +,0.209429825,0.324054761,31 Manufacture of furniture,C Manufacturing
+Other,0.032894737,0.027157574,31 Manufacture of furniture,C Manufacturing
+No quals,0.104862162,0.130071389,32 Other Manufacturing,C Manufacturing
+Level 1,0.110049149,0.114765416,32 Other Manufacturing,C Manufacturing
+Level 2,0.144113195,0.139697602,32 Other Manufacturing,C Manufacturing
+Appreticeship,0.059828914,0.073905422,32 Other Manufacturing,C Manufacturing
+Level 3,0.189979762,0.190347836,32 Other Manufacturing,C Manufacturing
+Level 4 +,0.368412102,0.324054761,32 Other Manufacturing,C Manufacturing
+Other,0.022754715,0.027157574,32 Other Manufacturing,C Manufacturing
+No quals,0.082391134,0.130071389,33 Repair and installation of machinery and equipment,C Manufacturing
+Level 1,0.094033359,0.114765416,33 Repair and installation of machinery and equipment,C Manufacturing
+Level 2,0.126385313,0.139697602,33 Repair and installation of machinery and equipment,C Manufacturing
+Appreticeship,0.125153924,0.073905422,33 Repair and installation of machinery and equipment,C Manufacturing
+Level 3,0.290943692,0.190347836,33 Repair and installation of machinery and equipment,C Manufacturing
+Level 4 +,0.261614239,0.324054761,33 Repair and installation of machinery and equipment,C Manufacturing
+Other,0.019478339,0.027157574,33 Repair and installation of machinery and equipment,C Manufacturing
+No quals,0.039455782,0.039455782,"35 Electricity, gas, steam and air conditioning supply","D Electricity, gas, steam and air conditioning supply"
+Level 1,0.061379097,0.061379097,"35 Electricity, gas, steam and air conditioning supply","D Electricity, gas, steam and air conditioning supply"
+Level 2,0.117717996,0.117717996,"35 Electricity, gas, steam and air conditioning supply","D Electricity, gas, steam and air conditioning supply"
+Appreticeship,0.058967223,0.058967223,"35 Electricity, gas, steam and air conditioning supply","D Electricity, gas, steam and air conditioning supply"
+Level 3,0.251144094,0.251144094,"35 Electricity, gas, steam and air conditioning supply","D Electricity, gas, steam and air conditioning supply"
+Level 4 +,0.458534323,0.458534323,"35 Electricity, gas, steam and air conditioning supply","D Electricity, gas, steam and air conditioning supply"
+Other,0.012801484,0.012801484,"35 Electricity, gas, steam and air conditioning supply","D Electricity, gas, steam and air conditioning supply"
+No quals,0.060849149,0.142503128,"36 Water collection, treatment and supply","E Water supply; sewerage, waste management and remediation activities"
+Level 1,0.085371421,0.126751233,"36 Water collection, treatment and supply","E Water supply; sewerage, waste management and remediation activities"
+Level 2,0.156264267,0.160733126,"36 Water collection, treatment and supply","E Water supply; sewerage, waste management and remediation activities"
+Appreticeship,0.054327268,0.062590475,"36 Water collection, treatment and supply","E Water supply; sewerage, waste management and remediation activities"
+Level 3,0.244570534,0.1966288,"36 Water collection, treatment and supply","E Water supply; sewerage, waste management and remediation activities"
+Level 4 +,0.383095285,0.284147508,"36 Water collection, treatment and supply","E Water supply; sewerage, waste management and remediation activities"
+Other,0.015522077,0.02664573,"36 Water collection, treatment and supply","E Water supply; sewerage, waste management and remediation activities"
+No quals,0.170967742,0.142503128,37 Sewerage,"E Water supply; sewerage, waste management and remediation activities"
+Level 1,0.163306452,0.126751233,37 Sewerage,"E Water supply; sewerage, waste management and remediation activities"
+Level 2,0.211693548,0.160733126,37 Sewerage,"E Water supply; sewerage, waste management and remediation activities"
+Appreticeship,0.079435484,0.062590475,37 Sewerage,"E Water supply; sewerage, waste management and remediation activities"
+Level 3,0.180241935,0.1966288,37 Sewerage,"E Water supply; sewerage, waste management and remediation activities"
+Level 4 +,0.164516129,0.284147508,37 Sewerage,"E Water supply; sewerage, waste management and remediation activities"
+Other,0.02983871,0.02664573,37 Sewerage,"E Water supply; sewerage, waste management and remediation activities"
+No quals,0.196630499,0.142503128,"38 Waste collection, treatment and disposal activities; materials recovery","E Water supply; sewerage, waste management and remediation activities"
+Level 1,0.151307055,0.126751233,"38 Waste collection, treatment and disposal activities; materials recovery","E Water supply; sewerage, waste management and remediation activities"
+Level 2,0.157579087,0.160733126,"38 Waste collection, treatment and disposal activities; materials recovery","E Water supply; sewerage, waste management and remediation activities"
+Appreticeship,0.065741885,0.062590475,"38 Waste collection, treatment and disposal activities; materials recovery","E Water supply; sewerage, waste management and remediation activities"
+Level 3,0.165224557,0.1966288,"38 Waste collection, treatment and disposal activities; materials recovery","E Water supply; sewerage, waste management and remediation activities"
+Level 4 +,0.229867692,0.284147508,"38 Waste collection, treatment and disposal activities; materials recovery","E Water supply; sewerage, waste management and remediation activities"
+Other,0.033649224,0.02664573,"38 Waste collection, treatment and disposal activities; materials recovery","E Water supply; sewerage, waste management and remediation activities"
+No quals,0.142339075,0.142503128,39 Remediation activities and other waste management services,"E Water supply; sewerage, waste management and remediation activities"
+Level 1,0.133272892,0.126751233,39 Remediation activities and other waste management services,"E Water supply; sewerage, waste management and remediation activities"
+Level 2,0.170444243,0.160733126,39 Remediation activities and other waste management services,"E Water supply; sewerage, waste management and remediation activities"
+Appreticeship,0.077969175,0.062590475,39 Remediation activities and other waste management services,"E Water supply; sewerage, waste management and remediation activities"
+Level 3,0.188576609,0.1966288,39 Remediation activities and other waste management services,"E Water supply; sewerage, waste management and remediation activities"
+Level 4 +,0.251133273,0.284147508,39 Remediation activities and other waste management services,"E Water supply; sewerage, waste management and remediation activities"
+Other,0.036264733,0.02664573,39 Remediation activities and other waste management services,"E Water supply; sewerage, waste management and remediation activities"
+No quals,0.121619265,0.121619265,41 Construction of buildings; 42 Civil engineering; 43 Specialised construction activities,F Construction
+Level 1,0.10389454,0.10389454,41 Construction of buildings; 42 Civil engineering; 43 Specialised construction activities,F Construction
+Level 2,0.142698775,0.142698775,41 Construction of buildings; 42 Civil engineering; 43 Specialised construction activities,F Construction
+Appreticeship,0.127593938,0.127593938,41 Construction of buildings; 42 Civil engineering; 43 Specialised construction activities,F Construction
+Level 3,0.234407307,0.234407307,41 Construction of buildings; 42 Civil engineering; 43 Specialised construction activities,F Construction
+Level 4 +,0.245420386,0.245420386,41 Construction of buildings; 42 Civil engineering; 43 Specialised construction activities,F Construction
+Other,0.024365788,0.024365788,41 Construction of buildings; 42 Civil engineering; 43 Specialised construction activities,F Construction
+No quals,0.121281829,0.129821053,45 Wholesale and retail trade and repair of motor vehicles and motorcycles,G Wholesale and retail trade; repair of motor vehicles and motor cycles
+Level 1,0.121259053,0.132137225,45 Wholesale and retail trade and repair of motor vehicles and motorcycles,G Wholesale and retail trade; repair of motor vehicles and motor cycles
+Level 2,0.153760306,0.180661461,45 Wholesale and retail trade and repair of motor vehicles and motorcycles,G Wholesale and retail trade; repair of motor vehicles and motor cycles
+Appreticeship,0.121259053,0.051074791,45 Wholesale and retail trade and repair of motor vehicles and motorcycles,G Wholesale and retail trade; repair of motor vehicles and motor cycles
+Level 3,0.283753929,0.213645586,45 Wholesale and retail trade and repair of motor vehicles and motorcycles,G Wholesale and retail trade; repair of motor vehicles and motor cycles
+Level 4 +,0.175636587,0.266861063,45 Wholesale and retail trade and repair of motor vehicles and motorcycles,G Wholesale and retail trade; repair of motor vehicles and motor cycles
+Other,0.023049242,0.025798821,45 Wholesale and retail trade and repair of motor vehicles and motorcycles,G Wholesale and retail trade; repair of motor vehicles and motor cycles
+No quals,0.155115019,0.129821053,"46 Wholesale trade, except of motor vehicles and motorcycles",G Wholesale and retail trade; repair of motor vehicles and motor cycles
+Level 1,0.146679212,0.132137225,"46 Wholesale trade, except of motor vehicles and motorcycles",G Wholesale and retail trade; repair of motor vehicles and motor cycles
+Level 2,0.174932676,0.180661461,"46 Wholesale trade, except of motor vehicles and motorcycles",G Wholesale and retail trade; repair of motor vehicles and motor cycles
+Appreticeship,0.055572499,0.051074791,"46 Wholesale trade, except of motor vehicles and motorcycles",G Wholesale and retail trade; repair of motor vehicles and motor cycles
+Level 3,0.182310762,0.213645586,"46 Wholesale trade, except of motor vehicles and motorcycles",G Wholesale and retail trade; repair of motor vehicles and motor cycles
+Level 4 +,0.252704325,0.266861063,"46 Wholesale trade, except of motor vehicles and motorcycles",G Wholesale and retail trade; repair of motor vehicles and motor cycles
+Other,0.032685507,0.025798821,"46 Wholesale trade, except of motor vehicles and motorcycles",G Wholesale and retail trade; repair of motor vehicles and motor cycles
+No quals,0.12550059,0.129821053,"47 Retail trade, except of motor vehicles and motorcycles",G Wholesale and retail trade; repair of motor vehicles and motor cycles
+Level 1,0.131075584,0.132137225,"47 Retail trade, except of motor vehicles and motorcycles",G Wholesale and retail trade; repair of motor vehicles and motor cycles
+Level 2,0.186911587,0.180661461,"47 Retail trade, except of motor vehicles and motorcycles",G Wholesale and retail trade; repair of motor vehicles and motor cycles
+Appreticeship,0.038647318,0.051074791,"47 Retail trade, except of motor vehicles and motorcycles",G Wholesale and retail trade; repair of motor vehicles and motor cycles
+Level 3,0.210896004,0.213645586,"47 Retail trade, except of motor vehicles and motorcycles",G Wholesale and retail trade; repair of motor vehicles and motor cycles
+Level 4 +,0.282420678,0.266861063,"47 Retail trade, except of motor vehicles and motorcycles",G Wholesale and retail trade; repair of motor vehicles and motor cycles
+Other,0.024548239,0.025798821,"47 Retail trade, except of motor vehicles and motorcycles",G Wholesale and retail trade; repair of motor vehicles and motor cycles
+No quals,0.096627913,0.129821053,48 Wholesale and retail not otherwise specified,G Wholesale and retail trade; repair of motor vehicles and motor cycles
+Level 1,0.0992812,0.132137225,48 Wholesale and retail not otherwise specified,G Wholesale and retail trade; repair of motor vehicles and motor cycles
+Level 2,0.16556515,0.180661461,48 Wholesale and retail not otherwise specified,G Wholesale and retail trade; repair of motor vehicles and motor cycles
+Appreticeship,0.061604515,0.051074791,48 Wholesale and retail not otherwise specified,G Wholesale and retail trade; repair of motor vehicles and motor cycles
+Level 3,0.225143519,0.213645586,48 Wholesale and retail not otherwise specified,G Wholesale and retail trade; repair of motor vehicles and motor cycles
+Level 4 +,0.331178542,0.266861063,48 Wholesale and retail not otherwise specified,G Wholesale and retail trade; repair of motor vehicles and motor cycles
+Other,0.020599161,0.025798821,48 Wholesale and retail not otherwise specified,G Wholesale and retail trade; repair of motor vehicles and motor cycles
+No quals,0.186867529,0.170212227,49 Land transport and transport via pipelines,H Transport and storage
+Level 1,0.150137603,0.151675766,49 Land transport and transport via pipelines,H Transport and storage
+Level 2,0.159748301,0.165056582,49 Land transport and transport via pipelines,H Transport and storage
+Appreticeship,0.066343204,0.060349253,49 Land transport and transport via pipelines,H Transport and storage
+Level 3,0.176962991,0.179243646,49 Land transport and transport via pipelines,H Transport and storage
+Level 4 +,0.217018318,0.234585488,49 Land transport and transport via pipelines,H Transport and storage
+Other,0.042922054,0.038877038,49 Land transport and transport via pipelines,H Transport and storage
+No quals,0.079435916,0.170212227,50 Water transport,H Transport and storage
+Level 1,0.10371296,0.151675766,50 Water transport,H Transport and storage
+Level 2,0.148339879,0.165056582,50 Water transport,H Transport and storage
+Appreticeship,0.05373081,0.060349253,50 Water transport,H Transport and storage
+Level 3,0.184219921,0.179243646,50 Water transport,H Transport and storage
+Level 4 +,0.405569439,0.234585488,50 Water transport,H Transport and storage
+Other,0.024991075,0.038877038,50 Water transport,H Transport and storage
+No quals,0.04040064,0.170212227,51 Air transport,H Transport and storage
+Level 1,0.073141991,0.151675766,51 Air transport,H Transport and storage
+Level 2,0.140644727,0.165056582,51 Air transport,H Transport and storage
+Appreticeship,0.035434728,0.060349253,51 Air transport,H Transport and storage
+Level 3,0.253429846,0.179243646,51 Air transport,H Transport and storage
+Level 4 +,0.439272788,0.234585488,51 Air transport,H Transport and storage
+Other,0.01767528,0.038877038,51 Air transport,H Transport and storage
+No quals,0.155618201,0.170212227,52 Warehousing and support activities for transportation,H Transport and storage
+Level 1,0.14404801,0.151675766,52 Warehousing and support activities for transportation,H Transport and storage
+Level 2,0.165389737,0.165056582,52 Warehousing and support activities for transportation,H Transport and storage
+Appreticeship,0.056605731,0.060349253,52 Warehousing and support activities for transportation,H Transport and storage
+Level 3,0.184119956,0.179243646,52 Warehousing and support activities for transportation,H Transport and storage
+Level 4 +,0.256498504,0.234585488,52 Warehousing and support activities for transportation,H Transport and storage
+Other,0.03771986,0.038877038,52 Warehousing and support activities for transportation,H Transport and storage
+No quals,0.179459775,0.170212227,53 Postal and courier activities,H Transport and storage
+Level 1,0.181743101,0.151675766,53 Postal and courier activities,H Transport and storage
+Level 2,0.182957637,0.165056582,53 Postal and courier activities,H Transport and storage
+Appreticeship,0.055706698,0.060349253,53 Postal and courier activities,H Transport and storage
+Level 3,0.165095867,0.179243646,53 Postal and courier activities,H Transport and storage
+Level 4 +,0.19887615,0.234585488,53 Postal and courier activities,H Transport and storage
+Other,0.036160772,0.038877038,53 Postal and courier activities,H Transport and storage
+No quals,0.124072334,0.150325744,55 Accommodation,I Accommodation and food service activities
+Level 1,0.110356975,0.115585862,55 Accommodation,I Accommodation and food service activities
+Level 2,0.160709253,0.187480305,55 Accommodation,I Accommodation and food service activities
+Appreticeship,0.051244716,0.043006222,55 Accommodation,I Accommodation and food service activities
+Level 3,0.214279004,0.219889782,55 Accommodation,I Accommodation and food service activities
+Level 4 +,0.308994833,0.250514814,55 Accommodation,I Accommodation and food service activities
+Other,0.030342884,0.033197271,55 Accommodation,I Accommodation and food service activities
+No quals,0.155179001,0.150325744,56 Food and beverage service activities,I Accommodation and food service activities
+Level 1,0.116552485,0.115585862,56 Food and beverage service activities,I Accommodation and food service activities
+Level 2,0.192429255,0.187480305,56 Food and beverage service activities,I Accommodation and food service activities
+Appreticeship,0.041483237,0.043006222,56 Food and beverage service activities,I Accommodation and food service activities
+Level 3,0.220931343,0.219889782,56 Food and beverage service activities,I Accommodation and food service activities
+Level 4 +,0.23969974,0.250514814,56 Food and beverage service activities,I Accommodation and food service activities
+Other,0.033724939,0.033197271,56 Food and beverage service activities,I Accommodation and food service activities
+No quals,0.026949335,0.023339674,58 Publishing activities,J Information and communication
+Level 1,0.036531321,0.041046707,58 Publishing activities,J Information and communication
+Level 2,0.072104444,0.086913056,58 Publishing activities,J Information and communication
+Appreticeship,0.014552641,0.023351344,58 Publishing activities,J Information and communication
+Level 3,0.113726195,0.16676975,58 Publishing activities,J Information and communication
+Level 4 +,0.728889687,0.648010487,58 Publishing activities,J Information and communication
+Other,0.007246377,0.010568982,58 Publishing activities,J Information and communication
+No quals,0.027731056,0.023339674,"59 Motion picture, video and television production, sound recording and music publishing activities",J Information and communication
+Level 1,0.036830983,0.041046707,"59 Motion picture, video and television production, sound recording and music publishing activities",J Information and communication
+Level 2,0.073015052,0.086913056,"59 Motion picture, video and television production, sound recording and music publishing activities",J Information and communication
+Appreticeship,0.018544874,0.023351344,"59 Motion picture, video and television production, sound recording and music publishing activities",J Information and communication
+Level 3,0.152887394,0.16676975,"59 Motion picture, video and television production, sound recording and music publishing activities",J Information and communication
+Level 4 +,0.680036227,0.648010487,"59 Motion picture, video and television production, sound recording and music publishing activities",J Information and communication
+Other,0.010954414,0.010568982,"59 Motion picture, video and television production, sound recording and music publishing activities",J Information and communication
+No quals,0.020498465,0.023339674,60 Programming and broadcasting activities,J Information and communication
+Level 1,0.035307928,0.041046707,60 Programming and broadcasting activities,J Information and communication
+Level 2,0.069622539,0.086913056,60 Programming and broadcasting activities,J Information and communication
+Appreticeship,0.017157305,0.023351344,60 Programming and broadcasting activities,J Information and communication
+Level 3,0.135633014,0.16676975,60 Programming and broadcasting activities,J Information and communication
+Level 4 +,0.713202095,0.648010487,60 Programming and broadcasting activities,J Information and communication
+Other,0.008578653,0.010568982,60 Programming and broadcasting activities,J Information and communication
+No quals,0.037752711,0.023339674,61 Telecommunications,J Information and communication
+Level 1,0.071834014,0.041046707,61 Telecommunications,J Information and communication
+Level 2,0.13982754,0.086913056,61 Telecommunications,J Information and communication
+Appreticeship,0.052704041,0.023351344,61 Telecommunications,J Information and communication
+Level 3,0.239607739,0.16676975,61 Telecommunications,J Information and communication
+Level 4 +,0.445472332,0.648010487,61 Telecommunications,J Information and communication
+Other,0.012801623,0.010568982,61 Telecommunications,J Information and communication
+No quals,0.018427705,0.023339674,"62 Computer programming, consultancy and related activities",J Information and communication
+Level 1,0.034270728,0.041046707,"62 Computer programming, consultancy and related activities",J Information and communication
+Level 2,0.077957533,0.086913056,"62 Computer programming, consultancy and related activities",J Information and communication
+Appreticeship,0.017890546,0.023351344,"62 Computer programming, consultancy and related activities",J Information and communication
+Level 3,0.158139535,0.16676975,"62 Computer programming, consultancy and related activities",J Information and communication
+Level 4 +,0.68294363,0.648010487,"62 Computer programming, consultancy and related activities",J Information and communication
+Other,0.010370324,0.010568982,"62 Computer programming, consultancy and related activities",J Information and communication
+No quals,0.03120655,0.023339674,63 Information service activities,J Information and communication
+Level 1,0.046346362,0.041046707,63 Information service activities,J Information and communication
+Level 2,0.08496833,0.086913056,63 Information service activities,J Information and communication
+Appreticeship,0.01961996,0.023351344,63 Information service activities,J Information and communication
+Level 3,0.151707091,0.16676975,63 Information service activities,J Information and communication
+Level 4 +,0.654565117,0.648010487,63 Information service activities,J Information and communication
+Other,0.01158659,0.010568982,63 Information service activities,J Information and communication
+No quals,0.022961424,0.021188645,"64 Financial service activities, except insurance and pension funding",K Financial and insurance activities
+Level 1,0.051895713,0.054234149,"64 Financial service activities, except insurance and pension funding",K Financial and insurance activities
+Level 2,0.128840252,0.13088368,"64 Financial service activities, except insurance and pension funding",K Financial and insurance activities
+Appreticeship,0.015820855,0.017112254,"64 Financial service activities, except insurance and pension funding",K Financial and insurance activities
+Level 3,0.186667493,0.197967532,"64 Financial service activities, except insurance and pension funding",K Financial and insurance activities
+Level 4 +,0.58303624,0.568441854,"64 Financial service activities, except insurance and pension funding",K Financial and insurance activities
+Other,0.010778022,0.010171886,"64 Financial service activities, except insurance and pension funding",K Financial and insurance activities
+No quals,0.023857754,0.021188645,"65 Insurance, reinsurance and pension funding, except compulsory social security",K Financial and insurance activities
+Level 1,0.071366944,0.054234149,"65 Insurance, reinsurance and pension funding, except compulsory social security",K Financial and insurance activities
+Level 2,0.166291545,0.13088368,"65 Insurance, reinsurance and pension funding, except compulsory social security",K Financial and insurance activities
+Appreticeship,0.022263486,0.017112254,"65 Insurance, reinsurance and pension funding, except compulsory social security",K Financial and insurance activities
+Level 3,0.245142171,0.197967532,"65 Insurance, reinsurance and pension funding, except compulsory social security",K Financial and insurance activities
+Level 4 +,0.461812589,0.568441854,"65 Insurance, reinsurance and pension funding, except compulsory social security",K Financial and insurance activities
+Other,0.009265511,0.010171886,"65 Insurance, reinsurance and pension funding, except compulsory social security",K Financial and insurance activities
+No quals,0.015922709,0.021188645,66 Activities auxiliary to financial services and insurance activities,K Financial and insurance activities
+Level 1,0.042668148,0.054234149,66 Activities auxiliary to financial services and insurance activities,K Financial and insurance activities
+Level 2,0.102420386,0.13088368,66 Activities auxiliary to financial services and insurance activities,K Financial and insurance activities
+Appreticeship,0.014593012,0.017112254,66 Activities auxiliary to financial services and insurance activities,K Financial and insurance activities
+Level 3,0.174038915,0.197967532,66 Activities auxiliary to financial services and insurance activities,K Financial and insurance activities
+Level 4 +,0.64035885,0.568441854,66 Activities auxiliary to financial services and insurance activities,K Financial and insurance activities
+Other,0.00999798,0.010171886,66 Activities auxiliary to financial services and insurance activities,K Financial and insurance activities
+No quals,0.05875457,0.05875457,68 Real estate activities,L Real estate activities
+Level 1,0.076559689,0.076559689,68 Real estate activities,L Real estate activities
+Level 2,0.141848993,0.141848993,68 Real estate activities,L Real estate activities
+Appreticeship,0.038477163,0.038477163,68 Real estate activities,L Real estate activities
+Level 3,0.219267599,0.219267599,68 Real estate activities,L Real estate activities
+Level 4 +,0.449422552,0.449422552,68 Real estate activities,L Real estate activities
+Other,0.015669433,0.015669433,68 Real estate activities,L Real estate activities
+No quals,0.022780369,0.021927177,69 Legal and accounting activities,"M Professional, scientific and technical activities"
+Level 1,0.05018403,0.038978917,69 Legal and accounting activities,"M Professional, scientific and technical activities"
+Level 2,0.094293841,0.075862898,69 Legal and accounting activities,"M Professional, scientific and technical activities"
+Appreticeship,0.015148659,0.01701077,69 Legal and accounting activities,"M Professional, scientific and technical activities"
+Level 3,0.140559549,0.134234311,69 Legal and accounting activities,"M Professional, scientific and technical activities"
+Level 4 +,0.666508185,0.702407128,69 Legal and accounting activities,"M Professional, scientific and technical activities"
+Other,0.010525367,0.0095788,69 Legal and accounting activities,"M Professional, scientific and technical activities"
+No quals,0.019535946,0.021927177,70 Activities of head offices; management consultancy activities,"M Professional, scientific and technical activities"
+Level 1,0.031437846,0.038978917,70 Activities of head offices; management consultancy activities,"M Professional, scientific and technical activities"
+Level 2,0.066181774,0.075862898,70 Activities of head offices; management consultancy activities,"M Professional, scientific and technical activities"
+Appreticeship,0.013645107,0.01701077,70 Activities of head offices; management consultancy activities,"M Professional, scientific and technical activities"
+Level 3,0.121723972,0.134234311,70 Activities of head offices; management consultancy activities,"M Professional, scientific and technical activities"
+Level 4 +,0.73873928,0.702407128,70 Activities of head offices; management consultancy activities,"M Professional, scientific and technical activities"
+Other,0.008736074,0.0095788,70 Activities of head offices; management consultancy activities,"M Professional, scientific and technical activities"
+No quals,0.023505998,0.021927177,71 Architectural and engineering activities; technical testing and analysis,"M Professional, scientific and technical activities"
+Level 1,0.036200312,0.038978917,71 Architectural and engineering activities; technical testing and analysis,"M Professional, scientific and technical activities"
+Level 2,0.063955677,0.075862898,71 Architectural and engineering activities; technical testing and analysis,"M Professional, scientific and technical activities"
+Appreticeship,0.024581787,0.01701077,71 Architectural and engineering activities; technical testing and analysis,"M Professional, scientific and technical activities"
+Level 3,0.126929697,0.134234311,71 Architectural and engineering activities; technical testing and analysis,"M Professional, scientific and technical activities"
+Level 4 +,0.715601635,0.702407128,71 Architectural and engineering activities; technical testing and analysis,"M Professional, scientific and technical activities"
+Other,0.009224894,0.0095788,71 Architectural and engineering activities; technical testing and analysis,"M Professional, scientific and technical activities"
+No quals,0.011808788,0.021927177,72 Scientific research and development,"M Professional, scientific and technical activities"
+Level 1,0.019492071,0.038978917,72 Scientific research and development,"M Professional, scientific and technical activities"
+Level 2,0.037432345,0.075862898,72 Scientific research and development,"M Professional, scientific and technical activities"
+Appreticeship,0.009651414,0.01701077,72 Scientific research and development,"M Professional, scientific and technical activities"
+Level 3,0.08406192,0.134234311,72 Scientific research and development,"M Professional, scientific and technical activities"
+Level 4 +,0.830778547,0.702407128,72 Scientific research and development,"M Professional, scientific and technical activities"
+Other,0.006774914,0.0095788,72 Scientific research and development,"M Professional, scientific and technical activities"
+No quals,0.020156367,0.021927177,73 Advertising and market research,"M Professional, scientific and technical activities"
+Level 1,0.030031059,0.038978917,73 Advertising and market research,"M Professional, scientific and technical activities"
+Level 2,0.068244618,0.075862898,73 Advertising and market research,"M Professional, scientific and technical activities"
+Appreticeship,0.014201564,0.01701077,73 Advertising and market research,"M Professional, scientific and technical activities"
+Level 3,0.138160009,0.134234311,73 Advertising and market research,"M Professional, scientific and technical activities"
+Level 4 +,0.720359859,0.702407128,73 Advertising and market research,"M Professional, scientific and technical activities"
+Other,0.008846525,0.0095788,73 Advertising and market research,"M Professional, scientific and technical activities"
+No quals,0.027242044,0.021927177,"74 Other professional, scientific and technical activities","M Professional, scientific and technical activities"
+Level 1,0.039296046,0.038978917,"74 Other professional, scientific and technical activities","M Professional, scientific and technical activities"
+Level 2,0.076844262,0.075862898,"74 Other professional, scientific and technical activities","M Professional, scientific and technical activities"
+Appreticeship,0.019798698,0.01701077,"74 Other professional, scientific and technical activities","M Professional, scientific and technical activities"
+Level 3,0.141333173,0.134234311,"74 Other professional, scientific and technical activities","M Professional, scientific and technical activities"
+Level 4 +,0.684004339,0.702407128,"74 Other professional, scientific and technical activities","M Professional, scientific and technical activities"
+Other,0.011481437,0.0095788,"74 Other professional, scientific and technical activities","M Professional, scientific and technical activities"
+No quals,0.027266028,0.021927177,75 Veterinary activities,"M Professional, scientific and technical activities"
+Level 1,0.049226234,0.038978917,75 Veterinary activities,"M Professional, scientific and technical activities"
+Level 2,0.109579956,0.075862898,75 Veterinary activities,"M Professional, scientific and technical activities"
+Appreticeship,0.02173913,0.01701077,75 Veterinary activities,"M Professional, scientific and technical activities"
+Level 3,0.230287399,0.134234311,75 Veterinary activities,"M Professional, scientific and technical activities"
+Level 4 +,0.552468681,0.702407128,75 Veterinary activities,"M Professional, scientific and technical activities"
+Other,0.009432572,0.0095788,75 Veterinary activities,"M Professional, scientific and technical activities"
+No quals,0.118985231,0.170680549,77 Rental and leasing activities,N Administrative and support service activities
+Level 1,0.127858504,0.12964264,77 Rental and leasing activities,N Administrative and support service activities
+Level 2,0.174070986,0.158119673,77 Rental and leasing activities,N Administrative and support service activities
+Appreticeship,0.069914245,0.052135349,77 Rental and leasing activities,N Administrative and support service activities
+Level 3,0.220283468,0.181202211,77 Rental and leasing activities,N Administrative and support service activities
+Level 4 +,0.262684612,0.276322148,77 Rental and leasing activities,N Administrative and support service activities
+Other,0.026202954,0.031897429,77 Rental and leasing activities,N Administrative and support service activities
+No quals,0.062631192,0.170680549,78 Employment activities,N Administrative and support service activities
+Level 1,0.071552267,0.12964264,78 Employment activities,N Administrative and support service activities
+Level 2,0.132556675,0.158119673,78 Employment activities,N Administrative and support service activities
+Appreticeship,0.032352015,0.052135349,78 Employment activities,N Administrative and support service activities
+Level 3,0.209277918,0.181202211,78 Employment activities,N Administrative and support service activities
+Level 4 +,0.472895676,0.276322148,78 Employment activities,N Administrative and support service activities
+Other,0.018734257,0.031897429,78 Employment activities,N Administrative and support service activities
+No quals,0.049247807,0.170680549,"79 Travel agency, tour operator and other reservation service and related activities",N Administrative and support service activities
+Level 1,0.077571422,0.12964264,"79 Travel agency, tour operator and other reservation service and related activities",N Administrative and support service activities
+Level 2,0.149409516,0.158119673,"79 Travel agency, tour operator and other reservation service and related activities",N Administrative and support service activities
+Appreticeship,0.035282011,0.052135349,"79 Travel agency, tour operator and other reservation service and related activities",N Administrative and support service activities
+Level 3,0.228206008,0.181202211,"79 Travel agency, tour operator and other reservation service and related activities",N Administrative and support service activities
+Level 4 +,0.443475278,0.276322148,"79 Travel agency, tour operator and other reservation service and related activities",N Administrative and support service activities
+Other,0.016807958,0.031897429,"79 Travel agency, tour operator and other reservation service and related activities",N Administrative and support service activities
+No quals,0.128904118,0.170680549,80 Security and investigation activities,N Administrative and support service activities
+Level 1,0.131420947,0.12964264,80 Security and investigation activities,N Administrative and support service activities
+Level 2,0.174843835,0.158119673,80 Security and investigation activities,N Administrative and support service activities
+Appreticeship,0.054763782,0.052135349,80 Security and investigation activities,N Administrative and support service activities
+Level 3,0.196797865,0.181202211,80 Security and investigation activities,N Administrative and support service activities
+Level 4 +,0.27709382,0.276322148,80 Security and investigation activities,N Administrative and support service activities
+Other,0.036175632,0.031897429,80 Security and investigation activities,N Administrative and support service activities
+No quals,0.251436112,0.170680549,81 Services to buildings and landscape activities,N Administrative and support service activities
+Level 1,0.160929274,0.12964264,81 Services to buildings and landscape activities,N Administrative and support service activities
+Level 2,0.160442337,0.158119673,81 Services to buildings and landscape activities,N Administrative and support service activities
+Appreticeship,0.060514319,0.052135349,81 Services to buildings and landscape activities,N Administrative and support service activities
+Level 3,0.150611847,0.181202211,81 Services to buildings and landscape activities,N Administrative and support service activities
+Level 4 +,0.176835895,0.276322148,81 Services to buildings and landscape activities,N Administrative and support service activities
+Other,0.039230216,0.031897429,81 Services to buildings and landscape activities,N Administrative and support service activities
+No quals,0.108454783,0.170680549,"82 Office administrative, office support and other business support activities",N Administrative and support service activities
+Level 1,0.101275516,0.12964264,"82 Office administrative, office support and other business support activities",N Administrative and support service activities
+Level 2,0.158207098,0.158119673,"82 Office administrative, office support and other business support activities",N Administrative and support service activities
+Appreticeship,0.040730371,0.052135349,"82 Office administrative, office support and other business support activities",N Administrative and support service activities
+Level 3,0.208366238,0.181202211,"82 Office administrative, office support and other business support activities",N Administrative and support service activities
+Level 4 +,0.357647115,0.276322148,"82 Office administrative, office support and other business support activities",N Administrative and support service activities
+Other,0.025318879,0.031897429,"82 Office administrative, office support and other business support activities",N Administrative and support service activities
+No quals,0.034742354,0.034742354,84 Public administration and defence; compulsory social security,O Public administration and defence; compulsory social security
+Level 1,0.06470365,0.06470365,84 Public administration and defence; compulsory social security,O Public administration and defence; compulsory social security
+Level 2,0.128724292,0.128724292,84 Public administration and defence; compulsory social security,O Public administration and defence; compulsory social security
+Appreticeship,0.030808226,0.030808226,84 Public administration and defence; compulsory social security,O Public administration and defence; compulsory social security
+Level 3,0.231114821,0.231114821,84 Public administration and defence; compulsory social security,O Public administration and defence; compulsory social security
+Level 4 +,0.499670638,0.499670638,84 Public administration and defence; compulsory social security,O Public administration and defence; compulsory social security
+Other,0.010236017,0.010236017,84 Public administration and defence; compulsory social security,O Public administration and defence; compulsory social security
+No quals,0.033203214,0.033203214,85 Education,P Education
+Level 1,0.043999744,0.043999744,85 Education,P Education
+Level 2,0.07752658,0.07752658,85 Education,P Education
+Appreticeship,0.017060528,0.017060528,85 Education,P Education
+Level 3,0.16970938,0.16970938,85 Education,P Education
+Level 4 +,0.648563358,0.648563358,85 Education,P Education
+Other,0.009937195,0.009937195,85 Education,P Education
+No quals,0.038060472,0.050481025,86 Human health activities,Q Human health and social work activities
+Level 1,0.054301057,0.062487402,86 Human health activities,Q Human health and social work activities
+Level 2,0.096686446,0.118503723,86 Human health activities,Q Human health and social work activities
+Appreticeship,0.021411155,0.026044358,86 Human health activities,Q Human health and social work activities
+Level 3,0.158054754,0.19630573,86 Human health activities,Q Human health and social work activities
+Level 4 +,0.618698619,0.531623023,86 Human health activities,Q Human health and social work activities
+Other,0.012787497,0.014554739,86 Human health activities,Q Human health and social work activities
+No quals,0.100469592,0.050481025,87 Residential care activities,Q Human health and social work activities
+Level 1,0.093454693,0.062487402,87 Residential care activities,Q Human health and social work activities
+Level 2,0.186596324,0.118503723,87 Residential care activities,Q Human health and social work activities
+Appreticeship,0.038703693,0.026044358,87 Residential care activities,Q Human health and social work activities
+Level 3,0.236454287,0.19630573,87 Residential care activities,Q Human health and social work activities
+Level 4 +,0.320830193,0.531623023,87 Residential care activities,Q Human health and social work activities
+Other,0.023491217,0.014554739,87 Residential care activities,Q Human health and social work activities
+No quals,0.058363497,0.050481025,88 Social work activities without accommodation,Q Human health and social work activities
+Level 1,0.068407585,0.062487402,88 Social work activities without accommodation,Q Human health and social work activities
+Level 2,0.139564883,0.118503723,88 Social work activities without accommodation,Q Human health and social work activities
+Appreticeship,0.031171895,0.026044358,88 Social work activities without accommodation,Q Human health and social work activities
+Level 3,0.26222837,0.19630573,88 Social work activities without accommodation,Q Human health and social work activities
+Level 4 +,0.425259165,0.531623023,88 Social work activities without accommodation,Q Human health and social work activities
+Other,0.015004604,0.014554739,88 Social work activities without accommodation,Q Human health and social work activities
+No quals,0.032269581,0.050650393,"90 Creative, arts and entertainment activities","R Arts, entertainment and recreation"
+Level 1,0.038140384,0.062377521,"90 Creative, arts and entertainment activities","R Arts, entertainment and recreation"
+Level 2,0.078363315,0.12235561,"90 Creative, arts and entertainment activities","R Arts, entertainment and recreation"
+Appreticeship,0.016600885,0.030830003,"90 Creative, arts and entertainment activities","R Arts, entertainment and recreation"
+Level 3,0.147404748,0.203959449,"90 Creative, arts and entertainment activities","R Arts, entertainment and recreation"
+Level 4 +,0.676213332,0.51570818,"90 Creative, arts and entertainment activities","R Arts, entertainment and recreation"
+Other,0.011007755,0.014118845,"90 Creative, arts and entertainment activities","R Arts, entertainment and recreation"
+No quals,0.031475456,0.050650393,"91 Libraries, archives, museums and other cultural activities","R Arts, entertainment and recreation"
+Level 1,0.048521715,0.062377521,"91 Libraries, archives, museums and other cultural activities","R Arts, entertainment and recreation"
+Level 2,0.094355637,0.12235561,"91 Libraries, archives, museums and other cultural activities","R Arts, entertainment and recreation"
+Appreticeship,0.019592587,0.030830003,"91 Libraries, archives, museums and other cultural activities","R Arts, entertainment and recreation"
+Level 3,0.147545622,0.203959449,"91 Libraries, archives, museums and other cultural activities","R Arts, entertainment and recreation"
+Level 4 +,0.649172443,0.51570818,"91 Libraries, archives, museums and other cultural activities","R Arts, entertainment and recreation"
+Other,0.00933654,0.014118845,"91 Libraries, archives, museums and other cultural activities","R Arts, entertainment and recreation"
+No quals,0.107879429,0.050650393,92 Gambling and betting activities,"R Arts, entertainment and recreation"
+Level 1,0.119072801,0.062377521,92 Gambling and betting activities,"R Arts, entertainment and recreation"
+Level 2,0.170192138,0.12235561,92 Gambling and betting activities,"R Arts, entertainment and recreation"
+Appreticeship,0.029790234,0.030830003,92 Gambling and betting activities,"R Arts, entertainment and recreation"
+Level 3,0.192667019,0.203959449,92 Gambling and betting activities,"R Arts, entertainment and recreation"
+Level 4 +,0.360743874,0.51570818,92 Gambling and betting activities,"R Arts, entertainment and recreation"
+Other,0.019654504,0.014118845,92 Gambling and betting activities,"R Arts, entertainment and recreation"
+No quals,0.060863899,0.050650393,93 Sports activities and amusement and recreation activities,"R Arts, entertainment and recreation"
+Level 1,0.076782722,0.062377521,93 Sports activities and amusement and recreation activities,"R Arts, entertainment and recreation"
+Level 2,0.160919754,0.12235561,93 Sports activities and amusement and recreation activities,"R Arts, entertainment and recreation"
+Appreticeship,0.047365481,0.030830003,93 Sports activities and amusement and recreation activities,"R Arts, entertainment and recreation"
+Level 3,0.274287842,0.203959449,93 Sports activities and amusement and recreation activities,"R Arts, entertainment and recreation"
+Level 4 +,0.362651275,0.51570818,93 Sports activities and amusement and recreation activities,"R Arts, entertainment and recreation"
+Other,0.017129026,0.014118845,93 Sports activities and amusement and recreation activities,"R Arts, entertainment and recreation"
+No quals,0.044513561,0.07227889,94 Activities of membership organisations,S Other service activities
+Level 1,0.051971506,0.072371696,94 Activities of membership organisations,S Other service activities
+Level 2,0.087221163,0.12300151,94 Activities of membership organisations,S Other service activities
+Appreticeship,0.01899602,0.101521172,94 Activities of membership organisations,S Other service activities
+Level 3,0.144142336,0.264454512,94 Activities of membership organisations,S Other service activities
+Level 4 +,0.639142504,0.346132105,94 Activities of membership organisations,S Other service activities
+Other,0.014012909,0.020240114,94 Activities of membership organisations,S Other service activities
+No quals,0.116604478,0.07227889,95 Repair of computers and personal and household goods,S Other service activities
+Level 1,0.122761194,0.072371696,95 Repair of computers and personal and household goods,S Other service activities
+Level 2,0.151865672,0.12300151,95 Repair of computers and personal and household goods,S Other service activities
+Appreticeship,0.116044776,0.101521172,95 Repair of computers and personal and household goods,S Other service activities
+Level 3,0.215298507,0.264454512,95 Repair of computers and personal and household goods,S Other service activities
+Level 4 +,0.250746269,0.346132105,95 Repair of computers and personal and household goods,S Other service activities
+Other,0.026679104,0.020240114,95 Repair of computers and personal and household goods,S Other service activities
+No quals,0.079396152,0.07227889,96 Other personal service activities,S Other service activities
+Level 1,0.076453775,0.072371696,96 Other personal service activities,S Other service activities
+Level 2,0.133992266,0.12300151,96 Other personal service activities,S Other service activities
+Appreticeship,0.130221219,0.101521172,96 Other personal service activities,S Other service activities
+Level 3,0.310823145,0.264454512,96 Other personal service activities,S Other service activities
+Level 4 +,0.247051618,0.346132105,96 Other personal service activities,S Other service activities
+Other,0.022061826,0.020240114,96 Other personal service activities,S Other service activities
+No quals,0.194579569,0.194511983,97 Activities of households as employers of domestic personnel,T Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use
+Level 1,0.113968033,0.113928447,97 Activities of households as employers of domestic personnel,T Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use
+Level 2,0.128214038,0.128169503,97 Activities of households as employers of domestic personnel,T Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use
+Appreticeship,0.081653926,0.081625564,97 Activities of households as employers of domestic personnel,T Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use
+Level 3,0.174079222,0.174366099,97 Activities of households as employers of domestic personnel,T Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use
+Level 4 +,0.261987491,0.261896492,97 Activities of households as employers of domestic personnel,T Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use
+Other,0.045517721,0.04550191,97 Activities of households as employers of domestic personnel,T Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use
+No quals,0,0.194511983,98 Undifferentiated goods- and services-producing activities of private households for own use,T Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use
+Level 1,0,0.113928447,98 Undifferentiated goods- and services-producing activities of private households for own use,T Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use
+Level 2,0,0.128169503,98 Undifferentiated goods- and services-producing activities of private households for own use,T Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use
+Appreticeship,0,0.081625564,98 Undifferentiated goods- and services-producing activities of private households for own use,T Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use
+Level 3,0,0.174366099,98 Undifferentiated goods- and services-producing activities of private households for own use,T Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use
+Level 4 +,0,0.261896492,98 Undifferentiated goods- and services-producing activities of private households for own use,T Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use
+Other,0,0.04550191,98 Undifferentiated goods- and services-producing activities of private households for own use,T Activities of households as employers; undifferentiated goods-and services-producing activities of households for own use
+No quals,0.138682948,0.138682948,99 Activities of extraterritorial organisations and bodies,U Activities of extraterritorial organisations and bodies
+Level 1,0.031399913,0.031399913,99 Activities of extraterritorial organisations and bodies,U Activities of extraterritorial organisations and bodies
+Level 2,0.040558221,0.040558221,99 Activities of extraterritorial organisations and bodies,U Activities of extraterritorial organisations and bodies
+Appreticeship,0.030091583,0.030091583,99 Activities of extraterritorial organisations and bodies,U Activities of extraterritorial organisations and bodies
+Level 3,0.075010903,0.075010903,99 Activities of extraterritorial organisations and bodies,U Activities of extraterritorial organisations and bodies
+Level 4 +,0.639337113,0.639337113,99 Activities of extraterritorial organisations and bodies,U Activities of extraterritorial organisations and bodies
+Other,0.04491932,0.04491932,99 Activities of extraterritorial organisations and bodies,U Activities of extraterritorial organisations and bodies
