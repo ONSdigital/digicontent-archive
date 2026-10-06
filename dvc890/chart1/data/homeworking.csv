@@ -1,0 +1,366 @@
+﻿id,name,uk_2010_soc_code,sum,in_employment,earnings,earningssample,grouphier,group,in_employmentsample
+1,Chief executives and senior officials,1115,1.227597599,108427,44.08,0,Sales And Customer Service Occupations,grp1,0
+2,Production managers and directors in manufacturing,1121,2.274695161,320384,22.00,0,Sales And Customer Service Occupations,grp1,0
+3,Production managers and directors in construction,1122,1.949500344,207069,21.29,0,Sales And Customer Service Occupations,grp1,0
+4,Production managers and directors in mining and energy,1123,1.347657505,16309,21.68,2,Sales And Customer Service Occupations,grp1,0
+5,Financial managers and directors,1131,0.511440309,357384,31.38,0,Sales And Customer Service Occupations,grp1,0
+6,Marketing and sales directors,1132,0.83386566,278773,37.00,0,Sales And Customer Service Occupations,grp3,0
+7,Purchasing managers and directors,1133,1.767324251,65425,24.48,0,Sales And Customer Service Occupations,grp3,0
+8,Advertising and public relations directors,1134,0.796480058,42120,29.29,2,Sales And Customer Service Occupations,grp1,0
+9,Human resource managers and directors,1135,0.586188047,226781,24.51,0,Sales And Customer Service Occupations,grp1,0
+10,Information technology and telecommunications directors,1136,0.578913089,118933,36.33,0,Sales And Customer Service Occupations,grp2,0
+11,Functional managers and directors n.e.c.,1139,1.347657505,127337,26.23,2,Sales And Customer Service Occupations,grp1,0
+12,Financial institution managers and directors,1150,0.895537998,91808,24.77,2,Sales And Customer Service Occupations,grp1,0
+13,Managers and directors in transport and distribution,1161,1.767324251,87004,18.16,0,Sales And Customer Service Occupations,grp1,0
+14,Managers and directors in storage and warehousing,1162,1.767324251,113662,14.05,0,Sales And Customer Service Occupations,grp2,0
+15,Senior police officers,1172,2.714953207,13200,27.65,0,Sales And Customer Service Occupations,grp1,0
+16,"Senior officers in fire, ambulance, prison and related services",1173,1.347657505,14711,20.15,2,Sales And Customer Service Occupations,grp1,0
+17,Health services and public health managers and directors,1181,0.773322238,76301,25.32,0,Sales And Customer Service Occupations,grp2,0
+18,Social services managers and directors,1184,1.228855423,34375,19.62,2,Sales And Customer Service Occupations,grp2,0
+19,Managers and directors in retail and wholesale,1190,1.663733376,354572,13.12,0,Sales And Customer Service Occupations,grp1,0
+20,Managers and proprietors in agriculture and horticulture,1211,3.074794082,25588,13.21,2,Sales And Customer Service Occupations,grp1,0
+21,"Managers and proprietors in forestry, fishing and related services",1213,3.074794082,11631,13.99,2,Sales And Customer Service Occupations,grp1,0
+22,Hotel and accommodation managers and proprietors,1221,1.251353818,56960,13.80,2,Sales And Customer Service Occupations,grp1,0
+23,Restaurant and catering establishment managers and proprietors,1223,2.201153922,148660,11.19,0,Sales And Customer Service Occupations,grp2,0
+24,Publicans and managers of licensed premises,1224,1.251353818,37585,11.98,2,Sales And Customer Service Occupations,grp2,0
+25,Leisure and sports managers,1225,1.351135541,56543,14.37,0,Sales And Customer Service Occupations,grp2,0
+26,Travel agency managers and proprietors,1226,1.347657505,6217,14.18,2,Sales And Customer Service Occupations,grp1,0
+27,Health care practice managers,1241,0.779440045,23083,16.63,2,Sales And Customer Service Occupations,grp1,0
+28,"Residential, day and domiciliary care managers and proprietors",1242,1.218527807,60276,16.52,0,Sales And Customer Service Occupations,grp2,0
+29,"Property, housing and estate managers",1251,1.347657505,199906,17.34,0,Sales And Customer Service Occupations,grp2,0
+30,Garage managers and proprietors,1252,1.347657505,29211,16.52,2,Sales And Customer Service Occupations,grp1,0
+31,Hairdressing and beauty salon managers and proprietors,1253,1.347657505,30361,11.54,2,Sales And Customer Service Occupations,grp2,0
+32,Shopkeepers and proprietors – wholesale and retail,1254,1.663733376,111984,12.98,2,Sales And Customer Service Occupations,grp3,0
+33,Waste disposal and environmental services managers,1255,1.347657505,13570,20.21,2,Sales And Customer Service Occupations,grp1,0
+34,Managers and proprietors in other services n.e.c.,1259,1.347657505,241462,15.38,2,Sales And Customer Service Occupations,grp1,0
+35,Chemical scientists,2111,1.579560343,25568,16.80,2,Sales And Customer Service Occupations,grp1,0
+36,Biological scientists and biochemists,2112,1.248458155,82056,19.76,0,Sales And Customer Service Occupations,grp1,0
+37,Physical scientists,2113,1.13362976,26343,22.70,2,Sales And Customer Service Occupations,grp2,0
+38,Social and humanities scientists,2114,1.01773514,28452,17.12,2,Sales And Customer Service Occupations,grp1,0
+39,Natural and social science professionals n.e.c.,2119,1.248458155,63618,19.93,0,Sales And Customer Service Occupations,grp1,0
+40,Civil engineers,2121,1.659584915,86344,20.54,0,Sales And Customer Service Occupations,grp2,0
+41,Mechanical engineers,2122,1.599464447,84166,20.39,0,Sales And Customer Service Occupations,grp1,0
+42,Electrical engineers,2123,1.110495943,55248,24.23,2,Sales And Customer Service Occupations,grp2,0
+43,Electronics engineers,2124,0.838928174,30998,24.04,2,Sales And Customer Service Occupations,grp2,0
+44,Design and development engineers,2126,1.473398435,85210,21.19,0,Sales And Customer Service Occupations,grp2,0
+45,Production and process engineers,2127,1.253859829,50094,20.54,0,Sales And Customer Service Occupations,grp2,0
+46,Engineering professionals n.e.c.,2129,1.473398435,126049,20.44,0,Sales And Customer Service Occupations,grp2,0
+47,IT specialist managers,2133,0.39939282,212487,24.42,0,Sales And Customer Service Occupations,grp1,0
+48,IT project and programme managers,2134,0.39939282,70598,26.54,2,Sales And Customer Service Occupations,grp1,0
+49,"IT business analysts, architects and systems designers",2135,0.652079018,156814,24.35,0,Sales And Customer Service Occupations,grp2,0
+50,Programmers and software development professionals,2136,0.207905756,396238,21.97,0,Sales And Customer Service Occupations,grp1,0
+51,Web design and development professionals,2137,0.266897674,62969,16.33,0,Sales And Customer Service Occupations,grp3,0
+52,Information technology and telecommunications professionals n.e.c.,2139,0.39939282,199977,20.38,0,Sales And Customer Service Occupations,grp1,0
+53,Conservation professionals,2141,1.586973404,15343,15.99,2,Sales And Customer Service Occupations,grp1,0
+54,Environment professionals,2142,1.586973404,42127,18.49,0,Sales And Customer Service Occupations,grp1,0
+55,Research and development managers,2150,1.283474481,57567,25.53,0,Sales And Customer Service Occupations,grp1,0
+56,Medical practitioners,2211,1.814139845,297674,31.40,0,Sales And Customer Service Occupations,grp1,0
+57,Psychologists,2212,0.823804843,32263,24.75,0,Sales And Customer Service Occupations,grp2,0
+58,Pharmacists,2213,1.639106173,66763,21.14,0,Sales And Customer Service Occupations,grp3,0
+59,Ophthalmic opticians,2214,1.681296207,19687,23.14,2,Sales And Customer Service Occupations,grp1,0
+60,Dental practitioners,2215,2.557843862,41322,-35.00,1,Sales And Customer Service Occupations,grp2,0
+61,Veterinarians,2216,2.829985701,28884,19.48,2,Sales And Customer Service Occupations,grp2,0
+62,Medical radiographers,2217,2.67898287,33781,20.11,0,Sales And Customer Service Occupations,grp1,0
+63,Podiatrists,2218,1.827455569,10787,19.55,2,Sales And Customer Service Occupations,grp3,0
+64,Health professionals n.e.c.,2219,1.827455569,64179,18.80,0,Sales And Customer Service Occupations,grp1,0
+65,Physiotherapists,2221,2.10483365,72333,18.73,0,Sales And Customer Service Occupations,grp2,0
+66,Occupational therapists,2222,1.827455569,52378,18.46,0,Sales And Customer Service Occupations,grp2,0
+67,Speech and language therapists,2223,1.463439748,20119,17.67,2,Sales And Customer Service Occupations,grp2,0
+68,Therapy professionals n.e.c.,2229,0.823804843,66491,19.30,2,Sales And Customer Service Occupations,grp1,0
+69,Nurses,2231,2.36434008,670406,18.08,0,Sales And Customer Service Occupations,grp2,0
+70,Midwives,2232,2.15077109,51025,21.00,0,Sales And Customer Service Occupations,grp1,0
+71,Higher education teaching professionals,2311,0.77964561,186924,26.76,0,Sales And Customer Service Occupations,grp1,0
+72,Further education teaching professionals,2312,1.907050629,126293,20.46,0,Sales And Customer Service Occupations,grp1,0
+73,Secondary education teaching professionals,2314,1.151988658,406438,23.62,0,Sales And Customer Service Occupations,grp1,0
+74,Primary and nursery education teaching professionals,2315,1.448301663,450441,22.12,0,Sales And Customer Service Occupations,grp2,0
+75,Special needs education teaching professionals,2316,1.797497197,87580,21.64,0,Sales And Customer Service Occupations,grp2,0
+76,Senior professionals of educational establishments,2317,1.038794258,104175,32.35,0,Sales And Customer Service Occupations,grp3,0
+77,Education advisers and school inspectors,2318,0.596055374,37350,20.56,2,Sales And Customer Service Occupations,grp2,0
+78,Teaching and other educational professionals n.e.c.,2319,0.970867891,240718,17.26,0,Sales And Customer Service Occupations,grp2,0
+79,Barristers and judges,2412,0.714128121,30044,18.07,2,Sales And Customer Service Occupations,grp2,0
+80,Solicitors,2413,0.714128121,124352,23.09,0,Sales And Customer Service Occupations,grp2,0
+81,Legal professionals n.e.c.,2419,0.714128121,61887,39.48,2,Sales And Customer Service Occupations,grp1,0
+82,Chartered and certified accountants,2421,0.443733407,183801,20.10,0,Sales And Customer Service Occupations,grp3,0
+83,Management consultants and business analysts,2423,0.946106914,194888,21.28,0,Sales And Customer Service Occupations,grp2,0
+84,Business and financial project management professionals,2424,0.946106914,284559,24.66,0,Sales And Customer Service Occupations,grp1,0
+85,"Actuaries, economists and statisticians",2425,0.037405915,55199,22.94,2,Sales And Customer Service Occupations,grp2,0
+86,Business and related research professionals,2426,1.08997775,53050,18.41,0,Sales And Customer Service Occupations,grp1,0
+87,"Business, research and administrative professionals n.e.c.",2429,1.08997775,70542,23.57,0,Sales And Customer Service Occupations,grp1,0
+88,Architects,2431,1.330772127,53440,21.45,0,Sales And Customer Service Occupations,grp2,0
+89,Town planning officers,2432,1.004547434,20326,16.38,2,Sales And Customer Service Occupations,grp2,0
+90,Quantity surveyors,2433,1.473398435,55801,21.75,2,Sales And Customer Service Occupations,grp1,0
+91,Chartered surveyors,2434,2.031596805,64314,19.14,0,Sales And Customer Service Occupations,grp1,0
+92,Chartered architectural technologists,2435,1.330772127,7331,19.21,2,Sales And Customer Service Occupations,grp1,0
+93,Construction project managers and related professionals,2436,1.949500344,78957,18.06,2,Sales And Customer Service Occupations,grp1,0
+94,Social workers,2442,1.386715746,107076,18.95,0,Sales And Customer Service Occupations,grp1,0
+95,Probation officers,2443,1.386715746,12482,18.14,0,Sales And Customer Service Occupations,grp3,0
+96,Clergy,2444,1.272357569,49292,13.58,0,Sales And Customer Service Occupations,grp2,0
+97,Welfare professionals n.e.c.,2449,1.386715746,30016,16.99,2,Sales And Customer Service Occupations,grp1,0
+98,Librarians,2451,1.150010478,20162,13.83,2,Sales And Customer Service Occupations,grp1,0
+99,Archivists and curators,2452,1.338163931,15606,14.64,2,Sales And Customer Service Occupations,grp1,0
+100,Quality control and planning engineers,2461,1.473398435,35789,18.80,0,Sales And Customer Service Occupations,grp2,0
+101,Quality assurance and regulatory professionals,2462,0.946106914,109687,22.39,0,Sales And Customer Service Occupations,grp1,0
+102,Environmental health professionals,2463,1.991565976,8864,19.40,2,Sales And Customer Service Occupations,grp1,0
+103,"Journalists, newspaper and periodical editors",2471,0.921241543,82322,17.62,2,Sales And Customer Service Occupations,grp3,0
+104,Public relations professionals,2472,0.860439498,67293,15.45,2,Sales And Customer Service Occupations,grp1,0
+105,Advertising accounts managers and creative directors,2473,0.369548647,39927,21.77,2,Sales And Customer Service Occupations,grp1,0
+106,Laboratory technicians,3111,1.754938253,74373,10.93,0,Sales And Customer Service Occupations,grp1,0
+107,Electrical and electronics technicians,3112,2.157034778,29892,16.47,2,Sales And Customer Service Occupations,grp2,0
+108,Engineering technicians,3113,2.020448299,100418,16.24,0,Sales And Customer Service Occupations,grp2,0
+109,Building and civil engineering technicians,3114,2.92675253,24188,14.24,2,Sales And Customer Service Occupations,grp1,0
+110,Quality assurance technicians,3115,2.390151165,37608,13.64,0,Sales And Customer Service Occupations,grp1,0
+111,"Planning, process and production technicians",3116,1.700592354,25298,14.57,0,Sales And Customer Service Occupations,grp1,0
+112,"Science, engineering and production technicians n.e.c.",3119,2.390151165,46574,13.06,0,Sales And Customer Service Occupations,grp1,0
+113,Architectural and town planning technicians,3121,2.92675253,26978,14.37,0,Sales And Customer Service Occupations,grp2,0
+114,Draughtspersons,3122,0.852816492,39141,15.09,0,Sales And Customer Service Occupations,grp1,0
+115,IT operations technicians,3131,1.254154631,107405,15.95,0,Sales And Customer Service Occupations,grp2,0
+116,IT user support technicians,3132,1.052672882,103513,15.07,0,Sales And Customer Service Occupations,grp2,0
+117,Paramedics,3213,4.282772443,28726,19.94,0,Sales And Customer Service Occupations,grp1,0
+118,Dispensing opticians,3216,1.521382758,8660,12.42,2,Sales And Customer Service Occupations,grp1,0
+119,Pharmaceutical technicians,3217,2.066296343,31327,11.52,0,Sales And Customer Service Occupations,grp1,0
+120,Medical and dental technicians,3218,2.67898287,41819,15.08,0,Sales And Customer Service Occupations,grp1,0
+121,Health associate professionals n.e.c.,3219,1.996330761,56201,12.20,2,Sales And Customer Service Occupations,grp1,0
+122,Youth and community workers,3231,1.866981444,76668,12.76,0,Sales And Customer Service Occupations,grp2,0
+123,Child and early years officers,3233,1.866981444,43424,12.38,0,Sales And Customer Service Occupations,grp3,0
+124,Housing officers,3234,1.866981444,58810,14.91,0,Sales And Customer Service Occupations,grp3,0
+125,Counsellors,3235,1.386715746,27671,14.49,2,Sales And Customer Service Occupations,grp1,0
+126,Welfare and housing associate professionals n.e.c.,3239,1.866981444,147718,12.32,0,Sales And Customer Service Occupations,grp1,0
+127,Police officers (sergeant and below),3312,3.561646613,155124,19.37,0,Sales And Customer Service Occupations,grp1,0
+128,Fire service officers (watch manager and below),3313,4.304705816,45278,16.08,0,Sales And Customer Service Occupations,grp1,0
+129,Prison service officers (below principal officer),3314,2.646877518,43198,14.85,0,Sales And Customer Service Occupations,grp1,0
+130,Police community support officers,3315,3.561646613,14506,14.07,0,Sales And Customer Service Occupations,grp1,0
+131,Protective service associate professionals n.e.c.,3319,2.452347158,64344,16.89,0,Sales And Customer Service Occupations,grp2,0
+132,Artists,3411,1.606331422,56452,13.80,2,Sales And Customer Service Occupations,grp1,0
+133,"Authors, writers and translators",3412,0.462562987,90787,15.43,2,Sales And Customer Service Occupations,grp1,0
+134,"Actors, entertainers and presenters",3413,1.648806781,54401,-35.00,1,Sales And Customer Service Occupations,grp1,0
+135,Dancers and choreographers,3414,0.831632481,20823,-35.00,1,Sales And Customer Service Occupations,grp3,0
+136,Musicians,3415,1.148792276,59320,19.38,2,Sales And Customer Service Occupations,grp3,0
+137,"Arts officers, producers and directors",3416,1.051666222,94576,18.15,2,Sales And Customer Service Occupations,grp1,0
+138,"Photographers, audio-visual and broadcasting equipment operators",3417,1.733562482,82423,13.43,2,Sales And Customer Service Occupations,grp3,0
+139,Graphic designers,3421,0.532088275,91647,13.44,0,Sales And Customer Service Occupations,grp2,0
+140,"Product, clothing and related designers",3422,1.333481932,88547,14.83,0,Sales And Customer Service Occupations,grp2,0
+141,Sports players,3441,2.581735507,15930,-35.00,1,Sales And Customer Service Occupations,grp1,0
+142,"Sports coaches, instructors and officials",3442,1.50770718,101164,12.08,0,Sales And Customer Service Occupations,grp2,0
+143,Fitness instructors,3443,1.679186724,67054,10.25,0,Sales And Customer Service Occupations,grp2,0
+144,Air traffic controllers,3511,1.603639583,8686,-35.00,1,Sales And Customer Service Occupations,grp2,0
+145,Aircraft pilots and flight engineers,3512,2.862412154,26165,37.42,2,Sales And Customer Service Occupations,grp1,0
+146,Ship and hovercraft officers,3513,3.187222627,14574,-35.00,1,Sales And Customer Service Occupations,grp1,0
+147,Legal associate professionals,3520,1.033032744,80630,15.01,0,Sales And Customer Service Occupations,grp3,0
+148,"Estimators, valuers and assessors",3531,1.41995461,65497,15.27,0,Sales And Customer Service Occupations,grp2,0
+149,Brokers,3532,0.504323611,51646,26.17,2,Sales And Customer Service Occupations,grp3,0
+150,Insurance underwriters,3533,0.684195923,26802,18.58,2,Sales And Customer Service Occupations,grp2,0
+151,Finance and investment analysts and advisers,3534,0.296541925,217393,19.15,0,Sales And Customer Service Occupations,grp2,0
+152,Taxation experts,3535,0.443733407,37322,26.09,2,Sales And Customer Service Occupations,grp2,0
+153,Importers and exporters,3536,0.646936345,4824,14.92,2,Sales And Customer Service Occupations,grp2,0
+154,Financial and accounting technicians,3537,0.461895857,26791,22.05,2,Sales And Customer Service Occupations,grp2,0
+155,Financial accounts managers,3538,0.534545658,171733,18.37,0,Sales And Customer Service Occupations,grp1,0
+156,Business and related associate professionals n.e.c.,3539,0.394127957,196345,14.84,0,Sales And Customer Service Occupations,grp1,0
+157,Buyers and procurement officers,3541,0.941943491,63040,15.41,0,Sales And Customer Service Occupations,grp1,0
+158,Business sales executives,3542,1.010733267,137746,15.29,0,Sales And Customer Service Occupations,grp1,0
+159,Marketing associate professionals,3543,0.369548647,199385,14.27,0,Sales And Customer Service Occupations,grp2,0
+160,Estate agents and auctioneers,3544,1.348805311,54563,11.75,0,Sales And Customer Service Occupations,grp1,0
+161,Sales accounts and business development managers,3545,1.141841591,452657,22.42,0,Sales And Customer Service Occupations,grp1,0
+162,Conference and exhibition managers and organisers,3546,1.843677639,70288,12.02,0,Sales And Customer Service Occupations,grp1,0
+163,Conservation and environmental associate professionals,3550,3.386108152,10870,11.45,2,Sales And Customer Service Occupations,grp1,0
+164,Public services associate professionals,3561,2.626945899,91464,16.79,0,Sales And Customer Service Occupations,grp2,0
+165,Human resources and industrial relations officers,3562,0.850889137,164452,14.37,0,Sales And Customer Service Occupations,grp2,0
+166,Vocational and industrial trainers and instructors,3563,0.633328231,145690,15.00,0,Sales And Customer Service Occupations,grp1,0
+167,Careers advisers and vocational guidance specialists,3564,0.850889137,31586,13.51,2,Sales And Customer Service Occupations,grp2,0
+168,Inspectors of standards and regulations,3565,2.626945899,40806,15.79,0,Sales And Customer Service Occupations,grp2,0
+169,Health and safety officers,3567,2.489421981,60742,17.47,0,Sales And Customer Service Occupations,grp2,0
+170,National government administrative occupations,4112,1.637328518,147436,12.40,0,Sales And Customer Service Occupations,grp3,0
+171,Local government administrative occupations,4113,0.833989181,134391,12.77,0,Sales And Customer Service Occupations,grp1,0
+172,Officers of non-governmental organisations,4114,0.833989181,34867,13.21,2,Sales And Customer Service Occupations,grp1,0
+173,Credit controllers,4121,0.616161147,38477,11.91,0,Sales And Customer Service Occupations,grp2,0
+174,"Book-keepers, payroll managers and wages clerks",4122,0.755435148,437541,12.52,0,Sales And Customer Service Occupations,grp2,0
+175,Bank and post office clerks,4123,1.800186247,94473,11.33,0,Sales And Customer Service Occupations,grp2,0
+176,Finance officers,4124,0.755435148,36375,13.68,0,Sales And Customer Service Occupations,grp2,0
+177,Financial administrative occupations n.e.c.,4129,1.800186247,163718,11.16,0,Sales And Customer Service Occupations,grp1,0
+178,Records clerks and assistants,4131,1.111264989,111057,11.24,0,Sales And Customer Service Occupations,grp1,0
+179,Pensions and insurance clerks and assistants,4132,0.601461206,62933,11.64,0,Sales And Customer Service Occupations,grp1,0
+180,Stock control clerks and assistants,4133,2.090414779,84721,10.72,0,Sales And Customer Service Occupations,grp1,0
+181,Transport and distribution clerks and assistants,4134,1.250488969,58973,11.87,0,Sales And Customer Service Occupations,grp1,0
+182,Library clerks and assistants,4135,1.438741445,24409,10.42,0,Sales And Customer Service Occupations,grp1,0
+183,Human resources administrative occupations,4138,0.88611251,32784,10.96,0,Sales And Customer Service Occupations,grp1,0
+184,Sales administrators,4151,1.956939481,81354,10.77,0,Sales And Customer Service Occupations,grp3,0
+185,Other administrative occupations n.e.c.,4159,0.951666577,745282,11.16,0,Sales And Customer Service Occupations,grp1,0
+186,Office managers,4161,0.92481687,174051,15.55,0,Sales And Customer Service Occupations,grp2,0
+187,Office supervisors,4162,0.92481687,40122,12.73,0,Sales And Customer Service Occupations,grp1,0
+188,Medical secretaries,4211,0.779440045,69404,11.56,0,Sales And Customer Service Occupations,grp2,0
+189,Legal secretaries,4212,0.559282586,38868,11.36,0,Sales And Customer Service Occupations,grp1,0
+190,School secretaries,4213,0.815948715,67460,10.28,0,Sales And Customer Service Occupations,grp2,0
+191,Company secretaries,4214,0.511440309,31360,11.51,0,Sales And Customer Service Occupations,grp1,0
+192,Personal assistants and other secretaries,4215,0.815948715,173624,12.21,0,Sales And Customer Service Occupations,grp2,0
+193,Receptionists,4216,1.057457795,256505,9.27,0,Sales And Customer Service Occupations,grp3,0
+194,Typists and related keyboard occupations,4217,0.733645067,36335,10.20,0,Sales And Customer Service Occupations,grp2,0
+195,Farmers,5111,2.814257919,124832,11.40,0,Sales And Customer Service Occupations,grp1,0
+196,Horticultural trades,5112,3.231893323,17623,8.85,0,Sales And Customer Service Occupations,grp1,0
+197,Gardeners and landscape gardeners,5113,3.231893323,173364,10.27,0,Sales And Customer Service Occupations,grp3,0
+198,Groundsmen and greenkeepers,5114,3.231893323,26364,9.94,0,Sales And Customer Service Occupations,grp1,0
+199,Agricultural and fishing trades n.e.c.,5119,2.97726477,34786,10.56,0,Sales And Customer Service Occupations,grp1,0
+200,Smiths and forge workers,5211,2.769509539,4973,-35.00,0,Sales And Customer Service Occupations,grp3,0
+201,"Moulders, core makers and die casters",5212,2.636609521,2266,11.06,0,Sales And Customer Service Occupations,grp3,0
+202,Sheet metal workers,5213,3.492034636,14928,12.49,0,Sales And Customer Service Occupations,grp3,0
+203,"Metal plate workers, and riveters",5214,3.515152743,5480,13.54,0,Sales And Customer Service Occupations,grp1,0
+204,Welding trades,5215,2.274420684,61116,12.39,0,Sales And Customer Service Occupations,grp2,0
+205,Pipe fitters,5216,3.846784049,4859,17.57,0,Sales And Customer Service Occupations,grp2,0
+206,Metal machining setters and setter-operators,5221,2.293655453,52358,13.02,0,Sales And Customer Service Occupations,grp3,0
+207,"Tool makers, tool fitters and markers-out",5222,2.385237868,11417,14.17,0,Sales And Customer Service Occupations,grp2,0
+208,Metal working production and maintenance fitters,5223,3.70503855,221919,14.77,0,Sales And Customer Service Occupations,grp2,0
+209,Precision instrument makers and repairers,5224,2.021346332,22985,12.24,0,Sales And Customer Service Occupations,grp2,0
+210,Air-conditioning and refrigeration engineers,5225,3.578168067,16093,14.22,0,Sales And Customer Service Occupations,grp2,0
+211,"Vehicle technicians, mechanics and electricians",5231,3.270787196,171452,12.50,0,Sales And Customer Service Occupations,grp2,0
+212,Vehicle body builders and repairers,5232,3.318197362,27317,12.48,0,Sales And Customer Service Occupations,grp2,0
+213,Vehicle paint technicians,5234,2.635237037,12601,12.32,0,Sales And Customer Service Occupations,grp2,0
+214,Aircraft maintenance and related trades,5235,3.192342244,28219,19.32,0,Sales And Customer Service Occupations,grp2,0
+215,Boat and ship builders and repairers,5236,3.70503855,16547,13.81,0,Sales And Customer Service Occupations,grp1,0
+216,Rail and rolling stock builders and repairers,5237,3.70503855,11805,-35.00,0,Sales And Customer Service Occupations,grp1,0
+217,Electricians and electrical fitters,5241,3.625728345,245413,15.25,0,Sales And Customer Service Occupations,grp1,0
+218,Telecommunications engineers,5242,0.995815103,55060,16.64,0,Sales And Customer Service Occupations,grp1,0
+219,"TV, video and audio engineers",5244,2.501045794,9218,15.51,0,Sales And Customer Service Occupations,grp1,0
+220,IT engineers,5245,3.028648614,34980,15.04,0,Sales And Customer Service Occupations,grp1,0
+221,Electrical and electronic trades n.e.c.,5249,2.501045794,78414,15.55,0,Sales And Customer Service Occupations,grp1,0
+222,"Skilled metal, electrical and electronic trades supervisors",5250,2.330372161,37352,16.27,0,Sales And Customer Service Occupations,grp1,0
+223,Steel erectors,5311,3.515152743,6737,12.41,0,Sales And Customer Service Occupations,grp2,0
+224,Bricklayers and masons,5312,3.898185787,72135,13.33,0,Sales And Customer Service Occupations,grp3,0
+225,"Roofers, roof tilers and slaters",5313,3.820159318,53029,11.84,0,Sales And Customer Service Occupations,grp3,0
+226,Plumbers and heating and ventilating engineers,5314,3.846784049,173905,14.74,0,Sales And Customer Service Occupations,grp2,0
+227,Carpenters and joiners,5315,3.671536293,224349,13.18,0,Sales And Customer Service Occupations,grp2,0
+228,"Glaziers, window fabricators and fitters",5316,3.577501458,38440,10.07,0,Sales And Customer Service Occupations,grp2,0
+229,Construction and building trades n.e.c.,5319,1.949500344,247055,12.42,0,Sales And Customer Service Occupations,grp1,0
+230,Plasterers,5321,2.885546545,47551,13.39,0,Sales And Customer Service Occupations,grp1,0
+231,Floorers and wall tilers,5322,2.545197351,33339,11.50,0,Sales And Customer Service Occupations,grp2,0
+232,Painters and decorators,5323,2.970712071,123989,11.69,0,Sales And Customer Service Occupations,grp3,0
+233,Construction and building trades supervisors,5330,3.232086888,64546,16.18,0,Sales And Customer Service Occupations,grp1,0
+234,Weavers and knitters,5411,1.47641843,2343,10.54,0,Sales And Customer Service Occupations,grp1,0
+235,Upholsterers,5412,2.208743555,13448,11.69,0,Sales And Customer Service Occupations,grp3,0
+236,Footwear and leather working trades,5413,1.47641843,5112,10.15,0,Sales And Customer Service Occupations,grp1,0
+237,Tailors and dressmakers,5414,1.611260696,12926,-35.00,0,Sales And Customer Service Occupations,grp2,0
+238,"Textiles, garments and related trades n.e.c.",5419,1.500132757,15922,9.57,0,Sales And Customer Service Occupations,grp1,0
+239,Pre-press technicians,5421,1.063371879,3575,-35.00,0,Sales And Customer Service Occupations,grp2,0
+240,Printers,5422,2.216076119,28855,12.11,0,Sales And Customer Service Occupations,grp2,0
+241,Print finishing and binding workers,5423,2.000963153,10750,10.79,0,Sales And Customer Service Occupations,grp1,0
+242,Butchers,5431,2.194166882,34401,10.10,0,Sales And Customer Service Occupations,grp1,0
+243,Bakers and flour confectioners,5432,1.661454423,32877,9.76,0,Sales And Customer Service Occupations,grp1,0
+244,Fishmongers and poultry dressers,5433,2.194166882,10089,9.03,0,Sales And Customer Service Occupations,grp1,0
+245,Chefs,5434,2.483529666,253011,9.69,0,Sales And Customer Service Occupations,grp2,0
+246,Cooks,5435,2.04445117,69102,8.89,0,Sales And Customer Service Occupations,grp1,0
+247,Catering and bar managers,5436,2.201153922,70867,10.12,0,Sales And Customer Service Occupations,grp1,0
+248,"Glass and ceramics makers, decorators and finishers",5441,2.332429903,10768,11.58,0,Sales And Customer Service Occupations,grp1,0
+249,Furniture makers and other craft woodworkers,5442,2.2799235,38088,10.53,0,Sales And Customer Service Occupations,grp1,0
+250,Florists,5443,1.676807121,11650,8.52,0,Sales And Customer Service Occupations,grp2,0
+251,Other skilled trades n.e.c.,5449,1.676164771,40930,13.00,0,Sales And Customer Service Occupations,grp1,0
+252,Nursery nurses and assistants,6121,1.481152527,226087,8.86,0,Sales And Customer Service Occupations,grp2,0
+253,Childminders and related occupations,6122,1.786156258,101388,10.00,0,Sales And Customer Service Occupations,grp1,0
+254,Playworkers,6123,1.786156258,26596,9.02,0,Sales And Customer Service Occupations,grp1,0
+255,Teaching assistants,6125,1.481152527,308874,9.92,0,Sales And Customer Service Occupations,grp1,0
+256,Educational support assistants,6126,1.481152527,172275,9.92,0,Sales And Customer Service Occupations,grp1,0
+257,Veterinary nurses,6131,2.962061445,18075,11.00,0,Sales And Customer Service Occupations,grp1,0
+258,Pest control officers,6132,3.316161647,7524,12.30,0,Sales And Customer Service Occupations,grp1,0
+259,Animal care services occupations n.e.c.,6139,2.253868378,89152,9.00,0,Sales And Customer Service Occupations,grp1,0
+260,Nursing auxiliaries and assistants,6141,2.5844991,339354,10.93,0,Sales And Customer Service Occupations,grp2,0
+261,Ambulance staff (excluding paramedics),6142,4.282772443,23815,12.05,0,Sales And Customer Service Occupations,grp2,0
+262,Dental nurses,6143,2.780771982,49957,10.14,0,Sales And Customer Service Occupations,grp2,0
+263,Houseparents and residential wardens,6144,2.537222491,49614,11.91,0,Sales And Customer Service Occupations,grp1,0
+264,Care workers and home carers,6145,1.861331385,776489,9.49,0,Sales And Customer Service Occupations,grp1,0
+265,Senior care workers,6146,1.861331385,78877,9.74,0,Sales And Customer Service Occupations,grp2,0
+266,Care escorts,6147,2.537222491,12433,9.45,0,Sales And Customer Service Occupations,grp1,0
+267,"Undertakers, mortuary and crematorium assistants",6148,2.946013597,23191,11.40,0,Sales And Customer Service Occupations,grp1,0
+268,Sports and leisure assistants,6211,2.051222653,68473,9.26,0,Sales And Customer Service Occupations,grp1,0
+269,Travel agents,6212,1.19322073,31613,9.93,0,Sales And Customer Service Occupations,grp3,0
+270,Air travel assistants,6214,2.591161878,53137,10.47,0,Sales And Customer Service Occupations,grp3,0
+271,Rail travel assistants,6215,2.125743796,14023,17.49,0,Sales And Customer Service Occupations,grp3,0
+272,Leisure and travel service occupations n.e.c.,6219,1.495508738,27519,10.41,0,Sales And Customer Service Occupations,grp1,0
+273,Hairdressers and barbers,6221,1.857709876,157976,8.22,0,Sales And Customer Service Occupations,grp1,0
+274,Beauticians and related occupations,6222,1.743906284,99717,9.11,0,Sales And Customer Service Occupations,grp2,0
+275,Housekeepers and related occupations,6231,2.452858124,49438,9.02,0,Sales And Customer Service Occupations,grp2,0
+276,Caretakers,6232,2.32154922,69330,10.31,0,Sales And Customer Service Occupations,grp1,0
+277,Cleaning and housekeeping managers and supervisors,6240,2.452858124,77130,9.60,0,Sales And Customer Service Occupations,grp1,0
+278,Sales and retail assistants,7111,2.165528902,1004245,8.74,0,Sales And Customer Service Occupations,grp2,0
+279,Retail cashiers and check-out operators,7112,1.748224253,165239,8.87,0,Sales And Customer Service Occupations,grp1,0
+280,Telephone salespersons,7113,0.457398077,32245,10.24,0,Sales And Customer Service Occupations,grp2,0
+281,Pharmacy and other dispensing assistants,7114,2.132451383,78424,8.85,0,Sales And Customer Service Occupations,grp3,0
+282,Vehicle and parts salespersons and advisers,7115,2.165528902,46577,10.62,0,Sales And Customer Service Occupations,grp3,0
+283,Collector salespersons and credit agents,7121,1.109296539,15122,10.25,0,Sales And Customer Service Occupations,grp1,0
+284,"Debt, rent and other cash collectors",7122,0.613295423,26948,9.97,0,Sales And Customer Service Occupations,grp1,0
+285,Roundspersons and van salespersons,7123,1.109296539,30133,8.97,0,Sales And Customer Service Occupations,grp1,0
+286,Market and street traders and assistants,7124,1.109296539,16754,-35.00,0,Sales And Customer Service Occupations,grp1,0
+287,Merchandisers and window dressers,7125,1.537189514,23254,9.58,0,Sales And Customer Service Occupations,grp2,0
+288,Sales related occupations n.e.c.,7129,1.537189514,58058,10.22,0,Sales And Customer Service Occupations,grp2,0
+289,Sales supervisors,7130,1.662595166,164264,10.10,0,Sales And Customer Service Occupations,grp1,0
+290,Call and contact centre occupations,7211,1.143909697,92592,9.42,0,Sales And Customer Service Occupations,grp2,0
+291,Telephonists,7213,0.893932071,8869,9.30,0,Sales And Customer Service Occupations,grp3,0
+292,Communication operators,7214,0.893932071,32666,13.60,0,Sales And Customer Service Occupations,grp3,0
+293,Market research interviewers,7215,0.641490815,13355,9.98,0,Sales And Customer Service Occupations,grp3,0
+294,Customer service occupations n.e.c.,7219,0.885523428,317711,9.98,0,Sales And Customer Service Occupations,grp1,0
+295,Customer service managers and supervisors,7220,0.92481687,185753,13.93,0,Sales And Customer Service Occupations,grp2,0
+296,"Food, drink and tobacco process operatives",8111,2.495184437,133963,9.50,0,Sales And Customer Service Occupations,grp1,0
+297,Glass and ceramics process operatives,8112,2.512351336,3600,10.17,0,Sales And Customer Service Occupations,grp2,0
+298,Textile process operatives,8113,1.951774092,9135,10.45,0,Sales And Customer Service Occupations,grp1,0
+299,Chemical and related process operatives,8114,2.542433488,37039,13.60,0,Sales And Customer Service Occupations,grp1,0
+300,Rubber process operatives,8115,2.548685338,5854,11.07,0,Sales And Customer Service Occupations,grp2,0
+301,Plastics process operatives,8116,2.404415061,21196,10.61,0,Sales And Customer Service Occupations,grp2,0
+302,Metal making and treating process operatives,8117,2.648466761,12397,12.45,0,Sales And Customer Service Occupations,grp3,0
+303,Electroplaters,8118,2.360533425,3739,10.14,0,Sales And Customer Service Occupations,grp1,0
+304,Process operatives n.e.c.,8119,3.17931537,10288,10.82,0,Sales And Customer Service Occupations,grp1,0
+305,Paper and wood machine operatives,8121,2.30435647,25471,10.38,0,Sales And Customer Service Occupations,grp1,0
+306,Coal mine operatives,8122,3.376301067,2813,-35.00,0,Sales And Customer Service Occupations,grp1,0
+307,Quarry workers and related operatives,8123,3.651779167,9974,11.45,0,Sales And Customer Service Occupations,grp3,0
+308,Energy plant operatives,8124,2.610039176,6797,16.63,0,Sales And Customer Service Occupations,grp2,0
+309,Metal working machine operatives,8125,2.293655453,55973,10.60,0,Sales And Customer Service Occupations,grp2,0
+310,Water and sewerage plant operatives,8126,3.267959299,14138,14.22,0,Sales And Customer Service Occupations,grp2,0
+311,Printing machine assistants,8127,2.216076119,9787,10.33,0,Sales And Customer Service Occupations,grp2,0
+312,Plant and machine operatives n.e.c.,8129,2.682025393,22901,11.23,0,Sales And Customer Service Occupations,grp2,0
+313,Assemblers (electrical and electronic products),8131,1.867920743,24977,10.92,0,Sales And Customer Service Occupations,grp3,0
+314,Assemblers (vehicles and metal goods),8132,2.606469565,42138,14.00,0,Sales And Customer Service Occupations,grp1,0
+315,Routine inspectors and testers,8133,1.960697664,77796,12.23,0,Sales And Customer Service Occupations,grp1,0
+316,"Weighers, graders and sorters",8134,1.960697664,14629,10.01,0,Sales And Customer Service Occupations,grp1,0
+317,"Tyre, exhaust and windscreen fitters",8135,3.270787196,14768,9.57,0,Sales And Customer Service Occupations,grp3,0
+318,Sewing machinists,8137,1.310270224,31835,8.87,0,Sales And Customer Service Occupations,grp1,0
+319,Assemblers and routine operatives n.e.c.,8139,2.069339979,46368,10.30,0,Sales And Customer Service Occupations,grp2,0
+320,"Scaffolders, stagers and riggers",8141,3.648226615,26894,15.65,0,Sales And Customer Service Occupations,grp1,0
+321,Road construction operatives,8142,3.944594514,20157,12.86,0,Sales And Customer Service Occupations,grp1,0
+322,Rail construction and maintenance operatives,8143,3.944594514,11756,14.09,0,Sales And Customer Service Occupations,grp2,0
+323,Construction operatives n.e.c.,8149,3.430525103,108817,11.29,0,Sales And Customer Service Occupations,grp2,0
+324,Large goods vehicle drivers,8211,2.591377743,303609,12.00,0,Sales And Customer Service Occupations,grp1,0
+325,Van drivers,8212,2.687437728,272550,9.73,0,Sales And Customer Service Occupations,grp1,0
+326,Bus and coach drivers,8213,2.618259739,111685,11.88,0,Sales And Customer Service Occupations,grp2,0
+327,Taxi and cab drivers and chauffeurs,8214,2.687437728,212504,8.72,0,Sales And Customer Service Occupations,grp1,0
+328,Driving instructors,8215,1.040086852,30272,12.93,0,Sales And Customer Service Occupations,grp2,0
+329,Crane drivers,8221,2.726511013,13986,15.19,0,Sales And Customer Service Occupations,grp2,0
+330,Fork-lift truck drivers,8222,2.72460354,91911,10.93,0,Sales And Customer Service Occupations,grp3,0
+331,Agricultural machinery drivers,8223,2.879590111,4359,9.93,0,Sales And Customer Service Occupations,grp1,0
+332,Mobile machine drivers and operatives n.e.c.,8229,3.330805418,45319,12.74,0,Sales And Customer Service Occupations,grp1,0
+333,Train and tram drivers,8231,3.001082804,30912,30.13,0,Sales And Customer Service Occupations,grp1,0
+334,Marine and waterways transport operatives,8232,3.48208331,6379,12.98,0,Sales And Customer Service Occupations,grp2,0
+335,Air transport operatives,8233,2.943655856,15682,11.85,0,Sales And Customer Service Occupations,grp2,0
+336,Rail transport operatives,8234,2.894040901,13558,17.09,0,Sales And Customer Service Occupations,grp3,0
+337,Other drivers and transport operatives n.e.c.,8239,2.943655856,22513,12.68,0,Sales And Customer Service Occupations,grp2,0
+338,Farm workers,9111,2.40823002,58574,9.44,0,Sales And Customer Service Occupations,grp3,0
+339,Forestry workers,9112,2.988129463,6462,11.66,0,Sales And Customer Service Occupations,grp1,0
+340,Fishing and other elementary agriculture occupations n.e.c.,9119,2.554959424,22657,9.17,0,Sales And Customer Service Occupations,grp1,0
+341,Elementary construction occupations,9120,3.542979383,161221,10.25,0,Sales And Customer Service Occupations,grp1,0
+342,Industrial cleaning process occupations,9132,2.680465316,27764,8.59,0,Sales And Customer Service Occupations,grp1,0
+343,"Packers, bottlers, canners and fillers",9134,2.235729754,128633,9.15,0,Sales And Customer Service Occupations,grp3,0
+344,Elementary process plant occupations n.e.c.,9139,2.680465316,94862,10.00,0,Sales And Customer Service Occupations,grp3,0
+345,"Postal workers, mail sorters, messengers and couriers",9211,2.052184247,167079,12.45,0,Sales And Customer Service Occupations,grp1,0
+346,Elementary administration occupations n.e.c.,9219,2.701692371,35909,8.76,0,Sales And Customer Service Occupations,grp1,0
+347,Window cleaners,9231,2.32154922,26333,9.64,0,Sales And Customer Service Occupations,grp2,0
+348,Cleaners and domestics,9233,2.441041965,572057,8.67,0,Sales And Customer Service Occupations,grp2,0
+349,"Launderers, dry cleaners and pressers",9234,1.683745615,24535,8.28,0,Sales And Customer Service Occupations,grp2,0
+350,Refuse and salvage occupations,9235,2.869538465,39073,9.98,0,Sales And Customer Service Occupations,grp2,0
+351,Vehicle valeters and cleaners,9236,2.684156359,26894,8.52,0,Sales And Customer Service Occupations,grp1,0
+352,Elementary cleaning occupations n.e.c.,9239,2.441041965,8411,9.25,0,Sales And Customer Service Occupations,grp1,0
+353,Security guards and related occupations,9241,2.185645221,185143,9.88,0,Sales And Customer Service Occupations,grp2,0
+354,Parking and civil enforcement occupations,9242,1.987250551,16271,10.17,0,Sales And Customer Service Occupations,grp1,0
+355,School midday and crossing patrol occupations,9244,1.987250551,94394,9.23,0,Sales And Customer Service Occupations,grp1,0
+356,Elementary security occupations n.e.c.,9249,1.987250551,23816,10.00,0,Sales And Customer Service Occupations,grp2,0
+357,Shelf fillers,9251,2.080158894,81086,8.87,0,Sales And Customer Service Occupations,grp2,0
+358,Elementary sales occupations n.e.c.,9259,1.109296539,23691,9.12,0,Sales And Customer Service Occupations,grp1,0
+359,Elementary storage occupations,9260,2.943655856,448801,9.77,0,Sales And Customer Service Occupations,grp2,0
+360,Hospital porters,9271,2.441041965,18042,10.47,0,Sales And Customer Service Occupations,grp3,0
+361,Kitchen and catering assistants,9272,2.076783891,513303,8.35,0,Sales And Customer Service Occupations,grp4,0
+362,Waiters and waitresses,9273,1.986852217,264054,8.21,0,Sales And Customer Service Occupations,grp5,0
+363,Bar staff,9274,1.862784939,202572,8.22,0,Sales And Customer Service Occupations,grp6,0
+364,Leisure and theme park attendants,9275,1.987250551,32372,8.52,0,Sales And Customer Service Occupations,grp7,0
+365,Other elementary services occupations n.e.c.,9279,2.191376785,25643,8.59,0,Sales And Customer Service Occupations,grp8,0

@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <title>Beeswam plot</title>
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,bold" rel="stylesheet">
+<style>
+
+body {
+	max-width: 800px;
+	margin:0px auto;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#info {
+	height:25px;
+	width:100%;
+	font-size:16px;
+}
+
+#label {
+	font-weight:bold;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: rgb(102,102,102);
+  shape-rendering: crispEdges;
+}
+
+.domain {
+	display:none;
+}
+
+.axis text, #xaxislabel {
+  font: 14px sans-serif;
+  fill: rgb(102,102,102);
+  font-size:14px;
+}
+
+.cells path {
+  fill: none;
+  pointer-events: all;
+}
+
+.cells :hover circle {
+  opacity:0.75;
+  stroke-width: 2px;
+  stroke: #000;
+}
+
+#source{
+	font-size: 16px;
+	font-weight: 700;
+	color: #414042;
+}
+
+.key /* required */
+{
+	display: inline-block;
+	margin: 0 0 1em 0;
+	padding: 0;
+	line-height: 15px;
+}
+
+.key label {
+	white-space: nowrap;
+	font-size: 12px;
+	color: #333;
+	font-weight: normal;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.key li/* required */
+{
+	display: inline-block;
+	margin: 0 18px 0 0;
+	padding: 0;
+	line-height: 15px;
+}
+
+.key b /* required */
+{
+	display: inline-block;
+	width: 35px;
+	height: 15px;
+	margin-right: 6px;
+	float: left;
+	background-color:none;
+	margin-top:8px;
+	border-radius:15px;
+}
+
+.legendBlocks{ /* new for Cluster chart */
+	width: 15px !important;
+	margin-top:0px !important;
+}
+
+.key label/* required */
+{
+	white-space: nowrap;
+	font-size: 14px;
+	color: #333;
+	font-weight: normal;
+}
+
+.axis text:nth-child(0) {
+	text-anchor:start;
+
+}
+
+
+h6 {
+   font-size: 16px;
+   margin: 16px 0 8px 0;
+   font-weight: 700;
+   color:#323132;
+}
+
+.btn--primary {
+  background-color: #0F8243 !important;
+  color: #fff;
+}
+.btn {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  display: inline-block;
+  width: auto;
+  cursor: pointer;
+  padding: 6px 16px 10px 16px;
+  border: 0 none;
+  text-align: center;
+  -webkit-appearance: none;
+  transition: background-color 0.25s ease-out;
+  line-height: 32px;
+}
+a {
+  text-decoration: underline;
+  word-wrap: break-word;
+}
+
+a, a:link, a:visited {
+    color: #fff !important;
+    text-decoration: none;
+}
+
+ul, ol {
+  margin: 0px 0;
+  padding-left: 16px;
+}
+
+li {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin: 0px 0;
+  padding: 6px 0 10px 16px;
+}
+
+</style>
+
+<div id="legend">
+</div>
+<div id="info">
+</div>
+<div>
+	<svg width="100%"></svg>
+</div>
+<div id="source"></div>
+<div id="notes">
+  <h6>Notes:</h6>
+<ol>
+  <li>Some occupations are excluded due to no homeworking measures being available</li>
+</ol>
+</div>
+<h6>Download this chart</h6>
+  <a class="btn btn--primary" href="download.png" download>Image</a>
+  <a class="btn btn--primary" href="data.xlsx" target="_blank">.xlsx</a>
+</div>
+
+
+
+<script src="https://cdn.ons.gov.uk/vendor/d3/4.2.7/d3.min.js"></script>
+<script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js"></script>
+<script src="../lib/modernizr.svg.min.js"></script>
+
+
+
+
+<script>
+
+var pymChild = null;
+
+function drawGraphic() {
+
+
+
+	var svg = d3.select("svg"),
+		margin = {top: 10, right: 10, bottom: 60, left: 10};
+
+    svg.selectAll("*").remove()
+    d3.select("#legend").selectAll("*").remove()
+    
+    svg.attr("height",dvc.essential.svgheight)
+		svgwidth =  parseInt(svg.style("width"));
+
+		width = svgwidth - margin.left - margin.right,
+		height = svg.attr("height") - margin.top - margin.bottom;
+
+	var formatValue = d3.format(".1f");
+  var formatValue2 = d3.format(",.0f");
+
+	var x = d3.scaleLinear()
+		.rangeRound([0, width]);
+
+	  xlabels = ["More likely to be able to work from home","Unlikely to be able to work from home","Least likely to be able to work from home"];
+
+    // parse data into columns
+    dots = {};
+
+    // for each 'column' in data object
+    for (var column in graphic_data[0]) {
+      // dots object with content from graphic_data
+      dots[column] = graphic_data.map(function(d,i) {
+        // return object variables to use in code. This needs to be updated in accordance with field content of files
+        return {
+          'occ' : +d.unique,
+          'size' : +d.total_employment
+
+        };
+
+      });
+    }
+    var minR = d3.min(d3.entries(dots), function(c) {
+                        return d3.min(c.value, function(v) {
+                          var n = Math.sqrt(v.size/Math.PI);
+                          return n;
+                        });
+                      })
+    var maxR = d3.max(d3.entries(dots), function(c) {
+                        return d3.max(c.value, function(v) {
+                          var n = Math.sqrt(v.size/Math.PI);
+                          return n;
+                        });
+                      })
+
+    r = d3.scaleLinear()
+                  .range([0, 20])
+                  .domain([minR, maxR]);
+
+	var g = svg.append("g")
+		.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+	if(dvc.essential.xAxisScale == "auto") {
+	  x.domain(d3.extent(graphic_data, function(d) { return d.value; }));
+	} else {
+	  x.domain(dvc.essential.xAxisScale);
+	}
+
+
+
+	  var simulation = d3.forceSimulation(graphic_data)
+		  .force("x", d3.forceX(function(d) {return x(d.value); }).strength(6))
+		  .force("y", d3.forceY(height / 2))
+		  .force("collide", d3.forceCollide(function(d) {return r(Math.sqrt(d.total_employment/Math.PI) )}))
+		  .stop();
+
+	  for (var i = 0; i < 200; ++i) simulation.tick();
+
+	  if(svgwidth < dvc.optional.mobileBreakpoint) {
+		  numberticks = dvc.optional.x_num_ticks_sm_md[0];
+      tickvals = [0,2.5,5]
+	  } else {
+		  numberticks = dvc.optional.x_num_ticks_sm_md[1];
+      tickvals = [0,2.5,5]
+	  }
+
+	  g.append("g")
+		  .attr("class", "axis axis--x")
+		  .attr("transform", "translate(0," + height + ")")
+		  .call(d3.axisBottom(x).ticks(numberticks, ".0s").tickValues(tickvals).tickFormat(function(d,i){ return xlabels[i]}));
+
+      d3.selectAll(".axis--x text")
+          .attr("x","0")
+          .attr("y","20")
+		  .attr("text-anchor", function(d,i) {
+			  if(i==0) {return "end"}
+			  if(i==2) {return "start"}
+		  })
+        //  .attr("transform",function(d,i){if(i<4 || parseInt(graphic.style("width"))  < threshold_sm){return "translate(0,3)"} else {return "translate(-23,3)"} })
+          .call(wrap, 100);
+
+	//get unique groups
+	var groups = graphic_data.map(function(obj) { return obj.id; });
+  	groups = groups.filter(function(v,i) { return groups.indexOf(v) == i; });
+
+	createLegend(groups);
+
+	  var cell = g.append("g")
+		  .attr("class", "cells")
+		.selectAll("g").data(d3.voronoi()
+			.extent([[-margin.left, -margin.top], [width + margin.right, height + margin.top]])
+			.x(function(d) { return d.x; })
+			.y(function(d) { return d.y; })
+		  .polygons(graphic_data)).enter().append("g");
+
+	  cell.append("circle")
+		  .attr("r", function(d) { return  r(Math.sqrt(d.data.total_employment/Math.PI) ); })
+		  .attr("cx", function(d) { return d.data.x; })
+		  .attr("cy", function(d) { return d.data.y; })
+		  .attr("class", function(d) { return "cell cell" + d.data.id.split(" ").join("").replace(",","");})
+		  .attr("fill",function(d){return  dvc.essential.colour_palette[groups.indexOf(d.data.id)]});
+
+	  cell.append("path")
+		  .attr("d", function(d) { return "M" + d.join("L") + "Z"; })
+		  .on("mouseover", function(d) {
+if(d.data.percent_f=="NA"){
+    d3.select("#info").html("<span id='label'>" + d.data.unique + ":</span> "+formatValue2(d.data.total_employment)+" total employees, sample size too small to estimate gender split");
+} else {
+    d3.select("#info").html("<span id='label'>" + d.data.unique + ":</span> "+formatValue2(d.data.total_employment)+" total employees, " + formatValue(d.data.percent_f)+"% female");
+}
+
+		  })
+		  .on("mouseout", function(d) {
+			  d3.select("#info").html("");
+		  });
+
+	//add xaxislabel
+	  svg.append("g")
+	  	.attr("transform", "translate(" + (svgwidth - margin.right + margin.left) +"," + (height+margin.top + margin.bottom) + ")")
+		.append("text")
+		.attr("id","xaxislabel")
+		.attr("text-anchor", "end")
+		.text(dvc.essential.xAxisLabel);
+
+    //word wrapping function from https://stackoverflow.com/questions/24784302/wrapping-text-in-d3
+    function wrap(text, width) {
+      text.each(function(d,i) {
+          if(d=="-23"||d=="-30"){
+              var text = d3.select(this).attr("class", "samplelabel")
+          } else {
+              var text = d3.select(this)
+          }
+
+        var words = text.text().split(/\s+/).reverse(),
+            word,
+            line = [],
+            lineNumber = 0,
+            lineHeight = 1.1, // ems
+            x = text.attr("x"),
+            y = text.attr("y"),
+            dy = 0,//parseFloat(text.attr("dy")),
+            tspan = text.text(null).append("tspan").attr("x", x).attr("y", y).attr("dy", dy + "em");
+        while (word = words.pop()) {
+          line.push(word);
+          tspan.text(line.join(" "));
+          if (tspan.node().getComputedTextLength() > width) {
+            line.pop();
+            tspan.text(line.join(" "));
+            line = [word];
+            tspan = text.append("tspan").attr("x", x).attr("y", y).attr("dy", ++lineNumber * lineHeight + dy + "em").text(word);
+          }
+        }
+      });
+    }
+
+
+	          g.append("circle")
+              .attr("class","legendstuff")
+              .attr( "cx" , x(4.5))
+              .attr( "cy" , 29)
+              .attr('r', r(Math.sqrt(100000/Math.PI)))
+              .attr('stroke-width', "1px")
+              .attr("stroke","#333")
+              //.attr("stroke-dasharray","1 1")
+              .attr("fill","none")
+
+
+          g.append("circle")
+              .attr("class","legendstuff")
+              .attr( "cx" , x(4.5))
+              .attr( "cy" , 15)
+              .attr('r', r(Math.sqrt(1000000/Math.PI)))
+              .attr('stroke-width', "1px")
+              .attr("stroke","#333")
+              //.attr("stroke-dasharray","1 1")
+              .attr("fill","none")
+
+          g.append("line")
+              .attr("class","legendstuff")
+              .attr( "x1" , x(4.5))
+              .attr( "x2" , x(4.2))
+              .attr( "y1" , 23)
+              .attr( "y2" , 23)
+              .attr('stroke-width', "1px")
+              .attr("stroke","#333")
+              .attr("stroke-dasharray","1 1")
+
+          g.append("line")
+              .attr("class","legendstuff")
+              .attr( "x1" , x(4.5))
+              .attr( "x2" , x(4.2))
+              .attr( "y1" , -5)
+              .attr( "y2" , -5)
+              .attr('stroke-width', "1px")
+              .attr("stroke","#333")
+              .attr("stroke-dasharray","1 1")
+
+          g.append("text")
+              .attr("class","legendstuff")
+              .text("1,000,000 workers")
+              .attr("x" , x(4.15))
+              .attr("y" , 2)
+
+          g.append("text")
+              .attr("class","legendstuff")
+              .text("100,000 workers")
+              .attr("x" , x(4.15))
+              .attr("y" , 28)
+
+
+
+	//add source
+	  d3.select("#source").text("Source: " + dvc.essential.sourceText);
+
+	if (pymChild) {
+		pymChild.sendHeight();
+	}
+
+}
+
+
+if (Modernizr.svg) {
+	//load config
+	d3.json("config.json", function(error, config) {
+	dvc=config
+
+		//load chart data
+		d3.csv(dvc.essential.graphic_data_url, function(error, data) {
+      data.forEach(function(d){
+        d.value=+d.value
+      })
+      graphic_data = data;
+
+			//use pym to create iframed chart dependent on specified variables
+			pymChild = new pym.Child({ renderCallback: drawGraphic});
+		});
+	})
+} else {
+	 //use pym to create iframe containing fallback image (which is set as default)
+	pymChild = new pym.Child();
+	if (pymChild) {
+		pymChild.sendHeight();
+	}
+}
+
+function  createLegend(groups) {
+
+		var legend = d3.select('#legend')
+			.append('ul')
+			.attr('class', 'key')
+			.selectAll('g')
+			.data(groups)
+			.enter()
+			.append('li')
+			//.style("background-color", function(d , i) { return dvc.essential.colour_palette[i]; })
+			.attr('class', function(d, i) { return 'key-item key-' + i + ' b '+ d.replace(/ |,/g,'-').toLowerCase(); })
+			.on("mouseover",function(d, i){
+				d3.selectAll(".key-item").style("opacity",0.2);
+				d3.selectAll(".key-" + i).style("opacity",1);
+				d3.selectAll(".cell").style("opacity",0.2);
+				d3.selectAll(".cell" + d.split(" ").join("").replace(",","")).style("opacity",1);
+			})
+			.on("mouseout",function(d, i){
+				d3.selectAll(".key-item").style("opacity",1);
+				d3.selectAll(".cell").style("opacity",1);
+			})
+
+		legend.append('b').attr("class", "legendBlocks")
+			.style("background-color", function(d , i) { return dvc.essential.colour_palette[i]; });
+
+		legend.append('label').text(function(d,i) {
+			var value = parseFloat(d).toFixed(1);
+			return d;
+		});
+
+}
+
+
+
+
+
+function type(d) {
+  if (!d.value) return;
+  d.value = +d.value;
+  return d;
+}
+
+</script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a40b19d17faba598',t:'MTc5MDM1MDU0OA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script>
