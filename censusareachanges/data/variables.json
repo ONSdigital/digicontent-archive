@@ -1,0 +1,226 @@
+{
+    "population": {
+      "table": "population",
+      "variables": [
+        "Population"
+      ]
+    },
+    "density": {
+      "table": "density",
+      "variables": [
+        "Density"
+      ]
+    },
+    "marital": {
+      "table": "legal_partnership_status_6a",
+      "variables": [
+        "Never married and never registered a civil partnership",
+        "Married or in a registered civil partnership",
+        "Separated, but still legally married or still legally in a civil partnership",
+        "Divorced or civil partnership dissolved",
+        "Widowed or surviving civil partnership partner"
+      ]
+    },
+    "household": {
+      "table": "hh_family_composition_8a",
+      "variables": [
+        "One person household: Aged 66 years and over",
+        "One person household: Other",
+        "Single family household: Couple family household: No children",
+        "Single family household: Couple family household: Dependent children",
+        "Single family household: Couple family household: All children non-dependent",
+        "Single family household: Lone parent household",
+        "Other household types"
+      ]
+    },
+    "agemed": {
+      "table": "median_age",
+      "variables": [
+        "Median Age"
+      ]
+    },
+    "ageband": {
+      "table": "resident_age_11a",
+      "variables": [
+        "0 - 4",
+        "5 - 9",
+        "10 - 15",
+        "16 - 19",
+        "20 - 24",
+        "25 - 34",
+        "35 - 49",
+        "50 - 64",
+        "65 - 74",
+        "75 - 84",
+        "85 - 115"
+      ]
+    },
+    "cob": {
+      "table": "country_of_birth_60a",
+      "variables": [
+      "Europe: United Kingdom: England",
+      "Europe: United Kingdom: Northern Ireland",
+      "Europe: United Kingdom: Scotland",
+      "Europe: United Kingdom: Wales",
+      "Europe: United Kingdom: Great Britain not otherwise specified",
+      "Europe: United Kingdom: United Kingdom not otherwise specified",
+      "Europe: Other Europe: EU countries: Member countries in March 2001: Ireland",
+      "Europe: Other Europe: EU countries: Member countries in March 2001: France",
+      "Europe: Other Europe: EU countries: Member countries in March 2001: Germany",
+      "Europe: Other Europe: EU countries: Member countries in March 2001: Italy",
+      "Europe: Other Europe: EU countries: Member countries in March 2001: Portugal (including Madeira and the Azores)",
+      "Europe: Other Europe: EU countries: Member countries in March 2001: Spain (including Canary Islands)",
+      "Europe: Other Europe: EU countries: Member countries in March 2001: Other member countries in March 2001",
+      "Europe: Other Europe: EU countries: Countries that joined the EU between April 2001 and March 2011: Lithuania",
+      "Europe: Other Europe: EU countries: Countries that joined the EU between April 2001 and March 2011: Poland",
+      "Europe: Other Europe: EU countries: Countries that joined the EU between April 2001 and March 2011: Romania",
+      "Europe: Other Europe: EU countries: Countries that joined the EU between April 2001 and March 2011: Other EU countries",
+      "Europe: Other Europe: EU countries: Countries that joined the EU between April 2011 and March 2021: Croatia",
+      "Europe: Other Europe: Rest of Europe: Turkey",
+      "Europe: Other Europe: Rest of Europe: Other Europe",
+      "Africa: North Africa",
+      "Africa: Central and Western Africa: Ghana",
+      "Africa: Central and Western Africa: Nigeria",
+      "Africa: Central and Western Africa: Other Central and Western Africa",
+      "Africa: South and Eastern Africa: Kenya",
+      "Africa: South and Eastern Africa: Somalia",
+      "Africa: South and Eastern Africa: South Africa",
+      "Africa: South and Eastern Africa: Zimbabwe",
+      "Africa: South and Eastern Africa: Other South and Eastern Africa",
+      "Africa: Africa not otherwise specified",
+      "Middle East and Asia: Middle East: Iran",
+      "Middle East and Asia: Middle East: Iraq",
+      "Middle East and Asia: Middle East: Other Middle East",
+      "Middle East and Asia: Eastern Asia: China",
+      "Middle East and Asia: Eastern Asia: Hong Kong (Special Administrative Region of China)",
+      "Middle East and Asia: Eastern Asia: Other Eastern Asia",
+      "Middle East and Asia: Southern Asia: Afghanistan",
+      "Middle East and Asia: Southern Asia: India",
+      "Middle East and Asia: Southern Asia: Pakistan",
+      "Middle East and Asia: Southern Asia: Bangladesh",
+      "Middle East and Asia: Southern Asia: Sri Lanka",
+      "Middle East and Asia: Southern Asia: Other Southern Asia",
+      "Middle East and Asia: South-East Asia: Philippines",
+      "Middle East and Asia: South-East Asia: Malaysia",
+      "Middle East and Asia: South-East Asia: Singapore",
+      "Middle East and Asia: South-East Asia: Other South-East Asia",
+      "Middle East and Asia: Central Asia",
+      "The Americas and the Caribbean: North America: United States",
+      "The Americas and the Caribbean: North America: Canada",
+      "The Americas and the Caribbean: North America: Other North America",
+      "The Americas and the Caribbean: Central America: All Central American countries",
+      "The Americas and the Caribbean: South America: All South American countries",
+      "The Americas and the Caribbean: The Caribbean: Jamaica",
+      "The Americas and the Caribbean: The Caribbean: Other Caribbean",
+      "Antarctica and Oceania: Australasia: Australia",
+      "Antarctica and Oceania: Australasia: New Zealand",
+      "Antarctica and Oceania: Australasia: Other Australasia",
+      "Antarctica and Oceania: Other Oceania and Antarctica",
+      "Other"
+    ]
+    },
+    "ethnicity": {
+      "table": "ethnic_group_tb_6a",
+      "variables": [
+        "Asian, Asian British or Asian Welsh",
+        "Black, Black British, Black Welsh, Caribbean or African",
+        "Mixed or Multiple ethnic groups",
+        "White",
+        "Other ethnic group"
+      ]
+    },
+    "national": {
+      "table": "national_identity_all_9a",
+      "variables": [
+        "British only identity",
+        "Welsh only identity",
+        "Welsh and British only identity",
+        "English only identity",
+        "English and British only identity",
+        "Any other combination of only UK identities",
+        "Non-UK identity only",
+        "UK identity and non-UK identity"
+      ]
+    },
+    "religion": {
+      "table": "religion_tb",
+      "variables": [
+        "No religion",
+        "Christian",
+        "Buddhist",
+        "Hindu",
+        "Jewish",
+        "Muslim",
+        "Sikh",
+        "Other religion",
+        "Not answered"
+      ]
+    },
+    "welsh": {
+      "table": "welsh_skills_speak",
+      "variables": [
+        "Can speak Welsh",
+        "Cannot speak Welsh"
+      ]
+    },
+    "economic": {
+      "table": "economic_activity_status_10a",
+      "variables": [
+      "Economically active (excluding full-time students): In employment",
+      "Economically active (excluding full-time students): Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks",
+      "Economically active and a full-time student: In employment",
+      "Economically active and a full-time student: Unemployed: Seeking work or waiting to start a job already obtained: Available to start working within 2 weeks",
+      "Economically inactive: Retired",
+      "Economically inactive: Student",
+      "Economically Inactive: Looking after home or family",
+      "Economically inactive: Long-term sick or disabled",
+      "Economically inactive: Other"
+    ]
+    },
+    "hours": {
+      "table": "Hours_Per_Week_Worked_5A",
+      "variables": [
+        "Part-time: 15 hours or less worked",
+        "Part-time: 16 to 30 hours worked",
+        "Full-time: 31 to 48 hours worked",
+        "Full-time: 49 or more hours worked"
+      ]
+    },
+    "tenure": {
+      "table": "hh_tenure_7b (V2)",
+      "variables": [
+        "Owns outright or with a mortgage or loan",
+        "Shared ownership",
+        "Rented: Social rented",
+        "Private rented",
+        "Lives rent free"
+      ]
+    },
+    "health": {
+      "table": "ASP_health_in_general",
+      "variables": [
+        "Age-standardised proportion: Very good health",
+        "Age-standardised proportion: Good health",
+        "Age-standardised proportion: Fair health",
+        "Age-standardised proportion: Bad health",
+        "Age-standardised proportion: Very bad health"
+      ]
+    },
+    "disability": {
+      "table": "ASP_disability_4a",
+      "variables": [
+        "Age-standardised proportion: Disabled under the Equality Act: Day-to-day activities limited a lot",
+        "Age-standardised proportion: Disabled under the Equality Act: Day-to-day activities limited a little",
+        "Age-standardised proportion: Not disabled under the Equality Act"
+      ]
+    },
+    "care":{
+      "table": "ASP_is_carer_5a",
+      "variables": [
+        "Age-standardised proportion: Provides no unpaid care",
+        "Age-standardised proportion: Provides 19 or less hours unpaid care a week",
+        "Age-standardised proportion: Provides 20 to 49 hours unpaid care a week",
+        "Age-standardised proportion: Provides 50 or more hours unpaid care a week"
+      ]
+    }
+  }
