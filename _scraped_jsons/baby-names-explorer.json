@@ -59,7 +59,8 @@
       "h4": null,
       "h5": null,
       "title": "Top 100 baby names, 2024",
-      "url": "/visualisations/babynamesexplorer/explorer/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/babynamesexplorer/explorer/index.html",
+      "url_new": "/visualisations/babynamesexplorer/explorer/index.html"
     },
     {
       "type": "p",
@@ -67,7 +68,8 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[Download the data (XLSX, 50KB)](/visualisations/babynamesexplorer/explorer/datadownload.xlsx)"
+      "text": "[Download the data (XLSX, 50KB)](https://www.ons.gov.uk/visualisations/babynamesexplorer/explorer/datadownload.xlsx)",
+      "text_new": "[Download the data (XLSX, 50KB)](/visualisations/babynamesexplorer/explorer/datadownload.xlsx)"
     },
     {
       "type": "box",

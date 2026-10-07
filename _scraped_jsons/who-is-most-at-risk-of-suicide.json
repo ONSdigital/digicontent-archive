@@ -174,7 +174,8 @@
       "h4": "Suicide rates by sex, England and Wales, 1981 to 2016 registrations",
       "h5": null,
       "title": "Suicide rates by sex, England and Wales, 1981 to 2016 registrations",
-      "url": "/visualisations/dvc431/chart1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc431/chart1/index.html",
+      "url_new": "/visualisations/dvc431/chart1/index.html"
     },
     {
       "type": "p",
@@ -182,7 +183,7 @@
       "h3": "Suicide in England and Wales is declining",
       "h4": "Suicide rates by sex, England and Wales, 1981 to 2016 registrations",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/09/data.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/09/data.csv)"
     },
     {
       "type": "p",
@@ -274,7 +275,8 @@
       "h4": "Suicide rate by marital status, England and Wales, 2006 to 2015",
       "h5": null,
       "title": "Suicide rate by marital status, England and Wales, 2006 to 2015",
-      "url": "/visualisations/dvc431/chart3M/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc431/chart3M/index.html",
+      "url_new": "/visualisations/dvc431/chart3M/index.html"
     },
     {
       "type": "interactive",
@@ -283,7 +285,8 @@
       "h4": "Suicide rate by marital status, England and Wales, 2006 to 2015",
       "h5": null,
       "title": "Suicide rate by marital status, England and Wales, 2006 to 2015",
-      "url": "/visualisations/dvc431/chart3F/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc431/chart3F/index.html",
+      "url_new": "/visualisations/dvc431/chart3F/index.html"
     },
     {
       "type": "p",
@@ -291,7 +294,7 @@
       "h3": "Divorce and risk of suicide",
       "h4": "Suicide rate by marital status, England and Wales, 2006 to 2015",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/09/data3.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/09/data3.csv)"
     },
     {
       "type": "heading",
@@ -342,7 +345,8 @@
       "h4": "Suicide rate per deprivation decile, England, 2006 to 2015",
       "h5": null,
       "title": "Suicide rate per deprivation decile, England, 2006 to 2015",
-      "url": "/visualisations/dvc431/chart2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc431/chart2/index.html",
+      "url_new": "/visualisations/dvc431/chart2/index.html"
     },
     {
       "type": "p",
@@ -350,7 +354,7 @@
       "h3": "People in less well-off areas are more likely to end their lives",
       "h4": "Suicide rate per deprivation decile, England, 2006 to 2015",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/09/data2.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/09/data2.csv)"
     },
     {
       "type": "p",
@@ -417,7 +421,7 @@
       "h3": "Footnotes:",
       "h4": null,
       "h5": null,
-      "text": "[Death Certification and Investigation in England, Wales and Northern Ireland: The Report of a Fundamental Review 2003](/visualisations/20131205105739/http://www.archive2.official-documents.co.uk/document/cm58/5831/5831.pdf)"
+      "text": "[Death Certification and Investigation in England, Wales and Northern Ireland: The Report of a Fundamental Review 2003](http://webarchive.nationalarchives.gov.uk/20131205105739/http://www.archive2.official-documents.co.uk/document/cm58/5831/5831.pdf)"
     },
     {
       "type": "li",

@@ -68,7 +68,8 @@
       "h4": "How do you think this was split?",
       "h5": null,
       "title": "How do you think this was split?",
-      "url": "/visualisations/dvc457/contentGA.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc457/contentGA.html",
+      "url_new": "/visualisations/dvc457/contentGA.html"
     },
     {
       "type": "p",
@@ -76,7 +77,7 @@
       "h3": null,
       "h4": "How do you think this was split?",
       "h5": null,
-      "text": "[Download the full data](/visualisations//visual/2017/10/Socialprotection.xlsx)"
+      "text": "[Download the full data](https://static.ons.gov.uk/visual/2017/10/Socialprotection.xlsx)"
     },
     {
       "type": "heading",

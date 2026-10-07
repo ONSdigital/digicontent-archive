@@ -67,7 +67,8 @@
       "h4": null,
       "h5": null,
       "title": "Boys born in 2013 to 2015 will enjoy just 63 years of good health on average, while girls can expect 64 healthy years",
-      "url": "/visualisations/dvc413/chart/stackedbar/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc413/chart/stackedbar/index.html",
+      "url_new": "/visualisations/dvc413/chart/stackedbar/index.html"
     },
     {
       "type": "p",
@@ -75,7 +76,7 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/06/HLEvsLE.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/06/HLEvsLE.csv)"
     },
     {
       "type": "p",
@@ -221,7 +222,8 @@
       "h4": null,
       "h5": null,
       "title": "Healthy life expectancy - Smoking slider",
-      "url": "/visualisations/dvc413/sliders/smoking/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc413/sliders/smoking/index.html",
+      "url_new": "/visualisations/dvc413/sliders/smoking/index.html"
     },
     {
       "type": "p",
@@ -237,7 +239,7 @@
       "h3": "Smoking",
       "h4": null,
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/06/Smoking.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/06/Smoking.csv)"
     },
     {
       "type": "p",
@@ -303,7 +305,8 @@
       "h4": null,
       "h5": null,
       "title": "Healthy life expectancy - Alcohol slider",
-      "url": "/visualisations/dvc413/sliders/alcohol/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc413/sliders/alcohol/index.html",
+      "url_new": "/visualisations/dvc413/sliders/alcohol/index.html"
     },
     {
       "type": "p",
@@ -311,7 +314,7 @@
       "h3": "Alcohol",
       "h4": null,
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/06/Alcohol.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/06/Alcohol.csv)"
     },
     {
       "type": "p",
@@ -377,7 +380,8 @@
       "h4": null,
       "h5": null,
       "title": "Healthy life expectancy - diet slider",
-      "url": "/visualisations/dvc413/sliders/diet/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc413/sliders/diet/index.html",
+      "url_new": "/visualisations/dvc413/sliders/diet/index.html"
     },
     {
       "type": "p",
@@ -385,7 +389,7 @@
       "h3": "Diet",
       "h4": null,
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/06/Diet.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/06/Diet.csv)"
     },
     {
       "type": "p",
@@ -459,7 +463,8 @@
       "h4": null,
       "h5": null,
       "title": "Healthy life expectancy - physical activity slider",
-      "url": "/visualisations/dvc413/sliders/physicalactivity/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc413/sliders/physicalactivity/index.html",
+      "url_new": "/visualisations/dvc413/sliders/physicalactivity/index.html"
     },
     {
       "type": "p",
@@ -467,7 +472,7 @@
       "h3": "Physical activity",
       "h4": null,
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/06/Physical-activity.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/06/Physical-activity.csv)"
     },
     {
       "type": "p",
@@ -509,7 +514,8 @@
       "h4": null,
       "h5": null,
       "title": "HLE Barcode Plots",
-      "url": "/visualisations/dvc413/barcodes/barcode/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc413/barcodes/barcode/index.html",
+      "url_new": "/visualisations/dvc413/barcodes/barcode/index.html"
     },
     {
       "type": "p",
@@ -517,7 +523,7 @@
       "h3": "Find out how your area compares with the rest of England in terms of the lifestyle factors previously listed.",
       "h4": null,
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/06/All-factors-by-area.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/06/All-factors-by-area.csv)"
     },
     {
       "type": "heading",

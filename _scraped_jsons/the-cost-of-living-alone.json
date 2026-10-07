@@ -134,7 +134,8 @@
       "h4": "Gap between the sexes narrows with age",
       "h5": null,
       "title": "Gap between the sexes narrows with age Proportions of one-person households by age and sex, UK, 2017",
-      "url": "/visualisations/dvc602/ownershipsex/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc602/ownershipsex/index.html",
+      "url_new": "/visualisations/dvc602/ownershipsex/index.html"
     },
     {
       "type": "p",
@@ -176,7 +177,8 @@
       "h4": "Marital status varies with age",
       "h5": null,
       "title": "Marital status varies with age Proportions of one-person households by marital status and age, UK, 2017",
-      "url": "/visualisations/dvc602/Stacked-_marital/"
+      "url": "https://www.ons.gov.uk/visualisations/dvc602/Stacked-_marital/",
+      "url_new": "/visualisations/dvc602/Stacked-_marital/"
     },
     {
       "type": "heading",
@@ -219,7 +221,8 @@
       "h4": "Those living alone less likely to be homeowners",
       "h5": null,
       "title": "Those living alone less likely to be homeowners Proportion of households who own their home, by age and household type, UK, 2017",
-      "url": "/visualisations/dvc602/ownershipage/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc602/ownershipage/index.html",
+      "url_new": "/visualisations/dvc602/ownershipage/index.html"
     },
     {
       "type": "heading",
@@ -262,7 +265,8 @@
       "h4": "People living alone spend more on housing costs than those who live with another adult",
       "h5": null,
       "title": "People living alone spend more on housing costs than those who live with another adult Proportion of household disposable income spent on housing costs, by household type, household reference persons aged 25 to 64 years, UK, financial year ending 2018",
-      "url": "/visualisations/dvc602/housing_cost2/chart1/"
+      "url": "https://www.ons.gov.uk/visualisations/dvc602/housing_cost2/chart1/",
+      "url_new": "/visualisations/dvc602/housing_cost2/chart1/"
     },
     {
       "type": "heading",
@@ -305,7 +309,8 @@
       "h4": "One-person households spend more on food and furnishings",
       "h5": null,
       "title": "One-person households spend more on food and furnishings Proportions of disposable income spent on selected goods and services, by household type, household reference persons aged 25 to 64 years, UK, financial year ending 2018",
-      "url": "/visualisations/dvc602/Other%20expenditure%20chart/"
+      "url": "https://www.ons.gov.uk/visualisations/dvc602/Other%20expenditure%20chart/",
+      "url_new": "/visualisations/dvc602/Other%20expenditure%20chart/"
     },
     {
       "type": "p",
@@ -404,7 +409,8 @@
       "h4": "Well-being lowest for those who live alone",
       "h5": null,
       "title": "Well-being lowest for those who live alone Average ratings of personal well-being (out of 10) by household type for people aged 25 to 64 years, UK, 2017",
-      "url": "/visualisations/dvc602/Wellbeing/"
+      "url": "https://www.ons.gov.uk/visualisations/dvc602/Wellbeing/",
+      "url_new": "/visualisations/dvc602/Wellbeing/"
     },
     {
       "type": "p",

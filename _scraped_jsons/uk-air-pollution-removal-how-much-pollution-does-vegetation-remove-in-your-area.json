@@ -123,7 +123,8 @@
       "h4": "Find out how much pollution is removed by vegetation in your area, and how this is valued in avoided health damage costs.",
       "h5": null,
       "title": "Find out how much pollution is removed by vegetation in your area, and how this is valued in avoided health damage costs.",
-      "url": "/visualisations/dvc519/pollution/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc519/pollution/index.html",
+      "url_new": "/visualisations/dvc519/pollution/index.html"
     },
     {
       "type": "heading",
@@ -362,8 +363,9 @@
       "chartbuilder_h3": "Figure 1: Pollution captured and the corresponding monetary value for PM2.5 and other pollutants, 2015",
       "chartbuilder_h4": "United Kingdom",
       "data_uri": "https://www.ons.gov.uk/economy/environmentalaccounts/articles/ukairpollutionremovalhowmuchpollutiondoesvegetationremoveinyourarea/2018-07-30/58e50670",
-      "src": "/_scraped_chartbuilder_imgs/58e50670.png",
-      "local_filename": "58e50670.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/environmentalaccounts/articles/ukairpollutionremovalhowmuchpollutiondoesvegetationremoveinyourarea/2018-07-30/58e50670&width=&hideSource=true",
+      "local_filename": "58e50670.png",
+      "src_new": "/_scraped_chartbuilder_imgs/58e50670.png"
     },
     {
       "type": "p",

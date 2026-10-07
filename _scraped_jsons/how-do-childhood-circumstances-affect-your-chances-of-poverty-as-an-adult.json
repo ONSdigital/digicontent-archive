@@ -96,7 +96,8 @@
       "h4": "Find out how childhood circumstances affect your chances of future poverty",
       "h5": null,
       "title": "Poverty Calculator",
-      "url": "/visualisations/dvc333/content.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc333/content.html",
+      "url_new": "/visualisations/dvc333/content.html"
     },
     {
       "type": "heading",
@@ -227,7 +228,7 @@
       "h3": "Severe material deprivation and educational attainment",
       "h4": null,
       "h5": null,
-      "text": "More information can be found in [Intergenerational Transmission of Disadvantage in the UK and EU. ](/visualisations/20160105160709/http://www.ons.gov.uk/ons/rel/household-income/intergenerational-transmission-of-poverty-in-the-uk---eu/2014/blank.html)"
+      "text": "More information can be found in [Intergenerational Transmission of Disadvantage in the UK and EU. ](http://webarchive.nationalarchives.gov.uk/20160105160709/http://www.ons.gov.uk/ons/rel/household-income/intergenerational-transmission-of-poverty-in-the-uk---eu/2014/blank.html)"
     },
     {
       "type": "heading",
@@ -280,7 +281,7 @@
       "box_h3": null,
       "box_text": "",
       "box_items": [
-        "[Intergenerational transmission of disadvantage in the UK & EU](/visualisations/20160105160709/http://www.ons.gov.uk/ons/rel/household-income/intergenerational-transmission-of-poverty-in-the-uk---eu/2014/blank.html)"
+        "[Intergenerational transmission of disadvantage in the UK & EU](http://webarchive.nationalarchives.gov.uk/20160105160709/http://www.ons.gov.uk/ons/rel/household-income/intergenerational-transmission-of-poverty-in-the-uk---eu/2014/blank.html)"
       ]
     },
     {

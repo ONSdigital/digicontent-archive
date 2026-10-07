@@ -38,8 +38,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations/censusworkforcequalifications/img/preview.png",
-      "alt": null
+      "src": "https://www.ons.gov.uk/visualisations/censusworkforcequalifications/img/preview.png",
+      "alt": null,
+      "src_new": "/visualisations/censusworkforcequalifications/img/preview.png"
     },
     {
       "type": "heading",

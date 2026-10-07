@@ -88,7 +88,8 @@
       "h4": "Explore the interactive map to discover how sports facilities are distributed in your local area",
       "h5": null,
       "title": "Explore the interactive map to discover how sports facilities are distributed in your local area",
-      "url": "/visualisations/dvc2834/sports_msoa/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2834/sports_msoa/index.html",
+      "url_new": "/visualisations/dvc2834/sports_msoa/index.html"
     },
     {
       "type": "heading",
@@ -105,7 +106,8 @@
       "h3": null,
       "h4": "Explore the interactive map to discover how sports facilities are distributed in your local area",
       "h5": "Download this chart",
-      "text": "[.xlsx](/visualisations/dvc2834/sports_msoa/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2834/sports_msoa/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2834/sports_msoa/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -188,7 +190,8 @@
       "h4": "Concentration of sports facilities, excluding grass pitches, by region",
       "h5": null,
       "title": "Concentration of sports facilities by region",
-      "url": "/visualisations/dvc2834/beeswarm_region_sports/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2834/beeswarm_region_sports/index.html",
+      "url_new": "/visualisations/dvc2834/beeswarm_region_sports/index.html"
     },
     {
       "type": "heading",
@@ -205,7 +208,8 @@
       "h3": "Neighbouring disparities in access to sports facilities",
       "h4": "Concentration of sports facilities, excluding grass pitches, by region",
       "h5": "Download this chart",
-      "text": "[.xlsx](/visualisations/dvc2834/beeswarm_region_sports/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2834/beeswarm_region_sports/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2834/beeswarm_region_sports/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -307,7 +311,8 @@
       "h4": "Concentration of large food retail points by country and English regions",
       "h5": null,
       "title": "Concentration of large food retail points by country and English regions ",
-      "url": "/visualisations/dvc2834/beeswarm_region_largesuper/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2834/beeswarm_region_largesuper/index.html",
+      "url_new": "/visualisations/dvc2834/beeswarm_region_largesuper/index.html"
     },
     {
       "type": "heading",
@@ -324,7 +329,8 @@
       "h3": "Supermarket locations are unevenly spread across the country",
       "h4": "Concentration of large food retail points by country and English regions",
       "h5": "Download this chart",
-      "text": "[.xlsx](/visualisations/dvc2834/beeswarm_region_largesuper/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2834/beeswarm_region_largesuper/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2834/beeswarm_region_largesuper/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -386,7 +392,8 @@
       "h4": "Explore how sports facilities, chain supermarkets, and museums are distributed in your area compared with others",
       "h5": null,
       "title": "Explore how sports facilities, chain supermarkets, and museums are distributed in your area compared with others. ",
-      "url": "/visualisations/dvc2834/multimapUK_merged/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2834/multimapUK_merged/index.html",
+      "url_new": "/visualisations/dvc2834/multimapUK_merged/index.html"
     },
     {
       "type": "heading",
@@ -403,7 +410,8 @@
       "h3": "Supermarket locations are unevenly spread across the country",
       "h4": "Explore how sports facilities, chain supermarkets, and museums are distributed in your area compared with others",
       "h5": "Download this chart",
-      "text": "[.xlsx](/visualisations/dvc2834/multimapUK_merged/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2834/multimapUK_merged/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2834/multimapUK_merged/datadownload.xlsx)"
     },
     {
       "type": "heading",

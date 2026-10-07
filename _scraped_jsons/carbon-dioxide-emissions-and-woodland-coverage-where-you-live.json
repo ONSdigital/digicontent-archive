@@ -121,7 +121,8 @@
       "h4": null,
       "h5": "Annual CO2 emissions, kilotonnes per kilometre squared, 2005 to 2019, UK local authority districts",
       "title": "Estimated CO2 emissions per kilometre squared fell by 36% between 2005 and 2019, but vary by area ",
-      "url": "/visualisations/dvc1588/map-emissions-transition/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1588/map-emissions-transition/index.html",
+      "url_new": "/visualisations/dvc1588/map-emissions-transition/index.html"
     },
     {
       "type": "heading",
@@ -146,7 +147,8 @@
       "h3": null,
       "h4": null,
       "h5": "Notes:",
-      "text": "[Download the data for CO2 emissions by local authority district (XLSX, 53KB)](/visualisations/dvc1588/map-emissions-transition/data/datadownload.xlsx)"
+      "text": "[Download the data for CO2 emissions by local authority district (XLSX, 53KB)](https://www.ons.gov.uk/visualisations/dvc1588/map-emissions-transition/data/datadownload.xlsx)",
+      "text_new": "[Download the data for CO2 emissions by local authority district (XLSX, 53KB)](/visualisations/dvc1588/map-emissions-transition/data/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -326,7 +328,8 @@
       "h4": null,
       "h5": "Woodland as a percentage of area, local authority districts, UK, 2019",
       "title": "How much of where you live is covered by woodland? ",
-      "url": "/visualisations/dvc1588/map-trees/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1588/map-trees/index.html",
+      "url_new": "/visualisations/dvc1588/map-trees/index.html"
     },
     {
       "type": "heading",
@@ -359,7 +362,8 @@
       "h3": null,
       "h4": null,
       "h5": "Notes:",
-      "text": "[Download the data for woodland by local authority district (XLSX, 30KB)](/visualisations/dvc1588/map-trees/data/datadownload.xlsx)"
+      "text": "[Download the data for woodland by local authority district (XLSX, 30KB)](https://www.ons.gov.uk/visualisations/dvc1588/map-trees/data/datadownload.xlsx)",
+      "text_new": "[Download the data for woodland by local authority district (XLSX, 30KB)](/visualisations/dvc1588/map-trees/data/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -524,7 +528,8 @@
       "h4": null,
       "h5": "Hectares, thousands, of new woodland planted in the UK, years ending 31 March, 1976 to 2021",
       "title": "Government woodland targets are more than double recent annual planting ",
-      "url": "/visualisations/dvc1588/countries-stacked/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1588/countries-stacked/index.html",
+      "url_new": "/visualisations/dvc1588/countries-stacked/index.html"
     },
     {
       "type": "p",
@@ -532,7 +537,8 @@
       "h3": null,
       "h4": null,
       "h5": "Hectares, thousands, of new woodland planted in the UK, years ending 31 March, 1976 to 2021",
-      "text": "[Download the data for new woodland planting in the UK (XLSX, 12KB)](/visualisations/dvc1588/countries-stacked/datadownload.xlsx)"
+      "text": "[Download the data for new woodland planting in the UK (XLSX, 12KB)](https://www.ons.gov.uk/visualisations/dvc1588/countries-stacked/datadownload.xlsx)",
+      "text_new": "[Download the data for new woodland planting in the UK (XLSX, 12KB)](/visualisations/dvc1588/countries-stacked/datadownload.xlsx)"
     },
     {
       "type": "p",

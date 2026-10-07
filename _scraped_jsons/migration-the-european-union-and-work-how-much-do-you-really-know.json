@@ -152,7 +152,8 @@
       "h4": "Compared with EU14 citizens working in the UK, British nationals resident in the UK are...",
       "h5": null,
       "title": "EU14 citizens working in the UK",
-      "url": "/visualisations/dvc405/eu14/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc405/eu14/index.html",
+      "url_new": "/visualisations/dvc405/eu14/index.html"
     },
     {
       "type": "p",
@@ -160,7 +161,7 @@
       "h3": null,
       "h4": "Compared with EU14 citizens working in the UK, British nationals resident in the UK are...",
       "h5": null,
-      "text": "[Data download](/visualisations//visual/2017/04/EU14-data-download.xls)"
+      "text": "[Data download](https://static.ons.gov.uk/visual/2017/04/EU14-data-download.xls)"
     },
     {
       "type": "p",
@@ -194,7 +195,8 @@
       "h4": "Compared with UK nationals working in the UK, Bulgarian and Romanian nationals working in the UK are ...",
       "h5": null,
       "title": "Bulgarian and Romanian nationals working in the UK",
-      "url": "/visualisations/dvc405/a2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc405/a2/index.html",
+      "url_new": "/visualisations/dvc405/a2/index.html"
     },
     {
       "type": "p",
@@ -202,7 +204,7 @@
       "h3": null,
       "h4": "Compared with UK nationals working in the UK, Bulgarian and Romanian nationals working in the UK are ...",
       "h5": null,
-      "text": "[Data download](/visualisations//visual/2017/07/EU2-data-download.xls)"
+      "text": "[Data download](https://static.ons.gov.uk/visual/2017/07/EU2-data-download.xls)"
     },
     {
       "type": "p",
@@ -236,7 +238,8 @@
       "h4": "Compared with UK nationals working in the UK, EU8 nationals working in the UK are ...",
       "h5": null,
       "title": "EU8 nationals working in the UK",
-      "url": "/visualisations/dvc405/eu8/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc405/eu8/index.html",
+      "url_new": "/visualisations/dvc405/eu8/index.html"
     },
     {
       "type": "p",
@@ -270,7 +273,8 @@
       "h4": "Compared with UK nationals working in the UK, migrants from outside the EU working in the UK are...",
       "h5": null,
       "title": "Migrants from outside the EU",
-      "url": "/visualisations/dvc405/outsideeu/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc405/outsideeu/index.html",
+      "url_new": "/visualisations/dvc405/outsideeu/index.html"
     },
     {
       "type": "p",
@@ -278,7 +282,7 @@
       "h3": null,
       "h4": "Compared with UK nationals working in the UK, migrants from outside the EU working in the UK are...",
       "h5": null,
-      "text": "[Data download](/visualisations//visual/2017/07/OUTSIDE-EU-data-download.csv)"
+      "text": "[Data download](https://static.ons.gov.uk/visual/2017/07/OUTSIDE-EU-data-download.csv)"
     },
     {
       "type": "heading",
@@ -378,7 +382,8 @@
       "h4": "A worker from the EU14 is most likely to…",
       "h5": null,
       "title": "Key migrant employment facts",
-      "url": "/visualisations/dvc405/migrationprofiles/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc405/migrationprofiles/index.html",
+      "url_new": "/visualisations/dvc405/migrationprofiles/index.html"
     },
     {
       "type": "heading",
@@ -494,7 +499,7 @@
       "h3": "Other Visual.ONS articles:",
       "h4": null,
       "h5": null,
-      "text": "[Commonwealth trade in focus](https://www.ons.gov.uk/businessindustryandtrade/internationaltrade/articles/commonwealthtradeinfocusasukpreparesforbrexit/2017-03-09) [Who does the UK trade with?](/visualisations/20170726163612/https://visual.ons.gov.uk/uk-trade-partners/) [Understanding the UK economy](https://www.ons.gov.uk/economy/nationalaccounts/articles/dashboardunderstandingtheukeconomy/2017-02-22)"
+      "text": "[Commonwealth trade in focus](https://www.ons.gov.uk/businessindustryandtrade/internationaltrade/articles/commonwealthtradeinfocusasukpreparesforbrexit/2017-03-09) [Who does the UK trade with?](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/uk-trade-partners/) [Understanding the UK economy](https://www.ons.gov.uk/economy/nationalaccounts/articles/dashboardunderstandingtheukeconomy/2017-02-22)"
     },
     {
       "type": "p",

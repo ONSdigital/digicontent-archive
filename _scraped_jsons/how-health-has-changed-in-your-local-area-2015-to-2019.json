@@ -118,7 +118,8 @@
       "h4": null,
       "h5": null,
       "title": "Robojournalism",
-      "url": "/visualisations/dvc1648/robojournalism/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1648/robojournalism/index.html",
+      "url_new": "/visualisations/dvc1648/robojournalism/index.html"
     },
     {
       "type": "p",
@@ -126,7 +127,8 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[Download Health Index data across local authority areas in England (XLSX, 784KB)](/visualisations/dvc1648/robojournalism/datadownload.xlsx)"
+      "text": "[Download Health Index data across local authority areas in England (XLSX, 784KB)](https://www.ons.gov.uk/visualisations/dvc1648/robojournalism/datadownload.xlsx)",
+      "text_new": "[Download Health Index data across local authority areas in England (XLSX, 784KB)](/visualisations/dvc1648/robojournalism/datadownload.xlsx)"
     },
     {
       "type": "heading",

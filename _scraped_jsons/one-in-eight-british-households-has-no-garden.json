@@ -127,7 +127,8 @@
       "h4": "People from minority ethnic groups are less likely to have access to a private garden",
       "h5": "Percentage of people with access to a private garden, by ethnic group, England, 2014 to 2019",
       "title": "Interactive chart",
-      "url": "/visualisations/dvc817/greenspace/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc817/greenspace/index.html",
+      "url_new": "/visualisations/dvc817/greenspace/index.html"
     },
     {
       "type": "p",
@@ -221,7 +222,8 @@
       "h4": "Explore access to gardens (and their typical size) in your neighbourhood",
       "h5": null,
       "title": "Map",
-      "url": "/visualisations/dvc817/map/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc817/map/index.html",
+      "url_new": "/visualisations/dvc817/map/index.html"
     },
     {
       "type": "p",
@@ -305,8 +307,9 @@
       "chartbuilder_h3": "London has the highest percentage of its population within easy reach of a public park",
       "chartbuilder_h4": "Percentage of population within five minutes walking distance of a park or playing field, by region and country of Great Britain",
       "data_uri": "https://www.ons.gov.uk/economy/environmentalaccounts/articles/oneineightbritishhouseholdshasnogarden/2020-05-14/7ffa8e48",
-      "src": "/_scraped_chartbuilder_imgs/7ffa8e48.png",
-      "local_filename": "7ffa8e48.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/environmentalaccounts/articles/oneineightbritishhouseholdshasnogarden/2020-05-14/7ffa8e48&width=&hideSource=true",
+      "local_filename": "7ffa8e48.png",
+      "src_new": "/_scraped_chartbuilder_imgs/7ffa8e48.png"
     },
     {
       "type": "p",
@@ -371,7 +374,8 @@
       "h4": null,
       "h5": null,
       "title": "Access to parks",
-      "url": "/visualisations/dvc817/parks/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc817/parks/index.html",
+      "url_new": "/visualisations/dvc817/parks/index.html"
     },
     {
       "type": "p",

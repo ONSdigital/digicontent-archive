@@ -101,7 +101,8 @@
       "h4": "While some industries shrank by up to 90% in April and May, others recorded marginal growth\n",
       "h5": "Percentage change in monthly output compared with the same month in the previous year, UK",
       "title": "While some industries shrank by up to 90% in April and May, others recorded marginal growth",
-      "url": "/visualisations/dvc1080/fig1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1080/fig1/index.html",
+      "url_new": "/visualisations/dvc1080/fig1/index.html"
     },
     {
       "type": "heading",
@@ -126,7 +127,8 @@
       "h3": null,
       "h4": "While some industries shrank by up to 90% in April and May, others recorded marginal growth\n",
       "h5": "Notes:",
-      "text": "[Data download](/visualisations/dvc1080/fig1/datadownload.xlsx)"
+      "text": "[Data download](https://www.ons.gov.uk/visualisations/dvc1080/fig1/datadownload.xlsx)",
+      "text_new": "[Data download](/visualisations/dvc1080/fig1/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -202,8 +204,9 @@
       "chartbuilder_h3": "Online sales are growing again following a dip after shops reopened in June",
       "chartbuilder_h4": "Internet sales as a percentage of total sales (ratio), seasonally adjusted, Great Britain, January 2008 to October 2020",
       "data_uri": "https://www.ons.gov.uk/economy/economicoutputandproductivity/output/articles/theimpactofthecoronavirussofartheindustriesthatstruggledorrecovered/2020-12-09/04c0c2b9",
-      "src": "/_scraped_chartbuilder_imgs/04c0c2b9.png",
-      "local_filename": "04c0c2b9.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/economicoutputandproductivity/output/articles/theimpactofthecoronavirussofartheindustriesthatstruggledorrecovered/2020-12-09/04c0c2b9&width=&hideSource=true",
+      "local_filename": "04c0c2b9.png",
+      "src_new": "/_scraped_chartbuilder_imgs/04c0c2b9.png"
     },
     {
       "type": "heading",
@@ -272,7 +275,8 @@
       "h4": "Non-specialised food stores and dispensing chemists experienced growth in sales volumes in March, with sales remaining above February levels ever since",
       "h5": "Volume sales: Index Feb 2020 = 100",
       "title": "Non-specialised food stores and dispensing chemists experienced growth in sales volumes in March, with sales remaining above February levels ever since",
-      "url": "/visualisations/dvc1080/fig3/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1080/fig3/index.html",
+      "url_new": "/visualisations/dvc1080/fig3/index.html"
     },
     {
       "type": "p",
@@ -280,7 +284,8 @@
       "h3": null,
       "h4": "Non-specialised food stores and dispensing chemists experienced growth in sales volumes in March, with sales remaining above February levels ever since",
       "h5": "Volume sales: Index Feb 2020 = 100",
-      "text": "[Data download](/visualisations/dvc1080/fig3/datadownload.xlsx)"
+      "text": "[Data download](https://www.ons.gov.uk/visualisations/dvc1080/fig3/datadownload.xlsx)",
+      "text_new": "[Data download](/visualisations/dvc1080/fig3/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -340,7 +345,8 @@
       "h4": "Turnover in the camping sub-industry surpassed levels seen a year ago, likely reflecting a boost from domestic holidays",
       "h5": "Indexed seasonally adjusted total turnover, Great Britain, January 2019 to September 2020",
       "title": "Turnover in the camping sub-industry surpassed levels seen a year ago, likely reflecting a boost from domestic holidays",
-      "url": "/visualisations/dvc1080/fig4/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1080/fig4/index.html",
+      "url_new": "/visualisations/dvc1080/fig4/index.html"
     },
     {
       "type": "p",
@@ -348,7 +354,8 @@
       "h3": null,
       "h4": "Turnover in the camping sub-industry surpassed levels seen a year ago, likely reflecting a boost from domestic holidays",
       "h5": "Indexed seasonally adjusted total turnover, Great Britain, January 2019 to September 2020",
-      "text": "[Data download](/visualisations/dvc1080/fig4/datadownload.xlsx)"
+      "text": "[Data download](https://www.ons.gov.uk/visualisations/dvc1080/fig4/datadownload.xlsx)",
+      "text_new": "[Data download](/visualisations/dvc1080/fig4/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -408,7 +415,8 @@
       "h4": "Clothing and footwear sales have still not recovered to pre-pandemic levels",
       "h5": "Indexed volume sales seasonally adjusted, Great Britain, February to October 2020",
       "title": "Clothing and footwear sales have still not recovered to pre-pandemic levels",
-      "url": "/visualisations/dvc1080/fig5/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1080/fig5/index.html",
+      "url_new": "/visualisations/dvc1080/fig5/index.html"
     },
     {
       "type": "p",
@@ -416,7 +424,8 @@
       "h3": null,
       "h4": "Clothing and footwear sales have still not recovered to pre-pandemic levels",
       "h5": "Indexed volume sales seasonally adjusted, Great Britain, February to October 2020",
-      "text": "[Data download](/visualisations/dvc1080/fig5/datadownload.xlsx)"
+      "text": "[Data download](https://www.ons.gov.uk/visualisations/dvc1080/fig5/datadownload.xlsx)",
+      "text_new": "[Data download](/visualisations/dvc1080/fig5/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -468,8 +477,9 @@
       "chartbuilder_h3": "Since March 2020, larger services businesses outperformed SMEs in terms of turnover",
       "chartbuilder_h4": "Indexed seasonally adjusted turnover by Monthly Business Survey (MBS) size band, Great Britain, January 2019 to September 2020",
       "data_uri": "https://www.ons.gov.uk/economy/economicoutputandproductivity/output/articles/theimpactofthecoronavirussofartheindustriesthatstruggledorrecovered/2020-12-09/2ded25c5",
-      "src": "/_scraped_chartbuilder_imgs/2ded25c5.png",
-      "local_filename": "2ded25c5.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/economicoutputandproductivity/output/articles/theimpactofthecoronavirussofartheindustriesthatstruggledorrecovered/2020-12-09/2ded25c5&width=&hideSource=true",
+      "local_filename": "2ded25c5.png",
+      "src_new": "/_scraped_chartbuilder_imgs/2ded25c5.png"
     },
     {
       "type": "p",
@@ -496,8 +506,9 @@
       "chartbuilder_h3": "There does not appear to be a notable difference in turnover performance of SMEs and larger manufacturing firms since the start of the pandemic",
       "chartbuilder_h4": "Indexed seasonally adjusted turnover by MBS size band, Great Britain, January 2019 to September 2020",
       "data_uri": "https://www.ons.gov.uk/economy/economicoutputandproductivity/output/articles/theimpactofthecoronavirussofartheindustriesthatstruggledorrecovered/2020-12-09/9641f34c",
-      "src": "/_scraped_chartbuilder_imgs/9641f34c.png",
-      "local_filename": "9641f34c.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/economicoutputandproductivity/output/articles/theimpactofthecoronavirussofartheindustriesthatstruggledorrecovered/2020-12-09/9641f34c&width=&hideSource=true",
+      "local_filename": "9641f34c.png",
+      "src_new": "/_scraped_chartbuilder_imgs/9641f34c.png"
     },
     {
       "type": "heading",
@@ -574,7 +585,8 @@
       "h4": "Cinema turnover remains depressed, reflecting closures as part of measures to reduce virus transmission",
       "h5": "Volume sales: Index 2018 = 100",
       "title": "Cinema turnover remains depressed, reflecting closures as part of measures to reduce virus transmission",
-      "url": "/visualisations/dvc1080/fig8/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1080/fig8/index.html",
+      "url_new": "/visualisations/dvc1080/fig8/index.html"
     },
     {
       "type": "p",
@@ -582,7 +594,8 @@
       "h3": null,
       "h4": "Cinema turnover remains depressed, reflecting closures as part of measures to reduce virus transmission",
       "h5": "Volume sales: Index 2018 = 100",
-      "text": "[Data download](/visualisations/dvc1080/fig8/datadownload.xlsx)"
+      "text": "[Data download](https://www.ons.gov.uk/visualisations/dvc1080/fig8/datadownload.xlsx)",
+      "text_new": "[Data download](/visualisations/dvc1080/fig8/datadownload.xlsx)"
     },
     {
       "type": "box",

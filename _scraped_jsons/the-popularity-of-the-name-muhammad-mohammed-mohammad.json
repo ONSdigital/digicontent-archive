@@ -117,7 +117,8 @@
       "h4": "Number of baby girls named Amelia, Sophie, Sofia or Sophia and Sophie, Sofia and Sophia combined, England and Wales, 2015 ",
       "h5": null,
       "title": "Number of baby girls namedÂ� Amelia, Sophie, Sofia or Sophia and Sophie, Sofia and Sophia combined, England and Wales, 2015 Â�",
-      "url": "/visualisations/dvc363/fig3/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc363/fig3/index.html",
+      "url_new": "/visualisations/dvc363/fig3/index.html"
     },
     {
       "type": "p",
@@ -192,7 +193,8 @@
       "h4": "Rank of Mohammed, Mohammad, Muhammad and Mohamed in England and Wales for every ten years between 1904 and 1994 and for every year from 1996 onwards",
       "h5": null,
       "title": "Interactive chart",
-      "url": "/visualisations/dvc363/babyindex_noheader.html#0,Mohammed,Mohammad,Muhammad,Mohamed"
+      "url": "https://www.ons.gov.uk/visualisations/dvc363/babyindex_noheader.html#0,Mohammed,Mohammad,Muhammad,Mohamed",
+      "url_new": "/visualisations/dvc363/babyindex_noheader.html#0,Mohammed,Mohammad,Muhammad,Mohamed"
     },
     {
       "type": "heading",
@@ -326,7 +328,7 @@
       "h3": "Why are Muhammad/Mohammed/Mohammad rising up the rankings?",
       "h4": "Other visual.ONS articles:",
       "h5": null,
-      "text": "[Baby names since 1904: How has yours performed?](/visualisations/20170726163612/https://visual.ons.gov.uk/baby-names-since-1904-how-has-yours-performed)"
+      "text": "[Baby names since 1904: How has yours performed?](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/baby-names-since-1904-how-has-yours-performed)"
     },
     {
       "type": "heading",
@@ -343,7 +345,7 @@
       "h3": "Why are Muhammad/Mohammed/Mohammad rising up the rankings?",
       "h4": "Notes",
       "h5": null,
-      "text": "You can [download](/visualisations/20170726163612/https://visual.ons.gov.uk/baby-names-data-download-1904-to-1994/) the top 100 names given to baby boys and girls for every ten years from 1904 to 1994.\n You can also download the count and rank of the names given to three or more baby [boys](/visualisations//visual/2016/09/baby-boys-1996-to-2015-rank-and-count.csv) and [girls](/visualisations//visual/2016/09/baby-girls-1996-to-2015-rank-and-count.csv) from 1996 to 2015.\n You can also access the data from the statistical bulletins on baby names given to [boys](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsboys) and [girls](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsgirls) from 1996 to 2015."
+      "text": "You can [download](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/baby-names-data-download-1904-to-1994/) the top 100 names given to baby boys and girls for every ten years from 1904 to 1994.\n You can also download the count and rank of the names given to three or more baby [boys](https://static.ons.gov.uk/visual/2016/09/baby-boys-1996-to-2015-rank-and-count.csv) and [girls](https://static.ons.gov.uk/visual/2016/09/baby-girls-1996-to-2015-rank-and-count.csv) from 1996 to 2015.\n You can also access the data from the statistical bulletins on baby names given to [boys](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsboys) and [girls](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsgirls) from 1996 to 2015."
     },
     {
       "type": "p",

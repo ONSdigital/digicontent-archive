@@ -46,7 +46,7 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "This article is part of a series of [UK Perspectives](/visualisations/20170726163612/https://visual.ons.gov.uk/introducing-uk-perspectives-2016) providing an overview of the social and economic changes of the nation over the last three decades. It presents some key statistics relating to personal and household finances."
+      "text": "This article is part of a series of [UK Perspectives](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/introducing-uk-perspectives-2016) providing an overview of the social and economic changes of the nation over the last three decades. It presents some key statistics relating to personal and household finances."
     },
     {
       "type": "heading",
@@ -100,7 +100,8 @@
       "h4": "Real Gross Household (only) Disposable Income (RHDI) per head, UK, 1997 to 2015",
       "h5": null,
       "title": "Real Gross Household (only) Disposable Income (RHDI) per head, UK, 1997 to 2015",
-      "url": "/visualisations/nesscontent/dvc338/Finance_Chart1/Finance_Chart1.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc338/Finance_Chart1/Finance_Chart1.html",
+      "url_new": "/visualisations/nesscontent/dvc338/Finance_Chart1/Finance_Chart1.html"
     },
     {
       "type": "p",
@@ -108,7 +109,7 @@
       "h3": "1. The trend of rising household income has levelled off since 2007",
       "h4": "Real Gross Household (only) Disposable Income (RHDI) per head, UK, 1997 to 2015",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2016/05/Fig-1-RHDI-per-head-household-only.csv)."
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2016/05/Fig-1-RHDI-per-head-household-only.csv)."
     },
     {
       "type": "p",
@@ -170,7 +171,8 @@
       "h4": "Median equivalised household disposable income2, UK, 1977 to financial year ending 20153",
       "h5": null,
       "title": "Real equivalised household disposable income of UK households, 1980-2012/13",
-      "url": "/visualisations/nesscontent/dvc338/Finance_Chart2/Finance_Chart2.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc338/Finance_Chart2/Finance_Chart2.html",
+      "url_new": "/visualisations/nesscontent/dvc338/Finance_Chart2/Finance_Chart2.html"
     },
     {
       "type": "p",
@@ -240,7 +242,8 @@
       "h4": "Percentage of people living in relative low income, UK, financial year ending 1999 to financial year ending 2014 ",
       "h5": null,
       "title": "Percentage of people living in relative low income, UK, financial year ending 1999 to financial year ending 2014Â�",
-      "url": "/visualisations/nesscontent/dvc338/Finance_Chart3/Finance_Chart3.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc338/Finance_Chart3/Finance_Chart3.html",
+      "url_new": "/visualisations/nesscontent/dvc338/Finance_Chart3/Finance_Chart3.html"
     },
     {
       "type": "p",
@@ -331,7 +334,8 @@
       "h4": "Annual growth rates in average weekly regular pay in Great Britain and the UK Consumer Prices Index (CPI), 2001 to 2016",
       "h5": null,
       "title": "Annual growth rates in average weekly regular pay in Great Britain and the UK Consumer Prices Index (CPI), 2001 to 2016",
-      "url": "/visualisations/nesscontent/dvc338/Finance_Chart4/Finance_Chart4.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc338/Finance_Chart4/Finance_Chart4.html",
+      "url_new": "/visualisations/nesscontent/dvc338/Finance_Chart4/Finance_Chart4.html"
     },
     {
       "type": "p",
@@ -373,7 +377,8 @@
       "h4": null,
       "h5": null,
       "title": "Interactive chart - UK in a European context",
-      "url": "/visualisations/nesscontent/dvc338/Finance_Chart5/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc338/Finance_Chart5/index.html",
+      "url_new": "/visualisations/nesscontent/dvc338/Finance_Chart5/index.html"
     },
     {
       "type": "p",
@@ -381,7 +386,7 @@
       "h3": "5. Household spending decreased between 2006 and 2014",
       "h4": null,
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2016/05/New-Data-for-figure-5.xlsx)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2016/05/New-Data-for-figure-5.xlsx)"
     },
     {
       "type": "p",
@@ -440,7 +445,8 @@
       "h4": "Percentage of household disposable income7, spent on energy8, UK, financial year ending 2002 to 2014",
       "h5": null,
       "title": "Disposable income spent on energy increases over time",
-      "url": "/visualisations/nesscontent/dvc338/Finance_Chart6/Finance_Chart6.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc338/Finance_Chart6/Finance_Chart6.html",
+      "url_new": "/visualisations/nesscontent/dvc338/Finance_Chart6/Finance_Chart6.html"
     },
     {
       "type": "p",
@@ -448,7 +454,7 @@
       "h3": "6. Household energy spending and fuel poverty",
       "h4": "Percentage of household disposable income7, spent on energy8, UK, financial year ending 2002 to 2014",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2016/05/Fig-6-Disposable-income-spent-on-household-energy.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2016/05/Fig-6-Disposable-income-spent-on-household-energy.csv)"
     },
     {
       "type": "p",
@@ -624,7 +630,7 @@
         "[Fuel poverty statistics](https://www.gov.uk/government/statistics/annual-fuel-poverty-statistics-report-2015)",
         "[Quarterly energy prices](https://www.gov.uk/government/statistics/quarterly-energy-prices-march-2016)",
         "[Wealth and assets](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/compendium/wealthingreatbritainwave4/2012to2014)",
-        "[Household spending](/visualisations/20160105160709/https://visual.ons.gov.uk/interactive-how-much-do-households-spend-per-week/)"
+        "[Household spending](http://webarchive.nationalarchives.gov.uk/20160105160709/https://visual.ons.gov.uk/interactive-how-much-do-households-spend-per-week/)"
       ]
     },
     {

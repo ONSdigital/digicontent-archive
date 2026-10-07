@@ -178,7 +178,8 @@
       "h4": "Homes built since 2012 are much more likely to have a high energy efficiency than older homes",
       "h5": "Odds ratios comparing the likelihood of a home having an EPC rating of C or higher by age of dwelling, England and Wales",
       "title": "Homes built since 2012 are much more likely to have a high energy efficiency than older homes",
-      "url": "/visualisations/dvc1710/fig1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1710/fig1/index.html",
+      "url_new": "/visualisations/dvc1710/fig1/index.html"
     },
     {
       "type": "p",
@@ -186,7 +187,8 @@
       "h3": "Homes built before 1900 are least likely to be energy efficient",
       "h4": "Homes built since 2012 are much more likely to have a high energy efficiency than older homes",
       "h5": "Odds ratios comparing the likelihood of a home having an EPC rating of C or higher by age of dwelling, England and Wales",
-      "text": "[Download the data odds ratios of a home having an EPC rating \"C\" or higher (XLSX, 67KB)](/visualisations/dvc1710/fig1/datadownload.xlsx)"
+      "text": "[Download the data odds ratios of a home having an EPC rating \"C\" or higher (XLSX, 67KB)](https://www.ons.gov.uk/visualisations/dvc1710/fig1/datadownload.xlsx)",
+      "text_new": "[Download the data odds ratios of a home having an EPC rating \"C\" or higher (XLSX, 67KB)](/visualisations/dvc1710/fig1/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -262,7 +264,8 @@
       "h4": "Detached houses are less likely than other property types to have a high energy efficiency rating",
       "h5": "Odds ratios comparing the likelihood of a home having an EPC rating of C or higher by different characteristics, England and Wales",
       "title": "Detached houses are less likely than other property types to have a high energy efficiency rating",
-      "url": "/visualisations/dvc1710/fig2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1710/fig2/index.html",
+      "url_new": "/visualisations/dvc1710/fig2/index.html"
     },
     {
       "type": "heading",
@@ -287,7 +290,8 @@
       "h3": "Homes built before 1900 are least likely to be energy efficient",
       "h4": "Detached houses are less likely than other property types to have a high energy efficiency rating",
       "h5": "Notes",
-      "text": "[Download the data for odds ratios comparing the likelihood of homes being rated EPC \"C\" or higher (XLSX, 68KB)](/visualisations/dvc1710/fig2/datadownload.xlsx)"
+      "text": "[Download the data for odds ratios comparing the likelihood of homes being rated EPC \"C\" or higher (XLSX, 68KB)](https://www.ons.gov.uk/visualisations/dvc1710/fig2/datadownload.xlsx)",
+      "text_new": "[Download the data for odds ratios comparing the likelihood of homes being rated EPC \"C\" or higher (XLSX, 68KB)](/visualisations/dvc1710/fig2/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -331,8 +335,9 @@
       "chartbuilder_h3": "A fifth of homes in Wales were built before 1900",
       "chartbuilder_h4": "Dwellings in English regions and Wales, by build period, 2021",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/ageofthepropertyisthebiggestsinglefactorinenergyefficiencyofhomes/2021-11-01/d8f5a8c3",
-      "src": "/_scraped_chartbuilder_imgs/d8f5a8c3.png",
-      "local_filename": "d8f5a8c3.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/housing/articles/ageofthepropertyisthebiggestsinglefactorinenergyefficiencyofhomes/2021-11-01/d8f5a8c3&width=&hideSource=true",
+      "local_filename": "d8f5a8c3.png",
+      "src_new": "/_scraped_chartbuilder_imgs/d8f5a8c3.png"
     },
     {
       "type": "p",
@@ -349,7 +354,8 @@
       "h4": null,
       "h5": null,
       "title": "Explore the energy efficiency of homes in your area",
-      "url": "/visualisations/dvc1628/fig1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1628/fig1/index.html",
+      "url_new": "/visualisations/dvc1628/fig1/index.html"
     },
     {
       "type": "p",
@@ -357,7 +363,8 @@
       "h3": "Welsh energy efficiency affected by high proportion of older homes",
       "h4": null,
       "h5": null,
-      "text": "[Download the data for homes with an EPC band C or higher, by LSOA (XLSX, 486KB)](/visualisations/dvc1628/fig1/datadownload.xlsx)"
+      "text": "[Download the data for homes with an EPC band C or higher, by LSOA (XLSX, 486KB)](https://www.ons.gov.uk/visualisations/dvc1628/fig1/datadownload.xlsx)",
+      "text_new": "[Download the data for homes with an EPC band C or higher, by LSOA (XLSX, 486KB)](/visualisations/dvc1628/fig1/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -393,8 +400,9 @@
       "chartbuilder_h3": "Eight of the ten local authorities with the highest proportion of efficient homes are in London",
       "chartbuilder_h4": "Proportion of homes rated EPC C or higher, by local authority, England and Wales, financial year ending March 2021",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/ageofthepropertyisthebiggestsinglefactorinenergyefficiencyofhomes/2021-11-01/22ca743a",
-      "src": "/_scraped_chartbuilder_imgs/22ca743a.png",
-      "local_filename": "22ca743a.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/housing/articles/ageofthepropertyisthebiggestsinglefactorinenergyefficiencyofhomes/2021-11-01/22ca743a&width=&hideSource=true",
+      "local_filename": "22ca743a.png",
+      "src_new": "/_scraped_chartbuilder_imgs/22ca743a.png"
     },
     {
       "type": "p",
@@ -462,8 +470,9 @@
       "chartbuilder_h3": "The most common reason for not considering improving energy efficiency was believing the home was already efficient enough",
       "chartbuilder_h4": "Barriers to improving energy efficiency of home, adults who are not considering improving their home’s energy efficiency, Great Britain, 22 September to 3 October 2021",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/ageofthepropertyisthebiggestsinglefactorinenergyefficiencyofhomes/2021-11-01/7c209447",
-      "src": "/_scraped_chartbuilder_imgs/7c209447.png",
-      "local_filename": "7c209447.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/housing/articles/ageofthepropertyisthebiggestsinglefactorinenergyefficiencyofhomes/2021-11-01/7c209447&width=&hideSource=true",
+      "local_filename": "7c209447.png",
+      "src_new": "/_scraped_chartbuilder_imgs/7c209447.png"
     },
     {
       "type": "p",
@@ -530,8 +539,9 @@
       "chartbuilder_h3": "Improving insulation was the most common consideration among people thinking about upgrading their home’s energy efficiency",
       "chartbuilder_h4": "Changes being considered to upgrade the energy efficiency of homes, of adults considering improvements, Great Britain, 22 September to 3 October 2021",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/ageofthepropertyisthebiggestsinglefactorinenergyefficiencyofhomes/2021-11-01/942ad3a7",
-      "src": "/_scraped_chartbuilder_imgs/942ad3a7.png",
-      "local_filename": "942ad3a7.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/housing/articles/ageofthepropertyisthebiggestsinglefactorinenergyefficiencyofhomes/2021-11-01/942ad3a7&width=&hideSource=true",
+      "local_filename": "942ad3a7.png",
+      "src_new": "/_scraped_chartbuilder_imgs/942ad3a7.png"
     },
     {
       "type": "heading",

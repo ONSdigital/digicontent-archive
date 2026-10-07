@@ -132,7 +132,8 @@
       "h4": null,
       "h5": null,
       "title": "How well are you doing compared with other young people?",
-      "url": "/visualisations/dvc548/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc548/index.html",
+      "url_new": "/visualisations/dvc548/index.html"
     },
     {
       "type": "p",
@@ -140,7 +141,8 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc548/downloadthedata.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc548/downloadthedata.csv)",
+      "text_new": "[Download the data](/visualisations/dvc548/downloadthedata.csv)"
     },
     {
       "type": "heading",

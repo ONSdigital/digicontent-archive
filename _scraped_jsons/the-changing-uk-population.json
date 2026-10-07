@@ -58,7 +58,7 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "Part of a [series of UK Perspectives](/visualisations/20170726163612/https://visual.ons.gov.uk/uk-perspectives-an-introduction/) providing an overview of key aspects of the nation over the last three decades, this article presents some key statistics relating to the changing UK population."
+      "text": "Part of a [series of UK Perspectives](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/uk-perspectives-an-introduction/) providing an overview of key aspects of the nation over the last three decades, this article presents some key statistics relating to the changing UK population."
     },
     {
       "type": "heading",
@@ -93,7 +93,8 @@
       "h4": "Mid-year population estimates for the UK, 1980 to 2013",
       "h5": null,
       "title": "Mid-year population estimates for the UK, 1980 to 2013",
-      "url": "/visualisations/nesscontent/dvc222/Pop_Chart1/Pop_Chart1.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc222/Pop_Chart1/Pop_Chart1.html",
+      "url_new": "/visualisations/nesscontent/dvc222/Pop_Chart1/Pop_Chart1.html"
     },
     {
       "type": "p",
@@ -101,7 +102,7 @@
       "h3": null,
       "h4": "Mid-year population estimates for the UK, 1980 to 2013",
       "h5": null,
-      "text": "[download the data](/visualisations//visual/2015/01/Pop_Chart1.csv)"
+      "text": "[download the data](https://static.ons.gov.uk/visual/2015/01/Pop_Chart1.csv)"
     },
     {
       "type": "p",
@@ -144,7 +145,8 @@
       "h4": "Factors driving UK population change, mid-year estimates, 1992 to 20131",
       "h5": null,
       "title": "Factors driving UK population change, mid-year estimates, 1992 to 2013<sup>1<\/sup>",
-      "url": "/visualisations/nesscontent/dvc222/Pop_Chart2/Pop_Chart2.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc222/Pop_Chart2/Pop_Chart2.html",
+      "url_new": "/visualisations/nesscontent/dvc222/Pop_Chart2/Pop_Chart2.html"
     },
     {
       "type": "p",
@@ -152,7 +154,7 @@
       "h3": null,
       "h4": "Factors driving UK population change, mid-year estimates, 1992 to 20131",
       "h5": null,
-      "text": "[download the data](/visualisations//visual/2015/01/Pop_Chart21.csv)"
+      "text": "[download the data](https://static.ons.gov.uk/visual/2015/01/Pop_Chart21.csv)"
     },
     {
       "type": "p",
@@ -219,7 +221,8 @@
       "h4": "Cohort life expectancy at birth, UK, 1980 to 2037",
       "h5": null,
       "title": "Cohort life expectancy at birth, UK, 1980 to 2037",
-      "url": "/visualisations/nesscontent/dvc222/Pop_Chart3/Pop_Chart3.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc222/Pop_Chart3/Pop_Chart3.html",
+      "url_new": "/visualisations/nesscontent/dvc222/Pop_Chart3/Pop_Chart3.html"
     },
     {
       "type": "p",
@@ -227,7 +230,7 @@
       "h3": null,
       "h4": "Cohort life expectancy at birth, UK, 1980 to 2037",
       "h5": null,
-      "text": "[download the data](/visualisations//visual/2015/01/Pop_Chart3.csv)"
+      "text": "[download the data](https://static.ons.gov.uk/visual/2015/01/Pop_Chart3.csv)"
     },
     {
       "type": "p",
@@ -305,7 +308,8 @@
       "h4": "Old age dependency ratio (OADR), UK, 1980 to 2037 3,4,5 ",
       "h5": null,
       "title": "Old age dependency ratio (OADR),Â� UK, 1980 to 2037 <sup>3,4,5<\/sup>Â�",
-      "url": "/visualisations/nesscontent/dvc222/Pop_Chart4/Pop_Chart4.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc222/Pop_Chart4/Pop_Chart4.html",
+      "url_new": "/visualisations/nesscontent/dvc222/Pop_Chart4/Pop_Chart4.html"
     },
     {
       "type": "p",
@@ -313,7 +317,7 @@
       "h3": null,
       "h4": "Old age dependency ratio (OADR), UK, 1980 to 2037 3,4,5 ",
       "h5": null,
-      "text": "[download the data](/visualisations//visual/2014/12/Pop_Chart4.csv)"
+      "text": "[download the data](https://static.ons.gov.uk/visual/2014/12/Pop_Chart4.csv)"
     },
     {
       "type": "p",
@@ -364,7 +368,8 @@
       "h4": "UK residents aged 90 and over per 100,000 UK residents, 1983 to 2013",
       "h5": null,
       "title": "UK residents aged 90 and over per 100,000 UK residents, 1983 toÂ� 2013",
-      "url": "/visualisations/nesscontent/dvc222/Pop_Chart5/Pop_Chart5.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc222/Pop_Chart5/Pop_Chart5.html",
+      "url_new": "/visualisations/nesscontent/dvc222/Pop_Chart5/Pop_Chart5.html"
     },
     {
       "type": "p",
@@ -372,7 +377,7 @@
       "h3": null,
       "h4": "UK residents aged 90 and over per 100,000 UK residents, 1983 to 2013",
       "h5": null,
-      "text": "[download the data](/visualisations//visual/2015/01/Pop_Chart5.csv)"
+      "text": "[download the data](https://static.ons.gov.uk/visual/2015/01/Pop_Chart5.csv)"
     },
     {
       "type": "p",

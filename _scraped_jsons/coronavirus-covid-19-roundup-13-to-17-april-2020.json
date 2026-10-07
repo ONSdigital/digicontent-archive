@@ -110,8 +110,9 @@
       "chartbuilder_h3": "A higher than average proportion of Pakistani and Bangladeshi workers are self-employed",
       "chartbuilder_h4": "Employment status by ethnicity, United Kingdom, January to December 2019",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup13to17april2020/2020-04-17/ccf9dbee",
-      "src": "/_scraped_chartbuilder_imgs/ccf9dbee.png",
-      "local_filename": "ccf9dbee.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup13to17april2020/2020-04-17/ccf9dbee&width=&hideSource=true",
+      "local_filename": "ccf9dbee.png",
+      "src_new": "/_scraped_chartbuilder_imgs/ccf9dbee.png"
     },
     {
       "type": "p",
@@ -211,7 +212,8 @@
       "h4": "Mobility at public places in the UK is down substantially",
       "h5": "Mobility at selected public places, percentage change compared with base period, 16 February 2020 to 5 April 2020",
       "title": "Google mobility",
-      "url": "/visualisations/dvc798/fig1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc798/fig1/index.html",
+      "url_new": "/visualisations/dvc798/fig1/index.html"
     },
     {
       "type": "heading",
@@ -246,7 +248,8 @@
       "h4": "Mobility at public places is down substantially in other countries too",
       "h5": "Mobility at selected public places, percentage change compared with base period, for selected G20 countries 16 February 2020 to 5 April 2020",
       "title": "Country heatmap",
-      "url": "/visualisations/dvc798/heatmap/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc798/heatmap/index.html",
+      "url_new": "/visualisations/dvc798/heatmap/index.html"
     },
     {
       "type": "p",
@@ -298,8 +301,9 @@
       "chartbuilder_h3": "COVID-19 was the third most frequent underlying cause of death in March",
       "chartbuilder_h4": "Age-standardised mortality rate for the five leading causes of death, per 100,000 people, England and Wales, occurring in March 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup13to17april2020/2020-04-17/ac999021",
-      "src": "/_scraped_chartbuilder_imgs/ac999021.png",
-      "local_filename": "ac999021.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup13to17april2020/2020-04-17/ac999021&width=&hideSource=true",
+      "local_filename": "ac999021.png",
+      "src_new": "/_scraped_chartbuilder_imgs/ac999021.png"
     },
     {
       "type": "p",

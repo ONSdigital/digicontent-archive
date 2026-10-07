@@ -101,7 +101,8 @@
       "h4": "Percentage of employees in each age group paid below the NLW before April 1, 2016, UK",
       "h5": null,
       "title": "Percentage of employees in each age groupÂ� paid below the NLWÂ� before April 1, 2016, UK",
-      "url": "/visualisations/nesscontent/dvc324/chart1_age/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc324/chart1_age/index.html",
+      "url_new": "/visualisations/nesscontent/dvc324/chart1_age/index.html"
     },
     {
       "type": "p",
@@ -109,7 +110,7 @@
       "h3": "The NLW is more likely to impact the 25 to 29 age group and the 60+ age group",
       "h4": "Percentage of employees in each age group paid below the NLW before April 1, 2016, UK",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2016/03/NLW-ages-data-download.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2016/03/NLW-ages-data-download.csv)"
     },
     {
       "type": "p",
@@ -160,7 +161,8 @@
       "h4": "Percentage of employees in each occupation group paid below the NLW before April 1, 2016, UK",
       "h5": null,
       "title": "Percentage of employees in each occupation groupÂ� paid below the NLWÂ� before April 1, 2016, UK",
-      "url": "/visualisations/nesscontent/dvc324/chart2_occupation/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc324/chart2_occupation/index.html",
+      "url_new": "/visualisations/nesscontent/dvc324/chart2_occupation/index.html"
     },
     {
       "type": "p",
@@ -168,7 +170,7 @@
       "h3": "The NLW is more likely to impact employees in low skilled jobs",
       "h4": "Percentage of employees in each occupation group paid below the NLW before April 1, 2016, UK",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2016/03/occupation-NLW-chart-data-download.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2016/03/occupation-NLW-chart-data-download.csv)"
     },
     {
       "type": "heading",
@@ -202,7 +204,8 @@
       "h4": null,
       "h5": null,
       "title": "How does your pay compare with someone paid the NLW?",
-      "url": "/visualisations/nesscontent/dvc324/compare/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc324/compare/index.html",
+      "url_new": "/visualisations/nesscontent/dvc324/compare/index.html"
     },
     {
       "type": "heading",
@@ -237,7 +240,8 @@
       "h4": "Percentage of employees paid below the NLW by business size, before April 1, 2016, UK",
       "h5": null,
       "title": "Percentage of employees paid below the NLW by business size, before April 1, 2016, UK",
-      "url": "/visualisations/nesscontent/dvc324/chart5_size/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc324/chart5_size/index.html",
+      "url_new": "/visualisations/nesscontent/dvc324/chart5_size/index.html"
     },
     {
       "type": "p",
@@ -245,7 +249,7 @@
       "h3": "The NLW is likely to have a greater impact on small businesses",
       "h4": "Percentage of employees paid below the NLW by business size, before April 1, 2016, UK",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2016/04/Over-25s-classed-as-low-pay.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2016/04/Over-25s-classed-as-low-pay.csv)"
     },
     {
       "type": "p",
@@ -296,7 +300,8 @@
       "h4": "Percentage of employees in each industry paid below the NLW before April 1, 2016, UK",
       "h5": null,
       "title": "Percentage of employees in each industry paid below the NLWÂ� before April 1, 2016, UK",
-      "url": "/visualisations/nesscontent/dvc324/chart3_industry/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc324/chart3_industry/index.html",
+      "url_new": "/visualisations/nesscontent/dvc324/chart3_industry/index.html"
     },
     {
       "type": "p",
@@ -304,7 +309,7 @@
       "h3": "The NLW is likely to have the biggest impact on businesses in the accommodation and food service industry",
       "h4": "Percentage of employees in each industry paid below the NLW before April 1, 2016, UK",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2016/03/NLW-industry-data-download.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2016/03/NLW-industry-data-download.csv)"
     },
     {
       "type": "p",
@@ -371,7 +376,8 @@
       "h4": "Percentage of employees in ‘low pay industries’ paid below the NLW before April 1, 2016, UK",
       "h5": null,
       "title": "Percentage of employees in â€˜low pay industriesâ€™ paid below the NLWÂ� before April 1, 2016, UK",
-      "url": "/visualisations/nesscontent/dvc324/chart4_lowpay/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc324/chart4_lowpay/index.html",
+      "url_new": "/visualisations/nesscontent/dvc324/chart4_lowpay/index.html"
     },
     {
       "type": "p",
@@ -379,7 +385,7 @@
       "h3": "The NLW is likely to have a considerable impact on businesses in 'low pay industries'",
       "h4": "Percentage of employees in ‘low pay industries’ paid below the NLW before April 1, 2016, UK",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2016/03/NLW-Low-pay-industries-data-download-.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2016/03/NLW-Low-pay-industries-data-download-.csv)"
     },
     {
       "type": "p",

@@ -253,7 +253,8 @@
       "h4": "For each additional member of infected staff working at a care home, the chance of infection for residents increases by 11%",
       "h5": "Odds of care home residents testing positive for the coronavirus (COVID-19) relative to comparison groups, England, 26 May to 20 June 2020",
       "title": "Multiple odds ratio charts",
-      "url": "/visualisations/dvc884/residents/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc884/residents/index.html",
+      "url_new": "/visualisations/dvc884/residents/index.html"
     },
     {
       "type": "heading",
@@ -395,8 +396,9 @@
       "chartbuilder_h3": "All sectors experienced a record simultaneous fall in the value of listed shares",
       "chartbuilder_h4": "£ Billions, non-seasonally adjusted, Q2 2008 to Q1 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup29juneto3july2020/2020-07-03/f22e68cc",
-      "src": "/_scraped_chartbuilder_imgs/f22e68cc.png",
-      "local_filename": "f22e68cc.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup29juneto3july2020/2020-07-03/f22e68cc&width=&hideSource=true",
+      "local_filename": "f22e68cc.png",
+      "src_new": "/_scraped_chartbuilder_imgs/f22e68cc.png"
     },
     {
       "type": "p",
@@ -545,7 +547,8 @@
       "h4": "Greater stringency of lockdowns is associated with lower GDP growth in Quarter 1 2020",
       "h5": "Selection of countries, Quarter 1 (Jan to Mar) 2020",
       "title": "Scatterplot with convex hull",
-      "url": "/visualisations/dvc878/convexhull/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc878/convexhull/index.html",
+      "url_new": "/visualisations/dvc878/convexhull/index.html"
     },
     {
       "type": "p",
@@ -621,8 +624,9 @@
       "chartbuilder_h3": "UK net borrowing from the rest of the world increased to 3.9% of GDP in the latest quarter",
       "chartbuilder_h4": "Net Lending (+) or borrowing (-) position as a percentage of GDP, non-financial account, seasonally adjusted, Quarter 1 (Jan to Mar) 2008 to Quarter 1 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup29juneto3july2020/2020-07-03/b64e3969",
-      "src": "/_scraped_chartbuilder_imgs/b64e3969.png",
-      "local_filename": "b64e3969.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup29juneto3july2020/2020-07-03/b64e3969&width=&hideSource=true",
+      "local_filename": "b64e3969.png",
+      "src_new": "/_scraped_chartbuilder_imgs/b64e3969.png"
     },
     {
       "type": "p",

@@ -130,7 +130,8 @@
       "h4": "Cases of COVID-19 among Exeter students rose fastest the week following the start of term",
       "h5": "The number of positive test cases for students attending the University of Exeter by test date between 2 September and 16 November",
       "title": "Cases of COVID-19 among Exeter students rose fastest the week following the start of term ",
-      "url": "/visualisations/dvc1113/line/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1113/line/index.html",
+      "url_new": "/visualisations/dvc1113/line/index.html"
     },
     {
       "type": "heading",
@@ -147,7 +148,8 @@
       "h3": "COVID-19 infections peak at the start of term among students at Exeter and Loughborough before tailing off in November",
       "h4": "Download the data",
       "h5": null,
-      "text": "[.csv](/visualisations/dvc1113/line/datadownload.csv)"
+      "text": "[.csv](https://www.ons.gov.uk/visualisations/dvc1113/line/datadownload.csv)",
+      "text_new": "[.csv](/visualisations/dvc1113/line/datadownload.csv)"
     },
     {
       "type": "heading",
@@ -223,7 +225,8 @@
       "h4": "COVID-19 spread among private student households before halls of residence",
       "h5": "The number of cases in Exeter University students by date and place of residence",
       "title": "COVID-19 spread among private student households before halls of residence ",
-      "url": "/visualisations/dvc1113/exeter-map/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1113/exeter-map/index.html",
+      "url_new": "/visualisations/dvc1113/exeter-map/index.html"
     },
     {
       "type": "heading",
@@ -339,7 +342,8 @@
       "h4": "The peak in cases among students is not seen in the wider population of Exeter",
       "h5": "All cases among students by day, and NHS testing cases by day for those aged over 21 in Exeter, 2 September 2020 to 16 November 2020",
       "title": "The peak in cases among students is not seen in the wider population of Exeter ",
-      "url": "/visualisations/dvc1113/clustered-bar-vertical/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1113/clustered-bar-vertical/index.html",
+      "url_new": "/visualisations/dvc1113/clustered-bar-vertical/index.html"
     },
     {
       "type": "heading",
@@ -356,7 +360,8 @@
       "h3": "COVID-19 infections peak at the start of term among students at Exeter and Loughborough before tailing off in November",
       "h4": "Download the data",
       "h5": null,
-      "text": "[.csv](/visualisations/dvc1113/clustered-bar-vertical/datadownload.csv)"
+      "text": "[.csv](https://www.ons.gov.uk/visualisations/dvc1113/clustered-bar-vertical/datadownload.csv)",
+      "text_new": "[.csv](/visualisations/dvc1113/clustered-bar-vertical/datadownload.csv)"
     },
     {
       "type": "p",
@@ -424,7 +429,8 @@
       "h4": "COVID-19 saw a higher spike among student in halls than students in private housing",
       "h5": "Covid-19 cases in Loughborough University students by result date, by housing type, 7 October 2020 to 2 December 2020",
       "title": "COVID-19 saw a higher spike among student in halls than students in private housing ",
-      "url": "/visualisations/dvc1113/lboro/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1113/lboro/index.html",
+      "url_new": "/visualisations/dvc1113/lboro/index.html"
     },
     {
       "type": "heading",
@@ -441,7 +447,8 @@
       "h3": "At Loughborough University, cases among students generally rose in October before falling in November",
       "h4": "Download the data",
       "h5": null,
-      "text": "[.csv](/visualisations/dvc1113/lboro/datadownload.csv)"
+      "text": "[.csv](https://www.ons.gov.uk/visualisations/dvc1113/lboro/datadownload.csv)",
+      "text_new": "[.csv](/visualisations/dvc1113/lboro/datadownload.csv)"
     },
     {
       "type": "heading",
@@ -517,7 +524,8 @@
       "h4": "Coronavirus cases among Loughborough students peaked later in October",
       "h5": "The number of cases in Loughborough University students by date and place of residence",
       "title": "Coronavirus cases among Loughborough students peaked later in October",
-      "url": "/visualisations/dvc1113/lboro-map/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1113/lboro-map/index.html",
+      "url_new": "/visualisations/dvc1113/lboro-map/index.html"
     },
     {
       "type": "heading",
@@ -689,7 +697,8 @@
       "h4": null,
       "h5": null,
       "title": "Coronavirus (COVID-19) definitions",
-      "url": "/visualisations/dvc988/line/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc988/line/index.html",
+      "url_new": "/visualisations/dvc988/line/index.html"
     },
     {
       "type": "box",

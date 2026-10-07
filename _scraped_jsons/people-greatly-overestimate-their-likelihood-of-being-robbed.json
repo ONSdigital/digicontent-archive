@@ -80,7 +80,8 @@
       "h4": "Trends in prevalence and worry about robbery, Crime Survey for England and Wales, years ending March 2009 to March 2016",
       "h5": null,
       "title": "Trends in prevalence and worry about robbery, Crime Survey for England and Wales, years ending March 2009 to March 2016",
-      "url": "/visualisations/dvc432charts/chart1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc432charts/chart1/index.html",
+      "url_new": "/visualisations/dvc432charts/chart1/index.html"
     },
     {
       "type": "p",
@@ -88,7 +89,7 @@
       "h3": null,
       "h4": "Trends in prevalence and worry about robbery, Crime Survey for England and Wales, years ending March 2009 to March 2016",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2017/09/Crime-data-download-chart-1.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2017/09/Crime-data-download-chart-1.csv)"
     },
     {
       "type": "p",
@@ -138,7 +139,8 @@
       "h4": null,
       "h5": null,
       "title": "Crime Risk Calculator",
-      "url": "/visualisations/dvc432/content.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc432/content.html",
+      "url_new": "/visualisations/dvc432/content.html"
     },
     {
       "type": "heading",
@@ -189,7 +191,8 @@
       "h4": "Proportion of adults very worried about online crime and identity theft by age, year ending March 2016 CSEW",
       "h5": null,
       "title": "Proportion of adults very worried about online crime and identity theft by age, year ending March 2016 CSEW",
-      "url": "/visualisations/dvc432charts/chart2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc432charts/chart2/index.html",
+      "url_new": "/visualisations/dvc432charts/chart2/index.html"
     },
     {
       "type": "p",
@@ -197,7 +200,7 @@
       "h3": "Identity theft worries almost a quarter of people",
       "h4": "Proportion of adults very worried about online crime and identity theft by age, year ending March 2016 CSEW",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2017/09/Crime-data-download-chart-2.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2017/09/Crime-data-download-chart-2.csv)"
     },
     {
       "type": "heading",
@@ -289,7 +292,8 @@
       "h4": "Adults who think crime has increased, 2009 to 2016, CSEW",
       "h5": null,
       "title": "Adults who think crime has increased, 2009 to 2016, CSEW",
-      "url": "/visualisations/dvc432charts/chart3/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc432charts/chart3/index.html",
+      "url_new": "/visualisations/dvc432charts/chart3/index.html"
     },
     {
       "type": "p",
@@ -297,7 +301,7 @@
       "h3": "A majority still believe national crime rates are increasing",
       "h4": "Adults who think crime has increased, 2009 to 2016, CSEW",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2017/09/Crime-data-download-chart3.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2017/09/Crime-data-download-chart3.csv)"
     },
     {
       "type": "heading",

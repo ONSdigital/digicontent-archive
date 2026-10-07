@@ -120,7 +120,8 @@
       "h4": "Number of deaths as a result of heart disease, 2016",
       "h5": null,
       "title": "Ischaemic Heart Disease",
-      "url": "/visualisations/dvc453/bar-graphs/Heart_Disease/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc453/bar-graphs/Heart_Disease/index.html",
+      "url_new": "/visualisations/dvc453/bar-graphs/Heart_Disease/index.html"
     },
     {
       "type": "p",
@@ -128,7 +129,7 @@
       "h3": "Heart disease was the biggest killer of men",
       "h4": "Number of deaths as a result of heart disease, 2016",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/10/heart_disease_data-1.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/10/heart_disease_data-1.csv)"
     },
     {
       "type": "heading",
@@ -195,7 +196,8 @@
       "h4": "Number of deaths as a result of dementia and Alzheimer's disease, 2016",
       "h5": null,
       "title": "Dementia and Alzheimer's Disease",
-      "url": "/visualisations/dvc453/bar-graphs/Dementia/"
+      "url": "https://www.ons.gov.uk/visualisations/dvc453/bar-graphs/Dementia/",
+      "url_new": "/visualisations/dvc453/bar-graphs/Dementia/"
     },
     {
       "type": "p",
@@ -203,7 +205,7 @@
       "h3": "Dementia and Alzheimer’s was the biggest killer of women",
       "h4": "Number of deaths as a result of dementia and Alzheimer's disease, 2016",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/10/dementia_alzheimers_data.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/10/dementia_alzheimers_data.csv)"
     },
     {
       "type": "p",
@@ -279,7 +281,8 @@
       "h4": "Number of deaths as a result of lung cancer, 2016",
       "h5": null,
       "title": "Lung cancer",
-      "url": "/visualisations/dvc453/bar-graphs/Lung_cancer/"
+      "url": "https://www.ons.gov.uk/visualisations/dvc453/bar-graphs/Lung_cancer/",
+      "url_new": "/visualisations/dvc453/bar-graphs/Lung_cancer/"
     },
     {
       "type": "p",
@@ -287,7 +290,7 @@
       "h3": "Lung cancer",
       "h4": "Number of deaths as a result of lung cancer, 2016",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/10/lung_cancer_data.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/10/lung_cancer_data.csv)"
     },
     {
       "type": "heading",
@@ -338,7 +341,8 @@
       "h4": "Number of deaths as a result of cerebrovascular diseases, 2016",
       "h5": null,
       "title": "Cerebrovascular Disease",
-      "url": "/visualisations/dvc453/bar-graphs/Cerebrovascular/"
+      "url": "https://www.ons.gov.uk/visualisations/dvc453/bar-graphs/Cerebrovascular/",
+      "url_new": "/visualisations/dvc453/bar-graphs/Cerebrovascular/"
     },
     {
       "type": "p",
@@ -346,7 +350,7 @@
       "h3": "Strokes and brain haemorrhages",
       "h4": "Number of deaths as a result of cerebrovascular diseases, 2016",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/10/cereb_disease_data.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/10/cereb_disease_data.csv)"
     },
     {
       "type": "heading",
@@ -413,7 +417,8 @@
       "h4": "Number of deaths as a result of respiratory diseases, 2016",
       "h5": null,
       "title": "Chronic Lower Respiratory Disease",
-      "url": "/visualisations/dvc453/bar-graphs/Chronic_Resp/"
+      "url": "https://www.ons.gov.uk/visualisations/dvc453/bar-graphs/Chronic_Resp/",
+      "url_new": "/visualisations/dvc453/bar-graphs/Chronic_Resp/"
     },
     {
       "type": "p",
@@ -421,7 +426,7 @@
       "h3": "Respiratory diseases",
       "h4": "Number of deaths as a result of respiratory diseases, 2016",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/10/chronic_resp_data.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/10/chronic_resp_data.csv)"
     },
     {
       "type": "heading",
@@ -471,7 +476,8 @@
       "h4": null,
       "h5": null,
       "title": "Breast and Prostate Cancer",
-      "url": "/visualisations/dvc453/bar-graphs/Breast_Prostate/"
+      "url": "https://www.ons.gov.uk/visualisations/dvc453/bar-graphs/Breast_Prostate/",
+      "url_new": "/visualisations/dvc453/bar-graphs/Breast_Prostate/"
     },
     {
       "type": "p",
@@ -479,7 +485,7 @@
       "h3": "Leading causes specific to males and females",
       "h4": null,
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/10/breast_prostate_data.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/10/breast_prostate_data.csv)"
     },
     {
       "type": "p",

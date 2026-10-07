@@ -109,7 +109,8 @@
       "h4": "UK net migration, years ending December 2007 to June 2017",
       "h5": null,
       "title": "UK net migration, years ending December 2007 to June 2017",
-      "url": "/visualisations/dvc466/netm/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc466/netm/index.html",
+      "url_new": "/visualisations/dvc466/netm/index.html"
     },
     {
       "type": "p",
@@ -117,7 +118,7 @@
       "h3": "There’s been a fall in net migration, after a recent peak",
       "h4": "UK net migration, years ending December 2007 to June 2017",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2017/11/netmigration.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2017/11/netmigration.csv)"
     },
     {
       "type": "heading",
@@ -184,7 +185,8 @@
       "h4": "UK net migration by citizenship, years ending December 2007 to June 2017",
       "h5": null,
       "title": "UK net migration by citizenship, years ending December 2007 to June 2017",
-      "url": "/visualisations/dvc466/netmigration_cob/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc466/netmigration_cob/index.html",
+      "url_new": "/visualisations/dvc466/netmigration_cob/index.html"
     },
     {
       "type": "p",
@@ -192,7 +194,7 @@
       "h3": "Most of the fall in net migration is because of EU citizens",
       "h4": "UK net migration by citizenship, years ending December 2007 to June 2017",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2017/11/netmigration_by_cob.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2017/11/netmigration_by_cob.csv)"
     },
     {
       "type": "heading",
@@ -251,7 +253,8 @@
       "h4": "Immigration to the UK by citizenship, years ending December 2007 to June 2017",
       "h5": null,
       "title": "Immigration to the UK by citizenship, years ending December 2007 to June 2017",
-      "url": "/visualisations/dvc466/immigration/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc466/immigration/index.html",
+      "url_new": "/visualisations/dvc466/immigration/index.html"
     },
     {
       "type": "p",
@@ -259,7 +262,7 @@
       "h3": "Fewer people are coming to live in the UK…",
       "h4": "Immigration to the UK by citizenship, years ending December 2007 to June 2017",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2017/11/immigration.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2017/11/immigration.csv)"
     },
     {
       "type": "heading",
@@ -318,7 +321,8 @@
       "h4": "Emigration from the UK by citizenship, year ending December 2007 to June 2017",
       "h5": null,
       "title": "Emigration from the UK by citizenship, year ending December 2007 to June 2017",
-      "url": "/visualisations/dvc466/emmigraton_cob/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc466/emmigraton_cob/index.html",
+      "url_new": "/visualisations/dvc466/emmigraton_cob/index.html"
     },
     {
       "type": "p",
@@ -326,7 +330,7 @@
       "h3": "…and more EU citizens are leaving",
       "h4": "Emigration from the UK by citizenship, year ending December 2007 to June 2017",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2017/11/emmigration_by_cob.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2017/11/emmigration_by_cob.csv)"
     },
     {
       "type": "heading",
@@ -385,7 +389,8 @@
       "h4": "EU citizens coming to the UK for work reasons, years ending December 2007 to June 2017",
       "h5": null,
       "title": "EU citizens coming to the UK for work reasons, years ending December 2007 to June 2017",
-      "url": "/visualisations/dvc466/reasons/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc466/reasons/index.html",
+      "url_new": "/visualisations/dvc466/reasons/index.html"
     },
     {
       "type": "p",
@@ -393,7 +398,7 @@
       "h3": "Fewer EU citizens are coming to the UK to look for work",
       "h4": "EU citizens coming to the UK for work reasons, years ending December 2007 to June 2017",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2017/11/immigration_reason.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2017/11/immigration_reason.csv)"
     },
     {
       "type": "p",
@@ -460,7 +465,8 @@
       "h4": "Applications for British citizenship by nationality, years ending June 2008 to June 2017",
       "h5": null,
       "title": "Applications for British citizenship by nationality, years ending June 2008 to June 2017",
-      "url": "/visualisations/dvc466/applications/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc466/applications/index.html",
+      "url_new": "/visualisations/dvc466/applications/index.html"
     },
     {
       "type": "p",
@@ -468,7 +474,7 @@
       "h3": "More EU citizens are applying to become British citizens",
       "h4": "Applications for British citizenship by nationality, years ending June 2008 to June 2017",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2017/11/CitizenshipApplications.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2017/11/CitizenshipApplications.csv)"
     },
     {
       "type": "p",

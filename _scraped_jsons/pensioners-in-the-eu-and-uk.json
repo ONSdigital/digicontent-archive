@@ -63,7 +63,8 @@
       "h4": null,
       "h5": null,
       "title": "Well-being dashboard",
-      "url": "/visualisations/dvc428a/dashboard/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc428a/dashboard/index.html",
+      "url_new": "/visualisations/dvc428a/dashboard/index.html"
     },
     {
       "type": "heading",
@@ -138,7 +139,8 @@
       "h4": null,
       "h5": null,
       "title": "Cluster HORIZONTAL",
-      "url": "/visualisations/dvc428/bars/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc428/bars/index.html",
+      "url_new": "/visualisations/dvc428/bars/index.html"
     },
     {
       "type": "p",
@@ -204,7 +206,8 @@
       "h4": null,
       "h5": null,
       "title": "UK State Pension recipients resident in other EU countries (excluding Ireland), August 2012 to February 2017",
-      "url": "/visualisations/dvc428/line/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc428/line/index.html",
+      "url_new": "/visualisations/dvc428/line/index.html"
     },
     {
       "type": "p",
@@ -237,7 +240,8 @@
       "h4": null,
       "h5": null,
       "title": "Value of full UK basic State Pension per week in euros and pounds (not adjusted for inflation), August 2012 to July 2017",
-      "url": "/visualisations/dvc428/lines/figure4/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc428/lines/figure4/index.html",
+      "url_new": "/visualisations/dvc428/lines/figure4/index.html"
     },
     {
       "type": "interactive",
@@ -246,7 +250,8 @@
       "h4": null,
       "h5": null,
       "title": "Value of full UK basic State Pension per week in euros and pounds (not adjusted for inflation), August 2012 to July 2017",
-      "url": "/visualisations/dvc428/lines/figure5/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc428/lines/figure5/index.html",
+      "url_new": "/visualisations/dvc428/lines/figure5/index.html"
     },
     {
       "type": "heading",

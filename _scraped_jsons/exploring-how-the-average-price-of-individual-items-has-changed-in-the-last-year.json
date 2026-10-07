@@ -161,7 +161,8 @@
       "h4": null,
       "h5": null,
       "title": "shopping prices comparison tool",
-      "url": "/visualisations/dvc2523/shopping-prices-comparison-tool/index.html#210111,211019,211211,211408,211509,212008,212101,212510,212726,212923,213005"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2523/shopping-prices-comparison-tool/index.html#210111,211019,211211,211408,211509,212008,212101,212510,212726,212923,213005",
+      "url_new": "/visualisations/dvc2523/shopping-prices-comparison-tool/index.html#210111,211019,211211,211408,211509,212008,212101,212510,212726,212923,213005"
     },
     {
       "type": "p",
@@ -204,7 +205,8 @@
       "h4": "Item annual inflation rates and the annual rate for milk, cheese and eggs, March 2023 compared with March 2022",
       "h5": null,
       "title": "Cheddar and other hard cheeses saw an average increase of over 40% in the 12 months in March 2023 ",
-      "url": "/visualisations/dvc2523/charts/dairy-eggs/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2523/charts/dairy-eggs/index.html",
+      "url_new": "/visualisations/dvc2523/charts/dairy-eggs/index.html"
     },
     {
       "type": "heading",
@@ -246,7 +248,8 @@
       "h3": "Cheddar and other hard cheeses saw an average increase of over 40% in the 12 months in March 2023",
       "h4": "Item annual inflation rates and the annual rate for milk, cheese and eggs, March 2023 compared with March 2022",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2523/charts/dairy-eggs/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2523/charts/dairy-eggs/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2523/charts/dairy-eggs/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -297,7 +300,8 @@
       "h4": "Item annual inflation rates and the annual rate for oil and fats, UK, January 2019 to March 2023",
       "h5": null,
       "title": "The last two years have shown stark increases in the price of oils and fats compared with the trends seen before 2021",
-      "url": "/visualisations/dvc2523/charts/line-chart/line/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2523/charts/line-chart/line/index.html",
+      "url_new": "/visualisations/dvc2523/charts/line-chart/line/index.html"
     },
     {
       "type": "heading",
@@ -314,7 +318,8 @@
       "h3": "The last two years have shown stark increases in the price of oils and fats compared with the trends seen before 2021",
       "h4": "Item annual inflation rates and the annual rate for oil and fats, UK, January 2019 to March 2023",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2523/charts/line-chart/line/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2523/charts/line-chart/line/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2523/charts/line-chart/line/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -414,7 +419,8 @@
       "h4": "Item annual inflation rates and the annual rate for fast food and takeaway good services, March 2023 compared with March 2022",
       "h5": null,
       "title": "3 in 10 fast food and takeaway items in the shopping prices comparison tool saw an average price increase of 15% or more in the 12 months in March 2023 ",
-      "url": "/visualisations/dvc2523/charts/fastfood/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2523/charts/fastfood/index.html",
+      "url_new": "/visualisations/dvc2523/charts/fastfood/index.html"
     },
     {
       "type": "heading",
@@ -431,7 +437,8 @@
       "h3": "3 in 10 fast food and takeaway items in the shopping prices comparison tool saw an average price increase of 15% or more in the 12 months in March 2023",
       "h4": "Item annual inflation rates and the annual rate for fast food and takeaway good services, March 2023 compared with March 2022",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2523/charts/fastfood/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2523/charts/fastfood/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2523/charts/fastfood/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -547,7 +554,8 @@
       "h4": "Item annual inflation rates and the annual rate for health, March 2023 compared with March 2022",
       "h5": null,
       "title": "Winter medicine products show some of largest increases across all health items in the shopping prices comparison tool in the last year ",
-      "url": "/visualisations/dvc2523/charts/health/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2523/charts/health/index.html",
+      "url_new": "/visualisations/dvc2523/charts/health/index.html"
     },
     {
       "type": "heading",
@@ -564,7 +572,8 @@
       "h3": "Winter medicine products show some of largest increases across all health items in the shopping prices comparison tool in the last year",
       "h4": "Item annual inflation rates and the annual rate for health, March 2023 compared with March 2022",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2523/charts/health/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2523/charts/health/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2523/charts/health/datadownload.xlsx)"
     },
     {
       "type": "p",

@@ -50,7 +50,7 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "This article - the latest in the [UK Perspectives series](/visualisations/20170726163612/https://visual.ons.gov.uk/uk-perspectives-an-introduction/) - presents key statistics showing changes in government spending over the last two decades, and takes a closer look at some aspects of the largest spending categories."
+      "text": "This article - the latest in the [UK Perspectives series](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/uk-perspectives-an-introduction/) - presents key statistics showing changes in government spending over the last two decades, and takes a closer look at some aspects of the largest spending categories."
     },
     {
       "type": "heading",
@@ -85,7 +85,8 @@
       "h4": "Total UK government managed spending and government managed spending as % of GDP (in 2013-14 real terms), 1993-94 to 2013-14 1",
       "h5": null,
       "title": "Total UK government managed spending and government managed spending as % of GDP (in 2013-14 real terms), 1993-94 to 2013-14 <sup>1<\/sup>",
-      "url": "/visualisations/nesscontent/dvc224/Public_Chart1/Public_Chart1.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc224/Public_Chart1/Public_Chart1.html",
+      "url_new": "/visualisations/nesscontent/dvc224/Public_Chart1/Public_Chart1.html"
     },
     {
       "type": "p",
@@ -93,7 +94,7 @@
       "h3": null,
       "h4": "Total UK government managed spending and government managed spending as % of GDP (in 2013-14 real terms), 1993-94 to 2013-14 1",
       "h5": null,
-      "text": "[Download the data for this chart.](/visualisations//visual/2015/02/Pubsector_1.csv)"
+      "text": "[Download the data for this chart.](https://static.ons.gov.uk/visual/2015/02/Pubsector_1.csv)"
     },
     {
       "type": "p",
@@ -160,7 +161,8 @@
       "h4": "Proportions of total UK government spending by function (in 2013-14 real terms), £billions (and as a percentage of total) 1993-94 and 2013-14 2",
       "h5": null,
       "title": "Proportions of total UK government spending by function (in 2013-14 real terms), Â£billions (and as a percentage of total) 1993-94 and 2013-14 <sup>2<\/sup>",
-      "url": "/visualisations/nesscontent/dvc224/Public_Chart2/Public_Chart2.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc224/Public_Chart2/Public_Chart2.html",
+      "url_new": "/visualisations/nesscontent/dvc224/Public_Chart2/Public_Chart2.html"
     },
     {
       "type": "p",
@@ -227,7 +229,8 @@
       "h4": "Proportions of UK social protection spending by category (in real terms), 2009-10 and 2013-14 3",
       "h5": null,
       "title": "Proportions of UK social protection spending by category (in real terms), 2009-10 and 2013-14 <sup>3<\/sup>",
-      "url": "/visualisations/nesscontent/dvc224/Public_Chart3/Public_Chart3.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc224/Public_Chart3/Public_Chart3.html",
+      "url_new": "/visualisations/nesscontent/dvc224/Public_Chart3/Public_Chart3.html"
     },
     {
       "type": "p",
@@ -286,7 +289,8 @@
       "h4": "Proportion of UK spending on healthcare categories, 2013-14 4",
       "h5": null,
       "title": "Proportion of UK spending on healthcare categories, 2013-14 <sup>4<\/sup>",
-      "url": "/visualisations/nesscontent/dvc224/Public_Chart4/Public_Chart4.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc224/Public_Chart4/Public_Chart4.html",
+      "url_new": "/visualisations/nesscontent/dvc224/Public_Chart4/Public_Chart4.html"
     },
     {
       "type": "p",
@@ -337,7 +341,8 @@
       "h4": "Proportion of UK spending on four education categories, 2009-10 to 2013-14 5",
       "h5": null,
       "title": "Proportion of UK spending on four education categories, 2009-10 to 2013-14 <sup>5<\/sup>",
-      "url": "/visualisations/nesscontent/dvc224/Public_Chart5/Public_Chart5.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc224/Public_Chart5/Public_Chart5.html",
+      "url_new": "/visualisations/nesscontent/dvc224/Public_Chart5/Public_Chart5.html"
     },
     {
       "type": "p",
@@ -345,7 +350,7 @@
       "h3": null,
       "h4": "Proportion of UK spending on four education categories, 2009-10 to 2013-14 5",
       "h5": null,
-      "text": "[Download the data for this chart.](/visualisations//visual/2015/02/Pubsector_5.csv)"
+      "text": "[Download the data for this chart.](https://static.ons.gov.uk/visual/2015/02/Pubsector_5.csv)"
     },
     {
       "type": "p",
@@ -415,7 +420,8 @@
       "h4": "Estimated UK defence spending by manufacturing industry, 2007-08 to 2012-13",
       "h5": null,
       "title": "Estimated UK defence spending by manufacturing industry, 2007-08 to 2012-13",
-      "url": "/visualisations/nesscontent/dvc224/Public_Chart6/Public_Chart6.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc224/Public_Chart6/Public_Chart6.html",
+      "url_new": "/visualisations/nesscontent/dvc224/Public_Chart6/Public_Chart6.html"
     },
     {
       "type": "p",

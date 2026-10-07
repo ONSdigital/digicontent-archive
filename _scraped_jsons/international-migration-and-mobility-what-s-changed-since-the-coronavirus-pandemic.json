@@ -201,7 +201,8 @@
       "h4": "Percentage change compared with a year ago in monthly air passenger volume between airports in the UK and airports in regions of the world, by direction, January to September, 2020",
       "h5": null,
       "title": "Is this the chart title?",
-      "url": "/visualisations/dvc1066/fig2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1066/fig2/index.html",
+      "url_new": "/visualisations/dvc1066/fig2/index.html"
     },
     {
       "type": "p",
@@ -241,7 +242,8 @@
       "h3": "2. There was widespread decline in international travel to and from the UK because of worldwide travel restrictions",
       "h4": "Percentage change compared with a year ago in monthly air passenger volume between airports in the UK and airports in regions of the world, by direction, January to September, 2020",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc1066/fig2/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1066/fig2/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1066/fig2/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -360,8 +362,9 @@
       "chartbuilder_h3": "3. There has also been a decrease in UK arrivals and departures via short international ferry routes",
       "chartbuilder_h4": "Percentage change compared to a year ago in passengers travelling by short international ferry routes, by direction, UK, January to September, 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/internationalmigrationandmobilitywhatschangedsincethecoronaviruspandemic/2020-11-26/38052ced",
-      "src": "/_scraped_chartbuilder_imgs/38052ced.png",
-      "local_filename": "38052ced.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/internationalmigrationandmobilitywhatschangedsincethecoronaviruspandemic/2020-11-26/38052ced&width=&hideSource=true",
+      "local_filename": "38052ced.png",
+      "src_new": "/_scraped_chartbuilder_imgs/38052ced.png"
     },
     {
       "type": "p",
@@ -404,7 +407,8 @@
       "h4": "Entry clearance visas issued for work and study, UK, year ending September 2011 to year ending September 2020",
       "h5": null,
       "title": "Entry clearance visas issued for work and study, UK, year ending September 2011 to year ending September 2020",
-      "url": "/visualisations/dvc1066/fig4/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1066/fig4/index.html",
+      "url_new": "/visualisations/dvc1066/fig4/index.html"
     },
     {
       "type": "p",
@@ -460,7 +464,8 @@
       "h3": "4. There was a fall in work and study visas granted for non-EU nationals since the coronavirus pandemic",
       "h4": "Entry clearance visas issued for work and study, UK, year ending September 2011 to year ending September 2020",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc1066/fig4/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1066/fig4/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1066/fig4/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -566,7 +571,8 @@
       "h4": "National Insurance number (NINo) registrations to foreign nationals by nationality region, UK, from year ending September 2011 to year ending September 2020",
       "h5": null,
       "title": "Section 5 chart",
-      "url": "/visualisations/dvc1066/fig5/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1066/fig5/index.html",
+      "url_new": "/visualisations/dvc1066/fig5/index.html"
     },
     {
       "type": "p",
@@ -622,7 +628,8 @@
       "h3": "5. There has also been a decline in the number of National Insurance numbers registered to non-British nationals",
       "h4": "National Insurance number (NINo) registrations to foreign nationals by nationality region, UK, from year ending September 2011 to year ending September 2020",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc1066/fig5/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1066/fig5/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1066/fig5/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -705,7 +712,8 @@
       "h4": "Labour market activity levels for non-British nationals and non-UK-born people, by nationality and country of birth, UK, from Quarter 4 (Oct to Dec) 2010 to Quarter 3 (July to Sept) 2020",
       "h5": null,
       "title": "Chart 6",
-      "url": "/visualisations/dvc1066/fig6/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1066/fig6/index.html",
+      "url_new": "/visualisations/dvc1066/fig6/index.html"
     },
     {
       "type": "p",
@@ -745,7 +753,8 @@
       "h3": "6. The number of non-British nationals and non-UK-born people working in the UK labour market has fallen over the past year",
       "h4": "Labour market activity levels for non-British nationals and non-UK-born people, by nationality and country of birth, UK, from Quarter 4 (Oct to Dec) 2010 to Quarter 3 (July to Sept) 2020",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc1066/fig6/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1066/fig6/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1066/fig6/datadownload.xlsx)"
     },
     {
       "type": "p",

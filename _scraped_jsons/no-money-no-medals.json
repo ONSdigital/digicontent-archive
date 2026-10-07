@@ -87,7 +87,8 @@
       "h4": null,
       "h5": null,
       "title": "The top 30 medal-winning countries in Rio 2016 and the strength of their economies",
-      "url": "/visualisations/github/dvc354/Rio/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/github/dvc354/Rio/index.html",
+      "url_new": "/visualisations/github/dvc354/Rio/index.html"
     },
     {
       "type": "p",
@@ -95,7 +96,7 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[Download the GDP data.](/visualisations//visual/2016/09/Data-download-for-2015-GDP.csv)"
+      "text": "[Download the GDP data.](https://static.ons.gov.uk/visual/2016/09/Data-download-for-2015-GDP.csv)"
     },
     {
       "type": "p",
@@ -120,7 +121,7 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[Download the GDP data.](/visualisations//visual/2016/09/data-download-for-2012-gdp.csv)"
+      "text": "[Download the GDP data.](https://static.ons.gov.uk/visual/2016/09/data-download-for-2012-gdp.csv)"
     },
     {
       "type": "p",
@@ -178,7 +179,7 @@
       "h3": null,
       "h4": "Other Visual.ONS articles:",
       "h5": null,
-      "text": "[Which is the happiest country?](/visualisations/20170726163612/https://visual.ons.gov.uk/who-is-the-happiest-country-in-europe/)"
+      "text": "[Which is the happiest country?](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/who-is-the-happiest-country-in-europe/)"
     },
     {
       "type": "p",

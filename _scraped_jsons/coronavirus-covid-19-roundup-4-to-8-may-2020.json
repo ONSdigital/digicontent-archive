@@ -118,7 +118,8 @@
       "h4": "Most ethnic minority groups are at greater risk of a COVID-19 death than the White population",
       "h5": "Risk of COVID-19 death by ethnic group and sex, England and Wales, 2 March to 10 April 2020, fully adjusted model",
       "title": "Odds ratio charts controlling for all factors",
-      "url": "/visualisations/dvc815/hazards/all-factors/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc815/hazards/all-factors/index.html",
+      "url_new": "/visualisations/dvc815/hazards/all-factors/index.html"
     },
     {
       "type": "p",
@@ -126,7 +127,8 @@
       "h3": null,
       "h4": "Most ethnic minority groups are at greater risk of a COVID-19 death than the White population",
       "h5": "Risk of COVID-19 death by ethnic group and sex, England and Wales, 2 March to 10 April 2020, fully adjusted model",
-      "text": "[Download the data](/visualisations/dvc815/hazards/all-factors/datadownload.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc815/hazards/all-factors/datadownload.csv)",
+      "text_new": "[Download the data](/visualisations/dvc815/hazards/all-factors/datadownload.csv)"
     },
     {
       "type": "p",
@@ -218,7 +220,8 @@
       "h4": "Well-being showed a marked change during the week in which lockdown measures were introduced",
       "h5": "Average personal well-being ratings, Great Britain, Q1 2019 to 13 April 2020",
       "title": "Well-being showed a marked change during the week in which lockdown measures were introduced",
-      "url": "/visualisations/dvc813/small-multiples/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc813/small-multiples/index.html",
+      "url_new": "/visualisations/dvc813/small-multiples/index.html"
     },
     {
       "type": "p",
@@ -226,7 +229,8 @@
       "h3": null,
       "h4": "Well-being showed a marked change during the week in which lockdown measures were introduced",
       "h5": "Average personal well-being ratings, Great Britain, Q1 2019 to 13 April 2020",
-      "text": "[Download the data](/visualisations/dvc813/small-multiples/datadownload.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc813/small-multiples/datadownload.csv)",
+      "text_new": "[Download the data](/visualisations/dvc813/small-multiples/datadownload.csv)"
     },
     {
       "type": "box",

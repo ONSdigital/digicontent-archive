@@ -80,7 +80,8 @@
       "h4": "Inflation rate and total pay growth, GB, January 2014 to April 2017",
       "h5": null,
       "title": "Inflation rate and total pay growth, GB, January 2014 to April 2017",
-      "url": "/visualisations/dvc409/charts/line/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc409/charts/line/index.html",
+      "url_new": "/visualisations/dvc409/charts/line/index.html"
     },
     {
       "type": "p",
@@ -88,7 +89,7 @@
       "h3": null,
       "h4": "Inflation rate and total pay growth, GB, January 2014 to April 2017",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/06/data.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/06/data.csv)"
     },
     {
       "type": "p",
@@ -122,7 +123,8 @@
       "h4": "See how much your salary would need to rise next year, in order to keep up with the current rate of inflation",
       "h5": null,
       "title": "Interactive chart",
-      "url": "/visualisations/dvc409/calc/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc409/calc/index.html",
+      "url_new": "/visualisations/dvc409/calc/index.html"
     },
     {
       "type": "p",
@@ -196,7 +198,8 @@
       "h4": null,
       "h5": null,
       "title": "Pay growth",
-      "url": "/visualisations/dvc409/charts/growth/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc409/charts/growth/index.html",
+      "url_new": "/visualisations/dvc409/charts/growth/index.html"
     },
     {
       "type": "p",
@@ -230,7 +233,8 @@
       "h4": "Total pay growth by industry sector, GB, April 2017",
       "h5": null,
       "title": "Total pay growth by industry sector, GB, April 2017 In the wholesale, retail, hotel and restaurant industry, pay growth was highest, with growth of 2.6% in April 2017, whereas in the construction industry workers saw their pay increase by 1.0%.",
-      "url": "/visualisations/dvc409/charts/bar2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc409/charts/bar2/index.html",
+      "url_new": "/visualisations/dvc409/charts/bar2/index.html"
     },
     {
       "type": "p",
@@ -238,7 +242,7 @@
       "h3": "Private and public sector employees experience different pay changes",
       "h4": "Total pay growth by industry sector, GB, April 2017",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/06/data-1.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/06/data-1.csv)"
     },
     {
       "type": "heading",

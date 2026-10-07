@@ -99,7 +99,8 @@
       "h4": null,
       "h5": null,
       "title": "Family Spending",
-      "url": "/visualisations/dvc389/barcodeplot/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc389/barcodeplot/index.html",
+      "url_new": "/visualisations/dvc389/barcodeplot/index.html"
     },
     {
       "type": "p",
@@ -115,7 +116,7 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2017/02/Family-Spending-interactive1.xlsx)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2017/02/Family-Spending-interactive1.xlsx)"
     },
     {
       "type": "p",
@@ -164,7 +165,8 @@
       "h3": "Alcohol and Tobacco",
       "h4": null,
       "h5": null,
-      "text": "Data from the last three financial years showed spending on alcoholic drinks and tobacco varied across the UK. Households in [Scotland](/visualisations/dvc389/barcodeplot_exp/index.html#.S/Spirits%20and%20liqueurs%20(brought%20home)) spent the most on alcoholic drinks, with an average of £8.90 a week; 1.8% of Scotland households’ total expenditure."
+      "text": "Data from the last three financial years showed spending on alcoholic drinks and tobacco varied across the UK. Households in [Scotland](https://www.ons.gov.uk/visualisations/dvc389/barcodeplot_exp/index.html#.S/Spirits%20and%20liqueurs%20(brought%20home)) spent the most on alcoholic drinks, with an average of £8.90 a week; 1.8% of Scotland households’ total expenditure.",
+      "text_new": "Data from the last three financial years showed spending on alcoholic drinks and tobacco varied across the UK. Households in [Scotland](/visualisations/dvc389/barcodeplot_exp/index.html#.S/Spirits%20and%20liqueurs%20(brought%20home)) spent the most on alcoholic drinks, with an average of £8.90 a week; 1.8% of Scotland households’ total expenditure."
     },
     {
       "type": "p",
@@ -238,7 +240,8 @@
       "h4": "Food and Non-Alcoholic Drinks",
       "h5": null,
       "title": "Food and Non-Alcoholic Drinks Northern Ireland and the South East spent more on food and non-alcoholic drinks than any other UK country or region at Â£64.20 per week - Â£14.60 more than the North East, where households spent the least. Northern Ireland households spent more on tea, bread, buns and cakes than any other UK country and region, while the South East spent the most on cheese. London households spent the most on fresh fruit and fresh vegetables (Â£4.50 and Â£5.50) per week, while the North East households spent the least (Â£2.50 and Â£3).",
-      "url": "/visualisations/dvc389/barcodeplot_exp/index.html#.L/Fresh%20fruit/Fresh%20vegetables"
+      "url": "https://www.ons.gov.uk/visualisations/dvc389/barcodeplot_exp/index.html#.L/Fresh%20fruit/Fresh%20vegetables",
+      "url_new": "/visualisations/dvc389/barcodeplot_exp/index.html#.L/Fresh%20fruit/Fresh%20vegetables"
     },
     {
       "type": "p",
@@ -279,7 +282,8 @@
       "h4": "Food and Non-Alcoholic Drinks",
       "h5": null,
       "title": "Family Spending Explorer",
-      "url": "/visualisations/dvc389/barcodeplot_exp/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc389/barcodeplot_exp/index.html",
+      "url_new": "/visualisations/dvc389/barcodeplot_exp/index.html"
     },
     {
       "type": "p",
@@ -295,7 +299,7 @@
       "h3": "Alcohol and Tobacco",
       "h4": "Food and Non-Alcoholic Drinks",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2017/02/Family-spending-interactive2.xlsx)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2017/02/Family-spending-interactive2.xlsx)"
     },
     {
       "type": "p",

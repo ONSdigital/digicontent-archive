@@ -199,7 +199,8 @@
       "h4": "UK public sector spending, income, surplus and deficit2, 1993 to 2014",
       "h5": null,
       "title": "UK public sector spending, income, surplus and deficit<sup>2<\/sup>, 1993 to 2014",
-      "url": "/visualisations/github/dvc302/line_chart1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/github/dvc302/line_chart1/index.html",
+      "url_new": "/visualisations/github/dvc302/line_chart1/index.html"
     },
     {
       "type": "p",
@@ -207,7 +208,7 @@
       "h3": "What happens if public sector income and spending do not match up?",
       "h4": "UK public sector spending, income, surplus and deficit2, 1993 to 2014",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2015/11/debt-and-deficit-chart-1-final.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2015/11/debt-and-deficit-chart-1-final.csv)"
     },
     {
       "type": "heading",
@@ -281,7 +282,8 @@
       "h3": "So is deficit the same as debt?",
       "h4": "Illustration of deficit, surplus and accumulated debt ",
       "h5": null,
-      "text": "[](/visualisations//visual/2015/11/Deficit-Debt-FINAL.png)"
+      "text": "[](https://static.ons.gov.uk/visual/2015/11/Deficit-Debt-FINAL.png)",
+      "text_new": "[](/visual/2015/11/Deficit-Debt-FINAL.png)"
     },
     {
       "type": "image",
@@ -289,8 +291,9 @@
       "h3": "So is deficit the same as debt?",
       "h4": "Illustration of deficit, surplus and accumulated debt ",
       "h5": null,
-      "src": "/visualisations//visual/2015/11/Deficit-Debt-FINAL.png",
-      "alt": null
+      "src": "https://static.ons.gov.uk/visual/2015/11/Deficit-Debt-FINAL.png",
+      "alt": null,
+      "src_new": "/visual/2015/11/Deficit-Debt-FINAL.png"
     },
     {
       "type": "p",
@@ -332,7 +335,8 @@
       "h4": "UK public sector debt and deficit4, 1993 to 2015",
       "h5": null,
       "title": "UK public sector debt and deficit<sup>4<\/sup>, 1993 to 2015",
-      "url": "/visualisations/github/dvc302/line_chart4/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/github/dvc302/line_chart4/index.html",
+      "url_new": "/visualisations/github/dvc302/line_chart4/index.html"
     },
     {
       "type": "p",
@@ -340,7 +344,7 @@
       "h3": "So is deficit the same as debt?",
       "h4": "UK public sector debt and deficit4, 1993 to 2015",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2015/11/debt-and-deficit-chart-2.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2015/11/debt-and-deficit-chart-2.csv)"
     },
     {
       "type": "p",

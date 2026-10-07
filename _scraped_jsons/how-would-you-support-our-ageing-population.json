@@ -100,7 +100,8 @@
       "h4": "Use our tool to see how this ratio changes depending on different factors",
       "h5": null,
       "title": "Use our tool to see how this ratio changes depending on different factors",
-      "url": "/visualisations/dvc641/line/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc641/line/index.html",
+      "url_new": "/visualisations/dvc641/line/index.html"
     },
     {
       "type": "p",
@@ -211,7 +212,8 @@
       "h4": "The shape of the labour market has changed in the last 20 years, with more older people working",
       "h5": "Employment rate by age group, UK, 1998 and 2018",
       "title": "Employment by age group",
-      "url": "/visualisations/dvc583/chart1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc583/chart1/index.html",
+      "url_new": "/visualisations/dvc583/chart1/index.html"
     },
     {
       "type": "p",
@@ -219,7 +221,8 @@
       "h3": null,
       "h4": "The shape of the labour market has changed in the last 20 years, with more older people working",
       "h5": "Employment rate by age group, UK, 1998 and 2018",
-      "text": "[Download the data](/visualisations/dvc583/chart1/data_download.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc583/chart1/data_download.csv)",
+      "text_new": "[Download the data](/visualisations/dvc583/chart1/data_download.csv)"
     },
     {
       "type": "p",
@@ -278,7 +281,8 @@
       "h4": "Pension spending is the biggest single component of the welfare budget",
       "h5": "Breakdown of welfare spending, UK, 2016 to 2017",
       "title": "Pension spending is the biggest single component of the welfare budget",
-      "url": "/visualisations/dvc641/icon-array/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc641/icon-array/index.html",
+      "url_new": "/visualisations/dvc641/icon-array/index.html"
     },
     {
       "type": "p",
@@ -286,7 +290,8 @@
       "h3": null,
       "h4": "Pension spending is the biggest single component of the welfare budget",
       "h5": "Breakdown of welfare spending, UK, 2016 to 2017",
-      "text": "[Download the data](/visualisations/dvc641/icon-array/datadownload.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc641/icon-array/datadownload.csv)",
+      "text_new": "[Download the data](/visualisations/dvc641/icon-array/datadownload.csv)"
     },
     {
       "type": "p",
@@ -345,7 +350,8 @@
       "h4": "Taxpayers of working age provide the bulk of support for public spending",
       "h5": "Representative age profiles for tax, public services and welfare spending, UK, 2022 to 2023",
       "title": "Taxpayers of working age provide the bulk of support for public spending",
-      "url": "/visualisations/dvc641/stacked-bar/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc641/stacked-bar/index.html",
+      "url_new": "/visualisations/dvc641/stacked-bar/index.html"
     },
     {
       "type": "p",
@@ -353,7 +359,8 @@
       "h3": null,
       "h4": "Taxpayers of working age provide the bulk of support for public spending",
       "h5": "Representative age profiles for tax, public services and welfare spending, UK, 2022 to 2023",
-      "text": "[Download the data](/visualisations/dvc641/stacked-bar/datadownload.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc641/stacked-bar/datadownload.csv)",
+      "text_new": "[Download the data](/visualisations/dvc641/stacked-bar/datadownload.csv)"
     },
     {
       "type": "heading",
@@ -403,7 +410,8 @@
       "h4": null,
       "h5": null,
       "title": "Current projections indicate the number of pensioners to 1,000 people of working age will rise",
-      "url": "/visualisations/dvc641/tabbed-chart/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc641/tabbed-chart/index.html",
+      "url_new": "/visualisations/dvc641/tabbed-chart/index.html"
     },
     {
       "type": "p",
@@ -411,7 +419,8 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc641/tabbed-chart/datadownload.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc641/tabbed-chart/datadownload.csv)",
+      "text_new": "[Download the data](/visualisations/dvc641/tabbed-chart/datadownload.csv)"
     },
     {
       "type": "heading",

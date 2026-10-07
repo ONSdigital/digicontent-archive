@@ -158,8 +158,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations//assets/images/ons-logo/kitemark/v2/uksa-kitemark-en.svg",
-      "alt": "These are accredited official statistics. Click for information about types of official statistics."
+      "src": "https://cdn.ons.gov.uk/assets/images/ons-logo/kitemark/v2/uksa-kitemark-en.svg",
+      "alt": "These are accredited official statistics. Click for information about types of official statistics.",
+      "src_new": "/assets/images/ons-logo/kitemark/v2/uksa-kitemark-en.svg"
     },
     {
       "type": "p",
@@ -453,7 +454,8 @@
       "h4": null,
       "h5": null,
       "title": "Latest indicators at a glance",
-      "url": "/visualisations/dvc3280/subnational-projections-explorer/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc3280/subnational-projections-explorer/index.html",
+      "url_new": "/visualisations/dvc3280/subnational-projections-explorer/index.html"
     },
     {
       "type": "heading",
@@ -720,7 +722,8 @@
       "h4": "Figure 1: Projected population change for local authorities in England between mid-2022 and mid-2032",
       "h5": null,
       "title": "Figure 1: Projected population change for local authorities in England between mid-2022 and mid-2032",
-      "url": "/visualisations/dvc3280/fig01/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc3280/fig01/index.html",
+      "url_new": "/visualisations/dvc3280/fig01/index.html"
     },
     {
       "type": "li",
@@ -795,7 +798,8 @@
       "h4": "Figure 2: Projected percentage change for regions in England, mid-2022 to mid-2032",
       "h5": null,
       "title": "Figure 2: Projected percentage change for regions in England, mid-2022 to mid-2032 ",
-      "url": "/visualisations/dvc3280/fig02/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc3280/fig02/index.html",
+      "url_new": "/visualisations/dvc3280/fig02/index.html"
     },
     {
       "type": "li",
@@ -878,7 +882,8 @@
       "h4": "Figure 3: Projected changes in the proportion of children, people of working and State Pension age, and old-age dependency ratios, by local authority, mid-2022 to mid-2032 ",
       "h5": null,
       "title": "Figure 3: Projected changes in the proportion of children, people of working and State Pension age, and old-age dependency ratios, by local authority, mid-2022 to mid-2032",
-      "url": "/visualisations/dvc3280/fig03/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc3280/fig03/index.html",
+      "url_new": "/visualisations/dvc3280/fig03/index.html"
     },
     {
       "type": "heading",
@@ -1042,7 +1047,8 @@
       "h4": "Figure 4: The variant population projections showing a range of future demographic scenarios by local authority, mid-2022 to mid-2047",
       "h5": null,
       "title": "Figure 4: The variant population projections showing a range of future demographic scenarios by local authority, mid-2022 to mid-2047",
-      "url": "/visualisations/dvc3280/fig04/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc3280/fig04/index.html",
+      "url_new": "/visualisations/dvc3280/fig04/index.html"
     },
     {
       "type": "heading",

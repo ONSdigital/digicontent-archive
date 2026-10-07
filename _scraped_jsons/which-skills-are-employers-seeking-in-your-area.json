@@ -83,7 +83,8 @@
       "h4": null,
       "h5": null,
       "title": "job ads robo",
-      "url": "/visualisations/dvc3065/build/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc3065/build/index.html",
+      "url_new": "/visualisations/dvc3065/build/index.html"
     },
     {
       "type": "p",
@@ -91,7 +92,8 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[Download the data used in the interactive tool [XLSX, 441KB]](/visualisations/dvc3065/build/datadownload.xlsx)"
+      "text": "[Download the data used in the interactive tool [XLSX, 441KB]](https://www.ons.gov.uk/visualisations/dvc3065/build/datadownload.xlsx)",
+      "text_new": "[Download the data used in the interactive tool [XLSX, 441KB]](/visualisations/dvc3065/build/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -191,7 +193,8 @@
       "h4": "Where are the UK's most advertised occupations the most common?",
       "h5": "Proportion of all adverts in local authority that were for the selected occupation, UK, April to June 2024",
       "title": "map",
-      "url": "/visualisations/dvc3065/fig01-share/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc3065/fig01-share/index.html",
+      "url_new": "/visualisations/dvc3065/fig01-share/index.html"
     },
     {
       "type": "p",
@@ -199,7 +202,8 @@
       "h3": null,
       "h4": "Where are the UK's most advertised occupations the most common?",
       "h5": "Proportion of all adverts in local authority that were for the selected occupation, UK, April to June 2024",
-      "text": "[Download the data for proportion of most-advertised occupations by local authority [XLSX, 126KB]](/visualisations/dvc3065/fig01-share/datadownload.xlsx)"
+      "text": "[Download the data for proportion of most-advertised occupations by local authority [XLSX, 126KB]](https://www.ons.gov.uk/visualisations/dvc3065/fig01-share/datadownload.xlsx)",
+      "text_new": "[Download the data for proportion of most-advertised occupations by local authority [XLSX, 126KB]](/visualisations/dvc3065/fig01-share/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -290,7 +294,8 @@
       "h4": "Adverts for HGV drivers almost doubled in the year to Quarter 2 2024",
       "h5": "Annual change between April to June 2023 to April to June 2024, Occupations with the largest increase in share of online advert volumes, UK",
       "title": "bar chart",
-      "url": "/visualisations/dvc3065/bar-chart/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc3065/bar-chart/index.html",
+      "url_new": "/visualisations/dvc3065/bar-chart/index.html"
     },
     {
       "type": "p",
@@ -298,7 +303,8 @@
       "h3": null,
       "h4": "Adverts for HGV drivers almost doubled in the year to Quarter 2 2024",
       "h5": "Annual change between April to June 2023 to April to June 2024, Occupations with the largest increase in share of online advert volumes, UK",
-      "text": "[Download the data for occupations with the largest percentage change in online advert volumes [XSLX, 1KB]](/visualisations/dvc3065/bar-chart/datadownload.xlsx)"
+      "text": "[Download the data for occupations with the largest percentage change in online advert volumes [XSLX, 1KB]](https://www.ons.gov.uk/visualisations/dvc3065/bar-chart/datadownload.xlsx)",
+      "text_new": "[Download the data for occupations with the largest percentage change in online advert volumes [XSLX, 1KB]](/visualisations/dvc3065/bar-chart/datadownload.xlsx)"
     },
     {
       "type": "p",

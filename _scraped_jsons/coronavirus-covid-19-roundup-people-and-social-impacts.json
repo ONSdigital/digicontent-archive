@@ -239,8 +239,9 @@
       "chartbuilder_h3": "Nearly 8 in 10 adults in the North West self-reported that they were in Tier 3",
       "chartbuilder_h4": "England, 28 October to 1 November 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19rounduppeopleandsocialimpacts/2020-07-03/e0b4e9a2",
-      "src": "/_scraped_chartbuilder_imgs/e0b4e9a2.png",
-      "local_filename": "e0b4e9a2.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19rounduppeopleandsocialimpacts/2020-07-03/e0b4e9a2&width=&hideSource=true",
+      "local_filename": "e0b4e9a2.png",
+      "src_new": "/_scraped_chartbuilder_imgs/e0b4e9a2.png"
     },
     {
       "type": "p",
@@ -324,8 +325,9 @@
       "chartbuilder_h3": "Falling TCSEW victimisation levels during April to June 2020 were driven by large decreases in theft offences",
       "chartbuilder_h4": "England and Wales, based on interviews conducted between May and August 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19rounduppeopleandsocialimpacts/2020-07-03/98502955",
-      "src": "/_scraped_chartbuilder_imgs/98502955.png",
-      "local_filename": "98502955.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19rounduppeopleandsocialimpacts/2020-07-03/98502955&width=&hideSource=true",
+      "local_filename": "98502955.png",
+      "src_new": "/_scraped_chartbuilder_imgs/98502955.png"
     },
     {
       "type": "p",
@@ -390,7 +392,8 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[We have now presented people’s experiences in their own words](/visualisations/dvc983/Diary_of_a_nation-20200907082746841/index.html), capturing how people across the country have been coping with the many changes brought about by the pandemic."
+      "text": "[We have now presented people’s experiences in their own words](https://www.ons.gov.uk/visualisations/dvc983/Diary_of_a_nation-20200907082746841/index.html), capturing how people across the country have been coping with the many changes brought about by the pandemic.",
+      "text_new": "[We have now presented people’s experiences in their own words](/visualisations/dvc983/Diary_of_a_nation-20200907082746841/index.html), capturing how people across the country have been coping with the many changes brought about by the pandemic."
     },
     {
       "type": "p",
@@ -506,7 +509,8 @@
       "h4": "At the end of July, more people expected it to take more than a year or never for life to return to normal, compared with mid-June",
       "h5": "Share of the population on when they think their own life will return to normal, Great Britain, 27 March to 26 July 2020",
       "title": "Interactive chart",
-      "url": "/visualisations/dvc974/fig1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc974/fig1/index.html",
+      "url_new": "/visualisations/dvc974/fig1/index.html"
     },
     {
       "type": "p",
@@ -704,7 +708,8 @@
       "h4": "There has been widespread decline in international air travel to the UK since March 2020",
       "h5": null,
       "title": "Interactive chart",
-      "url": "/visualisations/dvc953/fig6/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc953/fig6/index.html",
+      "url_new": "/visualisations/dvc953/fig6/index.html"
     },
     {
       "type": "p",
@@ -820,7 +825,8 @@
       "h4": "Although people in Scotland were more likely to think that Britain will be united after the coronavirus pandemic than to think it was united before, they were less likely to say this than those in England or Wales",
       "h5": "Percentage of people reporting different levels of unity in Britain before and after the coronavirus (COVID-19) pandemic by country, Great Britain, 24 April to 28 June 2020",
       "title": "Interactive chart",
-      "url": "/visualisations/dvc947/fig2/wrapper/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc947/fig2/wrapper/index.html",
+      "url_new": "/visualisations/dvc947/fig2/wrapper/index.html"
     },
     {
       "type": "p",

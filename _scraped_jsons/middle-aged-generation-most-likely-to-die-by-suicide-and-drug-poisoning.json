@@ -101,7 +101,8 @@
       "h4": "The age at which most people died from drug poisonings has increased over time",
       "h5": "Number of drug poisonings by single year of age, England and Wales, deaths registered between 1993 and 2017",
       "title": "The age at which most people died from drug poisonings has increased over time",
-      "url": "/visualisations/dvc661/drugs/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc661/drugs/index.html",
+      "url_new": "/visualisations/dvc661/drugs/index.html"
     },
     {
       "type": "li",
@@ -141,7 +142,8 @@
       "h3": null,
       "h4": "The age at which most people died from drug poisonings has increased over time",
       "h5": "Number of drug poisonings by single year of age, England and Wales, deaths registered between 1993 and 2017",
-      "text": "[download the data](/visualisations/dvc661/drugs/datadownload.csv)"
+      "text": "[download the data](https://www.ons.gov.uk/visualisations/dvc661/drugs/datadownload.csv)",
+      "text_new": "[download the data](/visualisations/dvc661/drugs/datadownload.csv)"
     },
     {
       "type": "p",
@@ -208,7 +210,8 @@
       "h4": "The age at which most people are dying by suicide has increased over time",
       "h5": "Number of suicides by single year of age, England and Wales, deaths registered between 1981 and 2017",
       "title": "The age at which most people are dying by suicide has increased over time",
-      "url": "/visualisations/dvc661/suicides/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc661/suicides/index.html",
+      "url_new": "/visualisations/dvc661/suicides/index.html"
     },
     {
       "type": "li",
@@ -256,7 +259,8 @@
       "h3": null,
       "h4": "The age at which most people are dying by suicide has increased over time",
       "h5": "Number of suicides by single year of age, England and Wales, deaths registered between 1981 and 2017",
-      "text": "[download the data](/visualisations/dvc661/suicides/datadownload.csv)"
+      "text": "[download the data](https://www.ons.gov.uk/visualisations/dvc661/suicides/datadownload.csv)",
+      "text_new": "[download the data](/visualisations/dvc661/suicides/datadownload.csv)"
     },
     {
       "type": "p",
@@ -308,8 +312,9 @@
       "chartbuilder_h3": "There were more suicides among the most deprived communities in most age groups",
       "chartbuilder_h4": "Suicides by IMD quintile and single year of age, England, registered between 2013 and 2017",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/articles/middleagedgenerationmostlikelytodiebysuicideanddrugpoisoning/2019-08-13/b8ff78af",
-      "src": "/_scraped_chartbuilder_imgs/b8ff78af.png",
-      "local_filename": "b8ff78af.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/articles/middleagedgenerationmostlikelytodiebysuicideanddrugpoisoning/2019-08-13/b8ff78af&width=&hideSource=true",
+      "local_filename": "b8ff78af.png",
+      "src_new": "/_scraped_chartbuilder_imgs/b8ff78af.png"
     },
     {
       "type": "p",
@@ -352,8 +357,9 @@
       "chartbuilder_h3": "There were more drug deaths among the most deprived communities in most age groups",
       "chartbuilder_h4": "Drug poisonings by IMD quintile and single year of age, England, registered between 2013 and 2017",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/articles/middleagedgenerationmostlikelytodiebysuicideanddrugpoisoning/2019-08-13/b409bf05",
-      "src": "/_scraped_chartbuilder_imgs/b409bf05.png",
-      "local_filename": "b409bf05.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/articles/middleagedgenerationmostlikelytodiebysuicideanddrugpoisoning/2019-08-13/b409bf05&width=&hideSource=true",
+      "local_filename": "b409bf05.png",
+      "src_new": "/_scraped_chartbuilder_imgs/b409bf05.png"
     },
     {
       "type": "heading",

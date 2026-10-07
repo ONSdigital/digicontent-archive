@@ -63,7 +63,8 @@
       "h4": null,
       "h5": null,
       "title": "Interactive chart",
-      "url": "/visualisations/dvc434/calculator/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc434/calculator/index.html",
+      "url_new": "/visualisations/dvc434/calculator/index.html"
     },
     {
       "type": "p",
@@ -71,7 +72,7 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[Download the data](/visualisations/20170726163612///visual.ons.gov.uk/wp-content/uploads/2017/10/extension_calculator.csv)"
+      "text": "[Download the data](http://webarchive.nationalarchives.gov.uk/20170726163612///visual.ons.gov.uk/wp-content/uploads/2017/10/extension_calculator.csv)"
     },
     {
       "type": "p",

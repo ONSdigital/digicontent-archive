@@ -81,8 +81,9 @@
       "chartbuilder_h3": "Countryside areas reported lower rates of loneliness",
       "chartbuilder_h4": "Percentage of people who felt lonely \"often\" or \"always\" by local authority supergroup",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/articles/mappinglonelinessduringthecoronaviruspandemic/2021-04-07/e86cdb9e",
-      "src": "/_scraped_chartbuilder_imgs/e86cdb9e.png",
-      "local_filename": "e86cdb9e.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/wellbeing/articles/mappinglonelinessduringthecoronaviruspandemic/2021-04-07/e86cdb9e&width=&hideSource=true",
+      "local_filename": "e86cdb9e.png",
+      "src_new": "/_scraped_chartbuilder_imgs/e86cdb9e.png"
     },
     {
       "type": "heading",
@@ -134,7 +135,8 @@
       "h4": "Interactive map: Loneliness rates by local authority",
       "h5": "Percentage reporting “often or always” feeling lonely, Great Britain, 14 October 2020 to 22 February 2021",
       "title": "Percentage reporting “often or always” feeling lonely, Great Britain, 14 October 2020 to 22 February 2021",
-      "url": "/visualisations/dvc1262/alwaysoftenmap/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1262/alwaysoftenmap/index.html",
+      "url_new": "/visualisations/dvc1262/alwaysoftenmap/index.html"
     },
     {
       "type": "heading",
@@ -175,7 +177,8 @@
       "h3": null,
       "h4": "Interactive map: Loneliness rates by local authority",
       "h5": "Notes:",
-      "text": "[Data download](/visualisations/dvc1262/alwaysoftenmap/datadownload.xlsx)"
+      "text": "[Data download](https://www.ons.gov.uk/visualisations/dvc1262/alwaysoftenmap/datadownload.xlsx)",
+      "text_new": "[Data download](/visualisations/dvc1262/alwaysoftenmap/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -251,7 +254,8 @@
       "h4": "Younger people were more likely to experience “lockdown loneliness”",
       "h5": "Odds of reporting feeling lonely in last 7 days, of people who said their well-being was affected by the coronavirus, Great Britain, 14 October 2020 to 22 February 2021.",
       "title": "Younger people were more likely to experience “lockdown loneliness”",
-      "url": "/visualisations/dvc1262/oddsratioage/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1262/oddsratioage/index.html",
+      "url_new": "/visualisations/dvc1262/oddsratioage/index.html"
     },
     {
       "type": "heading",
@@ -300,7 +304,8 @@
       "h3": null,
       "h4": "Younger people were more likely to experience “lockdown loneliness”",
       "h5": "Notes:",
-      "text": "[Data download](/visualisations/dvc1262/oddsratioage/datadownload.xlsx)"
+      "text": "[Data download](https://www.ons.gov.uk/visualisations/dvc1262/oddsratioage/datadownload.xlsx)",
+      "text_new": "[Data download](/visualisations/dvc1262/oddsratioage/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -351,7 +356,8 @@
       "h4": "Unmarried people and those living alone were more likely to experience “lockdown loneliness”",
       "h5": "Odds of reporting feeling lonely in last 7 days, of people who said their well-being was affected by the coronavirus, Great Britain, 14 October 2020 to 22 February 2021.",
       "title": "Unmarried people and those living alone were more likely to experience “lockdown loneliness”",
-      "url": "/visualisations/dvc1262/oddsratiomarriage/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1262/oddsratiomarriage/index.html",
+      "url_new": "/visualisations/dvc1262/oddsratiomarriage/index.html"
     },
     {
       "type": "heading",
@@ -400,7 +406,8 @@
       "h3": null,
       "h4": "Unmarried people and those living alone were more likely to experience “lockdown loneliness”",
       "h5": "Notes:",
-      "text": "[Data download](/visualisations/dvc1262/oddsratiomarriage/datadownload.xlsx)"
+      "text": "[Data download](https://www.ons.gov.uk/visualisations/dvc1262/oddsratiomarriage/datadownload.xlsx)",
+      "text_new": "[Data download](/visualisations/dvc1262/oddsratiomarriage/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -460,7 +467,8 @@
       "h4": "Higher unemployment in an area was linked to higher loneliness rates",
       "h5": "Correlation between latest unemployment rates (October 2019 to September 2020) and “often or always” feeling lonely (October 2020 to February 2020) in Great Britain",
       "title": "Higher unemployment in an area was linked to higher rates of loneliness",
-      "url": "/visualisations/dvc1262/scatterunemployment/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1262/scatterunemployment/index.html",
+      "url_new": "/visualisations/dvc1262/scatterunemployment/index.html"
     },
     {
       "type": "heading",
@@ -493,7 +501,8 @@
       "h3": null,
       "h4": "Higher unemployment in an area was linked to higher loneliness rates",
       "h5": "Notes:",
-      "text": "[Data download](/visualisations/dvc1262/scatterunemployment/datadownload.xlsx)"
+      "text": "[Data download](https://www.ons.gov.uk/visualisations/dvc1262/scatterunemployment/datadownload.xlsx)",
+      "text_new": "[Data download](/visualisations/dvc1262/scatterunemployment/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -602,7 +611,8 @@
       "h4": "Interactive map: Personal well-being scores by local authority",
       "h5": "Average ratings of personal well-being, UK, April 2020 to September 2020",
       "title": "Interactive map: Personal well-being scores by local authority ",
-      "url": "/visualisations/dvc1262/wellbeingmap/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1262/wellbeingmap/index.html",
+      "url_new": "/visualisations/dvc1262/wellbeingmap/index.html"
     },
     {
       "type": "heading",
@@ -643,7 +653,8 @@
       "h3": null,
       "h4": "Interactive map: Personal well-being scores by local authority",
       "h5": "Notes:",
-      "text": "[Data download](/visualisations/dvc1262/wellbeingmap/datadownload.xlsx)"
+      "text": "[Data download](https://www.ons.gov.uk/visualisations/dvc1262/wellbeingmap/datadownload.xlsx)",
+      "text_new": "[Data download](/visualisations/dvc1262/wellbeingmap/datadownload.xlsx)"
     },
     {
       "type": "heading",

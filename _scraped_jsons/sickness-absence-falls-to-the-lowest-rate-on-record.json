@@ -102,8 +102,9 @@
       "chartbuilder_h3": "Number of days1 lost through sickness per worker23, 1993 to 2017, UK",
       "chartbuilder_h4": "Source: Labour Force Survey person datasets, ONS",
       "data_uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/sicknessabsencefallstothelowestratein24years/2018-07-30/666843b1",
-      "src": "/_scraped_chartbuilder_imgs/666843b1.png",
-      "local_filename": "666843b1.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/sicknessabsencefallstothelowestratein24years/2018-07-30/666843b1&width=&hideSource=true",
+      "local_filename": "666843b1.png",
+      "src_new": "/_scraped_chartbuilder_imgs/666843b1.png"
     },
     {
       "type": "heading",
@@ -137,7 +138,8 @@
       "h4": null,
       "h5": null,
       "title": "Sickness absence calculator",
-      "url": "/visualisations/dvc502/calc/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc502/calc/index.html",
+      "url_new": "/visualisations/dvc502/calc/index.html"
     },
     {
       "type": "heading",
@@ -245,7 +247,8 @@
       "h4": "Reasons for sickness absence: by age, UK, 2017",
       "h5": null,
       "title": "Reasons for sickness absence: by age, UK, 2017",
-      "url": "/visualisations/dvc502/slope_age/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc502/slope_age/index.html",
+      "url_new": "/visualisations/dvc502/slope_age/index.html"
     },
     {
       "type": "p",
@@ -287,7 +290,8 @@
       "h4": "Reasons for sickness absence: by sex, UK, 2017",
       "h5": null,
       "title": "Reasons for sickness absence: by sex, UK, 2017",
-      "url": "/visualisations/dvc502/slope_sex/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc502/slope_sex/index.html",
+      "url_new": "/visualisations/dvc502/slope_sex/index.html"
     },
     {
       "type": "heading",

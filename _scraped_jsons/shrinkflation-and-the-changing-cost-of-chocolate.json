@@ -115,7 +115,8 @@
       "h4": "Number of price quotes with recorded increase or reduction in package size, January 2012 to June 2017",
       "h5": null,
       "title": "Number of price quotes with recorded increase or reduction in package size, January 2012 to June 2017",
-      "url": "/visualisations/dvc423/chart1/chart1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc423/chart1/chart1/index.html",
+      "url_new": "/visualisations/dvc423/chart1/chart1/index.html"
     },
     {
       "type": "p",
@@ -149,7 +150,8 @@
       "h4": "Number of food price quotes with recorded reduction in package size, January 2012 to June 20171",
       "h5": null,
       "title": "Number of food price quotes with recorded reduction in package size, January 2012 to June 2017<sup>1<\/sup>",
-      "url": "/visualisations/dvc423/chart2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc423/chart2/index.html",
+      "url_new": "/visualisations/dvc423/chart2/index.html"
     },
     {
       "type": "heading",
@@ -215,7 +217,8 @@
       "h3": "Shrinkflation and inflation",
       "h4": "\"Sugar, jam, syrups, chocolate and confectionery\" index, published and non-adjusted, January 2012 to June 2017",
       "h5": null,
-      "text": "<ons-interactive url=\"/visualisations/dvc423/chart3/index.html\" full-width=\"false\" title=\"\"\"Sugar, jam, syrups, chocolate and confectionery\"\" index, published and non-adjusted\"/>"
+      "text": "<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc423/chart3/index.html\" full-width=\"false\" title=\"\"\"Sugar, jam, syrups, chocolate and confectionery\"\" index, published and non-adjusted\"/>",
+      "text_new": "<ons-interactive url=\"/visualisations/dvc423/chart3/index.html\" full-width=\"false\" title=\"\"\"Sugar, jam, syrups, chocolate and confectionery\"\" index, published and non-adjusted\"/>"
     },
     {
       "type": "heading",
@@ -274,7 +277,8 @@
       "h4": "Sugar: European import price, 2012 to June 2017",
       "h5": null,
       "title": "Sugar: European import price, 2012 to June 2017",
-      "url": "/visualisations/dvc423/chart4/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc423/chart4/index.html",
+      "url_new": "/visualisations/dvc423/chart4/index.html"
     },
     {
       "type": "p",
@@ -308,7 +312,8 @@
       "h4": "Cocoa beans: International Cocoa Organization cash price, US and European ports, 2012 to June 2017",
       "h5": null,
       "title": "Cocoa beans: International Cocoa Organization cash price, US and European ports, 2012 to June 2017",
-      "url": "/visualisations/dvc423/chart5/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc423/chart5/index.html",
+      "url_new": "/visualisations/dvc423/chart5/index.html"
     },
     {
       "type": "p",

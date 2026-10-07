@@ -114,8 +114,9 @@
       "chartbuilder_h3": "Figure 1: Environmental tax revenue, by tax type, 2017",
       "chartbuilder_h4": "UK",
       "data_uri": "https://www.ons.gov.uk/economy/environmentalaccounts/articles/fivefactsaboutenvironmentaltaxes/2018-10-09/f5731910",
-      "src": "/_scraped_chartbuilder_imgs/f5731910.png",
-      "local_filename": "f5731910.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/environmentalaccounts/articles/fivefactsaboutenvironmentaltaxes/2018-10-09/f5731910&width=&hideSource=true",
+      "local_filename": "f5731910.png",
+      "src_new": "/_scraped_chartbuilder_imgs/f5731910.png"
     },
     {
       "type": "heading",
@@ -159,8 +160,9 @@
       "chartbuilder_h3": "Figure 2: Environmental tax revenue by industry sector; including households, 2015",
       "chartbuilder_h4": "UK",
       "data_uri": "https://www.ons.gov.uk/economy/environmentalaccounts/articles/fivefactsaboutenvironmentaltaxes/2018-10-09/7dbf8204",
-      "src": "/_scraped_chartbuilder_imgs/7dbf8204.png",
-      "local_filename": "7dbf8204.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/environmentalaccounts/articles/fivefactsaboutenvironmentaltaxes/2018-10-09/7dbf8204&width=&hideSource=true",
+      "local_filename": "7dbf8204.png",
+      "src_new": "/_scraped_chartbuilder_imgs/7dbf8204.png"
     },
     {
       "type": "heading",
@@ -228,8 +230,9 @@
       "chartbuilder_h3": "Figure 3: Vehicle registrations by selected propulsion type, 1997 to 2017",
       "chartbuilder_h4": "Great Britain",
       "data_uri": "https://www.ons.gov.uk/economy/environmentalaccounts/articles/fivefactsaboutenvironmentaltaxes/2018-10-09/e06e052e",
-      "src": "/_scraped_chartbuilder_imgs/e06e052e.png",
-      "local_filename": "e06e052e.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/environmentalaccounts/articles/fivefactsaboutenvironmentaltaxes/2018-10-09/e06e052e&width=&hideSource=true",
+      "local_filename": "e06e052e.png",
+      "src_new": "/_scraped_chartbuilder_imgs/e06e052e.png"
     },
     {
       "type": "heading",
@@ -281,8 +284,9 @@
       "chartbuilder_h3": "Figure 4: Biodegradable municipal waste sent to landfill, 1995 and 2016",
       "chartbuilder_h4": "UK",
       "data_uri": "https://www.ons.gov.uk/economy/environmentalaccounts/articles/fivefactsaboutenvironmentaltaxes/2018-10-09/f96a7908",
-      "src": "/_scraped_chartbuilder_imgs/f96a7908.png",
-      "local_filename": "f96a7908.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/environmentalaccounts/articles/fivefactsaboutenvironmentaltaxes/2018-10-09/f96a7908&width=&hideSource=true",
+      "local_filename": "f96a7908.png",
+      "src_new": "/_scraped_chartbuilder_imgs/f96a7908.png"
     },
     {
       "type": "heading",
@@ -334,8 +338,9 @@
       "chartbuilder_h3": "Figure 5: Single-use plastic bags issued by the seven largest retailers, 2014 and April 2017 to April 2018",
       "chartbuilder_h4": "England",
       "data_uri": "https://www.ons.gov.uk/economy/environmentalaccounts/articles/fivefactsaboutenvironmentaltaxes/2018-10-09/3bc0739c",
-      "src": "/_scraped_chartbuilder_imgs/3bc0739c.png",
-      "local_filename": "3bc0739c.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/environmentalaccounts/articles/fivefactsaboutenvironmentaltaxes/2018-10-09/3bc0739c&width=&hideSource=true",
+      "local_filename": "3bc0739c.png",
+      "src_new": "/_scraped_chartbuilder_imgs/3bc0739c.png"
     },
     {
       "type": "box",
@@ -363,7 +368,7 @@
       "h5": null,
       "box_h2": "Contact",
       "box_h3": null,
-      "box_text": "David Ainslie / Gemma Thomas\n[environment.accounts@ons.gov.uk](mailto:environment.accounts@ons.gov.uk)\n Telephone: +44 (0)1633 455523",
+      "box_text": "David Ainslie / Gemma Thomas\n[environment.accounts@ons.gov.uk](mailto:environment.accounts@ons.gov.uk )\n Telephone: +44 (0)1633 455523",
       "box_items": null
     }
   ],

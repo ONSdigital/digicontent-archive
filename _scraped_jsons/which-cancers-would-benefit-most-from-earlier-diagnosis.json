@@ -117,7 +117,8 @@
       "h4": "Overall net-survival for colorectal and kidney cancer falls between stages 3 and 4",
       "h5": "5-year net-survival, by stage of diagnosis",
       "title": "Cancer stages",
-      "url": "/visualisations/dvc619/cancer_stages/chart1/indexLine.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc619/cancer_stages/chart1/indexLine.html",
+      "url_new": "/visualisations/dvc619/cancer_stages/chart1/indexLine.html"
     },
     {
       "type": "p",
@@ -168,7 +169,8 @@
       "h4": "The earlier people are diagnosed, the higher their chances of survival",
       "h5": "Proportion of people diagnosed at each stage, and overall net-survival",
       "title": "Cancer stages",
-      "url": "/visualisations/dvc619/cancer_stages/chart2/indexLine.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc619/cancer_stages/chart2/indexLine.html",
+      "url_new": "/visualisations/dvc619/cancer_stages/chart2/indexLine.html"
     },
     {
       "type": "p",

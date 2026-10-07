@@ -84,7 +84,8 @@
       "h4": "Proportion of population registered to vote in UK general election1, 1885 to 2015",
       "h5": null,
       "title": "Proportion of population registered to vote in UK general election<sup>1<\/sup>, 1885 to 2015",
-      "url": "/visualisations/dvc422/voteshare/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc422/voteshare/index.html",
+      "url_new": "/visualisations/dvc422/voteshare/index.html"
     },
     {
       "type": "p",
@@ -92,7 +93,7 @@
       "h3": null,
       "h4": "Proportion of population registered to vote in UK general election1, 1885 to 2015",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/07/votechart.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/07/votechart.csv)"
     },
     {
       "type": "heading",
@@ -176,7 +177,8 @@
       "h4": "Constituencies where the 16- and 17-year-old population was greater than the winning margin, UK, 2017",
       "h5": null,
       "title": "Constituencies where the 16- and 17-year-old population was greater than the winning margin, UK, 2017",
-      "url": "/visualisations/dvc422/wherepercentgreatermargin/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc422/wherepercentgreatermargin/index.html",
+      "url_new": "/visualisations/dvc422/wherepercentgreatermargin/index.html"
     },
     {
       "type": "p",
@@ -184,7 +186,7 @@
       "h3": "Which areas might have been affected during the 2017 general election?",
       "h4": "Constituencies where the 16- and 17-year-old population was greater than the winning margin, UK, 2017",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/07/marginmap.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/07/marginmap.csv)"
     },
     {
       "type": "p",
@@ -218,7 +220,8 @@
       "h4": "Proportion of seats with 16- and 17-year-old population greater than winning margin, UK, 2017",
       "h5": null,
       "title": "Proportion of seats with 16- and 17-year-old population greater than winning margin, UK, 2017",
-      "url": "/visualisations/dvc422/seatschart/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc422/seatschart/index.html",
+      "url_new": "/visualisations/dvc422/seatschart/index.html"
     },
     {
       "type": "p",
@@ -226,7 +229,7 @@
       "h3": "Which areas might have been affected during the 2017 general election?",
       "h4": "Proportion of seats with 16- and 17-year-old population greater than winning margin, UK, 2017",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/07/seatschart.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/07/seatschart.csv)"
     },
     {
       "type": "heading",
@@ -285,7 +288,8 @@
       "h4": "Proportion of 16- and 17-year-olds in population aged 16 and over, UK, 2015",
       "h5": null,
       "title": "Proportion of 16- and 17-year-olds in population aged 16 and over, UK, 2015",
-      "url": "/visualisations/dvc422/votingpercent/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc422/votingpercent/index.html",
+      "url_new": "/visualisations/dvc422/votingpercent/index.html"
     },
     {
       "type": "p",
@@ -293,7 +297,7 @@
       "h3": "Which areas would have the greatest share of 16- and 17-year-old voters?",
       "h4": "Proportion of 16- and 17-year-olds in population aged 16 and over, UK, 2015",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/07/16votemap.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/07/16votemap.csv)"
     },
     {
       "type": "p",

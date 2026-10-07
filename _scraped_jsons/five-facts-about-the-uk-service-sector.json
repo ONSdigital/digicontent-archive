@@ -109,7 +109,8 @@
       "h4": "Percentage of GDP coming from the services, production, agriculture and construction sectors, UK, 1948 and 20132",
       "h5": null,
       "title": "Percentage of GDP coming from the services, production, agriculture and construction sectors, UK, 1948 and 2013<sup>2<\/sup>",
-      "url": "/visualisations/dvc370/servicesector_1/Stacked-Bar-Horizontal/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc370/servicesector_1/Stacked-Bar-Horizontal/index.html",
+      "url_new": "/visualisations/dvc370/servicesector_1/Stacked-Bar-Horizontal/index.html"
     },
     {
       "type": "p",
@@ -117,7 +118,7 @@
       "h3": "1. 79% of UK Gross Domestic Product (GDP) came from the service sector in 2013",
       "h4": "Percentage of GDP coming from the services, production, agriculture and construction sectors, UK, 1948 and 20132",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2016/09/services-1.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2016/09/services-1.csv)"
     },
     {
       "type": "heading",
@@ -160,7 +161,8 @@
       "h4": "Percentage of the labour force working in each sector of the economy, England and Wales, 1841 to 2011 ",
       "h5": null,
       "title": "Percentage of the labour force working in each sector of the economy, England and Wales, 1841 to 2011Â�",
-      "url": "/visualisations/dvc370/servicesector_2/WaT_chart1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc370/servicesector_2/WaT_chart1/index.html",
+      "url_new": "/visualisations/dvc370/servicesector_2/WaT_chart1/index.html"
     },
     {
       "type": "p",
@@ -176,7 +178,7 @@
       "h3": "2. The percentage of workers in the service sector rose from 33% in 1841 to 80% in 2011",
       "h4": "Percentage of the labour force working in each sector of the economy, England and Wales, 1841 to 2011 ",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2016/09/services-2-new.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2016/09/services-2-new.csv)"
     },
     {
       "type": "heading",
@@ -210,7 +212,8 @@
       "h3": "3. The service sector dominates London's economy",
       "h4": "Percentage of each area’s economy that is in the service sector, UK, 2014",
       "h5": null,
-      "text": "[](/visualisations//visual/2016/09/figure-3.jpg)"
+      "text": "[](https://static.ons.gov.uk/visual/2016/09/figure-3.jpg)",
+      "text_new": "[](/visual/2016/09/figure-3.jpg)"
     },
     {
       "type": "image",
@@ -218,8 +221,9 @@
       "h3": "3. The service sector dominates London's economy",
       "h4": "Percentage of each area’s economy that is in the service sector, UK, 2014",
       "h5": null,
-      "src": "/visualisations//visual/2016/09/figure-3.jpg",
-      "alt": null
+      "src": "https://static.ons.gov.uk/visual/2016/09/figure-3.jpg",
+      "alt": null,
+      "src_new": "/visual/2016/09/figure-3.jpg"
     },
     {
       "type": "p",
@@ -235,7 +239,7 @@
       "h3": "3. The service sector dominates London's economy",
       "h4": "Percentage of each area’s economy that is in the service sector, UK, 2014",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2016/09/services-3.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2016/09/services-3.csv)"
     },
     {
       "type": "heading",
@@ -278,7 +282,8 @@
       "h4": "Percentage of each country's GDP that comes from the service sector, G7 countries, 2014",
       "h5": null,
       "title": "Percentage of each country's GDP that comes from the service sector, G7 countries, 2014",
-      "url": "/visualisations/dvc370/servicesector_4/stackedbar/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc370/servicesector_4/stackedbar/index.html",
+      "url_new": "/visualisations/dvc370/servicesector_4/stackedbar/index.html"
     },
     {
       "type": "p",
@@ -286,7 +291,7 @@
       "h3": "4. The UK's economy is more reliant on the service sector than any other G7 country",
       "h4": "Percentage of each country's GDP that comes from the service sector, G7 countries, 2014",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2016/09/services-4-new.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2016/09/services-4-new.csv)"
     },
     {
       "type": "heading",
@@ -329,7 +334,8 @@
       "h4": "Output from the service, construction and production sectors in index numbers (2008 = 100), January to March (quarter 1) 2008 to April to June (quarter 2), 20163",
       "h5": null,
       "title": "Output from the service, construction and production sectors in index numbers (2008 = 100), January to March (quarter 1) 2008 to April to June (quarter 2), 2016<sup>3<\/sup>",
-      "url": "/visualisations/dvc370/servicesector_5/line_chart/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc370/servicesector_5/line_chart/index.html",
+      "url_new": "/visualisations/dvc370/servicesector_5/line_chart/index.html"
     },
     {
       "type": "p",
@@ -337,7 +343,7 @@
       "h3": "5. The service sector has driven the economic recovery since the downturn in 2008",
       "h4": "Output from the service, construction and production sectors in index numbers (2008 = 100), January to March (quarter 1) 2008 to April to June (quarter 2), 20163",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2016/09/services-5-new.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2016/09/services-5-new.csv)"
     },
     {
       "type": "p",
@@ -410,7 +416,7 @@
       "h3": "5. The service sector has driven the economic recovery since the downturn in 2008",
       "h4": "Notes:",
       "h5": null,
-      "text": "Whenever we have referred to UK GDP in this article we have referred to the [output measure](/visualisations/20160105160709/http://www.ons.gov.uk/ons/rel/naa1-rd/united-kingdom-national-accounts/the-blue-book--2012-edition/art---balancing-the-three-approaches-to-measuring-gdp.html) of UK GDP. Components of this measure (services, production, construction and agriculture) are measured as Gross Value Added (GVA) which is used as proxy for GDP."
+      "text": "Whenever we have referred to UK GDP in this article we have referred to the [output measure](http://webarchive.nationalarchives.gov.uk/20160105160709/http://www.ons.gov.uk/ons/rel/naa1-rd/united-kingdom-national-accounts/the-blue-book--2012-edition/art---balancing-the-three-approaches-to-measuring-gdp.html) of UK GDP. Components of this measure (services, production, construction and agriculture) are measured as Gross Value Added (GVA) which is used as proxy for GDP."
     },
     {
       "type": "heading",

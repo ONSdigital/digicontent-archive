@@ -487,7 +487,8 @@
       "h4": "Children with Special Educational Needs were less likely to go to a higher-rated school",
       "h5": null,
       "title": "Children with special educational needs were less likely to a higher-rated school",
-      "url": "/visualisations/dvc2377/fig1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2377/fig1/index.html",
+      "url_new": "/visualisations/dvc2377/fig1/index.html"
     },
     {
       "type": "heading",
@@ -504,7 +505,8 @@
       "h3": null,
       "h4": "Download the data",
       "h5": null,
-      "text": "[.xlsx](/visualisations/dvc2377/fig1/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2377/fig1/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2377/fig1/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -750,7 +752,8 @@
       "h4": "School ratings were lowest in suburban fringes and semi-rural areas",
       "h5": null,
       "title": "School ratings were lowest in suburban fringes and semi-rural areas",
-      "url": "/visualisations/dvc2377/fig2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2377/fig2/index.html",
+      "url_new": "/visualisations/dvc2377/fig2/index.html"
     },
     {
       "type": "heading",
@@ -767,7 +770,8 @@
       "h3": null,
       "h4": "Download the data",
       "h5": null,
-      "text": "[.xlsx](/visualisations/dvc2377/fig2/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2377/fig2/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2377/fig2/datadownload.xlsx)"
     },
     {
       "type": "p",

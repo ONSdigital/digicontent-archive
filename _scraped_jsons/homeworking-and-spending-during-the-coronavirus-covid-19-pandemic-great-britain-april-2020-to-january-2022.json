@@ -267,8 +267,9 @@
       "chartbuilder_h3": "Figure 1: Almost half of homeworkers reported spending less as a result of homeworking more because of the coronavirus pandemic",
       "chartbuilder_h4": "Proportion of homeworkers who report changes in their spending on account of increased homeworking because of the coronavirus pandemic, Great Britain, 19 to 30 January 2022",
       "data_uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/homeworkingandspendingduringthecoronaviruscovid19pandemicgreatbritain/april2020tojanuary2022/16060f5d",
-      "src": "/_scraped_chartbuilder_imgs/16060f5d.png",
-      "local_filename": "16060f5d.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/homeworkingandspendingduringthecoronaviruscovid19pandemicgreatbritain/april2020tojanuary2022/16060f5d&width=&hideSource=true",
+      "local_filename": "16060f5d.png",
+      "src_new": "/_scraped_chartbuilder_imgs/16060f5d.png"
     },
     {
       "type": "p",
@@ -318,7 +319,8 @@
       "h4": "Figure 2: Nearly half of self-employed homeworkers did not see a change in spending",
       "h5": null,
       "title": "Nearly half of self-employed homeworkers did not see a change in spending ",
-      "url": "/visualisations/dvc1801/stacked-bar-horizontal-selfemployed/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1801/stacked-bar-horizontal-selfemployed/index.html",
+      "url_new": "/visualisations/dvc1801/stacked-bar-horizontal-selfemployed/index.html"
     },
     {
       "type": "heading",
@@ -368,7 +370,8 @@
       "h3": null,
       "h4": "Notes:",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc1801/stacked-bar-horizontal-selfemployed/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc1801/stacked-bar-horizontal-selfemployed/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc1801/stacked-bar-horizontal-selfemployed/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -499,7 +502,8 @@
       "h4": "Figure 3: Homeworkers were most likely to have spent more on utilities, and less on commuting",
       "h5": null,
       "title": "Homeworkers were most likely to have spent more on utilities, and less on commuting ",
-      "url": "/visualisations/dvc1801/diverging-bar-all/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1801/diverging-bar-all/index.html",
+      "url_new": "/visualisations/dvc1801/diverging-bar-all/index.html"
     },
     {
       "type": "heading",
@@ -533,7 +537,8 @@
       "h3": null,
       "h4": "Notes:",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc1801/diverging-bar-all/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc1801/diverging-bar-all/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc1801/diverging-bar-all/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -583,7 +588,8 @@
       "h4": "Figure 4: Homeworkers in rented housing were more likely to report increased spending on utilities than those who own their home outright",
       "h5": null,
       "title": "Homeworkers in rented housing were more likely to report increased spending on utilities than those who own their home outright ",
-      "url": "/visualisations/dvc1801/diverging-bar-tenure-utilities/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1801/diverging-bar-tenure-utilities/index.html",
+      "url_new": "/visualisations/dvc1801/diverging-bar-tenure-utilities/index.html"
     },
     {
       "type": "heading",
@@ -617,7 +623,8 @@
       "h3": null,
       "h4": "Notes:",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc1801/diverging-bar-tenure-utilities/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc1801/diverging-bar-tenure-utilities/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc1801/diverging-bar-tenure-utilities/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -684,7 +691,8 @@
       "h4": "Figure 5: The percentage of homeworkers is correlated with the stringency of coronavirus restrictions",
       "h5": null,
       "title": "The percentage of homeworkers is correlated with the stringency of COVID-19 restrictions",
-      "url": "/visualisations/dvc1801/small-multiple-line-homework-osi/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1801/small-multiple-line-homework-osi/index.html",
+      "url_new": "/visualisations/dvc1801/small-multiple-line-homework-osi/index.html"
     },
     {
       "type": "heading",
@@ -742,7 +750,8 @@
       "h3": null,
       "h4": "Notes:",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc1801/small-multiple-line-homework-osi/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc1801/small-multiple-line-homework-osi/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc1801/small-multiple-line-homework-osi/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -769,8 +778,9 @@
       "chartbuilder_h3": "Figure 6: Spending on credit and debit cards is correlated with the number of people in workplaces",
       "chartbuilder_h4": "Aggregated Clearing House Automated Payment System (CHAPS) card spending index, Google Workplace Mobility Index, UK, April 2020 to January 2022",
       "data_uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/homeworkingandspendingduringthecoronaviruscovid19pandemicgreatbritain/april2020tojanuary2022/fc2a80ee",
-      "src": "/_scraped_chartbuilder_imgs/fc2a80ee.png",
-      "local_filename": "fc2a80ee.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/homeworkingandspendingduringthecoronaviruscovid19pandemicgreatbritain/april2020tojanuary2022/fc2a80ee&width=&hideSource=true",
+      "local_filename": "fc2a80ee.png",
+      "src_new": "/_scraped_chartbuilder_imgs/fc2a80ee.png"
     },
     {
       "type": "p",

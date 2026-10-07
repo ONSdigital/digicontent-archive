@@ -91,7 +91,8 @@
       "h4": null,
       "h5": null,
       "title": "In 2018 the UK’s gross contribution to the EU amounted to £20.0 billion",
-      "url": "/visualisations/dvc685/1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc685/1/index.html",
+      "url_new": "/visualisations/dvc685/1/index.html"
     },
     {
       "type": "p",
@@ -124,7 +125,8 @@
       "h4": null,
       "h5": null,
       "title": "In 2018 the UK abatement was £4.5 billion",
-      "url": "/visualisations/dvc685/2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc685/2/index.html",
+      "url_new": "/visualisations/dvc685/2/index.html"
     },
     {
       "type": "p",
@@ -173,7 +175,8 @@
       "h4": null,
       "h5": null,
       "title": "The ONS reports that the UK government's net contribution to the EU was £11.0 billion in 2018",
-      "url": "/visualisations/dvc685/3/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc685/3/index.html",
+      "url_new": "/visualisations/dvc685/3/index.html"
     },
     {
       "type": "p",
@@ -231,7 +234,8 @@
       "h4": "European Commission figures, five-year average, 2014 to 2018, £billion",
       "h5": null,
       "title": "European Commission figures, five-year average, 2014 to 2018, Â£billion",
-      "url": "/visualisations/dvc685/4/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc685/4/index.html",
+      "url_new": "/visualisations/dvc685/4/index.html"
     },
     {
       "type": "p",
@@ -239,7 +243,8 @@
       "h3": null,
       "h4": "European Commission figures, five-year average, 2014 to 2018, £billion",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc685/datadownloads/contribution.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc685/datadownloads/contribution.csv)",
+      "text_new": "[Download the data](/visualisations/dvc685/datadownloads/contribution.csv)"
     },
     {
       "type": "heading",
@@ -347,7 +352,8 @@
       "h4": "Context Calculator",
       "h5": null,
       "title": "This handy calculator is here to help you make meaning of the many large numbers used in the EU debate particularly the figures on the UK's net contribution to the EU. Click on either of the two buttons - or just type in a figure - and it will break it down for you.",
-      "url": "/visualisations/dvc685/calculator/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc685/calculator/index.html",
+      "url_new": "/visualisations/dvc685/calculator/index.html"
     },
     {
       "type": "heading",
@@ -398,7 +404,8 @@
       "h4": "UK contributions to the EU budget (after deducting the abatement), £ billions, 2010 to 2018",
       "h5": null,
       "title": "UK contributions to the EU budget (after deducting the abatement), Â£ billions, 2010 to 2018",
-      "url": "/visualisations/dvc685/stacked-bar-vertical/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc685/stacked-bar-vertical/index.html",
+      "url_new": "/visualisations/dvc685/stacked-bar-vertical/index.html"
     },
     {
       "type": "p",
@@ -406,7 +413,8 @@
       "h3": "The UK contribution over time",
       "h4": "UK contributions to the EU budget (after deducting the abatement), £ billions, 2010 to 2018",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc685/datadownloads/contributions-over-time.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc685/datadownloads/contributions-over-time.csv)",
+      "text_new": "[Download the data](/visualisations/dvc685/datadownloads/contributions-over-time.csv)"
     },
     {
       "type": "heading",

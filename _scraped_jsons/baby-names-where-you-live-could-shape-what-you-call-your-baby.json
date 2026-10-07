@@ -83,7 +83,8 @@
       "h4": null,
       "h5": null,
       "title": "Top baby names in your area",
-      "url": "/visualisations/dvc526/rank/rank/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc526/rank/rank/index.html",
+      "url_new": "/visualisations/dvc526/rank/rank/index.html"
     },
     {
       "type": "p",
@@ -199,7 +200,8 @@
       "h4": "Explore the top 100 boys’ names by area",
       "h5": null,
       "title": "Explore the top 100 boysâ€™ names by area",
-      "url": "/visualisations/dvc526/mappercent/mapboys/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc526/mappercent/mapboys/index.html",
+      "url_new": "/visualisations/dvc526/mappercent/mapboys/index.html"
     },
     {
       "type": "p",
@@ -307,7 +309,8 @@
       "h4": "Explore the top 100 girls’ names by area",
       "h5": null,
       "title": "Explore the top 100 girlsâ€™ names by area",
-      "url": "/visualisations/dvc526/mappercent/mapgirls/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc526/mappercent/mapgirls/index.html",
+      "url_new": "/visualisations/dvc526/mappercent/mapgirls/index.html"
     },
     {
       "type": "p",

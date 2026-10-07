@@ -96,7 +96,8 @@
       "h4": null,
       "h5": null,
       "title": "GDP",
-      "url": "/visualisations/dvc573/bgdp/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc573/bgdp/index.html",
+      "url_new": "/visualisations/dvc573/bgdp/index.html"
     },
     {
       "type": "p",
@@ -104,7 +105,8 @@
       "h3": "The rate of quarterly economic growth, as measured by gross domestic product (GDP)...",
       "h4": null,
       "h5": null,
-      "text": "[Download the data.](/visualisations/dvc573/gdp.csv)"
+      "text": "[Download the data.](https://www.ons.gov.uk/visualisations/dvc573/gdp.csv)",
+      "text_new": "[Download the data.](/visualisations/dvc573/gdp.csv)"
     },
     {
       "type": "heading",
@@ -130,7 +132,8 @@
       "h4": null,
       "h5": null,
       "title": "CPIH",
-      "url": "/visualisations/dvc573/acpih/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc573/acpih/index.html",
+      "url_new": "/visualisations/dvc573/acpih/index.html"
     },
     {
       "type": "p",
@@ -138,7 +141,8 @@
       "h3": "The rate of inflation...",
       "h4": null,
       "h5": null,
-      "text": "[Download the data.](/visualisations/dvc573/cpih.csv)"
+      "text": "[Download the data.](https://www.ons.gov.uk/visualisations/dvc573/cpih.csv)",
+      "text_new": "[Download the data.](/visualisations/dvc573/cpih.csv)"
     },
     {
       "type": "p",
@@ -172,7 +176,8 @@
       "h4": null,
       "h5": null,
       "title": "Pound v Euro",
-      "url": "/visualisations/dvc573/cpound/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc573/cpound/index.html",
+      "url_new": "/visualisations/dvc573/cpound/index.html"
     },
     {
       "type": "p",
@@ -206,7 +211,8 @@
       "h4": null,
       "h5": null,
       "title": "Tourism",
-      "url": "/visualisations/dvc573/dtourism/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc573/dtourism/index.html",
+      "url_new": "/visualisations/dvc573/dtourism/index.html"
     },
     {
       "type": "p",
@@ -214,7 +220,8 @@
       "h3": "The number of visits by overseas residents to the UK...",
       "h4": null,
       "h5": null,
-      "text": "[Download the data.](/visualisations/dvc573/visits.csv)"
+      "text": "[Download the data.](https://www.ons.gov.uk/visualisations/dvc573/visits.csv)",
+      "text_new": "[Download the data.](/visualisations/dvc573/visits.csv)"
     },
     {
       "type": "heading",
@@ -240,7 +247,8 @@
       "h4": null,
       "h5": null,
       "title": "Employment",
-      "url": "/visualisations/dvc573/funemployment/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc573/funemployment/index.html",
+      "url_new": "/visualisations/dvc573/funemployment/index.html"
     },
     {
       "type": "p",
@@ -248,7 +256,8 @@
       "h3": "The unemployment rate…",
       "h4": null,
       "h5": null,
-      "text": "[Download the data.](/visualisations/dvc573/unemployment.csv)"
+      "text": "[Download the data.](https://www.ons.gov.uk/visualisations/dvc573/unemployment.csv)",
+      "text_new": "[Download the data.](/visualisations/dvc573/unemployment.csv)"
     },
     {
       "type": "heading",
@@ -274,7 +283,8 @@
       "h4": null,
       "h5": null,
       "title": "Vacancies",
-      "url": "/visualisations/dvc573/gvacancies/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc573/gvacancies/index.html",
+      "url_new": "/visualisations/dvc573/gvacancies/index.html"
     },
     {
       "type": "p",
@@ -282,7 +292,8 @@
       "h3": "The number of job vacancies...",
       "h4": null,
       "h5": null,
-      "text": "[Download the data.](/visualisations/dvc573/vacancies.csv)"
+      "text": "[Download the data.](https://www.ons.gov.uk/visualisations/dvc573/vacancies.csv)",
+      "text_new": "[Download the data.](/visualisations/dvc573/vacancies.csv)"
     },
     {
       "type": "heading",
@@ -308,7 +319,8 @@
       "h4": null,
       "h5": null,
       "title": "Migration",
-      "url": "/visualisations/dvc573/emigration/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc573/emigration/index.html",
+      "url_new": "/visualisations/dvc573/emigration/index.html"
     },
     {
       "type": "p",
@@ -316,7 +328,8 @@
       "h3": "The number of EU citizens who immigrated to the UK…",
       "h4": null,
       "h5": null,
-      "text": "[Download the data.](/visualisations/dvc573/migration.csv)"
+      "text": "[Download the data.](https://www.ons.gov.uk/visualisations/dvc573/migration.csv)",
+      "text_new": "[Download the data.](/visualisations/dvc573/migration.csv)"
     },
     {
       "type": "p",

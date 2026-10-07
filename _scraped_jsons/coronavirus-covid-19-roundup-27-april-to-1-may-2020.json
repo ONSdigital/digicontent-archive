@@ -126,7 +126,8 @@
       "h4": "Cities have seen the highest rates of deaths involving COVID-19",
       "h5": "Age-standardised mortality rates for all causes and deaths involving COVID-19, local authorities in England and Wales, deaths occurring between 1 March and 17 April 2020",
       "title": "Map",
-      "url": "/visualisations/dvc811/multimap/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc811/multimap/index.html",
+      "url_new": "/visualisations/dvc811/multimap/index.html"
     },
     {
       "type": "p",
@@ -177,7 +178,8 @@
       "h4": "The rate of deaths involving COVID-19 is more than twice as high in the most deprived areas compared with the least deprived",
       "h5": "Age-standardised mortality rates, all deaths and deaths involving COVID-19, Index of Multiple Deprivation, England, deaths occurring between 1 March and 17 April 2020",
       "title": "Vertical clustered bar chart",
-      "url": "/visualisations/dvc811/clusteredbarvertical/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc811/clusteredbarvertical/index.html",
+      "url_new": "/visualisations/dvc811/clusteredbarvertical/index.html"
     },
     {
       "type": "p",

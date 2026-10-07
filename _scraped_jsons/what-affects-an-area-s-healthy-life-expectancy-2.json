@@ -67,7 +67,8 @@
       "h4": null,
       "h5": null,
       "title": "Interactive chart",
-      "url": "/visualisations/dvc413/chart/stackedbar/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc413/chart/stackedbar/index.html",
+      "url_new": "/visualisations/dvc413/chart/stackedbar/index.html"
     },
     {
       "type": "p",
@@ -157,7 +158,8 @@
       "h4": null,
       "h5": null,
       "title": "Healthy life expectancy - Smoking slider",
-      "url": "/visualisations/dvc413/sliders/smoking/index.html?initialWidth=700&childId=606-4338-b439-27e1cba29d19"
+      "url": "https://www.ons.gov.uk/visualisations/dvc413/sliders/smoking/index.html?initialWidth=700&childId=606-4338-b439-27e1cba29d19",
+      "url_new": "/visualisations/dvc413/sliders/smoking/index.html?initialWidth=700&childId=606-4338-b439-27e1cba29d19"
     },
     {
       "type": "heading",
@@ -199,7 +201,8 @@
       "h4": null,
       "h5": null,
       "title": "Healthy life expectancy - Alcohol slider",
-      "url": "/visualisations/dvc413/sliders/alcohol/index.html?initialWidth=700&childId=cfd-4eac-b43e-d93d2ddb5f21"
+      "url": "https://www.ons.gov.uk/visualisations/dvc413/sliders/alcohol/index.html?initialWidth=700&childId=cfd-4eac-b43e-d93d2ddb5f21",
+      "url_new": "/visualisations/dvc413/sliders/alcohol/index.html?initialWidth=700&childId=cfd-4eac-b43e-d93d2ddb5f21"
     },
     {
       "type": "heading",
@@ -249,7 +252,8 @@
       "h4": null,
       "h5": null,
       "title": "Interactive chart",
-      "url": "/visualisations/dvc413/sliders/diet/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc413/sliders/diet/index.html",
+      "url_new": "/visualisations/dvc413/sliders/diet/index.html"
     },
     {
       "type": "heading",
@@ -307,7 +311,8 @@
       "h4": null,
       "h5": null,
       "title": "Interactive chart",
-      "url": "/visualisations/dvc413/sliders/physicalactivity/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc413/sliders/physicalactivity/index.html",
+      "url_new": "/visualisations/dvc413/sliders/physicalactivity/index.html"
     },
     {
       "type": "heading",
@@ -333,7 +338,8 @@
       "h4": null,
       "h5": null,
       "title": "Interactive chart",
-      "url": "/visualisations/dvc413/barcodes/barcode/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc413/barcodes/barcode/index.html",
+      "url_new": "/visualisations/dvc413/barcodes/barcode/index.html"
     },
     {
       "type": "heading",

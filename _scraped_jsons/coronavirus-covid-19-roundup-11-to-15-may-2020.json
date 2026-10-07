@@ -110,8 +110,9 @@
       "chartbuilder_h3": "More than a quarter of deaths in care homes involved COVID-19",
       "chartbuilder_h4": "Percentage of deaths in each age group that involved COVID-19, England and Wales, from 2 March 2020 to 1 May 2020, registered up to 9 May 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup11to15may2020/2020-05-15/56ee542f",
-      "src": "/_scraped_chartbuilder_imgs/56ee542f.png",
-      "local_filename": "56ee542f.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup11to15may2020/2020-05-15/56ee542f&width=&hideSource=true",
+      "local_filename": "56ee542f.png",
+      "src_new": "/_scraped_chartbuilder_imgs/56ee542f.png"
     },
     {
       "type": "p",
@@ -195,8 +196,9 @@
       "chartbuilder_h3": "The number of deaths due to COVID-19 increased nearly every day up to 8 April 2020",
       "chartbuilder_h4": "Number of deaths with COVID-19 as underlying cause, England and Wales, all deaths occurring in 2020 and five-year average per day in March and April",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup11to15may2020/2020-05-15/fc5b99c2",
-      "src": "/_scraped_chartbuilder_imgs/fc5b99c2.png",
-      "local_filename": "fc5b99c2.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup11to15may2020/2020-05-15/fc5b99c2&width=&hideSource=true",
+      "local_filename": "fc5b99c2.png",
+      "src_new": "/_scraped_chartbuilder_imgs/fc5b99c2.png"
     },
     {
       "type": "p",
@@ -254,7 +256,8 @@
       "h4": null,
       "h5": null,
       "title": "Interactive chart",
-      "url": "/visualisations/dvc804/2map/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc804/2map/index.html",
+      "url_new": "/visualisations/dvc804/2map/index.html"
     },
     {
       "type": "p",
@@ -330,7 +333,8 @@
       "h4": "People from minority ethnic groups are less likely to have access to a private garden",
       "h5": "Percentage of people with access to a private garden, by ethnic group, England, 2014 to 2019",
       "title": "People from minority ethnic groups are less likely to have access to a private garden",
-      "url": "/visualisations/dvc817/greenspace/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc817/greenspace/index.html",
+      "url_new": "/visualisations/dvc817/greenspace/index.html"
     },
     {
       "type": "p",
@@ -510,7 +514,8 @@
       "h4": null,
       "h5": null,
       "title": "Interactive chart",
-      "url": "/visualisations/dvc806/scatter/scatter/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc806/scatter/scatter/index.html",
+      "url_new": "/visualisations/dvc806/scatter/scatter/index.html"
     },
     {
       "type": "p",
@@ -518,7 +523,8 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc806/occupations_exposure_to_disease_data.xls)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc806/occupations_exposure_to_disease_data.xls)",
+      "text_new": "[Download the data](/visualisations/dvc806/occupations_exposure_to_disease_data.xls)"
     },
     {
       "type": "box",

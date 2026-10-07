@@ -84,7 +84,8 @@
       "h4": "One year, five year and 10 year survival estimates for the 21 most common cancers in England, 1971 and 2011 ",
       "h5": null,
       "title": "One year, five year and 10 year survival estimatesÂ� for the 21 most common cancers in England, 1971 and 2011Â�",
-      "url": "/visualisations/nesscontent/dvc314/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc314/index.html",
+      "url_new": "/visualisations/nesscontent/dvc314/index.html"
     },
     {
       "type": "p",
@@ -92,7 +93,7 @@
       "h3": null,
       "h4": "One year, five year and 10 year survival estimates for the 21 most common cancers in England, 1971 and 2011 ",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2016/02/Cancer-survival-estimates1.csv)\n"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2016/02/Cancer-survival-estimates1.csv)\n"
     },
     {
       "type": "heading",

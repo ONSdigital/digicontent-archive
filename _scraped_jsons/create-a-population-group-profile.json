@@ -90,8 +90,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations/populationprofiles/img/header.png",
-      "alt": ""
+      "src": "https://www.ons.gov.uk/visualisations/populationprofiles/img/header.png",
+      "alt": "",
+      "src_new": "/visualisations/populationprofiles/img/header.png"
     },
     {
       "type": "heading",

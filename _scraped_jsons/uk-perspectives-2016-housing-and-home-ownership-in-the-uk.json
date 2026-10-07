@@ -46,7 +46,7 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "Housing policy in the UK is devolved and sub national trends are available in the related links. This article in the [UK Perspectives](/visualisations/20170726163612/https://visual.ons.gov.uk/introducing-uk-perspectives-2016) series presents some UK national trends."
+      "text": "Housing policy in the UK is devolved and sub national trends are available in the related links. This article in the [UK Perspectives](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/introducing-uk-perspectives-2016) series presents some UK national trends."
     },
     {
       "type": "heading",
@@ -100,7 +100,8 @@
       "h4": "Mix-adjusted House Price Index (HPI), UK, 1980 to 2015",
       "h5": null,
       "title": "Mix-adjusted House Price Index (HPI), UK, 1980 to 2015",
-      "url": "/visualisations/nesscontent/dvc336/House_Chart1/House_Chart1.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc336/House_Chart1/House_Chart1.html",
+      "url_new": "/visualisations/nesscontent/dvc336/House_Chart1/House_Chart1.html"
     },
     {
       "type": "p",
@@ -108,7 +109,7 @@
       "h3": "1. Current rising house prices",
       "h4": "Mix-adjusted House Price Index (HPI), UK, 1980 to 2015",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2016/05/Housing_Chart1.csv)."
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2016/05/Housing_Chart1.csv)."
     },
     {
       "type": "li",
@@ -191,7 +192,8 @@
       "h4": "Number of mortgage loans for first time buyers, UK, 1980 to 20154",
       "h5": null,
       "title": "Number of mortgage loans to first time buyers",
-      "url": "/visualisations/nesscontent/dvc336/House_Chart2/House_Chart2.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc336/House_Chart2/House_Chart2.html",
+      "url_new": "/visualisations/nesscontent/dvc336/House_Chart2/House_Chart2.html"
     },
     {
       "type": "p",
@@ -242,7 +244,8 @@
       "h4": "Percentage of each age group that are home owners5, England, 1981 to 2014",
       "h5": null,
       "title": "Home owners by age group",
-      "url": "/visualisations/nesscontent/dvc336/House_Chart3/House_Chart3.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc336/House_Chart3/House_Chart3.html",
+      "url_new": "/visualisations/nesscontent/dvc336/House_Chart3/House_Chart3.html"
     },
     {
       "type": "p",
@@ -250,7 +253,7 @@
       "h3": "3. Decreasing numbers of younger homeowners",
       "h4": "Percentage of each age group that are home owners5, England, 1981 to 2014",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2016/05/Housing_Chart3-v2.csv)."
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2016/05/Housing_Chart3-v2.csv)."
     },
     {
       "type": "p",
@@ -301,7 +304,8 @@
       "h4": "Deposit as a percentage of purchase price by type of buyer, UK, 1988 to 2014",
       "h5": null,
       "title": "Deposit as a percentage of purchase price by type of buyer, UK, 1988 to 2014",
-      "url": "/visualisations/nesscontent/dvc336/House_Chart4/House_Chart4.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc336/House_Chart4/House_Chart4.html",
+      "url_new": "/visualisations/nesscontent/dvc336/House_Chart4/House_Chart4.html"
     },
     {
       "type": "p",
@@ -309,7 +313,7 @@
       "h3": "4. Deposits paid by first time buyers",
       "h4": "Deposit as a percentage of purchase price by type of buyer, UK, 1988 to 2014",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2016/05/Housing_Chart4-1.csv)."
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2016/05/Housing_Chart4-1.csv)."
     },
     {
       "type": "p",
@@ -376,7 +380,8 @@
       "h4": "Dwelling stock by tenure, UK, 1980 to 2014",
       "h5": null,
       "title": "Dwelling stock by tenure, UK, 1980 to 2014",
-      "url": "/visualisations/nesscontent/dvc336/House_Chart5/House_Chart5.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc336/House_Chart5/House_Chart5.html",
+      "url_new": "/visualisations/nesscontent/dvc336/House_Chart5/House_Chart5.html"
     },
     {
       "type": "p",
@@ -384,7 +389,7 @@
       "h3": "5. Increase in private rental sector stock",
       "h4": "Dwelling stock by tenure, UK, 1980 to 2014",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2016/05/Housing_Chart5-v2.csv)."
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2016/05/Housing_Chart5-v2.csv)."
     },
     {
       "type": "p",
@@ -451,7 +456,8 @@
       "h4": "Permanent dwellings completed, by tenure, UK, financial year ending 1980 to financial year ending 2015",
       "h5": null,
       "title": "Permanent dwellings completed, by tenure, UK, financial year ending 1980 to financial year ending 2015",
-      "url": "/visualisations/nesscontent/dvc336/House_Chart6/House_Chart6.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc336/House_Chart6/House_Chart6.html",
+      "url_new": "/visualisations/nesscontent/dvc336/House_Chart6/House_Chart6.html"
     },
     {
       "type": "p",
@@ -459,7 +465,7 @@
       "h3": "6. Fewer new homes are being built",
       "h4": "Permanent dwellings completed, by tenure, UK, financial year ending 1980 to financial year ending 2015",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2016/05/Housing_Chart6.csv)."
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2016/05/Housing_Chart6.csv)."
     },
     {
       "type": "p",
@@ -530,11 +536,11 @@
       "box_text": "",
       "box_items": [
         "[UK Perspectives 2016](https://visual.ons.gov.uk/introducing-uk-perspectives-2016/)",
-        "[Trends in the housing market](/visualisations/20160105160709/http://www.ons.gov.uk/ons/rel/hpi/house-price-index-guidance/trends-in-the-uk-housing-market-2014/housing-trends-article.html)",
+        "[Trends in the housing market](http://webarchive.nationalarchives.gov.uk/20160105160709/http://www.ons.gov.uk/ons/rel/hpi/house-price-index-guidance/trends-in-the-uk-housing-market-2014/housing-trends-article.html)",
         "[How are house prices changing?](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/housepriceindex/feb2016)",
         "[How many of each property type are there? (1971 onwards)](https://www.gov.uk/government/collections/dwelling-stock-including-vacants)",
         "[New house builds across the UK (1969 onwards)](https://www.gov.uk/government/statistical-data-sets/live-tables-on-house-building)",
-        "[Overcrowding and under occupation in England and Wales](/visualisations/20160105160709/http://www.ons.gov.uk/ons/rel/census/2011-census-analysis/overcrowding-and-under-occupation-in-england-and-wales/index.html)",
+        "[Overcrowding and under occupation in England and Wales](http://webarchive.nationalarchives.gov.uk/20160105160709/http://www.ons.gov.uk/ons/rel/census/2011-census-analysis/overcrowding-and-under-occupation-in-england-and-wales/index.html)",
         "[Household projections](https://www.gov.uk/government/statistical-data-sets/live-tables-on-household-projections)",
         "[Why are more young people living with their parents?](https://visual.ons.gov.uk/living-with-parents/)"
       ]

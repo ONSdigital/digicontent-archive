@@ -104,7 +104,8 @@
       "h4": "The closer the green space, and the more there is, the higher the premium",
       "h5": null,
       "title": "The closer the green space, and the more there is, the higher the premium Property price premium by distance from nearest publicly accessible green space and total amount of public green space accessible within 500 metres",
-      "url": "/visualisations/dvc691/line/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc691/line/index.html",
+      "url_new": "/visualisations/dvc691/line/index.html"
     },
     {
       "type": "p",
@@ -112,7 +113,8 @@
       "h3": null,
       "h4": "The closer the green space, and the more there is, the higher the premium",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc691/line/datadownload.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc691/line/datadownload.csv)",
+      "text_new": "[Download the data](/visualisations/dvc691/line/datadownload.csv)"
     },
     {
       "type": "p",
@@ -252,8 +254,9 @@
       "chartbuilder_h3": "Detached houses attract the biggest premium, flats the smallest",
       "chartbuilder_h4": "Estimated premium for properties within 100 metres of publicly accessible green space compared with properties more than 500 metres away, by property type",
       "data_uri": "https://www.ons.gov.uk/economy/environmentalaccounts/articles/urbangreenspacesraisenearbyhousepricesbyanaverageof2500/2019-10-14/324996b6",
-      "src": "/_scraped_chartbuilder_imgs/324996b6.png",
-      "local_filename": "324996b6.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/environmentalaccounts/articles/urbangreenspacesraisenearbyhousepricesbyanaverageof2500/2019-10-14/324996b6&width=&hideSource=true",
+      "local_filename": "324996b6.png",
+      "src_new": "/_scraped_chartbuilder_imgs/324996b6.png"
     },
     {
       "type": "heading",
@@ -320,7 +323,8 @@
       "h4": null,
       "h5": null,
       "title": "Access to green spaces and urban house prices",
-      "url": "/visualisations/dvc691/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc691/index.html",
+      "url_new": "/visualisations/dvc691/index.html"
     },
     {
       "type": "box",

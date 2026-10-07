@@ -67,7 +67,8 @@
       "h4": null,
       "h5": null,
       "title": "How well do you know migration?",
-      "url": "/visualisations/nesscontent/dvc278/quiz/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc278/quiz/index.html",
+      "url_new": "/visualisations/nesscontent/dvc278/quiz/index.html"
     },
     {
       "type": "heading",
@@ -118,7 +119,8 @@
       "h4": "Non-UK born population, Great Britain, 2014",
       "h5": null,
       "title": "Non-UK born population, Great Britain, 2014 Annual Population Survey",
-      "url": "/visualisations/nesscontent/dvc278/map/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc278/map/index.html",
+      "url_new": "/visualisations/nesscontent/dvc278/map/index.html"
     },
     {
       "type": "p",
@@ -126,7 +128,7 @@
       "h3": null,
       "h4": "Non-UK born population, Great Britain, 2014",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2015/08/data4.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2015/08/data4.csv)"
     },
     {
       "type": "p",

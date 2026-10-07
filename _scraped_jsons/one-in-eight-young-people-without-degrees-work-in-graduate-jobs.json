@@ -161,8 +161,9 @@
       "chartbuilder_h3": "Economically inactive graduates and non-graduates, aged 22 to 29, UK, 2017",
       "chartbuilder_h4": "Source: Annual Population Survey",
       "data_uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/oneineightyoungpeoplewithoutdegreesworkingraduatejobs/2018-09-18/27822579",
-      "src": "/_scraped_chartbuilder_imgs/27822579.png",
-      "local_filename": "27822579.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/oneineightyoungpeoplewithoutdegreesworkingraduatejobs/2018-09-18/27822579&width=&hideSource=true",
+      "local_filename": "27822579.png",
+      "src_new": "/_scraped_chartbuilder_imgs/27822579.png"
     },
     {
       "type": "p",
@@ -269,7 +270,8 @@
       "h4": "Occupations of non-graduates aged 22 to 29, UK, 2017",
       "h5": null,
       "title": "Occupations of non-graduates aged 22 to 29, UK, 2017",
-      "url": "/visualisations/dvc533/nongraduates.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc533/nongraduates.html",
+      "url_new": "/visualisations/dvc533/nongraduates.html"
     },
     {
       "type": "p",
@@ -303,7 +305,8 @@
       "h4": "Occupations of graduates aged 22 to 29, UK, 2017",
       "h5": null,
       "title": "Occupations of graduates aged 22 to 29, UK, 2017",
-      "url": "/visualisations/dvc533/graduates.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc533/graduates.html",
+      "url_new": "/visualisations/dvc533/graduates.html"
     },
     {
       "type": "p",
@@ -338,8 +341,9 @@
       "chartbuilder_h3": "Earnings of full-time professionals, skilled trade and elementary (aged 22 to 29), UK, 2008 to 2017",
       "chartbuilder_h4": "Source: Annual Survey of Hours and Earnings",
       "data_uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/oneineightyoungpeoplewithoutdegreesworkingraduatejobs/2018-09-18/3b3ba6e0",
-      "src": "/_scraped_chartbuilder_imgs/3b3ba6e0.png",
-      "local_filename": "3b3ba6e0.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/oneineightyoungpeoplewithoutdegreesworkingraduatejobs/2018-09-18/3b3ba6e0&width=&hideSource=true",
+      "local_filename": "3b3ba6e0.png",
+      "src_new": "/_scraped_chartbuilder_imgs/3b3ba6e0.png"
     },
     {
       "type": "heading",

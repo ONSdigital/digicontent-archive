@@ -118,7 +118,8 @@
       "h4": "Non-COVID-19 weekly death registrations have been below or similar to the five-year average since Week 19 in 2020, having previously been above average between Weeks 13 and 18",
       "h5": "Weekly total death registrations and non-COVID-19 death registrations in 2020 for England and Wales, compared to with the five-year average for equivalent weeks up to Week 28",
       "title": "Interactive chart",
-      "url": "/visualisations/dvc959/fig1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc959/fig1/index.html",
+      "url_new": "/visualisations/dvc959/fig1/index.html"
     },
     {
       "type": "p",
@@ -126,7 +127,8 @@
       "h3": null,
       "h4": "Non-COVID-19 weekly death registrations have been below or similar to the five-year average since Week 19 in 2020, having previously been above average between Weeks 13 and 18",
       "h5": "Weekly total death registrations and non-COVID-19 death registrations in 2020 for England and Wales, compared to with the five-year average for equivalent weeks up to Week 28",
-      "text": "[Download the data](/visualisations/dvc959/fig1/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc959/fig1/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc959/fig1/datadownload.xlsx)"
     },
     {
       "type": "heading",

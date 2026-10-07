@@ -122,7 +122,8 @@
       "h4": "Around 1 in 10 people feel their life has already returned to normal",
       "h5": "Attitudes towards when life will return to normal, Great Britain, March 2020 to February 2022",
       "title": "Around 1 in 10 people feel their life has already returned to normal  ",
-      "url": "/visualisations/dvc1864/return-to-normal/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1864/return-to-normal/index.html",
+      "url_new": "/visualisations/dvc1864/return-to-normal/index.html"
     },
     {
       "type": "heading",
@@ -171,7 +172,8 @@
       "h3": null,
       "h4": "Around 1 in 10 people feel their life has already returned to normal",
       "h5": "Notes:",
-      "text": "[Download the data for attitudes on when life will return to normal (XLSX, 15KB)](/visualisations/dvc1864/return-to-normal/datadownload.xlsx)"
+      "text": "[Download the data for attitudes on when life will return to normal (XLSX, 15KB)](http://www.ons.gov.uk/visualisations/dvc1864/return-to-normal/datadownload.xlsx)",
+      "text_new": "[Download the data for attitudes on when life will return to normal (XLSX, 15KB)](/visualisations/dvc1864/return-to-normal/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -263,8 +265,9 @@
       "chartbuilder_h3": "Frequent hand washing or use of hand gel was the most common behaviour among adults",
       "chartbuilder_h4": "Proportion of adults adopting behaviours because of the coronavirus (COVID-19) pandemic, Great Britain, 16 to 27 February 2022",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/articles/coronaviruscovid19disabledpeoplearemorelikelytofeellifewillneverreturntonormal/2022-03-16/f2a6be68",
-      "src": "/_scraped_chartbuilder_imgs/f2a6be68.png",
-      "local_filename": "f2a6be68.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/wellbeing/articles/coronaviruscovid19disabledpeoplearemorelikelytofeellifewillneverreturntonormal/2022-03-16/f2a6be68&width=&hideSource=true",
+      "local_filename": "f2a6be68.png",
+      "src_new": "/_scraped_chartbuilder_imgs/f2a6be68.png"
     },
     {
       "type": "p",
@@ -380,7 +383,8 @@
       "h4": "Disabled people were more likely to avoid crowded places and close contact with others because of the pandemic",
       "h5": "Proportion of adults adopting behaviours because of the coronavirus (COVID-19) pandemic, by disability status, Great Britain, 16 to 27 February 2022",
       "title": "Disabled people were more likely to avoid crowded places and close contact with others because of the pandemic ",
-      "url": "/visualisations/dvc1864/disability/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1864/disability/index.html",
+      "url_new": "/visualisations/dvc1864/disability/index.html"
     },
     {
       "type": "heading",
@@ -413,7 +417,8 @@
       "h3": null,
       "h4": "Disabled people were more likely to avoid crowded places and close contact with others because of the pandemic",
       "h5": "Notes:",
-      "text": "[Download the data for adults adopting behaviours because of the coronavirus by disability (XLSX, 10KB)](/visualisations/dvc1864/disability/datadownload.xlsx)"
+      "text": "[Download the data for adults adopting behaviours because of the coronavirus by disability (XLSX, 10KB)](http://www.ons.gov.uk/visualisations/dvc1864/disability/datadownload.xlsx)",
+      "text_new": "[Download the data for adults adopting behaviours because of the coronavirus by disability (XLSX, 10KB)](/visualisations/dvc1864/disability/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -449,8 +454,9 @@
       "chartbuilder_h3": "Adults aged 16 to 24 years were the least likely to avoid crowded places",
       "chartbuilder_h4": "Proportion of adults who reported avoiding crowded places because of the coronavirus (COVID-19) pandemic, by age, Great Britain, 16 to 27 February 2022",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/articles/coronaviruscovid19disabledpeoplearemorelikelytofeellifewillneverreturntonormal/2022-03-16/a6bc9a99",
-      "src": "/_scraped_chartbuilder_imgs/a6bc9a99.png",
-      "local_filename": "a6bc9a99.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/wellbeing/articles/coronaviruscovid19disabledpeoplearemorelikelytofeellifewillneverreturntonormal/2022-03-16/a6bc9a99&width=&hideSource=true",
+      "local_filename": "a6bc9a99.png",
+      "src_new": "/_scraped_chartbuilder_imgs/a6bc9a99.png"
     },
     {
       "type": "p",
@@ -542,7 +548,8 @@
       "h4": "Women were more likely than men to frequently wash hands or use hand gel",
       "h5": "Proportion of adults adopting different behaviours because of the coronavirus (COVID-19) pandemic, by sex, Great Britain, 16 to 27 February 2022",
       "title": "Women were more likely than men to frequently wash hands or use hand gel ",
-      "url": "/visualisations/dvc1864/sex/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1864/sex/index.html",
+      "url_new": "/visualisations/dvc1864/sex/index.html"
     },
     {
       "type": "heading",
@@ -575,7 +582,8 @@
       "h3": null,
       "h4": "Women were more likely than men to frequently wash hands or use hand gel",
       "h5": "Notes:",
-      "text": "[Download the data for adults adopting behaviours because of the coronavirus, by sex (XLSX, 10KB)](/visualisations/dvc1864/sex/datadownload.xlsx)"
+      "text": "[Download the data for adults adopting behaviours because of the coronavirus, by sex (XLSX, 10KB)](http://www.ons.gov.uk/visualisations/dvc1864/sex/datadownload.xlsx)",
+      "text_new": "[Download the data for adults adopting behaviours because of the coronavirus, by sex (XLSX, 10KB)](/visualisations/dvc1864/sex/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -667,7 +675,8 @@
       "h4": "People unable to afford an unexpected expense were less likely to report spending more time outdoors",
       "h5": "Proportion of adults adopting behaviours because of the coronavirus (COVID-19) pandemic, by ability to afford unexpected expense, Great Britain, 16 to 27 February 2022",
       "title": "People unable to afford an unexpected expense were less likely to report spending more time outdoors  ",
-      "url": "/visualisations/dvc1864/affordability/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1864/affordability/index.html",
+      "url_new": "/visualisations/dvc1864/affordability/index.html"
     },
     {
       "type": "heading",
@@ -700,7 +709,8 @@
       "h3": null,
       "h4": "People unable to afford an unexpected expense were less likely to report spending more time outdoors",
       "h5": "Notes:",
-      "text": "[Download the data for adults adopting behaviours because of coronavirus, by ability to afford an expense (XLSX, 10KB)](/visualisations/dvc1864/affordability/datadownload.xlsx)"
+      "text": "[Download the data for adults adopting behaviours because of coronavirus, by ability to afford an expense (XLSX, 10KB)](http://www.ons.gov.uk/visualisations/dvc1864/affordability/datadownload.xlsx)",
+      "text_new": "[Download the data for adults adopting behaviours because of coronavirus, by ability to afford an expense (XLSX, 10KB)](/visualisations/dvc1864/affordability/datadownload.xlsx)"
     },
     {
       "type": "heading",

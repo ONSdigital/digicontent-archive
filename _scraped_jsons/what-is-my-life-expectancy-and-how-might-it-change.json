@@ -126,7 +126,8 @@
       "h4": null,
       "h5": null,
       "title": "Interactive chart",
-      "url": "/visualisations/dvc221/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc221/index.html",
+      "url_new": "/visualisations/dvc221/index.html"
     },
     {
       "type": "p",
@@ -178,8 +179,9 @@
       "chartbuilder_h3": "Cohort life expectancy at birth, England and Wales, 1900 to 2016",
       "chartbuilder_h4": "Source: Past and projected expectations of life expectancy, 2016, ONS",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/articles/whatismylifeexpectancyandhowmightitchange/2017-12-01/45b9e7e7",
-      "src": "/_scraped_chartbuilder_imgs/45b9e7e7.png",
-      "local_filename": "45b9e7e7.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/articles/whatismylifeexpectancyandhowmightitchange/2017-12-01/45b9e7e7&width=&hideSource=true",
+      "local_filename": "45b9e7e7.png",
+      "src_new": "/_scraped_chartbuilder_imgs/45b9e7e7.png"
     },
     {
       "type": "p",
@@ -187,7 +189,7 @@
       "h3": "We don’t know whether life expectancy will rise",
       "h4": null,
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/uploads/2017/12/dataLE.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/uploads/2017/12/dataLE.csv)"
     },
     {
       "type": "p",

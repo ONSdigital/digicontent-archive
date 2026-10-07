@@ -195,8 +195,9 @@
       "h3": "How this affects you",
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc2389/images/Business-insights-impacts-economy.png",
-      "alt": ""
+      "src": "https://www.ons.gov.uk/visualisations/dvc2389/images/Business-insights-impacts-economy.png",
+      "alt": "",
+      "src_new": "/visualisations/dvc2389/images/Business-insights-impacts-economy.png"
     },
     {
       "type": "image",
@@ -204,8 +205,9 @@
       "h3": "How this affects you",
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc2389/images/Business-energy-spending.png",
-      "alt": ""
+      "src": "https://www.ons.gov.uk/visualisations/dvc2389/images/Business-energy-spending.png",
+      "alt": "",
+      "src_new": "/visualisations/dvc2389/images/Business-energy-spending.png"
     },
     {
       "type": "image",
@@ -213,8 +215,9 @@
       "h3": "How this affects you",
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc2389/images/Impact-energy-prices-businesses.png",
-      "alt": ""
+      "src": "https://www.ons.gov.uk/visualisations/dvc2389/images/Impact-energy-prices-businesses.png",
+      "alt": "",
+      "src_new": "/visualisations/dvc2389/images/Impact-energy-prices-businesses.png"
     },
     {
       "type": "heading",
@@ -264,7 +267,8 @@
       "h4": null,
       "h5": null,
       "title": "glossary",
-      "url": "/visualisations/dvc2389/gloss/widget_gloss/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2389/gloss/widget_gloss/index.html",
+      "url_new": "/visualisations/dvc2389/gloss/widget_gloss/index.html"
     },
     {
       "type": "box",
@@ -447,8 +451,9 @@
       "h3": "Connect with us",
       "h4": null,
       "h5": null,
-      "src": "/visualisations//assets/images/logo-ogl-footer.svg",
-      "alt": "OGL"
+      "src": "https://cdn.ons.gov.uk/assets/images/logo-ogl-footer.svg",
+      "alt": "OGL",
+      "src_new": "/assets/images/logo-ogl-footer.svg"
     },
     {
       "type": "p",

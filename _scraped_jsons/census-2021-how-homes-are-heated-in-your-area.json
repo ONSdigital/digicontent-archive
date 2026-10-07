@@ -105,7 +105,8 @@
       "h4": "Enter your postcode in the search box to find out how homes are heated in your neighbourhood",
       "h5": "Percentage of households by central heating type, by geographical area, England and Wales, 2021",
       "title": "Housing central heating type, 2021, England and Wales",
-      "url": "/census/maps/choropleth/housing/type-of-central-heating-in-household/heating-type/mains-gas-only?embed=true&embedInteractive=true&embedAreaSearch=true&embedCategorySelection=true&embedView=geography"
+      "url": "https://www.ons.gov.uk/census/maps/choropleth/housing/type-of-central-heating-in-household/heating-type/mains-gas-only?embed=true&embedInteractive=true&embedAreaSearch=true&embedCategorySelection=true&embedView=geography",
+      "url_new": "/census/maps/choropleth/housing/type-of-central-heating-in-household/heating-type/mains-gas-only?embed=true&embedInteractive=true&embedAreaSearch=true&embedCategorySelection=true&embedView=geography"
     },
     {
       "type": "heading",
@@ -230,7 +231,8 @@
       "h4": "Greater Manchester had 4 of the 10 neighbourhoods most reliant on electric-only heating",
       "h5": "Percentage of households by central heating type, by geographical area, England and Wales, 2021",
       "title": "Housing electricity, 2021, England and Wales",
-      "url": "/census/maps/choropleth/housing/type-of-central-heating-in-household/heating-type/electric-only?embed=true&embedInteractive=true&embedAreaSearch=false&embedCategorySelection=false&embedView=viewport&embedBounds=-2.3641697794793686%2C53.42017747638741%2C-2.108107340185967%2C53.52361633595979&geoLock=msoa"
+      "url": "https://www.ons.gov.uk/census/maps/choropleth/housing/type-of-central-heating-in-household/heating-type/electric-only?embed=true&embedInteractive=true&embedAreaSearch=false&embedCategorySelection=false&embedView=viewport&embedBounds=-2.3641697794793686%2C53.42017747638741%2C-2.108107340185967%2C53.52361633595979&geoLock=msoa",
+      "url_new": "/census/maps/choropleth/housing/type-of-central-heating-in-household/heating-type/electric-only?embed=true&embedInteractive=true&embedAreaSearch=false&embedCategorySelection=false&embedView=viewport&embedBounds=-2.3641697794793686%2C53.42017747638741%2C-2.108107340185967%2C53.52361633595979&geoLock=msoa"
     },
     {
       "type": "heading",
@@ -323,7 +325,8 @@
       "h4": "7 out of the 10 areas where oil-only heating was most common were in the East of England",
       "h5": "Percentage of households by central heating type, by geographical area, England and Wales, 2021",
       "title": "Housing oil, 2021, England and Wales",
-      "url": "/census/maps/choropleth/housing/type-of-central-heating-in-household/heating-type/oil-only?embed=true&embedInteractive=true&embedAreaSearch=false&embedCategorySelection=false&embedView=viewport&embedBounds=-0.12871252365957275%2C51.99869861622659%2C2.3557970494017297%2C53.02484366205158&geoLock=msoa"
+      "url": "https://www.ons.gov.uk/census/maps/choropleth/housing/type-of-central-heating-in-household/heating-type/oil-only?embed=true&embedInteractive=true&embedAreaSearch=false&embedCategorySelection=false&embedView=viewport&embedBounds=-0.12871252365957275%2C51.99869861622659%2C2.3557970494017297%2C53.02484366205158&geoLock=msoa",
+      "url_new": "/census/maps/choropleth/housing/type-of-central-heating-in-household/heating-type/oil-only?embed=true&embedInteractive=true&embedAreaSearch=false&embedCategorySelection=false&embedView=viewport&embedBounds=-0.12871252365957275%2C51.99869861622659%2C2.3557970494017297%2C53.02484366205158&geoLock=msoa"
     },
     {
       "type": "heading",
@@ -448,7 +451,8 @@
       "h4": "Around 8% of households in St Just and Land's End had no central heating",
       "h5": "Percentage of households by central heating type, by geographical area, England and Wales, 2021",
       "title": "Housing no central heating, 2021, England and Wales",
-      "url": "/census/maps/choropleth/housing/type-of-central-heating-in-household/heating-type/no-central-heating?embed=true&embedInteractive=true&embedAreaSearch=false&embedCategorySelection=false&embedView=viewport&embedBounds=-6.488346948205873%2C49.71533135932694%2C-3.3860351912087765%2C51.01232748813209&geoLock=msoa"
+      "url": "https://www.ons.gov.uk/census/maps/choropleth/housing/type-of-central-heating-in-household/heating-type/no-central-heating?embed=true&embedInteractive=true&embedAreaSearch=false&embedCategorySelection=false&embedView=viewport&embedBounds=-6.488346948205873%2C49.71533135932694%2C-3.3860351912087765%2C51.01232748813209&geoLock=msoa",
+      "url_new": "/census/maps/choropleth/housing/type-of-central-heating-in-household/heating-type/no-central-heating?embed=true&embedInteractive=true&embedAreaSearch=false&embedCategorySelection=false&embedView=viewport&embedBounds=-6.488346948205873%2C49.71533135932694%2C-3.3860351912087765%2C51.01232748813209&geoLock=msoa"
     },
     {
       "type": "heading",
@@ -533,7 +537,8 @@
       "h4": "5 of the top 10 areas for renewable-only heating were in Cornwall",
       "h5": "Percentage of households by central heating type, by geographical area, England and Wales, 2021",
       "title": "Housing renewables, 2021, England and Wales",
-      "url": "/census/maps/choropleth/housing/type-of-central-heating-in-household/heating-type/renewable-energy-only?embed=true&embedInteractive=true&embedAreaSearch=false&embedCategorySelection=false&embedView=viewport&embedBounds=-6.469503557004231%2C49.75169171910335%2C-3.6762791488375797%2C50.92017125744252&geoLock=msoa"
+      "url": "https://www.ons.gov.uk/census/maps/choropleth/housing/type-of-central-heating-in-household/heating-type/renewable-energy-only?embed=true&embedInteractive=true&embedAreaSearch=false&embedCategorySelection=false&embedView=viewport&embedBounds=-6.469503557004231%2C49.75169171910335%2C-3.6762791488375797%2C50.92017125744252&geoLock=msoa",
+      "url_new": "/census/maps/choropleth/housing/type-of-central-heating-in-household/heating-type/renewable-energy-only?embed=true&embedInteractive=true&embedAreaSearch=false&embedCategorySelection=false&embedView=viewport&embedBounds=-6.469503557004231%2C49.75169171910335%2C-3.6762791488375797%2C50.92017125744252&geoLock=msoa"
     },
     {
       "type": "heading",

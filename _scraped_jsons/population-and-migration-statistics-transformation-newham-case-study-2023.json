@@ -90,8 +90,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc2609/images/2156_Population-and-migration_Illustration.png",
-      "alt": null
+      "src": "https://www.ons.gov.uk/visualisations/dvc2609/images/2156_Population-and-migration_Illustration.png",
+      "alt": null,
+      "src_new": "/visualisations/dvc2609/images/2156_Population-and-migration_Illustration.png"
     },
     {
       "type": "heading",
@@ -142,7 +143,8 @@
       "h4": "Figure 1: Admin-based population estimate (ABPE) data show the largest percentage of people living in Newham are working age adults",
       "h5": null,
       "title": "Figure 1: ABPE data show the largest percentage of people living in Newham are working age adults",
-      "url": "/visualisations/dvc2609/Newham/Fig1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Newham/Fig1/index.html",
+      "url_new": "/visualisations/dvc2609/Newham/Fig1/index.html"
     },
     {
       "type": "heading",
@@ -210,7 +212,8 @@
       "h4": "Figure 2: Newham’s population increased by 3.0% to 360,400 people between 2021 and 2022",
       "h5": null,
       "title": "Figure 2: Newham’s population increased by 3.0% to 360,400 people between 2021 and 2022",
-      "url": "/visualisations/dvc2609/Newham/Fig2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Newham/Fig2/index.html",
+      "url_new": "/visualisations/dvc2609/Newham/Fig2/index.html"
     },
     {
       "type": "heading",
@@ -302,7 +305,8 @@
       "h4": "Figure 3: The largest difference in population estimates between Admin-based population estimates (ABPEs) and Census 2021 were in LSOAs with communal establishments",
       "h5": null,
       "title": "Figure 3: The largest difference in population estimates between ABPEs and Census 2021 were in LSOAs with communal establishments",
-      "url": "/visualisations/dvc2609/Newham/Fig3/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Newham/Fig3/index.html",
+      "url_new": "/visualisations/dvc2609/Newham/Fig3/index.html"
     },
     {
       "type": "heading",
@@ -385,8 +389,9 @@
       "h3": "Changes in Newham's daytime population",
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc2609/images/2156_Population-sub-groups-characteristics_Illustration.png",
-      "alt": null
+      "src": "https://www.ons.gov.uk/visualisations/dvc2609/images/2156_Population-sub-groups-characteristics_Illustration.png",
+      "alt": null,
+      "src_new": "/visualisations/dvc2609/images/2156_Population-sub-groups-characteristics_Illustration.png"
     },
     {
       "type": "heading",
@@ -445,7 +450,8 @@
       "h4": "Figure 4: The Admin-based population estimate (ABPE) proportion of ethnic groups in Newham is similar to census",
       "h5": null,
       "title": "Figure 4: The ABES proportion of ethnic groups in Newham is similar to census",
-      "url": "/visualisations/dvc2609/Newham/Fig4/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Newham/Fig4/index.html",
+      "url_new": "/visualisations/dvc2609/Newham/Fig4/index.html"
     },
     {
       "type": "heading",
@@ -512,7 +518,8 @@
       "h4": "Figure 5: Newham’s younger age groups are typically more ethnically diverse than older age groups for both males and females",
       "h5": null,
       "title": "Figure 5: Newham’s younger age groups are typically more ethnically diverse than older age groups for both males and females",
-      "url": "/visualisations/dvc2609/Newham/Fig5a/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Newham/Fig5a/index.html",
+      "url_new": "/visualisations/dvc2609/Newham/Fig5a/index.html"
     },
     {
       "type": "heading",
@@ -546,7 +553,8 @@
       "h4": "Figure 5: Newham’s younger age groups are typically more ethnically diverse than older age groups for both males and females",
       "h5": "Download the data",
       "title": "Figure 5: Newham’s younger age groups are typically more ethnically diverse than older age groups for both males and females",
-      "url": "/visualisations/dvc2609/Newham/Fig5b/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Newham/Fig5b/index.html",
+      "url_new": "/visualisations/dvc2609/Newham/Fig5b/index.html"
     },
     {
       "type": "heading",
@@ -621,7 +629,8 @@
       "h4": "Figure 6: Median occupied address net income varies within Newham, with some more affluent local areas",
       "h5": null,
       "title": "Figure 6: Median occupied address net income varies within Newham, with some more affluent local areas",
-      "url": "/visualisations/dvc2609/Newham/Fig6/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Newham/Fig6/index.html",
+      "url_new": "/visualisations/dvc2609/Newham/Fig6/index.html"
     },
     {
       "type": "heading",
@@ -705,7 +714,8 @@
       "h4": "Figure 7: Income measures in the ABIES dataset for Newham show variation between ethnic groups",
       "h5": null,
       "title": "Figure 7: Income measures in the ABIES dataset for Newham show variation between ethnic groups",
-      "url": "/visualisations/dvc2609/Newham/Fig7/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Newham/Fig7/index.html",
+      "url_new": "/visualisations/dvc2609/Newham/Fig7/index.html"
     },
     {
       "type": "heading",
@@ -763,8 +773,9 @@
       "h3": "Population sub-groups and characteristics in Newham",
       "h4": "Figure 7: Income measures in the ABIES dataset for Newham show variation between ethnic groups",
       "h5": "Download the data",
-      "src": "/visualisations/dvc2609/images/2156_Housing-accomodation-and-living-arrangements_Illustration.png",
-      "alt": null
+      "src": "https://www.ons.gov.uk/visualisations/dvc2609/images/2156_Housing-accomodation-and-living-arrangements_Illustration.png",
+      "alt": null,
+      "src_new": "/visualisations/dvc2609/images/2156_Housing-accomodation-and-living-arrangements_Illustration.png"
     },
     {
       "type": "heading",
@@ -823,7 +834,8 @@
       "h4": "Figure 8: There are more Census 2021 households in Newham than occupied addresses in the admin-based occupied address dataset (ABOAD)",
       "h5": null,
       "title": "Figure 8: There are more Census 2021 households in Newham than occupied addresses in the admin-based occupied address dataset ABOAD",
-      "url": "/visualisations/dvc2609/Newham/Fig8/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Newham/Fig8/index.html",
+      "url_new": "/visualisations/dvc2609/Newham/Fig8/index.html"
     },
     {
       "type": "heading",
@@ -882,7 +894,8 @@
       "h4": "Figure 9: The most common number of residents in ABOAD occupied addresses was five, whereas two was most common in census",
       "h5": null,
       "title": "Figure 9: The most common number of residents in ABOAD occupied addresses was five, whereas two was most common in census",
-      "url": "/visualisations/dvc2609/Newham/Fig9/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Newham/Fig9/index.html",
+      "url_new": "/visualisations/dvc2609/Newham/Fig9/index.html"
     },
     {
       "type": "heading",
@@ -981,7 +994,8 @@
       "h4": "Figure 10: Dwellings in Newham most commonly have three rooms",
       "h5": null,
       "title": "Figure 10: Dwellings in Newham most commonly have three rooms",
-      "url": "/visualisations/dvc2609/Newham/Fig10/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Newham/Fig10/index.html",
+      "url_new": "/visualisations/dvc2609/Newham/Fig10/index.html"
     },
     {
       "type": "heading",
@@ -1065,7 +1079,8 @@
       "h4": "Figure 11: A large proportion of Newham’s housing stock was built before 1919",
       "h5": null,
       "title": "Figure 11: A large proportion of Newham’s housing stock was built before 1919",
-      "url": "/visualisations/dvc2609/Newham/Fig11/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Newham/Fig11/index.html",
+      "url_new": "/visualisations/dvc2609/Newham/Fig11/index.html"
     },
     {
       "type": "heading",
@@ -1124,7 +1139,8 @@
       "h4": "Figure 12: Terraced houses are the most common Valuation Office Agency (VOA) accommodation type across all ethnic groups in Newham",
       "h5": null,
       "title": "Figure 12: Terraced houses are the most common VOA accommodation type across all ethnic groups in Newham",
-      "url": "/visualisations/dvc2609/Newham/Fig12/vis/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Newham/Fig12/vis/index.html",
+      "url_new": "/visualisations/dvc2609/Newham/Fig12/vis/index.html"
     },
     {
       "type": "heading",
@@ -1216,7 +1232,8 @@
       "h4": "Figure 13: Individuals in the “Asian” ethnic group are more likely than any other ethnic group to live in dwellings with three or more bedrooms",
       "h5": null,
       "title": "Figure 13: Individuals in the “Asian” ethnic group are more likely than any other ethnic group to live in dwellings with three or more bedrooms",
-      "url": "/visualisations/dvc2609/Newham/Fig13/vis/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Newham/Fig13/vis/index.html",
+      "url_new": "/visualisations/dvc2609/Newham/Fig13/vis/index.html"
     },
     {
       "type": "heading",
@@ -1399,7 +1416,8 @@
       "h4": "Figure 14: The most common age group of communal establishment residents in Newham was those aged 16 to 24 years for both males and females",
       "h5": null,
       "title": "Figure 14: The most common age group of communal establishment residents in Newham was those aged 16 to 24 years for both males and females",
-      "url": "/visualisations/dvc2609/Newham/Fig14/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Newham/Fig14/index.html",
+      "url_new": "/visualisations/dvc2609/Newham/Fig14/index.html"
     },
     {
       "type": "heading",

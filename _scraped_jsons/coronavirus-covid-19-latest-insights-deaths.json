@@ -200,7 +200,8 @@
       "h4": "Deaths involving COVID-19 increased in the UK",
       "h5": "Number of deaths registered by week, UK, week ending 13 March 2020 to 17 March 2023",
       "title": "Deaths involving COVID-19 decreased in the UK ",
-      "url": "/visualisations/dvc1470/excessdeaths/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1470/excessdeaths/index.html",
+      "url_new": "/visualisations/dvc1470/excessdeaths/index.html"
     },
     {
       "type": "heading",
@@ -217,7 +218,8 @@
       "h3": null,
       "h4": "Deaths involving COVID-19 increased in the UK",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc1470/excessdeaths/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc1470/excessdeaths/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc1470/excessdeaths/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -308,7 +310,8 @@
       "h4": "The proportion of deaths involving COVID-19 that were due to COVID-19 decreased in England and Wales in February 2023",
       "h5": "Percentage of deaths involving COVID-19 that were due to COVID-19, England and Wales, deaths registered in March 2020 to February 2023",
       "title": "Percentage of deaths involving COVID-19 that were due to COVID-19, England and Wales, deaths registered in March 2020 to January 2023 ",
-      "url": "/visualisations/dvc2538/fig2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2538/fig2/index.html",
+      "url_new": "/visualisations/dvc2538/fig2/index.html"
     },
     {
       "type": "heading",
@@ -325,7 +328,8 @@
       "h3": null,
       "h4": "The proportion of deaths involving COVID-19 that were due to COVID-19 decreased in England and Wales in February 2023",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2538/fig2/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2538/fig2/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2538/fig2/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -490,7 +494,8 @@
       "h4": "The number of deaths decreased in most English regions",
       "h5": "Estimated coronavirus (COVID-19) positivity rates, overall COVID-19 positive hospital admission rates with intensive care unit (ICU) and high dependency unit (HDU) admissions, and number of deaths, by English regions, week ending 3 February to 19 March 2023",
       "title": "Comparison by region",
-      "url": "/visualisations/dvc1470/regionaltripletrio/wrapper/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1470/regionaltripletrio/wrapper/index.html",
+      "url_new": "/visualisations/dvc1470/regionaltripletrio/wrapper/index.html"
     },
     {
       "type": "heading",
@@ -507,7 +512,8 @@
       "h3": null,
       "h4": "The number of deaths decreased in most English regions",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc1470/regionaltripletrio/wrapper/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc1470/regionaltripletrio/wrapper/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc1470/regionaltripletrio/wrapper/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -598,7 +604,8 @@
       "h4": "Deaths remain highest for those aged 85 years and over",
       "h5": null,
       "title": "regulars deaths age",
-      "url": "/visualisations/dvc1470/new_age/deaths/wrapper/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1470/new_age/deaths/wrapper/index.html",
+      "url_new": "/visualisations/dvc1470/new_age/deaths/wrapper/index.html"
     },
     {
       "type": "heading",
@@ -615,7 +622,8 @@
       "h3": null,
       "h4": "Deaths remain highest for those aged 85 years and over",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc1470/new_age/deaths/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc1470/new_age/deaths/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc1470/new_age/deaths/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -814,8 +822,9 @@
       "chartbuilder_h3": "Similar patterns are observed for England, Wales, Scotland, and Northern Ireland for care home deaths involving coronavirus",
       "chartbuilder_h4": "Percentage of care home deaths registered weekly involving coronavirus (COVID-19) by country, 2020 to 2022",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19latestinsights/deaths/1f33b28e",
-      "src": "/_scraped_chartbuilder_imgs/1f33b28e.png",
-      "local_filename": "1f33b28e.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19latestinsights/deaths/1f33b28e&width=&hideSource=true",
+      "local_filename": "1f33b28e.png",
+      "src_new": "/_scraped_chartbuilder_imgs/1f33b28e.png"
     },
     {
       "type": "p",
@@ -907,7 +916,8 @@
       "h4": "There is no longer evidence that rates of deaths involving COVID-19 are significantly higher for ethnic minority groups since Omicron became dominant",
       "h5": "Age-standardised mortality rates (ASMR) of deaths involving COVID-19 for those aged 10 to 100 years by ethnic group and sex, England: 24 January 2020 to 23 November 2022",
       "title": "Deaths involving COVID-19 decreased in the UK ",
-      "url": "/visualisations/dvc2492/fig1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2492/fig1/index.html",
+      "url_new": "/visualisations/dvc2492/fig1/index.html"
     },
     {
       "type": "heading",
@@ -924,7 +934,8 @@
       "h3": null,
       "h4": "There is no longer evidence that rates of deaths involving COVID-19 are significantly higher for ethnic minority groups since Omicron became dominant",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2492/fig1/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2492/fig1/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2492/fig1/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -1016,8 +1027,9 @@
       "chartbuilder_h3": "The proportion of COVID-19 deaths with no pre-existing conditions decreased slightly between July to September 2022 and October to December 2022",
       "chartbuilder_h4": "The proportion of death certificates where the death was due to COVID-19 that had a top 10 (by frequency) pre-existing condition, October to December 2022, England and Wales",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19latestinsights/deaths/8aeae420",
-      "src": "/_scraped_chartbuilder_imgs/8aeae420.png",
-      "local_filename": "8aeae420.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19latestinsights/deaths/8aeae420&width=&hideSource=true",
+      "local_filename": "8aeae420.png",
+      "src_new": "/_scraped_chartbuilder_imgs/8aeae420.png"
     },
     {
       "type": "p",
@@ -1109,7 +1121,8 @@
       "h4": "Over half of the European countries analysed had a peak of excess mortality between mid-2021 and mid-2022",
       "h5": "Relative age-standardised mortality rates by week, persons, all ages, week ending 3 January 2020 to week ending 1 July 2022",
       "title": "due to involving",
-      "url": "/visualisations/dvc2313/fig1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2313/fig1/index.html",
+      "url_new": "/visualisations/dvc2313/fig1/index.html"
     },
     {
       "type": "heading",
@@ -1126,7 +1139,8 @@
       "h3": null,
       "h4": "Over half of the European countries analysed had a peak of excess mortality between mid-2021 and mid-2022",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2313/fig1/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2313/fig1/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2313/fig1/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -1217,7 +1231,8 @@
       "h4": "Relative age-standardised mortality rates by week for local authorities of Europe",
       "h5": "Interactive map, persons, all ages and broad age group, week ending 3 January 2020 to week ending 1 July 2022",
       "title": "due to involving",
-      "url": "/visualisations/dvc2313/mapchangeovertime/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2313/mapchangeovertime/index.html",
+      "url_new": "/visualisations/dvc2313/mapchangeovertime/index.html"
     },
     {
       "type": "heading",
@@ -1234,7 +1249,8 @@
       "h3": null,
       "h4": "Relative age-standardised mortality rates by week for local authorities of Europe",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2313/mapchangeovertime/data/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2313/mapchangeovertime/data/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2313/mapchangeovertime/data/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -1333,7 +1349,8 @@
       "h4": null,
       "h5": null,
       "title": "Glossary",
-      "url": "/visualisations/covidgloss/covid_gloss/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/covidgloss/covid_gloss/index.html",
+      "url_new": "/visualisations/covidgloss/covid_gloss/index.html"
     },
     {
       "type": "p",

@@ -149,8 +149,9 @@
       "chartbuilder_h3": "Age differences only explain some of the gaps in qualification levels between UK-born and foreign-born residents",
       "chartbuilder_h4": "Percentage point difference in UK-born and non-UK-born residents with higher education qualifications, non-age standardised and age-standardised, England and Wales, 2021",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/articles/howqualificationlevelsacrossenglandandwalesdifferbycountryofbirth/2023-05-15/1bd2dbf1",
-      "src": "/_scraped_chartbuilder_imgs/1bd2dbf1.png",
-      "local_filename": "1bd2dbf1.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/educationandchildcare/articles/howqualificationlevelsacrossenglandandwalesdifferbycountryofbirth/2023-05-15/1bd2dbf1&width=&hideSource=true",
+      "local_filename": "1bd2dbf1.png",
+      "src_new": "/_scraped_chartbuilder_imgs/1bd2dbf1.png"
     },
     {
       "type": "p",
@@ -266,8 +267,9 @@
       "chartbuilder_h3": "More than half of migrants from India, Nigeria and South Africa hold higher education qualifications",
       "chartbuilder_h4": "Percentage of residents with higher education qualifications, by country of birth ordered by number of residents, England and Wales, 2021",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/articles/howqualificationlevelsacrossenglandandwalesdifferbycountryofbirth/2023-05-15/3bcfbae5",
-      "src": "/_scraped_chartbuilder_imgs/3bcfbae5.png",
-      "local_filename": "3bcfbae5.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/educationandchildcare/articles/howqualificationlevelsacrossenglandandwalesdifferbycountryofbirth/2023-05-15/3bcfbae5&width=&hideSource=true",
+      "local_filename": "3bcfbae5.png",
+      "src_new": "/_scraped_chartbuilder_imgs/3bcfbae5.png"
     },
     {
       "type": "p",
@@ -375,7 +377,8 @@
       "h4": "The percentage of migrants with higher education qualifications is higher in and around London",
       "h5": "Percentage of adult migrants with higher education (HE) qualifications, by local authority, England and Wales, 2021",
       "title": "The percentage of migrants with higher education qualifications are higher in and around London",
-      "url": "/visualisations/dvc2241/multimap/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2241/multimap/index.html",
+      "url_new": "/visualisations/dvc2241/multimap/index.html"
     },
     {
       "type": "p",
@@ -383,7 +386,8 @@
       "h3": null,
       "h4": "The percentage of migrants with higher education qualifications is higher in and around London",
       "h5": "Percentage of adult migrants with higher education (HE) qualifications, by local authority, England and Wales, 2021",
-      "text": "[Download the data for migrants with higher education qualifications by local authority](/visualisations/dvc2241/multimap/data/datadownload.xlsx)"
+      "text": "[Download the data for migrants with higher education qualifications by local authority](https://www.ons.gov.uk/visualisations/dvc2241/multimap/data/datadownload.xlsx)",
+      "text_new": "[Download the data for migrants with higher education qualifications by local authority](/visualisations/dvc2241/multimap/data/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -466,7 +470,8 @@
       "h4": "Many areas in London and the South East have high migration and high qualification levels",
       "h5": "Migration concentration and qualification level by local authority area, England and Wales, 2021",
       "title": "title",
-      "url": "/visualisations/dvc2241/scatter/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2241/scatter/index.html",
+      "url_new": "/visualisations/dvc2241/scatter/index.html"
     },
     {
       "type": "p",
@@ -474,7 +479,8 @@
       "h3": null,
       "h4": "Many areas in London and the South East have high migration and high qualification levels",
       "h5": "Migration concentration and qualification level by local authority area, England and Wales, 2021",
-      "text": "[Download the data for migrant concentration and qualifications by local authority](/visualisations/dvc2241/scatter/data/datadownload.xlsx)"
+      "text": "[Download the data for migrant concentration and qualifications by local authority](https://www.ons.gov.uk/visualisations/dvc2241/scatter/data/datadownload.xlsx)",
+      "text_new": "[Download the data for migrant concentration and qualifications by local authority](/visualisations/dvc2241/scatter/data/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -555,7 +561,8 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "The map only shows countries currently recognised by the World Bank, but data are available for migrants from formerly recognised countries in the [accompanying dataset](/visualisations/dvc2241/worldmap/data/datadownload.xlsx)."
+      "text": "The map only shows countries currently recognised by the World Bank, but data are available for migrants from formerly recognised countries in the [accompanying dataset](https://www.ons.gov.uk/visualisations/dvc2241/worldmap/data/datadownload.xlsx).",
+      "text_new": "The map only shows countries currently recognised by the World Bank, but data are available for migrants from formerly recognised countries in the [accompanying dataset](/visualisations/dvc2241/worldmap/data/datadownload.xlsx)."
     },
     {
       "type": "heading",
@@ -590,7 +597,8 @@
       "h4": "Explore the qualification levels of English and Welsh residents by country of birth",
       "h5": "Qualification index score, by country of birth, England and Wales 2021",
       "title": "Explore qualification levels by country of birth ",
-      "url": "/visualisations/dvc2241/worldmap/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2241/worldmap/index.html",
+      "url_new": "/visualisations/dvc2241/worldmap/index.html"
     },
     {
       "type": "p",
@@ -598,7 +606,8 @@
       "h3": null,
       "h4": "Explore the qualification levels of English and Welsh residents by country of birth",
       "h5": "Qualification index score, by country of birth, England and Wales 2021",
-      "text": "[Download the data for qualification levels of English and Welsh residents by country of birth](/visualisations/dvc2241/worldmap/data/datadownload.xlsx)"
+      "text": "[Download the data for qualification levels of English and Welsh residents by country of birth](https://www.ons.gov.uk/visualisations/dvc2241/worldmap/data/datadownload.xlsx)",
+      "text_new": "[Download the data for qualification levels of English and Welsh residents by country of birth](/visualisations/dvc2241/worldmap/data/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -773,8 +782,9 @@
       "chartbuilder_h3": "Migrants are less likely to report qualifications below higher education level as their highest qualification",
       "chartbuilder_h4": "Highest reported qualification level by country of birth, England and Wales, 2021",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/articles/howqualificationlevelsacrossenglandandwalesdifferbycountryofbirth/2023-05-15/022b0a75",
-      "src": "/_scraped_chartbuilder_imgs/022b0a75.png",
-      "local_filename": "022b0a75.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/educationandchildcare/articles/howqualificationlevelsacrossenglandandwalesdifferbycountryofbirth/2023-05-15/022b0a75&width=&hideSource=true",
+      "local_filename": "022b0a75.png",
+      "src_new": "/_scraped_chartbuilder_imgs/022b0a75.png"
     },
     {
       "type": "p",

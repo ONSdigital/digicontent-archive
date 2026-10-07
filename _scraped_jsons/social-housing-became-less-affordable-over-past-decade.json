@@ -73,7 +73,8 @@
       "h4": "Average weekly rent for PRP social housing as a percentage of earnings for those on lowest wages, England, 2002 to 2014",
       "h5": null,
       "title": "Average weekly rent for PRP social housing as a percentage of earnings for those on lowest wages, England, 2002 to 2014",
-      "url": "/visualisations/nesscontent/dvc274/social_1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc274/social_1/index.html",
+      "url_new": "/visualisations/nesscontent/dvc274/social_1/index.html"
     },
     {
       "type": "p",
@@ -81,7 +82,7 @@
       "h3": "Social rent equivalent to 73% of wages for lowest paid workers",
       "h4": "Average weekly rent for PRP social housing as a percentage of earnings for those on lowest wages, England, 2002 to 2014",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2015/08/data1.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2015/08/data1.csv)"
     },
     {
       "type": "p",
@@ -159,7 +160,8 @@
       "h4": "Average weekly social housing rent: highest and lowest 30 areas, England and Wales, 2014",
       "h5": null,
       "title": "Average weekly social housing rent: highest and lowest 30 areas, England and Wales, 2014",
-      "url": "/visualisations/nesscontent/dvc274/social_2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc274/social_2/index.html",
+      "url_new": "/visualisations/nesscontent/dvc274/social_2/index.html"
     },
     {
       "type": "p",
@@ -167,7 +169,7 @@
       "h3": "Social housing most expensive in London and cheapest in Pembrokeshire",
       "h4": "Average weekly social housing rent: highest and lowest 30 areas, England and Wales, 2014",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2015/08/data2.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2015/08/data2.csv)"
     },
     {
       "type": "p",

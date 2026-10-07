@@ -116,7 +116,8 @@
       "h4": "Inequality in healthy life expectancy, 2009 to 2013, by upper tier local authority",
       "h5": null,
       "title": "Inequality in healthy life expectancy, 2009 to 2013, by upper tier local authority",
-      "url": "/visualisations/nesscontent/dvc299/scatterplot/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc299/scatterplot/index.html",
+      "url_new": "/visualisations/nesscontent/dvc299/scatterplot/index.html"
     },
     {
       "type": "heading",
@@ -199,7 +200,8 @@
       "h4": "Healthy life expectancy and inequality, 2013, by Middle Super Output Area (MSOA)",
       "h5": null,
       "title": "Healthy life expectancy and inequality, 2013, by Middle Super Output Area (MSOA)",
-      "url": "/visualisations/dvc299map/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc299map/index.html",
+      "url_new": "/visualisations/dvc299map/index.html"
     },
     {
       "type": "box",

@@ -164,7 +164,8 @@
       "h4": "Infections and hospitalisations increased while deaths decreased",
       "h5": "Estimated coronavirus (COVID-19) positivity rates, overall hospital admissions, intensive care unit (ICU) and high dependency unit (HDU) admissions, and number of deaths, England, 6 August 2020 to 27 November 2022",
       "title": "Regulars Triple line",
-      "url": "/visualisations/dvc1470/tripleline/wrapper/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1470/tripleline/wrapper/index.html",
+      "url_new": "/visualisations/dvc1470/tripleline/wrapper/index.html"
     },
     {
       "type": "p",
@@ -172,7 +173,8 @@
       "h3": "Infections, hospital admissions and deaths in England",
       "h4": "Infections and hospitalisations increased while deaths decreased",
       "h5": "Estimated coronavirus (COVID-19) positivity rates, overall hospital admissions, intensive care unit (ICU) and high dependency unit (HDU) admissions, and number of deaths, England, 6 August 2020 to 27 November 2022",
-      "text": "[Download the data](/visualisations/dvc1470/tripleline/wrapper/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1470/tripleline/wrapper/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1470/tripleline/wrapper/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -271,7 +273,8 @@
       "h4": "Infections increased for those in school Year 7 to aged 24 years and those aged 35 to 49 years",
       "h5": null,
       "title": "regulars infect age",
-      "url": "/visualisations/dvc1470/new_age/infections/wrapper/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1470/new_age/infections/wrapper/index.html",
+      "url_new": "/visualisations/dvc1470/new_age/infections/wrapper/index.html"
     },
     {
       "type": "p",
@@ -279,7 +282,8 @@
       "h3": "Comparisons by age group",
       "h4": "Infections increased for those in school Year 7 to aged 24 years and those aged 35 to 49 years",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc1470/new_age/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1470/new_age/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1470/new_age/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -329,7 +333,8 @@
       "h4": "Hospital admissions remain highest for those aged 85 years and over",
       "h5": null,
       "title": "regulars hospicu age",
-      "url": "/visualisations/dvc1470/new_age/hospicu/wrapper/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1470/new_age/hospicu/wrapper/index.html",
+      "url_new": "/visualisations/dvc1470/new_age/hospicu/wrapper/index.html"
     },
     {
       "type": "p",
@@ -337,7 +342,8 @@
       "h3": "Comparisons by age group",
       "h4": "Hospital admissions remain highest for those aged 85 years and over",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc1470/new_age/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1470/new_age/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1470/new_age/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -395,7 +401,8 @@
       "h4": "Deaths remain highest for those aged 85 years and over",
       "h5": null,
       "title": "regulars deaths age",
-      "url": "/visualisations/dvc1470/new_age/deaths/wrapper/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1470/new_age/deaths/wrapper/index.html",
+      "url_new": "/visualisations/dvc1470/new_age/deaths/wrapper/index.html"
     },
     {
       "type": "p",
@@ -403,7 +410,8 @@
       "h3": "Comparisons by age group",
       "h4": "Deaths remain highest for those aged 85 years and over",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc1470/new_age/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1470/new_age/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1470/new_age/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -487,7 +495,8 @@
       "h4": "Trends in infections and hospitalisations varied across English regions, while deaths decreased in most regions",
       "h5": "Estimated coronavirus (COVID-19) positivity rates, overall hospital admission rates with intensive care unit (ICU) and high dependency unit (HDU) admissions, and number of deaths, by English regions, week ending 14 October to 27 November 2022",
       "title": "Comparison by region",
-      "url": "/visualisations/dvc1470/regionaltripletrio/wrapper/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1470/regionaltripletrio/wrapper/index.html",
+      "url_new": "/visualisations/dvc1470/regionaltripletrio/wrapper/index.html"
     },
     {
       "type": "p",
@@ -495,7 +504,8 @@
       "h3": "Comparisons by region",
       "h4": "Trends in infections and hospitalisations varied across English regions, while deaths decreased in most regions",
       "h5": "Estimated coronavirus (COVID-19) positivity rates, overall hospital admission rates with intensive care unit (ICU) and high dependency unit (HDU) admissions, and number of deaths, by English regions, week ending 14 October to 27 November 2022",
-      "text": "[Download the data](/visualisations/dvc1470/regionaltripletrio/wrapper/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1470/regionaltripletrio/wrapper/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1470/regionaltripletrio/wrapper/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -595,7 +605,8 @@
       "h4": "Deaths due to COVID-19 were higher than those due to flu and pneumonia in winter 2021/22, but much lower than in 2020/21",
       "h5": "Monthly deaths registered due to flu and pneumonia in December to March, England and Wales, 2001 to 2022, and deaths due to COVID-19, December to March, 2020 to 2022",
       "title": "due to involving",
-      "url": "/visualisations/dvc1945/winterdeaths_v2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1945/winterdeaths_v2/index.html",
+      "url_new": "/visualisations/dvc1945/winterdeaths_v2/index.html"
     },
     {
       "type": "p",
@@ -603,7 +614,8 @@
       "h3": "Winter COVID-19 and flu deaths",
       "h4": "Deaths due to COVID-19 were higher than those due to flu and pneumonia in winter 2021/22, but much lower than in 2020/21",
       "h5": "Monthly deaths registered due to flu and pneumonia in December to March, England and Wales, 2001 to 2022, and deaths due to COVID-19, December to March, 2020 to 2022",
-      "text": "[Download the data](/visualisations/dvc1945/winterdeaths_v2/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1945/winterdeaths_v2/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1945/winterdeaths_v2/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -701,7 +713,8 @@
       "h4": null,
       "h5": null,
       "title": "Glossary",
-      "url": "/visualisations/covidgloss/covid_gloss/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/covidgloss/covid_gloss/index.html",
+      "url_new": "/visualisations/covidgloss/covid_gloss/index.html"
     },
     {
       "type": "box",

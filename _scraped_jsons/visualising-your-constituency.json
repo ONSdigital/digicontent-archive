@@ -79,7 +79,8 @@
       "h4": null,
       "h5": null,
       "title": "Hexagon map",
-      "url": "/visualisations/nesscontent/dvc237/hex.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc237/hex.html",
+      "url_new": "/visualisations/nesscontent/dvc237/hex.html"
     },
     {
       "type": "p",
@@ -87,7 +88,7 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2015/03/UK-constituency-data.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2015/03/UK-constituency-data.csv)"
     },
     {
       "type": "box",

@@ -46,7 +46,7 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "This article is part of a [series of UK Perspectives](/visualisations/20170726163612/https://visual.ons.gov.uk/uk-perspectives-an-introduction/) providing an overview of key aspects of the nation over the last three decades."
+      "text": "This article is part of a [series of UK Perspectives](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/uk-perspectives-an-introduction/) providing an overview of key aspects of the nation over the last three decades."
     },
     {
       "type": "heading",
@@ -100,7 +100,8 @@
       "h4": "Employment rate for people aged 16 to 64, UK, 1980 to 2014",
       "h5": null,
       "title": "Employment rate for people aged 16 to 64, UK, 1980 to 2014",
-      "url": "/visualisations/nesscontent/dvc234/Labour_Chart1/Labour_Chart1.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Labour_Chart1/Labour_Chart1.html",
+      "url_new": "/visualisations/nesscontent/dvc234/Labour_Chart1/Labour_Chart1.html"
     },
     {
       "type": "p",
@@ -108,7 +109,7 @@
       "h3": null,
       "h4": "Employment rate for people aged 16 to 64, UK, 1980 to 2014",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2015/02/Fig-1-employment-rate.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2015/02/Fig-1-employment-rate.csv)"
     },
     {
       "type": "p",
@@ -159,7 +160,8 @@
       "h4": "Employment rates for people aged 25 and over 2, UK, 1992 to 2014",
       "h5": null,
       "title": "Employment rates for people aged 25 and over <sup>2<\/sup>, UK, 1992 to 2014",
-      "url": "/visualisations/nesscontent/dvc234/Labour_Chart2/Labour_Chart2.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Labour_Chart2/Labour_Chart2.html",
+      "url_new": "/visualisations/nesscontent/dvc234/Labour_Chart2/Labour_Chart2.html"
     },
     {
       "type": "p",
@@ -167,7 +169,7 @@
       "h3": null,
       "h4": "Employment rates for people aged 25 and over 2, UK, 1992 to 2014",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2015/02/Fig-2-employment-rates-for-people-aged-25-and-over.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2015/02/Fig-2-employment-rates-for-people-aged-25-and-over.csv)"
     },
     {
       "type": "p",
@@ -226,7 +228,8 @@
       "h4": "Employment rates for people aged 16 to 24 not in full-time education, UK, 1992 to 2014",
       "h5": null,
       "title": "Employment rates for people aged 16 to 24 not in full-time education, UK, 1992 to 2014",
-      "url": "/visualisations/nesscontent/dvc234/Labour_Chart3/Labour_Chart3.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Labour_Chart3/Labour_Chart3.html",
+      "url_new": "/visualisations/nesscontent/dvc234/Labour_Chart3/Labour_Chart3.html"
     },
     {
       "type": "p",
@@ -234,7 +237,7 @@
       "h3": null,
       "h4": "Employment rates for people aged 16 to 24 not in full-time education, UK, 1992 to 2014",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2015/02/Fig-3-employment-rates-for-people-aged-16-to-24-not-in-full-time-education.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2015/02/Fig-3-employment-rates-for-people-aged-16-to-24-not-in-full-time-education.csv)"
     },
     {
       "type": "p",
@@ -277,7 +280,8 @@
       "h4": "Employment rates for men and women aged 16 to 64, UK, 1980 to 2014",
       "h5": null,
       "title": "Employment rates for men and women aged 16 to 64, UK, 1980 to 2014",
-      "url": "/visualisations/nesscontent/dvc234/Labour_Chart4/Labour_Chart4.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Labour_Chart4/Labour_Chart4.html",
+      "url_new": "/visualisations/nesscontent/dvc234/Labour_Chart4/Labour_Chart4.html"
     },
     {
       "type": "p",
@@ -285,7 +289,7 @@
       "h3": null,
       "h4": "Employment rates for men and women aged 16 to 64, UK, 1980 to 2014",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2015/02/Fig-4-employment-rates-for-men-and-women.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2015/02/Fig-4-employment-rates-for-men-and-women.csv)"
     },
     {
       "type": "p",
@@ -355,7 +359,8 @@
       "h4": "Unemployment rate for people aged 16 and over, UK, 1980 to 2014",
       "h5": null,
       "title": "Unemployment rate for people aged 16 and over, UK, 1980 to 2014",
-      "url": "/visualisations/nesscontent/dvc234/Labour_Chart5/Labour_Chart5.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Labour_Chart5/Labour_Chart5.html",
+      "url_new": "/visualisations/nesscontent/dvc234/Labour_Chart5/Labour_Chart5.html"
     },
     {
       "type": "p",
@@ -363,7 +368,7 @@
       "h3": null,
       "h4": "Unemployment rate for people aged 16 and over, UK, 1980 to 2014",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2015/02/Fig-5-unemployment-rate.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2015/02/Fig-5-unemployment-rate.csv)"
     },
     {
       "type": "p",
@@ -414,7 +419,8 @@
       "h4": "The long-term unemployed4, as a share of all the unemployed aged 16 and over, UK, 1992 to 2014",
       "h5": null,
       "title": "The long-term unemployed<sup>4<\/sup>,Â� as a share of all the unemployed aged 16 and over, UK, 1992 to 2014",
-      "url": "/visualisations/nesscontent/dvc234/Labour_Chart6/Labour_Chart6.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Labour_Chart6/Labour_Chart6.html",
+      "url_new": "/visualisations/nesscontent/dvc234/Labour_Chart6/Labour_Chart6.html"
     },
     {
       "type": "p",
@@ -422,7 +428,7 @@
       "h3": null,
       "h4": "The long-term unemployed4, as a share of all the unemployed aged 16 and over, UK, 1992 to 2014",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2015/02/Fig-6-long-term-unemployed.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2015/02/Fig-6-long-term-unemployed.csv)"
     },
     {
       "type": "p",
@@ -492,7 +498,8 @@
       "h4": "Economic inactivity rate for people aged 16 to 64, UK, 1980 to 2014",
       "h5": null,
       "title": "Economic inactivity rate for people aged 16 to 64, UK, 1980 to 2014",
-      "url": "/visualisations/nesscontent/dvc234/Labour_Chart7/Labour_Chart7.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Labour_Chart7/Labour_Chart7.html",
+      "url_new": "/visualisations/nesscontent/dvc234/Labour_Chart7/Labour_Chart7.html"
     },
     {
       "type": "p",
@@ -500,7 +507,7 @@
       "h3": null,
       "h4": "Economic inactivity rate for people aged 16 to 64, UK, 1980 to 2014",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2015/02/Fig-7-economic-inactivity-rate.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2015/02/Fig-7-economic-inactivity-rate.csv)"
     },
     {
       "type": "p",
@@ -566,7 +573,8 @@
       "h4": "Shares of men and women aged 16 to 64 who are economically inactive due to looking after the family or home, UK, 1993 to 2014",
       "h5": null,
       "title": "Shares of men and women aged 16 to 64 who are economically inactive due to looking after the family or home, UK, 1993 to 2014",
-      "url": "/visualisations/nesscontent/dvc234/Labour_Chart8/Labour_Chart8.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Labour_Chart8/Labour_Chart8.html",
+      "url_new": "/visualisations/nesscontent/dvc234/Labour_Chart8/Labour_Chart8.html"
     },
     {
       "type": "p",
@@ -574,7 +582,7 @@
       "h3": null,
       "h4": "Shares of men and women aged 16 to 64 who are economically inactive due to looking after the family or home, UK, 1993 to 2014",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2015/02/Fig-8-economic-inactivity-due-to-looking-after-family-or-home.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2015/02/Fig-8-economic-inactivity-due-to-looking-after-family-or-home.csv)"
     },
     {
       "type": "p",

@@ -188,7 +188,8 @@
       "h4": "Overall hospital admissions involving COVID-19 continued to increase",
       "h5": "Weekly overall COVID-19-positive hospital admission rates and intensive care unit (ICU) and high dependency unit (HDU) admission rates per 100,000 people, England, week ending 9 August 2020 to 19 March 2023",
       "title": "reg hospital single",
-      "url": "/visualisations/dvc1470/tripleline/hospitalsingle/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1470/tripleline/hospitalsingle/index.html",
+      "url_new": "/visualisations/dvc1470/tripleline/hospitalsingle/index.html"
     },
     {
       "type": "heading",
@@ -205,7 +206,8 @@
       "h3": null,
       "h4": "Overall hospital admissions involving COVID-19 continued to increase",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc1470/tripleline/hospitalsingle/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc1470/tripleline/hospitalsingle/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc1470/tripleline/hospitalsingle/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -289,7 +291,8 @@
       "h4": "Hospital admissions increased in most English regions",
       "h5": "Estimated coronavirus (COVID-19) positivity rates, overall COVID-19 positive hospital admission rates with intensive care unit (ICU) and high dependency unit (HDU) admissions, and number of deaths, by English regions, week ending 3 February to 19 March 2023",
       "title": "Hospital admissions by region ",
-      "url": "/visualisations/dvc1470/regionaltripletrio/wrapper/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1470/regionaltripletrio/wrapper/index.html",
+      "url_new": "/visualisations/dvc1470/regionaltripletrio/wrapper/index.html"
     },
     {
       "type": "heading",
@@ -306,7 +309,8 @@
       "h3": null,
       "h4": "Hospital admissions increased in most English regions",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc1470/regionaltripletrio/wrapper/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc1470/regionaltripletrio/wrapper/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc1470/regionaltripletrio/wrapper/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -397,7 +401,8 @@
       "h4": "Hospital admissions remain highest for those aged 85 years and over",
       "h5": null,
       "title": "reg hosp age",
-      "url": "/visualisations/dvc1470/new_age/hospicu/wrapper/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1470/new_age/hospicu/wrapper/index.html",
+      "url_new": "/visualisations/dvc1470/new_age/hospicu/wrapper/index.html"
     },
     {
       "type": "heading",
@@ -414,7 +419,8 @@
       "h3": null,
       "h4": "Hospital admissions remain highest for those aged 85 years and over",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc1470/new_age/hospicu/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc1470/new_age/hospicu/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc1470/new_age/hospicu/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -498,7 +504,8 @@
       "h4": "Over 3 in 10 patients in hospital in England with COVID-19 in February 2023 were being treated primarily for COVID-19",
       "h5": "Percentage of patients in acute hospitals with confirmed COVID-19 who are being treated primarily for COVID-19, by English regions, 18 June 2021 to 28 February 2023",
       "title": "reg primary admission",
-      "url": "/visualisations/dvc1470/primary/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1470/primary/index.html",
+      "url_new": "/visualisations/dvc1470/primary/index.html"
     },
     {
       "type": "heading",
@@ -515,7 +522,8 @@
       "h3": null,
       "h4": "Over 3 in 10 patients in hospital in England with COVID-19 in February 2023 were being treated primarily for COVID-19",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc1470/primary/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc1470/primary/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc1470/primary/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -638,7 +646,8 @@
       "h4": null,
       "h5": null,
       "title": "Glossary",
-      "url": "/visualisations/covidgloss/covid_gloss/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/covidgloss/covid_gloss/index.html",
+      "url_new": "/visualisations/covidgloss/covid_gloss/index.html"
     },
     {
       "type": "p",

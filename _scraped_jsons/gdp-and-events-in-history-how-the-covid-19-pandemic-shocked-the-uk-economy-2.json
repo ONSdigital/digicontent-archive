@@ -73,7 +73,8 @@
       "h4": null,
       "h5": null,
       "title": null,
-      "url": "/visualisations/dvc1856/maina/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1856/maina/index.html",
+      "url_new": "/visualisations/dvc1856/maina/index.html"
     },
     {
       "type": "p",
@@ -140,7 +141,8 @@
       "h4": "Inflation reached highs of around 7% in the mid 1950s",
       "h5": "Indicative modelled estimates of CPIH inflation quarterly % change, Changes to the Bank of England base rate, 1955 to 1969",
       "title": "Interest rates",
-      "url": "/visualisations/dvc1856/dates1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1856/dates1/index.html",
+      "url_new": "/visualisations/dvc1856/dates1/index.html"
     },
     {
       "type": "heading",
@@ -157,7 +159,8 @@
       "h3": "1956 to 1957: Suez crisis",
       "h4": "Inflation reached highs of around 7% in the mid 1950s",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc1856/data/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc1856/data/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc1856/data/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -191,7 +194,8 @@
       "h4": null,
       "h5": null,
       "title": null,
-      "url": "/visualisations/dvc1856/mainb/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1856/mainb/index.html",
+      "url_new": "/visualisations/dvc1856/mainb/index.html"
     },
     {
       "type": "p",
@@ -234,8 +238,9 @@
       "chartbuilder_h3": "Inflation rose sharply in the 1970s before falling back in the 1980s",
       "chartbuilder_h4": "Modelled CPIH and CPI, UK, 1950 to 1988, 12-month growth rate, %",
       "data_uri": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/gdpandeventsinhistoryhowthecovid19pandemicshockedtheukeconomy/2022-05-24/91763b25",
-      "src": "/_scraped_chartbuilder_imgs/91763b25.png",
-      "local_filename": "91763b25.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/grossdomesticproductgdp/articles/gdpandeventsinhistoryhowthecovid19pandemicshockedtheukeconomy/2022-05-24/91763b25&width=&hideSource=true",
+      "local_filename": "91763b25.png",
+      "src_new": "/_scraped_chartbuilder_imgs/91763b25.png"
     },
     {
       "type": "p",
@@ -293,7 +298,8 @@
       "h4": null,
       "h5": null,
       "title": null,
-      "url": "/visualisations/dvc1856/mainc/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1856/mainc/index.html",
+      "url_new": "/visualisations/dvc1856/mainc/index.html"
     },
     {
       "type": "p",
@@ -376,7 +382,8 @@
       "h4": "The unemployment rate reached highs of 11.9% by 1984",
       "h5": "Indicative modelled estimates of CPIH inflation quarterly % change, unemployment rate (16 years and over), household expenditure quarterly % change, House Price Index 12 month % change, 1970 to 1986",
       "title": "Growth in GDP through time",
-      "url": "/visualisations/dvc1856/dates2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1856/dates2/index.html",
+      "url_new": "/visualisations/dvc1856/dates2/index.html"
     },
     {
       "type": "heading",
@@ -393,7 +400,8 @@
       "h3": "1979 to 1981: Winter of discontent",
       "h4": "The unemployment rate reached highs of 11.9% by 1984",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc1856/data/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc1856/data/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc1856/data/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -419,7 +427,8 @@
       "h4": null,
       "h5": null,
       "title": null,
-      "url": "/visualisations/dvc1856/maind/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1856/maind/index.html",
+      "url_new": "/visualisations/dvc1856/maind/index.html"
     },
     {
       "type": "p",
@@ -462,8 +471,9 @@
       "chartbuilder_h3": "Productivity fell during the strikes of the 1970s and 1980s",
       "chartbuilder_h4": "Output per worker, % change per annum, UK",
       "data_uri": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/gdpandeventsinhistoryhowthecovid19pandemicshockedtheukeconomy/2022-05-24/d4b73af4",
-      "src": "/_scraped_chartbuilder_imgs/d4b73af4.png",
-      "local_filename": "d4b73af4.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/grossdomesticproductgdp/articles/gdpandeventsinhistoryhowthecovid19pandemicshockedtheukeconomy/2022-05-24/d4b73af4&width=&hideSource=true",
+      "local_filename": "d4b73af4.png",
+      "src_new": "/_scraped_chartbuilder_imgs/d4b73af4.png"
     },
     {
       "type": "p",
@@ -513,7 +523,8 @@
       "h4": null,
       "h5": null,
       "title": null,
-      "url": "/visualisations/dvc1856/maine/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1856/maine/index.html",
+      "url_new": "/visualisations/dvc1856/maine/index.html"
     },
     {
       "type": "p",
@@ -580,7 +591,8 @@
       "h4": "Average house prices and spending fell in the early 1990s",
       "h5": "CPIH inflation quarterly % change, unemployment rate (16 years and over), household expenditure quarterly % change, House Price Index 12 month % change, 1987 to 1999",
       "title": "Growth in GDP through time",
-      "url": "/visualisations/dvc1856/dates4/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1856/dates4/index.html",
+      "url_new": "/visualisations/dvc1856/dates4/index.html"
     },
     {
       "type": "heading",
@@ -597,7 +609,8 @@
       "h3": "1990s: Economic downturn and Black Wednesday",
       "h4": "Average house prices and spending fell in the early 1990s",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc1856/data/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc1856/data/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc1856/data/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -647,7 +660,8 @@
       "h4": null,
       "h5": null,
       "title": null,
-      "url": "/visualisations/dvc1856/mainf/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1856/mainf/index.html",
+      "url_new": "/visualisations/dvc1856/mainf/index.html"
     },
     {
       "type": "p",
@@ -714,7 +728,8 @@
       "h4": "Spending and average house prices dropped during the 2008 global financial crisis",
       "h5": "CPIH inflation quarterly % change, unemployment rate (16 years and over), household expenditure quarterly % change, House Price Index 12 month % change, 2000 to 2013",
       "title": "Growth in GDP through time",
-      "url": "/visualisations/dvc1856/dates5a/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1856/dates5a/index.html",
+      "url_new": "/visualisations/dvc1856/dates5a/index.html"
     },
     {
       "type": "heading",
@@ -731,7 +746,8 @@
       "h3": "2008: Global Financial Crisis",
       "h4": "Spending and average house prices dropped during the 2008 global financial crisis",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc1856/data/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc1856/data/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc1856/data/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -798,7 +814,8 @@
       "h4": "Interest rates were cut to historic lows between 2008 and 2009",
       "h5": "Changes to the Bank of England base rate, June 1972 to May 2022",
       "title": "New interest rates",
-      "url": "/visualisations/dvc1856/bankrates2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1856/bankrates2/index.html",
+      "url_new": "/visualisations/dvc1856/bankrates2/index.html"
     },
     {
       "type": "heading",
@@ -815,7 +832,8 @@
       "h3": "2008: Global Financial Crisis",
       "h4": "Interest rates were cut to historic lows between 2008 and 2009",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc1856/data/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc1856/data/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc1856/data/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -866,7 +884,8 @@
       "h4": null,
       "h5": null,
       "title": null,
-      "url": "/visualisations/dvc1856/maing/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1856/maing/index.html",
+      "url_new": "/visualisations/dvc1856/maing/index.html"
     },
     {
       "type": "p",
@@ -925,7 +944,8 @@
       "h4": "Spending fell by a record 20% during the first COVID-19 lockdown",
       "h5": "CPIH inflation quarterly % change, unemployment rate (16 years and over), household expenditure quarterly % change, House Price Index 12 month % change, 2014 to 2022",
       "title": "Growth in GDP through time",
-      "url": "/visualisations/dvc1856/dates6a/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1856/dates6a/index.html",
+      "url_new": "/visualisations/dvc1856/dates6a/index.html"
     },
     {
       "type": "heading",
@@ -942,7 +962,8 @@
       "h3": "2019 to present: The COVID-19 pandemic",
       "h4": "Spending fell by a record 20% during the first COVID-19 lockdown",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc1856/data/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc1856/data/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc1856/data/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -1082,7 +1103,8 @@
       "h4": "The Jubilee celebrations in 2022 and 2012 impacted production and GDP",
       "h5": "Total production, gross domestic product, quarterly % change, UK, 2000 to 2013",
       "title": "Interest rates",
-      "url": "/visualisations/dvc1856/dates6b/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1856/dates6b/index.html",
+      "url_new": "/visualisations/dvc1856/dates6b/index.html"
     },
     {
       "type": "heading",
@@ -1099,7 +1121,8 @@
       "h3": "Special events",
       "h4": "The Jubilee celebrations in 2022 and 2012 impacted production and GDP",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc1856/data/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc1856/data/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc1856/data/datadownload.xlsx)"
     },
     {
       "type": "p",

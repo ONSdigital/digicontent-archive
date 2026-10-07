@@ -84,7 +84,8 @@
       "h4": null,
       "h5": null,
       "title": "Never Worked Grid",
-      "url": "/visualisations/dvc592/grid/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc592/grid/index.html",
+      "url_new": "/visualisations/dvc592/grid/index.html"
     },
     {
       "type": "heading",
@@ -136,8 +137,9 @@
       "chartbuilder_h3": "The rise in the population who have never done paid work has been driven by full-time students",
       "chartbuilder_h4": "Change in number of people who have never done paid work between 2008 and 2017/18, by reason for not working",
       "data_uri": "https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/economicinactivity/articles/despiterecordemploymentnearly10ofadultshaveneverdonepaidwork/2019-02-28/cbebf45f",
-      "src": "/_scraped_chartbuilder_imgs/cbebf45f.png",
-      "local_filename": "cbebf45f.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/employmentandlabourmarket/peoplenotinwork/economicinactivity/articles/despiterecordemploymentnearly10ofadultshaveneverdonepaidwork/2019-02-28/cbebf45f&width=&hideSource=true",
+      "local_filename": "cbebf45f.png",
+      "src_new": "/_scraped_chartbuilder_imgs/cbebf45f.png"
     },
     {
       "type": "p",
@@ -164,8 +166,9 @@
       "chartbuilder_h3": "Apart from teenagers, women are more likely to have never had a paid job than men",
       "chartbuilder_h4": "Gender split of non-students who have never done paid work, by age group, July 2017 to June 2018",
       "data_uri": "https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/economicinactivity/articles/despiterecordemploymentnearly10ofadultshaveneverdonepaidwork/2019-02-28/ca10eef1",
-      "src": "/_scraped_chartbuilder_imgs/ca10eef1.png",
-      "local_filename": "ca10eef1.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/employmentandlabourmarket/peoplenotinwork/economicinactivity/articles/despiterecordemploymentnearly10ofadultshaveneverdonepaidwork/2019-02-28/ca10eef1&width=&hideSource=true",
+      "local_filename": "ca10eef1.png",
+      "src_new": "/_scraped_chartbuilder_imgs/ca10eef1.png"
     },
     {
       "type": "p",

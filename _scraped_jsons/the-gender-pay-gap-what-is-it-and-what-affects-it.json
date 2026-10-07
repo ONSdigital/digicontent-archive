@@ -117,7 +117,8 @@
       "h4": "Gender pay gap over time, by full-time and part-time work, UK, 1997 to 2016",
       "h5": null,
       "title": "Gender pay gap over time, by full-time and part-time work, UK, 1997 to 2016",
-      "url": "/visualisations/dvc374/GPG_chart1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc374/GPG_chart1/index.html",
+      "url_new": "/visualisations/dvc374/GPG_chart1/index.html"
     },
     {
       "type": "p",
@@ -125,7 +126,7 @@
       "h3": "The gender pay gap has fallen but remains steady in recent years",
       "h4": "Gender pay gap over time, by full-time and part-time work, UK, 1997 to 2016",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2016/10/chart1.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2016/10/chart1.csv)"
     },
     {
       "type": "heading",
@@ -192,7 +193,8 @@
       "h3": "Part-time work",
       "h4": "Percentage of men and women who work part-time, UK, April to June 2016",
       "h5": null,
-      "text": "[](/visualisations//visual/2016/10/Gender-Pay-Gap.png)"
+      "text": "[](https://static.ons.gov.uk/visual/2016/10/Gender-Pay-Gap.png)",
+      "text_new": "[](/visual/2016/10/Gender-Pay-Gap.png)"
     },
     {
       "type": "image",
@@ -200,8 +202,9 @@
       "h3": "Part-time work",
       "h4": "Percentage of men and women who work part-time, UK, April to June 2016",
       "h5": null,
-      "src": "/visualisations//visual/2016/10/Gender-Pay-Gap.png",
-      "alt": null
+      "src": "https://static.ons.gov.uk/visual/2016/10/Gender-Pay-Gap.png",
+      "alt": null,
+      "src_new": "/visual/2016/10/Gender-Pay-Gap.png"
     },
     {
       "type": "p",
@@ -284,7 +287,8 @@
       "h4": "Percentage of male and female employees in different occupational groups, UK, April to June 2016",
       "h5": null,
       "title": "PercentageÂ� of male and female employees in different occupational groups, UK, April to June 2016",
-      "url": "/visualisations/dvc374/GPG_chart2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc374/GPG_chart2/index.html",
+      "url_new": "/visualisations/dvc374/GPG_chart2/index.html"
     },
     {
       "type": "p",
@@ -292,7 +296,7 @@
       "h3": "Occupation",
       "h4": "Percentage of male and female employees in different occupational groups, UK, April to June 2016",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2016/10/chart2.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2016/10/chart2.csv)"
     },
     {
       "type": "heading",
@@ -351,7 +355,8 @@
       "h4": "Gender pay gap by age group, UK, April 20161",
       "h5": null,
       "title": "Gender pay gap by age group, UK, April 2016<sup>1<\/sup>",
-      "url": "/visualisations/dvc374/GPG_chart3/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc374/GPG_chart3/index.html",
+      "url_new": "/visualisations/dvc374/GPG_chart3/index.html"
     },
     {
       "type": "p",
@@ -359,7 +364,7 @@
       "h3": "Having and caring for children",
       "h4": "Gender pay gap by age group, UK, April 20161",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2016/10/chart3.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2016/10/chart3.csv)"
     },
     {
       "type": "p",
@@ -407,7 +412,7 @@
       "h3": "Having and caring for children",
       "h4": "Gender pay gap by age group, UK, April 20161",
       "h5": null,
-      "text": "[How do the richest countries perform in the Paralympic Games?](/visualisations/20170726163612/https://visual.ons.gov.uk/how-do-the-richest-countries-perform-in-the-paralympic-games/)"
+      "text": "[How do the richest countries perform in the Paralympic Games?](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/how-do-the-richest-countries-perform-in-the-paralympic-games/)"
     },
     {
       "type": "p",

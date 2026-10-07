@@ -147,7 +147,8 @@
       "h4": "While COVID-19 is mentioned on fewer death certificates than flu and pneumonia, it is far more likely to be listed as the underlying cause of death",
       "h5": "Number of deaths registered involving and due to COVID-19, and flu and pneumonia, England and Wales, week ending 13 March 2020 to week ending 1 April 2022",
       "title": "duetoinvolving",
-      "url": "/visualisations/dvc1945/duetoinvolving/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1945/duetoinvolving/index.html",
+      "url_new": "/visualisations/dvc1945/duetoinvolving/index.html"
     },
     {
       "type": "heading",
@@ -164,7 +165,8 @@
       "h3": null,
       "h4": "While COVID-19 is mentioned on fewer death certificates than flu and pneumonia, it is far more likely to be listed as the underlying cause of death",
       "h5": "Notes relating to all charts can be found in the Measuring the data section",
-      "text": "\n[Download the data for deaths registered involving and due to COVID-19, and flu and pneumonia (XLSX, 32KB)](/visualisations/dvc1945/duetoinvolving/datadownload.xlsx)"
+      "text": "\n[Download the data for deaths registered involving and due to COVID-19, and flu and pneumonia (XLSX, 32KB)](https://www.ons.gov.uk/visualisations/dvc1945/duetoinvolving/datadownload.xlsx)",
+      "text_new": "\n[Download the data for deaths registered involving and due to COVID-19, and flu and pneumonia (XLSX, 32KB)](/visualisations/dvc1945/duetoinvolving/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -259,7 +261,8 @@
       "h4": "The average age of death is lower for COVID-19 than flu and pneumonia",
       "h5": "Mean age of deaths registered due to COVID-19 and flu and pneumonia, England and Wales, March 2020 to March 2022",
       "title": "mean age of death",
-      "url": "/visualisations/dvc1945/medianage/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1945/medianage/index.html",
+      "url_new": "/visualisations/dvc1945/medianage/index.html"
     },
     {
       "type": "p",
@@ -267,7 +270,8 @@
       "h3": null,
       "h4": "The average age of death is lower for COVID-19 than flu and pneumonia",
       "h5": "Mean age of deaths registered due to COVID-19 and flu and pneumonia, England and Wales, March 2020 to March 2022",
-      "text": "[Download the data for average age of deaths due to COVID-19 and flu and pneumonia (XLSX, 21KB)](/visualisations/dvc1945/medianage/datadownload.xlsx)"
+      "text": "[Download the data for average age of deaths due to COVID-19 and flu and pneumonia (XLSX, 21KB)](https://www.ons.gov.uk/visualisations/dvc1945/medianage/datadownload.xlsx)",
+      "text_new": "[Download the data for average age of deaths due to COVID-19 and flu and pneumonia (XLSX, 21KB)](/visualisations/dvc1945/medianage/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -350,7 +354,8 @@
       "h4": "While most deaths due to COVID-19 have occurred among those aged over 80 years, the increased risk of death compared with flu and pneumonia has been greatest for those aged 40 to 79 years",
       "h5": "Number of deaths registered due to COVID-19 by age group, compared with deaths due to flu and pneumonia, England and Wales, March 2020 to March 2022",
       "title": "covid flu age",
-      "url": "/visualisations/dvc1945/covidfluage/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1945/covidfluage/index.html",
+      "url_new": "/visualisations/dvc1945/covidfluage/index.html"
     },
     {
       "type": "heading",
@@ -375,7 +380,8 @@
       "h3": null,
       "h4": "While most deaths due to COVID-19 have occurred among those aged over 80 years, the increased risk of death compared with flu and pneumonia has been greatest for those aged 40 to 79 years",
       "h5": "Notes:",
-      "text": "[Download the data for deaths due to COVID-19 and flu and pneumonia by age group (XLSX, 37KB)](/visualisations/dvc1945/covidfluage/datadownload.xlsx)"
+      "text": "[Download the data for deaths due to COVID-19 and flu and pneumonia by age group (XLSX, 37KB)](https://www.ons.gov.uk/visualisations/dvc1945/covidfluage/datadownload.xlsx)",
+      "text_new": "[Download the data for deaths due to COVID-19 and flu and pneumonia by age group (XLSX, 37KB)](/visualisations/dvc1945/covidfluage/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -459,7 +465,8 @@
       "h4": "Deaths due to flu and pneumonia have fallen to record lows during the coronavirus pandemic",
       "h5": "Number of deaths due to COVID-19, and flu and pneumonia, England and Wales, 1901 to 2021",
       "title": "flu 100 years",
-      "url": "/visualisations/dvc1945/flu100years/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1945/flu100years/index.html",
+      "url_new": "/visualisations/dvc1945/flu100years/index.html"
     },
     {
       "type": "heading",
@@ -492,7 +499,8 @@
       "h3": null,
       "h4": "Deaths due to flu and pneumonia have fallen to record lows during the coronavirus pandemic",
       "h5": "Notes:",
-      "text": "[Download the data for deaths due to COVID-19 and flu and pneumonia (XLSX, 22KB)](/visualisations/dvc1945/flu100years/datadownload.xlsx)"
+      "text": "[Download the data for deaths due to COVID-19 and flu and pneumonia (XLSX, 22KB)](https://www.ons.gov.uk/visualisations/dvc1945/flu100years/datadownload.xlsx)",
+      "text_new": "[Download the data for deaths due to COVID-19 and flu and pneumonia (XLSX, 22KB)](/visualisations/dvc1945/flu100years/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -560,7 +568,8 @@
       "h4": "Deaths due to flu and pneumonia increased in the most recent winter but remained below pre-coronavirus pandemic levels",
       "h5": "Weekly deaths registered due to flu and pneumonia, England and Wales, week ending 13 March 2020 to 1 April 2022",
       "title": "seasonal flu",
-      "url": "/visualisations/dvc1945/seasonalflu/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1945/seasonalflu/index.html",
+      "url_new": "/visualisations/dvc1945/seasonalflu/index.html"
     },
     {
       "type": "p",
@@ -568,7 +577,8 @@
       "h3": null,
       "h4": "Deaths due to flu and pneumonia increased in the most recent winter but remained below pre-coronavirus pandemic levels",
       "h5": "Weekly deaths registered due to flu and pneumonia, England and Wales, week ending 13 March 2020 to 1 April 2022",
-      "text": "[Download the data for weekly deaths due to flu and pneumonia (XLSX, 23KB)](/visualisations/dvc1945/seasonalflu/datadownload.xlsx)"
+      "text": "[Download the data for weekly deaths due to flu and pneumonia (XLSX, 23KB)](https://www.ons.gov.uk/visualisations/dvc1945/seasonalflu/datadownload.xlsx)",
+      "text_new": "[Download the data for weekly deaths due to flu and pneumonia (XLSX, 23KB)](/visualisations/dvc1945/seasonalflu/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -643,7 +653,8 @@
       "h4": "Deaths due to COVID-19 were higher than those due to flu and pneumonia in winter 2021 to 2022, but much lower than COVID-19 deaths in 2020 to 2021",
       "h5": "Monthly deaths registered due to flu and pneumonia in December to March, England and Wales, 2001 to 2022, and deaths due to COVID-19, December to March, 2020 to 2022",
       "title": "winter deaths",
-      "url": "/visualisations/dvc1945/winterdeaths_v2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1945/winterdeaths_v2/index.html",
+      "url_new": "/visualisations/dvc1945/winterdeaths_v2/index.html"
     },
     {
       "type": "p",
@@ -651,7 +662,8 @@
       "h3": null,
       "h4": "Deaths due to COVID-19 were higher than those due to flu and pneumonia in winter 2021 to 2022, but much lower than COVID-19 deaths in 2020 to 2021",
       "h5": "Monthly deaths registered due to flu and pneumonia in December to March, England and Wales, 2001 to 2022, and deaths due to COVID-19, December to March, 2020 to 2022",
-      "text": "[Download the data for winter deaths due to flu and pneumonia and COVID-19 (XLSX, 20KB)](/visualisations/dvc1945/winterdeaths_v2/datadownload.xlsx)"
+      "text": "[Download the data for winter deaths due to flu and pneumonia and COVID-19 (XLSX, 20KB)](https://www.ons.gov.uk/visualisations/dvc1945/winterdeaths_v2/datadownload.xlsx)",
+      "text_new": "[Download the data for winter deaths due to flu and pneumonia and COVID-19 (XLSX, 20KB)](/visualisations/dvc1945/winterdeaths_v2/datadownload.xlsx)"
     },
     {
       "type": "p",

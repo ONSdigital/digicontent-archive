@@ -50,8 +50,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/resource?uri=/peoplepopulationandcommunity/populationandmigration/populationprojections/articles/being18in2018/2018-09-13/47eccf72.png",
-      "alt": "Multiple people, representing population"
+      "src": "https://www.ons.gov.uk/resource?uri=/peoplepopulationandcommunity/populationandmigration/populationprojections/articles/being18in2018/2018-09-13/47eccf72.png",
+      "alt": "Multiple people, representing population",
+      "src_new": "/resource?uri=/peoplepopulationandcommunity/populationandmigration/populationprojections/articles/being18in2018/2018-09-13/47eccf72.png"
     },
     {
       "type": "heading",
@@ -94,7 +95,8 @@
       "h4": "Estimated and projected number of 18-year-olds in the UK population, 2000 to 2034",
       "h5": null,
       "title": "Estimated and projected number of 18-year-olds in the UK population, 2000 to 2034",
-      "url": "/visualisations/dvc535/static-charts/population/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc535/static-charts/population/index.html",
+      "url_new": "/visualisations/dvc535/static-charts/population/index.html"
     },
     {
       "type": "p",
@@ -144,7 +146,8 @@
       "h4": "Average number of children women give birth to in their lives, UK, 1982 to 2016",
       "h5": null,
       "title": "Average number of children women give birth to in their lives, UK, 1982 to 2016",
-      "url": "/visualisations/dvc535/static-charts/fertilityrate/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc535/static-charts/fertilityrate/index.html",
+      "url_new": "/visualisations/dvc535/static-charts/fertilityrate/index.html"
     },
     {
       "type": "p",
@@ -184,8 +187,9 @@
       "h3": "Number of 18-year-olds in UK falling, but set to rise",
       "h4": "Average number of children women give birth to in their lives, UK, 1982 to 2016",
       "h5": null,
-      "src": "/resource?uri=/peoplepopulationandcommunity/populationandmigration/populationprojections/articles/being18in2018/2018-09-13/af6c345f.png",
-      "alt": "Multiple charts, representing life expectancy"
+      "src": "https://www.ons.gov.uk/resource?uri=/peoplepopulationandcommunity/populationandmigration/populationprojections/articles/being18in2018/2018-09-13/af6c345f.png",
+      "alt": "Multiple charts, representing life expectancy",
+      "src_new": "/resource?uri=/peoplepopulationandcommunity/populationandmigration/populationprojections/articles/being18in2018/2018-09-13/af6c345f.png"
     },
     {
       "type": "heading",
@@ -228,7 +232,8 @@
       "h4": "Expected age at death for 18-year-olds, UK, 2000 to 2018",
       "h5": null,
       "title": "Expected age at death for 18-year-olds, UK, 2000 to 2018",
-      "url": "/visualisations/dvc535/static-charts/lifeexpectancy/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc535/static-charts/lifeexpectancy/index.html",
+      "url_new": "/visualisations/dvc535/static-charts/lifeexpectancy/index.html"
     },
     {
       "type": "p",
@@ -268,8 +273,9 @@
       "h3": "18-year-olds expected to live two years longer than 18-year-olds in 2000",
       "h4": "Expected age at death for 18-year-olds, UK, 2000 to 2018",
       "h5": null,
-      "src": "/resource?uri=/peoplepopulationandcommunity/populationandmigration/populationprojections/articles/being18in2018/2018-09-13/57d8ad69.png",
-      "alt": "Wedding car and hotel sign"
+      "src": "https://www.ons.gov.uk/resource?uri=/peoplepopulationandcommunity/populationandmigration/populationprojections/articles/being18in2018/2018-09-13/57d8ad69.png",
+      "alt": "Wedding car and hotel sign",
+      "src_new": "/resource?uri=/peoplepopulationandcommunity/populationandmigration/populationprojections/articles/being18in2018/2018-09-13/57d8ad69.png"
     },
     {
       "type": "heading",
@@ -320,7 +326,8 @@
       "h4": "Number of people aged 18 getting married each year per 1,000 people aged 18, UK, 2000 to 2015",
       "h5": null,
       "title": "Number of people aged 18 getting married each year per 1,000 people aged 18, UK, 2000 to 2015",
-      "url": "/visualisations/dvc535/static-charts/marriage/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc535/static-charts/marriage/index.html",
+      "url_new": "/visualisations/dvc535/static-charts/marriage/index.html"
     },
     {
       "type": "p",
@@ -386,7 +393,8 @@
       "h4": "Average age at first marriage, England and Wales, 1970 to 2015",
       "h5": null,
       "title": "Average age at first marriage, England and Wales, 1970 to 2015",
-      "url": "/visualisations/dvc535/static-charts/marrying/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc535/static-charts/marrying/index.html",
+      "url_new": "/visualisations/dvc535/static-charts/marrying/index.html"
     },
     {
       "type": "image",
@@ -394,8 +402,9 @@
       "h3": "Getting married at 18 no longer a thing",
       "h4": "Average age at first marriage, England and Wales, 1970 to 2015",
       "h5": null,
-      "src": "/resource?uri=/peoplepopulationandcommunity/populationandmigration/populationprojections/articles/being18in2018/2018-09-13/9bedf7d3.png",
-      "alt": "Pregnancy test showing positive result"
+      "src": "https://www.ons.gov.uk/resource?uri=/peoplepopulationandcommunity/populationandmigration/populationprojections/articles/being18in2018/2018-09-13/9bedf7d3.png",
+      "alt": "Pregnancy test showing positive result",
+      "src_new": "/resource?uri=/peoplepopulationandcommunity/populationandmigration/populationprojections/articles/being18in2018/2018-09-13/9bedf7d3.png"
     },
     {
       "type": "heading",
@@ -438,7 +447,8 @@
       "h4": "Number of live births to 18-year-old parents per 1,000 people aged 18, UK, 2000 to 2016",
       "h5": null,
       "title": "Number of live births to 18-year-old parents per 1,000 people aged 18, UK, 2000 to 2016",
-      "url": "/visualisations/dvc535/static-charts/birthrates/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc535/static-charts/birthrates/index.html",
+      "url_new": "/visualisations/dvc535/static-charts/birthrates/index.html"
     },
     {
       "type": "p",
@@ -454,7 +464,7 @@
       "h3": "Far fewer 18-year-old mums and dads",
       "h4": "Number of live births to 18-year-old parents per 1,000 people aged 18, UK, 2000 to 2016",
       "h5": null,
-      "text": "In addition, governments around the UK have tried to reduce the number of teenage pregnancies. A [government strategy in 1999](/visualisations/20100202154438/http:/www.dcsf.gov.uk/everychildmatters/healthandwellbeing/teenagepregnancy/about/strategy/) aimed to halve the under-18 pregnancy rate in England by 2010 through, for example, introducing better sex education and improving access to contraception and sexual health services."
+      "text": "In addition, governments around the UK have tried to reduce the number of teenage pregnancies. A [government strategy in 1999](http://webarchive.nationalarchives.gov.uk/20100202154438/http:/www.dcsf.gov.uk/everychildmatters/healthandwellbeing/teenagepregnancy/about/strategy/) aimed to halve the under-18 pregnancy rate in England by 2010 through, for example, introducing better sex education and improving access to contraception and sexual health services."
     },
     {
       "type": "p",
@@ -470,8 +480,9 @@
       "h3": "Far fewer 18-year-old mums and dads",
       "h4": "Number of live births to 18-year-old parents per 1,000 people aged 18, UK, 2000 to 2016",
       "h5": null,
-      "src": "/resource?uri=/peoplepopulationandcommunity/populationandmigration/populationprojections/articles/being18in2018/2018-09-13/44beb68a.png",
-      "alt": "Magnifying glass showing the word JOBS"
+      "src": "https://www.ons.gov.uk/resource?uri=/peoplepopulationandcommunity/populationandmigration/populationprojections/articles/being18in2018/2018-09-13/44beb68a.png",
+      "alt": "Magnifying glass showing the word JOBS",
+      "src_new": "/resource?uri=/peoplepopulationandcommunity/populationandmigration/populationprojections/articles/being18in2018/2018-09-13/44beb68a.png"
     },
     {
       "type": "heading",
@@ -522,7 +533,8 @@
       "h4": "Employment, unemployment and inactivity of 18-year-olds, UK, 2000 to 2017 (October to December each year, not seasonally adjusted)",
       "h5": null,
       "title": "Employment, unemployment and inactivity of 18-year-olds, UK, 2000 to 2017 (October to December each year, not seasonally adjusted)",
-      "url": "/visualisations/dvc535/static-charts/employment/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc535/static-charts/employment/index.html",
+      "url_new": "/visualisations/dvc535/static-charts/employment/index.html"
     },
     {
       "type": "p",
@@ -572,7 +584,8 @@
       "h4": null,
       "h5": null,
       "title": "Proportion of the 18-year-old population accepted onto an undergraduate higher education course, UK, admissions cycles 2006 to 2017",
-      "url": "/visualisations/dvc535/static-charts/tuition_fees/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc535/static-charts/tuition_fees/index.html",
+      "url_new": "/visualisations/dvc535/static-charts/tuition_fees/index.html"
     },
     {
       "type": "image",
@@ -580,8 +593,9 @@
       "h3": "Proportion of the 18-year-old population accepted onto an undergraduate higher education course, UK, admissions cycles 2006 to 2017",
       "h4": null,
       "h5": null,
-      "src": "/resource?uri=/peoplepopulationandcommunity/populationandmigration/populationprojections/articles/being18in2018/2018-09-13/5509d5af.png",
-      "alt": "Pint of beer and cigarette in ashtray"
+      "src": "https://www.ons.gov.uk/resource?uri=/peoplepopulationandcommunity/populationandmigration/populationprojections/articles/being18in2018/2018-09-13/5509d5af.png",
+      "alt": "Pint of beer and cigarette in ashtray",
+      "src_new": "/resource?uri=/peoplepopulationandcommunity/populationandmigration/populationprojections/articles/being18in2018/2018-09-13/5509d5af.png"
     },
     {
       "type": "heading",
@@ -632,7 +646,8 @@
       "h4": null,
       "h5": null,
       "title": "People aged 18 to 24 years who drank, or “binged” in the week before interview, Great Britain, 2005 to 2017",
-      "url": "/visualisations/dvc535/static-charts/drinking/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc535/static-charts/drinking/index.html",
+      "url_new": "/visualisations/dvc535/static-charts/drinking/index.html"
     },
     {
       "type": "p",
@@ -640,7 +655,7 @@
       "h3": "People aged 18 to 24 years who drank, or “binged” in the week before interview, Great Britain, 2005 to 2017",
       "h4": null,
       "h5": null,
-      "text": "The 18-year-olds of the new millennium may have been “peak drinkers”. [Research in 1998 and 1999 by the Home Office](/visualisations/20110218144400/http:/rds.homeoffice.gov.uk/rds/pdfs2/hors263.pdf) found that four out of five people aged 18 to 24 had drank alcohol in the last week."
+      "text": "The 18-year-olds of the new millennium may have been “peak drinkers”. [Research in 1998 and 1999 by the Home Office](http://webarchive.nationalarchives.gov.uk/20110218144400/http:/rds.homeoffice.gov.uk/rds/pdfs2/hors263.pdf) found that four out of five people aged 18 to 24 had drank alcohol in the last week."
     },
     {
       "type": "p",
@@ -690,7 +705,8 @@
       "h4": "People aged 18 to 24 years who are cigarette smokers, Great Britain, 2000 to 2017",
       "h5": null,
       "title": "People aged 18 to 24 years who are cigarette smokers, Great Britain, 2000 to 2017",
-      "url": "/visualisations/dvc535/static-charts/smoking/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc535/static-charts/smoking/index.html",
+      "url_new": "/visualisations/dvc535/static-charts/smoking/index.html"
     },
     {
       "type": "p",
@@ -706,8 +722,9 @@
       "h3": "People aged 18 to 24 years who drank, or “binged” in the week before interview, Great Britain, 2005 to 2017",
       "h4": "People aged 18 to 24 years who are cigarette smokers, Great Britain, 2000 to 2017",
       "h5": null,
-      "src": "/resource?uri=/peoplepopulationandcommunity/populationandmigration/populationprojections/articles/being18in2018/2018-09-13/ff02f1b8.png",
-      "alt": "Smartphone on selfie stick with app icons"
+      "src": "https://www.ons.gov.uk/resource?uri=/peoplepopulationandcommunity/populationandmigration/populationprojections/articles/being18in2018/2018-09-13/ff02f1b8.png",
+      "alt": "Smartphone on selfie stick with app icons",
+      "src_new": "/resource?uri=/peoplepopulationandcommunity/populationandmigration/populationprojections/articles/being18in2018/2018-09-13/ff02f1b8.png"
     },
     {
       "type": "heading",
@@ -750,7 +767,8 @@
       "h4": "Change in time spent by 18-year-olds on selected activities between 2000 to 2001 and 2014 to 2015 (average minutes per day)",
       "h5": null,
       "title": "Change in time spent by 18-year-olds on selected activities between 2000 to 2001 and 2014 to 2015 (average minutes per day)",
-      "url": "/visualisations/dvc535/static-charts/time_use/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc535/static-charts/time_use/index.html",
+      "url_new": "/visualisations/dvc535/static-charts/time_use/index.html"
     },
     {
       "type": "p",
@@ -803,6 +821,21 @@
       "box_h3": null,
       "box_text": "",
       "box_items": [
+        "[Download all data in this article (xlsx)](https://www.ons.gov.uk/visualisations/dvc535/downloadthedata.xlsx)",
+        "[Estimates of the population for the UK, England and Wales, Scotland and Northern Ireland](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationestimatesforukenglandandwalesscotlandandnorthernireland)",
+        "[Z1 - Zipped population projections data files, UK](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/datasets/z1zippedpopulationprojectionsdatafilesuk)",
+        "[Vital statistics: population and health reference tables](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/vitalstatisticspopulationandhealthreferencetables)",
+        "[Expectation of life, principal projection, United Kingdom](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/datasets/expectationoflifeprincipalprojectionunitedkingdom)",
+        "[Marriages in England and Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/marriagecohabitationandcivilpartnerships/datasets/marriagesinenglandandwales2013)",
+        "[Adult drinking habits in Great Britain](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/drugusealcoholandsmoking/datasets/adultdrinkinghabits)",
+        "[Adult smoking habits in Great Britain](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/drugusealcoholandsmoking/datasets/adultsmokinghabitsingreatbritain)",
+        "[National Records of Scotland: Vital Events - Marriages and Civil Partnerships](https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/vital-events/marriages-and-civil-partnerships)",
+        "[Northern Ireland Statistics and Research Agency: Marriages](https://www.nisra.gov.uk/statistics/births-deaths-and-marriages/marriages)",
+        "[National Records of Scotland: Vital Events - Births](https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/vital-events/births)",
+        "[Northern Ireland Statistics and Research Agency: Births](https://www.nisra.gov.uk/statistics/births-deaths-and-marriages/births)",
+        "[UCAS: End of Cycle Report 2017 - Patterns by age](https://www.ucas.com/file/135631)"
+      ],
+      "box_items_new": [
         "[Download all data in this article (xlsx)](/visualisations/dvc535/downloadthedata.xlsx)",
         "[Estimates of the population for the UK, England and Wales, Scotland and Northern Ireland](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationestimatesforukenglandandwalesscotlandandnorthernireland)",
         "[Z1 - Zipped population projections data files, UK](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/datasets/z1zippedpopulationprojectionsdatafilesuk)",

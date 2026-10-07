@@ -100,7 +100,8 @@
       "h4": null,
       "h5": null,
       "title": "Weekly coronavirus (COVID-19) related death occurrences, England and Wales, March 2020 to February 2021",
-      "url": "/visualisations/dvc1231/fig2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1231/fig2/index.html",
+      "url_new": "/visualisations/dvc1231/fig2/index.html"
     },
     {
       "type": "heading",
@@ -133,7 +134,8 @@
       "h3": null,
       "h4": null,
       "h5": "Notes:",
-      "text": "[Download the data](/visualisations/dvc1231/fig2/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1231/fig2/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1231/fig2/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -199,7 +201,8 @@
       "h4": null,
       "h5": null,
       "title": "Daily number of men and women furloughed, UK, between 1 July and 31 December 2020",
-      "url": "/visualisations/dvc1231/fig4/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1231/fig4/index.html",
+      "url_new": "/visualisations/dvc1231/fig4/index.html"
     },
     {
       "type": "heading",
@@ -338,7 +341,8 @@
       "h4": null,
       "h5": null,
       "title": "Working from home, unpaid childcare and household work, across GB and the UK, in 2014/15, March to April 2020, and September to October 2020.",
-      "url": "/visualisations/dvc1231/fig5/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1231/fig5/index.html",
+      "url_new": "/visualisations/dvc1231/fig5/index.html"
     },
     {
       "type": "heading",
@@ -371,7 +375,8 @@
       "h3": null,
       "h4": null,
       "h5": "Notes:",
-      "text": "[Download the data](/visualisations/dvc1231/fig5/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1231/fig5/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1231/fig5/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -453,7 +458,8 @@
       "h4": null,
       "h5": null,
       "title": "Anxiety, lonely at some point, and moderate to severe depressive symptoms, Great Britain, March 2020 to January 2021",
-      "url": "/visualisations/dvc1231/fig7wrapper/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1231/fig7wrapper/index.html",
+      "url_new": "/visualisations/dvc1231/fig7wrapper/index.html"
     },
     {
       "type": "heading",
@@ -494,7 +500,8 @@
       "h3": null,
       "h4": null,
       "h5": "Notes:",
-      "text": "[Download the data](/visualisations/dvc1231/fig7wrapper/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1231/fig7wrapper/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1231/fig7wrapper/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -560,7 +567,8 @@
       "h4": null,
       "h5": null,
       "title": "The proportion of respondents who are not at all worried about the effect that the coronavirus (COVID-19) pandemic is having on their life right now, Great Britain, March 2020 to February 2021",
-      "url": "/visualisations/dvc1231/fig8/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1231/fig8/index.html",
+      "url_new": "/visualisations/dvc1231/fig8/index.html"
     },
     {
       "type": "heading",
@@ -593,7 +601,8 @@
       "h3": null,
       "h4": null,
       "h5": "Notes:",
-      "text": "[Download the data](/visualisations/dvc1231/fig8/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1231/fig8/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1231/fig8/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -640,7 +649,7 @@
       "h5": "Notes:",
       "box_h2": "Contact",
       "box_h3": null,
-      "box_text": "Mitchell Brain and Chris S Payne\n[Equalities@ons.gov.uk](mailto:Equalities@ons.gov.uk)\n Telephone: 01633 560387",
+      "box_text": "Mitchell Brain and Chris S Payne\n[Equalities@ons.gov.uk](mailto:Equalities@ons.gov.uk )\n Telephone: 01633 560387",
       "box_items": null
     }
   ],

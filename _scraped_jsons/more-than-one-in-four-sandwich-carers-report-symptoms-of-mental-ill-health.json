@@ -83,7 +83,8 @@
       "h4": null,
       "h5": null,
       "title": "Mental health",
-      "url": "/visualisations/dvc574/mental-health/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc574/mental-health/index.html",
+      "url_new": "/visualisations/dvc574/mental-health/index.html"
     },
     {
       "type": "p",
@@ -91,7 +92,8 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[Download the data.](/visualisations/dvc574/mental-health/data-download.csv)"
+      "text": "[Download the data.](https://www.ons.gov.uk/visualisations/dvc574/mental-health/data-download.csv)",
+      "text_new": "[Download the data.](/visualisations/dvc574/mental-health/data-download.csv)"
     },
     {
       "type": "heading",
@@ -149,7 +151,8 @@
       "h4": null,
       "h5": null,
       "title": "Satisfaction",
-      "url": "/visualisations/dvc574/satisfaction/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc574/satisfaction/index.html",
+      "url_new": "/visualisations/dvc574/satisfaction/index.html"
     },
     {
       "type": "p",
@@ -157,7 +160,8 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[Download the data.](/visualisations/dvc574/satisfaction/data.csv)"
+      "text": "[Download the data.](https://www.ons.gov.uk/visualisations/dvc574/satisfaction/data.csv)",
+      "text_new": "[Download the data.](/visualisations/dvc574/satisfaction/data.csv)"
     },
     {
       "type": "p",
@@ -182,7 +186,8 @@
       "h4": null,
       "h5": null,
       "title": "Employment",
-      "url": "/visualisations/dvc574/employment/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc574/employment/index.html",
+      "url_new": "/visualisations/dvc574/employment/index.html"
     },
     {
       "type": "p",
@@ -190,7 +195,8 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[Download the data.](/visualisations/dvc574/employment/data-download.csv)"
+      "text": "[Download the data.](https://www.ons.gov.uk/visualisations/dvc574/employment/data-download.csv)",
+      "text_new": "[Download the data.](/visualisations/dvc574/employment/data-download.csv)"
     },
     {
       "type": "p",
@@ -248,7 +254,8 @@
       "h4": null,
       "h5": null,
       "title": "Ability to work",
-      "url": "/visualisations/dvc574/ability-to-work/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc574/ability-to-work/index.html",
+      "url_new": "/visualisations/dvc574/ability-to-work/index.html"
     },
     {
       "type": "p",
@@ -256,7 +263,8 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[Download the data.](/visualisations/dvc574/ability-to-work/data.csv)"
+      "text": "[Download the data.](https://www.ons.gov.uk/visualisations/dvc574/ability-to-work/data.csv)",
+      "text_new": "[Download the data.](/visualisations/dvc574/ability-to-work/data.csv)"
     },
     {
       "type": "p",
@@ -314,7 +322,8 @@
       "h4": null,
       "h5": null,
       "title": "Managing financially",
-      "url": "/visualisations/dvc574/finances/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc574/finances/index.html",
+      "url_new": "/visualisations/dvc574/finances/index.html"
     },
     {
       "type": "p",
@@ -322,7 +331,8 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[Download the data.](/visualisations/dvc574/finances/data.csv)"
+      "text": "[Download the data.](https://www.ons.gov.uk/visualisations/dvc574/finances/data.csv)",
+      "text_new": "[Download the data.](/visualisations/dvc574/finances/data.csv)"
     },
     {
       "type": "heading",

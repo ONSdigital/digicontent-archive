@@ -70,8 +70,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc530/banners/svgs_section_1.svg",
-      "alt": "Banner image"
+      "src": "https://www.ons.gov.uk/visualisations/dvc530/banners/svgs_section_1.svg",
+      "alt": "Banner image",
+      "src_new": "/visualisations/dvc530/banners/svgs_section_1.svg"
     },
     {
       "type": "heading",
@@ -122,7 +123,8 @@
       "h4": null,
       "h5": "Crime incidents, England and Wales",
       "title": "Crime levels",
-      "url": "/visualisations/dvc652a/q1crimelevels/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc652a/q1crimelevels/index.html",
+      "url_new": "/visualisations/dvc652a/q1crimelevels/index.html"
     },
     {
       "type": "p",
@@ -130,7 +132,8 @@
       "h3": null,
       "h4": null,
       "h5": "Crime incidents, England and Wales",
-      "text": "[Download the data](/visualisations/dvc652a/q1crimelevels/datadownload.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc652a/q1crimelevels/datadownload.csv)",
+      "text_new": "[Download the data](/visualisations/dvc652a/q1crimelevels/datadownload.csv)"
     },
     {
       "type": "p",
@@ -146,8 +149,9 @@
       "h3": null,
       "h4": null,
       "h5": "Crime incidents, England and Wales",
-      "src": "/visualisations/dvc530/banners/svgs_section_2.svg",
-      "alt": "Banner image"
+      "src": "https://www.ons.gov.uk/visualisations/dvc530/banners/svgs_section_2.svg",
+      "alt": "Banner image",
+      "src_new": "/visualisations/dvc530/banners/svgs_section_2.svg"
     },
     {
       "type": "heading",
@@ -198,7 +202,8 @@
       "h4": null,
       "h5": "Homicides by offence type, year ending March 2019, England and Wales",
       "title": "Homicides by offence type, England and Wales, year ending March 2019",
-      "url": "/visualisations/dvc652a/q2homicidespie/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc652a/q2homicidespie/index.html",
+      "url_new": "/visualisations/dvc652a/q2homicidespie/index.html"
     },
     {
       "type": "p",
@@ -206,7 +211,8 @@
       "h3": null,
       "h4": null,
       "h5": "Homicides by offence type, year ending March 2019, England and Wales",
-      "text": "[Download the data](/visualisations/dvc652a/q2homicidespie/datadownload.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc652a/q2homicidespie/datadownload.csv)",
+      "text_new": "[Download the data](/visualisations/dvc652a/q2homicidespie/datadownload.csv)"
     },
     {
       "type": "p",
@@ -222,8 +228,9 @@
       "h3": null,
       "h4": null,
       "h5": "Homicides by offence type, year ending March 2019, England and Wales",
-      "src": "/visualisations/dvc530/banners/svgs_section_3.svg",
-      "alt": "Banner image"
+      "src": "https://www.ons.gov.uk/visualisations/dvc530/banners/svgs_section_3.svg",
+      "alt": "Banner image",
+      "src_new": "/visualisations/dvc530/banners/svgs_section_3.svg"
     },
     {
       "type": "heading",
@@ -265,7 +272,8 @@
       "h4": null,
       "h5": null,
       "title": "Women homicides, England and Wales, year ending March 2019",
-      "url": "/visualisations/dvc652a/q3womenkilled/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc652a/q3womenkilled/index.html",
+      "url_new": "/visualisations/dvc652a/q3womenkilled/index.html"
     },
     {
       "type": "p",
@@ -273,7 +281,8 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc652a/q3womenkilled/datadownload.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc652a/q3womenkilled/datadownload.csv)",
+      "text_new": "[Download the data](/visualisations/dvc652a/q3womenkilled/datadownload.csv)"
     },
     {
       "type": "p",
@@ -289,8 +298,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc530/banners/svgs_section_4.svg",
-      "alt": "Banner image"
+      "src": "https://www.ons.gov.uk/visualisations/dvc530/banners/svgs_section_4.svg",
+      "alt": "Banner image",
+      "src_new": "/visualisations/dvc530/banners/svgs_section_4.svg"
     },
     {
       "type": "heading",
@@ -324,7 +334,8 @@
       "h4": null,
       "h5": null,
       "title": "Knife crime, England and Wales, year ending March 2019",
-      "url": "/visualisations/dvc652a/q5knifecrime/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc652a/q5knifecrime/index.html",
+      "url_new": "/visualisations/dvc652a/q5knifecrime/index.html"
     },
     {
       "type": "p",
@@ -332,7 +343,8 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc652a/q5knifecrime/datadownload.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc652a/q5knifecrime/datadownload.csv)",
+      "text_new": "[Download the data](/visualisations/dvc652a/q5knifecrime/datadownload.csv)"
     },
     {
       "type": "image",
@@ -340,8 +352,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc530/banners/violence.svg",
-      "alt": "Banner image"
+      "src": "https://www.ons.gov.uk/visualisations/dvc530/banners/violence.svg",
+      "alt": "Banner image",
+      "src_new": "/visualisations/dvc530/banners/violence.svg"
     },
     {
       "type": "heading",
@@ -374,8 +387,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc530/banners/firearms.svg",
-      "alt": "Alt text here"
+      "src": "https://www.ons.gov.uk/visualisations/dvc530/banners/firearms.svg",
+      "alt": "Alt text here",
+      "src_new": "/visualisations/dvc530/banners/firearms.svg"
     },
     {
       "type": "heading",
@@ -418,7 +432,8 @@
       "h4": "Firearms offences, England and Wales, year ending March 2019",
       "h5": null,
       "title": "Firearms offences, England and Wales, year ending March 2019",
-      "url": "/visualisations/dvc652a/q6guncrime/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc652a/q6guncrime/index.html",
+      "url_new": "/visualisations/dvc652a/q6guncrime/index.html"
     },
     {
       "type": "heading",
@@ -435,7 +450,8 @@
       "h3": null,
       "h4": "Firearms offences, England and Wales, year ending March 2019",
       "h5": "Source: Home Office – Police recorded crime",
-      "text": "[Download the data](/visualisations/dvc652a/q6guncrime/datadownload.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc652a/q6guncrime/datadownload.csv)",
+      "text_new": "[Download the data](/visualisations/dvc652a/q6guncrime/datadownload.csv)"
     },
     {
       "type": "p",
@@ -451,8 +467,9 @@
       "h3": null,
       "h4": "Firearms offences, England and Wales, year ending March 2019",
       "h5": "Source: Home Office – Police recorded crime",
-      "src": "/visualisations/dvc530/banners/svgs_section_5.svg",
-      "alt": "Banner image"
+      "src": "https://www.ons.gov.uk/visualisations/dvc530/banners/svgs_section_5.svg",
+      "alt": "Banner image",
+      "src_new": "/visualisations/dvc530/banners/svgs_section_5.svg"
     },
     {
       "type": "heading",
@@ -477,8 +494,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc530/banners/svgs_section_6.svg",
-      "alt": "Banner image"
+      "src": "https://www.ons.gov.uk/visualisations/dvc530/banners/svgs_section_6.svg",
+      "alt": "Banner image",
+      "src_new": "/visualisations/dvc530/banners/svgs_section_6.svg"
     },
     {
       "type": "heading",
@@ -514,8 +532,9 @@
       "chartbuilder_h3": "Young people are more likely to be victims of burglary",
       "chartbuilder_h4": "Households that were victims of burglary, by age of head of household, year ending March 2018, England and Wales",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/articles/howmuchdoyoureallyknowaboutcrime/2018-11-06/922dba80",
-      "src": "/_scraped_chartbuilder_imgs/922dba80.png",
-      "local_filename": "922dba80.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/crimeandjustice/articles/howmuchdoyoureallyknowaboutcrime/2018-11-06/922dba80&width=&hideSource=true",
+      "local_filename": "922dba80.png",
+      "src_new": "/_scraped_chartbuilder_imgs/922dba80.png"
     },
     {
       "type": "p",

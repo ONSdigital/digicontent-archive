@@ -46,7 +46,7 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "The transport industry is a substantial greenhouse gas (GHG) emitter and, over time, has become an increasingly large energy consumer. This inevitably impacts the environment – as illustrated in [Energy and Emissions in the UK](/visualisations/20160105160709/http:/visual.ons.gov.uk/uk-perspectives-energy-and-emissions)."
+      "text": "The transport industry is a substantial greenhouse gas (GHG) emitter and, over time, has become an increasingly large energy consumer. This inevitably impacts the environment – as illustrated in [Energy and Emissions in the UK](http://webarchive.nationalarchives.gov.uk/20160105160709/http:/visual.ons.gov.uk/uk-perspectives-energy-and-emissions)."
     },
     {
       "type": "p",
@@ -54,7 +54,7 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "This article in the [UK Perspectives](/visualisations/20170726163612/https://visual.ons.gov.uk/introducing-uk-perspectives-2016/) series presents some key statistics relating to how passenger transport has changed over time in Great Britain."
+      "text": "This article in the [UK Perspectives](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/introducing-uk-perspectives-2016/) series presents some key statistics relating to how passenger transport has changed over time in Great Britain."
     },
     {
       "type": "p",
@@ -62,7 +62,7 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "It is important to note there is likely to be subnational variation within the data, particularly between rural and urban areas. As transport policy in Northern Ireland is fully devolved, transport statistics for [Northern Ireland](/visualisations/20160105160709/http:/www.drdni.gov.uk/ni_transport_statistics.htm) are recorded separately."
+      "text": "It is important to note there is likely to be subnational variation within the data, particularly between rural and urban areas. As transport policy in Northern Ireland is fully devolved, transport statistics for [Northern Ireland](http://webarchive.nationalarchives.gov.uk/20160105160709/http:/www.drdni.gov.uk/ni_transport_statistics.htm) are recorded separately."
     },
     {
       "type": "heading",
@@ -97,7 +97,8 @@
       "h4": "Passenger transport by mode2 Great Britain, 1980 to 2014",
       "h5": null,
       "title": "Passenger transport by mode<sup>2<\/sup>Â� Great Britain, 1980 to 2014",
-      "url": "/visualisations/nesscontent/dvc340/Transport_Chart1/Transport_Chart1.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc340/Transport_Chart1/Transport_Chart1.html",
+      "url_new": "/visualisations/nesscontent/dvc340/Transport_Chart1/Transport_Chart1.html"
     },
     {
       "type": "p",
@@ -105,7 +106,7 @@
       "h3": "1.Distance travelled by car has increased",
       "h4": "Passenger transport by mode2 Great Britain, 1980 to 2014",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2016/05/Table-1-Passenger-transport-by-mode.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2016/05/Table-1-Passenger-transport-by-mode.csv)"
     },
     {
       "type": "p",
@@ -172,7 +173,8 @@
       "h4": "Passenger kilometres on public transport, Great Britain, 1985/86 to 2014/15",
       "h5": null,
       "title": "Passenger kilometres on public transport, Great Britain, 1985/86 to 2014/15",
-      "url": "/visualisations/nesscontent/dvc340/Transport_Chart2/Transport_Chart2.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc340/Transport_Chart2/Transport_Chart2.html",
+      "url_new": "/visualisations/nesscontent/dvc340/Transport_Chart2/Transport_Chart2.html"
     },
     {
       "type": "p",
@@ -180,7 +182,7 @@
       "h3": "2. Rail accounts for the most distance travelled on public transport",
       "h4": "Passenger kilometres on public transport, Great Britain, 1985/86 to 2014/15",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2016/05/Table-2_Passenger-kilometres-on-public-transport.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2016/05/Table-2_Passenger-kilometres-on-public-transport.csv)"
     },
     {
       "type": "p",
@@ -223,7 +225,8 @@
       "h4": "Passenger journeys on public transport vehicles, Great Britain, 1985/86 to 2014/154",
       "h5": null,
       "title": "Passenger journeys on public transport vehicles, Great Britain, 1985/86 to 2014/15<sup>4<\/sup>",
-      "url": "/visualisations/nesscontent/dvc340/Transport_Chart3/Transport_Chart3.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc340/Transport_Chart3/Transport_Chart3.html",
+      "url_new": "/visualisations/nesscontent/dvc340/Transport_Chart3/Transport_Chart3.html"
     },
     {
       "type": "p",
@@ -282,7 +285,8 @@
       "h4": "Air traffic: UK airports, 1991 to 2015",
       "h5": null,
       "title": "Air traffic: UK airports, 1991 to 2015",
-      "url": "/visualisations/nesscontent/dvc340/Transport_Chart4/Transport_Chart4.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc340/Transport_Chart4/Transport_Chart4.html",
+      "url_new": "/visualisations/nesscontent/dvc340/Transport_Chart4/Transport_Chart4.html"
     },
     {
       "type": "p",
@@ -290,7 +294,7 @@
       "h3": "4. Air passenger numbers were four times greater in 2015 than in 1980",
       "h4": "Air traffic: UK airports, 1991 to 2015",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2016/05/Table-4-Air-traffic-UK-airports.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2016/05/Table-4-Air-traffic-UK-airports.csv)"
     },
     {
       "type": "p",
@@ -348,7 +352,8 @@
       "h4": null,
       "h5": null,
       "title": "Reported road accidents",
-      "url": "/visualisations/nesscontent/dvc340/Transport_Chart5/Transport_Chart5.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc340/Transport_Chart5/Transport_Chart5.html",
+      "url_new": "/visualisations/nesscontent/dvc340/Transport_Chart5/Transport_Chart5.html"
     },
     {
       "type": "p",
@@ -356,7 +361,7 @@
       "h3": "5. Numbers of road accidents and casualties have fallen",
       "h4": null,
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2016/05/Table-5_Road-accidents.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2016/05/Table-5_Road-accidents.csv)"
     },
     {
       "type": "p",
@@ -407,7 +412,8 @@
       "h4": "Killed or seriously injured from road accidents, Great Britain, 1980 to 2014",
       "h5": null,
       "title": "Killed or seriously injured from road accidents, Great Britain, 1980 to 2014",
-      "url": "/visualisations/nesscontent/dvc340/Transport_Chart6/Transport_Chart6.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc340/Transport_Chart6/Transport_Chart6.html",
+      "url_new": "/visualisations/nesscontent/dvc340/Transport_Chart6/Transport_Chart6.html"
     },
     {
       "type": "p",
@@ -415,7 +421,7 @@
       "h3": "6. The number of car occupant injuries in accidents has seen the greatest reduction",
       "h4": "Killed or seriously injured from road accidents, Great Britain, 1980 to 2014",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2016/05/Table-6_Road-casualties.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2016/05/Table-6_Road-casualties.csv)"
     },
     {
       "type": "p",
@@ -577,7 +583,7 @@
         "[How and why people travel in Great Britain: National Travel Survey annual report](https://www.gov.uk/government/statistics/national-travel-survey-2014)",
         "[Northern Ireland Travel Statistics](https://www.drdni.gov.uk/publications/northern-ireland-transport-statistics-2014-2015)",
         "[How and why people travel in Northern Ireland: Northern Ireland Travel Survey](https://www.drdni.gov.uk/articles/travel-survey-northern-ireland)",
-        "[2011 Census Analysis - Method of Travel to work, England and Wales](/visualisations/20160105160709/http://www.ons.gov.uk/ons/rel/census/2011-census-analysis/method-of-travel-to-work-in-england-and-wales/art-method-of-travel-to-work.html)",
+        "[2011 Census Analysis - Method of Travel to work, England and Wales](http://webarchive.nationalarchives.gov.uk/20160105160709/http://www.ons.gov.uk/ons/rel/census/2011-census-analysis/method-of-travel-to-work-in-england-and-wales/art-method-of-travel-to-work.html)",
         "[UK Perspectives 2016](https://visual.ons.gov.uk/introducing-uk-perspectives-2016/)"
       ]
     },

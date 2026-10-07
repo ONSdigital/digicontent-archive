@@ -109,7 +109,8 @@
       "h4": "Expenditure by children by single year of age, UK, financial year ending 2015 to 2017",
       "h5": null,
       "title": "Expenditure by children by single year of age, UK, financial year ending 2015 to 2017",
-      "url": "/visualisations/dvc476/family_spending/charts/weekly_spend_by_age/"
+      "url": "https://www.ons.gov.uk/visualisations/dvc476/family_spending/charts/weekly_spend_by_age/",
+      "url_new": "/visualisations/dvc476/family_spending/charts/weekly_spend_by_age/"
     },
     {
       "type": "p",
@@ -117,7 +118,7 @@
       "h3": "Age and spending preferences",
       "h4": "Expenditure by children by single year of age, UK, financial year ending 2015 to 2017",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2018/02/weekly_spend_by_age.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2018/02/weekly_spend_by_age.csv)"
     },
     {
       "type": "heading",
@@ -209,7 +210,8 @@
       "h4": "Top spending categories for children aged 7 to 15 years old, UK, financial year ending 2015 to 2017",
       "h5": null,
       "title": "Top spending categories for children aged 7 to 15 years old, UK, financial year ending 2015 to 2017",
-      "url": "/visualisations/dvc476/family_spending/charts/weekly_spend_by_item/"
+      "url": "https://www.ons.gov.uk/visualisations/dvc476/family_spending/charts/weekly_spend_by_item/",
+      "url_new": "/visualisations/dvc476/family_spending/charts/weekly_spend_by_item/"
     },
     {
       "type": "p",
@@ -217,7 +219,7 @@
       "h3": "Overall children’s spending by category",
       "h4": "Top spending categories for children aged 7 to 15 years old, UK, financial year ending 2015 to 2017",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2018/02/weekly_spend_by_item.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2018/02/weekly_spend_by_item.csv)"
     },
     {
       "type": "p",
@@ -283,7 +285,8 @@
       "h4": "How well do you know the spending habits of children living in the UK? Take our quick-fire quiz to find out:",
       "h5": null,
       "title": "How well do you know the spending habits of children living in the UK? Take our quick-fire quiz to find out:",
-      "url": "/visualisations/dvc476/family_spending/quiz/"
+      "url": "https://www.ons.gov.uk/visualisations/dvc476/family_spending/quiz/",
+      "url_new": "/visualisations/dvc476/family_spending/quiz/"
     },
     {
       "type": "box",

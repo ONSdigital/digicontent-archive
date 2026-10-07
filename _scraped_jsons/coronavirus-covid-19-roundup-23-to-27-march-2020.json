@@ -102,8 +102,9 @@
       "chartbuilder_h3": "The extent to which people can work from home varies by industrial sector",
       "chartbuilder_h4": "Percentage of UK workforce to have ever worked from home in their current job, by industrial sector, January to December 2019",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup23to27march2020/2020-03-27/9f8d37ee",
-      "src": "/_scraped_chartbuilder_imgs/9f8d37ee.png",
-      "local_filename": "9f8d37ee.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup23to27march2020/2020-03-27/9f8d37ee&width=&hideSource=true",
+      "local_filename": "9f8d37ee.png",
+      "src_new": "/_scraped_chartbuilder_imgs/9f8d37ee.png"
     },
     {
       "type": "p",
@@ -153,7 +154,8 @@
       "h4": null,
       "h5": null,
       "title": "Interactive chart",
-      "url": "/visualisations/dvc778/map/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc778/map/index.html",
+      "url_new": "/visualisations/dvc778/map/index.html"
     },
     {
       "type": "p",
@@ -188,8 +190,9 @@
       "chartbuilder_h3": "Agricultural industries had the greatest share of workers aged 70 years or over",
       "chartbuilder_h4": "Top five industry divisions by the share of the workforce aged 70 years or over, UK, October 2018 to September 2019",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup23to27march2020/2020-03-27/ef881b0a",
-      "src": "/_scraped_chartbuilder_imgs/ef881b0a.png",
-      "local_filename": "ef881b0a.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup23to27march2020/2020-03-27/ef881b0a&width=&hideSource=true",
+      "local_filename": "ef881b0a.png",
+      "src_new": "/_scraped_chartbuilder_imgs/ef881b0a.png"
     },
     {
       "type": "heading",

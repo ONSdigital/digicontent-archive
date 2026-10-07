@@ -118,7 +118,7 @@
       "chartbuilder_h3": null,
       "chartbuilder_h4": "The rate of deaths involving COVID-19 decreased between May and June 2020",
       "data_uri": null,
-      "src": "https://www.ons.gov.uk/resource?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup13to17july2020/2020-07-17/ba1316cb.png"
+      "src": null
     },
     {
       "type": "p",
@@ -170,8 +170,9 @@
       "chartbuilder_h3": "Inflows into paid employment continued to fall, while outflows have fallen below their long-term average",
       "chartbuilder_h4": "Month-on-month change in paid employment and contributions to this change from inflows (positive) and outflows (negative), seasonally adjusted, UK, January 2017 to June 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup13to17july2020/2020-07-17/9be5293c",
-      "src": "/_scraped_chartbuilder_imgs/9be5293c.png",
-      "local_filename": "9be5293c.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup13to17july2020/2020-07-17/9be5293c&width=&hideSource=true",
+      "local_filename": "9be5293c.png",
+      "src_new": "/_scraped_chartbuilder_imgs/9be5293c.png"
     },
     {
       "type": "p",
@@ -295,7 +296,8 @@
       "h4": "There have been large falls in the three months to April 2020, and the three months to May 2020, when compared to quarterly growth rates",
       "h5": "UK GDP growth, Quarter 1 (Jan to Mar) 2005 until March to May 2020",
       "title": "Bar chart",
-      "url": "/visualisations/dvc901/gdp/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc901/gdp/index.html",
+      "url_new": "/visualisations/dvc901/gdp/index.html"
     },
     {
       "type": "p",
@@ -387,7 +389,8 @@
       "h4": "Some of the industries in production and services saw a small rise in May 2020, but most remained substantially below their February 2020 level",
       "h5": "Index for various industries, seasonally adjusted, UK, January 2018 to May 2020",
       "title": "Some of the industries in production and services saw a small rise in May 2020, but most remained substantially below their February 2020 level",
-      "url": "/visualisations/dvc900/inds/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc900/inds/index.html",
+      "url_new": "/visualisations/dvc900/inds/index.html"
     },
     {
       "type": "p",
@@ -455,8 +458,9 @@
       "chartbuilder_h3": "Total exports and imports, excluding precious metals, remained low in May 2020, following large falls in March and April",
       "chartbuilder_h4": "Total trade exports and imports, excluding non-monetary gold and other precious metals, month-on-month May 2019 to May 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup13to17july2020/2020-07-17/979f3720",
-      "src": "/_scraped_chartbuilder_imgs/979f3720.png",
-      "local_filename": "979f3720.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup13to17july2020/2020-07-17/979f3720&width=&hideSource=true",
+      "local_filename": "979f3720.png",
+      "src_new": "/_scraped_chartbuilder_imgs/979f3720.png"
     },
     {
       "type": "p",
@@ -580,7 +584,8 @@
       "h4": "Households containing someone aged 70 years or over are more likely to contain a mix of ages living together if that person’s ethnicity is Bangladeshi or Pakistani",
       "h5": "Proportion of households with at least one person aged 70 years or over by ethnic group of that person, by mix of ages in the household, UK, 2018",
       "title": "Interactive chart",
-      "url": "/visualisations/dvc904/figure/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc904/figure/index.html",
+      "url_new": "/visualisations/dvc904/figure/index.html"
     },
     {
       "type": "p",
@@ -680,7 +685,8 @@
       "h4": "Households where the head works in accommodation and food services are least likely to be able to cover a loss of income",
       "h5": "Percentage of households unable to cover a three-month loss of employment income, by industry in which household head works, Great Britain, April 2016 to March 2018",
       "title": "Non UK staff",
-      "url": "/visualisations/dvc889/splitbar/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc889/splitbar/index.html",
+      "url_new": "/visualisations/dvc889/splitbar/index.html"
     },
     {
       "type": "p",
@@ -688,7 +694,8 @@
       "h3": null,
       "h4": "Households where the head works in accommodation and food services are least likely to be able to cover a loss of income",
       "h5": "Percentage of households unable to cover a three-month loss of employment income, by industry in which household head works, Great Britain, April 2016 to March 2018",
-      "text": "[Download the data](/visualisations/dvc889/splitbar/datadownload.xlsx)"
+      "text": "[Download the data](http://www.ons.gov.uk/visualisations/dvc889/splitbar/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc889/splitbar/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -742,5 +749,5 @@
       "box_items": null
     }
   ],
-  "scraped_at": "2026-09-28 13:17:42.575648"
+  "scraped_at": "2026-09-22 11:48:10.330748"
 }

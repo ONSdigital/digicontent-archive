@@ -67,7 +67,8 @@
       "h4": null,
       "h5": null,
       "title": "Working days lost",
-      "url": "/visualisations/nesscontent/dvc277/line_chart/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc277/line_chart/index.html",
+      "url_new": "/visualisations/nesscontent/dvc277/line_chart/index.html"
     },
     {
       "type": "p",
@@ -75,7 +76,7 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2015/09/Labour-Disputes.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2015/09/Labour-Disputes.csv)"
     },
     {
       "type": "p",

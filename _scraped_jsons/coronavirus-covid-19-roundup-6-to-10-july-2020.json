@@ -110,8 +110,9 @@
       "chartbuilder_h3": "The number of identified deaths involving COVID-19 in 2020 was similar to the average for suicide and alcohol-specific deaths in 2018",
       "chartbuilder_h4": "Five-year average of deaths of homeless people involving alcohol-specific causes, suicide and drug poisoning, per quarter, and deaths involving the coronavirus (COVID-19) of homeless people, England and Wales, 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup6to10july2020/2020-07-10/7ecc8d03",
-      "src": "/_scraped_chartbuilder_imgs/7ecc8d03.png",
-      "local_filename": "7ecc8d03.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup6to10july2020/2020-07-10/7ecc8d03&width=&hideSource=true",
+      "local_filename": "7ecc8d03.png",
+      "src_new": "/_scraped_chartbuilder_imgs/7ecc8d03.png"
     },
     {
       "type": "p",
@@ -446,8 +447,9 @@
       "chartbuilder_h3": "Rates of positive tests for COVID-19 appear lower for individuals who live in two-person households",
       "chartbuilder_h4": "Estimated percentage of those ever testing positive for the coronavirus (COVID-19) in the study, by household size, England, 26 April to 27 June 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup6to10july2020/2020-07-10/a24dc9a6",
-      "src": "/_scraped_chartbuilder_imgs/a24dc9a6.png",
-      "local_filename": "a24dc9a6.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup6to10july2020/2020-07-10/a24dc9a6&width=&hideSource=true",
+      "local_filename": "a24dc9a6.png",
+      "src_new": "/_scraped_chartbuilder_imgs/a24dc9a6.png"
     },
     {
       "type": "p",
@@ -580,7 +582,8 @@
       "h4": "Find out how many households in your local area contain people aged 70 years or older living with those aged 60 years or under",
       "h5": "Percentage and number of households in a Lower layer Super Output Area (LSOA) where there is someone over 70 years living with someone aged 60 years or under, England and Wales",
       "title": "Interactive chart",
-      "url": "/visualisations/dvc893/map/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc893/map/index.html",
+      "url_new": "/visualisations/dvc893/map/index.html"
     },
     {
       "type": "box",

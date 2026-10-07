@@ -104,7 +104,8 @@
       "h4": null,
       "h5": null,
       "title": "Destination of UK goods exports",
-      "url": "/visualisations/dvc402/chart1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc402/chart1/index.html",
+      "url_new": "/visualisations/dvc402/chart1/index.html"
     },
     {
       "type": "p",
@@ -121,7 +122,8 @@
       "h4": null,
       "h5": null,
       "title": "Destination of EU goods exports",
-      "url": "/visualisations/dvc402/chart1i/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc402/chart1i/index.html",
+      "url_new": "/visualisations/dvc402/chart1i/index.html"
     },
     {
       "type": "p",
@@ -188,7 +190,8 @@
       "h4": "Explore to what extent other countries trade in goods with the UK.",
       "h5": null,
       "title": "Explore to what extent other countries trade in goods with the UK.",
-      "url": "/visualisations/dvc402/chart2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc402/chart2/index.html",
+      "url_new": "/visualisations/dvc402/chart2/index.html"
     },
     {
       "type": "p",
@@ -196,7 +199,7 @@
       "h3": "Does EU industry want to trade with the UK?",
       "h4": "Explore to what extent other countries trade in goods with the UK.",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/03/data.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/03/data.csv)"
     },
     {
       "type": "heading",
@@ -255,7 +258,8 @@
       "h4": "World goods exports, 2015",
       "h5": null,
       "title": "World goods exports, 2015",
-      "url": "/visualisations/dvc402/chart3/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc402/chart3/index.html",
+      "url_new": "/visualisations/dvc402/chart3/index.html"
     },
     {
       "type": "p",
@@ -287,7 +291,7 @@
       "h3": "Where does the UK rank as a goods exporter?",
       "h4": "World goods exports, 2015",
       "h5": null,
-      "text": "[Who does the UK trade with?](/visualisations/20170726163612/https://visual.ons.gov.uk/uk-trade-partners/)"
+      "text": "[Who does the UK trade with?](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/uk-trade-partners/)"
     },
     {
       "type": "p",

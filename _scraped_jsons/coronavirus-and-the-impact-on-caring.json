@@ -93,8 +93,9 @@
       "chartbuilder_h3": "Shopping was the most common support provided in April 2020",
       "chartbuilder_h4": "Ways in which people provided help and support, UK, April 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/morepeoplehavebeenhelpingothersoutsidetheirhouseholdthroughthecoronaviruscovid19lockdown/2020-07-09/1033464b",
-      "src": "/_scraped_chartbuilder_imgs/1033464b.png",
-      "local_filename": "1033464b.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/morepeoplehavebeenhelpingothersoutsidetheirhouseholdthroughthecoronaviruscovid19lockdown/2020-07-09/1033464b&width=&hideSource=true",
+      "local_filename": "1033464b.png",
+      "src_new": "/_scraped_chartbuilder_imgs/1033464b.png"
     },
     {
       "type": "heading",
@@ -153,7 +154,8 @@
       "h4": null,
       "h5": null,
       "title": "Non UK staff",
-      "url": "/visualisations/dvc899/multiple-split-bar-chart/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc899/multiple-split-bar-chart/index.html",
+      "url_new": "/visualisations/dvc899/multiple-split-bar-chart/index.html"
     },
     {
       "type": "heading",
@@ -218,7 +220,8 @@
       "h3": "The likelihood of caring varies by age, sex, ethnicity and parental status",
       "h4": null,
       "h5": "Notes:",
-      "text": "[Download the data](/visualisations/dvc899/multiple-split-bar-chart/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc899/multiple-split-bar-chart/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc899/multiple-split-bar-chart/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -302,8 +305,9 @@
       "chartbuilder_h3": "Females providing help and support have seen the largest change in reporting poor mental health",
       "chartbuilder_h4": "Proportion of adults with a General Health Questionnaire score of between 4 to 12 by whether help or support provided to someone outside of the household by sex, UK, 2017 to 2018 and April 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/morepeoplehavebeenhelpingothersoutsidetheirhouseholdthroughthecoronaviruscovid19lockdown/2020-07-09/cf64d566",
-      "src": "/_scraped_chartbuilder_imgs/cf64d566.png",
-      "local_filename": "cf64d566.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/morepeoplehavebeenhelpingothersoutsidetheirhouseholdthroughthecoronaviruscovid19lockdown/2020-07-09/cf64d566&width=&hideSource=true",
+      "local_filename": "cf64d566.png",
+      "src_new": "/_scraped_chartbuilder_imgs/cf64d566.png"
     },
     {
       "type": "heading",
@@ -355,8 +359,9 @@
       "chartbuilder_h3": "People providing help or support are more likely than those who are not to report feeling worse or much worse than usual on most well-being questions",
       "chartbuilder_h4": "General Health Questionnaire Individual Questions (feeling worse or much worse than usual) by whether help or support provided to someone outside of the household, UK, April 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/morepeoplehavebeenhelpingothersoutsidetheirhouseholdthroughthecoronaviruscovid19lockdown/2020-07-09/80c65b00",
-      "src": "/_scraped_chartbuilder_imgs/80c65b00.png",
-      "local_filename": "80c65b00.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/morepeoplehavebeenhelpingothersoutsidetheirhouseholdthroughthecoronaviruscovid19lockdown/2020-07-09/80c65b00&width=&hideSource=true",
+      "local_filename": "80c65b00.png",
+      "src_new": "/_scraped_chartbuilder_imgs/80c65b00.png"
     },
     {
       "type": "p",
@@ -465,8 +470,9 @@
       "chartbuilder_h3": "The most common worry of carers was feeling worried about the future",
       "chartbuilder_h4": "Ways that well-being is being affected by carer status, Great Britain, April to May 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/morepeoplehavebeenhelpingothersoutsidetheirhouseholdthroughthecoronaviruscovid19lockdown/2020-07-09/73df8d09",
-      "src": "/_scraped_chartbuilder_imgs/73df8d09.png",
-      "local_filename": "73df8d09.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/morepeoplehavebeenhelpingothersoutsidetheirhouseholdthroughthecoronaviruscovid19lockdown/2020-07-09/73df8d09&width=&hideSource=true",
+      "local_filename": "73df8d09.png",
+      "src_new": "/_scraped_chartbuilder_imgs/73df8d09.png"
     },
     {
       "type": "heading",
@@ -502,8 +508,9 @@
       "chartbuilder_h3": "Staying in touch with family and friends is a main coping strategy for both carers and non-carers",
       "chartbuilder_h4": "Methods of coping while spending time at home by Caring Status, Great Britain, April to May 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/morepeoplehavebeenhelpingothersoutsidetheirhouseholdthroughthecoronaviruscovid19lockdown/2020-07-09/878aea62",
-      "src": "/_scraped_chartbuilder_imgs/878aea62.png",
-      "local_filename": "878aea62.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/morepeoplehavebeenhelpingothersoutsidetheirhouseholdthroughthecoronaviruscovid19lockdown/2020-07-09/878aea62&width=&hideSource=true",
+      "local_filename": "878aea62.png",
+      "src_new": "/_scraped_chartbuilder_imgs/878aea62.png"
     },
     {
       "type": "heading",

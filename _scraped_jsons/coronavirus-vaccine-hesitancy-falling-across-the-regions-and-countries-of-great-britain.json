@@ -190,7 +190,8 @@
       "h4": "People in self-reported bad health are now equally or less vaccine hesitant than those in good health",
       "h5": "Percentage of adults reporting vaccine hesitancy by self-reported health, English regions and Scotland, 7 January to 28 March and 28 April to 18 July 2021",
       "title": "Percentage of adults reporting vaccine hesitancy by self-reported health, English regions, Scotland and Wales, 7 January to 28 March and 28 April to 18 July 2021",
-      "url": "/visualisations/dvc1507/slope-multiple/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1507/slope-multiple/index.html",
+      "url_new": "/visualisations/dvc1507/slope-multiple/index.html"
     },
     {
       "type": "p",
@@ -198,7 +199,8 @@
       "h3": null,
       "h4": "People in self-reported bad health are now equally or less vaccine hesitant than those in good health",
       "h5": "Percentage of adults reporting vaccine hesitancy by self-reported health, English regions and Scotland, 7 January to 28 March and 28 April to 18 July 2021",
-      "text": "[Data on coronavirus vaccine hesitancy by self-reported health (XLSX, 22KB)](/visualisations/dvc1507/slope-multiple/datadownload.xlsx)"
+      "text": "[Data on coronavirus vaccine hesitancy by self-reported health (XLSX, 22KB)](https://www.ons.gov.uk/visualisations/dvc1507/slope-multiple/datadownload.xlsx)",
+      "text_new": "[Data on coronavirus vaccine hesitancy by self-reported health (XLSX, 22KB)](/visualisations/dvc1507/slope-multiple/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -274,7 +276,8 @@
       "h4": "There has been a widespread fall in vaccine hesitancy so far in 2021",
       "h5": "Percentage of adults reporting vaccine hesitancy, Great Britain, 28 April to 18 July 2021 compared with 7 January to 28 March 2021",
       "title": "Percentage of adults reporting vaccine hesitancy, Great Britain, 28 April to 18 July 2021 compared with 7 January to 28 March 2021",
-      "url": "/visualisations/dvc1507/map/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1507/map/index.html",
+      "url_new": "/visualisations/dvc1507/map/index.html"
     },
     {
       "type": "p",
@@ -282,7 +285,8 @@
       "h3": null,
       "h4": "There has been a widespread fall in vaccine hesitancy so far in 2021",
       "h5": "Percentage of adults reporting vaccine hesitancy, Great Britain, 28 April to 18 July 2021 compared with 7 January to 28 March 2021",
-      "text": "[Data on coronavirus vaccine hesitancy in ITL2 areas (XLSX, 23KB)](/visualisations/dvc1507/map/datadownload.xlsx)"
+      "text": "[Data on coronavirus vaccine hesitancy in ITL2 areas (XLSX, 23KB)](https://www.ons.gov.uk/visualisations/dvc1507/map/datadownload.xlsx)",
+      "text_new": "[Data on coronavirus vaccine hesitancy in ITL2 areas (XLSX, 23KB)](/visualisations/dvc1507/map/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -374,7 +378,8 @@
       "h4": "The highest rates of vaccine hesitancy are generally seen in London and the Midlands",
       "h5": "Percentage of adults reporting vaccine hesitancy by various personal characteristics, Great Britain, 28 April to 18 July 2021",
       "title": "Percentage of adults reporting vaccine hesitancy by various personal characteristics, Great Britain, 28 April to 18 July 2021",
-      "url": "/visualisations/dvc1507/mosthesitant/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1507/mosthesitant/index.html",
+      "url_new": "/visualisations/dvc1507/mosthesitant/index.html"
     },
     {
       "type": "p",
@@ -382,7 +387,8 @@
       "h3": null,
       "h4": "The highest rates of vaccine hesitancy are generally seen in London and the Midlands",
       "h5": "Percentage of adults reporting vaccine hesitancy by various personal characteristics, Great Britain, 28 April to 18 July 2021",
-      "text": "[Data on coronavirus vaccine hesitancy by selected personal characteristics (XLSX, 20KB)](/visualisations/dvc1507/mosthesitant/datadownload.xlsx)"
+      "text": "[Data on coronavirus vaccine hesitancy by selected personal characteristics (XLSX, 20KB)](https://www.ons.gov.uk/visualisations/dvc1507/mosthesitant/datadownload.xlsx)",
+      "text_new": "[Data on coronavirus vaccine hesitancy by selected personal characteristics (XLSX, 20KB)](/visualisations/dvc1507/mosthesitant/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -515,7 +521,8 @@
       "h4": "The rate of not receiving a vaccine among over-50s is twice as high in London as anywhere else",
       "h5": "Percentage of adults aged 50 years and over that have not received a coronavirus vaccine, English regions, end of June compared with end of March 2021",
       "title": "Percentage of adults aged 50 years and over that have not received a coronavirus vaccine, English regions, end of June compared with end of March 2021",
-      "url": "/visualisations/dvc1507/dot-plot-jiggle/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1507/dot-plot-jiggle/index.html",
+      "url_new": "/visualisations/dvc1507/dot-plot-jiggle/index.html"
     },
     {
       "type": "p",
@@ -523,7 +530,8 @@
       "h3": null,
       "h4": "The rate of not receiving a vaccine among over-50s is twice as high in London as anywhere else",
       "h5": "Percentage of adults aged 50 years and over that have not received a coronavirus vaccine, English regions, end of June compared with end of March 2021",
-      "text": "[Data on adults aged 50 years and over that have not received a coronavirus vaccine (XLSX, 18KB)](/visualisations/dvc1507/dot-plot-jiggle/datadownload.xlsx)"
+      "text": "[Data on adults aged 50 years and over that have not received a coronavirus vaccine (XLSX, 18KB)](https://www.ons.gov.uk/visualisations/dvc1507/dot-plot-jiggle/datadownload.xlsx)",
+      "text_new": "[Data on adults aged 50 years and over that have not received a coronavirus vaccine (XLSX, 18KB)](/visualisations/dvc1507/dot-plot-jiggle/datadownload.xlsx)"
     },
     {
       "type": "p",

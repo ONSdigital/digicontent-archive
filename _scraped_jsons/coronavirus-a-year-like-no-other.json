@@ -104,7 +104,8 @@
       "h4": "Number of deaths registered due to infectious and parasitic diseases, England and Wales, 1901 to 2020 and COVID-19 in 2020",
       "h5": null,
       "title": "Deaths from infectious and parasitic diseases",
-      "url": "/visualisations/dvc1214/fig1_deaths/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1214/fig1_deaths/index.html",
+      "url_new": "/visualisations/dvc1214/fig1_deaths/index.html"
     },
     {
       "type": "heading",
@@ -161,7 +162,8 @@
       "h3": null,
       "h4": "Notes:",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc1214/datadownloads/fig1_deaths.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1214/datadownloads/fig1_deaths.csv)",
+      "text_new": "[Download the data](/visualisations/dvc1214/datadownloads/fig1_deaths.csv)"
     },
     {
       "type": "p",
@@ -244,7 +246,8 @@
       "h4": "Adult critical care beds occupied during the winter months, acute hospital trusts in England, between December 2016 - March 2017 and November 2020 - March 2021",
       "h5": null,
       "title": "Critical care beds occupied in winter, compared with previous years",
-      "url": "/visualisations/dvc1214/fig2_hospitals/occupied_beds_tiers/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1214/fig2_hospitals/occupied_beds_tiers/index.html",
+      "url_new": "/visualisations/dvc1214/fig2_hospitals/occupied_beds_tiers/index.html"
     },
     {
       "type": "heading",
@@ -285,7 +288,8 @@
       "h3": null,
       "h4": "Notes",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc1214/datadownloads/fig2_occupied_beds.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1214/datadownloads/fig2_occupied_beds.csv)",
+      "text_new": "[Download the data](/visualisations/dvc1214/datadownloads/fig2_occupied_beds.csv)"
     },
     {
       "type": "p",
@@ -368,7 +372,8 @@
       "h4": "Annual change in average actual weekly hours worked, selected UK industries, non-seasonally adjusted, January to March 1998 to October to December 2020",
       "h5": null,
       "title": "Average hours worked by industry compared with previous years",
-      "url": "/visualisations/dvc1214/fig3_hours_worked/small-multiple-line/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1214/fig3_hours_worked/small-multiple-line/index.html",
+      "url_new": "/visualisations/dvc1214/fig3_hours_worked/small-multiple-line/index.html"
     },
     {
       "type": "heading",
@@ -417,7 +422,8 @@
       "h3": null,
       "h4": "Notes:",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc1214/datadownloads/fig3_hours_worked.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1214/datadownloads/fig3_hours_worked.csv)",
+      "text_new": "[Download the data](/visualisations/dvc1214/datadownloads/fig3_hours_worked.csv)"
     },
     {
       "type": "p",
@@ -476,7 +482,8 @@
       "h4": "Vacancies by industry in the UK, thousands, seasonally adjusted, between January to March 2008 and October to December 2020",
       "h5": null,
       "title": "Vacancies by industry by quarter",
-      "url": "/visualisations/dvc1214/fig4_vacancies/index.html#0,index7,index16,index5"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1214/fig4_vacancies/index.html#0,index7,index16,index5",
+      "url_new": "/visualisations/dvc1214/fig4_vacancies/index.html#0,index7,index16,index5"
     },
     {
       "type": "heading",
@@ -509,7 +516,8 @@
       "h3": null,
       "h4": "Notes",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc1214/datadownloads/fig4_vacancies.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1214/datadownloads/fig4_vacancies.csv)",
+      "text_new": "[Download the data](/visualisations/dvc1214/datadownloads/fig4_vacancies.csv)"
     },
     {
       "type": "p",
@@ -569,8 +577,9 @@
       "chartbuilder_h3": "Public sector net debt excluding public sector banks, UK, financial year ending March 1901 to January 2021",
       "chartbuilder_h4": "",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronavirusayearlikenoother/2021-03-15/afe20993",
-      "src": "/_scraped_chartbuilder_imgs/afe20993.png",
-      "local_filename": "afe20993.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronavirusayearlikenoother/2021-03-15/afe20993&width=&hideSource=true",
+      "local_filename": "afe20993.png",
+      "src_new": "/_scraped_chartbuilder_imgs/afe20993.png"
     },
     {
       "type": "p",
@@ -629,7 +638,8 @@
       "h4": "UK trade, exports and imports, excluding non-monetary gold and other precious metals, and selected commodities, three months ending April 2008 to three months ending January 2021, £ billion",
       "h5": null,
       "title": "Trade in imports, exports and selected commodities",
-      "url": "/visualisations/dvc1214/fig6_trade/wrapper/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1214/fig6_trade/wrapper/index.html",
+      "url_new": "/visualisations/dvc1214/fig6_trade/wrapper/index.html"
     },
     {
       "type": "p",
@@ -637,7 +647,8 @@
       "h3": null,
       "h4": "UK trade, exports and imports, excluding non-monetary gold and other precious metals, and selected commodities, three months ending April 2008 to three months ending January 2021, £ billion",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc1214/datadownloads/fig6_trade.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1214/datadownloads/fig6_trade.csv)",
+      "text_new": "[Download the data](/visualisations/dvc1214/datadownloads/fig6_trade.csv)"
     },
     {
       "type": "p",
@@ -705,8 +716,9 @@
       "chartbuilder_h3": "Annual house price rates of change for all dwellings and annual change in GDP (%), UK, January 2006 to December 2020",
       "chartbuilder_h4": "Source: HM Land Registry, Registers of Scotland, Land and Property Services Northern Ireland, Office for National Statistics – UK House Price Index and Office for National Statistics - GDP monthly estimate",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronavirusayearlikenoother/2021-03-15/3e759414",
-      "src": "/_scraped_chartbuilder_imgs/3e759414.png",
-      "local_filename": "3e759414.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronavirusayearlikenoother/2021-03-15/3e759414&width=&hideSource=true",
+      "local_filename": "3e759414.png",
+      "src_new": "/_scraped_chartbuilder_imgs/3e759414.png"
     },
     {
       "type": "p",
@@ -782,8 +794,9 @@
       "chartbuilder_h3": "Aggregate balance of expectations, UK, January 2000 to December 2020",
       "chartbuilder_h4": "Source: European Commission - Eurobarometer Consumer Survey",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronavirusayearlikenoother/2021-03-15/fb9d88c1",
-      "src": "/_scraped_chartbuilder_imgs/fb9d88c1.png",
-      "local_filename": "fb9d88c1.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronavirusayearlikenoother/2021-03-15/fb9d88c1&width=&hideSource=true",
+      "local_filename": "fb9d88c1.png",
+      "src_new": "/_scraped_chartbuilder_imgs/fb9d88c1.png"
     },
     {
       "type": "p",
@@ -843,8 +856,9 @@
       "chartbuilder_h3": "England and Wales, quarterly figures, April to June 2015 to July to September 2020",
       "chartbuilder_h4": "Source: Home Office - Police recorded crime",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronavirusayearlikenoother/2021-03-15/6929445c",
-      "src": "/_scraped_chartbuilder_imgs/6929445c.png",
-      "local_filename": "6929445c.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronavirusayearlikenoother/2021-03-15/6929445c&width=&hideSource=true",
+      "local_filename": "6929445c.png",
+      "src_new": "/_scraped_chartbuilder_imgs/6929445c.png"
     },
     {
       "type": "p",

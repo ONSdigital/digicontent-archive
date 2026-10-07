@@ -120,7 +120,8 @@
       "h4": "Difference in mean pay per hour (excluding overtime) between public and private sector workers expressed as a percentage of private sector pay, April 2004 to April 20163",
       "h5": null,
       "title": "Difference in mean pay per hour (excluding overtime) between public and private sector workers expressed as a percentage of private sector pay, April 2004 to April 2016<sup>3<\/sup>",
-      "url": "/visualisations/dvc455/model/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc455/model/index.html",
+      "url_new": "/visualisations/dvc455/model/index.html"
     },
     {
       "type": "p",
@@ -128,7 +129,7 @@
       "h3": "Taking worker characteristics into account, private sector pay has overtaken the public sector",
       "h4": "Difference in mean pay per hour (excluding overtime) between public and private sector workers expressed as a percentage of private sector pay, April 2004 to April 20163",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2017/11/data-model-1.csv)."
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2017/11/data-model-1.csv)."
     },
     {
       "type": "p",
@@ -230,7 +231,8 @@
       "h4": null,
       "h5": null,
       "title": "Public sector pay growth and inflation, 2006 to 2017",
-      "url": "/visualisations/dvc455/differenceline/pub-vs-ciph.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc455/differenceline/pub-vs-ciph.html",
+      "url_new": "/visualisations/dvc455/differenceline/pub-vs-ciph.html"
     },
     {
       "type": "p",
@@ -272,7 +274,8 @@
       "h4": null,
       "h5": null,
       "title": "Public and private sector pay growth, 2006 to 2017",
-      "url": "/visualisations/dvc455/differenceline/pub-vs-private.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc455/differenceline/pub-vs-private.html",
+      "url_new": "/visualisations/dvc455/differenceline/pub-vs-private.html"
     },
     {
       "type": "p",
@@ -347,7 +350,8 @@
       "h4": null,
       "h5": null,
       "title": "Size of public sector workforce, 2006 to 2017",
-      "url": "/visualisations/dvc455/employees/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc455/employees/index.html",
+      "url_new": "/visualisations/dvc455/employees/index.html"
     },
     {
       "type": "p",
@@ -355,7 +359,7 @@
       "h3": "Size of public sector workforce, 2006 to 2017",
       "h4": null,
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2017/11/data-employees.csv)."
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2017/11/data-employees.csv)."
     },
     {
       "type": "p",
@@ -405,7 +409,8 @@
       "h4": null,
       "h5": null,
       "title": "Mean weekly pay by public sector area, 2000 to 2017",
-      "url": "/visualisations/dvc455/sectorpay/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc455/sectorpay/index.html",
+      "url_new": "/visualisations/dvc455/sectorpay/index.html"
     },
     {
       "type": "p",
@@ -413,7 +418,7 @@
       "h3": "Mean weekly pay by public sector area, 2000 to 2017",
       "h4": null,
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2017/11/data-sector.csv)."
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2017/11/data-sector.csv)."
     },
     {
       "type": "heading",
@@ -456,7 +461,8 @@
       "h4": null,
       "h5": null,
       "title": "Change in public sector employment between 2008 and 2017",
-      "url": "/visualisations/dvc455/Regional-Map-Bar/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc455/Regional-Map-Bar/index.html",
+      "url_new": "/visualisations/dvc455/Regional-Map-Bar/index.html"
     },
     {
       "type": "heading",
@@ -507,7 +513,8 @@
       "h4": null,
       "h5": null,
       "title": "Skill level of public sector service jobs, 1997 to 2017",
-      "url": "/visualisations/dvc455/skilllevel/"
+      "url": "https://www.ons.gov.uk/visualisations/dvc455/skilllevel/",
+      "url_new": "/visualisations/dvc455/skilllevel/"
     },
     {
       "type": "p",
@@ -515,7 +522,7 @@
       "h3": "Skill level of public sector service jobs, 1997 to 2017",
       "h4": null,
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2017/11/data-skill-1.csv)."
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2017/11/data-skill-1.csv)."
     },
     {
       "type": "heading",

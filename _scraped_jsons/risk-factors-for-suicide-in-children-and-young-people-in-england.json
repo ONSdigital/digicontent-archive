@@ -61,8 +61,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc3144/cyp_images/2678Header.svg",
-      "alt": "Graphic depicting young girl listening to music with the figures around her shadows"
+      "src": "https://www.ons.gov.uk/visualisations/dvc3144/cyp_images/2678Header.svg",
+      "alt": "Graphic depicting young girl listening to music with the figures around her shadows",
+      "src_new": "/visualisations/dvc3144/cyp_images/2678Header.svg"
     },
     {
       "type": "p",
@@ -135,8 +136,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc3144/cyp_images/2678Section1.svg",
-      "alt": "banner image showing a sports centre and an icon for a group of people"
+      "src": "https://www.ons.gov.uk/visualisations/dvc3144/cyp_images/2678Section1.svg",
+      "alt": "banner image showing a sports centre and an icon for a group of people",
+      "src_new": "/visualisations/dvc3144/cyp_images/2678Section1.svg"
     },
     {
       "type": "heading",
@@ -204,7 +206,8 @@
       "h4": "Suicide rates were higher for males than females",
       "h5": "Incidence rate ratios for suicide for people aged 10 to 17 years, by sex, England, 2011 to 2022",
       "title": "Incidence rate ratios for suicide for people aged 10 to 17 years, by sex, England, 2011 to 2022 ",
-      "url": "/visualisations/dvc3144/fig01/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc3144/fig01/index.html",
+      "url_new": "/visualisations/dvc3144/fig01/index.html"
     },
     {
       "type": "heading",
@@ -229,7 +232,8 @@
       "h3": null,
       "h4": "Suicide rates were higher for males than females",
       "h5": "Notes",
-      "text": "[Download the data for incidence rate ratios for suicides by sex, (XLSX, 18KB)](/visualisations/dvc3144/fig01/datadownload.xlsx)"
+      "text": "[Download the data for incidence rate ratios for suicides by sex, (XLSX, 18KB)](https://www.ons.gov.uk/visualisations/dvc3144/fig01/datadownload.xlsx)",
+      "text_new": "[Download the data for incidence rate ratios for suicides by sex, (XLSX, 18KB)](/visualisations/dvc3144/fig01/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -262,8 +266,9 @@
       "h3": null,
       "h4": "Suicide rates were higher for males than females",
       "h5": "Notes",
-      "src": "/visualisations/dvc3144/cyp_images/2678Section2.svg",
-      "alt": "banner image showing housing, a university campus and a mortar board icon"
+      "src": "https://www.ons.gov.uk/visualisations/dvc3144/cyp_images/2678Section2.svg",
+      "alt": "banner image showing housing, a university campus and a mortar board icon",
+      "src_new": "/visualisations/dvc3144/cyp_images/2678Section2.svg"
     },
     {
       "type": "heading",
@@ -339,7 +344,8 @@
       "h4": "Households where the main adult had no formal qualifications experienced lower suicide rates",
       "h5": "Incidence rate ratios for suicide, for people aged 10 to 17 years by qualification level of household reference person (HRP), England, 2011 - 2022",
       "title": " Incidence rate ratios for suicide, for people aged 10 to 17 years by qualification level of household reference person (HRP), England, 2011 - 2022 ",
-      "url": "/visualisations/dvc3144/fig02/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc3144/fig02/index.html",
+      "url_new": "/visualisations/dvc3144/fig02/index.html"
     },
     {
       "type": "heading",
@@ -364,7 +370,8 @@
       "h3": null,
       "h4": "Households where the main adult had no formal qualifications experienced lower suicide rates",
       "h5": "Notes:",
-      "text": "[Download the data for incidence rate ratios for suicide by qualification level of HRP (XLSX, 18KB)](/visualisations/dvc3144/fig02/datadownload.xlsx)"
+      "text": "[Download the data for incidence rate ratios for suicide by qualification level of HRP (XLSX, 18KB)](https://www.ons.gov.uk/visualisations/dvc3144/fig02/datadownload.xlsx)",
+      "text_new": "[Download the data for incidence rate ratios for suicide by qualification level of HRP (XLSX, 18KB)](/visualisations/dvc3144/fig02/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -397,8 +404,9 @@
       "h3": null,
       "h4": "Households where the main adult had no formal qualifications experienced lower suicide rates",
       "h5": "Notes:",
-      "src": "/visualisations/dvc3144/cyp_images/2678Section3.svg",
-      "alt": "banner graphic showing places of faith and an icon of a person at an altar"
+      "src": "https://www.ons.gov.uk/visualisations/dvc3144/cyp_images/2678Section3.svg",
+      "alt": "banner graphic showing places of faith and an icon of a person at an altar",
+      "src_new": "/visualisations/dvc3144/cyp_images/2678Section3.svg"
     },
     {
       "type": "heading",
@@ -466,7 +474,8 @@
       "h4": "Children and young people in Muslim households had the lowest suicide rate, but the highest rate of non-suicide deaths",
       "h5": "Incidence rate ratios for suicide, for people aged 10 to 17 years, by religion of household reference person, England, 2011 - 2022",
       "title": "Incidence rate ratios for suicide, for people aged 10 to 17 years, by religion of household reference person, England, 2011 - 2022 ",
-      "url": "/visualisations/dvc3144/fig03/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc3144/fig03/index.html",
+      "url_new": "/visualisations/dvc3144/fig03/index.html"
     },
     {
       "type": "heading",
@@ -491,7 +500,8 @@
       "h3": null,
       "h4": "Children and young people in Muslim households had the lowest suicide rate, but the highest rate of non-suicide deaths",
       "h5": "Notes:",
-      "text": "[Download the data for incidence rate ratios for suicide, by religion of HRP, (XLSX, 18KB)](/visualisations/dvc3144/fig03/datadownload.xlsx)"
+      "text": "[Download the data for incidence rate ratios for suicide, by religion of HRP, (XLSX, 18KB)](https://www.ons.gov.uk/visualisations/dvc3144/fig03/datadownload.xlsx)",
+      "text_new": "[Download the data for incidence rate ratios for suicide, by religion of HRP, (XLSX, 18KB)](/visualisations/dvc3144/fig03/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -575,7 +585,8 @@
       "h4": "Children and young people from a Mixed or Multiple ethnic background had higher rates of suicide compared with other ethnic groups",
       "h5": "Incidence rate ratios for suicide, for people aged 10 to 17 years by ethnicity, England, 2011 – 2022",
       "title": " Incidence rate ratios for suicide, for people aged 10 to 17 years by ethnicity, England, 2011 – 2022\t ",
-      "url": "/visualisations/dvc3144/fig04/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc3144/fig04/index.html",
+      "url_new": "/visualisations/dvc3144/fig04/index.html"
     },
     {
       "type": "heading",
@@ -600,7 +611,8 @@
       "h3": null,
       "h4": "Children and young people from a Mixed or Multiple ethnic background had higher rates of suicide compared with other ethnic groups",
       "h5": "Notes:",
-      "text": "[Download the data for incidence rate ratios for suicide by ethnicity (XLSX, 18KB)](/visualisations/dvc3144/fig04/datadownload.xlsx)"
+      "text": "[Download the data for incidence rate ratios for suicide by ethnicity (XLSX, 18KB)](https://www.ons.gov.uk/visualisations/dvc3144/fig04/datadownload.xlsx)",
+      "text_new": "[Download the data for incidence rate ratios for suicide by ethnicity (XLSX, 18KB)](/visualisations/dvc3144/fig04/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -633,8 +645,9 @@
       "h3": null,
       "h4": "Children and young people from a Mixed or Multiple ethnic background had higher rates of suicide compared with other ethnic groups",
       "h5": "Notes:",
-      "src": "/visualisations/dvc3144/cyp_images/2678Section4.svg",
-      "alt": "Banner graphic showing a park and a book icon"
+      "src": "https://www.ons.gov.uk/visualisations/dvc3144/cyp_images/2678Section4.svg",
+      "alt": "Banner graphic showing a park and a book icon",
+      "src_new": "/visualisations/dvc3144/cyp_images/2678Section4.svg"
     },
     {
       "type": "heading",
@@ -702,7 +715,8 @@
       "h4": "Males with SEN support but no SEN statement saw the highest risk of suicide",
       "h5": "Hazard ratios for suicide, for people aged 10 to 25 years by SEN status, England, 2011 – 2022",
       "title": "Hazard ratios for suicide, for people aged 10 to 25 years by SEN status, England, 2011 – 2022 ",
-      "url": "/visualisations/dvc3144/fig05/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc3144/fig05/index.html",
+      "url_new": "/visualisations/dvc3144/fig05/index.html"
     },
     {
       "type": "heading",
@@ -727,7 +741,8 @@
       "h3": null,
       "h4": "Males with SEN support but no SEN statement saw the highest risk of suicide",
       "h5": "Notes:",
-      "text": "[Download the data for hazard ratios for suicide by SEN status (XLSX, 18KB)](/visualisations/dvc3144/fig05/datadownload.xlsx)"
+      "text": "[Download the data for hazard ratios for suicide by SEN status (XLSX, 18KB)](https://www.ons.gov.uk/visualisations/dvc3144/fig05/datadownload.xlsx)",
+      "text_new": "[Download the data for hazard ratios for suicide by SEN status (XLSX, 18KB)](/visualisations/dvc3144/fig05/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -803,7 +818,8 @@
       "h4": "Children with a SEN statement with social, emotional and mental health needs had higher suicide rates than other SEN types",
       "h5": "Rates of suicide per 100,000 person years, for people aged 10 to 25 years by SEN type, England, 2011 – 2022",
       "title": "Rates of suicide per 100,000 person years, for people aged 10 to 25 years by SEN type, England, 2011 – 2022 ",
-      "url": "/visualisations/dvc3144/fig06/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc3144/fig06/index.html",
+      "url_new": "/visualisations/dvc3144/fig06/index.html"
     },
     {
       "type": "heading",
@@ -836,7 +852,8 @@
       "h3": null,
       "h4": "Children with a SEN statement with social, emotional and mental health needs had higher suicide rates than other SEN types",
       "h5": "Notes:",
-      "text": "[Download the data for rates of suicide per 100,000 person-years by SEN type (XLSX, 18KB)](/visualisations/dvc3144/fig06/datadownload.xlsx)"
+      "text": "[Download the data for rates of suicide per 100,000 person-years by SEN type (XLSX, 18KB)](https://www.ons.gov.uk/visualisations/dvc3144/fig06/datadownload.xlsx)",
+      "text_new": "[Download the data for rates of suicide per 100,000 person-years by SEN type (XLSX, 18KB)](/visualisations/dvc3144/fig06/datadownload.xlsx)"
     },
     {
       "type": "p",

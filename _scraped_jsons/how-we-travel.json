@@ -38,7 +38,7 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "With people travelling over 6,500 miles per year1 on average, transport is a fundamental part of daily living and, therefore, plays an important role in our economy. The transport industry is a substantial greenhouse gas (GHG) emitter and, over time, has become an increasingly large energy consumer. This inevitably impacts the environment – as illustrated in the [Energy and emissions in the UK](/visualisations/20170726163612/https://visual.ons.gov.uk/uk-perspectives-energy-and-emissions) article."
+      "text": "With people travelling over 6,500 miles per year1 on average, transport is a fundamental part of daily living and, therefore, plays an important role in our economy. The transport industry is a substantial greenhouse gas (GHG) emitter and, over time, has become an increasingly large energy consumer. This inevitably impacts the environment – as illustrated in the [Energy and emissions in the UK](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/uk-perspectives-energy-and-emissions) article."
     },
     {
       "type": "p",
@@ -46,7 +46,7 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "This latest instalment in the [UK Perspectives series](/visualisations/20170726163612/https://visual.ons.gov.uk/uk-perspectives-an-introduction/) presents some key statistics relating to how passenger transport has changed over time in Great Britain. It is important to note there is likely to be sub-national variation within the data, particularly between rural and urban areas. As transport policy in Northern Ireland is fully devolved, transport statistics for [Northern Ireland](http://www.drdni.gov.uk/ni_transport_statistics.htm) are recorded separately."
+      "text": "This latest instalment in the [UK Perspectives series](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/uk-perspectives-an-introduction/) presents some key statistics relating to how passenger transport has changed over time in Great Britain. It is important to note there is likely to be sub-national variation within the data, particularly between rural and urban areas. As transport policy in Northern Ireland is fully devolved, transport statistics for [Northern Ireland](http://www.drdni.gov.uk/ni_transport_statistics.htm) are recorded separately."
     },
     {
       "type": "heading",
@@ -81,7 +81,8 @@
       "h4": "Passenger transport by mode2, Great Britain, 1980 to 2013",
       "h5": null,
       "title": "Passenger transport by mode<sup>2<\/sup>, Great Britain, 1980 to 2013",
-      "url": "/visualisations/nesscontent/dvc231/Transport_Chart1/Transport_Chart1.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc231/Transport_Chart1/Transport_Chart1.html",
+      "url_new": "/visualisations/nesscontent/dvc231/Transport_Chart1/Transport_Chart1.html"
     },
     {
       "type": "p",
@@ -89,7 +90,7 @@
       "h3": null,
       "h4": "Passenger transport by mode2, Great Britain, 1980 to 2013",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2015/02/1-Passenger-transport-by-mode.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2015/02/1-Passenger-transport-by-mode.csv)"
     },
     {
       "type": "p",
@@ -156,7 +157,8 @@
       "h4": "Passenger kilometres on public transport, Great Britain, 1985/86 to 2013/14",
       "h5": null,
       "title": "Passenger kilometres on public transport, Great Britain, 1985/86 to 2013/14",
-      "url": "/visualisations/nesscontent/dvc231/Transport_Chart2/Transport_Chart2.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc231/Transport_Chart2/Transport_Chart2.html",
+      "url_new": "/visualisations/nesscontent/dvc231/Transport_Chart2/Transport_Chart2.html"
     },
     {
       "type": "p",
@@ -164,7 +166,7 @@
       "h3": null,
       "h4": "Passenger kilometres on public transport, Great Britain, 1985/86 to 2013/14",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2015/02/2-Passenger-kilometres-on-public-transport.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2015/02/2-Passenger-kilometres-on-public-transport.csv)"
     },
     {
       "type": "p",
@@ -207,7 +209,8 @@
       "h4": "Passenger journeys on public transport vehicles, Great Britain, 1985/86 to 2013/14",
       "h5": null,
       "title": "Passenger journeys on public transport vehicles, Great Britain, 1985/86 to 2013/14",
-      "url": "/visualisations/nesscontent/dvc231/Transport_Chart3/Transport_Chart3.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc231/Transport_Chart3/Transport_Chart3.html",
+      "url_new": "/visualisations/nesscontent/dvc231/Transport_Chart3/Transport_Chart3.html"
     },
     {
       "type": "p",
@@ -215,7 +218,7 @@
       "h3": null,
       "h4": "Passenger journeys on public transport vehicles, Great Britain, 1985/86 to 2013/14",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2015/02/3-Passenger-journeys-on-public-transport.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2015/02/3-Passenger-journeys-on-public-transport.csv)"
     },
     {
       "type": "p",
@@ -274,7 +277,8 @@
       "h4": "Air traffic: UK airports, 1991 to 2013",
       "h5": null,
       "title": "Air traffic: UK airports, 1991 to 2013",
-      "url": "/visualisations/nesscontent/dvc231/Transport_Chart4/Transport_Chart4.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc231/Transport_Chart4/Transport_Chart4.html",
+      "url_new": "/visualisations/nesscontent/dvc231/Transport_Chart4/Transport_Chart4.html"
     },
     {
       "type": "p",
@@ -282,7 +286,7 @@
       "h3": null,
       "h4": "Air traffic: UK airports, 1991 to 2013",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2015/02/4-Air-traffic-UK-airports.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2015/02/4-Air-traffic-UK-airports.csv)"
     },
     {
       "type": "p",
@@ -341,7 +345,8 @@
       "h4": "Reported road accidents, Great Britain, 1980 to 2013",
       "h5": null,
       "title": "Reported road accidents, Great Britain, 1980 to 2013",
-      "url": "/visualisations/nesscontent/dvc231/Transport_Chart5/Transport_Chart5.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc231/Transport_Chart5/Transport_Chart5.html",
+      "url_new": "/visualisations/nesscontent/dvc231/Transport_Chart5/Transport_Chart5.html"
     },
     {
       "type": "p",
@@ -349,7 +354,7 @@
       "h3": null,
       "h4": "Reported road accidents, Great Britain, 1980 to 2013",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2015/02/5-Reported-road-accidents.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2015/02/5-Reported-road-accidents.csv)"
     },
     {
       "type": "p",
@@ -408,7 +413,8 @@
       "h4": "Killed or seriously injured from road accidents, Great Britain, 1980 to 2013",
       "h5": null,
       "title": "Killed or seriously injured from road accidents, Great Britain, 1980 to 2013",
-      "url": "/visualisations/nesscontent/dvc231/Transport_Chart6/Transport_Chart6.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc231/Transport_Chart6/Transport_Chart6.html",
+      "url_new": "/visualisations/nesscontent/dvc231/Transport_Chart6/Transport_Chart6.html"
     },
     {
       "type": "p",
@@ -416,7 +422,7 @@
       "h3": null,
       "h4": "Killed or seriously injured from road accidents, Great Britain, 1980 to 2013",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2015/02/6-Killed-or-seriously-injured-from-road-accidents.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2015/02/6-Killed-or-seriously-injured-from-road-accidents.csv)"
     },
     {
       "type": "p",

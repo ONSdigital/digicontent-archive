@@ -142,7 +142,8 @@
       "h4": "Parents have changed their weekday working patterns because of childcare commitments",
       "h5": "Percentage of group who were working by time of the day (weekdays only), Great Britain, 2020",
       "title": "Line chart",
-      "url": "/visualisations/dvc913/working/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc913/working/index.html",
+      "url_new": "/visualisations/dvc913/working/index.html"
     },
     {
       "type": "p",
@@ -193,7 +194,8 @@
       "h4": "Parents working from home delivered most childcare in the afternoon",
       "h5": "Percentage of group doing developmental childcare by time of day (weekdays only), Great Britain, 2020",
       "title": "Interactive chart",
-      "url": "/visualisations/dvc913/dev-childcare/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc913/dev-childcare/index.html",
+      "url_new": "/visualisations/dvc913/dev-childcare/index.html"
     },
     {
       "type": "heading",
@@ -237,7 +239,8 @@
       "h4": "During lockdown, parents spent more time on developmental childcare",
       "h5": "Average minutes per day spent on activity (when spread out over all days for the group), for those with a child under 18 years in the household, from 2014 to 2015 Time Use Survey compared with 2020 Time Use Survey",
       "title": "Tie-fighter over time",
-      "url": "/visualisations/dvc913/changeovertime/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc913/changeovertime/index.html",
+      "url_new": "/visualisations/dvc913/changeovertime/index.html"
     },
     {
       "type": "heading",
@@ -354,7 +357,8 @@
       "h4": "Women spent more time on childcare than men, with much of this focused on non-developmental childcare and supervising children",
       "h5": "Average minutes per day spent on activity (average time per day), Great Britain, 2020",
       "title": "Clustered bar chart",
-      "url": "/visualisations/dvc913/childcare/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc913/childcare/index.html",
+      "url_new": "/visualisations/dvc913/childcare/index.html"
     },
     {
       "type": "heading",
@@ -463,7 +467,8 @@
       "h4": "Women spent much more time on childcare than men when the child was aged under five",
       "h5": "Average minutes per day spent on activity spread across all days, Great Britain, 2020",
       "title": "Tie fighter age of child",
-      "url": "/visualisations/dvc913/ageofchild/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc913/ageofchild/index.html",
+      "url_new": "/visualisations/dvc913/ageofchild/index.html"
     },
     {
       "type": "p",
@@ -530,7 +535,8 @@
       "h4": "Parents found developmental childcare more enjoyable",
       "h5": "Enjoyment of time by type of activity, Great Britain, 2020",
       "title": "Parents found developmental childcare more enjoyable",
-      "url": "/visualisations/dvc913/enjoyment/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc913/enjoyment/index.html",
+      "url_new": "/visualisations/dvc913/enjoyment/index.html"
     },
     {
       "type": "p",
@@ -573,7 +579,8 @@
       "h4": "Women spent more time on unpaid work and less time on paid work than men",
       "h5": "Work and unpaid work by sex, average minutes per day spent on activity (when spread out over all days for the group), Great Britain, 2020",
       "title": "Unpaid work",
-      "url": "/visualisations/dvc913/unpaidwork/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc913/unpaidwork/index.html",
+      "url_new": "/visualisations/dvc913/unpaidwork/index.html"
     },
     {
       "type": "heading",

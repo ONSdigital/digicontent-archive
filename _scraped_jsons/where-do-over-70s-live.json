@@ -67,7 +67,8 @@
       "h4": null,
       "h5": null,
       "title": "Map",
-      "url": "/visualisations/dvc778/map/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc778/map/index.html",
+      "url_new": "/visualisations/dvc778/map/index.html"
     },
     {
       "type": "li",
@@ -83,7 +84,8 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[Download local and regional estimates of those aged over 70years](/visualisations/dvc778/map/data/all_persons_estimates.xlsx)"
+      "text": "[Download local and regional estimates of those aged over 70years](https://www.ons.gov.uk/visualisations/dvc778/map/data/all_persons_estimates.xlsx)",
+      "text_new": "[Download local and regional estimates of those aged over 70years](/visualisations/dvc778/map/data/all_persons_estimates.xlsx)"
     },
     {
       "type": "box",

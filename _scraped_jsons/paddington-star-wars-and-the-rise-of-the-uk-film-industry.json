@@ -64,7 +64,8 @@
       "h4": "Gross Value Added (GVA) of film, video and television companies, 2008 to 2016",
       "h5": null,
       "title": "Gross Value Added (GVA) of film, video and television companies, 2008 to 2016",
-      "url": "/visualisations/dvc468/agva/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc468/agva/index.html",
+      "url_new": "/visualisations/dvc468/agva/index.html"
     },
     {
       "type": "p",
@@ -72,7 +73,7 @@
       "h3": null,
       "h4": "Gross Value Added (GVA) of film, video and television companies, 2008 to 2016",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2017/12/agva.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2017/12/agva.csv)"
     },
     {
       "type": "p",
@@ -123,7 +124,8 @@
       "h4": "Breakdown of Gross Value Added (GVA) in film, video and television companies, 2008 to 2016",
       "h5": null,
       "title": "Breakdown of Gross Value Added (GVA) in film, video and television companies, 2008 to 2016",
-      "url": "/visualisations/dvc468/breakdown/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc468/breakdown/index.html",
+      "url_new": "/visualisations/dvc468/breakdown/index.html"
     },
     {
       "type": "p",
@@ -190,7 +192,8 @@
       "h4": "Employees of film companies, 2009 and 2016",
       "h5": null,
       "title": "Employees of film companies, 2009 and 2016 Great Britain",
-      "url": "/visualisations/dvc468/employees2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc468/employees2/index.html",
+      "url_new": "/visualisations/dvc468/employees2/index.html"
     },
     {
       "type": "p",
@@ -198,7 +201,7 @@
       "h3": "Employment is going up",
       "h4": "Employees of film companies, 2009 and 2016",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2017/12/employees.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2017/12/employees.csv)"
     },
     {
       "type": "heading",
@@ -371,7 +374,8 @@
       "h4": "Amount of Film Tax Relief paid (receipts basis), 2007-08 to 2016-17",
       "h5": null,
       "title": "Amount of Film Tax Relief paid (receipts basis), 2007-08 to 2016-17",
-      "url": "/visualisations/dvc468/tax/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc468/tax/index.html",
+      "url_new": "/visualisations/dvc468/tax/index.html"
     },
     {
       "type": "p",
@@ -379,7 +383,7 @@
       "h3": "Tax relief for films",
       "h4": "Amount of Film Tax Relief paid (receipts basis), 2007-08 to 2016-17",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2017/12/data-2.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2017/12/data-2.csv)"
     },
     {
       "type": "box",

@@ -117,8 +117,9 @@
       "chartbuilder_h3": "Mobility data show reductions in movement in each lockdown period",
       "chartbuilder_h4": "Google mobility at selected locations compared with baseline period (3 January to 6 February 2020), UK ",
       "data_uri": "https://www.ons.gov.uk/economy/economicoutputandproductivity/output/articles/coronavirushowpeopleandbusinesseshaveadaptedtolockdowns/2021-03-19/b64ef6c5",
-      "src": "/_scraped_chartbuilder_imgs/b64ef6c5.png",
-      "local_filename": "b64ef6c5.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/economicoutputandproductivity/output/articles/coronavirushowpeopleandbusinesseshaveadaptedtolockdowns/2021-03-19/b64ef6c5&width=&hideSource=true",
+      "local_filename": "b64ef6c5.png",
+      "src_new": "/_scraped_chartbuilder_imgs/b64ef6c5.png"
     },
     {
       "type": "p",
@@ -194,8 +195,9 @@
       "chartbuilder_h3": "The number of businesses temporarily closed because of coronavirus restrictions has fallen in almost all industries since the spring 2020 lockdown",
       "chartbuilder_h4": "Proportion of UK businesses that had temporarily closed or paused trading across a two-week period in lockdown, by industry, UK, 23 March 2020 to 21 February 2021",
       "data_uri": "https://www.ons.gov.uk/economy/economicoutputandproductivity/output/articles/coronavirushowpeopleandbusinesseshaveadaptedtolockdowns/2021-03-19/3cd81c71",
-      "src": "/_scraped_chartbuilder_imgs/3cd81c71.png",
-      "local_filename": "3cd81c71.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/economicoutputandproductivity/output/articles/coronavirushowpeopleandbusinesseshaveadaptedtolockdowns/2021-03-19/3cd81c71&width=&hideSource=true",
+      "local_filename": "3cd81c71.png",
+      "src_new": "/_scraped_chartbuilder_imgs/3cd81c71.png"
     },
     {
       "type": "heading",
@@ -239,8 +241,9 @@
       "chartbuilder_h3": "Most industries have seen an increase in staff in the workplace despite renewed restrictions in autumn and winter 2020 and early 2021",
       "chartbuilder_h4": "Proportion of UK businesses working at normal place of work across a two-week period in lockdown, by industry, UK, 23 March 2020 to 21 February 2021",
       "data_uri": "https://www.ons.gov.uk/economy/economicoutputandproductivity/output/articles/coronavirushowpeopleandbusinesseshaveadaptedtolockdowns/2021-03-19/ec5cc561",
-      "src": "/_scraped_chartbuilder_imgs/ec5cc561.png",
-      "local_filename": "ec5cc561.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/economicoutputandproductivity/output/articles/coronavirushowpeopleandbusinesseshaveadaptedtolockdowns/2021-03-19/ec5cc561&width=&hideSource=true",
+      "local_filename": "ec5cc561.png",
+      "src_new": "/_scraped_chartbuilder_imgs/ec5cc561.png"
     },
     {
       "type": "p",
@@ -299,7 +302,8 @@
       "h4": "Staff returning to their normal place of work has coincided with a fall in the number of workers on furlough",
       "h5": "Proportion of UK businesses on partial or furlough leave, working at normal place of work and working remotely, by selected industries, 23 March 2020 to 21 February 2021",
       "title": "Proportion of UK businesses on partial or furlough leave, working at normal place of work and working remotely, by selected industries, 23 March 2020 to 21 February 2021",
-      "url": "/visualisations/dvc1245/BICS-place_of_work/wrapper/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1245/BICS-place_of_work/wrapper/index.html",
+      "url_new": "/visualisations/dvc1245/BICS-place_of_work/wrapper/index.html"
     },
     {
       "type": "heading",
@@ -356,7 +360,8 @@
       "h3": null,
       "h4": "Staff returning to their normal place of work has coincided with a fall in the number of workers on furlough",
       "h5": "Notes:",
-      "text": "[Data download](/visualisations/dvc1245/BICS-place_of_work/wrapper/datadownload.csv)"
+      "text": "[Data download](https://www.ons.gov.uk/visualisations/dvc1245/BICS-place_of_work/wrapper/datadownload.csv)",
+      "text_new": "[Data download](/visualisations/dvc1245/BICS-place_of_work/wrapper/datadownload.csv)"
     },
     {
       "type": "heading",
@@ -384,7 +389,7 @@
       "chartbuilder_h3": null,
       "chartbuilder_h4": "Daily total expenditure by sector and UK nations",
       "data_uri": null,
-      "src": "https://www.ons.gov.uk/resource?uri=/economy/economicoutputandproductivity/output/articles/coronavirushowpeopleandbusinesseshaveadaptedtolockdowns/2021-03-19/385eff40.PNG"
+      "src": null
     },
     {
       "type": "p",
@@ -467,7 +472,8 @@
       "h4": null,
       "h5": "Retail sales index, in-store value sales, compared with online value sales, seasonally adjusted, Feb 2020 = 100; and Google mobility data locations compared with January to February 2020 baseline",
       "title": "Retail sales index, in-store value sales, compared with online values sales, seasonally adjusted, Feb 2020 = 100; and Google mobility data locations compared with January to February 2020 baseline",
-      "url": "/visualisations/dvc1245/RSI-instore_vs_online/wrapper/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1245/RSI-instore_vs_online/wrapper/index.html",
+      "url_new": "/visualisations/dvc1245/RSI-instore_vs_online/wrapper/index.html"
     },
     {
       "type": "heading",
@@ -524,7 +530,8 @@
       "h3": null,
       "h4": null,
       "h5": "Notes:",
-      "text": "[Data download](/visualisations/dvc1245/RSI-instore_vs_online/wrapper/datadownload.csv)"
+      "text": "[Data download](https://www.ons.gov.uk/visualisations/dvc1245/RSI-instore_vs_online/wrapper/datadownload.csv)",
+      "text_new": "[Data download](/visualisations/dvc1245/RSI-instore_vs_online/wrapper/datadownload.csv)"
     },
     {
       "type": "p",
@@ -607,7 +614,8 @@
       "h4": "All store types have seen an increase in online as a percentage of total sales",
       "h5": "Online retail sales proportions by sector, seasonally adjusted, Great Britain, January 2020 to January 2021",
       "title": "Online retail sales proportions by sector, seasonally adjusted, Great Britain, index 2016=100",
-      "url": "/visualisations/dvc1245/RSI-proportion_by_sector/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1245/RSI-proportion_by_sector/index.html",
+      "url_new": "/visualisations/dvc1245/RSI-proportion_by_sector/index.html"
     },
     {
       "type": "p",
@@ -615,7 +623,8 @@
       "h3": null,
       "h4": "All store types have seen an increase in online as a percentage of total sales",
       "h5": "Online retail sales proportions by sector, seasonally adjusted, Great Britain, January 2020 to January 2021",
-      "text": "[Data download](/visualisations/dvc1245/RSI-proportion_by_sector/datadownload.csv)"
+      "text": "[Data download](https://www.ons.gov.uk/visualisations/dvc1245/RSI-proportion_by_sector/datadownload.csv)",
+      "text_new": "[Data download](/visualisations/dvc1245/RSI-proportion_by_sector/datadownload.csv)"
     },
     {
       "type": "heading",
@@ -643,7 +652,7 @@
       "chartbuilder_h3": null,
       "chartbuilder_h4": "Facebook mobility data showing the relative number of journeys between local authorities, UK",
       "data_uri": null,
-      "src": "https://www.ons.gov.uk/resource?uri=/economy/economicoutputandproductivity/output/articles/coronavirushowpeopleandbusinesseshaveadaptedtolockdowns/2021-03-19/4f270573.png"
+      "src": null
     },
     {
       "type": "p",
@@ -685,10 +694,10 @@
       "h5": null,
       "box_h2": "Related",
       "box_h3": null,
-      "box_text": "Article | Released on 5 February 2021\n\nIndicators from the Opinions and Lifestyle Survey to understand the impact of the coronavirus (COVID-19) pandemic on people, households and communities in Great Britain over time. Compares how the social impacts on people and their behaviours have changed when compared with earlier in the pandemic, with reference to other data sources.\n\nStatistical bulletin | Released on 24 September 2026\n\nThe impact of challenges facing the economy and other events on UK businesses, including financial performance, workforce, trade and business resilience.\n\nStatistical bulletin | Released on 18 September 2026\n\nRetail sales rose in the three months to August 2026, according to our first estimate.",
+      "box_text": "Article | Released on 5 February 2021\n\nIndicators from the Opinions and Lifestyle Survey to understand the impact of the coronavirus (COVID-19) pandemic on people, households and communities in Great Britain over time. Compares how the social impacts on people and their behaviours have changed when compared with earlier in the pandemic, with reference to other data sources.\n\nStatistical bulletin | Released on 3 September 2026\n\nThe impact of challenges facing the economy and other events on UK businesses, including financial performance, workforce, trade and business resilience.\n\nStatistical bulletin | Released on 18 September 2026\n\nRetail sales rose in the three months to August 2026, according to our first estimate.",
       "box_items": [
         "[Coronavirus and the social impacts on behaviours during different lockdown periods, Great Britain](/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/articles/coronavirusandthesocialimpactsonbehavioursduringdifferentlockdownperiodsgreatbritain/uptofebruary2021) Article | Released on 5 February 2021 Indicators from the Opinions and Lifestyle Survey to understand the impact of the coronavirus (COVID-19) pandemic on people, households and communities in Great Britain over time. Compares how the social impacts on people and their behaviours have changed when compared with earlier in the pandemic, with reference to other data sources.",
-        "[Business insights and impact on the UK economy](/businessindustryandtrade/business/businessservices/bulletins/businessinsightsandimpactontheukeconomy/24september2026) Statistical bulletin | Released on 24 September 2026 The impact of challenges facing the economy and other events on UK businesses, including financial performance, workforce, trade and business resilience.",
+        "[Business insights and impact on the UK economy](/businessindustryandtrade/business/businessservices/bulletins/businessinsightsandimpactontheukeconomy/3september2026) Statistical bulletin | Released on 3 September 2026 The impact of challenges facing the economy and other events on UK businesses, including financial performance, workforce, trade and business resilience.",
         "[Retail sales, Great Britain](/businessindustryandtrade/retailindustry/bulletins/retailsales/august2026) Statistical bulletin | Released on 18 September 2026 Retail sales rose in the three months to August 2026, according to our first estimate."
       ]
     },
@@ -718,5 +727,5 @@
       "box_items": null
     }
   ],
-  "scraped_at": "2026-09-28 13:31:10.034469"
+  "scraped_at": "2026-09-22 11:47:03.581034"
 }

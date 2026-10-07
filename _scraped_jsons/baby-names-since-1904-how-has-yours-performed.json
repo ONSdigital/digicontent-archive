@@ -67,7 +67,8 @@
       "h4": null,
       "h5": null,
       "title": "Baby names interactive",
-      "url": "/visualisations/dvc363/babyindex.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc363/babyindex.html",
+      "url_new": "/visualisations/dvc363/babyindex.html"
     },
     {
       "type": "heading",
@@ -142,7 +143,8 @@
       "h4": "Rank of comeback names for boys for every ten years between 1904 and 1994 and for every year from 1996 onwards",
       "h5": null,
       "title": "Interactive chart",
-      "url": "/visualisations/dvc363/babyindex_noheader.html#0,William,George,Thomas,Henry,Harry,James"
+      "url": "https://www.ons.gov.uk/visualisations/dvc363/babyindex_noheader.html#0,William,George,Thomas,Henry,Harry,James",
+      "url_new": "/visualisations/dvc363/babyindex_noheader.html#0,William,George,Thomas,Henry,Harry,James"
     },
     {
       "type": "p",
@@ -184,7 +186,8 @@
       "h4": "Rank of comeback names for boys that have returned in a shortened or nickname form for every ten years between 1904 and 1994 and for every year from 1996 onwards",
       "h5": null,
       "title": "Interactive chart",
-      "url": "/visualisations/dvc363/babyindex_noheader.html#0,Charles,Charlie,Frederick,Freddie,Alfred,Alfie"
+      "url": "https://www.ons.gov.uk/visualisations/dvc363/babyindex_noheader.html#0,Charles,Charlie,Frederick,Freddie,Alfred,Alfie",
+      "url_new": "/visualisations/dvc363/babyindex_noheader.html#0,Charles,Charlie,Frederick,Freddie,Alfred,Alfie"
     },
     {
       "type": "p",
@@ -242,7 +245,8 @@
       "h4": "Rank of comeback names for girls for every ten years between 1904 and 1994 and for every year from 1996 onwards",
       "h5": null,
       "title": "Interactive chart",
-      "url": "/visualisations/dvc363/babyindex_noheader.html#1,Alice,Florence,Elsie,Ivy,Violet,Lily"
+      "url": "https://www.ons.gov.uk/visualisations/dvc363/babyindex_noheader.html#1,Alice,Florence,Elsie,Ivy,Violet,Lily",
+      "url_new": "/visualisations/dvc363/babyindex_noheader.html#1,Alice,Florence,Elsie,Ivy,Violet,Lily"
     },
     {
       "type": "heading",
@@ -293,7 +297,8 @@
       "h4": "Rank of the names Gladys, Doris, Hilda and Ethel for every ten years between 1904 and 1994 and for every year from 1996 onwards",
       "h5": null,
       "title": "Interactive chart",
-      "url": "/visualisations/dvc363/babyindex_noheader.html#1,Gladys,Doris,Hilda,Ethel"
+      "url": "https://www.ons.gov.uk/visualisations/dvc363/babyindex_noheader.html#1,Gladys,Doris,Hilda,Ethel",
+      "url_new": "/visualisations/dvc363/babyindex_noheader.html#1,Gladys,Doris,Hilda,Ethel"
     },
     {
       "type": "p",
@@ -349,7 +354,7 @@
       "h3": "The disappearing acts",
       "h4": "Rank of the names Gladys, Doris, Hilda and Ethel for every ten years between 1904 and 1994 and for every year from 1996 onwards",
       "h5": null,
-      "text": "[The popularity of the name Muhammad/Mohammed/Mohammad](/visualisations/20170726163612/https://visual.ons.gov.uk/the-popularity-of-the-name-muhammadmohammedmohammad)"
+      "text": "[The popularity of the name Muhammad/Mohammed/Mohammad](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/the-popularity-of-the-name-muhammadmohammedmohammad)"
     },
     {
       "type": "heading",
@@ -366,7 +371,7 @@
       "h3": "The disappearing acts",
       "h4": "Notes",
       "h5": null,
-      "text": "You can [download](/visualisations/20170726163612/https://visual.ons.gov.uk/baby-names-data-download-1904-to-1994/) the top 100 names given to baby boys and girls for every ten years from 1904 to 1994.\n You can also download the count and rank of the names given to three or more baby [boys](/visualisations//visual/2016/09/baby-boys-1996-to-2015-rank-and-count.csv)and [girls](/visualisations//visual/2016/09/baby-girls-1996-to-2015-rank-and-count.csv) from 1996 to 2015.\n You can also access the data from the statistical bulletins on baby names given to [boys](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsboys) and [girls](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsgirls) from 1996 to 2015."
+      "text": "You can [download](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/baby-names-data-download-1904-to-1994/) the top 100 names given to baby boys and girls for every ten years from 1904 to 1994.\n You can also download the count and rank of the names given to three or more baby [boys](https://static.ons.gov.uk/visual/2016/09/baby-boys-1996-to-2015-rank-and-count.csv)and [girls](https://static.ons.gov.uk/visual/2016/09/baby-girls-1996-to-2015-rank-and-count.csv) from 1996 to 2015.\n You can also access the data from the statistical bulletins on baby names given to [boys](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsboys) and [girls](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsgirls) from 1996 to 2015."
     },
     {
       "type": "box",

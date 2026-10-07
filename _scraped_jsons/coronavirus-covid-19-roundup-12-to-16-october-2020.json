@@ -110,7 +110,8 @@
       "h4": "Most minority ethnicities have higher COVID-19 mortality rate",
       "h5": "Rate of death compared to White ethnicities, adjusted by various possible factors in England and Wales, to 28 July",
       "title": "Mortality of people from ethnic minority backgrounds\" full-width=\"false",
-      "url": "/visualisations/dvc1011/4models/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1011/4models/index.html",
+      "url_new": "/visualisations/dvc1011/4models/index.html"
     },
     {
       "type": "p",
@@ -118,7 +119,8 @@
       "h3": null,
       "h4": "Most minority ethnicities have higher COVID-19 mortality rate",
       "h5": "Rate of death compared to White ethnicities, adjusted by various possible factors in England and Wales, to 28 July",
-      "text": "[Download the data](/visualisations/dvc1011/4models/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1011/4models/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1011/4models/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -226,8 +228,9 @@
       "chartbuilder_h3": "Business creations in Quarter 3 2020 were slightly higher than in Quarter 3 2019",
       "chartbuilder_h4": "Number of businesses added to the Inter-Departmental Business Register (IDBR), quarterly, UK, Quarter 1 (Jan to Mar) 2017 to Quarter 3 (July to Sept) 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup12to16october2020/2020-10-23/fc186996",
-      "src": "/_scraped_chartbuilder_imgs/fc186996.png",
-      "local_filename": "fc186996.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup12to16october2020/2020-10-23/fc186996&width=&hideSource=true",
+      "local_filename": "fc186996.png",
+      "src_new": "/_scraped_chartbuilder_imgs/fc186996.png"
     },
     {
       "type": "p",
@@ -311,8 +314,9 @@
       "chartbuilder_h3": "Redundancies increased by a record 114,000 on the quarter",
       "chartbuilder_h4": "UK redundancies, not seasonally adjusted, from June to August, 2005 and June to August, 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup12to16october2020/2020-10-23/89e6636a",
-      "src": "/_scraped_chartbuilder_imgs/89e6636a.png",
-      "local_filename": "89e6636a.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup12to16october2020/2020-10-23/89e6636a&width=&hideSource=true",
+      "local_filename": "89e6636a.png",
+      "src_new": "/_scraped_chartbuilder_imgs/89e6636a.png"
     },
     {
       "type": "p",
@@ -388,8 +392,9 @@
       "chartbuilder_h3": "Output per hour fell by 1.8% in Quarter 2 2020, the largest fall since Quarter 2 2009",
       "chartbuilder_h4": "Labour productivity, as measured by output per hour, Apr to June, 2020.",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup12to16october2020/2020-10-23/f1ad66ec",
-      "src": "/_scraped_chartbuilder_imgs/f1ad66ec.png",
-      "local_filename": "f1ad66ec.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup12to16october2020/2020-10-23/f1ad66ec&width=&hideSource=true",
+      "local_filename": "f1ad66ec.png",
+      "src_new": "/_scraped_chartbuilder_imgs/f1ad66ec.png"
     },
     {
       "type": "p",

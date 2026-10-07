@@ -157,7 +157,8 @@
       "h4": "EU imports peaked ahead of ‘Brexit deadlines’ in March and October 2019",
       "h5": "Trade in goods imports (excluding non-monetary gold and other precious metals), November 2018 to November 2020",
       "title": "EU imports peaked ahead of ‘Brexit deadlines’ in March and October 2019 ",
-      "url": "/visualisations/dvc1150/fig1_imports/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1150/fig1_imports/index.html",
+      "url_new": "/visualisations/dvc1150/fig1_imports/index.html"
     },
     {
       "type": "p",
@@ -165,7 +166,8 @@
       "h3": null,
       "h4": "EU imports peaked ahead of ‘Brexit deadlines’ in March and October 2019",
       "h5": "Trade in goods imports (excluding non-monetary gold and other precious metals), November 2018 to November 2020",
-      "text": "[Download the data](/visualisations/dvc1150/fig1_datadownload.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1150/fig1_datadownload.csv)",
+      "text_new": "[Download the data](/visualisations/dvc1150/fig1_datadownload.csv)"
     },
     {
       "type": "p",
@@ -208,7 +210,8 @@
       "h4": "Trade in machinery and pharmaceuticals saw some of the largest spikes ahead of Brexit deadlines",
       "h5": "Trade in goods imports (excluding non-monetary gold and other precious metals), worldwide, by commodity, November 2018 to November 2020",
       "title": "Trade in machinery and pharmaceuticals saw some of the largest spikes ahead of Brexit deadlines ",
-      "url": "/visualisations/dvc1150/fig2-commodities/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1150/fig2-commodities/index.html",
+      "url_new": "/visualisations/dvc1150/fig2-commodities/index.html"
     },
     {
       "type": "p",
@@ -216,7 +219,8 @@
       "h3": null,
       "h4": "Trade in machinery and pharmaceuticals saw some of the largest spikes ahead of Brexit deadlines",
       "h5": "Trade in goods imports (excluding non-monetary gold and other precious metals), worldwide, by commodity, November 2018 to November 2020",
-      "text": "[Download the data](/visualisations/dvc1150/fig2_datadownload.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1150/fig2_datadownload.csv)",
+      "text_new": "[Download the data](/visualisations/dvc1150/fig2_datadownload.csv)"
     },
     {
       "type": "p",
@@ -284,8 +288,9 @@
       "chartbuilder_h3": "Businesses in the manufacturing industry were most likely to report stockpiling materials or goods",
       "chartbuilder_h4": "Stockpiling estimates, percentage of businesses currently trading, broken down by industry, weighted by count, UK, 14 December to 23 December 2020",
       "data_uri": "https://www.ons.gov.uk/businessindustryandtrade/internationaltrade/articles/didukfirmsstockpileitemsaheadofthebrexitdeadline/2021-02-01/a9fd35e0",
-      "src": "/_scraped_chartbuilder_imgs/a9fd35e0.png",
-      "local_filename": "a9fd35e0.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/businessindustryandtrade/internationaltrade/articles/didukfirmsstockpileitemsaheadofthebrexitdeadline/2021-02-01/a9fd35e0&width=&hideSource=true",
+      "local_filename": "a9fd35e0.png",
+      "src_new": "/_scraped_chartbuilder_imgs/a9fd35e0.png"
     },
     {
       "type": "p",
@@ -377,8 +382,9 @@
       "chartbuilder_h3": "Companies’ mentions of COVID-19 outstripped those of Brexit in 2020",
       "chartbuilder_h4": "Percentage of comments referring to Brexit or the coronavirus , UK, Quarter 4 (Oct to Dec) 2018 to Quarter 3 (July to Sept) 2020",
       "data_uri": "https://www.ons.gov.uk/businessindustryandtrade/internationaltrade/articles/didukfirmsstockpileitemsaheadofthebrexitdeadline/2021-02-01/b2acac2f",
-      "src": "/_scraped_chartbuilder_imgs/b2acac2f.png",
-      "local_filename": "b2acac2f.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/businessindustryandtrade/internationaltrade/articles/didukfirmsstockpileitemsaheadofthebrexitdeadline/2021-02-01/b2acac2f&width=&hideSource=true",
+      "local_filename": "b2acac2f.png",
+      "src_new": "/_scraped_chartbuilder_imgs/b2acac2f.png"
     },
     {
       "type": "p",

@@ -90,8 +90,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc2609/images/2156_Population-and-migration_Illustration.png",
-      "alt": null
+      "src": "https://www.ons.gov.uk/visualisations/dvc2609/images/2156_Population-and-migration_Illustration.png",
+      "alt": null,
+      "src_new": "/visualisations/dvc2609/images/2156_Population-and-migration_Illustration.png"
     },
     {
       "type": "heading",
@@ -143,7 +144,8 @@
       "h4": "Figure 1: Admin-based population estimates (ABPE) data show the population living in Blackpool is an ageing population",
       "h5": "Age structure of the population for mid-year estimates compared with ABPE, by sex, LA, 2021",
       "title": "",
-      "url": "/visualisations/dvc2609/Blackpool/Fig1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Blackpool/Fig1/index.html",
+      "url_new": "/visualisations/dvc2609/Blackpool/Fig1/index.html"
     },
     {
       "type": "heading",
@@ -220,7 +222,8 @@
       "h4": "Figure 2: Blackpool’s population increased by 0.3% to 141,300 people between 2021 and 2022",
       "h5": "Admin-based population estimates (ABPE) percentage change in population, local authorities in England and Wales",
       "title": "",
-      "url": "/visualisations/dvc2609/Blackpool/Fig2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Blackpool/Fig2/index.html",
+      "url_new": "/visualisations/dvc2609/Blackpool/Fig2/index.html"
     },
     {
       "type": "heading",
@@ -321,7 +324,8 @@
       "h4": "Figure 3: The largest difference in population estimates between ABPEs and Census 2021 were in LSOAs containing residential suburbs, hotels, and care homes",
       "h5": "Percentage difference in admin-based population estimates (ABPE) and Census 2021 estimates at Lower layer Super Output Areas (LSOA) level, LA, 2021 ",
       "title": "",
-      "url": "/visualisations/dvc2609/Blackpool/Fig3/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Blackpool/Fig3/index.html",
+      "url_new": "/visualisations/dvc2609/Blackpool/Fig3/index.html"
     },
     {
       "type": "heading",
@@ -404,8 +408,9 @@
       "h3": "Changes in Blackpool's daytime population",
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc2609/images/2156_Population-sub-groups-characteristics_Illustration.png",
-      "alt": null
+      "src": "https://www.ons.gov.uk/visualisations/dvc2609/images/2156_Population-sub-groups-characteristics_Illustration.png",
+      "alt": null,
+      "src_new": "/visualisations/dvc2609/images/2156_Population-sub-groups-characteristics_Illustration.png"
     },
     {
       "type": "heading",
@@ -473,7 +478,8 @@
       "h4": "Figure 4: The ABES proportion of ethnic groups in Blackpool is similar to Census 2021",
       "h5": "Admin-based ethnicity statistics (ABES) and Census 2021 population by five-category ethnic group, LA, 2021 ",
       "title": "",
-      "url": "/visualisations/dvc2609/Blackpool/Fig4/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Blackpool/Fig4/index.html",
+      "url_new": "/visualisations/dvc2609/Blackpool/Fig4/index.html"
     },
     {
       "type": "heading",
@@ -565,7 +571,8 @@
       "h4": "Figure 5: There is a slight trend for younger age groups in Blackpool to be more ethnically diverse for both males and females",
       "h5": "5a. Admin-based ethnicity statistics (ABES), “White” ethnic group by age and sex, LA, 2021",
       "title": "",
-      "url": "/visualisations/dvc2609/Blackpool/Fig5a/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Blackpool/Fig5a/index.html",
+      "url_new": "/visualisations/dvc2609/Blackpool/Fig5a/index.html"
     },
     {
       "type": "heading",
@@ -608,7 +615,8 @@
       "h4": "Figure 5: There is a slight trend for younger age groups in Blackpool to be more ethnically diverse for both males and females",
       "h5": "5b. Admin-based ethnicity statistics (ABES), all other ethnic groups by age and sex, LA, 2021",
       "title": "",
-      "url": "/visualisations/dvc2609/Blackpool/Fig5b/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Blackpool/Fig5b/index.html",
+      "url_new": "/visualisations/dvc2609/Blackpool/Fig5b/index.html"
     },
     {
       "type": "heading",
@@ -692,7 +700,8 @@
       "h4": "Figure 6: Median occupied address net income is similar across most of Blackpool’s local areas, with some more affluent and deprived areas across the city",
       "h5": "Admin-based income statistics (ABIS) median occupied address net income (£), LA, tax year ending 2018",
       "title": "",
-      "url": "/visualisations/dvc2609/Blackpool/Fig6/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Blackpool/Fig6/index.html",
+      "url_new": "/visualisations/dvc2609/Blackpool/Fig6/index.html"
     },
     {
       "type": "heading",
@@ -785,7 +794,8 @@
       "h4": "Figure 7: Income measures in the ABIES dataset for Blackpool show variation between ethnic groups",
       "h5": "The 10th percentile, median, and 90th percentile net income for individuals aged 16 years and over with income information identified by five-category ethnic group, LA, tax year ending 2018",
       "title": "",
-      "url": "/visualisations/dvc2609/Blackpool/Fig7/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Blackpool/Fig7/index.html",
+      "url_new": "/visualisations/dvc2609/Blackpool/Fig7/index.html"
     },
     {
       "type": "heading",
@@ -843,8 +853,9 @@
       "h3": "Population sub-groups and characteristics in Blackpool",
       "h4": "Figure 7: Income measures in the ABIES dataset for Blackpool show variation between ethnic groups",
       "h5": "Download the data",
-      "src": "/visualisations/dvc2609/images/2156_Housing-accomodation-and-living-arrangements_Illustration.png",
-      "alt": null
+      "src": "https://www.ons.gov.uk/visualisations/dvc2609/images/2156_Housing-accomodation-and-living-arrangements_Illustration.png",
+      "alt": null,
+      "src_new": "/visualisations/dvc2609/images/2156_Housing-accomodation-and-living-arrangements_Illustration.png"
     },
     {
       "type": "heading",
@@ -912,7 +923,8 @@
       "h4": "Figure 8: There are more Census 2021 households in Blackpool than occupied addresses in the admin-based occupied address dataset (ABOAD)",
       "h5": "Number of occupied addresses in the ABOAD and households in Census 2021, LA, June 2021",
       "title": "",
-      "url": "/visualisations/dvc2609/Blackpool/Fig8/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Blackpool/Fig8/index.html",
+      "url_new": "/visualisations/dvc2609/Blackpool/Fig8/index.html"
     },
     {
       "type": "heading",
@@ -972,7 +984,8 @@
       "h4": "Figure 9: Most residential addresses in Blackpool have one or two people living there",
       "h5": "Size of occupied addresses in the admin-based occupied address dataset (ABOAD) and households in Census 2021 by number of people living there, LA, June 2021",
       "title": "",
-      "url": "/visualisations/dvc2609/Blackpool/Fig9/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Blackpool/Fig9/index.html",
+      "url_new": "/visualisations/dvc2609/Blackpool/Fig9/index.html"
     },
     {
       "type": "heading",
@@ -1080,7 +1093,8 @@
       "h4": "Figure 10: Dwellings in Blackpool most commonly have five rooms",
       "h5": "Distribution of Census 2021 households by number of rooms, alongside the distribution of residential addresses and occupied residential addresses in the ABHS V1.0, LA, 2021",
       "title": "",
-      "url": "/visualisations/dvc2609/Blackpool/Fig10/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Blackpool/Fig10/index.html",
+      "url_new": "/visualisations/dvc2609/Blackpool/Fig10/index.html"
     },
     {
       "type": "heading",
@@ -1173,7 +1187,8 @@
       "h4": "Figure 11: A large proportion of Blackpool’s housing stock was built before 1919",
       "h5": "Number of dwellings by Valuation Office Agency (VOA) build period for all addresses and occupied addresses in the ABHS V1.0, LA, June 2021",
       "title": "",
-      "url": "/visualisations/dvc2609/Blackpool/Fig11/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Blackpool/Fig11/index.html",
+      "url_new": "/visualisations/dvc2609/Blackpool/Fig11/index.html"
     },
     {
       "type": "heading",
@@ -1249,7 +1264,8 @@
       "h4": "Figure 12: Semi-detached and terraced houses are the most common VOA accommodation types for all ethnic groups in Blackpool",
       "h5": "Admin-based housing by ethnicity dataset version 2.0 (ABHED V2.0) VOA accommodation type (Census 2021 definition) by ethnic group, LA, 2021",
       "title": "",
-      "url": "/visualisations/dvc2609/Blackpool/Fig12/vis/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Blackpool/Fig12/vis/index.html",
+      "url_new": "/visualisations/dvc2609/Blackpool/Fig12/vis/index.html"
     },
     {
       "type": "heading",
@@ -1350,7 +1366,8 @@
       "h4": "Figure 13: Individuals in the “Asian” ethnic group are most likely to live in a dwelling with four or more bedrooms compared with all other ethnic groups",
       "h5": "Admin-based housing by ethnicity dataset version 2.0 (ABHED V2.0) VOA number of bedrooms by ethnic group, LA, 2021",
       "title": "",
-      "url": "/visualisations/dvc2609/Blackpool/Fig13/vis/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Blackpool/Fig13/vis/index.html",
+      "url_new": "/visualisations/dvc2609/Blackpool/Fig13/vis/index.html"
     },
     {
       "type": "heading",
@@ -1531,7 +1548,8 @@
       "h4": "Figure 14: The most common age group of communal establishment residents in Blackpool was those aged 85 years and over for females and aged 50 to 64 years for males",
       "h5": "Admin-based communal establishment dataset (ABCED) communal establishment residents by sex and banded age groups, LA, 2021",
       "title": "",
-      "url": "/visualisations/dvc2609/Blackpool/Fig14/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Blackpool/Fig14/index.html",
+      "url_new": "/visualisations/dvc2609/Blackpool/Fig14/index.html"
     },
     {
       "type": "heading",

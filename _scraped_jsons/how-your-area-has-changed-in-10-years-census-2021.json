@@ -51,7 +51,8 @@
       "h4": null,
       "h5": null,
       "title": "Landing",
-      "url": "/visualisations/censusareachanges/landing/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/censusareachanges/landing/index.html",
+      "url_new": "/visualisations/censusareachanges/landing/index.html"
     },
     {
       "type": "heading",
@@ -78,8 +79,9 @@
       "h5": null,
       "box_h2": null,
       "box_h3": null,
-      "box_text": "\n\n[How your area has changed in 10 years: data download (XLSX, 1,525 KB)](/visualisations/censusareachanges/data/datadownload.xlsx) Datasets| Updated 19 January 2023 Data used in the interactive articles.\n\n[Census 2021 topic summaries](https://www.ons.gov.uk/census/aboutcensus/censusproducts/topicsummaries) Supporting information | Released 2 November 2022 What topic summary data for Census 2021 will be available and how to view them.\n\n[Census maps](https://www.ons.gov.uk/census/maps) Interactive tool | Updated 19 January 2023 Use our interactive map to find out what people’s lives are like across England and Wales.\n\n[How well do you know your area?](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/playthecensus2021quizhowwelldoyouknowyourarea/2022-12-02) Digital Content Article | Released 2 December 2022 Test your knowledge of where you live with our Census quiz.",
-      "box_items": null
+      "box_text": "\n\n[How your area has changed in 10 years: data download (XLSX, 1,525 KB)](https://www.ons.gov.uk/visualisations/censusareachanges/data/datadownload.xlsx) Datasets| Updated 19 January 2023 Data used in the interactive articles.\n\n[Census 2021 topic summaries](https://www.ons.gov.uk/census/aboutcensus/censusproducts/topicsummaries) Supporting information | Released 2 November 2022 What topic summary data for Census 2021 will be available and how to view them.\n\n[Census maps](https://www.ons.gov.uk/census/maps) Interactive tool | Updated 19 January 2023 Use our interactive map to find out what people’s lives are like across England and Wales.\n\n[How well do you know your area?](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/playthecensus2021quizhowwelldoyouknowyourarea/2022-12-02) Digital Content Article | Released 2 December 2022 Test your knowledge of where you live with our Census quiz.",
+      "box_items": null,
+      "box_text_new": "\n\n[How your area has changed in 10 years: data download (XLSX, 1,525 KB)](/visualisations/censusareachanges/data/datadownload.xlsx) Datasets| Updated 19 January 2023 Data used in the interactive articles.\n\n[Census 2021 topic summaries](https://www.ons.gov.uk/census/aboutcensus/censusproducts/topicsummaries) Supporting information | Released 2 November 2022 What topic summary data for Census 2021 will be available and how to view them.\n\n[Census maps](https://www.ons.gov.uk/census/maps) Interactive tool | Updated 19 January 2023 Use our interactive map to find out what people’s lives are like across England and Wales.\n\n[How well do you know your area?](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/playthecensus2021quizhowwelldoyouknowyourarea/2022-12-02) Digital Content Article | Released 2 December 2022 Test your knowledge of where you live with our Census quiz."
     },
     {
       "type": "box",
@@ -89,7 +91,7 @@
       "h5": null,
       "box_h2": "Contact",
       "box_h3": null,
-      "box_text": "[census.customerservices@ons.gov.uk](mailto:census.customerservices@ons.gov.uk)\n Telephone: +44 1329 44 4972",
+      "box_text": "[census.customerservices@ons.gov.uk](mailto:census.customerservices@ons.gov.uk )\n Telephone: +44 1329 44 4972",
       "box_items": null
     }
   ],

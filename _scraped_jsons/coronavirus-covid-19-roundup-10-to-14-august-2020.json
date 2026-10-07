@@ -175,7 +175,8 @@
       "h4": "GDP saw its second consecutive quarterly decline in Quarter 2 (Apr to June) 2020",
       "h5": "UK GDP growth, Quarter 1 (Jan to Mar) 2005 until Quarter 2 (Apr to June) 2020",
       "title": "Bar chart",
-      "url": "/visualisations/dvc933/gdp/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc933/gdp/index.html",
+      "url_new": "/visualisations/dvc933/gdp/index.html"
     },
     {
       "type": "p",
@@ -275,7 +276,8 @@
       "h4": "All sub-sectors of services showed an increase in growth in June 2020; however, output did not recover to the pre-lockdown levels of February 2020",
       "h5": "Monthly output (March, April, May and June 2020) as a proportion of February 2020, UK, February 2020 output = 100%",
       "title": "Line chart",
-      "url": "/visualisations/dvc933/servicesectorchangeslope100/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc933/servicesectorchangeslope100/index.html",
+      "url_new": "/visualisations/dvc933/servicesectorchangeslope100/index.html"
     },
     {
       "type": "p",
@@ -318,7 +320,8 @@
       "h4": "Most subsectors of manufacturing showed an increase in growth in June 2020; however, output did not recover to the pre-lockdown levels of February 2020",
       "h5": "Monthly output (March, April, May and June 2020) as a proportion of February 2020, UK, February 2020 output = 100%",
       "title": "Line chart",
-      "url": "/visualisations/dvc933/servicesectorchangeslope100/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc933/servicesectorchangeslope100/index.html",
+      "url_new": "/visualisations/dvc933/servicesectorchangeslope100/index.html"
     },
     {
       "type": "p",
@@ -525,8 +528,9 @@
       "chartbuilder_h3": "There were approximately 7.5 million people temporarily away from paid work in June 2020",
       "chartbuilder_h4": "Total number of people temporarily away from paid work, seasonally adjusted, UK, January to June 2017 to January to June 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup10to14august2020/2020-08-14/a4d662be",
-      "src": "/_scraped_chartbuilder_imgs/a4d662be.png",
-      "local_filename": "a4d662be.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup10to14august2020/2020-08-14/a4d662be&width=&hideSource=true",
+      "local_filename": "a4d662be.png",
+      "src_new": "/_scraped_chartbuilder_imgs/a4d662be.png"
     },
     {
       "type": "p",

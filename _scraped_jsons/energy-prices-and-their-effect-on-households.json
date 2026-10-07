@@ -130,8 +130,9 @@
       "chartbuilder_h3": "The wholesale price of gas was around four times higher than at the start of 2021 ",
       "chartbuilder_h4": "System average price, pence per kilowatt hour, seven day rolling average, 1 January 2020 to 23 January 2022, non-seasonally adjusted, Great Britain ",
       "data_uri": "https://www.ons.gov.uk/economy/inflationandpriceindices/articles/energypricesandtheireffectonhouseholds/2022-02-01/eed4d114",
-      "src": "/_scraped_chartbuilder_imgs/eed4d114.png",
-      "local_filename": "eed4d114.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/inflationandpriceindices/articles/energypricesandtheireffectonhouseholds/2022-02-01/eed4d114&width=&hideSource=true",
+      "local_filename": "eed4d114.png",
+      "src_new": "/_scraped_chartbuilder_imgs/eed4d114.png"
     },
     {
       "type": "p",
@@ -238,7 +239,8 @@
       "h4": "Gas and electricity price movements are closely tied to the Ofgem price cap ",
       "h5": "Default tariff cap level for dual fuel, £ and index prices for gas and electricity, monthly, Jan 2015 to Dec 2021  ",
       "title": "price inflation",
-      "url": "/visualisations/dvc1780/priceinflation-new/wrapper/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1780/priceinflation-new/wrapper/index.html",
+      "url_new": "/visualisations/dvc1780/priceinflation-new/wrapper/index.html"
     },
     {
       "type": "p",
@@ -246,7 +248,8 @@
       "h3": null,
       "h4": "Gas and electricity price movements are closely tied to the Ofgem price cap ",
       "h5": "Default tariff cap level for dual fuel, £ and index prices for gas and electricity, monthly, Jan 2015 to Dec 2021  ",
-      "text": "[Data for default tariff cap level and index prices for gas and electricity, Jan 2015 to Dec 2021 (XLSX, 14KB)](/visualisations/dvc1780/priceinflation-new/wrapper/datadownload.xlsx)"
+      "text": "[Data for default tariff cap level and index prices for gas and electricity, Jan 2015 to Dec 2021 (XLSX, 14KB)](https://www.ons.gov.uk/visualisations/dvc1780/priceinflation-new/wrapper/datadownload.xlsx)",
+      "text_new": "[Data for default tariff cap level and index prices for gas and electricity, Jan 2015 to Dec 2021 (XLSX, 14KB)](/visualisations/dvc1780/priceinflation-new/wrapper/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -322,7 +325,8 @@
       "h4": "Household services, including utilities, were the largest contributor to the inflation rate of 4.8%",
       "h5": "Contributions to the CPIH 12-month inflation rate, UK, December 2019 to December 2021",
       "title": "inflation types",
-      "url": "/visualisations/dvc1780/inflation-new/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1780/inflation-new/index.html",
+      "url_new": "/visualisations/dvc1780/inflation-new/index.html"
     },
     {
       "type": "p",
@@ -330,7 +334,8 @@
       "h3": null,
       "h4": "Household services, including utilities, were the largest contributor to the inflation rate of 4.8%",
       "h5": "Contributions to the CPIH 12-month inflation rate, UK, December 2019 to December 2021",
-      "text": "[Data for contributions to the CPIH 12-month inflation rate, UK, Dec 2019 to Dec 2021 (XLSX, 12KB)](/visualisations/dvc1780/inflation-new/datadownload.xlsx)"
+      "text": "[Data for contributions to the CPIH 12-month inflation rate, UK, Dec 2019 to Dec 2021 (XLSX, 12KB)](https://www.ons.gov.uk/visualisations/dvc1780/inflation-new/datadownload.xlsx)",
+      "text_new": "[Data for contributions to the CPIH 12-month inflation rate, UK, Dec 2019 to Dec 2021 (XLSX, 12KB)](/visualisations/dvc1780/inflation-new/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -373,8 +378,9 @@
       "chartbuilder_h3": "Higher energy bills and food prices are the main contributors to rising living costs",
       "chartbuilder_h4": "Over the last month, for what reasons has your cost of living increased? Adults in Great Britain, 6 to 16 January 2022  ",
       "data_uri": "https://www.ons.gov.uk/economy/inflationandpriceindices/articles/energypricesandtheireffectonhouseholds/2022-02-01/fcebeb47",
-      "src": "/_scraped_chartbuilder_imgs/fcebeb47.png",
-      "local_filename": "fcebeb47.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/inflationandpriceindices/articles/energypricesandtheireffectonhouseholds/2022-02-01/fcebeb47&width=&hideSource=true",
+      "local_filename": "fcebeb47.png",
+      "src_new": "/_scraped_chartbuilder_imgs/fcebeb47.png"
     },
     {
       "type": "p",
@@ -482,8 +488,9 @@
       "chartbuilder_h3": "Spending on gas and electricity as a proportion of disposable income is highest for the poorest households",
       "chartbuilder_h4": "Detailed household expenditure as a percentage of total expenditure by equivalised disposable income decile group, FYE 2020",
       "data_uri": "https://www.ons.gov.uk/economy/inflationandpriceindices/articles/energypricesandtheireffectonhouseholds/2022-02-01/a78f26a9",
-      "src": "/_scraped_chartbuilder_imgs/a78f26a9.png",
-      "local_filename": "a78f26a9.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/inflationandpriceindices/articles/energypricesandtheireffectonhouseholds/2022-02-01/a78f26a9&width=&hideSource=true",
+      "local_filename": "a78f26a9.png",
+      "src_new": "/_scraped_chartbuilder_imgs/a78f26a9.png"
     },
     {
       "type": "p",
@@ -566,8 +573,9 @@
       "chartbuilder_h3": "Estimated energy costs are highest for the least energy efficient properties ",
       "chartbuilder_h4": "Median estimated total energy costs by Standard Assessment Procedure (SAP) rating, England, 2019, £ per year ",
       "data_uri": "https://www.ons.gov.uk/economy/inflationandpriceindices/articles/energypricesandtheireffectonhouseholds/2022-02-01/2efdd68e",
-      "src": "/_scraped_chartbuilder_imgs/2efdd68e.png",
-      "local_filename": "2efdd68e.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/inflationandpriceindices/articles/energypricesandtheireffectonhouseholds/2022-02-01/2efdd68e&width=&hideSource=true",
+      "local_filename": "2efdd68e.png",
+      "src_new": "/_scraped_chartbuilder_imgs/2efdd68e.png"
     },
     {
       "type": "p",

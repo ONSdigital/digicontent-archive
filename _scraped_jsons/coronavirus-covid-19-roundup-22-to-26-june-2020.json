@@ -199,7 +199,8 @@
       "h4": "One in five businesses that continued to trade did not furlough any employees",
       "h5": "Proportion of businesses, by proportion of the workforce that had been furloughed (ranges) and trading status, for responding businesses that have not permanently stopped trading, UK, 18 May to 31 May 2020",
       "title": "Non UK staff",
-      "url": "/visualisations/dvc871/byproportionfurloughed/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc871/byproportionfurloughed/index.html",
+      "url_new": "/visualisations/dvc871/byproportionfurloughed/index.html"
     },
     {
       "type": "p",
@@ -207,7 +208,8 @@
       "h3": null,
       "h4": "One in five businesses that continued to trade did not furlough any employees",
       "h5": "Proportion of businesses, by proportion of the workforce that had been furloughed (ranges) and trading status, for responding businesses that have not permanently stopped trading, UK, 18 May to 31 May 2020",
-      "text": "[Download the data](/visualisations/dvc871/byproportionfurloughed/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc871/byproportionfurloughed/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc871/byproportionfurloughed/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -258,7 +260,8 @@
       "h4": "Rates of furloughing varied widely across industries, particularly for those businesses continuing to trade",
       "h5": "Proportion of the workforce that had been furloughed, by industry and trading status of the employing business, for responding businesses that have not permanently stopped trading, UK, 18 May to 31 May 2020",
       "title": "Non UK staff",
-      "url": "/visualisations/dvc871/byindustry/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc871/byindustry/index.html",
+      "url_new": "/visualisations/dvc871/byindustry/index.html"
     },
     {
       "type": "p",
@@ -266,7 +269,8 @@
       "h3": null,
       "h4": "Rates of furloughing varied widely across industries, particularly for those businesses continuing to trade",
       "h5": "Proportion of the workforce that had been furloughed, by industry and trading status of the employing business, for responding businesses that have not permanently stopped trading, UK, 18 May to 31 May 2020",
-      "text": "[Download the data](/visualisations/dvc871/byindustry/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc871/byindustry/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc871/byindustry/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -374,7 +378,8 @@
       "h4": "Explore the industries of workers using public transport in your area",
       "h5": "Percentage of workforce who take bus and rail to work by local authority of their workplace by industry",
       "title": "Interactive chart",
-      "url": "/visualisations/dvc867/1map_pubtrans/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc867/1map_pubtrans/index.html",
+      "url_new": "/visualisations/dvc867/1map_pubtrans/index.html"
     },
     {
       "type": "p",
@@ -382,7 +387,8 @@
       "h3": null,
       "h4": "Explore the industries of workers using public transport in your area",
       "h5": "Percentage of workforce who take bus and rail to work by local authority of their workplace by industry",
-      "text": "[Download the data](/visualisations/dvc867/1map_pubtrans/data/datadownload.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc867/1map_pubtrans/data/datadownload.csv)",
+      "text_new": "[Download the data](/visualisations/dvc867/1map_pubtrans/data/datadownload.csv)"
     },
     {
       "type": "p",
@@ -474,8 +480,9 @@
       "chartbuilder_h3": "The number of deaths due to COVID-19 decreased throughout May 2020",
       "chartbuilder_h4": "Provisional number of deaths due to COVID-19, England and Wales, all deaths occurring in 2020 and five-year average per day between March and May",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup22to26june2020/2020-06-26/83cfd9b6",
-      "src": "/_scraped_chartbuilder_imgs/83cfd9b6.png",
-      "local_filename": "83cfd9b6.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup22to26june2020/2020-06-26/83cfd9b6&width=&hideSource=true",
+      "local_filename": "83cfd9b6.png",
+      "src_new": "/_scraped_chartbuilder_imgs/83cfd9b6.png"
     },
     {
       "type": "p",
@@ -543,7 +550,8 @@
       "h4": "There is a positive correlation between occupations that allow homeworking and the average income of those employees",
       "h5": "Median equivalised household disposable income in the financial year ending 2019, and proportion of employees reporting having ever worked from home, by occupation group, January to December 2019",
       "title": "Interactive chart",
-      "url": "/visualisations/dvc861/fig3/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc861/fig3/index.html",
+      "url_new": "/visualisations/dvc861/fig3/index.html"
     },
     {
       "type": "heading",
@@ -636,8 +644,9 @@
       "chartbuilder_h3": "The most commonly reported impact by young people whose schools or universities had been affected was being unable to attend their schools, colleges or universities",
       "chartbuilder_h4": "Percentage of population aged 16 to 29 years worried about the effect of the coronavirus on schools or universities, by type of impact, Great Britain, 3 April to 10 May 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup22to26june2020/2020-06-26/69064e95",
-      "src": "/_scraped_chartbuilder_imgs/69064e95.png",
-      "local_filename": "69064e95.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup22to26june2020/2020-06-26/69064e95&width=&hideSource=true",
+      "local_filename": "69064e95.png",
+      "src_new": "/_scraped_chartbuilder_imgs/69064e95.png"
     },
     {
       "type": "p",
@@ -753,7 +762,8 @@
       "h4": "Older people were more likely than younger people to be coping by reading or gardening during lockdown",
       "h5": "Percentage of population aged 16 years and over reporting selected activities that helped them cope while staying at home, by age group, Great Britain, 3 April to 10 May 2020",
       "title": "Interactive chart",
-      "url": "/visualisations/dvc868/older-people/fig9/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc868/older-people/fig9/index.html",
+      "url_new": "/visualisations/dvc868/older-people/fig9/index.html"
     },
     {
       "type": "p",
@@ -761,7 +771,8 @@
       "h3": null,
       "h4": "Older people were more likely than younger people to be coping by reading or gardening during lockdown",
       "h5": "Percentage of population aged 16 years and over reporting selected activities that helped them cope while staying at home, by age group, Great Britain, 3 April to 10 May 2020",
-      "text": "[Download the data](/visualisations/dvc868/older-people/fig9/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc868/older-people/fig9/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc868/older-people/fig9/datadownload.xlsx)"
     },
     {
       "type": "p",

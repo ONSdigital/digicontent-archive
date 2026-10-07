@@ -169,7 +169,8 @@
       "h4": "Over two-thirds of working adults are travelling to work",
       "h5": "Percentage of working adults, Great Britain, January to November 2021",
       "title": "OPN fig 4",
-      "url": "/visualisations/dvc1685/fig4/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1685/fig4/index.html",
+      "url_new": "/visualisations/dvc1685/fig4/index.html"
     },
     {
       "type": "p",
@@ -177,7 +178,8 @@
       "h3": null,
       "h4": "Over two-thirds of working adults are travelling to work",
       "h5": "Percentage of working adults, Great Britain, January to November 2021",
-      "text": "[Download the data](/visualisations/dvc1685/fig4/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1685/fig4/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1685/fig4/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -373,7 +375,8 @@
       "h4": null,
       "h5": null,
       "title": "Glossary",
-      "url": "/visualisations/covidgloss/covid_gloss/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/covidgloss/covid_gloss/index.html",
+      "url_new": "/visualisations/covidgloss/covid_gloss/index.html"
     },
     {
       "type": "box",

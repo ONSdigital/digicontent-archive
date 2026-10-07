@@ -67,7 +67,8 @@
       "h4": null,
       "h5": null,
       "title": "How well do you know migration?",
-      "url": "/visualisations/dvc430/quiz/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc430/quiz/index.html",
+      "url_new": "/visualisations/dvc430/quiz/index.html"
     },
     {
       "type": "p",
@@ -75,7 +76,7 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2017/08/quizdata.csv)."
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2017/08/quizdata.csv)."
     },
     {
       "type": "heading",
@@ -117,7 +118,8 @@
       "h4": null,
       "h5": null,
       "title": "Maps",
-      "url": "/visualisations/dvc430/map/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc430/map/index.html",
+      "url_new": "/visualisations/dvc430/map/index.html"
     },
     {
       "type": "p",
@@ -125,7 +127,7 @@
       "h3": "How much does the non-British population vary across the UK?",
       "h4": null,
       "h5": null,
-      "text": "Source: [Office for National Statistics (ONS)](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/populationbycountryofbirthandnationalityreport/previousReleases) [Download the data](/visualisations//visual/2017/08/mapdata.csv)."
+      "text": "Source: [Office for National Statistics (ONS)](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/populationbycountryofbirthandnationalityreport/previousReleases) [Download the data](https://static.ons.gov.uk/visual/2017/08/mapdata.csv)."
     },
     {
       "type": "heading",
@@ -151,7 +153,8 @@
       "h4": null,
       "h5": null,
       "title": "Local Area Migration Indicators",
-      "url": "/visualisations/dvc430/barcode/barcodeGrouped/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc430/barcode/barcodeGrouped/index.html",
+      "url_new": "/visualisations/dvc430/barcode/barcodeGrouped/index.html"
     },
     {
       "type": "p",
@@ -159,7 +162,7 @@
       "h3": "How does your local area compare with the rest of the UK in terms of indicators of migration1?",
       "h4": null,
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2017/08/barcodedata-1.xlsx)."
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2017/08/barcodedata-1.xlsx)."
     },
     {
       "type": "heading",

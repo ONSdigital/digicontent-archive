@@ -145,7 +145,8 @@
       "h4": "Life satisfaction and anxiety improved in summer 2021, compared with the same period in 2020",
       "h5": "Average personal well-being ratings, UK, years ending March 2012 to September 2021",
       "title": "wellbeing qua",
-      "url": "/visualisations/dvc1891/wellbeing/wrapper/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1891/wellbeing/wrapper/index.html",
+      "url_new": "/visualisations/dvc1891/wellbeing/wrapper/index.html"
     },
     {
       "type": "p",
@@ -153,7 +154,8 @@
       "h3": null,
       "h4": "Life satisfaction and anxiety improved in summer 2021, compared with the same period in 2020",
       "h5": "Average personal well-being ratings, UK, years ending March 2012 to September 2021",
-      "text": "[Download the data](/visualisations/dvc1891/wellbeing/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1891/wellbeing/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1891/wellbeing/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -220,7 +222,8 @@
       "h4": "Females experienced lower life satisfaction and happiness during the coronavirus pandemic",
       "h5": "Average (mean) ratings and confidence intervals of personal well-being in the UK by sex, January 2019 to September 2021",
       "title": "wellbeing qua",
-      "url": "/visualisations/dvc1891/wellbeingsex/wrapper/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1891/wellbeingsex/wrapper/index.html",
+      "url_new": "/visualisations/dvc1891/wellbeingsex/wrapper/index.html"
     },
     {
       "type": "p",
@@ -228,7 +231,8 @@
       "h3": null,
       "h4": "Females experienced lower life satisfaction and happiness during the coronavirus pandemic",
       "h5": "Average (mean) ratings and confidence intervals of personal well-being in the UK by sex, January 2019 to September 2021",
-      "text": "[Download the data](/visualisations/dvc1891/wellbeingsex/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1891/wellbeingsex/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1891/wellbeingsex/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -296,8 +300,9 @@
       "chartbuilder_h3": "Primary school pupils who experienced long COVID were more likely to have a probable mental disorder",
       "chartbuilder_h4": "England, December 2021",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19latestinsights/wellbeing/15224b2b",
-      "src": "/_scraped_chartbuilder_imgs/15224b2b.png",
-      "local_filename": "15224b2b.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19latestinsights/wellbeing/15224b2b&width=&hideSource=true",
+      "local_filename": "15224b2b.png",
+      "src_new": "/_scraped_chartbuilder_imgs/15224b2b.png"
     },
     {
       "type": "p",
@@ -437,7 +442,8 @@
       "h4": "One in six adults experienced some form of depression in summer 2021, compared with one in five in early 2021",
       "h5": "Percentage of adults with moderate to severe depressive symptoms, Great Britain, July 2019 to August 2021",
       "title": "covid depression f1",
-      "url": "/visualisations/dvc1597/fig1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1597/fig1/index.html",
+      "url_new": "/visualisations/dvc1597/fig1/index.html"
     },
     {
       "type": "p",
@@ -445,7 +451,8 @@
       "h3": null,
       "h4": "One in six adults experienced some form of depression in summer 2021, compared with one in five in early 2021",
       "h5": "Percentage of adults with moderate to severe depressive symptoms, Great Britain, July 2019 to August 2021",
-      "text": "[Download the data](/visualisations/dvc1597/fig1/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1597/fig1/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1597/fig1/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -512,7 +519,8 @@
       "h4": "In summer 2021, rates of some form of depression declined across most population groups but remained higher than pre-pandemic levels",
       "h5": "Percentage of adults with moderate to severe depressive symptoms, Great Britain, July 2019 to August 2021",
       "title": "covid depression f1",
-      "url": "/visualisations/dvc1597/wrapper/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1597/wrapper/index.html",
+      "url_new": "/visualisations/dvc1597/wrapper/index.html"
     },
     {
       "type": "p",
@@ -520,7 +528,8 @@
       "h3": null,
       "h4": "In summer 2021, rates of some form of depression declined across most population groups but remained higher than pre-pandemic levels",
       "h5": "Percentage of adults with moderate to severe depressive symptoms, Great Britain, July 2019 to August 2021",
-      "text": "[Download the data](/visualisations/dvc1597/wrapper/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1597/wrapper/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1597/wrapper/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -571,8 +580,9 @@
       "chartbuilder_h3": "Impact on well-being and lack of freedom and independence remain the ways life is most affected by the pandemic for adults experiencing some form of depression",
       "chartbuilder_h4": "Adults with moderate to severe depressive symptoms, Great Britain, January to August 2021",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19latestinsights/wellbeing/2f4ffea8",
-      "src": "/_scraped_chartbuilder_imgs/2f4ffea8.png",
-      "local_filename": "2f4ffea8.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19latestinsights/wellbeing/2f4ffea8&width=&hideSource=true",
+      "local_filename": "2f4ffea8.png",
+      "src_new": "/_scraped_chartbuilder_imgs/2f4ffea8.png"
     },
     {
       "type": "p",
@@ -654,7 +664,8 @@
       "h4": null,
       "h5": null,
       "title": "Glossary",
-      "url": "/visualisations/covidgloss/covid_gloss/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/covidgloss/covid_gloss/index.html",
+      "url_new": "/visualisations/covidgloss/covid_gloss/index.html"
     },
     {
       "type": "box",

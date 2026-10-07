@@ -87,7 +87,8 @@
       "h3": "Who works on a Sunday?",
       "h4": null,
       "h5": null,
-      "text": "[](/visualisations//visual/2016/03/sunday-trading-02.png)"
+      "text": "[](https://static.ons.gov.uk/visual/2016/03/sunday-trading-02.png)",
+      "text_new": "[](/visual/2016/03/sunday-trading-02.png)"
     },
     {
       "type": "image",
@@ -95,8 +96,9 @@
       "h3": "Who works on a Sunday?",
       "h4": null,
       "h5": null,
-      "src": "/visualisations//visual/2016/03/sunday-trading-02.png",
-      "alt": null
+      "src": "https://static.ons.gov.uk/visual/2016/03/sunday-trading-02.png",
+      "alt": null,
+      "src_new": "/visual/2016/03/sunday-trading-02.png"
     },
     {
       "type": "p",
@@ -136,7 +138,8 @@
       "h3": "Who works on a Sunday?",
       "h4": null,
       "h5": null,
-      "text": "[](/visualisations//visual/2016/03/sunday-trading-011.png)"
+      "text": "[](https://static.ons.gov.uk/visual/2016/03/sunday-trading-011.png)",
+      "text_new": "[](/visual/2016/03/sunday-trading-011.png)"
     },
     {
       "type": "image",
@@ -144,8 +147,9 @@
       "h3": "Who works on a Sunday?",
       "h4": null,
       "h5": null,
-      "src": "/visualisations//visual/2016/03/sunday-trading-011.png",
-      "alt": null
+      "src": "https://static.ons.gov.uk/visual/2016/03/sunday-trading-011.png",
+      "alt": null,
+      "src_new": "/visual/2016/03/sunday-trading-011.png"
     },
     {
       "type": "p",
@@ -202,7 +206,7 @@
       "h3": "Competition from online shopping",
       "h4": null,
       "h5": null,
-      "text": "[ONS figures](/visualisations/20160105160709/http://www.ons.gov.uk/ons/rel/rdit2/e-commerce-and-internet-use/5-facts-relating-to-web-sales/sty-5-facts.html) shine a spotlight on the extent of the movement to online shopping; 77% of men and 75% of women now shop online, 2015 figures show. This is up from 57% for men and 49% for women in 2008.4"
+      "text": "[ONS figures](http://webarchive.nationalarchives.gov.uk/20160105160709/http://www.ons.gov.uk/ons/rel/rdit2/e-commerce-and-internet-use/5-facts-relating-to-web-sales/sty-5-facts.html) shine a spotlight on the extent of the movement to online shopping; 77% of men and 75% of women now shop online, 2015 figures show. This is up from 57% for men and 49% for women in 2008.4"
     },
     {
       "type": "heading",

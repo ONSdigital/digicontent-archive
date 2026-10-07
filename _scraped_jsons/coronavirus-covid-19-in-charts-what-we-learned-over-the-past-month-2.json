@@ -93,7 +93,8 @@
       "h4": null,
       "h5": "Percentage on-site attendance at state schools, UK, August 2020 to January 2021",
       "title": "Chart showing attendance at schools in each nation of the UK in the autumn term of 2020 and January 2021",
-      "url": "/visualisations/dvc1135/schools/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1135/schools/index.html",
+      "url_new": "/visualisations/dvc1135/schools/index.html"
     },
     {
       "type": "heading",
@@ -166,7 +167,8 @@
       "h3": null,
       "h4": null,
       "h5": "Notes:",
-      "text": "[Data download](/visualisations/dvc1135/schools/datadownload.xlsx)"
+      "text": "[Data download](https://www.ons.gov.uk/visualisations/dvc1135/schools/datadownload.xlsx)",
+      "text_new": "[Data download](/visualisations/dvc1135/schools/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -249,7 +251,8 @@
       "h4": null,
       "h5": "Percentage of adults who have either stayed at home or only left for work, exercise, essential shopping or medical needs in the previous seven days, Great Britain, May 2020 to January 2021",
       "title": "Chart showing percentage of adults staying at home by week between May 2020 and January 2021",
-      "url": "/visualisations/dvc1135/stay_at_home/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1135/stay_at_home/index.html",
+      "url_new": "/visualisations/dvc1135/stay_at_home/index.html"
     },
     {
       "type": "heading",
@@ -282,7 +285,8 @@
       "h3": null,
       "h4": null,
       "h5": "Notes:",
-      "text": "[Data download](/visualisations/dvc1135/stay_at_home/datadownload.xlsx)"
+      "text": "[Data download](https://www.ons.gov.uk/visualisations/dvc1135/stay_at_home/datadownload.xlsx)",
+      "text_new": "[Data download](/visualisations/dvc1135/stay_at_home/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -342,8 +346,9 @@
       "chartbuilder_h3": "Great Britain, December 2020 to January 2021",
       "chartbuilder_h4": "Source: Office for National Statistics - Opinions and Lifestyle Survey",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19inchartswhatwelearnedoverthepastmonth/2021-01-29/df0c7c95",
-      "src": "/_scraped_chartbuilder_imgs/df0c7c95.png",
-      "local_filename": "df0c7c95.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19inchartswhatwelearnedoverthepastmonth/2021-01-29/df0c7c95&width=&hideSource=true",
+      "local_filename": "df0c7c95.png",
+      "src_new": "/_scraped_chartbuilder_imgs/df0c7c95.png"
     },
     {
       "type": "p",
@@ -426,7 +431,8 @@
       "h4": null,
       "h5": "The number of positive test cases for students attending the University of Exeter, by test date between 2 September 2020 and 16 November 2020",
       "title": "Chart showing infection rates at the University of Exeter ",
-      "url": "/visualisations/dvc1135/universities/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1135/universities/index.html",
+      "url_new": "/visualisations/dvc1135/universities/index.html"
     },
     {
       "type": "heading",
@@ -467,7 +473,8 @@
       "h3": null,
       "h4": null,
       "h5": "Notes:",
-      "text": "[Data download](/visualisations/dvc1135/universities/datadownload.xlsx)"
+      "text": "[Data download](https://www.ons.gov.uk/visualisations/dvc1135/universities/datadownload.xlsx)",
+      "text_new": "[Data download](/visualisations/dvc1135/universities/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -518,7 +525,8 @@
       "h4": null,
       "h5": "Number of prison and youth custody service users with positive tests for coronavirus, England and Wales, monthly from 1 March 2020 to 31 December 2020",
       "title": "Chart showing monthly positive tests in prisons in England and Wales",
-      "url": "/visualisations/dvc1135/prisons/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1135/prisons/index.html",
+      "url_new": "/visualisations/dvc1135/prisons/index.html"
     },
     {
       "type": "heading",
@@ -559,7 +567,8 @@
       "h3": null,
       "h4": null,
       "h5": "Notes:",
-      "text": "[Data download](/visualisations/dvc1135/prisons/datadownload.xlsx)"
+      "text": "[Data download](https://www.ons.gov.uk/visualisations/dvc1135/prisons/datadownload.xlsx)",
+      "text_new": "[Data download](/visualisations/dvc1135/prisons/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -627,8 +636,9 @@
       "chartbuilder_h3": "Volume sales, seasonally adjusted, Great Britain, 2020 compared with 2019",
       "chartbuilder_h4": "Source: Office for National Statistics – Monthly Business Survey – Retail Sales Inquiry",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19inchartswhatwelearnedoverthepastmonth/2021-01-29/6941d0a0",
-      "src": "/_scraped_chartbuilder_imgs/6941d0a0.png",
-      "local_filename": "6941d0a0.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19inchartswhatwelearnedoverthepastmonth/2021-01-29/6941d0a0&width=&hideSource=true",
+      "local_filename": "6941d0a0.png",
+      "src_new": "/_scraped_chartbuilder_imgs/6941d0a0.png"
     },
     {
       "type": "p",

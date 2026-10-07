@@ -120,7 +120,8 @@
       "h4": null,
       "h5": null,
       "title": "Work from home interactive",
-      "url": "/visualisations/dvc99999/covid-emissions-gh-pages/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc99999/covid-emissions-gh-pages/index.html",
+      "url_new": "/visualisations/dvc99999/covid-emissions-gh-pages/index.html"
     },
     {
       "type": "heading",
@@ -172,8 +173,9 @@
       "chartbuilder_h3": "Households have been emitting more greenhouse gas than the energy sector since 2015",
       "chartbuilder_h4": "Total greenhouse gas emissions by industry section and group, 1990 to 2019 and (provisional) 2020; Mass of air emissions per annum in thousand tonnes of carbon dioxide equivalent",
       "data_uri": "https://www.ons.gov.uk/economy/environmentalaccounts/articles/covid19restrictionscuthouseholdemissions/2021-09-21/79615803",
-      "src": "/_scraped_chartbuilder_imgs/79615803.png",
-      "local_filename": "79615803.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/environmentalaccounts/articles/covid19restrictionscuthouseholdemissions/2021-09-21/79615803&width=&hideSource=true",
+      "local_filename": "79615803.png",
+      "src_new": "/_scraped_chartbuilder_imgs/79615803.png"
     },
     {
       "type": "p",
@@ -216,8 +218,9 @@
       "chartbuilder_h3": "Personal transport emissions dropped to lowest level since 1995",
       "chartbuilder_h4": "Mass of household subcategory air emissions per annum in thousand tonnes of carbon dioxide equivalent",
       "data_uri": "https://www.ons.gov.uk/economy/environmentalaccounts/articles/covid19restrictionscuthouseholdemissions/2021-09-21/a1f50098",
-      "src": "/_scraped_chartbuilder_imgs/a1f50098.png",
-      "local_filename": "a1f50098.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/environmentalaccounts/articles/covid19restrictionscuthouseholdemissions/2021-09-21/a1f50098&width=&hideSource=true",
+      "local_filename": "a1f50098.png",
+      "src_new": "/_scraped_chartbuilder_imgs/a1f50098.png"
     },
     {
       "type": "p",

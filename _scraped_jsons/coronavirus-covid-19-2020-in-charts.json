@@ -93,7 +93,8 @@
       "h4": null,
       "h5": "Death registrations in England and Wales compared with the five-year average (2015 to 2019), by whether or not COVID-19 was mentioned on the death certificate",
       "title": "Chart shows weekly deaths registered involving COVID-19, other causes and the five-year average",
-      "url": "/visualisations/dvc1092/deaths/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1092/deaths/index.html",
+      "url_new": "/visualisations/dvc1092/deaths/index.html"
     },
     {
       "type": "heading",
@@ -217,7 +218,8 @@
       "h4": null,
       "h5": "Transport use by mode, as percentage of an equivalent day or week before the first national lockdown, Great Britain, March to December 2020",
       "title": "Chart showing how use of different modes of transportation changed since the lockdown in Great Britain",
-      "url": "/visualisations/dvc1092/transport/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1092/transport/index.html",
+      "url_new": "/visualisations/dvc1092/transport/index.html"
     },
     {
       "type": "heading",
@@ -341,7 +343,8 @@
       "h4": "Weekly air passenger arrivals, UK, 6 January to 25 October 2020, compared with equivalent week in 2019",
       "h5": null,
       "title": "Chart showing arrivals in the UK by air each between January and October in 2020, compared with 2019",
-      "url": "/visualisations/dvc1092/air_travel/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1092/air_travel/index.html",
+      "url_new": "/visualisations/dvc1092/air_travel/index.html"
     },
     {
       "type": "heading",
@@ -409,7 +412,8 @@
       "h4": "Proportion of businesses’ workforce on partial or full furlough leave by industry, UK, 23 March to 29 November 2020",
       "h5": null,
       "title": "Interactive chart showing the proportion of workers on furlough leave by industry since March 2020",
-      "url": "/visualisations/dvc1092/furlough_time_series/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1092/furlough_time_series/index.html",
+      "url_new": "/visualisations/dvc1092/furlough_time_series/index.html"
     },
     {
       "type": "heading",
@@ -510,8 +514,9 @@
       "chartbuilder_h3": "Monthly UK trade, excluding precious metals, (£ billion), seasonally adjusted, January 2019 to October 2020",
       "chartbuilder_h4": "Source: Office for National Statistics - UK trade",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid192020incharts/2020-12-18/ef592f4d",
-      "src": "/_scraped_chartbuilder_imgs/ef592f4d.png",
-      "local_filename": "ef592f4d.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid192020incharts/2020-12-18/ef592f4d&width=&hideSource=true",
+      "local_filename": "ef592f4d.png",
+      "src_new": "/_scraped_chartbuilder_imgs/ef592f4d.png"
     },
     {
       "type": "p",
@@ -570,7 +575,8 @@
       "h4": "Attendance at state-funded schools during the first lockdown and since the summer holidays, England, March to December 2020",
       "h5": null,
       "title": "Line chart showing percentage of children in England attending school each day before and after the 2020 summer holidays",
-      "url": "/visualisations/dvc1092/education/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1092/education/index.html",
+      "url_new": "/visualisations/dvc1092/education/index.html"
     },
     {
       "type": "heading",
@@ -702,7 +708,8 @@
       "h4": "Average well-being scores, scale of 0-10, Great Britain, 20 March to 13 December 2020",
       "h5": null,
       "title": "Chart showing how people rated themselves on a scale of 0-10 for anxiety, life satisfaction, happiness and how worthwhile they considered what they did in life",
-      "url": "/visualisations/dvc1092/wellbeing/wrapper/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1092/wellbeing/wrapper/index.html",
+      "url_new": "/visualisations/dvc1092/wellbeing/wrapper/index.html"
     },
     {
       "type": "heading",
@@ -802,7 +809,8 @@
       "h4": "Percentage of adults who believe life will return to normal in six months or less or more than a year, Great Britain, March to December 2020",
       "h5": null,
       "title": "Chart showing the changes in the proportion of adults reporting they thought normal life was either less than six months or more than a year away",
-      "url": "/visualisations/dvc1092/return_to_normal/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1092/return_to_normal/index.html",
+      "url_new": "/visualisations/dvc1092/return_to_normal/index.html"
     },
     {
       "type": "heading",

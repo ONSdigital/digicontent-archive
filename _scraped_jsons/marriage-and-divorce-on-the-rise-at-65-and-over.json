@@ -101,7 +101,8 @@
       "h4": "Marriage rates for people aged 65 and over (opposite-sex couples), by sex, England and Wales, 2004 to 2014",
       "h5": null,
       "title": "Marriage rates for people aged 65 and over (opposite-sex couples), by sex, England and Wales, 2004 to 2014",
-      "url": "/visualisations/dvc420/chart1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc420/chart1/index.html",
+      "url_new": "/visualisations/dvc420/chart1/index.html"
     },
     {
       "type": "p",
@@ -168,7 +169,8 @@
       "h4": "Percentage of people forming civil partnerships who were aged 65 and over, by sex, England and Wales, 2005 to 2015",
       "h5": null,
       "title": "Percentage of people forming civil partnerships who were aged 65 and over, by sex, England and Wales, 2005 to 2015",
-      "url": "/visualisations/dvc420/chart2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc420/chart2/index.html",
+      "url_new": "/visualisations/dvc420/chart2/index.html"
     },
     {
       "type": "heading",
@@ -227,7 +229,8 @@
       "h4": "Divorce rates for opposite-sex couples aged 65 and over, by sex, England and Wales, 2005 to 20151",
       "h5": null,
       "title": "Divorce rates for opposite-sex couples aged 65 and over, by sex, England and Wales, 2005 to 2015<sup>1<\/sup>",
-      "url": "/visualisations/dvc420/chart3/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc420/chart3/index.html",
+      "url_new": "/visualisations/dvc420/chart3/index.html"
     },
     {
       "type": "heading",
@@ -303,7 +306,8 @@
       "h4": "Period life expectancy at age 65, by sex, England and Wales, 2004 to 20172",
       "h5": null,
       "title": "Period life expectancy at age 65, by sex, England and Wales, 2004 to 2017<sup>2<\/sup>",
-      "url": "/visualisations/dvc420/chart4/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc420/chart4/index.html",
+      "url_new": "/visualisations/dvc420/chart4/index.html"
     },
     {
       "type": "p",
@@ -362,7 +366,8 @@
       "h4": "Households with a household representative3 aged 65 and over, England, 1991 to 2039",
       "h5": null,
       "title": "Households with a household representative<sup>3<\/sup> aged 65 and over, England, 1991 to 2039",
-      "url": "/visualisations/dvc420/chart5/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc420/chart5/index.html",
+      "url_new": "/visualisations/dvc420/chart5/index.html"
     },
     {
       "type": "p",
@@ -370,7 +375,7 @@
       "h3": "What does this mean for our society?",
       "h4": "Households with a household representative3 aged 65 and over, England, 1991 to 2039",
       "h5": null,
-      "text": "It is possible that older people marrying and divorcing in greater numbers will have an effect on how happy we are: those who are married, remarried or in a civil partnership are [least likely to say that they feel lonely](/visualisations/20160105231923/http://www.ons.gov.uk/ons/rel/wellbeing/measuring-national-well-being/older-people-and-loneliness/index.html). People living with a partner may find themselves spending some of their later years providing [unpaid social care](/visualisations/20170726163612/https://visual.ons.gov.uk/?p=12403) for their loved one."
+      "text": "It is possible that older people marrying and divorcing in greater numbers will have an effect on how happy we are: those who are married, remarried or in a civil partnership are [least likely to say that they feel lonely](http://webarchive.nationalarchives.gov.uk/20160105231923/http://www.ons.gov.uk/ons/rel/wellbeing/measuring-national-well-being/older-people-and-loneliness/index.html). People living with a partner may find themselves spending some of their later years providing [unpaid social care](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/?p=12403) for their loved one."
     },
     {
       "type": "heading",

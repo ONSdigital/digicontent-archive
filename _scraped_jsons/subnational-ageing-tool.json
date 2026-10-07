@@ -59,7 +59,8 @@
       "h4": null,
       "h5": null,
       "title": "Subnational ageing tool",
-      "url": "/visualisations/dvc680/ageing_tool11/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc680/ageing_tool11/index.html",
+      "url_new": "/visualisations/dvc680/ageing_tool11/index.html"
     },
     {
       "type": "p",
@@ -115,8 +116,9 @@
       "h5": null,
       "box_h2": null,
       "box_h3": "Data used in this release",
-      "box_text": "\n\nThese links allow you to download all data used in the tool. While the tool relates to all persons (except for life expectancy), the underlying data allow you to specify either all persons or males or females.\n\n[Local authority ageing statistics, based on annual mid-year population estimates](https://www.ons.gov.uk/datasets/ageing-population-estimates)\n\n[Local authority ageing statistics, older people economic activity](https://www.ons.gov.uk/datasets/older-people-economic-activity)\n\n[Local authority ageing statistics, sex ratios for people aged 65 and over and 85 and over](https://www.ons.gov.uk/datasets/older-people-sex-ratios)\n\n[Local authority ageing statistics, population projections for older people](https://www.ons.gov.uk/datasets/ageing-population-projections)\n\n[Local authority ageing statistics, household projections for older people](https://www.ons.gov.uk/datasets/projections-older-people-in-single-households)\n\n[Life expectancy by local authority](https://www.ons.gov.uk/datasets/life-expectancy-by-local-authority)\n\nFor detail on the geographies and years covered by these data [download this spreadsheet](/visualisations/dvc680/areas.xlsx).\n\n",
-      "box_items": null
+      "box_text": "\n\nThese links allow you to download all data used in the tool. While the tool relates to all persons (except for life expectancy), the underlying data allow you to specify either all persons or males or females.\n\n[Local authority ageing statistics, based on annual mid-year population estimates](https://www.ons.gov.uk/datasets/ageing-population-estimates)\n\n[Local authority ageing statistics, older people economic activity](https://www.ons.gov.uk/datasets/older-people-economic-activity)\n\n[Local authority ageing statistics, sex ratios for people aged 65 and over and 85 and over](https://www.ons.gov.uk/datasets/older-people-sex-ratios)\n\n[Local authority ageing statistics, population projections for older people](https://www.ons.gov.uk/datasets/ageing-population-projections)\n\n[Local authority ageing statistics, household projections for older people](https://www.ons.gov.uk/datasets/projections-older-people-in-single-households)\n\n[Life expectancy by local authority](https://www.ons.gov.uk/datasets/life-expectancy-by-local-authority)\n\nFor detail on the geographies and years covered by these data [download this spreadsheet](https://www.ons.gov.uk/visualisations/dvc680/areas.xlsx).\n\n",
+      "box_items": null,
+      "box_text_new": "\n\nThese links allow you to download all data used in the tool. While the tool relates to all persons (except for life expectancy), the underlying data allow you to specify either all persons or males or females.\n\n[Local authority ageing statistics, based on annual mid-year population estimates](https://www.ons.gov.uk/datasets/ageing-population-estimates)\n\n[Local authority ageing statistics, older people economic activity](https://www.ons.gov.uk/datasets/older-people-economic-activity)\n\n[Local authority ageing statistics, sex ratios for people aged 65 and over and 85 and over](https://www.ons.gov.uk/datasets/older-people-sex-ratios)\n\n[Local authority ageing statistics, population projections for older people](https://www.ons.gov.uk/datasets/ageing-population-projections)\n\n[Local authority ageing statistics, household projections for older people](https://www.ons.gov.uk/datasets/projections-older-people-in-single-households)\n\n[Life expectancy by local authority](https://www.ons.gov.uk/datasets/life-expectancy-by-local-authority)\n\nFor detail on the geographies and years covered by these data [download this spreadsheet](/visualisations/dvc680/areas.xlsx).\n\n"
     },
     {
       "type": "box",

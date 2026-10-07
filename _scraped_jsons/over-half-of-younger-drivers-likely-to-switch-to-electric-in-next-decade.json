@@ -97,8 +97,9 @@
       "chartbuilder_h3": "The majority of drivers aged between 16 and 49 are likely to switch to an all-electric vehicle in the next decade",
       "chartbuilder_h4": "How likely or unlikely are you to switch to an all electric vehicle in the next 10 years? Petrol, diesel or hybrid vehicle owners, Great Britain, September 22 to October 3",
       "data_uri": "https://www.ons.gov.uk/economy/environmentalaccounts/articles/overhalfofyoungerdriverslikelytoswitchtoelectricinnextdecade/2021-10-25/8f06f413",
-      "src": "/_scraped_chartbuilder_imgs/8f06f413.png",
-      "local_filename": "8f06f413.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/environmentalaccounts/articles/overhalfofyoungerdriverslikelytoswitchtoelectricinnextdecade/2021-10-25/8f06f413&width=&hideSource=true",
+      "local_filename": "8f06f413.png",
+      "src_new": "/_scraped_chartbuilder_imgs/8f06f413.png"
     },
     {
       "type": "p",
@@ -166,8 +167,9 @@
       "chartbuilder_h3": "The majority of vehicles on UK roads are powered by fossil fuels",
       "chartbuilder_h4": "Licensed vehicles by propulsion and fuel type, UK, 1994 to 2020",
       "data_uri": "https://www.ons.gov.uk/economy/environmentalaccounts/articles/overhalfofyoungerdriverslikelytoswitchtoelectricinnextdecade/2021-10-25/4377073a",
-      "src": "/_scraped_chartbuilder_imgs/4377073a.png",
-      "local_filename": "4377073a.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/environmentalaccounts/articles/overhalfofyoungerdriverslikelytoswitchtoelectricinnextdecade/2021-10-25/4377073a&width=&hideSource=true",
+      "local_filename": "4377073a.png",
+      "src_new": "/_scraped_chartbuilder_imgs/4377073a.png"
     },
     {
       "type": "p",
@@ -259,7 +261,8 @@
       "h4": "Plug-in vehicle ownership is more common in areas with more disposable income",
       "h5": "Privately licensed plug-in vehicles per 100 households (2020), by gross disposable household income per head (2019), UK",
       "title": "plug in scatter",
-      "url": "/visualisations/dvc1621/scatter/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1621/scatter/index.html",
+      "url_new": "/visualisations/dvc1621/scatter/index.html"
     },
     {
       "type": "p",
@@ -267,7 +270,8 @@
       "h3": null,
       "h4": "Plug-in vehicle ownership is more common in areas with more disposable income",
       "h5": "Privately licensed plug-in vehicles per 100 households (2020), by gross disposable household income per head (2019), UK",
-      "text": "[Data for plug-in vehicle ownership and gross disposable household income per head by local authority (XLSX, 27KB)](/visualisations/dvc1621/scatter/datadownload.xlsx)"
+      "text": "[Data for plug-in vehicle ownership and gross disposable household income per head by local authority (XLSX, 27KB)](https://www.ons.gov.uk/visualisations/dvc1621/scatter/datadownload.xlsx)",
+      "text_new": "[Data for plug-in vehicle ownership and gross disposable household income per head by local authority (XLSX, 27KB)](/visualisations/dvc1621/scatter/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -334,8 +338,9 @@
       "chartbuilder_h3": "Cost was the reason most commonly cited among drivers who were unlikely to switch to all-electric vehicles",
       "chartbuilder_h4": "Reasons for not switching, petrol, diesel or hybrid drivers who were unlikely to switch to all-electric vehicles in the next decade, Great Britain, September 22 to October 3",
       "data_uri": "https://www.ons.gov.uk/economy/environmentalaccounts/articles/overhalfofyoungerdriverslikelytoswitchtoelectricinnextdecade/2021-10-25/5c4285e7",
-      "src": "/_scraped_chartbuilder_imgs/5c4285e7.png",
-      "local_filename": "5c4285e7.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/environmentalaccounts/articles/overhalfofyoungerdriverslikelytoswitchtoelectricinnextdecade/2021-10-25/5c4285e7&width=&hideSource=true",
+      "local_filename": "5c4285e7.png",
+      "src_new": "/_scraped_chartbuilder_imgs/5c4285e7.png"
     },
     {
       "type": "p",
@@ -402,8 +407,9 @@
       "chartbuilder_h3": "The upfront cost of electric vehicles is expected to reach parity with conventional vehicles in the next decade",
       "chartbuilder_h4": "Lifetime cost projections for new battery electric (BEV), plug-in hybrid (PHEV) and conventional fuel vehicles in 2030",
       "data_uri": "https://www.ons.gov.uk/economy/environmentalaccounts/articles/overhalfofyoungerdriverslikelytoswitchtoelectricinnextdecade/2021-10-25/9a9076f2",
-      "src": "/_scraped_chartbuilder_imgs/9a9076f2.png",
-      "local_filename": "9a9076f2.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/environmentalaccounts/articles/overhalfofyoungerdriverslikelytoswitchtoelectricinnextdecade/2021-10-25/9a9076f2&width=&hideSource=true",
+      "local_filename": "9a9076f2.png",
+      "src_new": "/_scraped_chartbuilder_imgs/9a9076f2.png"
     },
     {
       "type": "p",
@@ -535,7 +541,8 @@
       "h4": "Public rapid charging provision is highest in London, which lacks home charging",
       "h5": "Provision of public rapid charge points per 100km of motorway (October 2021) and home devices installed per 1,000 households (2013 to July 2021), UK",
       "title": "charging map",
-      "url": "/visualisations/dvc1621/map/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1621/map/index.html",
+      "url_new": "/visualisations/dvc1621/map/index.html"
     },
     {
       "type": "p",
@@ -543,7 +550,8 @@
       "h3": null,
       "h4": "Public rapid charging provision is highest in London, which lacks home charging",
       "h5": "Provision of public rapid charge points per 100km of motorway (October 2021) and home devices installed per 1,000 households (2013 to July 2021), UK",
-      "text": "[Download the data for public and home charging provision by local authority (XLSX, 29KB)](/visualisations/dvc1621/map/datadownload.xlsx)"
+      "text": "[Download the data for public and home charging provision by local authority (XLSX, 29KB)](https://www.ons.gov.uk/visualisations/dvc1621/map/datadownload.xlsx)",
+      "text_new": "[Download the data for public and home charging provision by local authority (XLSX, 29KB)](/visualisations/dvc1621/map/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -619,8 +627,9 @@
       "chartbuilder_h3": "The number of home charging devices installed has risen almost four-fold since 2015",
       "chartbuilder_h4": "Devices installed with grant funding from the Electric Vehicle Homecharge Scheme, monthly, UK",
       "data_uri": "https://www.ons.gov.uk/economy/environmentalaccounts/articles/overhalfofyoungerdriverslikelytoswitchtoelectricinnextdecade/2021-10-25/21119874",
-      "src": "/_scraped_chartbuilder_imgs/21119874.png",
-      "local_filename": "21119874.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/environmentalaccounts/articles/overhalfofyoungerdriverslikelytoswitchtoelectricinnextdecade/2021-10-25/21119874&width=&hideSource=true",
+      "local_filename": "21119874.png",
+      "src_new": "/_scraped_chartbuilder_imgs/21119874.png"
     },
     {
       "type": "p",
@@ -679,7 +688,8 @@
       "h4": "London has a much higher provision of public charge points than home devices",
       "h5": "Public charge points per 100km of road (October 2021) and home devices installed per 1,000 households (July 2021)",
       "title": "provision small multiple",
-      "url": "/visualisations/dvc1621/small_multiple/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1621/small_multiple/index.html",
+      "url_new": "/visualisations/dvc1621/small_multiple/index.html"
     },
     {
       "type": "p",
@@ -687,7 +697,8 @@
       "h3": null,
       "h4": "London has a much higher provision of public charge points than home devices",
       "h5": "Public charge points per 100km of road (October 2021) and home devices installed per 1,000 households (July 2021)",
-      "text": "[Data for public charge points and home charging devices, by region (XLSX, 10KB)](/visualisations/dvc1621/small_multiple/datadownload.xlsx)"
+      "text": "[Data for public charge points and home charging devices, by region (XLSX, 10KB)](https://www.ons.gov.uk/visualisations/dvc1621/small_multiple/datadownload.xlsx)",
+      "text_new": "[Data for public charge points and home charging devices, by region (XLSX, 10KB)](/visualisations/dvc1621/small_multiple/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -754,7 +765,8 @@
       "h4": "More than three quarters of public charge points in London are on-street",
       "h5": "Proportion of public electric car charge points, by speed and whether they have an on-street marker, UK, October 2021",
       "title": "horizontal bar",
-      "url": "/visualisations/dvc1621/stacked_bar/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1621/stacked_bar/index.html",
+      "url_new": "/visualisations/dvc1621/stacked_bar/index.html"
     },
     {
       "type": "p",
@@ -762,7 +774,8 @@
       "h3": null,
       "h4": "More than three quarters of public charge points in London are on-street",
       "h5": "Proportion of public electric car charge points, by speed and whether they have an on-street marker, UK, October 2021",
-      "text": "[Data for the proportion of public charge points by speed and whether they have an on-street marker (XLSX, 11KB)](/visualisations/dvc1621/stacked_bar/datadownload.xlsx)"
+      "text": "[Data for the proportion of public charge points by speed and whether they have an on-street marker (XLSX, 11KB)](https://www.ons.gov.uk/visualisations/dvc1621/stacked_bar/datadownload.xlsx)",
+      "text_new": "[Data for the proportion of public charge points by speed and whether they have an on-street marker (XLSX, 11KB)](/visualisations/dvc1621/stacked_bar/datadownload.xlsx)"
     },
     {
       "type": "p",

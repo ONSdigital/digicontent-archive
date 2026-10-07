@@ -123,7 +123,8 @@
       "h4": "Explore the data using our map, or read on to find out more about each city",
       "h5": null,
       "title": "Explore the data using our map, or read on to find out more about each city",
-      "url": "/visualisations/dvc562/urbanforestmap/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc562/urbanforestmap/index.html",
+      "url_new": "/visualisations/dvc562/urbanforestmap/index.html"
     },
     {
       "type": "p",
@@ -147,8 +148,9 @@
       "h3": null,
       "h4": "Explore the data using our map, or read on to find out more about each city",
       "h5": null,
-      "src": "/resource?uri=/economy/environmentalaccounts/articles/howgreenisyourstreet/2018-11-19/a0965908.png",
-      "alt": "This image shows the left and right section of Cathedral Road in Cardiff, with vegetation values"
+      "src": "https://www.ons.gov.uk/resource?uri=/economy/environmentalaccounts/articles/howgreenisyourstreet/2018-11-19/a0965908.png",
+      "alt": "This image shows the left and right section of Cathedral Road in Cardiff, with vegetation values",
+      "src_new": "/resource?uri=/economy/environmentalaccounts/articles/howgreenisyourstreet/2018-11-19/a0965908.png"
     },
     {
       "type": "heading",
@@ -215,7 +217,8 @@
       "h4": "Distribution of vegetation in Cardiff parishes",
       "h5": null,
       "title": "Distribution of vegetation in Cardiff parishes",
-      "url": "/visualisations/dvc562/urbanforesthisto/smallhistocardiff/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc562/urbanforesthisto/smallhistocardiff/index.html",
+      "url_new": "/visualisations/dvc562/urbanforesthisto/smallhistocardiff/index.html"
     },
     {
       "type": "p",
@@ -257,7 +260,8 @@
       "h4": "Distribution of vegetation in Newport parishes",
       "h5": null,
       "title": "Distribution of vegetation in Newport parishes",
-      "url": "/visualisations/dvc562/urbanforesthisto/smallhistonewport/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc562/urbanforesthisto/smallhistonewport/index.html",
+      "url_new": "/visualisations/dvc562/urbanforesthisto/smallhistonewport/index.html"
     },
     {
       "type": "heading",
@@ -283,7 +287,8 @@
       "h4": "Explore the levels of vegetation in your parish in Newport or Cardiff",
       "h5": null,
       "title": "Explore the levels of vegetation in your parish in Newport or Cardiff",
-      "url": "/visualisations/dvc562/urbanforesthisto/histogramselect/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc562/urbanforesthisto/histogramselect/index.html",
+      "url_new": "/visualisations/dvc562/urbanforesthisto/histogramselect/index.html"
     },
     {
       "type": "heading",

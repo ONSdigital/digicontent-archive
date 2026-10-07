@@ -125,7 +125,8 @@
       "h4": "Survival to age 70, England and Wales",
       "h5": null,
       "title": "Survival to age 70, England and Wales",
-      "url": "/visualisations/dvc480/1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc480/1/index.html",
+      "url_new": "/visualisations/dvc480/1/index.html"
     },
     {
       "type": "interactive",
@@ -134,7 +135,8 @@
       "h4": "Survival to age 70, England and Wales",
       "h5": null,
       "title": "Donut chart",
-      "url": "/visualisations/dvc480/2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc480/2/index.html",
+      "url_new": "/visualisations/dvc480/2/index.html"
     },
     {
       "type": "p",
@@ -234,7 +236,8 @@
       "h4": "Marital status among men aged 70 to 79, 1991 and 2016, England and Wales",
       "h5": null,
       "title": "Marital status among men aged 70 to 79, 1991 and 2016, England and Wales",
-      "url": "/visualisations/dvc480/men_marital/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc480/men_marital/index.html",
+      "url_new": "/visualisations/dvc480/men_marital/index.html"
     },
     {
       "type": "p",
@@ -242,7 +245,8 @@
       "h3": "Marriage is on the increase, but so is divorce",
       "h4": "Marital status among men aged 70 to 79, 1991 and 2016, England and Wales",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc480/men_marital/Marital-status.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc480/men_marital/Marital-status.csv)",
+      "text_new": "[Download the data](/visualisations/dvc480/men_marital/Marital-status.csv)"
     },
     {
       "type": "heading",
@@ -268,7 +272,8 @@
       "h4": "Marital status among women aged 70 to 79, 1991 and 2016, England and Wales",
       "h5": null,
       "title": "Marital status among women aged 70 to 79, 1991 and 2016, England and Wales",
-      "url": "/visualisations/dvc480/women_marital/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc480/women_marital/index.html",
+      "url_new": "/visualisations/dvc480/women_marital/index.html"
     },
     {
       "type": "p",
@@ -276,7 +281,8 @@
       "h3": "Marriage is on the increase, but so is divorce",
       "h4": "Marital status among women aged 70 to 79, 1991 and 2016, England and Wales",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc480/women_marital/Marital-status.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc480/women_marital/Marital-status.csv)",
+      "text_new": "[Download the data](/visualisations/dvc480/women_marital/Marital-status.csv)"
     },
     {
       "type": "heading",
@@ -319,7 +325,8 @@
       "h4": "Marriage rates among people aged 70 to 79 by previous marital status, 2015, England and Wales",
       "h5": null,
       "title": "Marriage rates among people aged 70 to 79 by previous marital status, 2015, England and Wales",
-      "url": "/visualisations/dvc480/marriages/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc480/marriages/index.html",
+      "url_new": "/visualisations/dvc480/marriages/index.html"
     },
     {
       "type": "p",
@@ -327,7 +334,8 @@
       "h3": "Marriage rates are highest for divorcees",
       "h4": "Marriage rates among people aged 70 to 79 by previous marital status, 2015, England and Wales",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc480/marriages/Marriage-rates.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc480/marriages/Marriage-rates.csv)",
+      "text_new": "[Download the data](/visualisations/dvc480/marriages/Marriage-rates.csv)"
     },
     {
       "type": "p",
@@ -418,7 +426,8 @@
       "h4": "Number of children to women aged 70, 1991 and 2016, England and Wales",
       "h5": null,
       "title": "Number of children to women aged 70, 1991 and 2016, England and Wales",
-      "url": "/visualisations/dvc480/children/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc480/children/index.html",
+      "url_new": "/visualisations/dvc480/children/index.html"
     },
     {
       "type": "p",
@@ -426,7 +435,8 @@
       "h3": "Fewer women are childless at age 70 today",
       "h4": "Number of children to women aged 70, 1991 and 2016, England and Wales",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc480/children/Completed-family-size.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc480/children/Completed-family-size.csv)",
+      "text_new": "[Download the data](/visualisations/dvc480/children/Completed-family-size.csv)"
     },
     {
       "type": "heading",
@@ -510,7 +520,8 @@
       "h4": "Current financial situation, ages 70 to 79, 1991 and 2016, UK",
       "h5": null,
       "title": "Current financial situation, ages 70 to 79, 1991 and 2016, UK",
-      "url": "/visualisations/dvc480/finance/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc480/finance/index.html",
+      "url_new": "/visualisations/dvc480/finance/index.html"
     },
     {
       "type": "p",
@@ -518,7 +529,8 @@
       "h3": "People in their 70s are better off than previously",
       "h4": "Current financial situation, ages 70 to 79, 1991 and 2016, UK",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc480/finance/Financial-situation.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc480/finance/Financial-situation.csv)",
+      "text_new": "[Download the data](/visualisations/dvc480/finance/Financial-situation.csv)"
     },
     {
       "type": "p",

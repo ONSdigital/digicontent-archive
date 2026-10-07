@@ -93,7 +93,8 @@
       "h4": "Number of pubs and bars, UK, 2001 to 2018",
       "h5": null,
       "title": "Number of pubs and bars, UK, 2001 to 2018",
-      "url": "/visualisations/dvc566/chart1/Line/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc566/chart1/Line/index.html",
+      "url_new": "/visualisations/dvc566/chart1/Line/index.html"
     },
     {
       "type": "p",
@@ -136,7 +137,8 @@
       "h4": "Turnover of pubs and bars, UK, 2001 to 2016",
       "h5": null,
       "title": "Turnover of pubs and bars, UK, 2001 to 2016",
-      "url": "/visualisations/dvc566/chart2/Line/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc566/chart2/Line/index.html",
+      "url_new": "/visualisations/dvc566/chart2/Line/index.html"
     },
     {
       "type": "p",
@@ -179,7 +181,8 @@
       "h4": "Employment in pubs and bars, by numbers of employees per pub, UK, 2001 to 2018",
       "h5": null,
       "title": "Employment in pubs and bars, by numbers of employees per pub, UK, 2001 to 2018",
-      "url": "/visualisations/dvc566/chart3/Stacked-Bar-Vertical/"
+      "url": "https://www.ons.gov.uk/visualisations/dvc566/chart3/Stacked-Bar-Vertical/",
+      "url_new": "/visualisations/dvc566/chart3/Stacked-Bar-Vertical/"
     },
     {
       "type": "p",
@@ -229,7 +232,8 @@
       "h4": null,
       "h5": null,
       "title": "What's happened to your local?",
-      "url": "/visualisations/dvc566/interactive/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc566/interactive/index.html",
+      "url_new": "/visualisations/dvc566/interactive/index.html"
     },
     {
       "type": "heading",
@@ -322,7 +326,8 @@
       "h4": "% change in number of pubs by local authority, UK, 2001 to 2018",
       "h5": null,
       "title": "% change in number of pubs by local authority, UK, 2001 to 2018",
-      "url": "/visualisations/dvc566/map/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc566/map/index.html",
+      "url_new": "/visualisations/dvc566/map/index.html"
     },
     {
       "type": "heading",
@@ -365,7 +370,8 @@
       "h4": "Independent pubs by employee numbers, UK, 2001 to 2018",
       "h5": null,
       "title": "Independent pubs by employee numbers, UK, 2001 to 2018",
-      "url": "/visualisations/dvc566/chart4/independant/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc566/chart4/independant/index.html",
+      "url_new": "/visualisations/dvc566/chart4/independant/index.html"
     },
     {
       "type": "p",
@@ -407,7 +413,8 @@
       "h4": "Pubs owned by enterprises with 250 or more units, by employee numbers, UK, 2001 to 2018",
       "h5": null,
       "title": "Pubs owned by enterprises with 250 or more units, by employee numbers, UK, 2001 to 2018",
-      "url": "/visualisations/dvc566/chart5/smallandlargechain/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc566/chart5/smallandlargechain/index.html",
+      "url_new": "/visualisations/dvc566/chart5/smallandlargechain/index.html"
     },
     {
       "type": "box",

@@ -90,8 +90,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc2609/images/2156_Population-and-migration_Illustration.png",
-      "alt": null
+      "src": "https://www.ons.gov.uk/visualisations/dvc2609/images/2156_Population-and-migration_Illustration.png",
+      "alt": null,
+      "src_new": "/visualisations/dvc2609/images/2156_Population-and-migration_Illustration.png"
     },
     {
       "type": "heading",
@@ -143,7 +144,8 @@
       "h4": "Figure 1: Admin-based population estimates (ABPE) data show the largest percentage of people living in Manchester were aged 20 to 29 years",
       "h5": "Age structure of the population for mid-year estimates compared with ABPE, by sex, Manchester, 2021",
       "title": "Figure 1: Admin-based population estimates (ABPE) data show the larget percentage of people living in Manchester were aged 20 to 29 years",
-      "url": "/visualisations/dvc2609/Manchester/Fig1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Manchester/Fig1/index.html",
+      "url_new": "/visualisations/dvc2609/Manchester/Fig1/index.html"
     },
     {
       "type": "heading",
@@ -177,7 +179,7 @@
       "h3": "Population and Migration in Manchester",
       "h4": "Figure 1: Admin-based population estimates (ABPE) data show the largest percentage of people living in Manchester were aged 20 to 29 years",
       "h5": "Download the data",
-      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Manchester/Fig1/datadownload.xlsx)"
+      "text": "[.xlsx]( https://www.ons.gov.uk//visualisations/dvc2609/Manchester/Fig1/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -220,7 +222,8 @@
       "h4": "Figure 2: Manchester's population increased by 2.6% to 563,000 people between 2021 and 2022",
       "h5": "Admin-based population estimates (ABPE) percentage change in population, local authorities in England and Wales",
       "title": "Figure 2: Manchester's population increased by 2.6% to 563,000 people between 2021 and 2022",
-      "url": "/visualisations/dvc2609/Manchester/Fig2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Manchester/Fig2/index.html",
+      "url_new": "/visualisations/dvc2609/Manchester/Fig2/index.html"
     },
     {
       "type": "heading",
@@ -254,7 +257,7 @@
       "h3": "Population and Migration in Manchester",
       "h4": "Figure 2: Manchester's population increased by 2.6% to 563,000 people between 2021 and 2022",
       "h5": "Download the data",
-      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Manchester/Fig2/datadownload.xlsx)"
+      "text": "[.xlsx]( https://www.ons.gov.uk//visualisations/dvc2609/Manchester/Fig2/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -321,7 +324,8 @@
       "h4": "Figure 3: The largest difference in population estimates between ABPEs and Census 2021 were in LSOAs with communal establishments",
       "h5": "Percentage difference in admin-based population estimates (ABPE) and Census 2021 estimates at Lower layer Super Output Areas (LSOA) level, Manchester, 2021",
       "title": "Figure 3: The largest difference in population estimates between ABPEs and Census 2021 were in LSOAs with communal establishments",
-      "url": "/visualisations/dvc2609/Manchester/Fig3/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Manchester/Fig3/index.html",
+      "url_new": "/visualisations/dvc2609/Manchester/Fig3/index.html"
     },
     {
       "type": "heading",
@@ -355,7 +359,7 @@
       "h3": "Population and Migration in Manchester",
       "h4": "Figure 3: The largest difference in population estimates between ABPEs and Census 2021 were in LSOAs with communal establishments",
       "h5": "Download the data",
-      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Manchester/Fig3/datadownload.xlsx)"
+      "text": "[.xlsx]( https://www.ons.gov.uk//visualisations/dvc2609/Manchester/Fig3/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -403,8 +407,9 @@
       "h3": "Population and Migration in Manchester",
       "h4": "Figure 3: The largest difference in population estimates between ABPEs and Census 2021 were in LSOAs with communal establishments",
       "h5": "Download the data",
-      "src": "/visualisations/dvc2609/images/2156_Population-sub-groups-characteristics_Illustration.png",
-      "alt": null
+      "src": "https://www.ons.gov.uk/visualisations/dvc2609/images/2156_Population-sub-groups-characteristics_Illustration.png",
+      "alt": null,
+      "src_new": "/visualisations/dvc2609/images/2156_Population-sub-groups-characteristics_Illustration.png"
     },
     {
       "type": "heading",
@@ -472,7 +477,8 @@
       "h4": "Figure 4: The ABES proportion of ethnic groups in Manchester is similar to Census 2021",
       "h5": "Admin-based ethnicity statistics (ABES) and Census 2021 population by five-category ethnic group, Manchester, 2021 ",
       "title": "Figure 4: The ABES proportion of ethnic groups in Manchester is similar to Census 2021",
-      "url": "/visualisations/dvc2609/Manchester/Fig4/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Manchester/Fig4/index.html",
+      "url_new": "/visualisations/dvc2609/Manchester/Fig4/index.html"
     },
     {
       "type": "heading",
@@ -489,7 +495,7 @@
       "h3": "Population sub-groups and characteristics in Manchester",
       "h4": "Figure 4: The ABES proportion of ethnic groups in Manchester is similar to Census 2021",
       "h5": "Download the data",
-      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Manchester/Fig4/datadownload.xlsx)"
+      "text": "[.xlsx]( https://www.ons.gov.uk//visualisations/dvc2609/Manchester/Fig4/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -548,7 +554,8 @@
       "h4": "Figure 5: Manchester’s younger age groups are typically more ethnically diverse than older age groups for both males and females",
       "h5": "5a. Admin-based ethnicity statistics (ABES), “White” ethnic group by age and sex, Manchester, 2021",
       "title": "Figure 5: Manchester’s younger age groups are typically more ethnically diverse than older age groups for both males and females",
-      "url": "/visualisations/dvc2609/Manchester/Fig5a/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Manchester/Fig5a/index.html",
+      "url_new": "/visualisations/dvc2609/Manchester/Fig5a/index.html"
     },
     {
       "type": "heading",
@@ -565,7 +572,7 @@
       "h3": "Population sub-groups and characteristics in Manchester",
       "h4": "Figure 5: Manchester’s younger age groups are typically more ethnically diverse than older age groups for both males and females",
       "h5": "Download the data",
-      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Manchester/Fig5a/datadownload.xlsx)"
+      "text": "[.xlsx]( https://www.ons.gov.uk//visualisations/dvc2609/Manchester/Fig5a/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -590,7 +597,8 @@
       "h4": "Figure 5: Manchester’s younger age groups are typically more ethnically diverse than older age groups for both males and females",
       "h5": "Download the data",
       "title": "5b. Admin-based ethnicity statistics (ABES), all other ethnic groups by age and sex, Manchester, 2021 ",
-      "url": "/visualisations/dvc2609/Manchester/Fig5b/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Manchester/Fig5b/index.html",
+      "url_new": "/visualisations/dvc2609/Manchester/Fig5b/index.html"
     },
     {
       "type": "heading",
@@ -607,7 +615,7 @@
       "h3": "Population sub-groups and characteristics in Manchester",
       "h4": "Figure 5: Manchester’s younger age groups are typically more ethnically diverse than older age groups for both males and females",
       "h5": "Download the data",
-      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Manchester/Fig5b/datadownload.xlsx)"
+      "text": "[.xlsx]( https://www.ons.gov.uk//visualisations/dvc2609/Manchester/Fig5b/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -674,7 +682,8 @@
       "h4": "Figure 6: Median occupied address net income varies across Manchester’s local areas with some affluent areas across the city",
       "h5": "ABIS median occupied address net income (£), Manchester, tax year ending 2018",
       "title": "Figure 6: Median occupied address net income varies across Manchester’s local areas with some affluent areas across the city ",
-      "url": "/visualisations/dvc2609/Manchester/Fig6/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Manchester/Fig6/index.html",
+      "url_new": "/visualisations/dvc2609/Manchester/Fig6/index.html"
     },
     {
       "type": "heading",
@@ -724,7 +733,7 @@
       "h3": "Population sub-groups and characteristics in Manchester",
       "h4": "Figure 6: Median occupied address net income varies across Manchester’s local areas with some affluent areas across the city",
       "h5": "Download the data",
-      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Manchester/Fig6/datadownload.xlsx)"
+      "text": "[.xlsx]( https://www.ons.gov.uk//visualisations/dvc2609/Manchester/Fig6/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -767,7 +776,8 @@
       "h4": "Figure 7: Income measures in the admin-based income by ethnicity statistics (ABIES) dataset for Manchester show variation between ethnic groups",
       "h5": "The 10th percentile, median, and 90th percentile net income for individuals aged 16 years and over with income information identified by five-category ethnic group, Manchester, tax year ending 2018",
       "title": "Figure 7: Income measures in the admin-based income by ethnicity statistics (ABIES) dataset for Manchester show variation between ethnic groups",
-      "url": "/visualisations/dvc2609/Manchester/Fig7/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Manchester/Fig7/index.html",
+      "url_new": "/visualisations/dvc2609/Manchester/Fig7/index.html"
     },
     {
       "type": "heading",
@@ -817,7 +827,7 @@
       "h3": "Population sub-groups and characteristics in Manchester",
       "h4": "Figure 7: Income measures in the admin-based income by ethnicity statistics (ABIES) dataset for Manchester show variation between ethnic groups",
       "h5": "Download the data",
-      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Manchester/Fig7/datadownload.xlsx)"
+      "text": "[.xlsx]( https://www.ons.gov.uk//visualisations/dvc2609/Manchester/Fig7/datadownload.xlsx)"
     },
     {
       "type": "image",
@@ -825,8 +835,9 @@
       "h3": "Population sub-groups and characteristics in Manchester",
       "h4": "Figure 7: Income measures in the admin-based income by ethnicity statistics (ABIES) dataset for Manchester show variation between ethnic groups",
       "h5": "Download the data",
-      "src": "/visualisations/dvc2609/images/2156_Housing-accomodation-and-living-arrangements_Illustration.png",
-      "alt": null
+      "src": "https://www.ons.gov.uk/visualisations/dvc2609/images/2156_Housing-accomodation-and-living-arrangements_Illustration.png",
+      "alt": null,
+      "src_new": "/visualisations/dvc2609/images/2156_Housing-accomodation-and-living-arrangements_Illustration.png"
     },
     {
       "type": "heading",
@@ -894,7 +905,8 @@
       "h4": "Figure 8: There are more Census 2021 households in Manchester than occupied addresses in the admin-based occupied address dataset (ABOAD)",
       "h5": "Number of occupied addresses in the ABOAD and households in Census 2021, Manchester, June 2021",
       "title": "Figure 8: There are more Census 2021 households in Manchester than occupied addresses in the admin-based occupied address dataset (ABOAD)",
-      "url": "/visualisations/dvc2609/Manchester/Fig8/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Manchester/Fig8/index.html",
+      "url_new": "/visualisations/dvc2609/Manchester/Fig8/index.html"
     },
     {
       "type": "heading",
@@ -911,7 +923,7 @@
       "h3": "Housing, housing characteristics and living arrangements in Manchester",
       "h4": "Figure 8: There are more Census 2021 households in Manchester than occupied addresses in the admin-based occupied address dataset (ABOAD)",
       "h5": "Download the data",
-      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Manchester/Fig8/datadownload.xlsx)"
+      "text": "[.xlsx]( https://www.ons.gov.uk//visualisations/dvc2609/Manchester/Fig8/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -954,7 +966,8 @@
       "h4": "Figure 9: Most residential addresses in Manchester have one or two people living there",
       "h5": "Size of occupied addresses in the ABOAD and households in Census 2021 by number of people living there, Manchester, June 2021",
       "title": "Figure 9: Most residential addresses in Manchester have one or two people living there ",
-      "url": "/visualisations/dvc2609/Manchester/Fig9/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Manchester/Fig9/index.html",
+      "url_new": "/visualisations/dvc2609/Manchester/Fig9/index.html"
     },
     {
       "type": "heading",
@@ -971,7 +984,7 @@
       "h3": "Housing, housing characteristics and living arrangements in Manchester",
       "h4": "Figure 9: Most residential addresses in Manchester have one or two people living there",
       "h5": "Download the data",
-      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Manchester/Fig9/datadownload.xlsx)"
+      "text": "[.xlsx]( https://www.ons.gov.uk//visualisations/dvc2609/Manchester/Fig9/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -1062,7 +1075,8 @@
       "h4": "Figure 10: Dwellings in Manchester most commonly have three rooms",
       "h5": "Distribution of Census 2021 households by number of rooms, alongside the distribution of residential addresses and occupied residential addresses in the ABHS V1.0, Manchester, 2021",
       "title": "Figure 10: Dwellings in Manchester most commonly have three rooms",
-      "url": "/visualisations/dvc2609/Manchester/Fig10/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Manchester/Fig10/index.html",
+      "url_new": "/visualisations/dvc2609/Manchester/Fig10/index.html"
     },
     {
       "type": "heading",
@@ -1112,7 +1126,7 @@
       "h3": "Housing, housing characteristics and living arrangements in Manchester",
       "h4": "Figure 10: Dwellings in Manchester most commonly have three rooms",
       "h5": "Download the data",
-      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Manchester/Fig10/datadownload.xlsx)"
+      "text": "[.xlsx]( https://www.ons.gov.uk//visualisations/dvc2609/Manchester/Fig10/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -1163,7 +1177,8 @@
       "h4": "Figure 11: A large proportion of Manchester’s housing stock was built before 1919",
       "h5": "Number of dwellings by Valuation Office Agency (VOA) build period for all addresses and occupied addresses in the ABHS V1.0, Manchester, June 2021",
       "title": "Figure 11: A large proportion of Manchester’s housing stock was built before 1919 ",
-      "url": "/visualisations/dvc2609/Manchester/Fig11/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Manchester/Fig11/index.html",
+      "url_new": "/visualisations/dvc2609/Manchester/Fig11/index.html"
     },
     {
       "type": "heading",
@@ -1180,7 +1195,7 @@
       "h3": "Housing, housing characteristics and living arrangements in Manchester",
       "h4": "Figure 11: A large proportion of Manchester’s housing stock was built before 1919",
       "h5": "Download the data",
-      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Manchester/Fig11/datadownload.xlsx)"
+      "text": "[.xlsx]( https://www.ons.gov.uk//visualisations/dvc2609/Manchester/Fig11/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -1239,7 +1254,8 @@
       "h4": "Figure 12: Terraced houses are the most common VOA accommodation type for all ethnic groups in Manchester",
       "h5": "Admin-based housing by ethnicity dataset version 2.0 (ABHED V2.0) VOA accommodation type (Census 2021 definition) by ethnic group, Manchester, 2021",
       "title": "Figure 12: Terraced houses are the most common VOA accommodation type for all ethnic groups in Manchester",
-      "url": "/visualisations/dvc2609/Manchester/Fig12/vis/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Manchester/Fig12/vis/index.html",
+      "url_new": "/visualisations/dvc2609/Manchester/Fig12/vis/index.html"
     },
     {
       "type": "heading",
@@ -1297,7 +1313,7 @@
       "h3": "Housing, housing characteristics and living arrangements in Manchester",
       "h4": "Figure 12: Terraced houses are the most common VOA accommodation type for all ethnic groups in Manchester",
       "h5": "Download the data",
-      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Manchester/Fig12/datadownload.xlsx)"
+      "text": "[.xlsx]( https://www.ons.gov.uk//visualisations/dvc2609/Manchester/Fig12/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -1340,7 +1356,8 @@
       "h4": "Figure 13: Individuals in the “Asian” ethnic group are most likely to live in dwellings with four or more bedrooms compared with all other ethnic groups",
       "h5": "ABHED (V2.0) VOA number of bedrooms by ethnic group, Manchester, 2021",
       "title": "Figure 13: Individuals in the “Asian” ethnic group are most likely to live in dwellings with four or more bedrooms compared with all other ethnic groups ",
-      "url": "/visualisations/dvc2609/Manchester/Fig13/vis/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Manchester/Fig13/vis/index.html",
+      "url_new": "/visualisations/dvc2609/Manchester/Fig13/vis/index.html"
     },
     {
       "type": "heading",
@@ -1398,7 +1415,7 @@
       "h3": "Housing, housing characteristics and living arrangements in Manchester",
       "h4": "Figure 13: Individuals in the “Asian” ethnic group are most likely to live in dwellings with four or more bedrooms compared with all other ethnic groups",
       "h5": "Download the data",
-      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Manchester/Fig13/datadownload.xlsx)"
+      "text": "[.xlsx]( https://www.ons.gov.uk//visualisations/dvc2609/Manchester/Fig13/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -1528,7 +1545,8 @@
       "h4": "Figure 14: The most common age group of communal establishment residents in Manchester was those aged 16 to 24 years for both males and females",
       "h5": "Admin-based communal establishment data (ABCED) communal establishment residents by sex and banded age groups, Manchester, 2021",
       "title": "Figure 14: The most common age group of communal establishment residents in Manchester was those aged 16 to 24 years for both males and females ",
-      "url": "/visualisations/dvc2609/Manchester/Fig14/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Manchester/Fig14/index.html",
+      "url_new": "/visualisations/dvc2609/Manchester/Fig14/index.html"
     },
     {
       "type": "heading",
@@ -1594,7 +1612,7 @@
       "h3": "Housing, housing characteristics and living arrangements in Manchester",
       "h4": "Figure 14: The most common age group of communal establishment residents in Manchester was those aged 16 to 24 years for both males and females",
       "h5": "Download the data",
-      "text": "[.xlsx](https://www.ons.gov.uk//visualisations/dvc2609/Manchester/Fig14/datadownload.xlsx)"
+      "text": "[.xlsx]( https://www.ons.gov.uk//visualisations/dvc2609/Manchester/Fig14/datadownload.xlsx)"
     },
     {
       "type": "p",

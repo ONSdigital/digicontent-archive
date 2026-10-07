@@ -93,7 +93,8 @@
       "h4": null,
       "h5": "Death registrations in England and Wales compared with five-year average (2015 to 2019), by whether or not COVID-19 was mentioned on the death certificate",
       "title": "The number of deaths peaked at more than twice normal levels because of COVID-19\" full-width=\"false",
-      "url": "/visualisations/dvc984/fig1alt/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc984/fig1alt/index.html",
+      "url_new": "/visualisations/dvc984/fig1alt/index.html"
     },
     {
       "type": "heading",
@@ -150,7 +151,8 @@
       "h3": null,
       "h4": null,
       "h5": "Notes:",
-      "text": "[Data download](/visualisations/dvc984/fig1alt/datadownload.xlsx)"
+      "text": "[Data download](https://www.ons.gov.uk/visualisations/dvc984/fig1alt/datadownload.xlsx)",
+      "text_new": "[Data download](/visualisations/dvc984/fig1alt/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -233,7 +235,8 @@
       "h4": null,
       "h5": "Difference between death registrations in 2020 and the five-year average between 2015 and 2019, by place of death, England and Wales",
       "title": "There have been more excess deaths in care homes and private homes than in hospitals\" full-width=\"false",
-      "url": "/visualisations/dvc984/fig2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc984/fig2/index.html",
+      "url_new": "/visualisations/dvc984/fig2/index.html"
     },
     {
       "type": "heading",
@@ -298,7 +301,8 @@
       "h3": null,
       "h4": null,
       "h5": "Notes:",
-      "text": "[Data download](/visualisations/dvc984/fig2/datadownload.xlsx)"
+      "text": "[Data download](https://www.ons.gov.uk/visualisations/dvc984/fig2/datadownload.xlsx)",
+      "text_new": "[Data download](/visualisations/dvc984/fig2/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -357,7 +361,8 @@
       "h4": null,
       "h5": "Age-standardised rates for deaths involving COVID-19 at ages 9 to 64 years by sex and ethnic group, per 100,000 people: England and Wales, occurring 2 March to 15 May 2020",
       "title": "The mortality rate from COVID-19 has been highest among black men\" full-width=\"false",
-      "url": "/visualisations/dvc984/fig3/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc984/fig3/index.html",
+      "url_new": "/visualisations/dvc984/fig3/index.html"
     },
     {
       "type": "heading",
@@ -406,7 +411,8 @@
       "h3": null,
       "h4": null,
       "h5": "Notes:",
-      "text": "[Data download](/visualisations/dvc984/fig3/datadownload.xlsx)"
+      "text": "[Data download](https://www.ons.gov.uk/visualisations/dvc984/fig3/datadownload.xlsx)",
+      "text_new": "[Data download](/visualisations/dvc984/fig3/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -481,7 +487,8 @@
       "h4": null,
       "h5": "Estimated numbers of new infections with the coronavirus (COVID-19), England, based on tests conducted since 11 May 2020",
       "title": "The number of people newly infected with COVID-19 is increasing\" full-width=\"false",
-      "url": "/visualisations/dvc984/fig4/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc984/fig4/index.html",
+      "url_new": "/visualisations/dvc984/fig4/index.html"
     },
     {
       "type": "heading",
@@ -546,7 +553,8 @@
       "h3": null,
       "h4": null,
       "h5": "Notes:",
-      "text": "[Data download](/visualisations/dvc984/fig4/datadownload.xlsx)"
+      "text": "[Data download](https://www.ons.gov.uk/visualisations/dvc984/fig4/datadownload.xlsx)",
+      "text_new": "[Data download](/visualisations/dvc984/fig4/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -613,7 +621,8 @@
       "h4": null,
       "h5": "Google mobility data showing the change in the number of people frequenting different public settings in the UK, compared with a February base",
       "title": "The number of people visiting workplaces, shops and public transport hubs fell drastically because of lockdown\" full-width=\"false",
-      "url": "/visualisations/dvc984/fig5/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc984/fig5/index.html",
+      "url_new": "/visualisations/dvc984/fig5/index.html"
     },
     {
       "type": "p",
@@ -629,7 +638,8 @@
       "h3": null,
       "h4": null,
       "h5": "Google mobility data showing the change in the number of people frequenting different public settings in the UK, compared with a February base",
-      "text": "[Data download](/visualisations/dvc984/fig5/datadownload.xlsx)"
+      "text": "[Data download](https://www.ons.gov.uk/visualisations/dvc984/fig5/datadownload.xlsx)",
+      "text_new": "[Data download](/visualisations/dvc984/fig5/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -688,7 +698,8 @@
       "h4": null,
       "h5": "Percentage of parents spending time working compared with percentage home schooling by time of day, Great Britain, 28 March to 26 April 2020",
       "title": "Parents working from home tended to work in mornings and carry out homeschooling duties later in the day\" full-width=\"false",
-      "url": "/visualisations/dvc984/fig6/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc984/fig6/index.html",
+      "url_new": "/visualisations/dvc984/fig6/index.html"
     },
     {
       "type": "p",
@@ -696,7 +707,8 @@
       "h3": null,
       "h4": null,
       "h5": "Percentage of parents spending time working compared with percentage home schooling by time of day, Great Britain, 28 March to 26 April 2020",
-      "text": "[Data download](/visualisations/dvc984/fig6/datadownload.xlsx)"
+      "text": "[Data download](https://www.ons.gov.uk/visualisations/dvc984/fig6/datadownload.xlsx)",
+      "text_new": "[Data download](/visualisations/dvc984/fig6/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -763,7 +775,8 @@
       "h4": null,
       "h5": "Monthly output (March, April, May, June and July 2020) as a proportion of February 2020, overall gross domestic product (GDP) and selected industries, UK (February 2020 output = 100%)",
       "title": "The economy is 11.7% smaller than it was pre-lockdown, despite recovering some ground since April\" full-width=\"false",
-      "url": "/visualisations/dvc984/fig9/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc984/fig9/index.html",
+      "url_new": "/visualisations/dvc984/fig9/index.html"
     },
     {
       "type": "p",
@@ -771,7 +784,8 @@
       "h3": null,
       "h4": null,
       "h5": "Monthly output (March, April, May, June and July 2020) as a proportion of February 2020, overall gross domestic product (GDP) and selected industries, UK (February 2020 output = 100%)",
-      "text": "[Data download](/visualisations/dvc984/fig9/datadownload.xlsx)"
+      "text": "[Data download](https://www.ons.gov.uk/visualisations/dvc984/fig9/datadownload.xlsx)",
+      "text_new": "[Data download](/visualisations/dvc984/fig9/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -838,7 +852,8 @@
       "h4": null,
       "h5": "Proportion of eligible UK jobs furloughed at any point up to the end of June 2020, by age of employee",
       "title": "Almost one-third of jobs have been furloughed at some point, with young people most affected\" full-width=\"false",
-      "url": "/visualisations/dvc984/fig7/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc984/fig7/index.html",
+      "url_new": "/visualisations/dvc984/fig7/index.html"
     },
     {
       "type": "p",
@@ -846,7 +861,8 @@
       "h3": null,
       "h4": null,
       "h5": "Proportion of eligible UK jobs furloughed at any point up to the end of June 2020, by age of employee",
-      "text": "[Data download](/visualisations/dvc984/fig7/datadownload.xlsx)"
+      "text": "[Data download](https://www.ons.gov.uk/visualisations/dvc984/fig7/datadownload.xlsx)",
+      "text_new": "[Data download](/visualisations/dvc984/fig7/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -913,7 +929,8 @@
       "h4": "Number of vacancies per 100 employee jobs by industry, UK, June to August 2020 compared with June to August 2019",
       "h5": null,
       "title": "With vacancies falling across all industries, people are competing for fewer jobs\" full-width=\"false",
-      "url": "/visualisations/dvc984/fig8/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc984/fig8/index.html",
+      "url_new": "/visualisations/dvc984/fig8/index.html"
     },
     {
       "type": "p",
@@ -921,7 +938,8 @@
       "h3": null,
       "h4": "Number of vacancies per 100 employee jobs by industry, UK, June to August 2020 compared with June to August 2019",
       "h5": null,
-      "text": "[Data download](/visualisations/dvc984/fig8/datadownload.xlsx)"
+      "text": "[Data download](https://www.ons.gov.uk/visualisations/dvc984/fig8/datadownload.xlsx)",
+      "text_new": "[Data download](/visualisations/dvc984/fig8/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -981,8 +999,9 @@
       "chartbuilder_h3": "Public sector net debt (excluding public sector banks) as percentage of GDP, UK, financial year ending March 1921 to July 2020 (100 = debt is equal to GDP)",
       "chartbuilder_h4": "Source: Office for National Statistics – Public Sector Finances",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19in10charts/2020-09-24/d46dc347",
-      "src": "/_scraped_chartbuilder_imgs/d46dc347.png",
-      "local_filename": "d46dc347.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19in10charts/2020-09-24/d46dc347&width=&hideSource=true",
+      "local_filename": "d46dc347.png",
+      "src_new": "/_scraped_chartbuilder_imgs/d46dc347.png"
     },
     {
       "type": "p",
@@ -1037,6 +1056,9 @@
       "box_h3": null,
       "box_text": "",
       "box_items": [
+        "[Diary of a nation: life in lockdown](https://www.ons.gov.uk/visualisations/dvc983/Diary_of_a_nation-20200907082746841/index.html)"
+      ],
+      "box_items_new": [
         "[Diary of a nation: life in lockdown](/visualisations/dvc983/Diary_of_a_nation-20200907082746841/index.html)"
       ]
     },

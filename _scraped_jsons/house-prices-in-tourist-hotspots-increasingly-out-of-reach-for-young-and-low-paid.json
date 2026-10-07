@@ -129,7 +129,8 @@
       "h4": "House prices increased fastest in rural and coastal areas in July",
       "h5": "Top 10 and bottom 10 local authorities for annual house price growth, UK, July 2021",
       "title": "Top 10 and bottom 10 local authorities for annual house price growth, UK, July 2021",
-      "url": "/visualisations/dvc1589/topten/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1589/topten/index.html",
+      "url_new": "/visualisations/dvc1589/topten/index.html"
     },
     {
       "type": "p",
@@ -137,7 +138,8 @@
       "h3": null,
       "h4": "House prices increased fastest in rural and coastal areas in July",
       "h5": "Top 10 and bottom 10 local authorities for annual house price growth, UK, July 2021",
-      "text": "[Data for top 10 and bottom 10 local authorities for annual house price growth in July 2021 (XLSX, 18KB)](/visualisations/dvc1589/topten/datadownload.xlsx)"
+      "text": "[Data for top 10 and bottom 10 local authorities for annual house price growth in July 2021 (XLSX, 18KB)](https://www.ons.gov.uk/visualisations/dvc1589/topten/datadownload.xlsx)",
+      "text_new": "[Data for top 10 and bottom 10 local authorities for annual house price growth in July 2021 (XLSX, 18KB)](/visualisations/dvc1589/topten/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -245,7 +247,8 @@
       "h4": "Tourist hotspots outside London are seeing house prices rise sharply",
       "h5": "Annual percentage change in house prices by local authority, January to July 2021",
       "title": "Annual percentage change in house prices by local authority, January to July 2021",
-      "url": "/visualisations/dvc1589/changeovertime/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1589/changeovertime/index.html",
+      "url_new": "/visualisations/dvc1589/changeovertime/index.html"
     },
     {
       "type": "p",
@@ -253,7 +256,8 @@
       "h3": null,
       "h4": "Tourist hotspots outside London are seeing house prices rise sharply",
       "h5": "Annual percentage change in house prices by local authority, January to July 2021",
-      "text": "[Data for annual percentage change in house prices by local authority in January to July 2021 (XLSX, 38KB)](/visualisations/dvc1589/changeovertime/datadownload.xlsx)"
+      "text": "[Data for annual percentage change in house prices by local authority in January to July 2021 (XLSX, 38KB)](https://www.ons.gov.uk/visualisations/dvc1589/changeovertime/datadownload.xlsx)",
+      "text_new": "[Data for annual percentage change in house prices by local authority in January to July 2021 (XLSX, 38KB)](/visualisations/dvc1589/changeovertime/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -353,7 +357,8 @@
       "h4": "Second home ownership is concentrated in tourist hotspots",
       "h5": "Rates of second home ownership by local authority, England and Wales",
       "title": "Rates of second home ownership by local authority, England and Wales",
-      "url": "/visualisations/dvc1589/secondhomes/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1589/secondhomes/index.html",
+      "url_new": "/visualisations/dvc1589/secondhomes/index.html"
     },
     {
       "type": "p",
@@ -361,7 +366,8 @@
       "h3": null,
       "h4": "Second home ownership is concentrated in tourist hotspots",
       "h5": "Rates of second home ownership by local authority, England and Wales",
-      "text": "[Data for second home ownership by local authority in England and Wales (XLSX, 26 KB)](/visualisations/dvc1589/secondhomes/datadownload.xlsx)"
+      "text": "[Data for second home ownership by local authority in England and Wales (XLSX, 26 KB)](https://www.ons.gov.uk/visualisations/dvc1589/secondhomes/datadownload.xlsx)",
+      "text_new": "[Data for second home ownership by local authority in England and Wales (XLSX, 26 KB)](/visualisations/dvc1589/secondhomes/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -494,7 +500,8 @@
       "h4": "Furlough rates tended to be higher in tourist hotspots than elsewhere",
       "h5": "Monthly average furlough rate in selected tourist hotspots compared with the range for all areas and the UK average, June 2020 to July 2021",
       "title": "Monthly average furlough rate in selected tourist hotspots compared with the range for all areas and the UK average, June 2020 to July 2021",
-      "url": "/visualisations/dvc1589/furlough/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1589/furlough/index.html",
+      "url_new": "/visualisations/dvc1589/furlough/index.html"
     },
     {
       "type": "p",
@@ -502,7 +509,8 @@
       "h3": null,
       "h4": "Furlough rates tended to be higher in tourist hotspots than elsewhere",
       "h5": "Monthly average furlough rate in selected tourist hotspots compared with the range for all areas and the UK average, June 2020 to July 2021",
-      "text": "[Data for furlough rates in tourist hotspots (XLSX, 27KB)](/visualisations/dvc1589/furlough/datadownload.xlsx)"
+      "text": "[Data for furlough rates in tourist hotspots (XLSX, 27KB)](https://www.ons.gov.uk/visualisations/dvc1589/furlough/datadownload.xlsx)",
+      "text_new": "[Data for furlough rates in tourist hotspots (XLSX, 27KB)](/visualisations/dvc1589/furlough/datadownload.xlsx)"
     },
     {
       "type": "heading",

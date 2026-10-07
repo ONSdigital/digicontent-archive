@@ -95,7 +95,8 @@
       "h4": null,
       "h5": null,
       "title": "CPIH quiz",
-      "url": "/visualisations/dvc404/quiz/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc404/quiz/index.html",
+      "url_new": "/visualisations/dvc404/quiz/index.html"
     },
     {
       "type": "p",
@@ -103,7 +104,7 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[Download data](/visualisations//visual/2017/07/cpih-quiz-data.csv)"
+      "text": "[Download data](https://static.ons.gov.uk/visual/2017/07/cpih-quiz-data.csv)"
     },
     {
       "type": "heading",
@@ -237,7 +238,8 @@
       "h4": null,
       "h5": null,
       "title": "CPIH",
-      "url": "/visualisations/dvc404/cpih/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc404/cpih/index.html",
+      "url_new": "/visualisations/dvc404/cpih/index.html"
     },
     {
       "type": "p",

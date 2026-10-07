@@ -167,8 +167,9 @@
       "chartbuilder_h3": "Retail sales volumes fell at record pace in April 2020 because of the coronavirus (COVID-19) pandemic",
       "chartbuilder_h4": "Great Britain, seasonally adjusted, April 2008 to April 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup18to22may2020/2020-05-22/1d9b153c",
-      "src": "/_scraped_chartbuilder_imgs/1d9b153c.png",
-      "local_filename": "1d9b153c.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup18to22may2020/2020-05-22/1d9b153c&width=&hideSource=true",
+      "local_filename": "1d9b153c.png",
+      "src_new": "/_scraped_chartbuilder_imgs/1d9b153c.png"
     },
     {
       "type": "p",
@@ -327,7 +328,8 @@
       "h4": "There was a widespread decline in international air travel in March 2020",
       "h5": "Annual percentage change in monthly air passenger totals between airports in the UK and airports in regions of the world, January to March, 2020",
       "title": "Figure 11: Percentage change in monthly air passenger totals between airports in the UK and airports in regions of the world",
-      "url": "/visualisations/dvc826/fig11/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc826/fig11/index.html",
+      "url_new": "/visualisations/dvc826/fig11/index.html"
     },
     {
       "type": "heading",
@@ -360,7 +362,8 @@
       "h3": null,
       "h4": "There was a widespread decline in international air travel in March 2020",
       "h5": "Notes:",
-      "text": "[Download the data](/visualisations/dvc826/fig11/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc826/fig11/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc826/fig11/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -732,7 +735,8 @@
       "h4": "One in six UK workers are in manufacturing and construction, which could be returning to work in England",
       "h5": "Selected measures of employment by industry groups (based on likely state of operations), UK, 2019 and 6 to 19 April 2020",
       "title": "Non UK staff",
-      "url": "/visualisations/dvc829/splitbar/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc829/splitbar/index.html",
+      "url_new": "/visualisations/dvc829/splitbar/index.html"
     },
     {
       "type": "p",
@@ -792,8 +796,9 @@
       "chartbuilder_h3": "Average hours worked fell in the final two weeks of March 2020",
       "chartbuilder_h4": "Average actual hours, all persons, seasonally adjusted, Great Britain, Quarter 1 (Jan to Mar) 2017 to 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup18to22may2020/2020-05-22/b3a55ef7",
-      "src": "/_scraped_chartbuilder_imgs/b3a55ef7.png",
-      "local_filename": "b3a55ef7.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup18to22may2020/2020-05-22/b3a55ef7&width=&hideSource=true",
+      "local_filename": "b3a55ef7.png",
+      "src_new": "/_scraped_chartbuilder_imgs/b3a55ef7.png"
     },
     {
       "type": "p",

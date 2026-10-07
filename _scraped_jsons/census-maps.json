@@ -115,8 +115,9 @@
       "h3": "Census maps",
       "h4": null,
       "h5": null,
-      "src": "/visualisations/censusmapsimages/cm-preview-mobile.png",
-      "alt": null
+      "src": "https://www.ons.gov.uk/visualisations/censusmapsimages/cm-preview-mobile.png",
+      "alt": null,
+      "src_new": "/visualisations/censusmapsimages/cm-preview-mobile.png"
     },
     {
       "type": "image",
@@ -124,8 +125,9 @@
       "h3": "Census maps",
       "h4": null,
       "h5": null,
-      "src": "/visualisations/censusmapsimages/cm-preview-desktop.png",
-      "alt": null
+      "src": "https://www.ons.gov.uk/visualisations/censusmapsimages/cm-preview-desktop.png",
+      "alt": null,
+      "src_new": "/visualisations/censusmapsimages/cm-preview-desktop.png"
     },
     {
       "type": "heading",
@@ -375,7 +377,7 @@
       "h5": null,
       "box_h2": "Contact",
       "box_h3": null,
-      "box_text": "[census.customerservices@ons.gov.uk](mailto:census.customerservices@ons.gov.uk)\n Telephone: +44 1329 444972",
+      "box_text": "[census.customerservices@ons.gov.uk](mailto:census.customerservices@ons.gov.uk )\n Telephone: +44 1329 444972",
       "box_items": null
     }
   ],

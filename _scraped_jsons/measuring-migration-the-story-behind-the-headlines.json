@@ -150,7 +150,8 @@
       "h4": "How many migrants live in the UK",
       "h5": null,
       "title": "How many migrants live in the UK ",
-      "url": "/visualisations/dvc1542/stepthru/interactive/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1542/stepthru/interactive/index.html",
+      "url_new": "/visualisations/dvc1542/stepthru/interactive/index.html"
     },
     {
       "type": "p",
@@ -166,7 +167,8 @@
       "h3": "Understanding how many migrants live in the UK",
       "h4": "How many migrants live in the UK",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc1542/stepthru/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1542/stepthru/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1542/stepthru/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -225,7 +227,8 @@
       "h4": "Migration levels in the UK",
       "h5": null,
       "title": "Migration levels in the UK",
-      "url": "/visualisations/dvc1542/inmyarea/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1542/inmyarea/index.html",
+      "url_new": "/visualisations/dvc1542/inmyarea/index.html"
     },
     {
       "type": "p",
@@ -257,7 +260,8 @@
       "h3": "Migration levels in different parts of the UK",
       "h4": "Migration levels in the UK",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc1542/inmyarea/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1542/inmyarea/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1542/inmyarea/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -396,7 +400,8 @@
       "h4": "Total UK immigration and emigration from January 2018 to June 2020",
       "h5": null,
       "title": "Total UK immigration and emigration from January 2018 to June 2020  ",
-      "url": "/visualisations/dvc1542/emigration/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1542/emigration/index.html",
+      "url_new": "/visualisations/dvc1542/emigration/index.html"
     },
     {
       "type": "p",
@@ -444,7 +449,8 @@
       "h3": "How many people have left the UK since the coronavirus pandemic and Brexit",
       "h4": "Total UK immigration and emigration from January 2018 to June 2020",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc1542/emigration/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1542/emigration/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1542/emigration/datadownload.xlsx)"
     },
     {
       "type": "heading",

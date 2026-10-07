@@ -85,7 +85,8 @@
       "h4": "Annual number of births and deaths, England and Wales, 1915 to 2014",
       "h5": null,
       "title": "Annual number of births and deaths, England and Wales, 1915 to 2014",
-      "url": "/visualisations/dvc267footnote/figure1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc267footnote/figure1/index.html",
+      "url_new": "/visualisations/dvc267footnote/figure1/index.html"
     },
     {
       "type": "p",
@@ -93,7 +94,8 @@
       "h3": null,
       "h4": "Annual number of births and deaths, England and Wales, 1915 to 2014",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc267footnote/figure1/births_and_deaths.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc267footnote/figure1/births_and_deaths.csv)",
+      "text_new": "[Download the data](/visualisations/dvc267footnote/figure1/births_and_deaths.csv)"
     },
     {
       "type": "p",
@@ -161,7 +163,8 @@
       "h4": "Live births to non-UK born mothers2 and average age of mothers England and Wales, 1975 to 2014",
       "h5": null,
       "title": "Live births to non-UK born mothers<sup>2<\/sup> and average age of mothers England and Wales, 1975 to 2014",
-      "url": "/visualisations/nesscontent/dvc267/figure2/dual%20panel%20line/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc267/figure2/dual%20panel%20line/index.html",
+      "url_new": "/visualisations/nesscontent/dvc267/figure2/dual%20panel%20line/index.html"
     },
     {
       "type": "p",
@@ -212,7 +215,8 @@
       "h4": "Live births outside marriage/civil partnership, England and Wales, 1945 to 2014",
       "h5": null,
       "title": "Live births outside marriage/civil partnership, England and Wales, 1945 to 2014",
-      "url": "/visualisations/nesscontent/dvc267/figure4/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc267/figure4/index.html",
+      "url_new": "/visualisations/nesscontent/dvc267/figure4/index.html"
     },
     {
       "type": "p",
@@ -220,7 +224,8 @@
       "h3": null,
       "h4": "Live births outside marriage/civil partnership, England and Wales, 1945 to 2014",
       "h5": null,
-      "text": "[Download the data](/visualisations/nesscontent/dvc267/figure4/livebirthsoutsidemarriage.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/nesscontent/dvc267/figure4/livebirthsoutsidemarriage.csv)",
+      "text_new": "[Download the data](/visualisations/nesscontent/dvc267/figure4/livebirthsoutsidemarriage.csv)"
     },
     {
       "type": "p",
@@ -263,7 +268,8 @@
       "h4": "Infant mortality rates, England and Wales, 1985 to 2014",
       "h5": null,
       "title": "Infant mortality rates, England and Wales, 1985 to 2014",
-      "url": "/visualisations/nesscontent/dvc267/figure5/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc267/figure5/index.html",
+      "url_new": "/visualisations/nesscontent/dvc267/figure5/index.html"
     },
     {
       "type": "p",
@@ -271,7 +277,8 @@
       "h3": null,
       "h4": "Infant mortality rates, England and Wales, 1985 to 2014",
       "h5": null,
-      "text": "[Download the data](/visualisations/nesscontent/dvc267/figure5/Infant_mortality.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/nesscontent/dvc267/figure5/Infant_mortality.csv)",
+      "text_new": "[Download the data](/visualisations/nesscontent/dvc267/figure5/Infant_mortality.csv)"
     },
     {
       "type": "p",

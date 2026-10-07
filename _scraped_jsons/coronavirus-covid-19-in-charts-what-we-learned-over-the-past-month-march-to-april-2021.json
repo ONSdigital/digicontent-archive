@@ -93,7 +93,8 @@
       "h4": null,
       "h5": "Unemployment rates (%) for total labour force, graduates and recent graduates (aged 16 to 64) and those aged 18 to 24, from Quarter 1 2017 to Quarter 3 2020, non-seasonally adjusted",
       "title": "Unemployment rates (%) for total labour force, graduates, recent graduates (aged 16 to 64) and those aged 18 to 24, from Quarter 1 2017 to Quarter 3 2020, non-seasonally adjusted, UK ",
-      "url": "/visualisations/dvc1316/graduates/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1316/graduates/index.html",
+      "url_new": "/visualisations/dvc1316/graduates/index.html"
     },
     {
       "type": "p",
@@ -101,7 +102,8 @@
       "h3": null,
       "h4": null,
       "h5": "Unemployment rates (%) for total labour force, graduates and recent graduates (aged 16 to 64) and those aged 18 to 24, from Quarter 1 2017 to Quarter 3 2020, non-seasonally adjusted",
-      "text": "[Download the data](/visualisations/dvc1316/graduates/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1316/graduates/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1316/graduates/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -192,7 +194,8 @@
       "h4": null,
       "h5": "Prevalence rates of self-reported long COVID according to socio-demographic characteristics, UK:four-week period ending 6 March 2021",
       "title": "Prevalence of self-reported long COVID varies across socio-demographic groups",
-      "url": "/visualisations/dvc1316/long-covid/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1316/long-covid/index.html",
+      "url_new": "/visualisations/dvc1316/long-covid/index.html"
     },
     {
       "type": "heading",
@@ -249,7 +252,8 @@
       "h3": null,
       "h4": null,
       "h5": "Notes:",
-      "text": "[Download the data](/visualisations/dvc1316/long-covid/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1316/long-covid/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1316/long-covid/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -388,7 +392,8 @@
       "h4": null,
       "h5": "Number of households in temporary accommodation from 30 June 2018 to 31 December 2020, England",
       "title": "Number of households in temporary accommodation from 30 June 2018 to 31 December 2020, England ",
-      "url": "/visualisations/dvc1316/homelessness-TA/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1316/homelessness-TA/index.html",
+      "url_new": "/visualisations/dvc1316/homelessness-TA/index.html"
     },
     {
       "type": "heading",
@@ -437,7 +442,8 @@
       "h3": null,
       "h4": null,
       "h5": "Notes:",
-      "text": "[Download the data](/visualisations/dvc1316/homelessness-TA/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1316/homelessness-TA/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1316/homelessness-TA/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -600,7 +606,8 @@
       "h4": null,
       "h5": "Great Britain, February 2021",
       "title": "Disabled people more often reported coronavirus affected aspects of their lives",
-      "url": "/visualisations/dvc1316/disabled/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1316/disabled/index.html",
+      "url_new": "/visualisations/dvc1316/disabled/index.html"
     },
     {
       "type": "heading",
@@ -657,7 +664,8 @@
       "h3": null,
       "h4": null,
       "h5": "Notes:",
-      "text": "[Download the data](/visualisations/dvc1316/disabled/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1316/disabled/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1316/disabled/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -789,7 +797,8 @@
       "h4": null,
       "h5": "Adults in Great Britain, December 2020 to April 2021",
       "title": "Increase in number of younger people with positive sentiment towards the coronavirus vaccine since the start of the vaccination programme  ",
-      "url": "/visualisations/dvc1316/vaccine-overtime/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1316/vaccine-overtime/index.html",
+      "url_new": "/visualisations/dvc1316/vaccine-overtime/index.html"
     },
     {
       "type": "heading",
@@ -846,7 +855,8 @@
       "h3": null,
       "h4": null,
       "h5": "Notes:",
-      "text": "[Download the data](/visualisations/dvc1316/vaccine-overtime/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1316/vaccine-overtime/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1316/vaccine-overtime/datadownload.xlsx)"
     },
     {
       "type": "p",

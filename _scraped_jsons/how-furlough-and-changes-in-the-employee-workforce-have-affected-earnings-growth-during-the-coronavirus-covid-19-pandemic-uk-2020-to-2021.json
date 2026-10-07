@@ -340,7 +340,8 @@
       "h4": "Figure 1: The composition of the employee workforce changed considerably during the coronavirus pandemic",
       "h5": "Proportion of employees by employee and job characteristic, indexed, January to March 2015 to October to December 2021",
       "title": "Figure 1",
-      "url": "/visualisations/dvc1935/fig1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1935/fig1/index.html",
+      "url_new": "/visualisations/dvc1935/fig1/index.html"
     },
     {
       "type": "heading",
@@ -374,7 +375,8 @@
       "h3": null,
       "h4": "Figure 1: The composition of the employee workforce changed considerably during the coronavirus pandemic",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc1935/fig1/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc1935/fig1/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc1935/fig1/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -499,8 +501,9 @@
       "chartbuilder_h3": "Figure 2: Changes in the composition of the employee workforce increased earnings growth substantially during the coronavirus pandemic",
       "chartbuilder_h4": "Average weekly earnings annual growth rates (LFS), not seasonally adjusted, broken down into furlough effect, compositional effect and underlying growth, UK, January to March 2008 to October to December 2021",
       "data_uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/howfurloughandchangesintheemployeeworkforcehaveaffectedearningsgrowthduringthecoronaviruscovid19pandemicuk2020to2021/2022-04-29/5b8b9515",
-      "src": "/_scraped_chartbuilder_imgs/5b8b9515.png",
-      "local_filename": "5b8b9515.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/howfurloughandchangesintheemployeeworkforcehaveaffectedearningsgrowthduringthecoronaviruscovid19pandemicuk2020to2021/2022-04-29/5b8b9515&width=&hideSource=true",
+      "local_filename": "5b8b9515.png",
+      "src_new": "/_scraped_chartbuilder_imgs/5b8b9515.png"
     },
     {
       "type": "p",
@@ -560,8 +563,9 @@
       "chartbuilder_h3": "Figure 3a: The change in the proportion of part-time workers contributed 1.7 percentage points to the compositional effect in January to March 2021",
       "chartbuilder_h4": "Compositional effect of average weekly earnings annual growth rates (LFS), not seasonally adjusted, contributions by characteristics of the employee workforce, UK, January to March 2020 to October to December 2021",
       "data_uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/howfurloughandchangesintheemployeeworkforcehaveaffectedearningsgrowthduringthecoronaviruscovid19pandemicuk2020to2021/2022-04-29/ad2f9025",
-      "src": "/_scraped_chartbuilder_imgs/ad2f9025.png",
-      "local_filename": "ad2f9025.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/howfurloughandchangesintheemployeeworkforcehaveaffectedearningsgrowthduringthecoronaviruscovid19pandemicuk2020to2021/2022-04-29/ad2f9025&width=&hideSource=true",
+      "local_filename": "ad2f9025.png",
+      "src_new": "/_scraped_chartbuilder_imgs/ad2f9025.png"
     },
     {
       "type": "heading",
@@ -596,7 +600,8 @@
       "h4": "Figure 3b: The largest contributors to the compositional effect throughout 2020 were part-time status, qualifications and occupation",
       "h5": "Compositional effect of average weekly earnings annual growth rates (LFS), not seasonally adjusted, contributions by characteristics of the employee workforce, UK, January to March 2020 to October to December 2021",
       "title": "Figure 1",
-      "url": "/visualisations/dvc1935/fig3b/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1935/fig3b/index.html",
+      "url_new": "/visualisations/dvc1935/fig3b/index.html"
     },
     {
       "type": "heading",
@@ -613,7 +618,8 @@
       "h3": null,
       "h4": "Figure 3b: The largest contributors to the compositional effect throughout 2020 were part-time status, qualifications and occupation",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc1935/fig3b/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc1935/fig3b/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc1935/fig3b/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -729,8 +735,9 @@
       "chartbuilder_h3": "Figure 4a: The compositional effect was smaller during the global financial crisis, compared with the coronavirus pandemic",
       "chartbuilder_h4": "Compositional effect of average weekly earnings annual growth rates (LFS), not seasonally adjusted, contributions by characteristics of the employee workforce, UK, January to March 2008 to October to December 2021",
       "data_uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/howfurloughandchangesintheemployeeworkforcehaveaffectedearningsgrowthduringthecoronaviruscovid19pandemicuk2020to2021/2022-04-29/5e02e303",
-      "src": "/_scraped_chartbuilder_imgs/5e02e303.png",
-      "local_filename": "5e02e303.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/howfurloughandchangesintheemployeeworkforcehaveaffectedearningsgrowthduringthecoronaviruscovid19pandemicuk2020to2021/2022-04-29/5e02e303&width=&hideSource=true",
+      "local_filename": "5e02e303.png",
+      "src_new": "/_scraped_chartbuilder_imgs/5e02e303.png"
     },
     {
       "type": "heading",
@@ -765,7 +772,8 @@
       "h4": "Figure 4b: Part-time status, occupation and qualifications also made notable contributions to the compositional effect between 2008 and 2011",
       "h5": "Compositional effect of average weekly earnings annual growth rates (LFS), not seasonally adjusted, contributions by characteristics of the employee workforce, UK, January to March 2008 to October to December 2011",
       "title": "Figure 1",
-      "url": "/visualisations/dvc1935/fig4b/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1935/fig4b/index.html",
+      "url_new": "/visualisations/dvc1935/fig4b/index.html"
     },
     {
       "type": "heading",
@@ -782,7 +790,8 @@
       "h3": null,
       "h4": "Figure 4b: Part-time status, occupation and qualifications also made notable contributions to the compositional effect between 2008 and 2011",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc1935/fig4b/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc1935/fig4b/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc1935/fig4b/datadownload.xlsx)"
     },
     {
       "type": "p",

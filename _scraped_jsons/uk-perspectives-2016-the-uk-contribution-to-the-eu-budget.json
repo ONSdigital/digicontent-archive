@@ -62,7 +62,7 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "This article is part of a series of [UK Perspectives](/visualisations/20170726163612/https://visual.ons.gov.uk/introducing-uk-perspectives-2016/), on topics such as the economy and housing, as well as two new articles; this one and another on UK trade within the EU and beyond."
+      "text": "This article is part of a series of [UK Perspectives](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/introducing-uk-perspectives-2016/), on topics such as the economy and housing, as well as two new articles; this one and another on UK trade within the EU and beyond."
     },
     {
       "type": "p",
@@ -79,7 +79,8 @@
       "h4": null,
       "h5": null,
       "title": "UK Contributions to the EU",
-      "url": "/visualisations/nesscontent/dvc332/share%20of%20budget/stackedbar/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc332/share%20of%20budget/stackedbar/index.html",
+      "url_new": "/visualisations/nesscontent/dvc332/share%20of%20budget/stackedbar/index.html"
     },
     {
       "type": "heading",
@@ -113,7 +114,8 @@
       "h4": null,
       "h5": null,
       "title": "Context Calculator",
-      "url": "/visualisations/nesscontent/dvc332/calculator/content.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc332/calculator/content.html",
+      "url_new": "/visualisations/nesscontent/dvc332/calculator/content.html"
     },
     {
       "type": "heading",
@@ -156,7 +158,8 @@
       "h4": "UK contributions to the EU budget, 2010 to 2014",
       "h5": null,
       "title": "UK contributions to the EU budget, 2010 to 2014",
-      "url": "/visualisations/nesscontent/dvc332/timeseries/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc332/timeseries/index.html",
+      "url_new": "/visualisations/nesscontent/dvc332/timeseries/index.html"
     },
     {
       "type": "p",
@@ -164,7 +167,7 @@
       "h3": "The UK contribution over time",
       "h4": "UK contributions to the EU budget, 2010 to 2014",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2016/05/Data-Download-for-UK-contributions-over-time-with-years.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2016/05/Data-Download-for-UK-contributions-over-time-with-years.csv)"
     },
     {
       "type": "heading",

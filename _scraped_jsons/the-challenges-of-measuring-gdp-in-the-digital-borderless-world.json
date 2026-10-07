@@ -78,7 +78,8 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[](/visualisations//visual/2016/11/6.jpg)"
+      "text": "[](https://static.ons.gov.uk/visual/2016/11/6.jpg)",
+      "text_new": "[](/visual/2016/11/6.jpg)"
     },
     {
       "type": "image",
@@ -86,8 +87,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations//visual/2016/11/6.jpg",
-      "alt": null
+      "src": "https://static.ons.gov.uk/visual/2016/11/6.jpg",
+      "alt": null,
+      "src_new": "/visual/2016/11/6.jpg"
     },
     {
       "type": "p",
@@ -129,7 +131,8 @@
       "h4": "Internet Retail Sales (non-seasonally adjusted), UK, January 2007 to January 2016",
       "h5": null,
       "title": "Internet Retail Sales (non-seasonally adjusted), UK, January 2007 to January 2016",
-      "url": "/visualisations/dvc3822/DVC382/gdp/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc3822/DVC382/gdp/index.html",
+      "url_new": "/visualisations/dvc3822/DVC382/gdp/index.html"
     },
     {
       "type": "p",
@@ -137,7 +140,7 @@
       "h3": null,
       "h4": "Internet Retail Sales (non-seasonally adjusted), UK, January 2007 to January 2016",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2016/11/Internet-Retail-Sales.xlsx)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2016/11/Internet-Retail-Sales.xlsx)"
     },
     {
       "type": "p",
@@ -177,7 +180,8 @@
       "h3": null,
       "h4": "Internet Retail Sales (non-seasonally adjusted), UK, January 2007 to January 2016",
       "h5": null,
-      "text": "[](/visualisations//visual/2016/11/1.jpg)"
+      "text": "[](https://static.ons.gov.uk/visual/2016/11/1.jpg)",
+      "text_new": "[](/visual/2016/11/1.jpg)"
     },
     {
       "type": "image",
@@ -185,8 +189,9 @@
       "h3": null,
       "h4": "Internet Retail Sales (non-seasonally adjusted), UK, January 2007 to January 2016",
       "h5": null,
-      "src": "/visualisations//visual/2016/11/1.jpg",
-      "alt": null
+      "src": "https://static.ons.gov.uk/visual/2016/11/1.jpg",
+      "alt": null,
+      "src_new": "/visual/2016/11/1.jpg"
     },
     {
       "type": "p",
@@ -274,7 +279,8 @@
       "h3": null,
       "h4": "Internet Retail Sales (non-seasonally adjusted), UK, January 2007 to January 2016",
       "h5": null,
-      "text": "[](/visualisations//visual/2016/11/4.jpg)"
+      "text": "[](https://static.ons.gov.uk/visual/2016/11/4.jpg)",
+      "text_new": "[](/visual/2016/11/4.jpg)"
     },
     {
       "type": "image",
@@ -282,8 +288,9 @@
       "h3": null,
       "h4": "Internet Retail Sales (non-seasonally adjusted), UK, January 2007 to January 2016",
       "h5": null,
-      "src": "/visualisations//visual/2016/11/4.jpg",
-      "alt": null
+      "src": "https://static.ons.gov.uk/visual/2016/11/4.jpg",
+      "alt": null,
+      "src_new": "/visual/2016/11/4.jpg"
     },
     {
       "type": "p",
@@ -331,7 +338,7 @@
       "h3": null,
       "h4": "Internet Retail Sales (non-seasonally adjusted), UK, January 2007 to January 2016",
       "h5": null,
-      "text": "[](/visualisations//visual/2016/11/image002-1.jpg)"
+      "text": "[](https://static.ons.gov.uk/visual/2016/11/image002-1.jpg)"
     },
     {
       "type": "image",
@@ -339,8 +346,9 @@
       "h3": null,
       "h4": "Internet Retail Sales (non-seasonally adjusted), UK, January 2007 to January 2016",
       "h5": null,
-      "src": "/visualisations/20170726163612/https://visual.ons.gov.uk/wp-content/uploads/2016/11/image002-1-200x200.jpg",
-      "alt": null
+      "src": "http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/wp-content/uploads/2016/11/image002-1-200x200.jpg",
+      "alt": null,
+      "src_new": "/20170726163612/https://visual.ons.gov.uk/wp-content/uploads/2016/11/image002-1-200x200.jpg"
     },
     {
       "type": "p",

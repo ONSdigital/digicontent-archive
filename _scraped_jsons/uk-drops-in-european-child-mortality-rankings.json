@@ -120,7 +120,8 @@
       "h4": "Neonatal mortality rankings, European Union countries, 1990 to 2015",
       "h5": null,
       "title": "Neonatal mortality rankings, European Union countries, 1990 to 2015",
-      "url": "/visualisations/dvc448/slope/neonatal/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc448/slope/neonatal/index.html",
+      "url_new": "/visualisations/dvc448/slope/neonatal/index.html"
     },
     {
       "type": "p",
@@ -128,7 +129,7 @@
       "h3": "Neonatal mortality",
       "h4": "Neonatal mortality rankings, European Union countries, 1990 to 2015",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2017/10/neonataldatafordownload.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2017/10/neonataldatafordownload.csv)"
     },
     {
       "type": "p",
@@ -203,7 +204,8 @@
       "h4": "Under-five mortality rankings, European Union countries, 1990 to 2015",
       "h5": null,
       "title": "Under-five mortality rankings, European Union countries, 1990 to 2015",
-      "url": "/visualisations/dvc448/slope/under5/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc448/slope/under5/index.html",
+      "url_new": "/visualisations/dvc448/slope/under5/index.html"
     },
     {
       "type": "p",
@@ -211,7 +213,7 @@
       "h3": "Under-five mortality",
       "h4": "Under-five mortality rankings, European Union countries, 1990 to 2015",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2017/10/under5datafordownload.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2017/10/under5datafordownload.csv)"
     },
     {
       "type": "p",
@@ -277,7 +279,8 @@
       "h4": null,
       "h5": null,
       "title": "Neonatal and Under-five Mortality rates",
-      "url": "/visualisations/dvc448/multiline/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc448/multiline/index.html",
+      "url_new": "/visualisations/dvc448/multiline/index.html"
     },
     {
       "type": "p",
@@ -285,7 +288,7 @@
       "h3": "Global child mortality rates",
       "h4": null,
       "h5": null,
-      "text": "[Download the data for under-five](/visualisations//visual/2017/10/globalunder5.csv)"
+      "text": "[Download the data for under-five](https://static.ons.gov.uk/visual/2017/10/globalunder5.csv)"
     },
     {
       "type": "p",
@@ -293,7 +296,7 @@
       "h3": "Global child mortality rates",
       "h4": null,
       "h5": null,
-      "text": "[Download the data for neonatal](/visualisations//visual/2017/10/globalneonatal.csv)"
+      "text": "[Download the data for neonatal](https://static.ons.gov.uk/visual/2017/10/globalneonatal.csv)"
     },
     {
       "type": "heading",

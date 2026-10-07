@@ -149,7 +149,8 @@
       "h4": null,
       "h5": null,
       "title": "Map",
-      "url": "/visualisations/dvc791/mapnav/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc791/mapnav/index.html",
+      "url_new": "/visualisations/dvc791/mapnav/index.html"
     },
     {
       "type": "heading",
@@ -190,7 +191,8 @@
       "h3": null,
       "h4": null,
       "h5": "Notes:",
-      "text": "[Download the data](/visualisations/dvc791/mapnav/datadownload.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc791/mapnav/datadownload.csv)",
+      "text_new": "[Download the data](/visualisations/dvc791/mapnav/datadownload.csv)"
     },
     {
       "type": "heading",

@@ -86,8 +86,9 @@
       "chartbuilder_h3": "Number of referrals to IAPT and secondary mental health, learning disabilities and autism services, England, January 2019 to November 2020",
       "chartbuilder_h4": "Source: NHS Digital, Improving Access to Psychological Therapies (IAPT) data set reports, NHS Digital, Mental Health Services Monthly Statistics",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19inchartswhatwelearnedoverthepastmonth/2021-03-01/ab29e2e6",
-      "src": "/_scraped_chartbuilder_imgs/ab29e2e6.png",
-      "local_filename": "ab29e2e6.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19inchartswhatwelearnedoverthepastmonth/2021-03-01/ab29e2e6&width=&hideSource=true",
+      "local_filename": "ab29e2e6.png",
+      "src_new": "/_scraped_chartbuilder_imgs/ab29e2e6.png"
     },
     {
       "type": "p",
@@ -163,8 +164,9 @@
       "chartbuilder_h3": "Appointments in General Practice by type, England, July 2018 to January 2021",
       "chartbuilder_h4": "Source: NHS Digital, Appointments in General Practice",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19inchartswhatwelearnedoverthepastmonth/2021-03-01/6c4b96e9",
-      "src": "/_scraped_chartbuilder_imgs/6c4b96e9.png",
-      "local_filename": "6c4b96e9.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19inchartswhatwelearnedoverthepastmonth/2021-03-01/6c4b96e9&width=&hideSource=true",
+      "local_filename": "6c4b96e9.png",
+      "src_new": "/_scraped_chartbuilder_imgs/6c4b96e9.png"
     },
     {
       "type": "p",
@@ -248,8 +250,9 @@
       "chartbuilder_h3": "Proportion of businesses’ workforce on furlough leave, UK, March 2020 to February 2021",
       "chartbuilder_h4": "Source: Office for National Statistics, Business Impact of Coronavirus (COVID-19) Survey",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19inchartswhatwelearnedoverthepastmonth/2021-03-01/d883d154",
-      "src": "/_scraped_chartbuilder_imgs/d883d154.png",
-      "local_filename": "d883d154.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19inchartswhatwelearnedoverthepastmonth/2021-03-01/d883d154&width=&hideSource=true",
+      "local_filename": "d883d154.png",
+      "src_new": "/_scraped_chartbuilder_imgs/d883d154.png"
     },
     {
       "type": "p",
@@ -301,8 +304,9 @@
       "chartbuilder_h3": "Percentage change in number of people employed by industry of main job, quarter on same quarter of previous year, non-seasonally adjusted, UK",
       "chartbuilder_h4": "Source: Office for National Statistics - Labour Force Survey",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19inchartswhatwelearnedoverthepastmonth/2021-03-01/249a3280",
-      "src": "/_scraped_chartbuilder_imgs/249a3280.png",
-      "local_filename": "249a3280.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19inchartswhatwelearnedoverthepastmonth/2021-03-01/249a3280&width=&hideSource=true",
+      "local_filename": "249a3280.png",
+      "src_new": "/_scraped_chartbuilder_imgs/249a3280.png"
     },
     {
       "type": "p",
@@ -369,7 +373,8 @@
       "h4": null,
       "h5": "Estimated percentage of the population testing positive for COVID-19 on nose and throat swabs by patient-facing role and age, England, from 1 September 2020 to 6 February 2021",
       "title": "Estimated percentage of the population testing positive for the coronavirus (COVID-19) on nose and throat swabs, by patient-facing role and age, England, from 1 September 2020 to 6 February 2021",
-      "url": "/visualisations/dvc1205/patientfacing/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1205/patientfacing/index.html",
+      "url_new": "/visualisations/dvc1205/patientfacing/index.html"
     },
     {
       "type": "p",
@@ -476,7 +481,8 @@
       "h4": "Percentage of adults who said they had either received or would like to have the vaccine if offered, Great Britain, 17 to 21 February 2021",
       "h5": null,
       "title": "Young adults more likely to refuse a vaccine if offered, of all age groups",
-      "url": "/visualisations/dvc1212/vaccine-agegroup/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1212/vaccine-agegroup/index.html",
+      "url_new": "/visualisations/dvc1212/vaccine-agegroup/index.html"
     },
     {
       "type": "heading",

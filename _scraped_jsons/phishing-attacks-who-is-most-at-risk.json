@@ -97,8 +97,9 @@
       "chartbuilder_h3": "Advance fee fraud is significantly higher than pre-pandemic levels",
       "chartbuilder_h4": "Incidents of fraud, England and Wales, year ending March 2017 to year ending March 2020, Crime Survey of England and Wales, and year ending March 2022 interviews, Telephone Operated Crime Survey of England and Wales",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/articles/phishingattackswhoismostatrisk/2022-09-26/e9bf52e4",
-      "src": "/_scraped_chartbuilder_imgs/e9bf52e4.png",
-      "local_filename": "e9bf52e4.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/crimeandjustice/articles/phishingattackswhoismostatrisk/2022-09-26/e9bf52e4&width=&hideSource=true",
+      "local_filename": "e9bf52e4.png",
+      "src_new": "/_scraped_chartbuilder_imgs/e9bf52e4.png"
     },
     {
       "type": "p",
@@ -183,7 +184,7 @@
       "chartbuilder_h3": null,
       "chartbuilder_h4": "Phishing attacks have exploited the COVID-19 pandemic",
       "data_uri": null,
-      "src": "https://www.ons.gov.uk/resource?uri=/peoplepopulationandcommunity/crimeandjustice/articles/phishingattackswhoismostatrisk/2022-09-26/a0e6a0ef.png"
+      "src": null
     },
     {
       "type": "p",
@@ -226,7 +227,7 @@
       "chartbuilder_h3": null,
       "chartbuilder_h4": "Some phishing messages mimic genuine government support",
       "data_uri": null,
-      "src": "https://www.ons.gov.uk/resource?uri=/peoplepopulationandcommunity/crimeandjustice/articles/phishingattackswhoismostatrisk/2022-09-26/1515a947.png"
+      "src": null
     },
     {
       "type": "p",
@@ -351,8 +352,9 @@
       "chartbuilder_h3": "More than half of those who received phishing messages reported they were from senders posing as delivery companies",
       "chartbuilder_h4": "If you have received a potential phishing message in the last month, what type of company were they pretending to be? TCSEW October 2021 to March 2022 interviews England and Wales",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/articles/phishingattackswhoismostatrisk/2022-09-26/45a247c0",
-      "src": "/_scraped_chartbuilder_imgs/45a247c0.png",
-      "local_filename": "45a247c0.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/crimeandjustice/articles/phishingattackswhoismostatrisk/2022-09-26/45a247c0&width=&hideSource=true",
+      "local_filename": "45a247c0.png",
+      "src_new": "/_scraped_chartbuilder_imgs/45a247c0.png"
     },
     {
       "type": "p",
@@ -469,8 +471,9 @@
       "chartbuilder_h3": "Those aged 25 to 44 years were most likely to receive a phishing message",
       "chartbuilder_h4": "Proportion of adults who received a message that may have been phishing and the proportion of those who replied to or clicked on a link in the message, by personal characteristics",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/articles/phishingattackswhoismostatrisk/2022-09-26/537143ae",
-      "src": "/_scraped_chartbuilder_imgs/537143ae.png",
-      "local_filename": "537143ae.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/crimeandjustice/articles/phishingattackswhoismostatrisk/2022-09-26/537143ae&width=&hideSource=true",
+      "local_filename": "537143ae.png",
+      "src_new": "/_scraped_chartbuilder_imgs/537143ae.png"
     },
     {
       "type": "p",
@@ -561,8 +564,9 @@
       "chartbuilder_h3": "Adults in the least deprived areas of England were more likely to have received phishing messages",
       "chartbuilder_h4": "Proportion of adults who received a message that may have been phishing and the proportion of those who replied to or clicked on a link in the message, by personal characteristics",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/articles/phishingattackswhoismostatrisk/2022-09-26/7720693c",
-      "src": "/_scraped_chartbuilder_imgs/7720693c.png",
-      "local_filename": "7720693c.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/crimeandjustice/articles/phishingattackswhoismostatrisk/2022-09-26/7720693c&width=&hideSource=true",
+      "local_filename": "7720693c.png",
+      "src_new": "/_scraped_chartbuilder_imgs/7720693c.png"
     },
     {
       "type": "p",
@@ -766,5 +770,5 @@
       "box_items": null
     }
   ],
-  "scraped_at": "2026-09-28 13:31:50.46889"
+  "scraped_at": "2026-09-22 11:46:52.00084"
 }

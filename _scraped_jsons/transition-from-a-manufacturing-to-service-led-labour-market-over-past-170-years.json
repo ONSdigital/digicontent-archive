@@ -77,7 +77,8 @@
       "h4": "Composition of the labour force, England and Wales, 1841 to 2011",
       "h5": null,
       "title": "Composition of the labour force, England and Wales, 1841 to 2011",
-      "url": "/visualisations/nesscontent/dvc255/WaT_chart1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc255/WaT_chart1/index.html",
+      "url_new": "/visualisations/nesscontent/dvc255/WaT_chart1/index.html"
     },
     {
       "type": "p",
@@ -85,7 +86,7 @@
       "h3": "80% of workers were in the service industry in 2011",
       "h4": "Composition of the labour force, England and Wales, 1841 to 2011",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2015/08/Work_Chart1.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2015/08/Work_Chart1.csv)"
     },
     {
       "type": "p",
@@ -136,7 +137,8 @@
       "h4": "Percentage of self employed and home workers, England and Wales, 2011",
       "h5": null,
       "title": "Percentage of self employed and home workers, England and Wales, 2011",
-      "url": "/visualisations/nesscontent/dvc255/WaT_chart2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc255/WaT_chart2/index.html",
+      "url_new": "/visualisations/nesscontent/dvc255/WaT_chart2/index.html"
     },
     {
       "type": "p",
@@ -144,7 +146,7 @@
       "h3": "Self employment and home working highest in rural areas in 2011",
       "h4": "Percentage of self employed and home workers, England and Wales, 2011",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2015/08/Work-_Chart2.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2015/08/Work-_Chart2.csv)"
     },
     {
       "type": "p",
@@ -212,7 +214,8 @@
       "h4": "Method of travel to work, England and Wales, 2011",
       "h5": null,
       "title": "Method of travel to work, England and Wales, 2011",
-      "url": "/visualisations/nesscontent/dvc255/WaT_chart5/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc255/WaT_chart5/index.html",
+      "url_new": "/visualisations/nesscontent/dvc255/WaT_chart5/index.html"
     },
     {
       "type": "p",
@@ -220,7 +223,7 @@
       "h3": "Over half the working population drove to work but less than 1 in 10 carried a passenger",
       "h4": "Method of travel to work, England and Wales, 2011",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2015/08/data-copy.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2015/08/data-copy.csv)"
     },
     {
       "type": "p",
@@ -271,7 +274,8 @@
       "h4": "Percentage change from 2001 in the number of people cycling to work, England and Wales, 2011",
       "h5": null,
       "title": "Percentage change from 2001 in the number of people cycling to work, England and Wales, 2011",
-      "url": "/visualisations/nesscontent/dvc255/WaT_chart4/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc255/WaT_chart4/index.html",
+      "url_new": "/visualisations/nesscontent/dvc255/WaT_chart4/index.html"
     },
     {
       "type": "p",
@@ -279,7 +283,7 @@
       "h3": "Capital leads the way with number of people cycling to work doubling since 2001",
       "h4": "Percentage change from 2001 in the number of people cycling to work, England and Wales, 2011",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2015/08/data3.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2015/08/data3.csv)"
     },
     {
       "type": "p",
@@ -304,7 +308,8 @@
       "h3": "Workday population of City of London 56x greater than usual resident population",
       "h4": null,
       "h5": null,
-      "text": "[](/visualisations//visual/2015/07/cartoFINAL1.gif) Source: [2011 Census Analysis, Office for National Statistics](http://www.neighbourhood.statistics.gov.uk/HTMLDocs/dvc128/wrapper.html)"
+      "text": "[](https://static.ons.gov.uk/visual/2015/07/cartoFINAL1.gif) Source: [2011 Census Analysis, Office for National Statistics](http://www.neighbourhood.statistics.gov.uk/HTMLDocs/dvc128/wrapper.html)",
+      "text_new": "[](/visual/2015/07/cartoFINAL1.gif) Source: [2011 Census Analysis, Office for National Statistics](http://www.neighbourhood.statistics.gov.uk/HTMLDocs/dvc128/wrapper.html)"
     },
     {
       "type": "image",
@@ -312,8 +317,9 @@
       "h3": "Workday population of City of London 56x greater than usual resident population",
       "h4": null,
       "h5": null,
-      "src": "/visualisations//visual/2015/07/cartoFINAL1.gif",
-      "alt": null
+      "src": "https://static.ons.gov.uk/visual/2015/07/cartoFINAL1.gif",
+      "alt": null,
+      "src_new": "/visual/2015/07/cartoFINAL1.gif"
     },
     {
       "type": "p",

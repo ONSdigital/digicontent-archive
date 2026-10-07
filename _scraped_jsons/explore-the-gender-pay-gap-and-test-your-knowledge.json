@@ -120,7 +120,8 @@
       "h4": "Annual Survey of Hours and Earnings full-time 1 gender pay gap2, 2017, UK",
       "h5": null,
       "title": "Annual Survey of Hours and Earnings full-time <sup>1<\/sup> gender pay gap<sup>2<\/sup>, 2017, UK",
-      "url": "/visualisations/dvc384/quiz/quiz/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc384/quiz/quiz/index.html",
+      "url_new": "/visualisations/dvc384/quiz/quiz/index.html"
     },
     {
       "type": "heading",
@@ -187,7 +188,8 @@
       "h4": null,
       "h5": null,
       "title": "What is the gender pay gap for your job?",
-      "url": "/visualisations/dvc384/explorer/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc384/explorer/index.html",
+      "url_new": "/visualisations/dvc384/explorer/index.html"
     },
     {
       "type": "p",

@@ -117,7 +117,8 @@
       "h4": "Difference between proportions of men and women in full-time employment, and gender pay gap per hour, by occupation group",
       "h5": null,
       "title": "Difference between proportions of men and women in full-time employment, and gender pay gap per hour, by occupation group",
-      "url": "/visualisations/dvc446/fulltime/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc446/fulltime/index.html",
+      "url_new": "/visualisations/dvc446/fulltime/index.html"
     },
     {
       "type": "p",
@@ -125,7 +126,7 @@
       "h3": "Women working full-time earn less, on average, than men in all major occupation groups",
       "h4": "Difference between proportions of men and women in full-time employment, and gender pay gap per hour, by occupation group",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2017/10/occupationgroups.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2017/10/occupationgroups.csv)"
     },
     {
       "type": "p",
@@ -150,7 +151,8 @@
       "h4": "Difference between proportions of men and women in full-time employment, and gender pay gap per hour, by occupation group",
       "h5": null,
       "title": "What is the gender pay gap for your job?",
-      "url": "/visualisations/dvc446/explorer/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc446/explorer/index.html",
+      "url_new": "/visualisations/dvc446/explorer/index.html"
     },
     {
       "type": "p",
@@ -158,7 +160,7 @@
       "h3": "Women working full-time earn less, on average, than men in all major occupation groups",
       "h4": "Difference between proportions of men and women in full-time employment, and gender pay gap per hour, by occupation group",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2017/10/specificjobs.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2017/10/specificjobs.csv)"
     },
     {
       "type": "p",

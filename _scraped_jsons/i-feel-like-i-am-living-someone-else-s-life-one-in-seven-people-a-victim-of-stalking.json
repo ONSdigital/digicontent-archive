@@ -38,8 +38,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc3044/images/header.svg",
-      "alt": null
+      "src": "https://www.ons.gov.uk/visualisations/dvc3044/images/header.svg",
+      "alt": null,
+      "src_new": "/visualisations/dvc3044/images/header.svg"
     },
     {
       "type": "p",
@@ -171,7 +172,8 @@
       "h4": "Stalking prevalence has remained consistent in recent years",
       "h5": "Prevalence of stalking in the last year among people aged 16 to 59 years, England and Wales, YE March 2014 to YE March 2024",
       "title": "Figure 1",
-      "url": "/visualisations/dvc3044/fig01/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc3044/fig01/index.html",
+      "url_new": "/visualisations/dvc3044/fig01/index.html"
     },
     {
       "type": "heading",
@@ -212,7 +214,8 @@
       "h3": null,
       "h4": "Notes:",
       "h5": null,
-      "text": "[Download the data for stalking prevalence in the last 10 years [XLSX, 16KB]](/visualisations/dvc3044/fig01/datadownload.xlsx)"
+      "text": "[Download the data for stalking prevalence in the last 10 years [XLSX, 16KB]](https://www.ons.gov.uk/visualisations/dvc3044/fig01/datadownload.xlsx)",
+      "text_new": "[Download the data for stalking prevalence in the last 10 years [XLSX, 16KB]](/visualisations/dvc3044/fig01/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -312,7 +315,8 @@
       "h4": "Around 1 in 5 women aged 16 years and over have been a victim of stalking",
       "h5": "Prevalence of stalking since the age of 16 years and in the last year among people aged 16 years and over, England and Wales, YE March 2024",
       "title": "Figure 2",
-      "url": "/visualisations/dvc3044/fig02/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc3044/fig02/index.html",
+      "url_new": "/visualisations/dvc3044/fig02/index.html"
     },
     {
       "type": "heading",
@@ -337,7 +341,8 @@
       "h3": null,
       "h4": "Around 1 in 5 women aged 16 years and over have been a victim of stalking",
       "h5": "Notes:",
-      "text": "[Download the data for stalking prevalence [XLSX, 16KB]](/visualisations/dvc3044/fig02/datadownload.xlsx)"
+      "text": "[Download the data for stalking prevalence [XLSX, 16KB]](https://www.ons.gov.uk/visualisations/dvc3044/fig02/datadownload.xlsx)",
+      "text_new": "[Download the data for stalking prevalence [XLSX, 16KB]](/visualisations/dvc3044/fig02/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -380,7 +385,8 @@
       "h4": "People aged 16 to 19 years were more likely to be stalking victims in the year ending March 2024",
       "h5": "Percentage of people aged 16 years and over who were victims of stalking in the last year, by age. England and Wales, YE March 2024",
       "title": "Figure 3",
-      "url": "/visualisations/dvc3044/fig03/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc3044/fig03/index.html",
+      "url_new": "/visualisations/dvc3044/fig03/index.html"
     },
     {
       "type": "heading",
@@ -405,7 +411,8 @@
       "h3": null,
       "h4": "People aged 16 to 19 years were more likely to be stalking victims in the year ending March 2024",
       "h5": "Notes:",
-      "text": "[Download the data for stalking victims by age band [XLSX, 16KB]](/visualisations/dvc3044/fig03/datadownload.xlsx)"
+      "text": "[Download the data for stalking victims by age band [XLSX, 16KB]](https://www.ons.gov.uk/visualisations/dvc3044/fig03/datadownload.xlsx)",
+      "text_new": "[Download the data for stalking victims by age band [XLSX, 16KB]](/visualisations/dvc3044/fig03/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -456,7 +463,8 @@
       "h4": "Around 1 in 5 victims were stalked by a partner or ex-partner",
       "h5": "Estimated number of victims of stalking by type of stalking and sex. England and Wales, YE March 2024.",
       "title": "Figure 4",
-      "url": "/visualisations/dvc3044/fig04/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc3044/fig04/index.html",
+      "url_new": "/visualisations/dvc3044/fig04/index.html"
     },
     {
       "type": "heading",
@@ -489,7 +497,8 @@
       "h3": null,
       "h4": "Around 1 in 5 victims were stalked by a partner or ex-partner",
       "h5": "Notes:",
-      "text": "[Download the data for types of stalking [XLSX, 16KB]](/visualisations/dvc3044/fig04/datadownload.xlsx)"
+      "text": "[Download the data for types of stalking [XLSX, 16KB]](https://www.ons.gov.uk/visualisations/dvc3044/fig04/datadownload.xlsx)",
+      "text_new": "[Download the data for types of stalking [XLSX, 16KB]](/visualisations/dvc3044/fig04/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -613,8 +622,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc3044/images/bannerWindow.svg",
-      "alt": null
+      "src": "https://www.ons.gov.uk/visualisations/dvc3044/images/bannerWindow.svg",
+      "alt": null,
+      "src_new": "/visualisations/dvc3044/images/bannerWindow.svg"
     },
     {
       "type": "heading",
@@ -738,8 +748,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc3044/images/bannerPhone.svg",
-      "alt": null
+      "src": "https://www.ons.gov.uk/visualisations/dvc3044/images/bannerPhone.svg",
+      "alt": null,
+      "src_new": "/visualisations/dvc3044/images/bannerPhone.svg"
     },
     {
       "type": "heading",

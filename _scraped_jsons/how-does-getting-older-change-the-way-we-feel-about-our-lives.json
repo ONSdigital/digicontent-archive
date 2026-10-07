@@ -161,7 +161,8 @@
       "h4": "Average personal well-being ratings by age, 2012 to 2015, United Kingdom",
       "h5": null,
       "title": "Average personal well-being ratings by age, 2012 to 2015, United Kingdom",
-      "url": "/visualisations/nesscontent/dvc238/four_charts/circles.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc238/four_charts/circles.html",
+      "url_new": "/visualisations/nesscontent/dvc238/four_charts/circles.html"
     },
     {
       "type": "p",
@@ -169,7 +170,7 @@
       "h3": "How personal well-being is measured",
       "h4": "Average personal well-being ratings by age, 2012 to 2015, United Kingdom",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2016/02/well-being.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2016/02/well-being.csv)"
     },
     {
       "type": "heading",
@@ -194,7 +195,7 @@
       "h3": "Why it is important to look at the well-being of older people",
       "h4": null,
       "h5": null,
-      "text": "[In 2014 there were more than half a million people aged 90 and older living in the UK, almost triple the number thirty years ago.](/visualisations/20160107070948/http://www.ons.gov.uk/ons/publications/re-reference-tables.html)"
+      "text": "[In 2014 there were more than half a million people aged 90 and older living in the UK, almost triple the number thirty years ago.](http://webarchive.nationalarchives.gov.uk/20160107070948/http://www.ons.gov.uk/ons/publications/re-reference-tables.html)"
     },
     {
       "type": "p",
@@ -228,7 +229,8 @@
       "h4": "Find out your chances of living to 100 with our life expectancy calculator:",
       "h5": null,
       "title": "Find out your chances of living to 100 with our life expectancy calculator:",
-      "url": "/visualisations/nesscontent/dvc221/longevity.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc221/longevity.html",
+      "url_new": "/visualisations/nesscontent/dvc221/longevity.html"
     },
     {
       "type": "p",
@@ -327,7 +329,8 @@
       "h4": null,
       "h5": null,
       "title": "Well-being map",
-      "url": "/visualisations/nesscontent/dvc238/index2.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc238/index2.html",
+      "url_new": "/visualisations/nesscontent/dvc238/index2.html"
     },
     {
       "type": "heading",
@@ -390,14 +393,14 @@
       "box_items": [
         "[Nine things you might not know about older people in the UK](https://visual.ons.gov.uk/nine-things-you-might-not-know-about-older-people-in-the-uk/)",
         "[What are your chances of living to 100?](https://visual.ons.gov.uk/what-are-your-chances-of-living-to-100/)",
-        "[Population Estimates for UK, England and Wales, Scotland and Northern Ireland 2001-2010](/visualisations/20160107070948/http://www.ons.gov.uk/ons/publications/re-reference-tables.html)",
+        "[Population Estimates for UK, England and Wales, Scotland and Northern Ireland 2001-2010](http://webarchive.nationalarchives.gov.uk/20160107070948/http://www.ons.gov.uk/ons/publications/re-reference-tables.html)",
         "[Measuring National Well-being: Insights into Loneliness, Older People and Well-being, 2015](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/articles/measuringnationalwellbeing/2015-10-01)",
         "[Measuring National Well-being: At what age is Personal Well-being the highest?](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/articles/measuringnationalwellbeing/atwhatageispersonalwellbeingthehighest)",
-        "[Measuring National Well-being, What matters most to Personal Well-being?](/visualisations/20160106043118/http://www.ons.gov.uk/ons/rel/wellbeing/measuring-national-well-being/what-matters-most-to-personal-well-being-in-the-uk-/index.html)",
+        "[Measuring National Well-being, What matters most to Personal Well-being?](http://webarchive.nationalarchives.gov.uk/20160106043118/http://www.ons.gov.uk/ons/rel/wellbeing/measuring-national-well-being/what-matters-most-to-personal-well-being-in-the-uk-/index.html)",
         "[Measuring National Well-being: Personal Well-being in the UK, 2014 to 2015](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/measuringnationalwellbeing/2015-09-23)",
         "[Healthy Life Expectancy at Birth for Upper Tier Local Authorities, England: 2011 to 2013](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/bulletins/healthylifeexpectancyatbirthforuppertierlocalauthoritiesengland/2015-03-26)",
-        "[Past and projected data from the period and cohort life tables, 2014-based](/visualisations/20160105182734/http://www.ons.gov.uk/ons/rel/lifetables/past-and-projected-data-from-the-period-and-cohort-life-tables/2014-based/index.html)",
-        "[Personal Well-being and Housing Tenure](/visualisations/20160105213411/http://www.ons.gov.uk/ons/rel/wellbeing/measuring-national-well-being/personal-well-being-in-the-uk--2014-15/sty-personal-well-being-and-housing-tenure.html)"
+        "[Past and projected data from the period and cohort life tables, 2014-based](http://webarchive.nationalarchives.gov.uk/20160105182734/http://www.ons.gov.uk/ons/rel/lifetables/past-and-projected-data-from-the-period-and-cohort-life-tables/2014-based/index.html)",
+        "[Personal Well-being and Housing Tenure](http://webarchive.nationalarchives.gov.uk/20160105213411/http://www.ons.gov.uk/ons/rel/wellbeing/measuring-national-well-being/personal-well-being-in-the-uk--2014-15/sty-personal-well-being-and-housing-tenure.html)"
       ]
     },
     {
@@ -408,7 +411,7 @@
       "h5": null,
       "box_h2": "Contact",
       "box_h3": null,
-      "box_text": "[digitalcontent@ons.gov.uk](mailto:digitalcontent@ons.gov.uk)\n",
+      "box_text": "[digitalcontent@ons.gov.uk](mailto:digitalcontent@ons.gov.uk )\n",
       "box_items": null
     }
   ],

@@ -302,7 +302,8 @@
       "h4": "Figure 1: Examples of the use of AI and automation in daily life",
       "h5": null,
       "title": "Figure 1: Examples of the use of AI and automation in daily life",
-      "url": "/visualisations/dvc2616b/interactive/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2616b/interactive/index.html",
+      "url_new": "/visualisations/dvc2616b/interactive/index.html"
     },
     {
       "type": "heading",
@@ -372,8 +373,9 @@
       "chartbuilder_h3": "Figure 2: Recent OPN findings indicate a greater public understanding of AI than previous PADAI survey results",
       "chartbuilder_h4": "Proportion of adults in the UK, 27 June to 18 July 2022 (PADAI) and Great Britain, 4 to 14 May 2023 (OPN)",
       "data_uri": "https://www.ons.gov.uk/businessindustryandtrade/itandinternetindustry/articles/understandingaiuptakeandsentimentamongpeopleandbusinessesintheuk/june2023/6417dc19",
-      "src": "/_scraped_chartbuilder_imgs/6417dc19.png",
-      "local_filename": "6417dc19.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/businessindustryandtrade/itandinternetindustry/articles/understandingaiuptakeandsentimentamongpeopleandbusinessesintheuk/june2023/6417dc19&width=&hideSource=true",
+      "local_filename": "6417dc19.png",
+      "src_new": "/_scraped_chartbuilder_imgs/6417dc19.png"
     },
     {
       "type": "p",
@@ -425,8 +427,9 @@
       "chartbuilder_h3": "Figure 3: 68% of adults aged 70 and over reported to not have any daily AI use",
       "chartbuilder_h4": "Proportion of adults in Great Britain, by age group, 4 to 14 May 2023",
       "data_uri": "https://www.ons.gov.uk/businessindustryandtrade/itandinternetindustry/articles/understandingaiuptakeandsentimentamongpeopleandbusinessesintheuk/june2023/58c9d16f",
-      "src": "/_scraped_chartbuilder_imgs/58c9d16f.png",
-      "local_filename": "58c9d16f.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/businessindustryandtrade/itandinternetindustry/articles/understandingaiuptakeandsentimentamongpeopleandbusinessesintheuk/june2023/58c9d16f&width=&hideSource=true",
+      "local_filename": "58c9d16f.png",
+      "src_new": "/_scraped_chartbuilder_imgs/58c9d16f.png"
     },
     {
       "type": "p",
@@ -486,8 +489,9 @@
       "chartbuilder_h3": "Figure 4: More than 3 in 10 (32%) adults were neutral about their feelings towards AI and its impact on society",
       "chartbuilder_h4": "Proportion of adults in Great Britain, 4 to 14 May 2023",
       "data_uri": "https://www.ons.gov.uk/businessindustryandtrade/itandinternetindustry/articles/understandingaiuptakeandsentimentamongpeopleandbusinessesintheuk/june2023/309cb5d6",
-      "src": "/_scraped_chartbuilder_imgs/309cb5d6.png",
-      "local_filename": "309cb5d6.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/businessindustryandtrade/itandinternetindustry/articles/understandingaiuptakeandsentimentamongpeopleandbusinessesintheuk/june2023/309cb5d6&width=&hideSource=true",
+      "local_filename": "309cb5d6.png",
+      "src_new": "/_scraped_chartbuilder_imgs/309cb5d6.png"
     },
     {
       "type": "p",
@@ -547,8 +551,9 @@
       "chartbuilder_h3": "Figure 5: 78% of businesses reported that the current use of Artificial Intelligence (AI) question was not applicable to their business",
       "chartbuilder_h4": "Percentage of businesses not permanently stopped trading, weighted by count, UK, 3 to 16 April 2023",
       "data_uri": "https://www.ons.gov.uk/businessindustryandtrade/itandinternetindustry/articles/understandingaiuptakeandsentimentamongpeopleandbusinessesintheuk/june2023/6b681373",
-      "src": "/_scraped_chartbuilder_imgs/6b681373.png",
-      "local_filename": "6b681373.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/businessindustryandtrade/itandinternetindustry/articles/understandingaiuptakeandsentimentamongpeopleandbusinessesintheuk/june2023/6b681373&width=&hideSource=true",
+      "local_filename": "6b681373.png",
+      "src_new": "/_scraped_chartbuilder_imgs/6b681373.png"
     },
     {
       "type": "p",
@@ -743,7 +748,8 @@
       "h4": "Figure 6: Construction and manufacturing industries prioritise improving cybersecurity in their use of Artificial Intelligence (AI)",
       "h5": "Percentage of businesses not permanently stopped trading that either use AI applications or intend to use them, broken down by industry, weighted by count, UK, 3 to 16 April 2023",
       "title": "Figure 6: Construction and manufacturing industries prioritise improving cybersecurity in their use of Artificial Intelligence (AI)",
-      "url": "/visualisations/dvc2616b/bar-chart/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2616b/bar-chart/index.html",
+      "url_new": "/visualisations/dvc2616b/bar-chart/index.html"
     },
     {
       "type": "heading",
@@ -793,7 +799,8 @@
       "h3": null,
       "h4": "Figure 6: Construction and manufacturing industries prioritise improving cybersecurity in their use of Artificial Intelligence (AI)",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2616b/bar-chart/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2616b/bar-chart/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2616b/bar-chart/datadownload.xlsx)"
     },
     {
       "type": "heading",

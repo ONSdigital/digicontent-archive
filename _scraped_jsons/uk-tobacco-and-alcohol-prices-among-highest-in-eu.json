@@ -80,7 +80,8 @@
       "h4": "Tobacco price levels in the EU, relative to the average",
       "h5": null,
       "title": "Tobacco price levels in the EU, relative to the average",
-      "url": "/visualisations/dvc469update3/Tobacco/Simple-Bar-Horizontal/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc469update3/Tobacco/Simple-Bar-Horizontal/index.html",
+      "url_new": "/visualisations/dvc469update3/Tobacco/Simple-Bar-Horizontal/index.html"
     },
     {
       "type": "p",
@@ -88,7 +89,8 @@
       "h3": null,
       "h4": "Tobacco price levels in the EU, relative to the average",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc469update3/Tobacco/Simple-Bar-Horizontal/tobacco_data.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc469update3/Tobacco/Simple-Bar-Horizontal/tobacco_data.csv)",
+      "text_new": "[Download the data](/visualisations/dvc469update3/Tobacco/Simple-Bar-Horizontal/tobacco_data.csv)"
     },
     {
       "type": "p",
@@ -130,7 +132,8 @@
       "h4": "Alcoholic beverage price levels in the EU, relative to the average",
       "h5": null,
       "title": "Alcoholic beverage price levels in the EU, relative to the average",
-      "url": "/visualisations/dvc469update3/Alcohol/Simple-Bar-Horizontal/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc469update3/Alcohol/Simple-Bar-Horizontal/index.html",
+      "url_new": "/visualisations/dvc469update3/Alcohol/Simple-Bar-Horizontal/index.html"
     },
     {
       "type": "p",
@@ -138,7 +141,8 @@
       "h3": null,
       "h4": "Alcoholic beverage price levels in the EU, relative to the average",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc469update3/Alcohol/Simple-Bar-Horizontal/alcohol_data.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc469update3/Alcohol/Simple-Bar-Horizontal/alcohol_data.csv)",
+      "text_new": "[Download the data](/visualisations/dvc469update3/Alcohol/Simple-Bar-Horizontal/alcohol_data.csv)"
     },
     {
       "type": "heading",
@@ -181,7 +185,8 @@
       "h4": "Clothing and footwear price levels in the EU, relative to the average",
       "h5": null,
       "title": "Clothing and footwear price levels in the EU, relative to the average",
-      "url": "/visualisations/dvc469update3/Clothing/Simple-Bar-Horizontal/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc469update3/Clothing/Simple-Bar-Horizontal/index.html",
+      "url_new": "/visualisations/dvc469update3/Clothing/Simple-Bar-Horizontal/index.html"
     },
     {
       "type": "p",
@@ -189,7 +194,8 @@
       "h3": "Clothing and footwear price levels in the UK are surprisingly low",
       "h4": "Clothing and footwear price levels in the EU, relative to the average",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc469update3/Clothing/Simple-Bar-Horizontal/clothing_data.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc469update3/Clothing/Simple-Bar-Horizontal/clothing_data.csv)",
+      "text_new": "[Download the data](/visualisations/dvc469update3/Clothing/Simple-Bar-Horizontal/clothing_data.csv)"
     },
     {
       "type": "p",
@@ -223,7 +229,8 @@
       "h4": "Explore the price levels of different goods and services across the EU",
       "h5": null,
       "title": "Explore the price levels of different goods and services across the EU",
-      "url": "/visualisations/dvc469update3/Cascade2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc469update3/Cascade2/index.html",
+      "url_new": "/visualisations/dvc469update3/Cascade2/index.html"
     },
     {
       "type": "p",
@@ -231,7 +238,8 @@
       "h3": "Clothing and footwear price levels in the UK are surprisingly low",
       "h4": "Explore the price levels of different goods and services across the EU",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc469update3/Cascade2/eu_price_levels_data.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc469update3/Cascade2/eu_price_levels_data.csv)",
+      "text_new": "[Download the data](/visualisations/dvc469update3/Cascade2/eu_price_levels_data.csv)"
     },
     {
       "type": "heading",
@@ -290,7 +298,8 @@
       "h4": "Price levels of total goods and services consumed compared across European countries",
       "h5": null,
       "title": "Price levels of total goods and services consumed compared across European countries Total Price levels, 2016",
-      "url": "/visualisations/dvc469update3/Map/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc469update3/Map/index.html",
+      "url_new": "/visualisations/dvc469update3/Map/index.html"
     },
     {
       "type": "p",
@@ -298,7 +307,8 @@
       "h3": "UK price levels of total consumer goods and services 22% above the EU average.",
       "h4": "Price levels of total goods and services consumed compared across European countries",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc469update3/Map/assets/Price_Levels_of_Total_Goods_and_Services_Consumed.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc469update3/Map/assets/Price_Levels_of_Total_Goods_and_Services_Consumed.csv)",
+      "text_new": "[Download the data](/visualisations/dvc469update3/Map/assets/Price_Levels_of_Total_Goods_and_Services_Consumed.csv)"
     },
     {
       "type": "box",

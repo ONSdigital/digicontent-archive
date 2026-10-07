@@ -29,8 +29,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations//assets/images/ons-logo/kitemark/v2/uksa-kitemark-en.svg",
-      "alt": "These are accredited official statistics. Click for information about types of official statistics."
+      "src": "https://cdn.ons.gov.uk/assets/images/ons-logo/kitemark/v2/uksa-kitemark-en.svg",
+      "alt": "These are accredited official statistics. Click for information about types of official statistics.",
+      "src_new": "/assets/images/ons-logo/kitemark/v2/uksa-kitemark-en.svg"
     },
     {
       "type": "p",
@@ -226,7 +227,8 @@
       "h4": "Figure 1: The size of the population in England and Wales continues to grow",
       "h5": null,
       "title": "Figure 1",
-      "url": "/visualisations/dvc3286/fig01/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc3286/fig01/index.html",
+      "url_new": "/visualisations/dvc3286/fig01/index.html"
     },
     {
       "type": "p",
@@ -287,7 +289,8 @@
       "h4": "Figure 2: Population growth in mid-2024 resulted mostly from net international migration",
       "h5": null,
       "title": "Figure 2",
-      "url": "/visualisations/dvc3286/fig02/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc3286/fig02/index.html",
+      "url_new": "/visualisations/dvc3286/fig02/index.html"
     },
     {
       "type": "li",
@@ -534,7 +537,8 @@
       "h4": "Figure 3: Net migration has contributed most to population growth over the last 25 years",
       "h5": null,
       "title": "Figure 3",
-      "url": "/visualisations/dvc3286/fig03/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc3286/fig03/index.html",
+      "url_new": "/visualisations/dvc3286/fig03/index.html"
     },
     {
       "type": "li",
@@ -625,7 +629,8 @@
       "h4": "Figure 4: For both England and Wales, the highest rate of population growth for over 50 years was in the year to mid-2023",
       "h5": null,
       "title": "Figure 4",
-      "url": "/visualisations/dvc3286/fig04/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc3286/fig04/index.html",
+      "url_new": "/visualisations/dvc3286/fig04/index.html"
     },
     {
       "type": "p",
@@ -766,7 +771,8 @@
       "h4": "Figure 5: The North West had the highest rate of population growth, London and the South West had the lowest",
       "h5": null,
       "title": "Figure 5",
-      "url": "/visualisations/dvc3286/fig05/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc3286/fig05/index.html",
+      "url_new": "/visualisations/dvc3286/fig05/index.html"
     },
     {
       "type": "p",
@@ -825,7 +831,8 @@
       "h4": "Use our new interactive tool to view the latest population trends for your local area",
       "h5": null,
       "title": "Use our new interactive tool to view the latest population trends for your local area",
-      "url": "/visualisations/dvc3286localcomponent/build/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc3286localcomponent/build/index.html",
+      "url_new": "/visualisations/dvc3286localcomponent/build/index.html"
     },
     {
       "type": "heading",
@@ -1086,7 +1093,8 @@
       "h4": "Figure 6: Revisions to local authority population estimates are larger for mid-2023 than for mid-2022",
       "h5": null,
       "title": "Figure 6",
-      "url": "/visualisations/dvc3286/fig06/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc3286/fig06/index.html",
+      "url_new": "/visualisations/dvc3286/fig06/index.html"
     },
     {
       "type": "heading",
@@ -1234,7 +1242,8 @@
       "h4": "Figure 7: Differences between admin-based population estimates and accredited official population estimates vary by area, age and sex",
       "h5": null,
       "title": "Figure 7",
-      "url": "/visualisations/dvc3286/fig07/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc3286/fig07/index.html",
+      "url_new": "/visualisations/dvc3286/fig07/index.html"
     },
     {
       "type": "p",

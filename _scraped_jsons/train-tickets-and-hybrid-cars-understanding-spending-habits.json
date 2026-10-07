@@ -178,7 +178,8 @@
       "h4": "Bad weather and strikes can affect the number of train tickets bought",
       "h5": "Date of travel, number of daily rail fare tickets, Great Britain, January 2020 to June 2024",
       "title": "Figure 1",
-      "url": "/visualisations/dvc2895/fig-1-line/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2895/fig-1-line/index.html",
+      "url_new": "/visualisations/dvc2895/fig-1-line/index.html"
     },
     {
       "type": "p",
@@ -186,7 +187,8 @@
       "h3": null,
       "h4": "Bad weather and strikes can affect the number of train tickets bought",
       "h5": "Date of travel, number of daily rail fare tickets, Great Britain, January 2020 to June 2024",
-      "text": "[](/visualisations/dvc2895/fig-1-line/datadownload.xlsx)"
+      "text": "[](https://www.ons.gov.uk/visualisations/dvc2895/fig-1-line/datadownload.xlsx)",
+      "text_new": "[](/visualisations/dvc2895/fig-1-line/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -277,7 +279,8 @@
       "h4": "The nearest station to Glastonbury festival saw a 654% increase in tickets sold in the week of Glastonbury 2023",
       "h5": "Percentage change of weekly rail fare tickets where the destination station was Castle Cary, Edinburgh Waverley or Abergavenny, compared to the median over the year for each station, Great Britain, January 2023 to December 2023",
       "title": "Figure 2",
-      "url": "/visualisations/dvc2895/fig-2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2895/fig-2/index.html",
+      "url_new": "/visualisations/dvc2895/fig-2/index.html"
     },
     {
       "type": "heading",
@@ -310,7 +313,8 @@
       "h3": null,
       "h4": "The nearest station to Glastonbury festival saw a 654% increase in tickets sold in the week of Glastonbury 2023",
       "h5": "Notes:",
-      "text": "[](/visualisations/dvc2895/fig-2/datadownload.xlsx)"
+      "text": "[](https://www.ons.gov.uk/visualisations/dvc2895/fig-2/datadownload.xlsx)",
+      "text_new": "[](/visualisations/dvc2895/fig-2/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -458,7 +462,8 @@
       "h4": "Petrol is still the most common fuel type among estimated second-hand sales",
       "h5": "Estimated proportion of second-hand cars sold by fuel type, UK, June 2021 to June 2024",
       "title": "Figure 3",
-      "url": "/visualisations/dvc2895/fig-3/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2895/fig-3/index.html",
+      "url_new": "/visualisations/dvc2895/fig-3/index.html"
     },
     {
       "type": "heading",
@@ -483,7 +488,8 @@
       "h3": null,
       "h4": "Petrol is still the most common fuel type among estimated second-hand sales",
       "h5": "Notes:",
-      "text": "[](/visualisations/dvc2895/fig-3/datadownload.xlsx)"
+      "text": "[](https://www.ons.gov.uk/visualisations/dvc2895/fig-3/datadownload.xlsx)",
+      "text_new": "[](/visualisations/dvc2895/fig-3/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -534,7 +540,8 @@
       "h4": "Other than grey scale colours, the most popular second hand cars of 2023 were blue, silver and red",
       "h5": "Estimated percentage and number of second-hand cars sold, broken down by colour, UK, January 2023 to December 2023",
       "title": "Figure 4",
-      "url": "/visualisations/dvc2895/fig-4/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2895/fig-4/index.html",
+      "url_new": "/visualisations/dvc2895/fig-4/index.html"
     },
     {
       "type": "heading",
@@ -559,7 +566,8 @@
       "h3": null,
       "h4": "Other than grey scale colours, the most popular second hand cars of 2023 were blue, silver and red",
       "h5": "Notes:",
-      "text": "[](/visualisations/dvc2895/fig-4/datadownload.xlsx)"
+      "text": "[](https://www.ons.gov.uk/visualisations/dvc2895/fig-4/datadownload.xlsx)",
+      "text_new": "[](/visualisations/dvc2895/fig-4/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -651,7 +659,8 @@
       "h4": "Second-hand cars aged two to four years were most popular among UK drivers in 2023",
       "h5": "Estimated number of second-hand cars sold, broken down by age in years, UK, January 2023 to December 2023",
       "title": "Figure 5",
-      "url": "/visualisations/dvc2895/fig-5-bar-age/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2895/fig-5-bar-age/index.html",
+      "url_new": "/visualisations/dvc2895/fig-5-bar-age/index.html"
     },
     {
       "type": "p",
@@ -659,7 +668,8 @@
       "h3": null,
       "h4": "Second-hand cars aged two to four years were most popular among UK drivers in 2023",
       "h5": "Estimated number of second-hand cars sold, broken down by age in years, UK, January 2023 to December 2023",
-      "text": "[](/visualisations/dvc2895/fig-5-bar-age/datadownload.xlsx)"
+      "text": "[](https://www.ons.gov.uk/visualisations/dvc2895/fig-5-bar-age/datadownload.xlsx)",
+      "text_new": "[](/visualisations/dvc2895/fig-5-bar-age/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -758,7 +768,8 @@
       "h4": "German manufacturers made the most popular second-hand cars in 2023",
       "h5": "Estimated number of second-hand cars sold, broken down by manufacturer countries, UK, January 2023 to December 2023",
       "title": "Figure 6",
-      "url": "/visualisations/dvc2895/fig-6-bar-country/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2895/fig-6-bar-country/index.html",
+      "url_new": "/visualisations/dvc2895/fig-6-bar-country/index.html"
     },
     {
       "type": "heading",
@@ -783,7 +794,8 @@
       "h3": null,
       "h4": "German manufacturers made the most popular second-hand cars in 2023",
       "h5": "Notes:",
-      "text": "[](/visualisations/dvc2895/fig-6-bar-country/datadownload.xlsx)"
+      "text": "[](https://www.ons.gov.uk/visualisations/dvc2895/fig-6-bar-country/datadownload.xlsx)",
+      "text_new": "[](/visualisations/dvc2895/fig-6-bar-country/datadownload.xlsx)"
     },
     {
       "type": "p",

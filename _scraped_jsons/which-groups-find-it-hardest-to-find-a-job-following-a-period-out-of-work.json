@@ -102,8 +102,9 @@
       "chartbuilder_h3": "The number of people remaining out of employment rose during the second half of 2020, but remains below the levels seen during the 2008 recession",
       "chartbuilder_h4": "Quarter 1 (Jan to Mar) 2007 – Quarter 4 (Oct to Dec ) 2020, UK , number of adults aged 16 to 69 years who have had a paid job and were out of employment in the previous quarter",
       "data_uri": "https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/articles/whichgroupsfindithardesttofindajobfollowingaperiodoutofwork/2021-03-30/f8cae487",
-      "src": "/_scraped_chartbuilder_imgs/f8cae487.png",
-      "local_filename": "f8cae487.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/employmentandlabourmarket/peoplenotinwork/unemployment/articles/whichgroupsfindithardesttofindajobfollowingaperiodoutofwork/2021-03-30/f8cae487&width=&hideSource=true",
+      "local_filename": "f8cae487.png",
+      "src_new": "/_scraped_chartbuilder_imgs/f8cae487.png"
     },
     {
       "type": "p",
@@ -222,7 +223,8 @@
       "h4": "The more time spent out of work, the less likely someone would be to return to employment",
       "h5": "Percentage point difference in likelihood of returning to work in the next quarter, by duration out of work, 2007 - 2020",
       "title": "The more time spent out of work, the less likely someone would be to return to employment",
-      "url": "/visualisations/dvc1269/duration-total/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1269/duration-total/index.html",
+      "url_new": "/visualisations/dvc1269/duration-total/index.html"
     },
     {
       "type": "heading",
@@ -263,7 +265,8 @@
       "h3": null,
       "h4": "The more time spent out of work, the less likely someone would be to return to employment",
       "h5": "Notes",
-      "text": "[Download the data](/visualisations/dvc1269/duration-total/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1269/duration-total/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1269/duration-total/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -371,7 +374,8 @@
       "h4": "The positive effects of higher qualifications were less prominent for disabled people",
       "h5": "Percentage point difference in likelihood of returning to work in the next quarter, by highest qualification level and disability status, 2007 to 2020",
       "title": "The positive effects of higher qualifications were less prominent for disabled people ",
-      "url": "/visualisations/dvc1269/disability/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1269/disability/index.html",
+      "url_new": "/visualisations/dvc1269/disability/index.html"
     },
     {
       "type": "heading",
@@ -420,7 +424,8 @@
       "h3": null,
       "h4": "The positive effects of higher qualifications were less prominent for disabled people",
       "h5": "Notes:",
-      "text": "[Download the data](/visualisations/dvc1269/disability/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1269/disability/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1269/disability/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -496,7 +501,8 @@
       "h4": "Black, Asian and Chinese or other ethnicities were less likely to return to employment compared to White ethnicity",
       "h5": "Percentage point difference in likelihood of returning to work in the next quarter, by ethnicity, 2007 - 2020",
       "title": "Black, Asian and Chinese or other, ethnicities were less likely to return to employment compared to White ethnicity",
-      "url": "/visualisations/dvc1269/ethnicity-total/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1269/ethnicity-total/index.html",
+      "url_new": "/visualisations/dvc1269/ethnicity-total/index.html"
     },
     {
       "type": "heading",
@@ -537,7 +543,8 @@
       "h3": null,
       "h4": "Black, Asian and Chinese or other ethnicities were less likely to return to employment compared to White ethnicity",
       "h5": "Notes",
-      "text": "[Download the data](/visualisations/dvc1269/ethnicity-total/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1269/ethnicity-total/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1269/ethnicity-total/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -613,7 +620,8 @@
       "h4": "Those aged 50 and over are less likely to return to work than those aged 30 to 39",
       "h5": "Percentage point difference in likelihood of returning to work in the next quarter, by age, 2007 - 2020",
       "title": "Those aged 50 and over are less likely to return to work than those aged 30 to 39",
-      "url": "/visualisations/dvc1269/age/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1269/age/index.html",
+      "url_new": "/visualisations/dvc1269/age/index.html"
     },
     {
       "type": "heading",
@@ -654,7 +662,8 @@
       "h3": null,
       "h4": "Those aged 50 and over are less likely to return to work than those aged 30 to 39",
       "h5": "Notes",
-      "text": "[Download the data](/visualisations/dvc1269/age/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1269/age/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1269/age/datadownload.xlsx)"
     },
     {
       "type": "p",

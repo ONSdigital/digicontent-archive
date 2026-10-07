@@ -50,7 +50,8 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[](/visualisations//visual/2015/08/BabyNames-Boys-v2.png) [Download the data](/visualisations//visual/2015/08/baby_names_boys_2014.csv)"
+      "text": "[](https://static.ons.gov.uk/visual/2015/08/BabyNames-Boys-v2.png) [Download the data](https://static.ons.gov.uk/visual/2015/08/baby_names_boys_2014.csv)",
+      "text_new": "[](/visual/2015/08/BabyNames-Boys-v2.png) [Download the data](https://static.ons.gov.uk/visual/2015/08/baby_names_boys_2014.csv)"
     },
     {
       "type": "image",
@@ -58,8 +59,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations//visual/2015/08/BabyNames-Boys-v2.png",
-      "alt": null
+      "src": "https://static.ons.gov.uk/visual/2015/08/BabyNames-Boys-v2.png",
+      "alt": null,
+      "src_new": "/visual/2015/08/BabyNames-Boys-v2.png"
     },
     {
       "type": "p",
@@ -67,7 +69,8 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[](/visualisations//visual/2015/08/baby_names_girls.png) [Download the data](/visualisations//visual/2015/08/baby_names_girls_2014.csv)"
+      "text": "[](https://static.ons.gov.uk/visual/2015/08/baby_names_girls.png) [Download the data](https://static.ons.gov.uk/visual/2015/08/baby_names_girls_2014.csv)",
+      "text_new": "[](/visual/2015/08/baby_names_girls.png) [Download the data](https://static.ons.gov.uk/visual/2015/08/baby_names_girls_2014.csv)"
     },
     {
       "type": "image",
@@ -75,8 +78,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations//visual/2015/08/baby_names_girls.png",
-      "alt": null
+      "src": "https://static.ons.gov.uk/visual/2015/08/baby_names_girls.png",
+      "alt": null,
+      "src_new": "/visual/2015/08/baby_names_girls.png"
     },
     {
       "type": "box",

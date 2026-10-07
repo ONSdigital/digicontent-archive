@@ -38,8 +38,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc2791/Images/banner.png",
-      "alt": "Digital illustration of people walking in the park, gardening and dog walking"
+      "src": "https://www.ons.gov.uk/visualisations/dvc2791/Images/banner.png",
+      "alt": "Digital illustration of people walking in the park, gardening and dog walking",
+      "src_new": "/visualisations/dvc2791/Images/banner.png"
     },
     {
       "type": "p",
@@ -130,7 +131,8 @@
       "h4": "Fewer people have gained health benefits from outdoor recreation since 2020",
       "h5": "Change in the number of visits to, time spent in, and people gaining health benefits from nature, UK, 2009 to 2022",
       "title": "Change in the number of visits to, time spent in, and people gaining health benefits from nature, UK, 2009 to 2022 ",
-      "url": "/visualisations/dvc2791/fig1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2791/fig1/index.html",
+      "url_new": "/visualisations/dvc2791/fig1/index.html"
     },
     {
       "type": "heading",
@@ -163,7 +165,8 @@
       "h3": null,
       "h4": "Fewer people have gained health benefits from outdoor recreation since 2020",
       "h5": "Notes:",
-      "text": "[Download the data for change in visits and time spent in UK nature (XSLX, 22KB)](/visualisations/dvc2791/fig1/datadownload.xlsx)"
+      "text": "[Download the data for change in visits and time spent in UK nature (XSLX, 22KB)](https://www.ons.gov.uk/visualisations/dvc2791/fig1/datadownload.xlsx)",
+      "text_new": "[Download the data for change in visits and time spent in UK nature (XSLX, 22KB)](/visualisations/dvc2791/fig1/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -343,7 +346,8 @@
       "h4": "Poor health and being busy at work and home are barriers to visiting nature",
       "h5": "Reasons for not spending time in green and natural spaces by adults who had not visited such spaces in the last 14 days, England, April 2020 to March 2023",
       "title": "Reasons for not spending time in green and natural spaces by adults who had not visited such spaces in the last 14 days, England, April 2020 to March 2023 ",
-      "url": "/visualisations/dvc2791/fig2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2791/fig2/index.html",
+      "url_new": "/visualisations/dvc2791/fig2/index.html"
     },
     {
       "type": "p",
@@ -351,7 +355,8 @@
       "h3": null,
       "h4": "Poor health and being busy at work and home are barriers to visiting nature",
       "h5": "Reasons for not spending time in green and natural spaces by adults who had not visited such spaces in the last 14 days, England, April 2020 to March 2023",
-      "text": "[Download the data for reasons for not spending time in nature (XLSX, 17KB)](/visualisations/dvc2791/fig2/datadownload.xlsx)"
+      "text": "[Download the data for reasons for not spending time in nature (XLSX, 17KB)](https://www.ons.gov.uk/visualisations/dvc2791/fig2/datadownload.xlsx)",
+      "text_new": "[Download the data for reasons for not spending time in nature (XLSX, 17KB)](/visualisations/dvc2791/fig2/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -410,7 +415,8 @@
       "h4": "More people are visiting nature in England, but fewer people are making multiple visits per week",
       "h5": "Number of people visiting nature, by average number of visits per week, England, 2009 to 2018, and 2020 to 2022",
       "title": "Number of people visiting nature, by average number of visits per week, England, 2009 to 2018, and 2020 to 2022 ",
-      "url": "/visualisations/dvc2791/fig3/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2791/fig3/index.html",
+      "url_new": "/visualisations/dvc2791/fig3/index.html"
     },
     {
       "type": "heading",
@@ -435,7 +441,8 @@
       "h3": null,
       "h4": "More people are visiting nature in England, but fewer people are making multiple visits per week",
       "h5": "Notes",
-      "text": "[Download the data for average number of visits to nature per week in England (XLSX, 18KB)](/visualisations/dvc2791/fig3/datadownload.xlsx)"
+      "text": "[Download the data for average number of visits to nature per week in England (XLSX, 18KB)](https://www.ons.gov.uk/visualisations/dvc2791/fig3/datadownload.xlsx)",
+      "text_new": "[Download the data for average number of visits to nature per week in England (XLSX, 18KB)](/visualisations/dvc2791/fig3/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -486,7 +493,8 @@
       "h4": "People in the UK are spending less time walking for exercise on average since March 2021",
       "h5": "Average daily time (minutes) spent doing specified activities, by all adults, UK, March 2020 to March 2023",
       "title": "Average daily time (minutes) spent doing specified activities, by all adults, UK, March 2020 to March 2023 ",
-      "url": "/visualisations/dvc2791/fig4/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2791/fig4/index.html",
+      "url_new": "/visualisations/dvc2791/fig4/index.html"
     },
     {
       "type": "heading",
@@ -511,7 +519,8 @@
       "h3": null,
       "h4": "People in the UK are spending less time walking for exercise on average since March 2021",
       "h5": "Notes",
-      "text": "[Download the data for average minutes adults spent on specified activities (XLSX, 22KB)](/visualisations/dvc2791/fig4/datadownload.xlsx)"
+      "text": "[Download the data for average minutes adults spent on specified activities (XLSX, 22KB)](https://www.ons.gov.uk/visualisations/dvc2791/fig4/datadownload.xlsx)",
+      "text_new": "[Download the data for average minutes adults spent on specified activities (XLSX, 22KB)](/visualisations/dvc2791/fig4/datadownload.xlsx)"
     },
     {
       "type": "p",

@@ -47,7 +47,8 @@
       "h3": null,
       "h4": "May 8th 2015 is the anniversary of VE Day (Victory in Europe Day), marking 70 years since the end of the Second World War in Europe. We’ve pulled together a range of data to show how the war affected life in the UK, and how the country has changed since then.",
       "h5": null,
-      "text": "[](/visualisations//visual/2015/05/HU_041808.jpg)"
+      "text": "[](https://static.ons.gov.uk/visual/2015/05/HU_041808.jpg)",
+      "text_new": "[](/visual/2015/05/HU_041808.jpg)"
     },
     {
       "type": "image",
@@ -55,8 +56,9 @@
       "h3": null,
       "h4": "May 8th 2015 is the anniversary of VE Day (Victory in Europe Day), marking 70 years since the end of the Second World War in Europe. We’ve pulled together a range of data to show how the war affected life in the UK, and how the country has changed since then.",
       "h5": null,
-      "src": "/visualisations//visual/2015/05/HU_041808.jpg",
-      "alt": null
+      "src": "https://static.ons.gov.uk/visual/2015/05/HU_041808.jpg",
+      "alt": null,
+      "src_new": "/visual/2015/05/HU_041808.jpg"
     },
     {
       "type": "p",
@@ -99,7 +101,8 @@
       "h4": "Annual number of marriages and divorces, England and Wales, 1931 to 2011",
       "h5": null,
       "title": "Annual number of marriages and divorces, England and Wales, 1931 to 2011",
-      "url": "/visualisations/nesscontent/dvc246/mar_div/mar_div.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc246/mar_div/mar_div.html",
+      "url_new": "/visualisations/nesscontent/dvc246/mar_div/mar_div.html"
     },
     {
       "type": "p",
@@ -123,7 +126,8 @@
       "h3": null,
       "h4": "Annual number of marriages and divorces, England and Wales, 1931 to 2011",
       "h5": null,
-      "text": "[](/visualisations//visual/2015/05/EA_065799.jpg)"
+      "text": "[](https://static.ons.gov.uk/visual/2015/05/EA_065799.jpg)",
+      "text_new": "[](/visual/2015/05/EA_065799.jpg)"
     },
     {
       "type": "image",
@@ -131,8 +135,9 @@
       "h3": null,
       "h4": "Annual number of marriages and divorces, England and Wales, 1931 to 2011",
       "h5": null,
-      "src": "/visualisations//visual/2015/05/EA_065799.jpg",
-      "alt": null
+      "src": "https://static.ons.gov.uk/visual/2015/05/EA_065799.jpg",
+      "alt": null,
+      "src_new": "/visual/2015/05/EA_065799.jpg"
     },
     {
       "type": "p",
@@ -175,7 +180,8 @@
       "h4": "Annual number of births and deaths, England and Wales, 1931 to 2011",
       "h5": null,
       "title": "Annual number of births and deaths, England and Wales, 1931 to 2011",
-      "url": "/visualisations/nesscontent/dvc246/birth_death/birth_death.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc246/birth_death/birth_death.html",
+      "url_new": "/visualisations/nesscontent/dvc246/birth_death/birth_death.html"
     },
     {
       "type": "p",
@@ -199,7 +205,8 @@
       "h3": null,
       "h4": "Annual number of births and deaths, England and Wales, 1931 to 2011",
       "h5": null,
-      "text": "[](/visualisations//visual/2015/05/population-2.png)"
+      "text": "[](https://static.ons.gov.uk/visual/2015/05/population-2.png)",
+      "text_new": "[](/visual/2015/05/population-2.png)"
     },
     {
       "type": "image",
@@ -207,8 +214,9 @@
       "h3": null,
       "h4": "Annual number of births and deaths, England and Wales, 1931 to 2011",
       "h5": null,
-      "src": "/visualisations//visual/2015/05/population-2.png",
-      "alt": null
+      "src": "https://static.ons.gov.uk/visual/2015/05/population-2.png",
+      "alt": null,
+      "src_new": "/visual/2015/05/population-2.png"
     },
     {
       "type": "p",
@@ -251,7 +259,8 @@
       "h4": "Annual number of adoptions, England and Wales, 1931 to 2011",
       "h5": null,
       "title": "Annual number of adoptions, England and Wales, 1931 to 2011",
-      "url": "/visualisations/nesscontent/dvc246/adopt/adopt.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc246/adopt/adopt.html",
+      "url_new": "/visualisations/nesscontent/dvc246/adopt/adopt.html"
     },
     {
       "type": "p",
@@ -267,7 +276,8 @@
       "h3": null,
       "h4": "Annual number of adoptions, England and Wales, 1931 to 2011",
       "h5": null,
-      "text": "[](/visualisations//visual/2015/05/D_001442.jpg)"
+      "text": "[](https://static.ons.gov.uk/visual/2015/05/D_001442.jpg)",
+      "text_new": "[](/visual/2015/05/D_001442.jpg)"
     },
     {
       "type": "image",
@@ -275,8 +285,9 @@
       "h3": null,
       "h4": "Annual number of adoptions, England and Wales, 1931 to 2011",
       "h5": null,
-      "src": "/visualisations//visual/2015/05/D_001442.jpg",
-      "alt": null
+      "src": "https://static.ons.gov.uk/visual/2015/05/D_001442.jpg",
+      "alt": null,
+      "src_new": "/visual/2015/05/D_001442.jpg"
     },
     {
       "type": "p",
@@ -319,7 +330,8 @@
       "h4": "Life expectancy, England and Wales, 1931 to 2011",
       "h5": null,
       "title": "Life expectancy, England and Wales, 1931 to 2011",
-      "url": "/visualisations/nesscontent/dvc246/life_exp/life_exp.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc246/life_exp/life_exp.html",
+      "url_new": "/visualisations/nesscontent/dvc246/life_exp/life_exp.html"
     },
     {
       "type": "p",

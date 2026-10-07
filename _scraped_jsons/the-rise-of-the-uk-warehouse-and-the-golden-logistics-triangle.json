@@ -152,7 +152,8 @@
       "h4": "Transport and storage is the fastest growing broad industry group, both in recent years and over the longer term",
       "h5": "Percentage change in number of business premises by industry, UK, 2011 to 2021 and 2019 to 2021",
       "title": "Bar chart showing percentage change in number of business premises by industry, UK, 2011 to 2021 and 2019 to 2021",
-      "url": "/visualisations/dvc1902/fig1_splitbar/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1902/fig1_splitbar/index.html",
+      "url_new": "/visualisations/dvc1902/fig1_splitbar/index.html"
     },
     {
       "type": "p",
@@ -160,7 +161,8 @@
       "h3": null,
       "h4": "Transport and storage is the fastest growing broad industry group, both in recent years and over the longer term",
       "h5": "Percentage change in number of business premises by industry, UK, 2011 to 2021 and 2019 to 2021",
-      "text": "[Data for change in number of UK business premises by industry (XLSX, 26KB)](/visualisations/dvc1902/fig1_splitbar/datadownload.xlsx)"
+      "text": "[Data for change in number of UK business premises by industry (XLSX, 26KB)](https://www.ons.gov.uk/visualisations/dvc1902/fig1_splitbar/datadownload.xlsx)",
+      "text_new": "[Data for change in number of UK business premises by industry (XLSX, 26KB)](/visualisations/dvc1902/fig1_splitbar/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -228,7 +230,8 @@
       "h4": "Couriers and hauliers account for most of the growth in transport and storage since 2011",
       "h5": "Number of business premises used for transport and storage, by sub-industry, UK, 2011 to 2021",
       "title": "Small multiple line chart showing the number of local business units used for transport and storage, by sub-industry, UK, 2011 to 2021",
-      "url": "/visualisations/dvc1902/fig2_area/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1902/fig2_area/index.html",
+      "url_new": "/visualisations/dvc1902/fig2_area/index.html"
     },
     {
       "type": "p",
@@ -236,7 +239,8 @@
       "h3": null,
       "h4": "Couriers and hauliers account for most of the growth in transport and storage since 2011",
       "h5": "Number of business premises used for transport and storage, by sub-industry, UK, 2011 to 2021",
-      "text": "[Data for number of UK business premises used for transport and storage, by sub-industry (XLSX, 26KB)](/visualisations/dvc1902/fig2_area/datadownload.xlsx)"
+      "text": "[Data for number of UK business premises used for transport and storage, by sub-industry (XLSX, 26KB)](https://www.ons.gov.uk/visualisations/dvc1902/fig2_area/datadownload.xlsx)",
+      "text_new": "[Data for number of UK business premises used for transport and storage, by sub-industry (XLSX, 26KB)](/visualisations/dvc1902/fig2_area/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -337,7 +341,8 @@
       "h4": "2021 was a record year for new warehouse projects",
       "h5": "Value of warehouse new orders for construction, non-seasonally adjusted, Great Britain, 1985 to 2021",
       "title": "Bar chart showing value of warehouse new orders for construction in Great Britain",
-      "url": "/visualisations/dvc1902/fig3_simplebar/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1902/fig3_simplebar/index.html",
+      "url_new": "/visualisations/dvc1902/fig3_simplebar/index.html"
     },
     {
       "type": "p",
@@ -345,7 +350,8 @@
       "h3": null,
       "h4": "2021 was a record year for new warehouse projects",
       "h5": "Value of warehouse new orders for construction, non-seasonally adjusted, Great Britain, 1985 to 2021",
-      "text": "[Data for value of warehouse new orders for construction in Great Britain (XLSX, 25KB)](/visualisations/dvc1902/fig3_simplebar/datadownload.xlsx)"
+      "text": "[Data for value of warehouse new orders for construction in Great Britain (XLSX, 25KB)](https://www.ons.gov.uk/visualisations/dvc1902/fig3_simplebar/datadownload.xlsx)",
+      "text_new": "[Data for value of warehouse new orders for construction in Great Britain (XLSX, 25KB)](/visualisations/dvc1902/fig3_simplebar/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -438,7 +444,8 @@
       "h4": "Small businesses increasingly dominate the transport and storage industry",
       "h5": "Share of transport and storage business units by number of employees, UK, 2011 to 2021",
       "title": "Stacked bar chart showing share of UK transport and storage business units by number of employees",
-      "url": "/visualisations/dvc1902/fig4_stack/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1902/fig4_stack/index.html",
+      "url_new": "/visualisations/dvc1902/fig4_stack/index.html"
     },
     {
       "type": "p",
@@ -446,7 +453,8 @@
       "h3": null,
       "h4": "Small businesses increasingly dominate the transport and storage industry",
       "h5": "Share of transport and storage business units by number of employees, UK, 2011 to 2021",
-      "text": "[Data for share of UK transport and storage business units by number of employees (XLSX, 24KB)](/visualisations/dvc1902/fig4_stack/datadownload.xlsx)"
+      "text": "[Data for share of UK transport and storage business units by number of employees (XLSX, 24KB)](https://www.ons.gov.uk/visualisations/dvc1902/fig4_stack/datadownload.xlsx)",
+      "text_new": "[Data for share of UK transport and storage business units by number of employees (XLSX, 24KB)](/visualisations/dvc1902/fig4_stack/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -611,7 +619,8 @@
       "h4": "The share of transport and storage businesses has increased sharply across the Midlands and the East of England",
       "h5": "Percentage of business units used by the transport and storage industry, UK local authorities, 2011 to 2021",
       "title": "Interactive map showing percentage of business units used by the transport and storage industry in UK local authorities",
-      "url": "/visualisations/dvc1902/fig5_map/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1902/fig5_map/index.html",
+      "url_new": "/visualisations/dvc1902/fig5_map/index.html"
     },
     {
       "type": "p",
@@ -619,7 +628,8 @@
       "h3": null,
       "h4": "The share of transport and storage businesses has increased sharply across the Midlands and the East of England",
       "h5": "Percentage of business units used by the transport and storage industry, UK local authorities, 2011 to 2021",
-      "text": "[Data for percentage of business units used by the transport and storage industry in UK local authorities (XLSX, 83KB)](/visualisations/dvc1902/fig5_map/datadownload.xlsx)"
+      "text": "[Data for percentage of business units used by the transport and storage industry in UK local authorities (XLSX, 83KB)](https://www.ons.gov.uk/visualisations/dvc1902/fig5_map/datadownload.xlsx)",
+      "text_new": "[Data for percentage of business units used by the transport and storage industry in UK local authorities (XLSX, 83KB)](/visualisations/dvc1902/fig5_map/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -694,7 +704,8 @@
       "h4": "Places with ports or close to airports no longer dominate the top 10 areas for business units used for transport and storage",
       "h5": "Ranking of local authorities by percentage of business units used for transport and storage, UK, 2011 and 2021",
       "title": "Slope chart showing ranking of local authorities by percentage of business units used for transport and storage in 2011 and 2021",
-      "url": "/visualisations/dvc1902/fig6_topten/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1902/fig6_topten/index.html",
+      "url_new": "/visualisations/dvc1902/fig6_topten/index.html"
     },
     {
       "type": "p",
@@ -702,7 +713,8 @@
       "h3": null,
       "h4": "Places with ports or close to airports no longer dominate the top 10 areas for business units used for transport and storage",
       "h5": "Ranking of local authorities by percentage of business units used for transport and storage, UK, 2011 and 2021",
-      "text": "[Data for ranking of local authorities by percentage of business units used for transport and storage in 2011 and 2021 (XLSX, 46KB)](/visualisations/dvc1902/fig6_topten/datadownload.xlsx)"
+      "text": "[Data for ranking of local authorities by percentage of business units used for transport and storage in 2011 and 2021 (XLSX, 46KB)](https://www.ons.gov.uk/visualisations/dvc1902/fig6_topten/datadownload.xlsx)",
+      "text_new": "[Data for ranking of local authorities by percentage of business units used for transport and storage in 2011 and 2021 (XLSX, 46KB)](/visualisations/dvc1902/fig6_topten/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -795,7 +807,8 @@
       "h4": "Crawley and Hounslow have the highest shares of employment in transport and storage",
       "h5": "Top 10 local authorities for the percentage of employment in transport and storage in 2020, compared with the average in Great Britain",
       "title": "Bar chart showing top 10 local authorities for the percentage of employment in transport and storage in 2020",
-      "url": "/visualisations/dvc1902/fig7_employeeshare/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1902/fig7_employeeshare/index.html",
+      "url_new": "/visualisations/dvc1902/fig7_employeeshare/index.html"
     },
     {
       "type": "p",
@@ -803,7 +816,8 @@
       "h3": null,
       "h4": "Crawley and Hounslow have the highest shares of employment in transport and storage",
       "h5": "Top 10 local authorities for the percentage of employment in transport and storage in 2020, compared with the average in Great Britain",
-      "text": "[Data for top 10 local authorities for the percentage of employment in transport and storage (XLSX, 38KB)](/visualisations/dvc1902/fig7_employeeshare/datadownload.xlsx)"
+      "text": "[Data for top 10 local authorities for the percentage of employment in transport and storage (XLSX, 38KB)](https://www.ons.gov.uk/visualisations/dvc1902/fig7_employeeshare/datadownload.xlsx)",
+      "text_new": "[Data for top 10 local authorities for the percentage of employment in transport and storage (XLSX, 38KB)](/visualisations/dvc1902/fig7_employeeshare/datadownload.xlsx)"
     },
     {
       "type": "p",

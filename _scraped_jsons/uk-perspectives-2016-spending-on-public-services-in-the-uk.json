@@ -50,7 +50,7 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "This article in the [UK Perspectives series](/visualisations/20170726163612/https://visual.ons.gov.uk/introducing-uk-perspectives-2016) presents key statistics showing changes in government spending over the last two decades, and takes a closer look at some aspects of the largest spending categories."
+      "text": "This article in the [UK Perspectives series](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/introducing-uk-perspectives-2016) presents key statistics showing changes in government spending over the last two decades, and takes a closer look at some aspects of the largest spending categories."
     },
     {
       "type": "heading",
@@ -85,7 +85,8 @@
       "h4": "Total UK government managed spending (in 2014/15 real terms) and government managed spending as % of GDP, financial year ending 1995 to financial year ending 20151",
       "h5": null,
       "title": "Changes in public spending over time",
-      "url": "/visualisations/nesscontent/dvc337/Public_Chart1/Public_Chart1.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc337/Public_Chart1/Public_Chart1.html",
+      "url_new": "/visualisations/nesscontent/dvc337/Public_Chart1/Public_Chart1.html"
     },
     {
       "type": "p",
@@ -93,7 +94,7 @@
       "h3": "1. Changes in public spending over time",
       "h4": "Total UK government managed spending (in 2014/15 real terms) and government managed spending as % of GDP, financial year ending 1995 to financial year ending 20151",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2016/05/Table1-Total-Managed-Expenditure.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2016/05/Table1-Total-Managed-Expenditure.csv)"
     },
     {
       "type": "p",
@@ -160,7 +161,8 @@
       "h4": "Proportions of total UK government spending by function (in 2014/15 real terms), £billions (and as a percentage of total) financial year ending 1995 and financial year ending 20152",
       "h5": null,
       "title": "Share in spending on health has increased in the last 20 years",
-      "url": "/visualisations/nesscontent/dvc337/Public_Chart2/Public_Chart2.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc337/Public_Chart2/Public_Chart2.html",
+      "url_new": "/visualisations/nesscontent/dvc337/Public_Chart2/Public_Chart2.html"
     },
     {
       "type": "p",
@@ -235,7 +237,8 @@
       "h4": "Proportions of UK social protection spending by category (in real terms), financial year ending 2010 and financial year ending 20143",
       "h5": null,
       "title": "Share in spending on health has increased in the last 20 years",
-      "url": "/visualisations/nesscontent/dvc337/Public_Chart3/Public_Chart3.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc337/Public_Chart3/Public_Chart3.html",
+      "url_new": "/visualisations/nesscontent/dvc337/Public_Chart3/Public_Chart3.html"
     },
     {
       "type": "p",
@@ -302,7 +305,8 @@
       "h4": "UK spending on four education categories, financial year ending 2011 to financial year ending 20154",
       "h5": null,
       "title": "Proportional spending on education",
-      "url": "/visualisations/nesscontent/dvc337/Public_Chart5/Public_Chart5.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc337/Public_Chart5/Public_Chart5.html",
+      "url_new": "/visualisations/nesscontent/dvc337/Public_Chart5/Public_Chart5.html"
     },
     {
       "type": "p",
@@ -310,7 +314,7 @@
       "h3": "4. Secondary education made up largest share of education spending",
       "h4": "UK spending on four education categories, financial year ending 2011 to financial year ending 20154",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2016/05/Table5-education-billions.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2016/05/Table5-education-billions.csv)"
     },
     {
       "type": "p",
@@ -380,7 +384,8 @@
       "h4": "Proportion of UK defence spending by category, financial year ending 2015",
       "h5": null,
       "title": "Proportion of UK defence spending by category, financial year ending 2015",
-      "url": "/visualisations/nesscontent/dvc337/Public_Chart6/Public_Chart6/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc337/Public_Chart6/Public_Chart6/index.html",
+      "url_new": "/visualisations/nesscontent/dvc337/Public_Chart6/Public_Chart6/index.html"
     },
     {
       "type": "p",
@@ -487,7 +492,7 @@
         "[UK Perspectives 2016](https://visual.ons.gov.uk/introducing-uk-perspectives-2016/)",
         "[Defence spending](https://www.gov.uk/government/statistics/uk-manufacturers-sales-by-product-prodcom-defence-related-activities-in-the-uk)",
         "[Healthcare spending](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthcaresystem/articles/expenditureonhealthcareintheuk/2015-03-26)",
-        "[Spending on pensions](/visualisations/20160105160709/http://www.ons.gov.uk/ons/rel/pensions/pensions-short-stories/characteristics-of-people-and-households-without-a-private-pension/info-pension.html)",
+        "[Spending on pensions](http://webarchive.nationalarchives.gov.uk/20160105160709/http://www.ons.gov.uk/ons/rel/pensions/pensions-short-stories/characteristics-of-people-and-households-without-a-private-pension/info-pension.html)",
         "[HM Treasury annual report for financial year ending 2015](https://www.gov.uk/government/publications/hm-treasury-annual-report-and-accounts-2014-to-2015)",
         "[Department for Education annual report for financial year ending 2015](https://www.gov.uk/government/publications/dfe-consolidated-annual-report-and-accounts-2014-to-2015)"
       ]

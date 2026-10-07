@@ -50,8 +50,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations//visual/2015/01/Religion-Infographic-768px-V2.png",
-      "alt": null
+      "src": "https://static.ons.gov.uk/visual/2015/01/Religion-Infographic-768px-V2.png",
+      "alt": null,
+      "src_new": "/visual/2015/01/Religion-Infographic-768px-V2.png"
     },
     {
       "type": "p",
@@ -59,7 +60,7 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[Download the data for this infographic.](/visualisations//visual/2015/01/relig_infog_data.csv)"
+      "text": "[Download the data for this infographic.](https://static.ons.gov.uk/visual/2015/01/relig_infog_data.csv)"
     },
     {
       "type": "box",

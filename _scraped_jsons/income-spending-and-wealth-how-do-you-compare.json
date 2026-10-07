@@ -107,7 +107,8 @@
       "h4": null,
       "h5": null,
       "title": "Calculator: how do your finances compare with other households?",
-      "url": "/visualisations/dvc1802/calculator/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1802/calculator/index.html",
+      "url_new": "/visualisations/dvc1802/calculator/index.html"
     },
     {
       "type": "p",
@@ -239,8 +240,9 @@
       "chartbuilder_h3": "People living alone (of working age) and lone parents lacked a financial buffer to sustain their overspend",
       "chartbuilder_h4": "Percentage of households with spending greater than income, and whether or not they can sustain overspend for a year, Great Britain, April 2018 to March 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/articles/incomespendingandwealthhowdoyoucompare/2022-03-09/5e549be0",
-      "src": "/_scraped_chartbuilder_imgs/5e549be0.png",
-      "local_filename": "5e549be0.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/articles/incomespendingandwealthhowdoyoucompare/2022-03-09/5e549be0&width=&hideSource=true",
+      "local_filename": "5e549be0.png",
+      "src_new": "/_scraped_chartbuilder_imgs/5e549be0.png"
     },
     {
       "type": "p",
@@ -283,8 +285,9 @@
       "chartbuilder_h3": "Households in the South East and South West could fund their overspending for longer than those in the North East of England",
       "chartbuilder_h4": "Percentage of households with spending greater than income, and whether or not they can sustain overspend for a year, Great Britain, April 2018 to March 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/articles/incomespendingandwealthhowdoyoucompare/2022-03-09/ac7bacaf",
-      "src": "/_scraped_chartbuilder_imgs/ac7bacaf.png",
-      "local_filename": "ac7bacaf.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/articles/incomespendingandwealthhowdoyoucompare/2022-03-09/ac7bacaf&width=&hideSource=true",
+      "local_filename": "ac7bacaf.png",
+      "src_new": "/_scraped_chartbuilder_imgs/ac7bacaf.png"
     },
     {
       "type": "heading",
@@ -360,7 +363,8 @@
       "h4": "1 in 14 households were in all three types of poverty",
       "h5": "Percentage and approximate number of households in poverty for income, spending and financial wealth, Great Britain, April 2018 to March 2020",
       "title": "Percentage and number of households in poverty for income, spending and financial wealth, Great Britain, April 2018 to March 2020",
-      "url": "/visualisations/dvc1802/icon-array_v2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1802/icon-array_v2/index.html",
+      "url_new": "/visualisations/dvc1802/icon-array_v2/index.html"
     },
     {
       "type": "p",
@@ -368,7 +372,8 @@
       "h3": null,
       "h4": "1 in 14 households were in all three types of poverty",
       "h5": "Percentage and approximate number of households in poverty for income, spending and financial wealth, Great Britain, April 2018 to March 2020",
-      "text": "[Data for households in income, spending and financial wealth poverty (XLSX, 18KB)](/visualisations/dvc1802/icon-array_v2/datadownload.xlsx)"
+      "text": "[Data for households in income, spending and financial wealth poverty (XLSX, 18KB)](https://www.ons.gov.uk/visualisations/dvc1802/icon-array_v2/datadownload.xlsx)",
+      "text_new": "[Data for households in income, spending and financial wealth poverty (XLSX, 18KB)](/visualisations/dvc1802/icon-array_v2/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -452,7 +457,8 @@
       "h4": "Parents reported the highest rates of poverty before the coronavirus pandemic",
       "h5": "Percentage of households in poverty for income, spending and financial wealth, by household composition, Great Britain, April 2018 to March 2020",
       "title": "Percentage of households in poverty for income, spending and financial wealth, by household composition, Great Britain, April 2018 to March 2020 ",
-      "url": "/visualisations/dvc1802/split-bar-multiple-hhtype/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1802/split-bar-multiple-hhtype/index.html",
+      "url_new": "/visualisations/dvc1802/split-bar-multiple-hhtype/index.html"
     },
     {
       "type": "p",
@@ -460,7 +466,8 @@
       "h3": null,
       "h4": "Parents reported the highest rates of poverty before the coronavirus pandemic",
       "h5": "Percentage of households in poverty for income, spending and financial wealth, by household composition, Great Britain, April 2018 to March 2020",
-      "text": "[Data for poverty rates by household type (XLSX, 18KB)](/visualisations/dvc1802/split-bar-multiple-hhtype/datadownload.xlsx)"
+      "text": "[Data for poverty rates by household type (XLSX, 18KB)](https://www.ons.gov.uk/visualisations/dvc1802/split-bar-multiple-hhtype/datadownload.xlsx)",
+      "text_new": "[Data for poverty rates by household type (XLSX, 18KB)](/visualisations/dvc1802/split-bar-multiple-hhtype/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -560,7 +567,8 @@
       "h4": "The West Midlands had the highest percentage of households in poverty for income, spending and financial wealth",
       "h5": "Percentage of households in poverty for income, spending and financial wealth, regions and countries of Great Britain, April 2018 to March 2020",
       "title": "Percentage of households in poverty for income, spending and financial wealth, regions and countries of Great Britain, April 2018 to March 2020",
-      "url": "/visualisations/dvc1802/split-bar-multiple-region/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1802/split-bar-multiple-region/index.html",
+      "url_new": "/visualisations/dvc1802/split-bar-multiple-region/index.html"
     },
     {
       "type": "p",
@@ -568,7 +576,8 @@
       "h3": null,
       "h4": "The West Midlands had the highest percentage of households in poverty for income, spending and financial wealth",
       "h5": "Percentage of households in poverty for income, spending and financial wealth, regions and countries of Great Britain, April 2018 to March 2020",
-      "text": "[Data for poverty rates by region and country of Great Britain (XLSX, 18KB)](/visualisations/dvc1802/split-bar-multiple-region/datadownload.xlsx)"
+      "text": "[Data for poverty rates by region and country of Great Britain (XLSX, 18KB)](https://www.ons.gov.uk/visualisations/dvc1802/split-bar-multiple-region/datadownload.xlsx)",
+      "text_new": "[Data for poverty rates by region and country of Great Britain (XLSX, 18KB)](/visualisations/dvc1802/split-bar-multiple-region/datadownload.xlsx)"
     },
     {
       "type": "heading",

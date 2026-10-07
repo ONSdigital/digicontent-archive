@@ -157,7 +157,8 @@
       "h4": "Gender pay gap per hour by region and country, 1997 and 2017, UK",
       "h5": null,
       "title": "Gender pay gap per hour by region and country, 1997 and 2017, UK",
-      "url": "/visualisations/dvc461/regions_ft/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc461/regions_ft/index.html",
+      "url_new": "/visualisations/dvc461/regions_ft/index.html"
     },
     {
       "type": "p",
@@ -215,7 +216,8 @@
       "h4": "Gender pay gap per hour for part-time workers by public and private sector, 1997 and 2017, UK",
       "h5": null,
       "title": "Gender pay gap per hour for part-time workers by public and private sector, 1997 and 2017, UK",
-      "url": "/visualisations/dvc461/pub_pri_pt/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc461/pub_pri_pt/index.html",
+      "url_new": "/visualisations/dvc461/pub_pri_pt/index.html"
     },
     {
       "type": "p",
@@ -265,7 +267,8 @@
       "h4": "Gender pay gap per hour for full-time workers by public and private sector, 1997 and 2017, UK",
       "h5": null,
       "title": "Gender pay gap per hour for full-time workers by public and private sector, 1997 and 2017, UK",
-      "url": "/visualisations/dvc461/pub_pri_ft/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc461/pub_pri_ft/index.html",
+      "url_new": "/visualisations/dvc461/pub_pri_ft/index.html"
     },
     {
       "type": "p",
@@ -307,7 +310,8 @@
       "h4": "Gender pay gap per hour for 18-49 year olds, full-time and part-time, 1997 to 2017, UK",
       "h5": null,
       "title": "Gender pay gap per hour for 18-49 year olds, full-time and part-time, 1997 to 2017, UK",
-      "url": "/visualisations/dvc461/age_annos/age_groups/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc461/age_annos/age_groups/index.html",
+      "url_new": "/visualisations/dvc461/age_annos/age_groups/index.html"
     },
     {
       "type": "p",
@@ -341,7 +345,8 @@
       "h4": "Gender pay gap per hour for 18 to 49 year olds, 1997 and 2017, UK",
       "h5": null,
       "title": "Gender pay gap per hour for 18 to 49 year olds, 1997 and 2017, UK",
-      "url": "/visualisations/dvc461/age_ft/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc461/age_ft/index.html",
+      "url_new": "/visualisations/dvc461/age_ft/index.html"
     },
     {
       "type": "p",

@@ -94,7 +94,8 @@
       "h4": null,
       "h5": null,
       "title": "Tiles",
-      "url": "/visualisations/dvc1470/tiles/wrapper.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1470/tiles/wrapper.html",
+      "url_new": "/visualisations/dvc1470/tiles/wrapper.html"
     },
     {
       "type": "heading",
@@ -323,7 +324,8 @@
       "h4": "How infections, hospitalisations and deaths have changed during the pandemic",
       "h5": "Estimated coronavirus (COVID-19) positivity rates, overall hospital admissions, intensive care unit (ICU) and high dependency unit (HDU) admissions, and number of deaths, England, 1 August 2020 to 19 March 2023",
       "title": "How infections, hospitalisations and deaths have changed during the pandemic ",
-      "url": "/visualisations/dvc1470/tripleline/wrapper/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1470/tripleline/wrapper/index.html",
+      "url_new": "/visualisations/dvc1470/tripleline/wrapper/index.html"
     },
     {
       "type": "heading",
@@ -340,7 +342,8 @@
       "h3": "Overview of the pandemic",
       "h4": "How infections, hospitalisations and deaths have changed during the pandemic",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc1470/tripleline/wrapper/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc1470/tripleline/wrapper/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc1470/tripleline/wrapper/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -448,7 +451,8 @@
       "h4": null,
       "h5": null,
       "title": "Glossary",
-      "url": "/visualisations/covidgloss/covid_gloss/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/covidgloss/covid_gloss/index.html",
+      "url_new": "/visualisations/covidgloss/covid_gloss/index.html"
     },
     {
       "type": "p",

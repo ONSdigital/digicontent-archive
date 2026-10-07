@@ -150,7 +150,8 @@
       "h4": "Young people, aged 18 to 24 years, appeared to be the least likely to say they always or often maintained social distancing",
       "h5": null,
       "title": "Young people, aged 18 to 24 years, appeared to be the least likely to say they always or often maintained social distancing ",
-      "url": "/visualisations/dvc1285/hands_face_space/wrapper/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1285/hands_face_space/wrapper/index.html",
+      "url_new": "/visualisations/dvc1285/hands_face_space/wrapper/index.html"
     },
     {
       "type": "heading",
@@ -191,7 +192,8 @@
       "h3": null,
       "h4": "Young people, aged 18 to 24 years, appeared to be the least likely to say they always or often maintained social distancing",
       "h5": "Notes",
-      "text": "[Download the data](/visualisations/dvc1285/hands_face_space/wrapper/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1285/hands_face_space/wrapper/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1285/hands_face_space/wrapper/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -250,7 +252,8 @@
       "h4": "In all groups, around 9 out of 10 people avoided physical contact with others when outside their home",
       "h5": null,
       "title": "In all groups, around 9 out of 10 people avoided physical contact with others when outside their home ",
-      "url": "/visualisations/dvc1285/physical_contact/wrapper/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1285/physical_contact/wrapper/index.html",
+      "url_new": "/visualisations/dvc1285/physical_contact/wrapper/index.html"
     },
     {
       "type": "heading",
@@ -291,7 +294,8 @@
       "h3": null,
       "h4": "In all groups, around 9 out of 10 people avoided physical contact with others when outside their home",
       "h5": "Notes",
-      "text": "[Download the data](/visualisations/dvc1285/physical_contact/wrapper/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1285/physical_contact/wrapper/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1285/physical_contact/wrapper/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -402,8 +406,9 @@
       "chartbuilder_h3": "The proportion of adults meeting up outdoors with someone not in their household, childcare or support bubble has increased",
       "chartbuilder_h4": "Adults in Great Britain, January to March 2021",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/intheirownwordshowdifferentpeoplerespondtocoronavirusguidance/2021-04-12/3d99aa7e",
-      "src": "/_scraped_chartbuilder_imgs/3d99aa7e.png",
-      "local_filename": "3d99aa7e.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/intheirownwordshowdifferentpeoplerespondtocoronavirusguidance/2021-04-12/3d99aa7e&width=&hideSource=true",
+      "local_filename": "3d99aa7e.png",
+      "src_new": "/_scraped_chartbuilder_imgs/3d99aa7e.png"
     },
     {
       "type": "p",
@@ -447,8 +452,9 @@
       "chartbuilder_h3": "Half of parents who were homeschooling agreed that it was negatively affecting their well-being",
       "chartbuilder_h4": "Percentage of homeschooling parents who agreed with the statement, Great Britain, 3 April to 10 May 2020 and 13 January to 7 February 2021",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/intheirownwordshowdifferentpeoplerespondtocoronavirusguidance/2021-04-12/cecbdbae",
-      "src": "/_scraped_chartbuilder_imgs/cecbdbae.png",
-      "local_filename": "cecbdbae.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/intheirownwordshowdifferentpeoplerespondtocoronavirusguidance/2021-04-12/cecbdbae&width=&hideSource=true",
+      "local_filename": "cecbdbae.png",
+      "src_new": "/_scraped_chartbuilder_imgs/cecbdbae.png"
     },
     {
       "type": "heading",
@@ -526,8 +532,9 @@
       "chartbuilder_h3": "The percentage of adults avoiding contact with older or vulnerable people has fallen in recent weeks",
       "chartbuilder_h4": "Adults saying they had avoided contact with older or vulnerable people in the past seven days because of the coronavirus pandemic, Great Britain, December 2020 to March 2021",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/intheirownwordshowdifferentpeoplerespondtocoronavirusguidance/2021-04-12/94cb895a",
-      "src": "/_scraped_chartbuilder_imgs/94cb895a.png",
-      "local_filename": "94cb895a.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/intheirownwordshowdifferentpeoplerespondtocoronavirusguidance/2021-04-12/94cb895a&width=&hideSource=true",
+      "local_filename": "94cb895a.png",
+      "src_new": "/_scraped_chartbuilder_imgs/94cb895a.png"
     },
     {
       "type": "p",
@@ -628,7 +635,8 @@
       "h4": "Adults aged under 35 years, in the high income group and from ethnic minority backgrounds were the most likely to say they did not have enough information about government plans",
       "h5": null,
       "title": "Adults aged under 35 years, high earners and from ethnic minority backgrounds were the most likely to say they did not have enough information about government plans ",
-      "url": "/visualisations/dvc1285/information/wrapper/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1285/information/wrapper/index.html",
+      "url_new": "/visualisations/dvc1285/information/wrapper/index.html"
     },
     {
       "type": "heading",
@@ -669,7 +677,8 @@
       "h3": null,
       "h4": "Adults aged under 35 years, in the high income group and from ethnic minority backgrounds were the most likely to say they did not have enough information about government plans",
       "h5": "Notes",
-      "text": "[Download the data](/visualisations/dvc1285/information/wrapper/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1285/information/wrapper/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1285/information/wrapper/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -787,7 +796,8 @@
       "h4": "University students reported a lower level of life satisfaction than the general adult population",
       "h5": null,
       "title": "University students reported a lower level of life satisfaction than the general adult population  ",
-      "url": "/visualisations/dvc1285/students/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1285/students/index.html",
+      "url_new": "/visualisations/dvc1285/students/index.html"
     },
     {
       "type": "heading",
@@ -844,7 +854,8 @@
       "h3": null,
       "h4": "University students reported a lower level of life satisfaction than the general adult population",
       "h5": "Notes:",
-      "text": "[Download the data](/visualisations/dvc1285/students/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1285/students/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1285/students/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -937,7 +948,8 @@
       "h4": "Nearly 3 in 10 (28%) adults reported feeling it will take more than a year for life to return to normal",
       "h5": null,
       "title": "Nearly 3 in 10 (28%) adults reported feeling it will take more than a year for life to return to normal ",
-      "url": "/visualisations/dvc1285/return_normal/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1285/return_normal/index.html",
+      "url_new": "/visualisations/dvc1285/return_normal/index.html"
     },
     {
       "type": "heading",
@@ -978,7 +990,8 @@
       "h3": null,
       "h4": "Notes:",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc1285/return_normal/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1285/return_normal/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1285/return_normal/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -1039,8 +1052,9 @@
       "chartbuilder_h3": "Adults aged 16 to 29 years were more likely to report vaccine hesitancy than those aged 80 years and over",
       "chartbuilder_h4": "Age groups, Great Britain, 13 January to 7 February 2021",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/intheirownwordshowdifferentpeoplerespondtocoronavirusguidance/2021-04-12/16adbe59",
-      "src": "/_scraped_chartbuilder_imgs/16adbe59.png",
-      "local_filename": "16adbe59.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/intheirownwordshowdifferentpeoplerespondtocoronavirusguidance/2021-04-12/16adbe59&width=&hideSource=true",
+      "local_filename": "16adbe59.png",
+      "src_new": "/_scraped_chartbuilder_imgs/16adbe59.png"
     },
     {
       "type": "p",
@@ -1219,6 +1233,12 @@
       "box_h3": null,
       "box_text": "",
       "box_items": [
+        "[Coronavirus and compliance with guidelines in Great Britain: January 2021](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/adhocs/13113coronavirusandcompliancewithguidelinesingreatbritainjanuary2021)",
+        "[Mapping loneliness during the coronavirus pandemic](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/articles/mappinglonelinessduringthecoronaviruspandemic/2021-04-07)",
+        "[Coronavirus: a year like no other](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronavirusayearlikenoother/2021-03-15)",
+        "[Diary of a nation: life in lockdown](https://www.ons.gov.uk/visualisations/dvc983/Diary_of_a_nation-20200907082746841/index.html)"
+      ],
+      "box_items_new": [
         "[Coronavirus and compliance with guidelines in Great Britain: January 2021](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/adhocs/13113coronavirusandcompliancewithguidelinesingreatbritainjanuary2021)",
         "[Mapping loneliness during the coronavirus pandemic](https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/articles/mappinglonelinessduringthecoronaviruspandemic/2021-04-07)",
         "[Coronavirus: a year like no other](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronavirusayearlikenoother/2021-03-15)",

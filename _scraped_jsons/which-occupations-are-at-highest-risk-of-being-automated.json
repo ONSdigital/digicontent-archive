@@ -116,7 +116,8 @@
       "h4": null,
       "h5": "Find out more about automation using our chat bot:",
       "title": "Job automation chatbot",
-      "url": "/visualisations/dvc599/chatbot/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc599/chatbot/index.html",
+      "url_new": "/visualisations/dvc599/chatbot/index.html"
     },
     {
       "type": "p",
@@ -165,7 +166,8 @@
       "h4": null,
       "h5": "Find out more about automation using our chat bot:",
       "title": "Occupation pay explorer",
-      "url": "/visualisations/dvc599/beeswarm/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc599/beeswarm/index.html",
+      "url_new": "/visualisations/dvc599/beeswarm/index.html"
     },
     {
       "type": "heading",
@@ -199,7 +201,8 @@
       "h4": null,
       "h5": null,
       "title": "Probability of automation by region of place of work",
-      "url": "/visualisations/dvc599/automation-by-region/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc599/automation-by-region/index.html",
+      "url_new": "/visualisations/dvc599/automation-by-region/index.html"
     },
     {
       "type": "heading",
@@ -250,7 +253,8 @@
       "h4": "Young people are more at risk of job automation",
       "h5": null,
       "title": "Young people are more at risk of job automation Proportion of people at high risk of automation, by age, 2017, England",
-      "url": "/visualisations/dvc599/automation-by-age/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc599/automation-by-age/index.html",
+      "url_new": "/visualisations/dvc599/automation-by-age/index.html"
     },
     {
       "type": "p",

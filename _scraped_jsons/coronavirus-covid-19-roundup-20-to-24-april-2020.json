@@ -167,8 +167,9 @@
       "chartbuilder_h3": "Disabled adults were more likely to report spending too much time alone in the last 7 days than non-disabled adults",
       "chartbuilder_h4": "Great Britain, 3 April 2020 to 13 April 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup20to24april2020/2020-04-24/b5523103",
-      "src": "/_scraped_chartbuilder_imgs/b5523103.png",
-      "local_filename": "b5523103.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup20to24april2020/2020-04-24/b5523103&width=&hideSource=true",
+      "local_filename": "b5523103.png",
+      "src_new": "/_scraped_chartbuilder_imgs/b5523103.png"
     },
     {
       "type": "p",
@@ -317,7 +318,8 @@
       "h4": "Almost a third of households in England are people living alone",
       "h5": "Household composition in England, by age of household reference person (HRP), projected values for 2020",
       "title": "Almost a third of households in England are people living alone",
-      "url": "/visualisations/dvc796/hhtypenational/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc796/hhtypenational/index.html",
+      "url_new": "/visualisations/dvc796/hhtypenational/index.html"
     },
     {
       "type": "p",
@@ -325,7 +327,8 @@
       "h3": null,
       "h4": "Almost a third of households in England are people living alone",
       "h5": "Household composition in England, by age of household reference person (HRP), projected values for 2020",
-      "text": "[Download the data](/visualisations/dvc796/hhtypenational/datadownload.xls)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc796/hhtypenational/datadownload.xls)",
+      "text_new": "[Download the data](/visualisations/dvc796/hhtypenational/datadownload.xls)"
     },
     {
       "type": "p",
@@ -384,7 +387,8 @@
       "h4": "Explore how living situations vary in your area",
       "h5": "Household composition by local authority in England, by age of household reference person (HRP), projected values for 2020",
       "title": "Explore how living situations vary in your area",
-      "url": "/visualisations/dvc796/hhtypela/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc796/hhtypela/index.html",
+      "url_new": "/visualisations/dvc796/hhtypela/index.html"
     },
     {
       "type": "p",
@@ -392,7 +396,8 @@
       "h3": null,
       "h4": "Explore how living situations vary in your area",
       "h5": "Household composition by local authority in England, by age of household reference person (HRP), projected values for 2020",
-      "text": "[Download the data](/visualisations/dvc796/hhtypenational/datadownload.xls)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc796/hhtypenational/datadownload.xls)",
+      "text_new": "[Download the data](/visualisations/dvc796/hhtypenational/datadownload.xls)"
     },
     {
       "type": "p",
@@ -450,7 +455,8 @@
       "h4": null,
       "h5": null,
       "title": "Map",
-      "url": "/visualisations/dvc801/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc801/index.html",
+      "url_new": "/visualisations/dvc801/index.html"
     },
     {
       "type": "p",
@@ -458,7 +464,8 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc801/datadownload.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc801/datadownload.csv)",
+      "text_new": "[Download the data](/visualisations/dvc801/datadownload.csv)"
     },
     {
       "type": "heading",

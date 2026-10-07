@@ -75,7 +75,8 @@
       "h4": null,
       "h5": null,
       "title": "Teenage pregnancy â€“ perception versus reality",
-      "url": "/visualisations/nesscontent/dvc311/quiz/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc311/quiz/index.html",
+      "url_new": "/visualisations/nesscontent/dvc311/quiz/index.html"
     },
     {
       "type": "heading",
@@ -126,7 +127,8 @@
       "h4": "Percentage of girls under 16 and under 18 becoming pregnant, England and Wales, 1969 to 20141",
       "h5": null,
       "title": "Percentage of girls under 16 and under 18 becoming pregnant, England and Wales, 1969 to 2014<sup>1<\/sup>",
-      "url": "/visualisations/nesscontent/dvc311/linechart/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc311/linechart/index.html",
+      "url_new": "/visualisations/nesscontent/dvc311/linechart/index.html"
     },
     {
       "type": "p",
@@ -134,7 +136,7 @@
       "h3": "Teenage pregnancies since 1969",
       "h4": "Percentage of girls under 16 and under 18 becoming pregnant, England and Wales, 1969 to 20141",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2016/03/Data-Download-for-Teenage-Pregnancies1.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2016/03/Data-Download-for-Teenage-Pregnancies1.csv)"
     },
     {
       "type": "p",
@@ -182,7 +184,7 @@
       "h3": "Teenage pregnancies since 1969",
       "h4": "Percentage of girls under 16 and under 18 becoming pregnant, England and Wales, 1969 to 20141",
       "h5": null,
-      "text": "The[last target](/visualisations/20091212133529/http://dcsf.gov.uk/everychildmatters/healthandwellbeing/teenagepregnancy/about/strategy/), set by the government in England in 1999, was to halve the 1998 under 18 teenage pregnancy rate for England by 2010. Rates fell substantially during this period and this target was [reached in 2014](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/conceptionandfertilityrates/bulletins/conceptionstatistics/previousReleases)."
+      "text": "The[last target](http://webarchive.nationalarchives.gov.uk/20091212133529/http://dcsf.gov.uk/everychildmatters/healthandwellbeing/teenagepregnancy/about/strategy/), set by the government in England in 1999, was to halve the 1998 under 18 teenage pregnancy rate for England by 2010. Rates fell substantially during this period and this target was [reached in 2014](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/conceptionandfertilityrates/bulletins/conceptionstatistics/previousReleases)."
     },
     {
       "type": "heading",
@@ -224,7 +226,8 @@
       "h4": null,
       "h5": null,
       "title": "Maps",
-      "url": "/visualisations/nesscontent/dvc311/map/map.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc311/map/map.html",
+      "url_new": "/visualisations/nesscontent/dvc311/map/map.html"
     },
     {
       "type": "p",

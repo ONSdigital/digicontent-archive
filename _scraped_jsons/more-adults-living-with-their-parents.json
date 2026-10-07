@@ -182,7 +182,8 @@
       "h4": "The proportion of adult children rose at every age above 19 years between 2011 and 2021",
       "h5": "Individuals in each age cohort classified as adult children as a share of all usual residents, England and Wales",
       "title": "Age distribution for adult children in England and Wales",
-      "url": "/visualisations/dvc2249/fig1age/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2249/fig1age/index.html",
+      "url_new": "/visualisations/dvc2249/fig1age/index.html"
     },
     {
       "type": "p",
@@ -190,7 +191,8 @@
       "h3": "Children living with their parents at older ages",
       "h4": "The proportion of adult children rose at every age above 19 years between 2011 and 2021",
       "h5": "Individuals in each age cohort classified as adult children as a share of all usual residents, England and Wales",
-      "text": "[.xlsx](/visualisations/dvc2249/fig1age/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2249/fig1age/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2249/fig1age/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -298,7 +300,8 @@
       "h4": "London boroughs had some of the highest proportions of families with adult children",
       "h5": "Proportion of families with adult children by local authority, 2011 to 2021, England and Wales",
       "title": "Adult children by local authority",
-      "url": "/visualisations/dvc2249/fig2map/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2249/fig2map/index.html",
+      "url_new": "/visualisations/dvc2249/fig2map/index.html"
     },
     {
       "type": "p",
@@ -306,7 +309,8 @@
       "h3": "One in four London families had adult children in the home",
       "h4": "London boroughs had some of the highest proportions of families with adult children",
       "h5": "Proportion of families with adult children by local authority, 2011 to 2021, England and Wales",
-      "text": "[.xlsx](/visualisations/dvc2249/fig2map/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2249/fig2map/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2249/fig2map/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -430,8 +434,9 @@
       "chartbuilder_h3": "More than half of lone-parent families in London had an adult child",
       "chartbuilder_h4": "Lone-parent families with at least one adult child by region, 2011 and 2021",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/moreadultslivingwiththeirparents/2023-05-10/e7c28d15",
-      "src": "/_scraped_chartbuilder_imgs/e7c28d15.png",
-      "local_filename": "e7c28d15.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/moreadultslivingwiththeirparents/2023-05-10/e7c28d15&width=&hideSource=true",
+      "local_filename": "e7c28d15.png",
+      "src_new": "/_scraped_chartbuilder_imgs/e7c28d15.png"
     },
     {
       "type": "p",
@@ -515,7 +520,8 @@
       "h4": "Female adult children were more likely to be carers in every family type compared with male adult children",
       "h5": "Adult children providing unpaid care by sex and family type, England and Wales, 2021",
       "title": "Adult children providing unpaid care",
-      "url": "/visualisations/dvc2249/fig3care/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2249/fig3care/index.html",
+      "url_new": "/visualisations/dvc2249/fig3care/index.html"
     },
     {
       "type": "p",
@@ -523,7 +529,8 @@
       "h3": "One in four adult children were unpaid carers",
       "h4": "Female adult children were more likely to be carers in every family type compared with male adult children",
       "h5": "Adult children providing unpaid care by sex and family type, England and Wales, 2021",
-      "text": "[.xlsx](/visualisations/dvc2249/fig3care/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2249/fig3care/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2249/fig3care/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -582,7 +589,8 @@
       "h4": "Adult children in lone parent families were more likely to be providing 50 or more hours of unpaid care per week than those in couple families",
       "h5": "Percentage of adult children providing unpaid care by sex and number of unpaid care hours provided per week, England and Wales 2021",
       "title": "Adult children providing unpaid care",
-      "url": "/visualisations/dvc2249/fig4hours/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2249/fig4hours/index.html",
+      "url_new": "/visualisations/dvc2249/fig4hours/index.html"
     },
     {
       "type": "p",
@@ -590,7 +598,8 @@
       "h3": "One in four adult children were unpaid carers",
       "h4": "Adult children in lone parent families were more likely to be providing 50 or more hours of unpaid care per week than those in couple families",
       "h5": "Percentage of adult children providing unpaid care by sex and number of unpaid care hours provided per week, England and Wales 2021",
-      "text": "[.xlsx](/visualisations/dvc2249/fig4hours/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2249/fig4hours/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2249/fig4hours/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -666,8 +675,9 @@
       "chartbuilder_h3": "Adult children aged 22 to 64 years were more likely to be unemployed",
       "chartbuilder_h4": "Adult children aged 22 to 64 years and usual residents aged 22 to 64 years by economic activity, England and Wales, 2021",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/moreadultslivingwiththeirparents/2023-05-10/cf383af0",
-      "src": "/_scraped_chartbuilder_imgs/cf383af0.png",
-      "local_filename": "cf383af0.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/moreadultslivingwiththeirparents/2023-05-10/cf383af0&width=&hideSource=true",
+      "local_filename": "cf383af0.png",
+      "src_new": "/_scraped_chartbuilder_imgs/cf383af0.png"
     },
     {
       "type": "p",

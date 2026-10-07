@@ -126,8 +126,9 @@
       "chartbuilder_h3": "Mortality rates for the month of September have fallen between 2003 and 2020",
       "chartbuilder_h4": "Age-standardised mortality rates by sex, England and Wales, deaths registered in September 2001 to September 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup19to23october2020/2020-10-23/9fc3de6d",
-      "src": "/_scraped_chartbuilder_imgs/9fc3de6d.png",
-      "local_filename": "9fc3de6d.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup19to23october2020/2020-10-23/9fc3de6d&width=&hideSource=true",
+      "local_filename": "9fc3de6d.png",
+      "src_new": "/_scraped_chartbuilder_imgs/9fc3de6d.png"
     },
     {
       "type": "p",
@@ -203,7 +204,8 @@
       "h4": "Food and non-store retailing were at higher levels in February, while fuel remained lower than February 2020",
       "h5": "Volume sales, seasonally adjusted, Great Britain, September 2017 to September 2020",
       "title": "Food and non-store retailing were at higher levels in February, while fuel remained lower than February 2020\" full-width=\"false",
-      "url": "/visualisations/dvc1028/fig2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1028/fig2/index.html",
+      "url_new": "/visualisations/dvc1028/fig2/index.html"
     },
     {
       "type": "p",
@@ -255,8 +257,9 @@
       "chartbuilder_h3": "UK house price growth has generally slowed since mid-2016, but has picked up this year",
       "chartbuilder_h4": "Annual house price rates of change for all dwellings, UK, January 2006 to August 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup19to23october2020/2020-10-23/0e8c6851",
-      "src": "/_scraped_chartbuilder_imgs/0e8c6851.png",
-      "local_filename": "0e8c6851.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup19to23october2020/2020-10-23/0e8c6851&width=&hideSource=true",
+      "local_filename": "0e8c6851.png",
+      "src_new": "/_scraped_chartbuilder_imgs/0e8c6851.png"
     },
     {
       "type": "p",
@@ -542,7 +545,8 @@
       "h4": "Almost 60% of excess deaths in private homes in England were of people aged 70 to 89 years",
       "h5": "Number of deaths in private homes by sex and age, England, registered 14 March 2020 to 11 September 2020",
       "title": "Almost 60% of excess deaths in private homes in England were of people aged 70 to 89 years\" full-width=\"false",
-      "url": "/visualisations/dvc1014/fig3/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1014/fig3/index.html",
+      "url_new": "/visualisations/dvc1014/fig3/index.html"
     },
     {
       "type": "p",
@@ -598,7 +602,8 @@
       "h3": null,
       "h4": "Almost 60% of excess deaths in private homes in England were of people aged 70 to 89 years",
       "h5": "Number of deaths in private homes by sex and age, England, registered 14 March 2020 to 11 September 2020",
-      "text": "[Download the data](/visualisations/dvc1014/fig3/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1014/fig3/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1014/fig3/datadownload.xlsx)"
     },
     {
       "type": "box",

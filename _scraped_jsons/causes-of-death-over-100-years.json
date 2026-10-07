@@ -117,7 +117,8 @@
       "h4": "Top causes of death by age and sex, 1915 to 2015",
       "h5": null,
       "title": "Top causes of death by age and sex, 1915 to 2015 Explore the top cause of death, by age and sex, by dragging your cursor (or tap your finger) across a coloured square:",
-      "url": "/visualisations/dvc427/heatmap_m/"
+      "url": "https://www.ons.gov.uk/visualisations/dvc427/heatmap_m/",
+      "url_new": "/visualisations/dvc427/heatmap_m/"
     },
     {
       "type": "interactive",
@@ -126,7 +127,8 @@
       "h4": "Top causes of death by age and sex, 1915 to 2015",
       "h5": null,
       "title": "100 yrs Death",
-      "url": "/visualisations/dvc427/heatmap_f/"
+      "url": "https://www.ons.gov.uk/visualisations/dvc427/heatmap_f/",
+      "url_new": "/visualisations/dvc427/heatmap_f/"
     },
     {
       "type": "p",
@@ -134,7 +136,7 @@
       "h3": "A change in the top cause of death",
       "h4": "Top causes of death by age and sex, 1915 to 2015",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2017/09/Top-10-data-download.xlsx)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2017/09/Top-10-data-download.xlsx)"
     },
     {
       "type": "p",
@@ -257,7 +259,8 @@
       "h4": "Deaths in England and Wales, 1915 to 2015",
       "h5": null,
       "title": "Deaths in England and Wales, 1915 to 2015",
-      "url": "/visualisations/dvc427/figure2/"
+      "url": "https://www.ons.gov.uk/visualisations/dvc427/figure2/",
+      "url_new": "/visualisations/dvc427/figure2/"
     },
     {
       "type": "p",
@@ -265,7 +268,8 @@
       "h3": "Overall trends in deaths, 1915 to 2015",
       "h4": "Deaths in England and Wales, 1915 to 2015",
       "h5": null,
-      "text": "[Download the data.](/visualisations/dvc427/data2.csv)"
+      "text": "[Download the data.](https://www.ons.gov.uk/visualisations/dvc427/data2.csv)",
+      "text_new": "[Download the data.](/visualisations/dvc427/data2.csv)"
     },
     {
       "type": "p",
@@ -315,7 +319,8 @@
       "h4": "Death rate by age, England and Wales, 1915 to 2015",
       "h5": null,
       "title": "Death rate by age, England and Wales, 1915 to 2015",
-      "url": "/visualisations/dvc427/chart2rates/"
+      "url": "https://www.ons.gov.uk/visualisations/dvc427/chart2rates/",
+      "url_new": "/visualisations/dvc427/chart2rates/"
     },
     {
       "type": "p",
@@ -323,7 +328,8 @@
       "h3": "Overall trends in deaths, 1915 to 2015",
       "h4": "Death rate by age, England and Wales, 1915 to 2015",
       "h5": null,
-      "text": "[Download the data.](/visualisations/dvc427/data3.csv)"
+      "text": "[Download the data.](https://www.ons.gov.uk/visualisations/dvc427/data3.csv)",
+      "text_new": "[Download the data.](/visualisations/dvc427/data3.csv)"
     },
     {
       "type": "p",
@@ -398,7 +404,8 @@
       "h4": "Childhood death numbers, England and Wales, 1915 to 2015",
       "h5": null,
       "title": "Childhood death numbers, England and Wales, 1915 to 2015",
-      "url": "/visualisations/dvc427/figure4/"
+      "url": "https://www.ons.gov.uk/visualisations/dvc427/figure4/",
+      "url_new": "/visualisations/dvc427/figure4/"
     },
     {
       "type": "p",
@@ -406,7 +413,8 @@
       "h3": "Considerable drop in the number of child deaths",
       "h4": "Childhood death numbers, England and Wales, 1915 to 2015",
       "h5": null,
-      "text": "[Download the data.](/visualisations/dvc427/data4.csv)"
+      "text": "[Download the data.](https://www.ons.gov.uk/visualisations/dvc427/data4.csv)",
+      "text_new": "[Download the data.](/visualisations/dvc427/data4.csv)"
     },
     {
       "type": "p",
@@ -422,7 +430,7 @@
       "h3": "Considerable drop in the number of child deaths",
       "h4": "Childhood death numbers, England and Wales, 1915 to 2015",
       "h5": null,
-      "text": "The [improvements in mortality](/visualisations/20160110132842/http://www.ons.gov.uk/ons/rel/hsq/health-statistics-quarterly/no--18--summer-2003/index.html) were attributed to rising standards of living, especially improvements in nutrition and hygiene, in addition to the decline in deaths from airborne disease."
+      "text": "The [improvements in mortality](http://webarchive.nationalarchives.gov.uk/20160110132842/http://www.ons.gov.uk/ons/rel/hsq/health-statistics-quarterly/no--18--summer-2003/index.html) were attributed to rising standards of living, especially improvements in nutrition and hygiene, in addition to the decline in deaths from airborne disease."
     },
     {
       "type": "p",

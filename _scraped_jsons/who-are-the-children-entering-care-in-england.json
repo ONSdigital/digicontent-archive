@@ -158,7 +158,8 @@
       "h4": "Children from Black and Mixed ethnicities accounted for a larger percentage in the “in care” group than the “not in care” group",
       "h5": "Distribution of ethnicity by care group, unweighted, England, 2011 to 2015",
       "title": "ethnicity bar chart",
-      "url": "/visualisations/dvc2307a/d3/fig1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2307a/d3/fig1/index.html",
+      "url_new": "/visualisations/dvc2307a/d3/fig1/index.html"
     },
     {
       "type": "li",
@@ -183,7 +184,8 @@
       "h3": null,
       "h4": "Children from Black and Mixed ethnicities accounted for a larger percentage in the “in care” group than the “not in care” group",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2307a/d3/fig1/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2307a/d3/fig1/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2307a/d3/fig1/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -283,7 +285,8 @@
       "h4": "Around 8 in 10 children that went into care were living a household that was deprived in at least one dimension",
       "h5": "Distribution of household deprivation by care group, unweighted, England, 2011 to 2015",
       "title": "household deprivation bar chart",
-      "url": "/visualisations/dvc2307a/d3/fig2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2307a/d3/fig2/index.html",
+      "url_new": "/visualisations/dvc2307a/d3/fig2/index.html"
     },
     {
       "type": "li",
@@ -308,7 +311,8 @@
       "h3": "Deprived backgrounds",
       "h4": "Around 8 in 10 children that went into care were living a household that was deprived in at least one dimension",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2307a/d3/fig2/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2307a/d3/fig2/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2307a/d3/fig2/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -375,7 +379,8 @@
       "h4": "Children in care were more likely to have been living in deprivation",
       "h5": "Percentage of children in each care group living in households experiencing a specific type of deprivation, unweighted, England, 2011 to 2015",
       "title": "deprivation dimensions dot plot",
-      "url": "/visualisations/dvc2307a/d3/fig3/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2307a/d3/fig3/index.html",
+      "url_new": "/visualisations/dvc2307a/d3/fig3/index.html"
     },
     {
       "type": "heading",
@@ -392,7 +397,8 @@
       "h3": "Deprived backgrounds",
       "h4": "Children in care were more likely to have been living in deprivation",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2307a/d3/fig3/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2307a/d3/fig3/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2307a/d3/fig3/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -460,7 +466,8 @@
       "h4": "Half of the children who went into care in GUiE were in lone parent families at the time of the 2011 Census",
       "h5": "Distribution of family type by care group, unweighted, England, 2011 to 2015",
       "title": "lone parent family chart",
-      "url": "/visualisations/dvc2307a/d3/fig4/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2307a/d3/fig4/index.html",
+      "url_new": "/visualisations/dvc2307a/d3/fig4/index.html"
     },
     {
       "type": "li",
@@ -485,7 +492,8 @@
       "h3": "Challenging family and home life",
       "h4": "Half of the children who went into care in GUiE were in lone parent families at the time of the 2011 Census",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2307a/d3/fig4/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2307a/d3/fig4/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2307a/d3/fig4/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -536,7 +544,8 @@
       "h4": "Children who went into care were more likely to be living in larger households",
       "h5": "Distribution of household size by care group, unweighted, England, 2011 to 2015",
       "title": "household size chart",
-      "url": "/visualisations/dvc2307a/d3/fig5/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2307a/d3/fig5/index.html",
+      "url_new": "/visualisations/dvc2307a/d3/fig5/index.html"
     },
     {
       "type": "li",
@@ -561,7 +570,8 @@
       "h3": "Challenging family and home life",
       "h4": "Children who went into care were more likely to be living in larger households",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2307a/d3/fig5/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2307a/d3/fig5/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2307a/d3/fig5/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -612,7 +622,8 @@
       "h4": "Children that went into care were less than half as likely to be living in a household that was owned",
       "h5": "Distribution of tenure type by care group, unweighted, England, 2011 to 2015",
       "title": "tenure type bar chart",
-      "url": "/visualisations/dvc2307a/d3/fig6/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2307a/d3/fig6/index.html",
+      "url_new": "/visualisations/dvc2307a/d3/fig6/index.html"
     },
     {
       "type": "li",
@@ -637,7 +648,8 @@
       "h3": "Challenging family and home life",
       "h4": "Children that went into care were less than half as likely to be living in a household that was owned",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2307a/d3/fig6/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2307a/d3/fig6/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2307a/d3/fig6/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -697,7 +709,8 @@
       "h4": "Children in care who were absent from school were more likely to miss more school sessions than those not in care",
       "h5": "Distribution of absence status at the 15% threshold by care group, unweighted, England, 2011 to 2015",
       "title": "absence chart",
-      "url": "/visualisations/dvc2307a/d3/fig7/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2307a/d3/fig7/index.html",
+      "url_new": "/visualisations/dvc2307a/d3/fig7/index.html"
     },
     {
       "type": "li",
@@ -722,7 +735,8 @@
       "h3": "School absences and exclusions",
       "h4": "Children in care who were absent from school were more likely to miss more school sessions than those not in care",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2307a/d3/fig7/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2307a/d3/fig7/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2307a/d3/fig7/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -773,7 +787,8 @@
       "h4": "Of children entering care who had been suspended from school, 58% were suspended on two or more occasions in the previous three terms before going into care",
       "h5": "Distribution of the number of suspensions for pupils with at least one suspension by care group, unweighted, England, 2011 to 2015",
       "title": "suspensions chart",
-      "url": "/visualisations/dvc2307a/d3/fig8/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2307a/d3/fig8/index.html",
+      "url_new": "/visualisations/dvc2307a/d3/fig8/index.html"
     },
     {
       "type": "li",
@@ -798,7 +813,8 @@
       "h3": "School absences and exclusions",
       "h4": "Of children entering care who had been suspended from school, 58% were suspended on two or more occasions in the previous three terms before going into care",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2307a/d3/fig8/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2307a/d3/fig8/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2307a/d3/fig8/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -849,7 +865,8 @@
       "h4": "Exclusions for persistent disruptive behaviour were more likely among children who went into care",
       "h5": "Percentage of excluded pupils in each care group excluded for a specific reason, unweighted, England, 2011 to 2015",
       "title": "exclusion reasons",
-      "url": "/visualisations/dvc2307a/d3/fig9/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2307a/d3/fig9/index.html",
+      "url_new": "/visualisations/dvc2307a/d3/fig9/index.html"
     },
     {
       "type": "li",
@@ -874,7 +891,8 @@
       "h3": "School absences and exclusions",
       "h4": "Exclusions for persistent disruptive behaviour were more likely among children who went into care",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2307a/d3/fig9/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2307a/d3/fig9/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2307a/d3/fig9/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -958,7 +976,8 @@
       "h4": "Entering care because of abuse or neglect was most common among the Asian and Asian British ethnic group",
       "h5": "Distribution of category of need by ethnicity, unweighted, England 2011 to 2015",
       "title": "ethnicity category of need chart",
-      "url": "/visualisations/dvc2307a/fig10/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2307a/fig10/index.html",
+      "url_new": "/visualisations/dvc2307a/fig10/index.html"
     },
     {
       "type": "li",
@@ -991,7 +1010,8 @@
       "h3": null,
       "h4": "Entering care because of abuse or neglect was most common among the Asian and Asian British ethnic group",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2307a/fig10/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2307a/fig10/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2307a/fig10/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -1066,7 +1086,8 @@
       "h4": "The reasons children entered care varied by sex",
       "h5": "Distribution of category of need by sex, unweighted, England, 2011 to 2015",
       "title": "category of need by sex chart",
-      "url": "/visualisations/dvc2307a/d3/fig11/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2307a/d3/fig11/index.html",
+      "url_new": "/visualisations/dvc2307a/d3/fig11/index.html"
     },
     {
       "type": "li",
@@ -1099,7 +1120,8 @@
       "h3": null,
       "h4": "The reasons children entered care varied by sex",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2307a/d3/fig11/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2307a/d3/fig11/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2307a/d3/fig11/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -1183,7 +1205,8 @@
       "h4": "Girls were more likely to be placed in foster care while children’s home and youth offenders' institution placements were more common among boys",
       "h5": "Distribution of placement type by sex, unweighted, England, 2011 to 2015",
       "title": "placement type by sex chart",
-      "url": "/visualisations/dvc2307a/d3/fig12/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2307a/d3/fig12/index.html",
+      "url_new": "/visualisations/dvc2307a/d3/fig12/index.html"
     },
     {
       "type": "li",
@@ -1216,7 +1239,8 @@
       "h3": null,
       "h4": "Girls were more likely to be placed in foster care while children’s home and youth offenders' institution placements were more common among boys",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2307a/d3/fig12/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2307a/d3/fig12/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2307a/d3/fig12/datadownload.xlsx)"
     },
     {
       "type": "p",

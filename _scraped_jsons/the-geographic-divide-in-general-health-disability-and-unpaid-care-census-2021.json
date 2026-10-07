@@ -42,8 +42,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations/censushealthdisabilitycare/img/preview.png",
-      "alt": ""
+      "src": "https://www.ons.gov.uk/visualisations/censushealthdisabilitycare/img/preview.png",
+      "alt": "",
+      "src_new": "/visualisations/censushealthdisabilitycare/img/preview.png"
     },
     {
       "type": "heading",

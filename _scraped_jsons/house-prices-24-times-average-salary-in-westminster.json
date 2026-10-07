@@ -85,7 +85,8 @@
       "h4": "Ratio of average house price to average salary for the most and least affordable areas, 2002 to 2014",
       "h5": null,
       "title": "Ratio of average house price to average salary for the most and least affordable areas, 2002 to 2014",
-      "url": "/visualisations/nesscontent/dvc274/affordable_1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc274/affordable_1/index.html",
+      "url_new": "/visualisations/nesscontent/dvc274/affordable_1/index.html"
     },
     {
       "type": "p",
@@ -93,7 +94,7 @@
       "h3": "Westminster the least affordable place to buy a house in 2014",
       "h4": "Ratio of average house price to average salary for the most and least affordable areas, 2002 to 2014",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2015/08/affordability_Figure1_data.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2015/08/affordability_Figure1_data.csv)"
     },
     {
       "type": "p",
@@ -144,7 +145,8 @@
       "h4": "Ratio of average house price to average salary for the 30 most and least affordable areas in England and Wales, 2014",
       "h5": null,
       "title": "Ratio of average house price to average salary for the 30 most and least affordable areas in England and Wales, 2014",
-      "url": "/visualisations/nesscontent/dvc274/affordable_2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc274/affordable_2/index.html",
+      "url_new": "/visualisations/nesscontent/dvc274/affordable_2/index.html"
     },
     {
       "type": "p",
@@ -152,7 +154,7 @@
       "h3": "Housing affordability divides the country",
       "h4": "Ratio of average house price to average salary for the 30 most and least affordable areas in England and Wales, 2014",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2015/08/data.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2015/08/data.csv)"
     },
     {
       "type": "p",
@@ -203,7 +205,8 @@
       "h4": "Average monthly private rent and average house price by local authority, England, 2014",
       "h5": null,
       "title": "Average monthly private rent and average house price by local authority, England, 2014",
-      "url": "/visualisations/nesscontent/dvc274/affordable_3/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc274/affordable_3/index.html",
+      "url_new": "/visualisations/nesscontent/dvc274/affordable_3/index.html"
     },
     {
       "type": "p",
@@ -211,7 +214,7 @@
       "h3": "Rent in Kensington and Chelsea and Westminster was over £2000 per month",
       "h4": "Average monthly private rent and average house price by local authority, England, 2014",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2015/08/affordability_Figure3_data.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2015/08/affordability_Figure3_data.csv)"
     },
     {
       "type": "p",

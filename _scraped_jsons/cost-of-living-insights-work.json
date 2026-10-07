@@ -203,8 +203,9 @@
       "h3": "How this affects you",
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc2389/images/Wage-calculator.png",
-      "alt": ""
+      "src": "https://www.ons.gov.uk/visualisations/dvc2389/images/Wage-calculator.png",
+      "alt": "",
+      "src_new": "/visualisations/dvc2389/images/Wage-calculator.png"
     },
     {
       "type": "image",
@@ -212,8 +213,9 @@
       "h3": "How this affects you",
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc2389/images/Subnational-indicators.png",
-      "alt": ""
+      "src": "https://www.ons.gov.uk/visualisations/dvc2389/images/Subnational-indicators.png",
+      "alt": "",
+      "src_new": "/visualisations/dvc2389/images/Subnational-indicators.png"
     },
     {
       "type": "image",
@@ -221,8 +223,9 @@
       "h3": "How this affects you",
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc2389/images/Gender-pay-gap.png",
-      "alt": ""
+      "src": "https://www.ons.gov.uk/visualisations/dvc2389/images/Gender-pay-gap.png",
+      "alt": "",
+      "src_new": "/visualisations/dvc2389/images/Gender-pay-gap.png"
     },
     {
       "type": "heading",
@@ -272,7 +275,8 @@
       "h4": null,
       "h5": null,
       "title": "glossary",
-      "url": "/visualisations/dvc2389/gloss/widget_gloss/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2389/gloss/widget_gloss/index.html",
+      "url_new": "/visualisations/dvc2389/gloss/widget_gloss/index.html"
     },
     {
       "type": "box",
@@ -455,8 +459,9 @@
       "h3": "Connect with us",
       "h4": null,
       "h5": null,
-      "src": "/visualisations//assets/images/logo-ogl-footer.svg",
-      "alt": "OGL"
+      "src": "https://cdn.ons.gov.uk/assets/images/logo-ogl-footer.svg",
+      "alt": "OGL",
+      "src_new": "/assets/images/logo-ogl-footer.svg"
     },
     {
       "type": "p",

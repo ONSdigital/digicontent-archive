@@ -88,7 +88,8 @@
       "h4": "Gross Domestic Product: chained volume measures: seasonally adjusted £m",
       "h5": null,
       "title": "Gross Domestic Product: chained volume measures: seasonally adjusted Â£m",
-      "url": "/visualisations/dvc381/chart1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc381/chart1/index.html",
+      "url_new": "/visualisations/dvc381/chart1/index.html"
     },
     {
       "type": "p",
@@ -179,7 +180,8 @@
       "h4": "GDP growth in the G7 nations, year on year growth, April to June 2015 to April to June 2016",
       "h5": null,
       "title": "GDP growth in the G7 nations, year on year growth, April to June 2015 to April to June 2016",
-      "url": "/visualisations/dvc381/chart2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc381/chart2/index.html",
+      "url_new": "/visualisations/dvc381/chart2/index.html"
     },
     {
       "type": "p",
@@ -187,7 +189,7 @@
       "h3": "Why is GDP important?",
       "h4": "GDP growth in the G7 nations, year on year growth, April to June 2015 to April to June 2016",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2016/11/data.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2016/11/data.csv)"
     },
     {
       "type": "heading",
@@ -287,7 +289,8 @@
       "h4": "Comparing the sectors of the economy: 1948 and now3",
       "h5": null,
       "title": "Comparing the sectors of the economy: 1948 and now<sup>3<\/sup>",
-      "url": "/visualisations/dvc381/chart3/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc381/chart3/index.html",
+      "url_new": "/visualisations/dvc381/chart3/index.html"
     },
     {
       "type": "p",
@@ -295,7 +298,7 @@
       "h3": "How has GDP changed over time?",
       "h4": "Comparing the sectors of the economy: 1948 and now3",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2016/11/Change-in-GDP-over-time-chart3.xlsx)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2016/11/Change-in-GDP-over-time-chart3.xlsx)"
     },
     {
       "type": "heading",
@@ -336,8 +339,9 @@
       "h3": "The history of GDP and the Blue Book",
       "h4": null,
       "h5": null,
-      "src": "/visualisations//visual/2016/11/BB-scans-page-004-e1479675423811.jpg",
-      "alt": null
+      "src": "https://static.ons.gov.uk/visual/2016/11/BB-scans-page-004-e1479675423811.jpg",
+      "alt": null,
+      "src_new": "/visual/2016/11/BB-scans-page-004-e1479675423811.jpg"
     },
     {
       "type": "p",
@@ -369,7 +373,7 @@
       "h3": "The history of GDP and the Blue Book",
       "h4": null,
       "h5": null,
-      "text": "Today’s Blue Book, which is in its 70th year, is no longer blue and is now in a digital format; it was first produced as a [web-based publication in 2013](/visualisations/20160105160709/http:/www.ons.gov.uk/ons/rel/naa1-rd/united-kingdom-national-accounts/the-blue-book--2013-edition/index.html)."
+      "text": "Today’s Blue Book, which is in its 70th year, is no longer blue and is now in a digital format; it was first produced as a [web-based publication in 2013](http://webarchive.nationalarchives.gov.uk/20160105160709/http:/www.ons.gov.uk/ons/rel/naa1-rd/united-kingdom-national-accounts/the-blue-book--2013-edition/index.html)."
     },
     {
       "type": "li",
@@ -470,7 +474,7 @@
       "box_h3": null,
       "box_text": "",
       "box_items": [
-        "[A guide to national accounts and gross domestic product](/visualisations/20160105160709/http://www.ons.gov.uk/ons/guide-method/method-quality/specific/economy/national-accounts/a-guide-to-national-accounts/index.html)",
+        "[A guide to national accounts and gross domestic product](http://webarchive.nationalarchives.gov.uk/20160105160709/http://www.ons.gov.uk/ons/guide-method/method-quality/specific/economy/national-accounts/a-guide-to-national-accounts/index.html)",
         "[National Accounts, The Blue Book 2016](https://www.ons.gov.uk/economy/grossdomesticproductgdp/compendium/unitedkingdomnationalaccountsthebluebook/2016edition)"
       ]
     },

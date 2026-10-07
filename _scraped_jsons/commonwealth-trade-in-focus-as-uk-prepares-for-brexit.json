@@ -96,7 +96,8 @@
       "h4": "UK Imports and Exports, 2015",
       "h5": null,
       "title": "UK Imports andÂ� Exports, 2015",
-      "url": "/visualisations/dvc397/treemap/imports.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc397/treemap/imports.html",
+      "url_new": "/visualisations/dvc397/treemap/imports.html"
     },
     {
       "type": "interactive",
@@ -105,7 +106,8 @@
       "h4": "UK Imports and Exports, 2015",
       "h5": null,
       "title": "Trade - Exports treemap",
-      "url": "/visualisations/dvc397/treemap/exports.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc397/treemap/exports.html",
+      "url_new": "/visualisations/dvc397/treemap/exports.html"
     },
     {
       "type": "p",
@@ -113,7 +115,7 @@
       "h3": null,
       "h4": "UK Imports and Exports, 2015",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/03/Total-imports-and-exports-2015.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/03/Total-imports-and-exports-2015.csv)"
     },
     {
       "type": "p",
@@ -163,7 +165,8 @@
       "h4": "UK trade in goods and services with the Commonwealth, 1999 to 2015",
       "h5": null,
       "title": "UK trade in goods and services with the Commonwealth, 1999 to 2015",
-      "url": "/visualisations/dvc397/timeseries/chart3/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc397/timeseries/chart3/index.html",
+      "url_new": "/visualisations/dvc397/timeseries/chart3/index.html"
     },
     {
       "type": "heading",
@@ -206,7 +209,8 @@
       "h4": "UK trade balance with Commonwealth countries, 2015",
       "h5": null,
       "title": "UK trade balance with Commonwealth countries, 2015",
-      "url": "/visualisations/dvc397/scatter_zoom_out/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc397/scatter_zoom_out/index.html",
+      "url_new": "/visualisations/dvc397/scatter_zoom_out/index.html"
     },
     {
       "type": "p",
@@ -214,7 +218,7 @@
       "h3": "Who are the big players in the Commonwealth?",
       "h4": "UK trade balance with Commonwealth countries, 2015",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/03/Total-imports-and-exports-2015.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/03/Total-imports-and-exports-2015.csv)"
     },
     {
       "type": "p",
@@ -297,7 +301,8 @@
       "h4": "World trade map explorer",
       "h5": null,
       "title": "World trade map explorer",
-      "url": "/visualisations/dvc390/worldmap/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc390/worldmap/index.html",
+      "url_new": "/visualisations/dvc390/worldmap/index.html"
     },
     {
       "type": "p",
@@ -305,7 +310,7 @@
       "h3": "What about Africa?",
       "h4": "World trade map explorer",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2017/02/Imports-exports-1999-2015.xlsx)."
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2017/02/Imports-exports-1999-2015.xlsx)."
     },
     {
       "type": "p",
@@ -321,7 +326,7 @@
       "h3": "What about Africa?",
       "h4": "World trade map explorer",
       "h5": null,
-      "text": "[Who does the UK trade with?](/visualisations/20170726163612/https://visual.ons.gov.uk/uk-trade-partners/)"
+      "text": "[Who does the UK trade with?](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/uk-trade-partners/)"
     },
     {
       "type": "p",

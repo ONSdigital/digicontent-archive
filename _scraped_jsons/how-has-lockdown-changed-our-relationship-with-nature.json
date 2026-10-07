@@ -130,7 +130,8 @@
       "h4": "Exercise levels were highest during lockdown in spring 2020",
       "h5": "Percentage of adults leaving home for selected reasons (of adults who reported they had left home in the past seven days for any reason), Great Britain, 14 May 2020 to 18 April 2021",
       "title": "Of adults who reported they had left home in the past seven days for any reason, Great Britain, 14 May 2020 to 18 April 2021",
-      "url": "/visualisations/dvc1301/fig1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1301/fig1/index.html",
+      "url_new": "/visualisations/dvc1301/fig1/index.html"
     },
     {
       "type": "p",
@@ -138,7 +139,8 @@
       "h3": null,
       "h4": "Exercise levels were highest during lockdown in spring 2020",
       "h5": "Percentage of adults leaving home for selected reasons (of adults who reported they had left home in the past seven days for any reason), Great Britain, 14 May 2020 to 18 April 2021",
-      "text": "[Data download](/visualisations/dvc1301/fig1/datadownload.xlsx)"
+      "text": "[Data download](https://www.ons.gov.uk/visualisations/dvc1301/fig1/datadownload.xlsx)",
+      "text_new": "[Data download](/visualisations/dvc1301/fig1/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -205,7 +207,8 @@
       "h4": "Use of parks and public green spaces were up on previous years during summer 2020",
       "h5": "Change in mobility to parks and public green spaces compared with a baseline period (3 January to 6 February 2020), Google mobility (UK, 2020) compared with Natural England (England, 2009 to 2018)",
       "title": "Change in mobility to parks and public green spaces compared with a baseline period (3 January to 6 February 2020), Google mobility (UK, 2020) compared with Natural England (England, 2009 to 2018)",
-      "url": "/visualisations/dvc1301/fig2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1301/fig2/index.html",
+      "url_new": "/visualisations/dvc1301/fig2/index.html"
     },
     {
       "type": "heading",
@@ -246,7 +249,8 @@
       "h3": null,
       "h4": "Use of parks and public green spaces were up on previous years during summer 2020",
       "h5": "Notes:",
-      "text": "[Data download](/visualisations/dvc1301/fig2/datadownload.xlsx)"
+      "text": "[Data download](https://www.ons.gov.uk/visualisations/dvc1301/fig2/datadownload.xlsx)",
+      "text_new": "[Data download](/visualisations/dvc1301/fig2/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -305,7 +309,8 @@
       "h4": "Use of parks increased in rural and coastal areas during the summer compared with pre-pandemic, having fallen in the spring under lockdown restrictions",
       "h5": "Google mobility to parks and public green spaces compared with a pre-pandemic baseline (3 January to 6 February 2020)",
       "title": "Google mobility to parks and public green spaces compared with a pre-pandemic baseline (3 January to 6 February 2020) ",
-      "url": "/visualisations/dvc1301/side-by-side-map/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1301/side-by-side-map/index.html",
+      "url_new": "/visualisations/dvc1301/side-by-side-map/index.html"
     },
     {
       "type": "heading",
@@ -330,7 +335,8 @@
       "h3": null,
       "h4": "Use of parks increased in rural and coastal areas during the summer compared with pre-pandemic, having fallen in the spring under lockdown restrictions",
       "h5": "Notes:",
-      "text": "[Data download](/visualisations/dvc1301/side-by-side-map/data/datadownload.xlsx)"
+      "text": "[Data download](https://www.ons.gov.uk/visualisations/dvc1301/side-by-side-map/data/datadownload.xlsx)",
+      "text_new": "[Data download](/visualisations/dvc1301/side-by-side-map/data/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -382,8 +388,9 @@
       "chartbuilder_h3": "Local green and natural spaces have been important for well-being during the pandemic",
       "chartbuilder_h4": "Proportion of adults that have noticed or done the following since coronavirus restrictions were introduced, England, February 2021",
       "data_uri": "https://www.ons.gov.uk/economy/environmentalaccounts/articles/howhaslockdownchangedourrelationshipwithnature/2021-04-26/c3d87edd",
-      "src": "/_scraped_chartbuilder_imgs/c3d87edd.png",
-      "local_filename": "c3d87edd.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/environmentalaccounts/articles/howhaslockdownchangedourrelationshipwithnature/2021-04-26/c3d87edd&width=&hideSource=true",
+      "local_filename": "c3d87edd.png",
+      "src_new": "/_scraped_chartbuilder_imgs/c3d87edd.png"
     },
     {
       "type": "p",
@@ -475,7 +482,8 @@
       "h4": "The closer people were to their nearest park, the more likely they were to visit during lockdown",
       "h5": "Change in visits to and time spent in parks and median distance to nearest urban greenspace, local authority districts and counties in Great Britain, during and after lockdown (23 March to 4 July 2020; 5 July to 4 September 2020)",
       "title": "Change in visits to and time spent in parks and median distance to nearest urban greenspace, local authority districts and counties in Great Britain, during and after lockdown (23 March to 4 July 2020; 5 July to 4 September 2020)",
-      "url": "/visualisations/dvc1301/scatter/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1301/scatter/index.html",
+      "url_new": "/visualisations/dvc1301/scatter/index.html"
     },
     {
       "type": "heading",
@@ -508,7 +516,8 @@
       "h3": null,
       "h4": "The closer people were to their nearest park, the more likely they were to visit during lockdown",
       "h5": "Notes:",
-      "text": "[Data download](/visualisations/dvc1301/scatter/datadownload.xlsx)"
+      "text": "[Data download](https://www.ons.gov.uk/visualisations/dvc1301/scatter/datadownload.xlsx)",
+      "text_new": "[Data download](/visualisations/dvc1301/scatter/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -559,8 +568,9 @@
       "chartbuilder_h3": "Use of parks was lower than normal in Wales and Scotland during the spring 2020 lockdown",
       "chartbuilder_h4": "Difference between percent change in mobility to parks and public green spaces compared with a baseline period in 2020 and a normal year (0 represents use of parks in a normal year), 23 March to 4 July 2020",
       "data_uri": "https://www.ons.gov.uk/economy/environmentalaccounts/articles/howhaslockdownchangedourrelationshipwithnature/2021-04-26/762ba9cb",
-      "src": "/_scraped_chartbuilder_imgs/762ba9cb.png",
-      "local_filename": "762ba9cb.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/environmentalaccounts/articles/howhaslockdownchangedourrelationshipwithnature/2021-04-26/762ba9cb&width=&hideSource=true",
+      "local_filename": "762ba9cb.png",
+      "src_new": "/_scraped_chartbuilder_imgs/762ba9cb.png"
     },
     {
       "type": "p",
@@ -643,7 +653,8 @@
       "h4": "High-income households increased their time spent keeping fit during lockdown, while low-income households did not",
       "h5": "Average number of minutes spent per day on fitness activities, Great Britain, 2015 and 28 March to 26 April 2020",
       "title": "Average number of minutes spent per day on fitness activities, Great Britain, 2015 and 28 March to 26 April 2020",
-      "url": "/visualisations/dvc1301/timeuse/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1301/timeuse/index.html",
+      "url_new": "/visualisations/dvc1301/timeuse/index.html"
     },
     {
       "type": "p",
@@ -651,7 +662,8 @@
       "h3": null,
       "h4": "High-income households increased their time spent keeping fit during lockdown, while low-income households did not",
       "h5": "Average number of minutes spent per day on fitness activities, Great Britain, 2015 and 28 March to 26 April 2020",
-      "text": "[Data download](/visualisations/dvc1301/timeuse/datadownload.xlsx)"
+      "text": "[Data download](https://www.ons.gov.uk/visualisations/dvc1301/timeuse/datadownload.xlsx)",
+      "text_new": "[Data download](/visualisations/dvc1301/timeuse/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -719,8 +731,9 @@
       "chartbuilder_h3": "How do businesses feel about homeworking as a permanent option?",
       "chartbuilder_h4": "Intentions for staff working from home, businesses who have not permanently stopped trading, broken down by industry, weighted by count, UK, 5 to 18 October 2020",
       "data_uri": "https://www.ons.gov.uk/economy/environmentalaccounts/articles/howhaslockdownchangedourrelationshipwithnature/2021-04-26/2778d324",
-      "src": "/_scraped_chartbuilder_imgs/2778d324.png",
-      "local_filename": "2778d324.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/environmentalaccounts/articles/howhaslockdownchangedourrelationshipwithnature/2021-04-26/2778d324&width=&hideSource=true",
+      "local_filename": "2778d324.png",
+      "src_new": "/_scraped_chartbuilder_imgs/2778d324.png"
     },
     {
       "type": "p",

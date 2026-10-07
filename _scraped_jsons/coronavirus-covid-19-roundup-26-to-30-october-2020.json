@@ -102,8 +102,9 @@
       "chartbuilder_h3": "Falling TCSEW victimisation levels during April to June 2020 were driven by large decreases in theft offences",
       "chartbuilder_h4": "England and Wales, based on interviews conducted between May and August 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup26to30october2020/2020-11-06/db4d18e1",
-      "src": "/_scraped_chartbuilder_imgs/db4d18e1.png",
-      "local_filename": "db4d18e1.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup26to30october2020/2020-11-06/db4d18e1&width=&hideSource=true",
+      "local_filename": "db4d18e1.png",
+      "src_new": "/_scraped_chartbuilder_imgs/db4d18e1.png"
     },
     {
       "type": "p",
@@ -187,7 +188,7 @@
       "chartbuilder_h3": null,
       "chartbuilder_h4": "A higher percentage of people who have tested positive in recent weeks reported symptoms at the time of their test from a low point in the summer months",
       "data_uri": null,
-      "src": "https://www.ons.gov.uk/resource?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup26to30october2020/2020-11-06/c78a4451.svg"
+      "src": null
     },
     {
       "type": "p",
@@ -240,5 +241,5 @@
       "box_items": null
     }
   ],
-  "scraped_at": "2026-09-28 13:27:18.404597"
+  "scraped_at": "2026-09-22 11:48:37.622838"
 }

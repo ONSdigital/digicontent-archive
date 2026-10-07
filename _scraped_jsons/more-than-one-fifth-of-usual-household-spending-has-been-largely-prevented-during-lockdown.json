@@ -152,7 +152,8 @@
       "h4": "More than one-fifth of usual household spending has been prevented by the lockdown",
       "h5": "Weekly household expenditure by category, UK, financial year ending March 2019",
       "title": "Family spending treemap - dvc565",
-      "url": "/visualisations/dvc824a/treemap/treemap/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc824a/treemap/treemap/index.html",
+      "url_new": "/visualisations/dvc824a/treemap/treemap/index.html"
     },
     {
       "type": "heading",
@@ -253,7 +254,8 @@
       "h4": "Private renters spend more than 60% of their weekly budget on household essentials",
       "h5": "Weekly household expenditure by housing tenure, UK, financial year ending March 2019",
       "title": "Private renters spend more than 60% of their weekly budget on household essentials",
-      "url": "/visualisations/dvc824a/tenure/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc824a/tenure/index.html",
+      "url_new": "/visualisations/dvc824a/tenure/index.html"
     },
     {
       "type": "p",
@@ -261,7 +263,8 @@
       "h3": null,
       "h4": "Private renters spend more than 60% of their weekly budget on household essentials",
       "h5": "Weekly household expenditure by housing tenure, UK, financial year ending March 2019",
-      "text": "[Download the data](/visualisations/dvc824a/datadownload/tenure.xls)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc824a/datadownload/tenure.xls)",
+      "text_new": "[Download the data](/visualisations/dvc824a/datadownload/tenure.xls)"
     },
     {
       "type": "p",
@@ -320,7 +323,8 @@
       "h4": "Older households are more able to cut back on spending during the lockdown",
       "h5": "Weekly household expenditure by age of household reference person, UK, financial year ending March 2019",
       "title": "Older households are more able to cut back on spending during the lockdown",
-      "url": "/visualisations/dvc824a/age/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc824a/age/index.html",
+      "url_new": "/visualisations/dvc824a/age/index.html"
     },
     {
       "type": "heading",
@@ -345,7 +349,8 @@
       "h3": null,
       "h4": "Older households are more able to cut back on spending during the lockdown",
       "h5": "Notes:",
-      "text": "[Download the data](/visualisations/dvc824a/datadownload/hhrp_age.xls)"
+      "text": "[Download the data](http://www.ons.gov.uk/visualisations/dvc824a/datadownload/hhrp_age.xls)",
+      "text_new": "[Download the data](/visualisations/dvc824a/datadownload/hhrp_age.xls)"
     },
     {
       "type": "p",
@@ -404,7 +409,8 @@
       "h4": "Households in London spend the most on essentials and the least on goods and services that have been unavailable during lockdown",
       "h5": "Weekly household expenditure by region, UK, financial year ending March 2017 to financial year ending March 2019",
       "title": "Households in London spend the most on essentials and the least on goods and services that have been unavailable during lockdown",
-      "url": "/visualisations/dvc824a/region/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc824a/region/index.html",
+      "url_new": "/visualisations/dvc824a/region/index.html"
     },
     {
       "type": "p",
@@ -412,7 +418,8 @@
       "h3": null,
       "h4": "Households in London spend the most on essentials and the least on goods and services that have been unavailable during lockdown",
       "h5": "Weekly household expenditure by region, UK, financial year ending March 2017 to financial year ending March 2019",
-      "text": "[Download the data](/visualisations/dvc824a/datadownload/region.xls)"
+      "text": "[Download the data](http://www.ons.gov.uk/visualisations/dvc824a/datadownload/region.xls)",
+      "text_new": "[Download the data](/visualisations/dvc824a/datadownload/region.xls)"
     },
     {
       "type": "heading",
@@ -513,7 +520,8 @@
       "h3": null,
       "h4": "Discretionary spending",
       "h5": null,
-      "text": "A full [list of goods and services assigned to each category](/visualisations/dvc824a/datadownload/household_spending.xls) is available."
+      "text": "A full [list of goods and services assigned to each category](http://www.ons.gov.uk/visualisations/dvc824a/datadownload/household_spending.xls) is available.",
+      "text_new": "A full [list of goods and services assigned to each category](/visualisations/dvc824a/datadownload/household_spending.xls) is available."
     },
     {
       "type": "p",

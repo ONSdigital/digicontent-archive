@@ -166,7 +166,8 @@
       "h4": null,
       "h5": null,
       "title": "National Living Wage",
-      "url": "/visualisations/dvc486/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc486/index.html",
+      "url_new": "/visualisations/dvc486/index.html"
     },
     {
       "type": "heading",
@@ -283,8 +284,9 @@
       "chartbuilder_h3": "National Minimum Wage (1999 to 2015) and National Living Wage (from 2016) as a proportion of median hourly pay (excluding overtime) among eligible age groups, 1999 to 2017",
       "chartbuilder_h4": "Source: Produced using ONS Annual Survey of Hours and Earnings (1999 to 2015); Low Pay Commission 2017 report (2016 to 2017), figure 3.2",
       "data_uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/nationallivingwageearnersfallshortofaveragefamilyspending/2018-03-28/ba6821e7",
-      "src": "/_scraped_chartbuilder_imgs/ba6821e7.png",
-      "local_filename": "ba6821e7.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/nationallivingwageearnersfallshortofaveragefamilyspending/2018-03-28/ba6821e7&width=&hideSource=true",
+      "local_filename": "ba6821e7.png",
+      "src_new": "/_scraped_chartbuilder_imgs/ba6821e7.png"
     },
     {
       "type": "p",
@@ -440,8 +442,9 @@
       "chartbuilder_h3": "National Minimum Wage (1999 to 2015) and National Living Wage (from 2016), UK and London living wages, and median hourly pay (excluding overtime) among eligible age groups",
       "chartbuilder_h4": "Source: Produced using ONS Annual Survey of Hours and Earnings (1999 to 2015); Low Pay Commission 2017 report (2016 to 2017); Living Wage Foundation",
       "data_uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/nationallivingwageearnersfallshortofaveragefamilyspending/2018-03-28/68d36f8e",
-      "src": "/_scraped_chartbuilder_imgs/68d36f8e.png",
-      "local_filename": "68d36f8e.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/nationallivingwageearnersfallshortofaveragefamilyspending/2018-03-28/68d36f8e&width=&hideSource=true",
+      "local_filename": "68d36f8e.png",
+      "src_new": "/_scraped_chartbuilder_imgs/68d36f8e.png"
     },
     {
       "type": "heading",

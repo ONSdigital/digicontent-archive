@@ -118,8 +118,9 @@
       "chartbuilder_h3": "The age-standardised mortality rate of deaths involving the coronavirus (COVID-19) was highest in April 2020 for all English regions and Wales",
       "chartbuilder_h4": "Age-standardised mortality rates for deaths involving the coronavirus (COVID-19), per 100,000 people, English regions and Wales, deaths occurring in March, April, May and June 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup20to24july2020/2020-07-24/c23fc6c4",
-      "src": "/_scraped_chartbuilder_imgs/c23fc6c4.png",
-      "local_filename": "c23fc6c4.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup20to24july2020/2020-07-24/c23fc6c4&width=&hideSource=true",
+      "local_filename": "c23fc6c4.png",
+      "src_new": "/_scraped_chartbuilder_imgs/c23fc6c4.png"
     },
     {
       "type": "p",
@@ -202,7 +203,8 @@
       "h4": "Number of deaths involving COVID-19 in Middle Layer Super Output Areas, death occurring between March to June 2020, England and Wales",
       "h5": null,
       "title": "Interactive chart",
-      "url": "/visualisations/dvc914/map/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc914/map/index.html",
+      "url_new": "/visualisations/dvc914/map/index.html"
     },
     {
       "type": "p",
@@ -254,8 +256,9 @@
       "chartbuilder_h3": "Visits to the UK by overseas residents decreased by 16% in Quarter 1 2020 compared with the same period a year earlier",
       "chartbuilder_h4": "Quarterly change from a year earlier in visits to the UK from overseas residents, Quarter 1 (January to March) 2015 to Quarter 1 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup20to24july2020/2020-07-24/7635370b",
-      "src": "/_scraped_chartbuilder_imgs/7635370b.png",
-      "local_filename": "7635370b.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup20to24july2020/2020-07-24/7635370b&width=&hideSource=true",
+      "local_filename": "7635370b.png",
+      "src_new": "/_scraped_chartbuilder_imgs/7635370b.png"
     },
     {
       "type": "p",
@@ -323,8 +326,9 @@
       "chartbuilder_h3": "The two monthly increases in the volume of retail sales in May and June 2020 have brought total sales to a similar level as before the coronavirus pandemic",
       "chartbuilder_h4": "Volume, seasonally adjusted, Great Britain, June 2017 to June 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup20to24july2020/2020-07-24/08aeaeaf",
-      "src": "/_scraped_chartbuilder_imgs/08aeaeaf.png",
-      "local_filename": "08aeaeaf.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup20to24july2020/2020-07-24/08aeaeaf&width=&hideSource=true",
+      "local_filename": "08aeaeaf.png",
+      "src_new": "/_scraped_chartbuilder_imgs/08aeaeaf.png"
     },
     {
       "type": "p",
@@ -576,7 +580,8 @@
       "h4": "Parents have changed their weekday working patterns because of childcare commitments",
       "h5": "Percentage of group who were working at time of the day (weekdays only) in Great Britain, 2020",
       "title": "Interactive chart",
-      "url": "/visualisations/dvc913/dev-childcare/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc913/dev-childcare/index.html",
+      "url_new": "/visualisations/dvc913/dev-childcare/index.html"
     },
     {
       "type": "p",
@@ -652,8 +657,9 @@
       "chartbuilder_h3": "Parents with young children reported that their oldest child had completed fewer hours of learning over the last week",
       "chartbuilder_h4": "Percentage of parents who said their only or eldest child had completed the banded number of hours of learning over the past week, by whether there is a child aged 0 to 4 years in the household, Great Britain, 7 May to 7 June 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup20to24july2020/2020-07-24/b0172189",
-      "src": "/_scraped_chartbuilder_imgs/b0172189.png",
-      "local_filename": "b0172189.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup20to24july2020/2020-07-24/b0172189&width=&hideSource=true",
+      "local_filename": "b0172189.png",
+      "src_new": "/_scraped_chartbuilder_imgs/b0172189.png"
     },
     {
       "type": "p",
@@ -752,7 +758,8 @@
       "h4": "Jobs that earn higher hourly wages are more likely to be adaptable to working from home",
       "h5": null,
       "title": "Interactive chart",
-      "url": "/visualisations/dvc890/chart1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc890/chart1/index.html",
+      "url_new": "/visualisations/dvc890/chart1/index.html"
     },
     {
       "type": "p",
@@ -794,7 +801,8 @@
       "h4": "Workers least likely to be able to work from home are mostly men",
       "h5": null,
       "title": "Interactive chart",
-      "url": "/visualisations/dvc890/chart3/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc890/chart3/index.html",
+      "url_new": "/visualisations/dvc890/chart3/index.html"
     },
     {
       "type": "p",

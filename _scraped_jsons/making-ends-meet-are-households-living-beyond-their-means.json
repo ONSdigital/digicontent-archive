@@ -85,8 +85,9 @@
       "chartbuilder_h3": "Households have become net borrowers for the first time since 1988",
       "chartbuilder_h4": "Net lending (positive) or borrowing (negative) position of UK households, 1987 to 2017",
       "data_uri": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/makingendsmeetarehouseholdslivingbeyondtheirmeans/2018-07-26/c3782085",
-      "src": "/_scraped_chartbuilder_imgs/c3782085.png",
-      "local_filename": "c3782085.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/nationalaccounts/uksectoraccounts/articles/makingendsmeetarehouseholdslivingbeyondtheirmeans/2018-07-26/c3782085&width=&hideSource=true",
+      "local_filename": "c3782085.png",
+      "src_new": "/_scraped_chartbuilder_imgs/c3782085.png"
     },
     {
       "type": "p",
@@ -129,8 +130,9 @@
       "chartbuilder_h3": "Loans and deposits diverged last year",
       "chartbuilder_h4": "Households' accumulation of loans debt compared with deposits to UK banks, 1987 to 2017",
       "data_uri": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/makingendsmeetarehouseholdslivingbeyondtheirmeans/2018-07-26/fde52585",
-      "src": "/_scraped_chartbuilder_imgs/fde52585.png",
-      "local_filename": "fde52585.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/nationalaccounts/uksectoraccounts/articles/makingendsmeetarehouseholdslivingbeyondtheirmeans/2018-07-26/fde52585&width=&hideSource=true",
+      "local_filename": "fde52585.png",
+      "src_new": "/_scraped_chartbuilder_imgs/fde52585.png"
     },
     {
       "type": "p",
@@ -196,7 +198,8 @@
       "h4": null,
       "h5": null,
       "title": "Are we living beyond our means?",
-      "url": "/visualisations/dvc507/wallet/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc507/wallet/index.html",
+      "url_new": "/visualisations/dvc507/wallet/index.html"
     },
     {
       "type": "p",
@@ -204,7 +207,8 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[Download the data.](/visualisations/dvc507/dataforwallet.xls)"
+      "text": "[Download the data.](https://www.ons.gov.uk/visualisations/dvc507/dataforwallet.xls)",
+      "text_new": "[Download the data.](/visualisations/dvc507/dataforwallet.xls)"
     },
     {
       "type": "heading",
@@ -263,7 +267,8 @@
       "h4": "Lower earners are most likely to spend beyond their means",
       "h5": null,
       "title": "Lower earners are most likely to spend beyond their means **Income and expenditure per household in the UK, financial year ending 2017**",
-      "url": "/visualisations/dvc507/chart/barchart/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc507/chart/barchart/index.html",
+      "url_new": "/visualisations/dvc507/chart/barchart/index.html"
     },
     {
       "type": "p",
@@ -271,7 +276,8 @@
       "h3": null,
       "h4": "Lower earners are most likely to spend beyond their means",
       "h5": null,
-      "text": "[Download the data.](/visualisations/dvc507/dataforchart.csv)"
+      "text": "[Download the data.](https://www.ons.gov.uk/visualisations/dvc507/dataforchart.csv)",
+      "text_new": "[Download the data.](/visualisations/dvc507/dataforchart.csv)"
     },
     {
       "type": "p",
@@ -347,8 +353,9 @@
       "chartbuilder_h3": "UK households had generally lived within their means, like France and Germany",
       "chartbuilder_h4": "Net lending (positive) or borrowing (negative) position of households as a percentage of GDP, 1997 to 2017",
       "data_uri": "https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/makingendsmeetarehouseholdslivingbeyondtheirmeans/2018-07-26/ccdc8ea5",
-      "src": "/_scraped_chartbuilder_imgs/ccdc8ea5.png",
-      "local_filename": "ccdc8ea5.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/nationalaccounts/uksectoraccounts/articles/makingendsmeetarehouseholdslivingbeyondtheirmeans/2018-07-26/ccdc8ea5&width=&hideSource=true",
+      "local_filename": "ccdc8ea5.png",
+      "src_new": "/_scraped_chartbuilder_imgs/ccdc8ea5.png"
     },
     {
       "type": "heading",

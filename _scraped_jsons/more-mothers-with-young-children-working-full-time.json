@@ -84,7 +84,8 @@
       "h4": "Percentage of mothers with a youngest child aged three or four years old who are in employment, England, 1997 to 2017",
       "h5": null,
       "title": "Percentage of mothers with a youngest child aged three or four years old who are in employment, England, 1997 to 2017",
-      "url": "/visualisations/dvc439/chart1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc439/chart1/index.html",
+      "url_new": "/visualisations/dvc439/chart1/index.html"
     },
     {
       "type": "p",
@@ -92,7 +93,7 @@
       "h3": null,
       "h4": "Percentage of mothers with a youngest child aged three or four years old who are in employment, England, 1997 to 2017",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/09/chart1-1.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/09/chart1-1.csv)"
     },
     {
       "type": "heading",
@@ -135,7 +136,8 @@
       "h4": "Percentage of mothers with a youngest child aged three or four years old, who are in full-time and part-time employment, England, 1997 to 2017",
       "h5": null,
       "title": "Percentage of mothers with a youngest child aged three or four years old, who are in full-time and part-time employment, England, 1997 to 2017",
-      "url": "/visualisations/dvc439/chart2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc439/chart2/index.html",
+      "url_new": "/visualisations/dvc439/chart2/index.html"
     },
     {
       "type": "p",
@@ -143,7 +145,7 @@
       "h3": "More mothers with young children working full-time",
       "h4": "Percentage of mothers with a youngest child aged three or four years old, who are in full-time and part-time employment, England, 1997 to 2017",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/09/chart2-1.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/09/chart2-1.csv)"
     },
     {
       "type": "p",
@@ -194,7 +196,8 @@
       "h4": "Percentage of fathers with a youngest child aged three or four years old, who work full-time and part-time, England, 1997 to 2017",
       "h5": null,
       "title": "Percentage of fathers with a youngest child aged three or four years old, who work full-time and part-time, England, 1997 to 2017",
-      "url": "/visualisations/dvc439/chart3/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc439/chart3/index.html",
+      "url_new": "/visualisations/dvc439/chart3/index.html"
     },
     {
       "type": "p",
@@ -202,7 +205,7 @@
       "h3": "More fathers with young children working part-time",
       "h4": "Percentage of fathers with a youngest child aged three or four years old, who work full-time and part-time, England, 1997 to 2017",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/09/chart3-1.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/09/chart3-1.csv)"
     },
     {
       "type": "p",
@@ -253,7 +256,8 @@
       "h4": "Percentage of mothers working full-time and part-time by age of youngest child, England, 1996 to 2017",
       "h5": null,
       "title": "Percentage of mothers working full-time and part-time by age of youngest child, England, 1996 to 2017",
-      "url": "/visualisations/dvc439/dist/distribution/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc439/dist/distribution/index.html",
+      "url_new": "/visualisations/dvc439/dist/distribution/index.html"
     },
     {
       "type": "p",
@@ -261,7 +265,7 @@
       "h3": "Policy changes may have affected parental employment",
       "h4": "Percentage of mothers working full-time and part-time by age of youngest child, England, 1996 to 2017",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/12/distchart-3.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/12/distchart-3.csv)"
     },
     {
       "type": "box",

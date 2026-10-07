@@ -76,7 +76,8 @@
       "h4": "Average annual household disposable income, by age of breadwinner, UK, 1986 to 2014/15 (adjusted for inflation)1",
       "h5": null,
       "title": "Average annual household disposable income, by age of breadwinner, UK, 1986 to 2014/15 (adjusted for inflation)<sup>1<\/sup>",
-      "url": "/visualisations/dvc370a/chart1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc370a/chart1/index.html",
+      "url_new": "/visualisations/dvc370a/chart1/index.html"
     },
     {
       "type": "p",
@@ -84,7 +85,7 @@
       "h3": null,
       "h4": "Average annual household disposable income, by age of breadwinner, UK, 1986 to 2014/15 (adjusted for inflation)1",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2016/10/incomes-new.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2016/10/incomes-new.csv)"
     },
     {
       "type": "p",
@@ -184,7 +185,8 @@
       "h4": "Number of young adults aged 20 to 34 living with their parents, UK, 1996 to 2015",
       "h5": null,
       "title": "Number of young adults aged 20 to 34 living with their parents, UK, 1996 to 2015",
-      "url": "/visualisations/nesscontent/dvc315/chart1/line_chart/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc315/chart1/line_chart/index.html",
+      "url_new": "/visualisations/nesscontent/dvc315/chart1/line_chart/index.html"
     },
     {
       "type": "p",

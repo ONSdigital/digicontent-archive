@@ -85,7 +85,8 @@
       "h4": "On the whole, people returned to pre-lockdown behaviour in September to October 2020",
       "h5": null,
       "title": "On the whole, people returned to pre-lockdown behaviour in September /to October 2020",
-      "url": "/visualisations/dvc1078/overall/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1078/overall/index.html",
+      "url_new": "/visualisations/dvc1078/overall/index.html"
     },
     {
       "type": "heading",
@@ -126,7 +127,8 @@
       "h3": "Overall changes",
       "h4": "Notes:",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc1078/overall/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1078/overall/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1078/overall/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -217,7 +219,8 @@
       "h4": "Social activities such as spending time with friends and family increased in September, whereas other less social activities decreased.",
       "h5": null,
       "title": "Social activities such as spending time with friends and family increased in September compared , whereas other less social activities decreased",
-      "url": "/visualisations/dvc1078/entertainment/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1078/entertainment/index.html",
+      "url_new": "/visualisations/dvc1078/entertainment/index.html"
     },
     {
       "type": "heading",
@@ -250,7 +253,8 @@
       "h3": "Entertainment",
       "h4": "Notes:",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc1078/entertainment/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1078/entertainment/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1078/entertainment/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -333,7 +337,8 @@
       "h4": "The amount of time women spent on paid and unpaid work is still more than men in September to October 2020",
       "h5": null,
       "title": "The amount of time women spent on paid and unpaid work is still more than men in September to /October 2020",
-      "url": "/visualisations/dvc1078/wrapper/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1078/wrapper/index.html",
+      "url_new": "/visualisations/dvc1078/wrapper/index.html"
     },
     {
       "type": "heading",
@@ -374,7 +379,8 @@
       "h3": "Returning to a pre-lockdown gender gap in unpaid work",
       "h4": "Notes:",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc1078/wrapper/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1078/wrapper/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1078/wrapper/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -491,7 +497,8 @@
       "h4": "After lockdown, those on the highest incomes switched to working from home more while those on the lowest incomes worked more outside the home",
       "h5": null,
       "title": "Those on the highest incomes switched to working from home more while those on the lowest incomes worked more outside the home, September and early October compared with lockdown",
-      "url": "/visualisations/dvc1078/workingincome/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1078/workingincome/index.html",
+      "url_new": "/visualisations/dvc1078/workingincome/index.html"
     },
     {
       "type": "heading",
@@ -524,7 +531,8 @@
       "h3": "Paid and unpaid work",
       "h4": "Notes:",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc1078/workingincome/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1078/workingincome/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1078/workingincome/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -559,7 +567,8 @@
       "h4": "Parents spent more time working in September and October 2020, and less time on unpaid childcare and household work",
       "h5": null,
       "title": "Parents spent more time working in September and October 2020, and less time on unpaid childcare and household work",
-      "url": "/visualisations/dvc1078/parents/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1078/parents/index.html",
+      "url_new": "/visualisations/dvc1078/parents/index.html"
     },
     {
       "type": "heading",
@@ -592,7 +601,8 @@
       "h3": "Parents switching away from childcare and housework towards more paid work",
       "h4": "Notes:",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc1078/parents/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1078/parents/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1078/parents/datadownload.xlsx)"
     },
     {
       "type": "p",

@@ -165,7 +165,8 @@
       "h4": "Explore UK investment abroad and foreign investment in the UK since 1999 with our interactive map3.",
       "h5": null,
       "title": "Explore UK investment abroad and foreign investment in the UK since 1999 with our interactive map<sup>3<\/sup>.",
-      "url": "/visualisations/dvc515/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc515/index.html",
+      "url_new": "/visualisations/dvc515/index.html"
     },
     {
       "type": "p",
@@ -233,8 +234,9 @@
       "chartbuilder_h3": "UK investment is most likely to be long-term in Africa",
       "chartbuilder_h4": "UK international investment levels by type, 2017",
       "data_uri": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/exploringforeigninvestmentwheredoestheukinvestandwhoinvestsintheuk/2018-11-01/22922627",
-      "src": "/_scraped_chartbuilder_imgs/22922627.png",
-      "local_filename": "22922627.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/nationalaccounts/balanceofpayments/articles/exploringforeigninvestmentwheredoestheukinvestandwhoinvestsintheuk/2018-11-01/22922627&width=&hideSource=true",
+      "local_filename": "22922627.png",
+      "src_new": "/_scraped_chartbuilder_imgs/22922627.png"
     },
     {
       "type": "heading",
@@ -302,8 +304,9 @@
       "chartbuilder_h3": "Some companies invest in the UK through subsidiaries",
       "chartbuilder_h4": "Inward foreign direct investment positions by continent on immediate and ultimate investing country basis, 2016",
       "data_uri": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/exploringforeigninvestmentwheredoestheukinvestandwhoinvestsintheuk/2018-11-01/19516158",
-      "src": "/_scraped_chartbuilder_imgs/19516158.png",
-      "local_filename": "19516158.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/economy/nationalaccounts/balanceofpayments/articles/exploringforeigninvestmentwheredoestheukinvestandwhoinvestsintheuk/2018-11-01/19516158&width=&hideSource=true",
+      "local_filename": "19516158.png",
+      "src_new": "/_scraped_chartbuilder_imgs/19516158.png"
     },
     {
       "type": "heading",
@@ -386,7 +389,8 @@
       "h4": "There is little correlation between investment levels and rate of return",
       "h5": null,
       "title": "There is little correlation between investment levels and rate of return **Values of and rates of return on UK investment overseas, top 10 investment partners, 2017**",
-      "url": "/visualisations/dvc558/investment/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc558/investment/index.html",
+      "url_new": "/visualisations/dvc558/investment/index.html"
     },
     {
       "type": "p",
@@ -394,7 +398,8 @@
       "h3": null,
       "h4": "There is little correlation between investment levels and rate of return",
       "h5": null,
-      "text": "[Download the data.](/visualisations/dvc558/investment/downloadthedata.csv)"
+      "text": "[Download the data.](https://www.ons.gov.uk/visualisations/dvc558/investment/downloadthedata.csv)",
+      "text_new": "[Download the data.](/visualisations/dvc558/investment/downloadthedata.csv)"
     },
     {
       "type": "heading",

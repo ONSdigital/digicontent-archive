@@ -101,7 +101,8 @@
       "h4": "Women place more emphasis on their commute when deciding whether to leave their job…",
       "h5": "Impact of commute time on probability of leaving current job, Great Britain, 2004 to 2018",
       "title": "Commute Time",
-      "url": "/visualisations/dvc659/hazards/commute-time/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc659/hazards/commute-time/index.html",
+      "url_new": "/visualisations/dvc659/hazards/commute-time/index.html"
     },
     {
       "type": "p",
@@ -109,7 +110,8 @@
       "h3": null,
       "h4": "Women place more emphasis on their commute when deciding whether to leave their job…",
       "h5": "Impact of commute time on probability of leaving current job, Great Britain, 2004 to 2018",
-      "text": "[Download the data](/visualisations/dvc659/hazards/commute-time/datadownload.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc659/hazards/commute-time/datadownload.csv)",
+      "text_new": "[Download the data](/visualisations/dvc659/hazards/commute-time/datadownload.csv)"
     },
     {
       "type": "heading",
@@ -144,7 +146,8 @@
       "h4": "…while men consider pay to be more important",
       "h5": "Impact of pay on probability of leaving current job, Great Britain, 2004 to 2018",
       "title": "Earnings",
-      "url": "/visualisations/dvc659/hazards/earnings/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc659/hazards/earnings/index.html",
+      "url_new": "/visualisations/dvc659/hazards/earnings/index.html"
     },
     {
       "type": "p",
@@ -152,7 +155,8 @@
       "h3": null,
       "h4": "…while men consider pay to be more important",
       "h5": "Impact of pay on probability of leaving current job, Great Britain, 2004 to 2018",
-      "text": "[Download the data](/visualisations/dvc659/hazards/earnings/datadownload.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc659/hazards/earnings/datadownload.csv)",
+      "text_new": "[Download the data](/visualisations/dvc659/hazards/earnings/datadownload.csv)"
     },
     {
       "type": "p",
@@ -260,7 +264,8 @@
       "h4": "The commuting gap and the pay gap both widen when people start having children",
       "h5": "Median commute time and hourly earnings by sex and single year of age, Great Britain, 2010 to 2018",
       "title": "Commute time and Earnings",
-      "url": "/visualisations/dvc659/small-multiples/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc659/small-multiples/index.html",
+      "url_new": "/visualisations/dvc659/small-multiples/index.html"
     },
     {
       "type": "p",
@@ -268,7 +273,8 @@
       "h3": null,
       "h4": "The commuting gap and the pay gap both widen when people start having children",
       "h5": "Median commute time and hourly earnings by sex and single year of age, Great Britain, 2010 to 2018",
-      "text": "[Download the data](/visualisations/dvc659/small-multiples/datadownload.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc659/small-multiples/datadownload.csv)",
+      "text_new": "[Download the data](/visualisations/dvc659/small-multiples/datadownload.csv)"
     },
     {
       "type": "heading",
@@ -310,7 +316,8 @@
       "h4": null,
       "h5": null,
       "title": "Commuting Gap Calculator",
-      "url": "/visualisations/dvc659/dot-histogram/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc659/dot-histogram/index.html",
+      "url_new": "/visualisations/dvc659/dot-histogram/index.html"
     },
     {
       "type": "p",
@@ -318,7 +325,8 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc659/dot-histogram/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc659/dot-histogram/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc659/dot-histogram/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -418,7 +426,8 @@
       "h4": "The commuting gap does not discriminate by area",
       "h5": "Average commute times in the 20 most populated travel-to-work areas, by sex, 2010 to 2018",
       "title": "The commuting gap does not discriminate by area",
-      "url": "/visualisations/dvc659/region/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc659/region/index.html",
+      "url_new": "/visualisations/dvc659/region/index.html"
     },
     {
       "type": "p",
@@ -426,7 +435,8 @@
       "h3": null,
       "h4": "The commuting gap does not discriminate by area",
       "h5": "Average commute times in the 20 most populated travel-to-work areas, by sex, 2010 to 2018",
-      "text": "[Download the data](/visualisations/dvc659/region/datadownload.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc659/region/datadownload.csv)",
+      "text_new": "[Download the data](/visualisations/dvc659/region/datadownload.csv)"
     },
     {
       "type": "box",

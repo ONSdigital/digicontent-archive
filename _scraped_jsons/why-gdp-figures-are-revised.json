@@ -163,7 +163,7 @@
       "chartbuilder_h3": null,
       "chartbuilder_h4": "Figure 1: GDP revisions process",
       "data_uri": null,
-      "src": "https://www.ons.gov.uk/resource?uri=/economy/grossdomesticproductgdp/articles/whygdpfiguresarerevised/2024-02-09/0585bc81.png"
+      "src": null
     },
     {
       "type": "heading",
@@ -349,5 +349,5 @@
       "box_items": null
     }
   ],
-  "scraped_at": "2026-09-28 13:32:29.17316"
+  "scraped_at": "2026-09-22 11:46:55.611717"
 }

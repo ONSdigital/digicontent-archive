@@ -210,7 +210,8 @@
       "h4": "Location of second addresses used as a holiday home, by Middle layer Super Output Area, England and Wales",
       "h5": null,
       "title": "Holiday home hotspots",
-      "url": "/visualisations/dvc2251/msoa-map/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2251/msoa-map/index.html",
+      "url_new": "/visualisations/dvc2251/msoa-map/index.html"
     },
     {
       "type": "heading",
@@ -227,7 +228,8 @@
       "h3": "Holiday home hotspots",
       "h4": "Location of second addresses used as a holiday home, by Middle layer Super Output Area, England and Wales",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2251/msoa-map/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2251/msoa-map/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2251/msoa-map/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -552,7 +554,8 @@
       "h4": "Number of people using a second address as a holiday home, per 1,000 usual residents, local authorities, England and Wales",
       "h5": null,
       "title": "Holiday home use rose in most of the top destinations between 2011 and 2021 ",
-      "url": "/visualisations/dvc2251/slope-top10/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2251/slope-top10/index.html",
+      "url_new": "/visualisations/dvc2251/slope-top10/index.html"
     },
     {
       "type": "heading",
@@ -569,7 +572,8 @@
       "h3": "Holiday home use rose in most of the top destinations between 2011 and 2021",
       "h4": "Number of people using a second address as a holiday home, per 1,000 usual residents, local authorities, England and Wales",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2251/slope-top10/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2251/slope-top10/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2251/slope-top10/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -612,7 +616,8 @@
       "h4": "Location of usual residence and location of second address used as a holiday home, by local authority, England and Wales",
       "h5": null,
       "title": "Holiday home locations and where their users live",
-      "url": "/visualisations/dvc2255/lamapE/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2255/lamapE/index.html",
+      "url_new": "/visualisations/dvc2255/lamapE/index.html"
     },
     {
       "type": "p",
@@ -760,7 +765,8 @@
       "h4": "Percentage of usual residents who used a second address as a holiday home, Census 2021",
       "h5": null,
       "title": "Kensington and Chelsea had the highest proportion of residents who used second addresses as holiday homes ",
-      "url": "/visualisations/dvc2251/bar-chart/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2251/bar-chart/index.html",
+      "url_new": "/visualisations/dvc2251/bar-chart/index.html"
     },
     {
       "type": "heading",
@@ -777,7 +783,8 @@
       "h3": "Kensington and Chelsea had the highest proportion of residents who used second addresses as holiday homes",
       "h4": "Percentage of usual residents who used a second address as a holiday home, Census 2021",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2251/bar-chart/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2251/bar-chart/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2251/bar-chart/datadownload.xlsx)"
     },
     {
       "type": "p",

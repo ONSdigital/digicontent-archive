@@ -133,7 +133,8 @@
       "h4": "Cumulative proportion of older adult care home staff who have received a first dose by region, December 2020 to April 2021, England",
       "h5": null,
       "title": "A lower proportion of staff in care homes in London are vaccinated than in other areas ",
-      "url": "/visualisations/dvc1384/carehome/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1384/carehome/index.html",
+      "url_new": "/visualisations/dvc1384/carehome/index.html"
     },
     {
       "type": "heading",
@@ -166,7 +167,8 @@
       "h3": null,
       "h4": "Notes",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc1384/carehome/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1384/carehome/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1384/carehome/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -281,7 +283,8 @@
       "h4": "Deaths from all causes by place of death, UK, percentage difference between deaths registered in each month of 2020 and average for 2015 to 2019",
       "h5": null,
       "title": "Private homes were the only setting to record excess deaths in every month throughout the pandemic ",
-      "url": "/visualisations/dvc1384/excess-deaths/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1384/excess-deaths/index.html",
+      "url_new": "/visualisations/dvc1384/excess-deaths/index.html"
     },
     {
       "type": "heading",
@@ -322,7 +325,8 @@
       "h3": null,
       "h4": "Notes",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc1384/excess-deaths/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1384/excess-deaths/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1384/excess-deaths/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -397,7 +401,8 @@
       "h4": "Great Britain, July 2019 to March 2021",
       "h5": null,
       "title": "In early 2021, rates of depressive symptoms for adults aged 16 to 39 years were more than double pre-pandemic levels ",
-      "url": "/visualisations/dvc1384/depressed-change/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1384/depressed-change/index.html",
+      "url_new": "/visualisations/dvc1384/depressed-change/index.html"
     },
     {
       "type": "heading",
@@ -438,7 +443,8 @@
       "h3": null,
       "h4": "Notes",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc1384/depressed-change/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1384/depressed-change/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1384/depressed-change/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -514,8 +520,9 @@
       "chartbuilder_h3": "Percentage of UK workforce that worked from home in the week prior to interview by age group, January to December 2019 and January to December 2020",
       "chartbuilder_h4": "Source: Office for National Statistics – Annual Population Survey",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19inchartswhatwelearnedoverthepastmonthmay2021/2021-05-27/f8adc428",
-      "src": "/_scraped_chartbuilder_imgs/f8adc428.png",
-      "local_filename": "f8adc428.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19inchartswhatwelearnedoverthepastmonthmay2021/2021-05-27/f8adc428&width=&hideSource=true",
+      "local_filename": "f8adc428.png",
+      "src_new": "/_scraped_chartbuilder_imgs/f8adc428.png"
     },
     {
       "type": "p",
@@ -599,8 +606,9 @@
       "chartbuilder_h3": "Volume sales, seasonally adjusted, Great Britain, April 2021 compared with March 2021",
       "chartbuilder_h4": "Source: Office for National Statistics – Monthly Business Survey – Retail Sales Inquiry",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19inchartswhatwelearnedoverthepastmonthmay2021/2021-05-27/4c71a6ad",
-      "src": "/_scraped_chartbuilder_imgs/4c71a6ad.png",
-      "local_filename": "4c71a6ad.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19inchartswhatwelearnedoverthepastmonthmay2021/2021-05-27/4c71a6ad&width=&hideSource=true",
+      "local_filename": "4c71a6ad.png",
+      "src_new": "/_scraped_chartbuilder_imgs/4c71a6ad.png"
     },
     {
       "type": "p",

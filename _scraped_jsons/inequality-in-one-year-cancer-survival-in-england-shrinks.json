@@ -101,7 +101,8 @@
       "h4": "One-year cancer survival estimates by CCG, England 1998 to 2013",
       "h5": null,
       "title": "One-year cancer survival estimates by CCG, England 1998 to 2013",
-      "url": "/visualisations/nesscontent/dvc316/line_chart/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc316/line_chart/index.html",
+      "url_new": "/visualisations/nesscontent/dvc316/line_chart/index.html"
     },
     {
       "type": "p",
@@ -109,7 +110,7 @@
       "h3": "How much have cancer survival estimates improved?",
       "h4": "One-year cancer survival estimates by CCG, England 1998 to 2013",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2016/02/data.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2016/02/data.csv)"
     },
     {
       "type": "p",
@@ -184,7 +185,8 @@
       "h4": "One-year cancer survival estimates by CCG, England 1998 and 2013",
       "h5": null,
       "title": "One-year cancer survival estimates by CCG, England 1998 and 2013",
-      "url": "/visualisations/nesscontent/dvc316/dots/content.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc316/dots/content.html",
+      "url_new": "/visualisations/nesscontent/dvc316/dots/content.html"
     },
     {
       "type": "p",
@@ -192,7 +194,7 @@
       "h3": "Find out how one-year survival estimates have changed in your area",
       "h4": "One-year cancer survival estimates by CCG, England 1998 and 2013",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2016/02/dots.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2016/02/dots.csv)"
     },
     {
       "type": "p",
@@ -250,7 +252,8 @@
       "h4": "Percentage point difference in one-year cancer survival estimates by CCG, England 1998 to 2013",
       "h5": null,
       "title": "Percentage point difference in one-year cancer survival estimates by CCG, England 1998 to 2013",
-      "url": "/visualisations/nesscontent/dvc316/map/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc316/map/index.html",
+      "url_new": "/visualisations/nesscontent/dvc316/map/index.html"
     },
     {
       "type": "p",
@@ -258,7 +261,7 @@
       "h3": "Find out how one-year survival estimates have changed in your area",
       "h4": "Percentage point difference in one-year cancer survival estimates by CCG, England 1998 to 2013",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2016/02/map.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2016/02/map.csv)"
     },
     {
       "type": "heading",

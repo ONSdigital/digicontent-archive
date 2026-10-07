@@ -54,8 +54,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations//visual/2017/02/housing_ancore.png",
-      "alt": null
+      "src": "https://static.ons.gov.uk/visual/2017/02/housing_ancore.png",
+      "alt": null,
+      "src_new": "/visual/2017/02/housing_ancore.png"
     },
     {
       "type": "p",
@@ -129,7 +130,8 @@
       "h4": "Price of an entry level property in English regions and Wales compared with what was actually spent by first-time buyers",
       "h5": null,
       "title": "Price of an entry level property in English regions and Wales compared with what was actually spent by first-time buyers Year ending June 2016",
-      "url": "/visualisations/dvc393/chart1/Simple-Bar-Horizontal/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc393/chart1/Simple-Bar-Horizontal/index.html",
+      "url_new": "/visualisations/dvc393/chart1/Simple-Bar-Horizontal/index.html"
     },
     {
       "type": "p",
@@ -137,7 +139,7 @@
       "h3": null,
       "h4": "Price of an entry level property in English regions and Wales compared with what was actually spent by first-time buyers",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2017/02/housing-affordability-chart-1-data-download-1.xlsx)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2017/02/housing-affordability-chart-1-data-download-1.xlsx)"
     },
     {
       "type": "heading",
@@ -261,7 +263,8 @@
       "h4": null,
       "h5": null,
       "title": "Can You Afford a House?",
-      "url": "/visualisations/dvc393/affordabilitycalculator/content.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc393/affordabilitycalculator/content.html",
+      "url_new": "/visualisations/dvc393/affordabilitycalculator/content.html"
     },
     {
       "type": "p",

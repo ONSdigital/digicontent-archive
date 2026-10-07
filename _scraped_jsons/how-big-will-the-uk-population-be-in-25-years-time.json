@@ -85,7 +85,8 @@
       "h4": "2014-based UK Population Projections - Principal and Variants, 2014 to 2039",
       "h5": null,
       "title": "2014-based UK Population Projections - Principal and Variants, 2014 to 2039",
-      "url": "/visualisations/nesscontent/dvc292/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc292/index.html",
+      "url_new": "/visualisations/nesscontent/dvc292/index.html"
     },
     {
       "type": "heading",
@@ -168,7 +169,8 @@
       "h4": null,
       "h5": null,
       "title": "How could the age structure of the population vary?",
-      "url": "/visualisations/nesscontent/dvc219/pyramids/pyramids.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc219/pyramids/pyramids.html",
+      "url_new": "/visualisations/nesscontent/dvc219/pyramids/pyramids.html"
     },
     {
       "type": "p",

@@ -143,7 +143,8 @@
       "h4": null,
       "h5": null,
       "title": "Housing pressures local area embed",
-      "url": "/visualisations/housingpressures/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/housingpressures/index.html",
+      "url_new": "/visualisations/housingpressures/index.html"
     },
     {
       "type": "p",
@@ -151,7 +152,8 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[Download the data (XLSX, 109KB)](/visualisations/housingpressures/datadownload.xlsx)"
+      "text": "[Download the data (XLSX, 109KB)](https://www.ons.gov.uk/visualisations/housingpressures/datadownload.xlsx)",
+      "text_new": "[Download the data (XLSX, 109KB)](/visualisations/housingpressures/datadownload.xlsx)"
     },
     {
       "type": "p",

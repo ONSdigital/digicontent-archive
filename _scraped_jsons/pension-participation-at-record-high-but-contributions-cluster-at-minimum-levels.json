@@ -103,7 +103,8 @@
       "h4": "Proportion of employees with workplace pension, by type of pension, UK, 2007 to 2017",
       "h5": null,
       "title": "Proportion of employees with workplace pension, by type of pension, UK, 2007 to 2017",
-      "url": "/visualisations/dvc497/pensiontime/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc497/pensiontime/index.html",
+      "url_new": "/visualisations/dvc497/pensiontime/index.html"
     },
     {
       "type": "heading",
@@ -163,8 +164,9 @@
       "chartbuilder_h3": "Proportion of employers making contributions to private sector defined contribution schemes, by contribution rate",
       "chartbuilder_h4": "UK, 2012 and 2017",
       "data_uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/workplacepensions/articles/pensionparticipationatrecordhighbutcontributionsclusteratminimumlevels/2018-05-04/ade45bbf",
-      "src": "/_scraped_chartbuilder_imgs/ade45bbf.png",
-      "local_filename": "ade45bbf.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/employmentandlabourmarket/peopleinwork/workplacepensions/articles/pensionparticipationatrecordhighbutcontributionsclusteratminimumlevels/2018-05-04/ade45bbf&width=&hideSource=true",
+      "local_filename": "ade45bbf.png",
+      "src_new": "/_scraped_chartbuilder_imgs/ade45bbf.png"
     },
     {
       "type": "p",
@@ -191,8 +193,9 @@
       "chartbuilder_h3": "Proportion of employees making contributions to private sector defined contribution schemes, by contribution rate",
       "chartbuilder_h4": "UK, 2012 and 2017",
       "data_uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/workplacepensions/articles/pensionparticipationatrecordhighbutcontributionsclusteratminimumlevels/2018-05-04/85589187",
-      "src": "/_scraped_chartbuilder_imgs/85589187.png",
-      "local_filename": "85589187.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/employmentandlabourmarket/peopleinwork/workplacepensions/articles/pensionparticipationatrecordhighbutcontributionsclusteratminimumlevels/2018-05-04/85589187&width=&hideSource=true",
+      "local_filename": "85589187.png",
+      "src_new": "/_scraped_chartbuilder_imgs/85589187.png"
     },
     {
       "type": "heading",
@@ -243,7 +246,8 @@
       "h4": "Proportion of private sector workers with defined contribution pension, by age band, UK, 2007 to 2017",
       "h5": null,
       "title": "Proportion of private sector workers with defined contribution pension, by age band, UK, 2007 to 2017",
-      "url": "/visualisations/dvc497/DCage2017/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc497/DCage2017/index.html",
+      "url_new": "/visualisations/dvc497/DCage2017/index.html"
     },
     {
       "type": "p",
@@ -277,7 +281,8 @@
       "h4": "Proportion of private sector workers with defined contribution pension, by occupation, UK, 2007 to 2017",
       "h5": null,
       "title": "Proportion of private sector workers with defined contribution pension, by occupation, UK, 2007 to 2017",
-      "url": "/visualisations/dvc497/DCSOC2017/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc497/DCSOC2017/index.html",
+      "url_new": "/visualisations/dvc497/DCSOC2017/index.html"
     },
     {
       "type": "p",
@@ -311,7 +316,8 @@
       "h4": "Proportion of private sector workers with defined contribution pension, by size of employer, UK, 2007 to 2017",
       "h5": null,
       "title": "Proportion of private sector workers with defined contribution pension, by size of employer, UK, 2007 to 2017",
-      "url": "/visualisations/dvc497/employersize/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc497/employersize/index.html",
+      "url_new": "/visualisations/dvc497/employersize/index.html"
     },
     {
       "type": "heading",
@@ -361,7 +367,8 @@
       "h4": null,
       "h5": null,
       "title": "How long will your pension pot need to last?",
-      "url": "/visualisations/dvc221/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc221/index.html",
+      "url_new": "/visualisations/dvc221/index.html"
     },
     {
       "type": "heading",

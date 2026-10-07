@@ -74,8 +74,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations/censusorigindestination/img/header.png",
-      "alt": ""
+      "src": "https://www.ons.gov.uk/visualisations/censusorigindestination/img/header.png",
+      "alt": "",
+      "src_new": "/visualisations/censusorigindestination/img/header.png"
     },
     {
       "type": "heading",

@@ -86,8 +86,9 @@
       "chartbuilder_h3": "GDP grew by 6.6% in July 2020, the third consecutive monthly increase, but it has still only recovered just over half of the lost output caused by COVID-19",
       "chartbuilder_h4": "Monthly index, January 2007 until July 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup7to11september2020/2020-09-11/9b04a502",
-      "src": "/_scraped_chartbuilder_imgs/9b04a502.png",
-      "local_filename": "9b04a502.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup7to11september2020/2020-09-11/9b04a502&width=&hideSource=true",
+      "local_filename": "9b04a502.png",
+      "src_new": "/_scraped_chartbuilder_imgs/9b04a502.png"
     },
     {
       "type": "p",
@@ -179,7 +180,8 @@
       "h4": "All sub-sectors of services showed an increase in growth in July 2020; however, output did not recover to pre-COVID levels in February 2020",
       "h5": "Monthly output (March, April, May, June and July 2020) as a proportion of February 2020, February 2020 output = 100%",
       "title": "Interactive chart",
-      "url": "/visualisations/dvc980/servicesectorchangeslope100/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc980/servicesectorchangeslope100/index.html",
+      "url_new": "/visualisations/dvc980/servicesectorchangeslope100/index.html"
     },
     {
       "type": "heading",
@@ -247,7 +249,8 @@
       "h4": "All sub-sectors of manufacturing showed an increase in growth in July 2020; however, output had still not recovered to pre-COVID levels in February 2020",
       "h5": "Monthly output (March, April, May, June and July 2020) as a proportion of February 2020, February 2020 output = 100%",
       "title": "Interactive chart",
-      "url": "/visualisations/dvc980/manufsectorchangeslope100/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc980/manufsectorchangeslope100/index.html",
+      "url_new": "/visualisations/dvc980/manufsectorchangeslope100/index.html"
     },
     {
       "type": "heading",
@@ -413,7 +416,8 @@
       "h4": "At the end of July, more people expected it to take more than a year or never for life to return to normal, compared with mid-June",
       "h5": "Share of the population on when they think their own life will return to normal, Great Britain, 27 March to 26 July 2020",
       "title": "Interactive chart",
-      "url": "/visualisations/dvc974/fig1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc974/fig1/index.html",
+      "url_new": "/visualisations/dvc974/fig1/index.html"
     },
     {
       "type": "p",
@@ -497,7 +501,8 @@
       "h4": "Business turnover has been more likely to underperform than overperform, compared with expectations",
       "h5": "A combination of Wave 6 to Wave 11 responses, count of responding businesses currently trading, broken down by previous expectations and actual responses, UK, 1 June to 23 August 2020",
       "title": "Interactive chart",
-      "url": "/visualisations/dvc965/scatter/scatter/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc965/scatter/scatter/index.html",
+      "url_new": "/visualisations/dvc965/scatter/scatter/index.html"
     },
     {
       "type": "p",
@@ -565,8 +570,9 @@
       "chartbuilder_h3": "The monthly profile of completed transactions for total domestic and cross-border mergers and acquisitions shows a considerable reduction from April 2020 onwards",
       "chartbuilder_h4": "Number of monthly domestic and cross-border mergers and acquisitions, completed transactions involving UK companies, January 2019 to June 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup7to11september2020/2020-09-11/3cb2b435",
-      "src": "/_scraped_chartbuilder_imgs/3cb2b435.png",
-      "local_filename": "3cb2b435.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup7to11september2020/2020-09-11/3cb2b435&width=&hideSource=true",
+      "local_filename": "3cb2b435.png",
+      "src_new": "/_scraped_chartbuilder_imgs/3cb2b435.png"
     },
     {
       "type": "p",

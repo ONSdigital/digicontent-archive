@@ -84,7 +84,8 @@
       "h4": "Total household expenditure, UK, 2001/02 to 2014",
       "h5": null,
       "title": "Total household expenditure, UK, 2001/02 to 2014",
-      "url": "/visualisations/nesscontent/dvc140/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc140/index.html",
+      "url_new": "/visualisations/nesscontent/dvc140/index.html"
     },
     {
       "type": "heading",
@@ -160,7 +161,8 @@
       "h4": "Household expenditure UK 2014",
       "h5": null,
       "title": "Household expenditure UK 2014",
-      "url": "/visualisations/nesscontent/dvc203/treemap_fin.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc203/treemap_fin.html",
+      "url_new": "/visualisations/nesscontent/dvc203/treemap_fin.html"
     },
     {
       "type": "p",
@@ -275,7 +277,8 @@
       "h4": "Household expenditure, UK, 2014",
       "h5": null,
       "title": "Household expenditure, UK, 2014",
-      "url": "/visualisations/nesscontent/dvc295/project/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc295/project/index.html",
+      "url_new": "/visualisations/nesscontent/dvc295/project/index.html"
     },
     {
       "type": "box",

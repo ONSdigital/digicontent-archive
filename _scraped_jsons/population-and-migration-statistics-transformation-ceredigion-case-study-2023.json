@@ -98,8 +98,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc2609/images/2156_Population-and-migration_Illustration.png",
-      "alt": null
+      "src": "https://www.ons.gov.uk/visualisations/dvc2609/images/2156_Population-and-migration_Illustration.png",
+      "alt": null,
+      "src_new": "/visualisations/dvc2609/images/2156_Population-and-migration_Illustration.png"
     },
     {
       "type": "heading",
@@ -151,7 +152,8 @@
       "h4": "Age structure of the population for mid-year estimates compared with ABPE, by sex, LA, 2021",
       "h5": null,
       "title": "Figure 1",
-      "url": "/visualisations/dvc2609/Ceredigion/Fig1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Ceredigion/Fig1/index.html",
+      "url_new": "/visualisations/dvc2609/Ceredigion/Fig1/index.html"
     },
     {
       "type": "heading",
@@ -228,7 +230,8 @@
       "h4": "Admin-based population estimates (ABPE) percentage change in population, local authorities in England and Wales",
       "h5": null,
       "title": "Figure 2",
-      "url": "/visualisations/dvc2609/Ceredigion/Fig2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Ceredigion/Fig2/index.html",
+      "url_new": "/visualisations/dvc2609/Ceredigion/Fig2/index.html"
     },
     {
       "type": "heading",
@@ -329,7 +332,8 @@
       "h4": "Percentage difference in admin-based population estimates (ABPE) and Census 2021 estimates at Lower layer Super Output Areas (LSOA) level, LA, 2021",
       "h5": null,
       "title": "Figure 3",
-      "url": "/visualisations/dvc2609/Ceredigion/Fig3/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Ceredigion/Fig3/index.html",
+      "url_new": "/visualisations/dvc2609/Ceredigion/Fig3/index.html"
     },
     {
       "type": "heading",
@@ -412,8 +416,9 @@
       "h3": "Notes:",
       "h4": "Changes in Ceredigion’s daytime population",
       "h5": null,
-      "src": "/visualisations/dvc2609/images/2156_Population-sub-groups-characteristics_Illustration.png",
-      "alt": null
+      "src": "https://www.ons.gov.uk/visualisations/dvc2609/images/2156_Population-sub-groups-characteristics_Illustration.png",
+      "alt": null,
+      "src_new": "/visualisations/dvc2609/images/2156_Population-sub-groups-characteristics_Illustration.png"
     },
     {
       "type": "heading",
@@ -481,7 +486,8 @@
       "h4": "Admin-based ethnicity statistics (ABES) and Census 2021 population by five-category ethnic group, LA, 2021",
       "h5": null,
       "title": "Figure 4",
-      "url": "/visualisations/dvc2609/Ceredigion/Fig4/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Ceredigion/Fig4/index.html",
+      "url_new": "/visualisations/dvc2609/Ceredigion/Fig4/index.html"
     },
     {
       "type": "heading",
@@ -557,7 +563,8 @@
       "h4": "5a: Admin-based ethnicity statistics (ABES), “White” ethnic group by age and sex, LA, 2021",
       "h5": null,
       "title": "Figure 5a",
-      "url": "/visualisations/dvc2609/Ceredigion/Fig5a/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Ceredigion/Fig5a/index.html",
+      "url_new": "/visualisations/dvc2609/Ceredigion/Fig5a/index.html"
     },
     {
       "type": "heading",
@@ -600,7 +607,8 @@
       "h4": "5b: Admin-based ethnicity statistics (ABES), all other ethnic groups by age and sex, LA, 2021",
       "h5": null,
       "title": "Figure 5b",
-      "url": "/visualisations/dvc2609/Ceredigion/Fig5b/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Ceredigion/Fig5b/index.html",
+      "url_new": "/visualisations/dvc2609/Ceredigion/Fig5b/index.html"
     },
     {
       "type": "p",
@@ -667,7 +675,8 @@
       "h4": "Admin-based income statistics (ABIS) median occupied address net income (£), LA, tax year ending 2018",
       "h5": null,
       "title": "Figure 6",
-      "url": "/visualisations/dvc2609/Ceredigion/Fig6/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Ceredigion/Fig6/index.html",
+      "url_new": "/visualisations/dvc2609/Ceredigion/Fig6/index.html"
     },
     {
       "type": "heading",
@@ -768,7 +777,8 @@
       "h4": "The 10th percentile, median, and 90th percentile net income for individuals aged 16 years and over with income information identified by five-category ethnic group, LA, tax year ending 2018",
       "h5": null,
       "title": "Figure 7",
-      "url": "/visualisations/dvc2609/Ceredigion/Fig7/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Ceredigion/Fig7/index.html",
+      "url_new": "/visualisations/dvc2609/Ceredigion/Fig7/index.html"
     },
     {
       "type": "heading",
@@ -834,8 +844,9 @@
       "h3": "Notes:",
       "h4": "Notes:",
       "h5": "Download the data",
-      "src": "/visualisations/dvc2609/images/2156_Housing-accomodation-and-living-arrangements_Illustration.png",
-      "alt": null
+      "src": "https://www.ons.gov.uk/visualisations/dvc2609/images/2156_Housing-accomodation-and-living-arrangements_Illustration.png",
+      "alt": null,
+      "src_new": "/visualisations/dvc2609/images/2156_Housing-accomodation-and-living-arrangements_Illustration.png"
     },
     {
       "type": "heading",
@@ -903,7 +914,8 @@
       "h4": "Number of occupied addresses in the ABOAD and households in Census 2021, LA, June 2021",
       "h5": null,
       "title": "Figure 8",
-      "url": "/visualisations/dvc2609/Ceredigion/Fig8/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Ceredigion/Fig8/index.html",
+      "url_new": "/visualisations/dvc2609/Ceredigion/Fig8/index.html"
     },
     {
       "type": "heading",
@@ -963,7 +975,8 @@
       "h4": "Size of occupied addresses in the admin-based occupied address dataset (ABOAD) and households in Census 2021 by number of people living there, LA, June 2021",
       "h5": null,
       "title": "Figure 9",
-      "url": "/visualisations/dvc2609/Ceredigion/Fig9/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Ceredigion/Fig9/index.html",
+      "url_new": "/visualisations/dvc2609/Ceredigion/Fig9/index.html"
     },
     {
       "type": "heading",
@@ -1071,7 +1084,8 @@
       "h4": "Distribution of Census 2021 households by number of rooms, alongside the distribution of residential addresses and occupied residential addresses in the ABHS V1.0, LA, 2021",
       "h5": null,
       "title": "Figure 10",
-      "url": "/visualisations/dvc2609/Ceredigion/Fig10/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Ceredigion/Fig10/index.html",
+      "url_new": "/visualisations/dvc2609/Ceredigion/Fig10/index.html"
     },
     {
       "type": "heading",
@@ -1172,7 +1186,8 @@
       "h4": "Number of dwellings by Valuation Office Agency (VOA) build period for all addresses and occupied addresses in the ABHS V1.0, LA, June 2021",
       "h5": null,
       "title": "Figure 11",
-      "url": "/visualisations/dvc2609/Ceredigion/Fig11/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Ceredigion/Fig11/index.html",
+      "url_new": "/visualisations/dvc2609/Ceredigion/Fig11/index.html"
     },
     {
       "type": "heading",
@@ -1248,7 +1263,8 @@
       "h4": "Admin-based housing by ethnicity dataset version 2.0 (ABHED V2.0) VOA accommodation type (Census 2021 definition) by ethnic group, LA, 2021",
       "h5": null,
       "title": "Figure 12",
-      "url": "/visualisations/dvc2609/Ceredigion/Fig12/vis/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Ceredigion/Fig12/vis/index.html",
+      "url_new": "/visualisations/dvc2609/Ceredigion/Fig12/vis/index.html"
     },
     {
       "type": "heading",
@@ -1349,7 +1365,8 @@
       "h4": "Admin-based housing by ethnicity dataset version 2.0 (ABHED V2.0) VOA number of bedrooms by ethnic group, LA, 2021",
       "h5": null,
       "title": "Figure 13",
-      "url": "/visualisations/dvc2609/Ceredigion/Fig13/vis/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Ceredigion/Fig13/vis/index.html",
+      "url_new": "/visualisations/dvc2609/Ceredigion/Fig13/vis/index.html"
     },
     {
       "type": "heading",
@@ -1513,7 +1530,8 @@
       "h4": "Admin-based communal establishment dataset (ABCED) communal establishment residents by sex and banded age groups, LA, 2021",
       "h5": null,
       "title": "Figure 14",
-      "url": "/visualisations/dvc2609/Ceredigion/Fig14/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Ceredigion/Fig14/index.html",
+      "url_new": "/visualisations/dvc2609/Ceredigion/Fig14/index.html"
     },
     {
       "type": "heading",

@@ -121,7 +121,8 @@
       "h4": "Most minority ethnicities have a higher COVID-19 mortality rate",
       "h5": "Rate of death involving the coronavirus (COVID-19) by ethnic group and sex relative to the White population, England, 2 March to 28 July 2020",
       "title": "Statistically significant raised rates of COVID-19 mortality remained for both males and females of Black African, Black Caribbean, Indian, Pakistani and Other ethnic groups compared to the White ethnic group after taking account of demographic, socio-economic and health-related factors",
-      "url": "/visualisations/dvc1011/4models/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1011/4models/index.html",
+      "url_new": "/visualisations/dvc1011/4models/index.html"
     },
     {
       "type": "heading",
@@ -138,7 +139,8 @@
       "h3": null,
       "h4": "Download the data",
       "h5": null,
-      "text": "[.xlsx](/visualisations/dvc1011/4models/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc1011/4models/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc1011/4models/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -314,7 +316,8 @@
       "h4": "Some ethnic groups are more likely to work in jobs with higher COVID-19 death rates",
       "h5": "Proportion of ethnic group within occupations and COVID-19 death rate, England and Wales, deaths involving COVID-19 registered between 9 March and 25 May 2020",
       "title": "Occupations by ethnic group and death involving COVID-19 rate",
-      "url": "/visualisations/dvc1098/occupation/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1098/occupation/index.html",
+      "url_new": "/visualisations/dvc1098/occupation/index.html"
     },
     {
       "type": "heading",
@@ -331,7 +334,8 @@
       "h3": null,
       "h4": "Download the data",
       "h5": null,
-      "text": "[.csv](/visualisations/dvc1098/occupation/datadownload.csv)"
+      "text": "[.csv](https://www.ons.gov.uk/visualisations/dvc1098/occupation/datadownload.csv)",
+      "text_new": "[.csv](/visualisations/dvc1098/occupation/datadownload.csv)"
     },
     {
       "type": "heading",
@@ -543,7 +547,8 @@
       "h4": "Multi-generational households with someone aged 70 years and older are more common for people of Bangladeshi or Pakistani ethnicity",
       "h5": "Proportion of households with at least one person aged 70 years or older by ethnic group of that person, by mix of ages in the household, UK, 2018",
       "title": "Households containing someone aged 70 years or over are more likely to contain a mix of ages living together if that person’s ethnicity is Bangladeshi or Pakistani",
-      "url": "/visualisations/dvc904/figure/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc904/figure/index.html",
+      "url_new": "/visualisations/dvc904/figure/index.html"
     },
     {
       "type": "p",
@@ -646,7 +651,8 @@
       "h4": "Ethnic minorities are more likely to live in urban areas",
       "h5": "Percentages (%) of urban and rural populations by ethnic group",
       "title": "Proprotion of urban and rural populations by ethnic group",
-      "url": "/visualisations/dvc1098/urban-rural/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1098/urban-rural/index.html",
+      "url_new": "/visualisations/dvc1098/urban-rural/index.html"
     },
     {
       "type": "p",
@@ -654,7 +660,8 @@
       "h3": null,
       "h4": "Ethnic minorities are more likely to live in urban areas",
       "h5": "Percentages (%) of urban and rural populations by ethnic group",
-      "text": "[.csv](/visualisations/dvc1098/urban-rural/datadownload.csv)"
+      "text": "[.csv](https://www.ons.gov.uk/visualisations/dvc1098/urban-rural/datadownload.csv)",
+      "text_new": "[.csv](/visualisations/dvc1098/urban-rural/datadownload.csv)"
     },
     {
       "type": "p",
@@ -713,8 +720,9 @@
       "chartbuilder_h3": "The coronavirus (COVID-19) has had a proportionally higher impact on the most deprived areas of England",
       "chartbuilder_h4": "Age-standardised mortality rates, all deaths and deaths involving the coronavirus (COVID-19), Index of Multiple Deprivation, England, deaths occurring between 1 March and 31 July 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/whyhaveblackandsouthasianpeoplebeenhithardestbycovid19/2020-12-14/7211efb6",
-      "src": "/_scraped_chartbuilder_imgs/7211efb6.png",
-      "local_filename": "7211efb6.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/whyhaveblackandsouthasianpeoplebeenhithardestbycovid19/2020-12-14/7211efb6&width=&hideSource=true",
+      "local_filename": "7211efb6.png",
+      "src_new": "/_scraped_chartbuilder_imgs/7211efb6.png"
     },
     {
       "type": "heading",
@@ -817,7 +825,8 @@
       "h4": "People from minority ethnic groups are less likely to have access to a private garden",
       "h5": "Percentage of people with access to a private garden, by ethnic group, England, 2014 to 2019",
       "title": "People from minority ethnic groups are less likely to have access to a private garden",
-      "url": "/visualisations/dvc817/greenspace/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc817/greenspace/index.html",
+      "url_new": "/visualisations/dvc817/greenspace/index.html"
     },
     {
       "type": "heading",
@@ -834,7 +843,8 @@
       "h3": null,
       "h4": "Download the data",
       "h5": null,
-      "text": "[.csv](/visualisations/dvc817/greenspace/data.csv)"
+      "text": "[.csv](https://www.ons.gov.uk/visualisations/dvc817/greenspace/data.csv)",
+      "text_new": "[.csv](/visualisations/dvc817/greenspace/data.csv)"
     },
     {
       "type": "p",
@@ -921,7 +931,8 @@
       "h4": "Most ethnicity groups reported worse mental health during the pandemic",
       "h5": "Fully adjusted average change in GHQ-12 scores of those aged 16 years and over between 2019 and April 2020 by ethnic group, UK, 2019 and April 2020",
       "title": "Most ethnic groups experienced an increase in average GHQ-12 scores between 2019 and April 2020",
-      "url": "/visualisations/dvc1085/fig2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1085/fig2/index.html",
+      "url_new": "/visualisations/dvc1085/fig2/index.html"
     },
     {
       "type": "heading",
@@ -970,7 +981,8 @@
       "h3": null,
       "h4": "Notes:",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc1085/fig2/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1085/fig2/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1085/fig2/datadownload.xlsx)"
     },
     {
       "type": "p",

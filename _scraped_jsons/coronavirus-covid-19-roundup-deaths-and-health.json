@@ -235,7 +235,8 @@
       "h4": "Infections in England are rising but more slowly",
       "h5": "Estimated percentage of the population in England testing positive for the coronavirus (COVID-19) on nose and throat swabs based on modelled estimates from 20 September 2020",
       "title": "Infections in England are rising but more slowly\" full-width=\"false",
-      "url": "/visualisations/dvc1047/prvwrapper/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1047/prvwrapper/index.html",
+      "url_new": "/visualisations/dvc1047/prvwrapper/index.html"
     },
     {
       "type": "p",
@@ -243,7 +244,8 @@
       "h3": null,
       "h4": "Infections in England are rising but more slowly",
       "h5": "Estimated percentage of the population in England testing positive for the coronavirus (COVID-19) on nose and throat swabs based on modelled estimates from 20 September 2020",
-      "text": "[Data download](/visualisations/dvc1047/prvwrapper/datadownload.xlsx)"
+      "text": "[Data download](https://www.ons.gov.uk/visualisations/dvc1047/prvwrapper/datadownload.xlsx)",
+      "text_new": "[Data download](/visualisations/dvc1047/prvwrapper/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -367,7 +369,8 @@
       "h4": "Deaths from all causes remain above the five-year average in England and in Wales",
       "h5": "Number of deaths registered by week, England and Wales, 28 December 2019 to 23 October 2020",
       "title": "Deaths from all causes remain above the five-year average in England and in Wales\" full-width=\"false",
-      "url": "/visualisations/dvc1038/fig1/wrapper/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1038/fig1/wrapper/index.html",
+      "url_new": "/visualisations/dvc1038/fig1/wrapper/index.html"
     },
     {
       "type": "heading",
@@ -416,7 +419,8 @@
       "h3": null,
       "h4": "Deaths from all causes remain above the five-year average in England and in Wales",
       "h5": "Notes:",
-      "text": "[Data download](/visualisations/dvc1038/fig1/wrapper/index.html)"
+      "text": "[Data download](http://www.ons.gov.uk/visualisations/dvc1038/fig1/wrapper/index.html)",
+      "text_new": "[Data download](/visualisations/dvc1038/fig1/wrapper/index.html)"
     },
     {
       "type": "p",
@@ -508,7 +512,7 @@
       "chartbuilder_h3": null,
       "chartbuilder_h4": "A higher percentage of people who have tested positive in recent weeks reported symptoms at the time of their test from a low point in the summer months",
       "data_uri": null,
-      "src": "https://www.ons.gov.uk/resource?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundupdeathsandhealth/2020-06-26/bc8d347e.svg"
+      "src": null
     },
     {
       "type": "p",
@@ -624,8 +628,9 @@
       "chartbuilder_h3": "Mortality rates for the month of September have fallen between 2003 and 2020",
       "chartbuilder_h4": "Age-standardised mortality rates by sex, England and Wales, deaths registered in September 2001 to September 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundupdeathsandhealth/2020-06-26/701bf3c9",
-      "src": "/_scraped_chartbuilder_imgs/701bf3c9.png",
-      "local_filename": "701bf3c9.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundupdeathsandhealth/2020-06-26/701bf3c9&width=&hideSource=true",
+      "local_filename": "701bf3c9.png",
+      "src_new": "/_scraped_chartbuilder_imgs/701bf3c9.png"
     },
     {
       "type": "p",
@@ -749,7 +754,8 @@
       "h4": "Almost 60% of excess deaths in private homes in England were of people aged 70 to 89 years",
       "h5": "Number of deaths in private homes by sex and age, England, registered 14 March 2020 to 11 September 2020",
       "title": "Almost 60% of excess deaths in private homes in England were of people aged 70 to 89 years\" full-width=\"false",
-      "url": "/visualisations/dvc1014/fig3/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1014/fig3/index.html",
+      "url_new": "/visualisations/dvc1014/fig3/index.html"
     },
     {
       "type": "p",
@@ -805,7 +811,8 @@
       "h3": null,
       "h4": "Almost 60% of excess deaths in private homes in England were of people aged 70 to 89 years",
       "h5": "Number of deaths in private homes by sex and age, England, registered 14 March 2020 to 11 September 2020",
-      "text": "[Download the data](/visualisations/dvc1014/fig3/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1014/fig3/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1014/fig3/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -881,7 +888,8 @@
       "h4": "Most minority ethnicities have higher COVID-19 mortality rate",
       "h5": "Rate of death compared to White ethnicities, adjusted by various possible factors in England and Wales, to 28 July",
       "title": "Mortality of people from ethnic minority backgrounds\" full-width=\"false",
-      "url": "/visualisations/dvc1011/4models/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1011/4models/index.html",
+      "url_new": "/visualisations/dvc1011/4models/index.html"
     },
     {
       "type": "p",
@@ -889,7 +897,8 @@
       "h3": null,
       "h4": "Most minority ethnicities have higher COVID-19 mortality rate",
       "h5": "Rate of death compared to White ethnicities, adjusted by various possible factors in England and Wales, to 28 July",
-      "text": "[Download the data](/visualisations/dvc1011/4models/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1011/4models/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1011/4models/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -997,8 +1006,9 @@
       "chartbuilder_h3": "There were more deaths due to COVID-19 between January and August 2020 than influenza or pneumonia",
       "chartbuilder_h4": "Number of deaths due to influenza, pneumonia or COVID-19 by sex, England and Wales, occurring between 1 January and 31 August 2020 and registered by 5 September 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundupdeathsandhealth/2020-06-26/aca540d0",
-      "src": "/_scraped_chartbuilder_imgs/aca540d0.png",
-      "local_filename": "aca540d0.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundupdeathsandhealth/2020-06-26/aca540d0&width=&hideSource=true",
+      "local_filename": "aca540d0.png",
+      "src_new": "/_scraped_chartbuilder_imgs/aca540d0.png"
     },
     {
       "type": "p",
@@ -1122,8 +1132,9 @@
       "chartbuilder_h3": "Men working in elementary occupations had highest rates of death involving COVID-19, before the period of lockdown",
       "chartbuilder_h4": "Annualised age standardised rates of death involving COVID-19, deaths registered in England and Wales between 9 March 2020 and 30 June 2020 and occurred on or before 25 April 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundupdeathsandhealth/2020-06-26/4e380506",
-      "src": "/_scraped_chartbuilder_imgs/4e380506.png",
-      "local_filename": "4e380506.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundupdeathsandhealth/2020-06-26/4e380506&width=&hideSource=true",
+      "local_filename": "4e380506.png",
+      "src_new": "/_scraped_chartbuilder_imgs/4e380506.png"
     },
     {
       "type": "p",
@@ -1223,7 +1234,8 @@
       "h4": "Males aged 65 years and over who were disabled and limited a lot had the highest age-standardised COVID-19 mortality rate at 860.8 per 100,000",
       "h5": "Age-standardised mortality rates for deaths involving COVID-19, by sex, age group and disability status, England and Wales, 2 March to 14 July 2020",
       "title": "Interactive chart",
-      "url": "/visualisations/dvc973c/fig1/chart/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc973c/fig1/chart/index.html",
+      "url_new": "/visualisations/dvc973c/fig1/chart/index.html"
     },
     {
       "type": "heading",
@@ -1364,7 +1376,8 @@
       "h4": "Non-COVID-19 weekly death registrations have been below or similar to the five-year average since Week 19 in 2020, having previously been above average between Weeks 13 and 18",
       "h5": "Weekly total death registrations and non-COVID-19 death registrations in 2020 for England and Wales, compared to with the five-year average for equivalent weeks up to Week 28",
       "title": "Interactive chart",
-      "url": "/visualisations/dvc959/fig1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc959/fig1/index.html",
+      "url_new": "/visualisations/dvc959/fig1/index.html"
     },
     {
       "type": "p",
@@ -1372,7 +1385,8 @@
       "h3": null,
       "h4": "Non-COVID-19 weekly death registrations have been below or similar to the five-year average since Week 19 in 2020, having previously been above average between Weeks 13 and 18",
       "h5": "Weekly total death registrations and non-COVID-19 death registrations in 2020 for England and Wales, compared to with the five-year average for equivalent weeks up to Week 28",
-      "text": "[Download the data](/visualisations/dvc959/fig1/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc959/fig1/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc959/fig1/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -1586,8 +1600,9 @@
       "chartbuilder_h3": "London had the highest proportion of deaths involving the coronavirus (COVID-19) between March and July 2020",
       "chartbuilder_h4": "Number of deaths involving and not involving the coronavirus (COVID-19), Wales and regions of England, deaths occurring between 1 March and 31 July 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundupdeathsandhealth/2020-06-26/a6e3d492",
-      "src": "/_scraped_chartbuilder_imgs/a6e3d492.png",
-      "local_filename": "a6e3d492.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundupdeathsandhealth/2020-06-26/a6e3d492&width=&hideSource=true",
+      "local_filename": "a6e3d492.png",
+      "src_new": "/_scraped_chartbuilder_imgs/a6e3d492.png"
     },
     {
       "type": "p",
@@ -1654,7 +1669,8 @@
       "h4": "Number of deaths involving COVID-19 in Middle Layer Super Output Areas, England and Wales, deaths occurring between 1 March and 31 July 2020",
       "h5": null,
       "title": "Interactive chart",
-      "url": "/visualisations/dvc957/map/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc957/map/index.html",
+      "url_new": "/visualisations/dvc957/map/index.html"
     },
     {
       "type": "heading",
@@ -1783,5 +1799,5 @@
       "box_items": null
     }
   ],
-  "scraped_at": "2026-09-28 13:28:03.584872"
+  "scraped_at": "2026-09-22 11:47:58.80738"
 }

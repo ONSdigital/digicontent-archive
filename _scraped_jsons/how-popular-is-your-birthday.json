@@ -104,7 +104,8 @@
       "h4": "Average daily births, England and Wales, 1995 to 2014",
       "h5": null,
       "title": "Average daily births, England and Wales, 1995 to 2014",
-      "url": "/visualisations/nesscontent/dvc307/chart1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc307/chart1/index.html",
+      "url_new": "/visualisations/nesscontent/dvc307/chart1/index.html"
     },
     {
       "type": "p",
@@ -120,7 +121,8 @@
       "h3": "How popular do you think your own birthday is? Find out with our interactive graphic",
       "h4": "Average daily births, England and Wales, 1995 to 2014",
       "h5": null,
-      "text": "[Download the data](/visualisations/nesscontent/dvc307/line_chart/data.csv)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/nesscontent/dvc307/line_chart/data.csv)",
+      "text_new": "[Download the data](/visualisations/nesscontent/dvc307/line_chart/data.csv)"
     },
     {
       "type": "heading",
@@ -196,7 +198,8 @@
       "h4": "Average daily births, England and Wales, 1995 to 2014",
       "h5": null,
       "title": "Average daily births, England and Wales, 1995 to 2014",
-      "url": "/visualisations/nesscontent/dvc307/line_chart/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc307/line_chart/index.html",
+      "url_new": "/visualisations/nesscontent/dvc307/line_chart/index.html"
     },
     {
       "type": "p",

@@ -43,7 +43,8 @@
       "h4": null,
       "h5": null,
       "title": "weekly deaths in England and Wales dashboard",
-      "url": "/visualisations/weeklydeathsdashboard/"
+      "url": "https://www.ons.gov.uk/visualisations/weeklydeathsdashboard/",
+      "url_new": "/visualisations/weeklydeathsdashboard/"
     },
     {
       "type": "heading",

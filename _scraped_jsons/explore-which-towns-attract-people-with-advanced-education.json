@@ -114,7 +114,8 @@
       "h4": null,
       "h5": null,
       "title": "Where did students from your town end up after gaining qualifications?",
-      "url": "/visualisations/dvc2734/build/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2734/build/index.html",
+      "url_new": "/visualisations/dvc2734/build/index.html"
     },
     {
       "type": "p",
@@ -122,7 +123,8 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[Download the data [XLSX, 342KB]](/visualisations/dvc2734/build/datadownload.xlsx)"
+      "text": "[Download the data [XLSX, 342KB]](https://www.ons.gov.uk/visualisations/dvc2734/build/datadownload.xlsx)",
+      "text_new": "[Download the data [XLSX, 342KB]](/visualisations/dvc2734/build/datadownload.xlsx)"
     },
     {
       "type": "p",

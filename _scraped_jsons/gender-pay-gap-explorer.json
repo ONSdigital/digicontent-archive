@@ -67,7 +67,8 @@
       "h4": null,
       "h5": null,
       "title": "What is the gender pay gap for your job?",
-      "url": "/visualisations/dvc2758/fig05-explorer/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2758/fig05-explorer/index.html",
+      "url_new": "/visualisations/dvc2758/fig05-explorer/index.html"
     },
     {
       "type": "heading",
@@ -148,7 +149,8 @@
       "h3": null,
       "h4": null,
       "h5": "Notes:",
-      "text": "[Download the data (XLSX, 204KB)](/visualisations/dvc2758/fig05-explorer/datadownload.xlsx)"
+      "text": "[Download the data (XLSX, 204KB)](https://www.ons.gov.uk/visualisations/dvc2758/fig05-explorer/datadownload.xlsx)",
+      "text_new": "[Download the data (XLSX, 204KB)](/visualisations/dvc2758/fig05-explorer/datadownload.xlsx)"
     },
     {
       "type": "p",

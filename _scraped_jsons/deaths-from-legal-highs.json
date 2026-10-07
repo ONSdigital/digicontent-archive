@@ -176,7 +176,8 @@
       "h4": "Number of deaths involving legal highs, England and Wales, 2004 to 2013",
       "h5": null,
       "title": "Number of deaths involving legal highs, England and Wales, 2004 to 2013",
-      "url": "/visualisations/nesscontent/dvc327/Legal_Highs/LH_connected/"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc327/Legal_Highs/LH_connected/",
+      "url_new": "/visualisations/nesscontent/dvc327/Legal_Highs/LH_connected/"
     },
     {
       "type": "p",
@@ -201,7 +202,8 @@
       "h3": "Concerns over ‘legal highs’",
       "h4": "Drug related deaths, England and Wales, 2004 to 2013",
       "h5": null,
-      "text": "[](/visualisations//visual/2016/04/legal-hs_v3white_vis_nologo-005.png)"
+      "text": "[](https://static.ons.gov.uk/visual/2016/04/legal-hs_v3white_vis_nologo-005.png)",
+      "text_new": "[](/visual/2016/04/legal-hs_v3white_vis_nologo-005.png)"
     },
     {
       "type": "image",
@@ -209,8 +211,9 @@
       "h3": "Concerns over ‘legal highs’",
       "h4": "Drug related deaths, England and Wales, 2004 to 2013",
       "h5": null,
-      "src": "/visualisations//visual/2016/04/legal-hs_v3white_vis_nologo-005.png",
-      "alt": null
+      "src": "https://static.ons.gov.uk/visual/2016/04/legal-hs_v3white_vis_nologo-005.png",
+      "alt": null,
+      "src_new": "/visual/2016/04/legal-hs_v3white_vis_nologo-005.png"
     },
     {
       "type": "heading",
@@ -261,7 +264,8 @@
       "h4": "Around 60% of legal high deaths also involve another drug or alcohol",
       "h5": null,
       "title": "Around 60% of legal high deaths also involve another drug or alcohol",
-      "url": "/visualisations/nesscontent/dvc327/Legal_Highs/LH_split/"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc327/Legal_Highs/LH_split/",
+      "url_new": "/visualisations/nesscontent/dvc327/Legal_Highs/LH_split/"
     },
     {
       "type": "p",
@@ -355,7 +359,8 @@
       "h4": "Deaths involving mephedrone, England and Wales, 2009 to 2013",
       "h5": null,
       "title": "Deaths involving mephedrone, England and Wales, 2009 to 2013",
-      "url": "/visualisations/nesscontent/dvc327/Legal_Highs/LH_death/"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc327/Legal_Highs/LH_death/",
+      "url_new": "/visualisations/nesscontent/dvc327/Legal_Highs/LH_death/"
     },
     {
       "type": "p",

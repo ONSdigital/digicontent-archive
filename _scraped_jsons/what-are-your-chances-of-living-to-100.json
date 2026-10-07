@@ -94,7 +94,8 @@
       "h4": null,
       "h5": null,
       "title": "Interactive chart",
-      "url": "/visualisations/nesscontent/dvc221/longevity.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc221/longevity.html",
+      "url_new": "/visualisations/nesscontent/dvc221/longevity.html"
     },
     {
       "type": "heading",
@@ -129,7 +130,8 @@
       "h4": "Number of people living to 100 by year of birth and sex, UK, 2016",
       "h5": null,
       "title": "Number of people living to 100 by year of birth and sex, UK, 2016",
-      "url": "/visualisations/nesscontent/dvc221/charts/chart1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc221/charts/chart1/index.html",
+      "url_new": "/visualisations/nesscontent/dvc221/charts/chart1/index.html"
     },
     {
       "type": "p",
@@ -204,7 +206,8 @@
       "h4": null,
       "h5": null,
       "title": "Number of babies estimated to live to 100, UK, 2016",
-      "url": "/visualisations/nesscontent/dvc221/charts/chart2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc221/charts/chart2/index.html",
+      "url_new": "/visualisations/nesscontent/dvc221/charts/chart2/index.html"
     },
     {
       "type": "heading",

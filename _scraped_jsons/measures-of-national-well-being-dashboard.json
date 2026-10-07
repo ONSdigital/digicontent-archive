@@ -63,7 +63,8 @@
       "h4": null,
       "h5": null,
       "title": "Well-being dashboard",
-      "url": "/visualisations/dvc621/main_dashboard/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc621/main_dashboard/index.html",
+      "url_new": "/visualisations/dvc621/main_dashboard/index.html"
     },
     {
       "type": "heading",

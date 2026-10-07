@@ -68,7 +68,8 @@
       "h4": null,
       "h5": null,
       "title": "How well do you know your local area quiz",
-      "url": "/visualisations/censusquiz/"
+      "url": "https://www.ons.gov.uk/visualisations/censusquiz/",
+      "url_new": "/visualisations/censusquiz/"
     },
     {
       "type": "p",
@@ -196,7 +197,7 @@
       "h5": null,
       "box_h2": "Contact",
       "box_h3": null,
-      "box_text": "[census.customerservices@ons.gov.uk](mailto:census.customerservices@ons.gov.uk)\n Telephone: +44 1329 444972",
+      "box_text": "[census.customerservices@ons.gov.uk](mailto:census.customerservices@ons.gov.uk )\n Telephone: +44 1329 444972",
       "box_items": null
     }
   ],

@@ -344,7 +344,8 @@
       "h4": "COVID-19 infections increased in England and trends were uncertain in Wales and Scotland",
       "h5": "Estimated percentage of the population testing positive for coronavirus (COVID-19) on nose and throat swabs, UK, 6 March 2022 to 13 March 2023",
       "title": "Infection Survey official estimates",
-      "url": "/visualisations/dvc2536/national/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2536/national/index.html",
+      "url_new": "/visualisations/dvc2536/national/index.html"
     },
     {
       "type": "heading",
@@ -361,7 +362,8 @@
       "h3": null,
       "h4": "COVID-19 infections increased in England and trends were uncertain in Wales and Scotland",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2536/national/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2536/national/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2536/national/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -436,7 +438,8 @@
       "h4": "COVID-19 infections increased for most age groups in England",
       "h5": null,
       "title": "Infections by age ",
-      "url": "/visualisations/dvc1470/new_age/infections/wrapper/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1470/new_age/infections/wrapper/index.html",
+      "url_new": "/visualisations/dvc1470/new_age/infections/wrapper/index.html"
     },
     {
       "type": "heading",
@@ -453,7 +456,8 @@
       "h3": null,
       "h4": "COVID-19 infections increased for most age groups in England",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc1470/new_age/infections/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc1470/new_age/infections/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc1470/new_age/infections/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -537,7 +541,8 @@
       "h4": "COVID-19 infection trends were uncertain for most English regions",
       "h5": "Estimated coronavirus (COVID-19) positivity rates, overall COVID-19-positive hospital admission rates with intensive care unit (ICU) and high dependency unit (HDU) admissions, and number of deaths, by English regions, week ending 3 February to 19 March 2023",
       "title": "Infections by region",
-      "url": "/visualisations/dvc1470/regionaltripletrio/wrapper/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1470/regionaltripletrio/wrapper/index.html",
+      "url_new": "/visualisations/dvc1470/regionaltripletrio/wrapper/index.html"
     },
     {
       "type": "heading",
@@ -554,7 +559,8 @@
       "h3": null,
       "h4": "COVID-19 infection trends were uncertain for most English regions",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc1470/regionaltripletrio/wrapper/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc1470/regionaltripletrio/wrapper/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc1470/regionaltripletrio/wrapper/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -653,7 +659,8 @@
       "h4": "The highest peaks for COVID-19 infections for all English regions were during the periods when the Omicron BA.1 and BA.2 variants were dominant",
       "h5": "Estimated percentage of the population testing positive for COVID-19 on nose and throat swabs by region, England, week ending 23 December 2021 to week ending 5 September 2022",
       "title": "Infections by region",
-      "url": "/visualisations/dvc2177/fig3/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2177/fig3/index.html",
+      "url_new": "/visualisations/dvc2177/fig3/index.html"
     },
     {
       "type": "heading",
@@ -670,7 +677,8 @@
       "h3": null,
       "h4": "The highest peaks for COVID-19 infections for all English regions were during the periods when the Omicron BA.1 and BA.2 variants were dominant",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2177/fig3/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2177/fig3/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2177/fig3/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -801,7 +809,8 @@
       "h4": "Sub-regional COVID-19 positivity over time",
       "h5": "Modelled percentage of the population testing positive for COVID-19 on nose and throat swabs by sub-regional geography, UK, 8 November 2020 to 5 September 2022",
       "title": "Infections by region",
-      "url": "/visualisations/dvc2177/fig4/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2177/fig4/index.html",
+      "url_new": "/visualisations/dvc2177/fig4/index.html"
     },
     {
       "type": "heading",
@@ -818,7 +827,8 @@
       "h3": null,
       "h4": "Sub-regional COVID-19 positivity over time",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2177/fig4/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2177/fig4/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2177/fig4/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -999,7 +1009,8 @@
       "h4": "Young people more likely to have been infected during the Delta variant period",
       "h5": "The percentage of people who have had COVID-19 across all variants and age groups",
       "title": "Infection Survey cumulative incidence",
-      "url": "/visualisations/dvc2458/charts/fig2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2458/charts/fig2/index.html",
+      "url_new": "/visualisations/dvc2458/charts/fig2/index.html"
     },
     {
       "type": "heading",
@@ -1016,7 +1027,8 @@
       "h3": null,
       "h4": "Young people more likely to have been infected during the Delta variant period",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2458/charts/fig2/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2458/charts/fig2/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2458/charts/fig2/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -1100,7 +1112,8 @@
       "h4": "Most reinfections happened during the period when the Omicron variants were dominant",
       "h5": "Percentage of first and second coronavirus infections by period in which different variants were dominant, UK, 2 July 2020 to 23 November 2022",
       "title": "Most reinfections happened during the period when the Omicron variants were dominant ",
-      "url": "/visualisations/dvc2392/sankey/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2392/sankey/index.html",
+      "url_new": "/visualisations/dvc2392/sankey/index.html"
     },
     {
       "type": "heading",
@@ -1117,7 +1130,8 @@
       "h3": null,
       "h4": "Most reinfections happened during the period when the Omicron variants were dominant",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2392/sankey/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2392/sankey/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2392/sankey/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -1224,7 +1238,8 @@
       "h4": null,
       "h5": null,
       "title": "Glossary",
-      "url": "/visualisations/covidgloss/covid_gloss/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/covidgloss/covid_gloss/index.html",
+      "url_new": "/visualisations/covidgloss/covid_gloss/index.html"
     },
     {
       "type": "p",

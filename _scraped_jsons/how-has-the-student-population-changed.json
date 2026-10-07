@@ -77,7 +77,8 @@
       "h4": "Young people aged 18 to 24 in full-time education, seasonally adjusted, UK, March to May 1992 to May to July 2016",
       "h5": null,
       "title": "Young people aged 18 to 24 in full-time education, seasonally adjusted, UK, March to May 1992 to May to July 2016",
-      "url": "/visualisations/github/dvc366/chart1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/github/dvc366/chart1/index.html",
+      "url_new": "/visualisations/github/dvc366/chart1/index.html"
     },
     {
       "type": "p",
@@ -119,7 +120,8 @@
       "h4": "Percentage of 18 to 24 year olds in full-time education who are in employment, non-seasonally adjusted, UK, March to May 1992 to May to July 2016",
       "h5": null,
       "title": "Percentage of 18 to 24 year olds in full-time education who are in employment, non-seasonally adjusted, UK, March to May 1992 to May to July 2016",
-      "url": "/visualisations/github/dvc366/chart2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/github/dvc366/chart2/index.html",
+      "url_new": "/visualisations/github/dvc366/chart2/index.html"
     },
     {
       "type": "p",
@@ -127,7 +129,7 @@
       "h3": "Student numbers have almost doubled since 1992",
       "h4": "Percentage of 18 to 24 year olds in full-time education who are in employment, non-seasonally adjusted, UK, March to May 1992 to May to July 2016",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2016/09/percentage-students-in-employment.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2016/09/percentage-students-in-employment.csv)"
     },
     {
       "type": "heading",
@@ -178,7 +180,8 @@
       "h4": "Average annual projected migration in and outflows (internal, cross-border and international moves), England, 2014 to 2024",
       "h5": null,
       "title": "Average annual projected migration in and outflows (internal, cross-border and international moves), England, 2014 to 2024",
-      "url": "/visualisations/github/dvc366/chart3and4/russell.html"
+      "url": "https://www.ons.gov.uk/visualisations/github/dvc366/chart3and4/russell.html",
+      "url_new": "/visualisations/github/dvc366/chart3and4/russell.html"
     },
     {
       "type": "p",
@@ -186,7 +189,7 @@
       "h3": "Inward and outward migration is likely to be greater around larger universities",
       "h4": "Average annual projected migration in and outflows (internal, cross-border and international moves), England, 2014 to 2024",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2016/09/data.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2016/09/data.csv)"
     },
     {
       "type": "p",
@@ -228,7 +231,8 @@
       "h4": "Average annual projected migration in and outflows (internal, cross-border and international moves, England, 2014 to 2024",
       "h5": null,
       "title": "Average annual projected migration in and outflows (internal, cross-border and international moves, England, 2014 to 2024",
-      "url": "/visualisations/github/dvc366/chart3and4/non-russell.html"
+      "url": "https://www.ons.gov.uk/visualisations/github/dvc366/chart3and4/non-russell.html",
+      "url_new": "/visualisations/github/dvc366/chart3and4/non-russell.html"
     },
     {
       "type": "p",
@@ -236,7 +240,7 @@
       "h3": "Inward and outward migration is likely to be greater around larger universities",
       "h4": "Average annual projected migration in and outflows (internal, cross-border and international moves, England, 2014 to 2024",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2016/09/data.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2016/09/data.csv)"
     },
     {
       "type": "p",
@@ -295,7 +299,8 @@
       "h4": "Age profile of the usually resident and out of term population: Oxford, 2011",
       "h5": null,
       "title": "Age profile of the usually resident and out of term population: Oxford, 2011",
-      "url": "/visualisations/github/dvc366/chart5/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/github/dvc366/chart5/index.html",
+      "url_new": "/visualisations/github/dvc366/chart5/index.html"
     },
     {
       "type": "p",
@@ -303,7 +308,7 @@
       "h3": "The aged 18 to 24 population in Oxford and Cambridge increases by over 80% during university term-time",
       "h4": "Age profile of the usually resident and out of term population: Oxford, 2011",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2016/09/oxford.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2016/09/oxford.csv)"
     },
     {
       "type": "p",
@@ -337,7 +342,8 @@
       "h3": "The male to female ratio can change in areas with universities during term-time",
       "h4": "Sex ratio in and out of term time, Runnymede, 2011",
       "h5": null,
-      "text": "[](/visualisations//visual/2016/09/fct5_genderatio_no_heading.png)"
+      "text": "[](https://static.ons.gov.uk/visual/2016/09/fct5_genderatio_no_heading.png)",
+      "text_new": "[](/visual/2016/09/fct5_genderatio_no_heading.png)"
     },
     {
       "type": "image",
@@ -345,8 +351,9 @@
       "h3": "The male to female ratio can change in areas with universities during term-time",
       "h4": "Sex ratio in and out of term time, Runnymede, 2011",
       "h5": null,
-      "src": "/visualisations//visual/2016/09/fct5_genderatio_no_heading.png",
-      "alt": null
+      "src": "https://static.ons.gov.uk/visual/2016/09/fct5_genderatio_no_heading.png",
+      "alt": null,
+      "src_new": "/visual/2016/09/fct5_genderatio_no_heading.png"
     },
     {
       "type": "p",
@@ -405,7 +412,8 @@
       "h4": "Long-term international immigrants arriving for formal study, UK, 1977 to year ending March 2016",
       "h5": null,
       "title": "Long-term international immigrants arriving for formal study, UK, 1977 to year ending March 2016",
-      "url": "/visualisations/dvc366/chart6/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc366/chart6/index.html",
+      "url_new": "/visualisations/dvc366/chart6/index.html"
     },
     {
       "type": "p",
@@ -413,7 +421,7 @@
       "h3": "International student numbers have fallen and are at their lowest since 2007",
       "h4": "Long-term international immigrants arriving for formal study, UK, 1977 to year ending March 2016",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2016/09/data-1.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2016/09/data-1.csv)"
     },
     {
       "type": "p",
@@ -421,7 +429,7 @@
       "h3": "International student numbers have fallen and are at their lowest since 2007",
       "h4": "Long-term international immigrants arriving for formal study, UK, 1977 to year ending March 2016",
       "h5": null,
-      "text": "Other Visual.ONS articles: [What are migration levels like in your area?](/visualisations/20170726163612/https://visual.ons.gov.uk/what-are-migration-levels-like-in-your-area-2/) [UK energy: how much? What type and where from?](https://www.ons.gov.uk/economy/environmentalaccounts/articles/ukenergyhowmuchwhattypeandwherefrom/2016-08-15) [Shopping in 'shops' that have no shops](https://www.ons.gov.uk/businessindustryandtrade/retailindustry/articles/shoppinginshopsthathavenoshops/2016-07-29)"
+      "text": "Other Visual.ONS articles: [What are migration levels like in your area?](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/what-are-migration-levels-like-in-your-area-2/) [UK energy: how much? What type and where from?](https://www.ons.gov.uk/economy/environmentalaccounts/articles/ukenergyhowmuchwhattypeandwherefrom/2016-08-15) [Shopping in 'shops' that have no shops](https://www.ons.gov.uk/businessindustryandtrade/retailindustry/articles/shoppinginshopsthathavenoshops/2016-07-29)"
     },
     {
       "type": "p",

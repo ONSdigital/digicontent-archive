@@ -111,8 +111,9 @@
       "chartbuilder_h3": "Increased energy prices affected food and beverage businesses more than other businesses",
       "chartbuilder_h4": "Proportion of businesses with 10 or more employees not permanently ceased trading, reporting energy prices had an effect on production and/or supply, weighted by count, UK, 7 March to 20 March 2022",
       "data_uri": "https://www.ons.gov.uk/businessindustryandtrade/business/businessservices/articles/recentchallengesfacedbyfoodanddrinkbusinessesandtheirimpactonprices/2022-04-04/4edefa5a",
-      "src": "/_scraped_chartbuilder_imgs/4edefa5a.png",
-      "local_filename": "4edefa5a.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/businessindustryandtrade/business/businessservices/articles/recentchallengesfacedbyfoodanddrinkbusinessesandtheirimpactonprices/2022-04-04/4edefa5a&width=&hideSource=true",
+      "local_filename": "4edefa5a.png",
+      "src_new": "/_scraped_chartbuilder_imgs/4edefa5a.png"
     },
     {
       "type": "p",
@@ -189,8 +190,9 @@
       "chartbuilder_h3": "Food and beverage businesses were approximately twice as likely to report additional transportation costs",
       "chartbuilder_h4": "Proportion of businesses with 10 or more employees not permanently stopped trading, reporting extra costs due to the end of the EU transition period, weighted by count, UK, 7 March to 20 March 2022",
       "data_uri": "https://www.ons.gov.uk/businessindustryandtrade/business/businessservices/articles/recentchallengesfacedbyfoodanddrinkbusinessesandtheirimpactonprices/2022-04-04/9b444869",
-      "src": "/_scraped_chartbuilder_imgs/9b444869.png",
-      "local_filename": "9b444869.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/businessindustryandtrade/business/businessservices/articles/recentchallengesfacedbyfoodanddrinkbusinessesandtheirimpactonprices/2022-04-04/9b444869&width=&hideSource=true",
+      "local_filename": "9b444869.png",
+      "src_new": "/_scraped_chartbuilder_imgs/9b444869.png"
     },
     {
       "type": "p",
@@ -332,7 +334,8 @@
       "h4": "Food and beverage businesses are more likely to have reported price rises for materials, goods, and services",
       "h5": "Percentage of businesses not permanently stopped trading, broken down by industry, excluding businesses with 0-9 employees, weighted by count, UK, 1 June 2020 to 20 March 2022",
       "title": "Bought and sold ",
-      "url": "/visualisations/dvc1889/bought_sold/wrapper/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1889/bought_sold/wrapper/index.html",
+      "url_new": "/visualisations/dvc1889/bought_sold/wrapper/index.html"
     },
     {
       "type": "p",
@@ -372,7 +375,8 @@
       "h3": "Recent challenges in the food and beverage sector",
       "h4": "Food and beverage businesses are more likely to have reported price rises for materials, goods, and services",
       "h5": "Percentage of businesses not permanently stopped trading, broken down by industry, excluding businesses with 0-9 employees, weighted by count, UK, 1 June 2020 to 20 March 2022",
-      "text": "[Download the data for the percentage of business not permanently stopped trading reporting price rises (XLSX, 22KB)](/visualisations/dvc1889/bought_sold/datadownload.xlsx)"
+      "text": "[Download the data for the percentage of business not permanently stopped trading reporting price rises (XLSX, 22KB)](https://www.ons.gov.uk/visualisations/dvc1889/bought_sold/datadownload.xlsx)",
+      "text_new": "[Download the data for the percentage of business not permanently stopped trading reporting price rises (XLSX, 22KB)](/visualisations/dvc1889/bought_sold/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -465,7 +469,8 @@
       "h4": "Production price rises in domestic and imported food have played a role in rising food and beverage consumer prices",
       "h5": "12 -month growth rates, UK, January 2015 to February 2022, index 2015 = 100",
       "title": "Production price rises in domestic and imported food have played a role in rising food and beverage consumer prices",
-      "url": "/visualisations/dvc1889/small-multiple-line/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1889/small-multiple-line/index.html",
+      "url_new": "/visualisations/dvc1889/small-multiple-line/index.html"
     },
     {
       "type": "p",
@@ -489,7 +494,8 @@
       "h3": "Recent challenges in the food and beverage sector",
       "h4": "Production price rises in domestic and imported food have played a role in rising food and beverage consumer prices",
       "h5": "12 -month growth rates, UK, January 2015 to February 2022, index 2015 = 100",
-      "text": "[Download the data for 12 month growth rates in domestic and imported food (XLSX, 29KB)](/visualisations/dvc1889/small-multiple-line/datadownload.xlsx)"
+      "text": "[Download the data for 12 month growth rates in domestic and imported food (XLSX, 29KB)](https://www.ons.gov.uk/visualisations/dvc1889/small-multiple-line/datadownload.xlsx)",
+      "text_new": "[Download the data for 12 month growth rates in domestic and imported food (XLSX, 29KB)](/visualisations/dvc1889/small-multiple-line/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -541,8 +547,9 @@
       "chartbuilder_h3": "People are buying less when food shopping",
       "chartbuilder_h4": "Percentage of adults who have been buying more or less when food shopping over the past two weeks, UK, 8 September 2021 to 27 March 2022",
       "data_uri": "https://www.ons.gov.uk/businessindustryandtrade/business/businessservices/articles/recentchallengesfacedbyfoodanddrinkbusinessesandtheirimpactonprices/2022-04-04/2f03e56d",
-      "src": "/_scraped_chartbuilder_imgs/2f03e56d.png",
-      "local_filename": "2f03e56d.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/businessindustryandtrade/business/businessservices/articles/recentchallengesfacedbyfoodanddrinkbusinessesandtheirimpactonprices/2022-04-04/2f03e56d&width=&hideSource=true",
+      "local_filename": "2f03e56d.png",
+      "src_new": "/_scraped_chartbuilder_imgs/2f03e56d.png"
     },
     {
       "type": "p",
@@ -569,8 +576,9 @@
       "chartbuilder_h3": "The food and beverage sector has seen its turnover performance hit since December 2021",
       "chartbuilder_h4": "Proportion of businesses with 10 or more employees currently trading, reporting a decrease in turnover, three-wave moving average, weighted by count, UK, 1 June 2020 to 20 February 2022",
       "data_uri": "https://www.ons.gov.uk/businessindustryandtrade/business/businessservices/articles/recentchallengesfacedbyfoodanddrinkbusinessesandtheirimpactonprices/2022-04-04/db660250",
-      "src": "/_scraped_chartbuilder_imgs/db660250.png",
-      "local_filename": "db660250.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/businessindustryandtrade/business/businessservices/articles/recentchallengesfacedbyfoodanddrinkbusinessesandtheirimpactonprices/2022-04-04/db660250&width=&hideSource=true",
+      "local_filename": "db660250.png",
+      "src_new": "/_scraped_chartbuilder_imgs/db660250.png"
     },
     {
       "type": "heading",
@@ -615,8 +623,9 @@
       "chartbuilder_h3": "Food and beverage businesses more likely to cite concerns on inflation and energy prices compared with businesses across all sectors",
       "chartbuilder_h4": "Proportion of businesses with 10 or more employees not permanently stopped trading, broken down by industry, weighted by count, UK, 21 February to 6 March 2022",
       "data_uri": "https://www.ons.gov.uk/businessindustryandtrade/business/businessservices/articles/recentchallengesfacedbyfoodanddrinkbusinessesandtheirimpactonprices/2022-04-04/c3431e8b",
-      "src": "/_scraped_chartbuilder_imgs/c3431e8b.png",
-      "local_filename": "c3431e8b.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/businessindustryandtrade/business/businessservices/articles/recentchallengesfacedbyfoodanddrinkbusinessesandtheirimpactonprices/2022-04-04/c3431e8b&width=&hideSource=true",
+      "local_filename": "c3431e8b.png",
+      "src_new": "/_scraped_chartbuilder_imgs/c3431e8b.png"
     },
     {
       "type": "heading",

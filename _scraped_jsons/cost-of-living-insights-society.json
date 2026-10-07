@@ -155,8 +155,9 @@
       "h3": "How this affects you",
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc2389/images/Subnational-indicators.png",
-      "alt": ""
+      "src": "https://www.ons.gov.uk/visualisations/dvc2389/images/Subnational-indicators.png",
+      "alt": "",
+      "src_new": "/visualisations/dvc2389/images/Subnational-indicators.png"
     },
     {
       "type": "image",
@@ -164,8 +165,9 @@
       "h3": "How this affects you",
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc2389/images/Worries-cost-of-living.png",
-      "alt": ""
+      "src": "https://www.ons.gov.uk/visualisations/dvc2389/images/Worries-cost-of-living.png",
+      "alt": "",
+      "src_new": "/visualisations/dvc2389/images/Worries-cost-of-living.png"
     },
     {
       "type": "image",
@@ -173,8 +175,9 @@
       "h3": "How this affects you",
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc2389/images/Impact-cost-of-living-adults.png",
-      "alt": ""
+      "src": "https://www.ons.gov.uk/visualisations/dvc2389/images/Impact-cost-of-living-adults.png",
+      "alt": "",
+      "src_new": "/visualisations/dvc2389/images/Impact-cost-of-living-adults.png"
     },
     {
       "type": "heading",
@@ -224,7 +227,8 @@
       "h4": null,
       "h5": null,
       "title": "glossary",
-      "url": "/visualisations/dvc2389/gloss/widget_gloss/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2389/gloss/widget_gloss/index.html",
+      "url_new": "/visualisations/dvc2389/gloss/widget_gloss/index.html"
     },
     {
       "type": "box",

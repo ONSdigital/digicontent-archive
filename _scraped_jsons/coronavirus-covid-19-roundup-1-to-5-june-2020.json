@@ -118,7 +118,8 @@
       "h4": "Deaths due to dementia and Alzheimer disease have greatly increased and to a greater extent than other causes since Week 13",
       "h5": "The non-COVID-19 deaths as a percent of the five-year average for each underlying cause, England and Wales for deaths registered in Weeks 1 to 18 in 2020",
       "title": "Line chart - causes of death",
-      "url": "/visualisations/dvc827/fig8/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc827/fig8/index.html",
+      "url_new": "/visualisations/dvc827/fig8/index.html"
     },
     {
       "type": "heading",
@@ -159,7 +160,8 @@
       "h3": null,
       "h4": "Deaths due to dementia and Alzheimer disease have greatly increased and to a greater extent than other causes since Week 13",
       "h5": "Notes:",
-      "text": "[Download the data](/visualisations/dvc827/fig8/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc827/fig8/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc827/fig8/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -186,8 +188,9 @@
       "chartbuilder_h3": "The rate of non-COVID-19 deaths per 100,000 is highest in the 90 years and over age category, among whom the rate of deaths involving COVID-19 is also highest",
       "chartbuilder_h4": "Total non-COVID-19 excess deaths per 100,000 and deaths involving COVID-19 per 100,000 for each 10-year age group, England and Wales, Week 11 to Week 18",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup1to5june2020/2020-06-05/3b463062",
-      "src": "/_scraped_chartbuilder_imgs/3b463062.png",
-      "local_filename": "3b463062.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup1to5june2020/2020-06-05/3b463062&width=&hideSource=true",
+      "local_filename": "3b463062.png",
+      "src_new": "/_scraped_chartbuilder_imgs/3b463062.png"
     },
     {
       "type": "p",
@@ -247,8 +250,9 @@
       "chartbuilder_h3": "Accommodation and food services, and construction industries experienced the largest reductions in hours worked",
       "chartbuilder_h4": "Percentage change in average actual weekly hours worked by industry, not seasonally adjusted, UK, between January to March 2019 and January to March 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup1to5june2020/2020-06-05/91799572",
-      "src": "/_scraped_chartbuilder_imgs/91799572.png",
-      "local_filename": "91799572.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup1to5june2020/2020-06-05/91799572&width=&hideSource=true",
+      "local_filename": "91799572.png",
+      "src_new": "/_scraped_chartbuilder_imgs/91799572.png"
     },
     {
       "type": "p",

@@ -97,7 +97,8 @@
       "h4": "UK trade with the rest of the world, imports and exports, 1999 to 2016",
       "h5": null,
       "title": "Interactive chart",
-      "url": "/visualisations/dvc390/worldmap/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc390/worldmap/index.html",
+      "url_new": "/visualisations/dvc390/worldmap/index.html"
     },
     {
       "type": "p",
@@ -105,7 +106,8 @@
       "h3": "Explore the trade relationship between the UK and the rest of the world in our interactive map.",
       "h4": "UK trade with the rest of the world, imports and exports, 1999 to 2016",
       "h5": null,
-      "text": "[Download the data](/visualisations/dvc390/Imports-exports-1999-2016.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc390/Imports-exports-1999-2016.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc390/Imports-exports-1999-2016.xlsx)"
     },
     {
       "type": "heading",
@@ -173,7 +175,8 @@
       "h4": null,
       "h5": "UK Imports, 2016",
       "title": "Trade - Imports treemap",
-      "url": "/visualisations/dvc390/treemap/imports.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc390/treemap/imports.html",
+      "url_new": "/visualisations/dvc390/treemap/imports.html"
     },
     {
       "type": "p",
@@ -181,7 +184,8 @@
       "h3": "How much does the UK trade with the EU and the rest of the world?",
       "h4": null,
       "h5": "UK Imports, 2016",
-      "text": "[Download the data](/visualisations/dvc390/Importstree.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc390/Importstree.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc390/Importstree.xlsx)"
     },
     {
       "type": "heading",
@@ -207,7 +211,8 @@
       "h4": null,
       "h5": "UK Exports, 2016",
       "title": "Trade - Exports treemap",
-      "url": "/visualisations/dvc390/treemap/exports.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc390/treemap/exports.html",
+      "url_new": "/visualisations/dvc390/treemap/exports.html"
     },
     {
       "type": "p",
@@ -215,7 +220,8 @@
       "h3": "How much does the UK trade with the EU and the rest of the world?",
       "h4": null,
       "h5": "UK Exports, 2016",
-      "text": "[Download the data](/visualisations/dvc390/Exportstree.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc390/Exportstree.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc390/Exportstree.xlsx)"
     },
     {
       "type": "p",
@@ -299,7 +305,8 @@
       "h4": null,
       "h5": "UK Exports by distance from UK, 2016",
       "title": "Trade - Scatter imports distance",
-      "url": "/visualisations/dvc390/distance/export/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc390/distance/export/index.html",
+      "url_new": "/visualisations/dvc390/distance/export/index.html"
     },
     {
       "type": "p",
@@ -307,7 +314,8 @@
       "h3": "How does geography impact UK exports and imports to the rest of the world?",
       "h4": null,
       "h5": "UK Exports by distance from UK, 2016",
-      "text": "[Download the data](/visualisations/dvc390/Distance-exports.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc390/Distance-exports.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc390/Distance-exports.xlsx)"
     },
     {
       "type": "heading",
@@ -333,7 +341,8 @@
       "h4": null,
       "h5": "UK Imports by distance from UK, 2016",
       "title": "Trade - Scatter imports distance",
-      "url": "/visualisations/dvc390/distance/import/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc390/distance/import/index.html",
+      "url_new": "/visualisations/dvc390/distance/import/index.html"
     },
     {
       "type": "p",
@@ -341,7 +350,8 @@
       "h3": "How does geography impact UK exports and imports to the rest of the world?",
       "h4": null,
       "h5": "UK Imports by distance from UK, 2016",
-      "text": "[Download the data](/visualisations/dvc390/Distance-imports.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc390/Distance-imports.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc390/Distance-imports.xlsx)"
     },
     {
       "type": "p",
@@ -383,7 +393,8 @@
       "h4": null,
       "h5": "UK trade deficit and surplus by country, 2016",
       "title": "Trade - scatter import/export",
-      "url": "/visualisations/dvc390/in-out/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc390/in-out/index.html",
+      "url_new": "/visualisations/dvc390/in-out/index.html"
     },
     {
       "type": "p",
@@ -391,7 +402,8 @@
       "h3": "How does geography impact UK exports and imports to the rest of the world?",
       "h4": null,
       "h5": "UK trade deficit and surplus by country, 2016",
-      "text": "[Download the data](/visualisations/dvc390/Import-export.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc390/Import-export.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc390/Import-export.xlsx)"
     },
     {
       "type": "heading",
@@ -500,7 +512,8 @@
       "h4": null,
       "h5": "UK trade with the US and rest of the world, imports and exports, 1999 to 2016",
       "title": "Interactive chart",
-      "url": "/visualisations/dvc390/worldmap/index.html#sty=false&flow=flow1&period=16&fix=UK&fix2=US&view=0,-40,800,635"
+      "url": "https://www.ons.gov.uk/visualisations/dvc390/worldmap/index.html#sty=false&flow=flow1&period=16&fix=UK&fix2=US&view=0,-40,800,635",
+      "url_new": "/visualisations/dvc390/worldmap/index.html#sty=false&flow=flow1&period=16&fix=UK&fix2=US&view=0,-40,800,635"
     },
     {
       "type": "p",
@@ -508,7 +521,8 @@
       "h3": "Our trade relationship with the US has strengthened in recent years",
       "h4": null,
       "h5": "UK trade with the US and rest of the world, imports and exports, 1999 to 2016",
-      "text": "[Download the data](/visualisations/dvc390/Imports-exports-1999-2016.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc390/Imports-exports-1999-2016.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc390/Imports-exports-1999-2016.xlsx)"
     },
     {
       "type": "heading",

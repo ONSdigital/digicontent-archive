@@ -42,8 +42,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc2962/banner/Child-mortality_banner.svg",
-      "alt": "graphic showing hospital and health centre with icons of people and a person holding a baby"
+      "src": "https://www.ons.gov.uk/visualisations/dvc2962/banner/Child-mortality_banner.svg",
+      "alt": "graphic showing hospital and health centre with icons of people and a person holding a baby",
+      "src_new": "/visualisations/dvc2962/banner/Child-mortality_banner.svg"
     },
     {
       "type": "p",
@@ -341,7 +342,8 @@
       "h4": "In both models, babies born to Pakistani mothers saw the highest risk of neonatal death compared to that of White British mothers",
       "h5": "Estimated risk of neonatal death, by mothers’ ethnic group, compared to mothers of White British ethnic group, England and Wales, 2011-2017",
       "title": "Estimated risk of neonatal death, by mothers’ ethnic group, compared to mothers of White British ethnic group, England and Wales, 2011-2017 ",
-      "url": "/visualisations/dvc2962/1a-ethnicity-n/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2962/1a-ethnicity-n/index.html",
+      "url_new": "/visualisations/dvc2962/1a-ethnicity-n/index.html"
     },
     {
       "type": "p",
@@ -349,7 +351,8 @@
       "h3": null,
       "h4": "In both models, babies born to Pakistani mothers saw the highest risk of neonatal death compared to that of White British mothers",
       "h5": "Estimated risk of neonatal death, by mothers’ ethnic group, compared to mothers of White British ethnic group, England and Wales, 2011-2017",
-      "text": "[Download the data for risk of neonatal death by mothers' ethnic group [XSLX, 11KB]](/visualisations/dvc2962/1a-ethnicity-n/datadownload.xlsx)"
+      "text": "[Download the data for risk of neonatal death by mothers' ethnic group [XSLX, 11KB]](https://www.ons.gov.uk/visualisations/dvc2962/1a-ethnicity-n/datadownload.xlsx)",
+      "text_new": "[Download the data for risk of neonatal death by mothers' ethnic group [XSLX, 11KB]](/visualisations/dvc2962/1a-ethnicity-n/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -497,7 +500,8 @@
       "h4": "Children of Pakistani, Black African and Bangladeshi mothers saw the highest estimated risk of death before and after accounting for other household and gestational factors",
       "h5": "Estimated risk child death by mothers’ ethnic group, compared to mothers of White British ethnic group, England and Wales, 2011-2021",
       "title": "Estimated risk child death by mothers’ ethnic group, compared to mothers of White British ethnic group, England and Wales, 2011-2021 ",
-      "url": "/visualisations/dvc2962/1b-ethnicity-c/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2962/1b-ethnicity-c/index.html",
+      "url_new": "/visualisations/dvc2962/1b-ethnicity-c/index.html"
     },
     {
       "type": "heading",
@@ -589,7 +593,8 @@
       "h4": "After accounting for gestational characteristics, the estimated risk of neonatal death was similar for all socio-economic groups",
       "h5": "Estimated risk of neonatal death, by household NS-SEC classification, compared to those in higher managerial and professional jobs, England and Wales, 2011 to 2017",
       "title": "Estimated risk of neonatal death, by household NS-SEC classification, compared to those in higher managerial and professional jobs, England and Wales, 2011 to 2017 ",
-      "url": "/visualisations/dvc2962/2a-nssec-n/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2962/2a-nssec-n/index.html",
+      "url_new": "/visualisations/dvc2962/2a-nssec-n/index.html"
     },
     {
       "type": "p",
@@ -597,7 +602,8 @@
       "h3": null,
       "h4": "After accounting for gestational characteristics, the estimated risk of neonatal death was similar for all socio-economic groups",
       "h5": "Estimated risk of neonatal death, by household NS-SEC classification, compared to those in higher managerial and professional jobs, England and Wales, 2011 to 2017",
-      "text": "[Download the data for risk of death by household NS-SEC classification [XLSX, 11KB]](/visualisations/dvc2962/2a-nssec-n/datadownload.xlsx)"
+      "text": "[Download the data for risk of death by household NS-SEC classification [XLSX, 11KB]](https://www.ons.gov.uk/visualisations/dvc2962/2a-nssec-n/datadownload.xlsx)",
+      "text_new": "[Download the data for risk of death by household NS-SEC classification [XLSX, 11KB]](/visualisations/dvc2962/2a-nssec-n/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -672,7 +678,8 @@
       "h4": "Children in households where there was long-term unemployment saw the highest risk of mortality",
       "h5": "Estimated risk of child death by household NS-SEC classification, compared to those in managerial and employer jobs, England and Wales, 2011 to 2021",
       "title": "Estimated risk of child death by household NS-SEC classification, compared to those in managerial and employer jobs, England and Wales, 2011 to 2021",
-      "url": "/visualisations/dvc2962/2b-nssec-c/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2962/2b-nssec-c/index.html",
+      "url_new": "/visualisations/dvc2962/2b-nssec-c/index.html"
     },
     {
       "type": "p",
@@ -680,7 +687,8 @@
       "h3": null,
       "h4": "Children in households where there was long-term unemployment saw the highest risk of mortality",
       "h5": "Estimated risk of child death by household NS-SEC classification, compared to those in managerial and employer jobs, England and Wales, 2011 to 2021",
-      "text": "[Download the data for risk of child death by household NS-SEC [XLSX, 11KB]](/visualisations/dvc2962/2b-nssec-c/datadownload.xlsx)"
+      "text": "[Download the data for risk of child death by household NS-SEC [XLSX, 11KB]](https://www.ons.gov.uk/visualisations/dvc2962/2b-nssec-c/datadownload.xlsx)",
+      "text_new": "[Download the data for risk of child death by household NS-SEC [XLSX, 11KB]](/visualisations/dvc2962/2b-nssec-c/datadownload.xlsx)"
     },
     {
       "type": "heading",

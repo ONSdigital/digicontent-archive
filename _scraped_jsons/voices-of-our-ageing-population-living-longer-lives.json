@@ -50,8 +50,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations/censuscss/picturesVoices/illustration.svg",
-      "alt": null
+      "src": "https://www.ons.gov.uk/visualisations/censuscss/picturesVoices/illustration.svg",
+      "alt": null,
+      "src_new": "/visualisations/censuscss/picturesVoices/illustration.svg"
     },
     {
       "type": "p",
@@ -181,8 +182,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations/censuscss/picturesVoices/couple-home.png",
-      "alt": null
+      "src": "https://www.ons.gov.uk/visualisations/censuscss/picturesVoices/couple-home.png",
+      "alt": null,
+      "src_new": "/visualisations/censuscss/picturesVoices/couple-home.png"
     },
     {
       "type": "image",
@@ -190,8 +192,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations/censuscss/picturesVoices/couple-chat.png",
-      "alt": null
+      "src": "https://www.ons.gov.uk/visualisations/censuscss/picturesVoices/couple-chat.png",
+      "alt": null,
+      "src_new": "/visualisations/censuscss/picturesVoices/couple-chat.png"
     },
     {
       "type": "heading",
@@ -280,8 +283,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations/censuscss/picturesVoices/carehome.png",
-      "alt": null
+      "src": "https://www.ons.gov.uk/visualisations/censuscss/picturesVoices/carehome.png",
+      "alt": null,
+      "src_new": "/visualisations/censuscss/picturesVoices/carehome.png"
     },
     {
       "type": "heading",
@@ -387,8 +391,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations/censuscss/picturesVoices/man-bench.png",
-      "alt": null
+      "src": "https://www.ons.gov.uk/visualisations/censuscss/picturesVoices/man-bench.png",
+      "alt": null,
+      "src_new": "/visualisations/censuscss/picturesVoices/man-bench.png"
     },
     {
       "type": "p",
@@ -551,8 +556,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations/censuscss/picturesVoices/lizzie-crop.png",
-      "alt": "64-year-old Lizzie Gent from Manchester stands on a road in a florescent yellow jacket with her bike. Lizzie says: “It is important to acknowledge that older people have lived fascinating and interesting lives and have individual stories to tell.”"
+      "src": "https://www.ons.gov.uk/visualisations/censuscss/picturesVoices/lizzie-crop.png",
+      "alt": "64-year-old Lizzie Gent from Manchester stands on a road in a florescent yellow jacket with her bike. Lizzie says: “It is important to acknowledge that older people have lived fascinating and interesting lives and have individual stories to tell.”",
+      "src_new": "/visualisations/censuscss/picturesVoices/lizzie-crop.png"
     },
     {
       "type": "image",
@@ -560,8 +566,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations/censuscss/picturesVoices/lizzie.png",
-      "alt": "64-year-old Lizzie Gent from Manchester stands on a road in a florescent yellow jacket with her bike. Lizzie says: “It is important to acknowledge that older people have lived fascinating and interesting lives and have individual stories to tell.”"
+      "src": "https://www.ons.gov.uk/visualisations/censuscss/picturesVoices/lizzie.png",
+      "alt": "64-year-old Lizzie Gent from Manchester stands on a road in a florescent yellow jacket with her bike. Lizzie says: “It is important to acknowledge that older people have lived fascinating and interesting lives and have individual stories to tell.”",
+      "src_new": "/visualisations/censuscss/picturesVoices/lizzie.png"
     },
     {
       "type": "p",
@@ -642,8 +649,9 @@
       "h3": null,
       "h4": null,
       "h5": "Images taken from The Centre for Ageing Better’s age-positive image library",
-      "src": "/visualisations/censuscss/picturesVoices/cfabLogo.svg",
-      "alt": "Centre for Ageing Better logo"
+      "src": "https://www.ons.gov.uk/visualisations/censuscss/picturesVoices/cfabLogo.svg",
+      "alt": "Centre for Ageing Better logo",
+      "src_new": "/visualisations/censuscss/picturesVoices/cfabLogo.svg"
     },
     {
       "type": "image",
@@ -651,8 +659,9 @@
       "h3": null,
       "h4": null,
       "h5": "Images taken from The Centre for Ageing Better’s age-positive image library",
-      "src": "/visualisations/censuscss/picturesVoices/ageUkLogo.png",
-      "alt": "Age UK logo"
+      "src": "https://www.ons.gov.uk/visualisations/censuscss/picturesVoices/ageUkLogo.png",
+      "alt": "Age UK logo",
+      "src_new": "/visualisations/censuscss/picturesVoices/ageUkLogo.png"
     },
     {
       "type": "image",
@@ -660,8 +669,9 @@
       "h3": null,
       "h4": null,
       "h5": "Images taken from The Centre for Ageing Better’s age-positive image library",
-      "src": "/visualisations/censuscss/picturesVoices/ilcLogo.jpg",
-      "alt": "International Longevity Centre UK logo"
+      "src": "https://www.ons.gov.uk/visualisations/censuscss/picturesVoices/ilcLogo.jpg",
+      "alt": "International Longevity Centre UK logo",
+      "src_new": "/visualisations/censuscss/picturesVoices/ilcLogo.jpg"
     },
     {
       "type": "heading",

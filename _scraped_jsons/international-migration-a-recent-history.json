@@ -50,7 +50,7 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "Part of a [series of UK Perspectives](/visualisations/20170726163612/https://visual.ons.gov.uk/uk-perspectives-an-introduction/) providing an overview of key aspects of the nation over the last three decades, this article presents some key statistics on flows of long-term migrants into and out of the UK, and the impact of migration on the UK population."
+      "text": "Part of a [series of UK Perspectives](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/uk-perspectives-an-introduction/) providing an overview of key aspects of the nation over the last three decades, this article presents some key statistics on flows of long-term migrants into and out of the UK, and the impact of migration on the UK population."
     },
     {
       "type": "heading",
@@ -93,7 +93,8 @@
       "h4": "Long-term international migration into the UK, 1980 to 2013 1",
       "h5": null,
       "title": "Long-term international migration into the UK, 1980 to 2013 <sup>1<\/sup>",
-      "url": "/visualisations/nesscontent/dvc222/Mig_Chart1/Mig_Chart1.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc222/Mig_Chart1/Mig_Chart1.html",
+      "url_new": "/visualisations/nesscontent/dvc222/Mig_Chart1/Mig_Chart1.html"
     },
     {
       "type": "p",
@@ -101,7 +102,7 @@
       "h3": null,
       "h4": "Long-term international migration into the UK, 1980 to 2013 1",
       "h5": null,
-      "text": "[download the data](/visualisations//visual/2015/01/Mig_Chart1.csv)"
+      "text": "[download the data](https://static.ons.gov.uk/visual/2015/01/Mig_Chart1.csv)"
     },
     {
       "type": "p",
@@ -160,7 +161,8 @@
       "h4": "Long-term international net migration into the UK by citizenship, 1980 to 2013",
       "h5": null,
       "title": "Long-term international net migration into the UKÂ� by citizenship, 1980 to 2013",
-      "url": "/visualisations/nesscontent/dvc222/Mig_Chart2/Mig_Chart2.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc222/Mig_Chart2/Mig_Chart2.html",
+      "url_new": "/visualisations/nesscontent/dvc222/Mig_Chart2/Mig_Chart2.html"
     },
     {
       "type": "p",
@@ -168,7 +170,7 @@
       "h3": null,
       "h4": "Long-term international net migration into the UK by citizenship, 1980 to 2013",
       "h5": null,
-      "text": "[download the data](/visualisations//visual/2014/12/Mig_Chart2-1.csv)"
+      "text": "[download the data](https://static.ons.gov.uk/visual/2014/12/Mig_Chart2-1.csv)"
     },
     {
       "type": "p",
@@ -235,7 +237,8 @@
       "h4": "Main reason for immigration to the UK, 1980 to 2013 23",
       "h5": null,
       "title": "Main reason for immigration to the UK, 1980 to 2013 <sup>2<\/sup> <sup>3<\/sup>",
-      "url": "/visualisations/nesscontent/dvc222/Mig_Chart3/Mig_Chart3.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc222/Mig_Chart3/Mig_Chart3.html",
+      "url_new": "/visualisations/nesscontent/dvc222/Mig_Chart3/Mig_Chart3.html"
     },
     {
       "type": "p",
@@ -243,7 +246,7 @@
       "h3": null,
       "h4": "Main reason for immigration to the UK, 1980 to 2013 23",
       "h5": null,
-      "text": "[download the data](/visualisations//visual/2015/01/Mig_Chart3.csv)"
+      "text": "[download the data](https://static.ons.gov.uk/visual/2015/01/Mig_Chart3.csv)"
     },
     {
       "type": "p",
@@ -312,7 +315,8 @@
       "h4": null,
       "h5": null,
       "title": "Total Fertility Rates",
-      "url": "/visualisations/nesscontent/dvc222/Mig_Chart4/Mig_Chart4.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc222/Mig_Chart4/Mig_Chart4.html",
+      "url_new": "/visualisations/nesscontent/dvc222/Mig_Chart4/Mig_Chart4.html"
     },
     {
       "type": "p",
@@ -320,7 +324,7 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[download the data](/visualisations//visual/2015/01/Mig_Chart4.csv)"
+      "text": "[download the data](https://static.ons.gov.uk/visual/2015/01/Mig_Chart4.csv)"
     },
     {
       "type": "p",
@@ -378,7 +382,8 @@
       "h4": null,
       "h5": null,
       "title": "Non-UK born resident population",
-      "url": "/visualisations/nesscontent/dvc222/Mig_Chart5/Mig_Chart5.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc222/Mig_Chart5/Mig_Chart5.html",
+      "url_new": "/visualisations/nesscontent/dvc222/Mig_Chart5/Mig_Chart5.html"
     },
     {
       "type": "p",
@@ -386,7 +391,7 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[download the data](/visualisations//visual/2014/12/Mig_Chart5-1.csv)"
+      "text": "[download the data](https://static.ons.gov.uk/visual/2014/12/Mig_Chart5-1.csv)"
     },
     {
       "type": "p",

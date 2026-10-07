@@ -46,7 +46,7 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "So, what can ONS statistics tell us about the importance of trade with and beyond the EU for the UK? This article is part of a series of [UK Perspectives](/visualisations/20170726163612/https://visual.ons.gov.uk/?p=7837&preview=true), on topics such as the economy and housing, as well as two new articles; this one and another on contributions to the EU budget."
+      "text": "So, what can ONS statistics tell us about the importance of trade with and beyond the EU for the UK? This article is part of a series of [UK Perspectives](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/?p=7837&preview=true), on topics such as the economy and housing, as well as two new articles; this one and another on contributions to the EU budget."
     },
     {
       "type": "heading",
@@ -113,7 +113,8 @@
       "h4": "UK exports (goods and services) with EU and Non-EU countries, current prices, 1999 to 2015",
       "h5": null,
       "title": "UK exports (goods and services) with EU and Non-EU countries, current prices, 1999 to 2015",
-      "url": "/visualisations/github/dvc329/exports/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/github/dvc329/exports/index.html",
+      "url_new": "/visualisations/github/dvc329/exports/index.html"
     },
     {
       "type": "p",
@@ -147,7 +148,8 @@
       "h4": "UK imports (goods and services) with EU and Non-EU countries, current prices, 1999 to 2015",
       "h5": null,
       "title": "UK imports (goods and services) with EU and Non-EU countries, current prices, 1999 to 2015",
-      "url": "/visualisations/github/dvc329/imports/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/github/dvc329/imports/index.html",
+      "url_new": "/visualisations/github/dvc329/imports/index.html"
     },
     {
       "type": "p",
@@ -230,7 +232,8 @@
       "h4": "UK top 10 trading partners in goods and services, current prices, 2014",
       "h5": null,
       "title": "UK top 10 trading partners in goods and services, current prices, 2014",
-      "url": "/visualisations/nesscontent/dvc329/slope%20chart/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc329/slope%20chart/index.html",
+      "url_new": "/visualisations/nesscontent/dvc329/slope%20chart/index.html"
     },
     {
       "type": "p",
@@ -420,7 +423,8 @@
       "h4": "UK share of EU trade in goods, 2000 to 20153",
       "h5": null,
       "title": "UK share of EU trade in goods, 2000 to 2015",
-      "url": "/visualisations/nesscontent/dvc329/Trade%20charts/chart4/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc329/Trade%20charts/chart4/index.html",
+      "url_new": "/visualisations/nesscontent/dvc329/Trade%20charts/chart4/index.html"
     },
     {
       "type": "p",
@@ -454,7 +458,8 @@
       "h4": "UK share of select EU country exports of goods, 5 year average (2011 to 2015)",
       "h5": null,
       "title": "UK share of select EU country exports of goods, 5 year average (2011 to 2015)",
-      "url": "/visualisations/nesscontent/dvc329/Trade%20charts/chart5/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc329/Trade%20charts/chart5/index.html",
+      "url_new": "/visualisations/nesscontent/dvc329/Trade%20charts/chart5/index.html"
     },
     {
       "type": "p",
@@ -548,7 +553,8 @@
       "h4": "Imports and exports as % of GDP over time",
       "h5": null,
       "title": "Imports and exports as % of GDP over time",
-      "url": "/visualisations/nesscontent/dvc329/Trade%20charts/chart6/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc329/Trade%20charts/chart6/index.html",
+      "url_new": "/visualisations/nesscontent/dvc329/Trade%20charts/chart6/index.html"
     },
     {
       "type": "heading",

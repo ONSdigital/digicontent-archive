@@ -223,7 +223,8 @@
       "h4": "Clothing sales remain much lower than before the pandemic, despite the overall recovery",
       "h5": "Volume sales, seasonally adjusted, Great Britain, February to July 2020",
       "title": "Interactive chart",
-      "url": "/visualisations/dvc956/fig3/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc956/fig3/index.html",
+      "url_new": "/visualisations/dvc956/fig3/index.html"
     },
     {
       "type": "p",
@@ -231,7 +232,8 @@
       "h3": null,
       "h4": "Clothing sales remain much lower than before the pandemic, despite the overall recovery",
       "h5": "Volume sales, seasonally adjusted, Great Britain, February to July 2020",
-      "text": "[Download the data](/visualisations/dvc956/fig3/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc956/fig3/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc956/fig3/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -517,7 +519,8 @@
       "h4": "Younger adults were more likely than other adults to have some form of depression during the coronavirus (COVID-19) pandemic",
       "h5": "Great Britain, July 2019 to June 2020",
       "title": "Interactive chart",
-      "url": "/visualisations/dvc945/age/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc945/age/index.html",
+      "url_new": "/visualisations/dvc945/age/index.html"
     },
     {
       "type": "p",
@@ -649,7 +652,8 @@
       "h4": "Modelled likelihood of testing positive for COVID-19 by general characteristics",
       "h5": "The odds ratios of any individual testing positive for the coronavirus (COVID-19) on a nose and throat swab by sex, age bands, ethnic groups, household size and recent contact with confirmed or suspected cases of COVID-19, England, 8 June to 2 August 2020",
       "title": "Interactive chart",
-      "url": "/visualisations/dvc950/fig1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc950/fig1/index.html",
+      "url_new": "/visualisations/dvc950/fig1/index.html"
     },
     {
       "type": "heading",

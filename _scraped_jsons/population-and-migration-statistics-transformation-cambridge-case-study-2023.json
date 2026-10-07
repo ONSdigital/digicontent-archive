@@ -90,8 +90,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc2609/images/2156_Population-and-migration_Illustration.png",
-      "alt": null
+      "src": "https://www.ons.gov.uk/visualisations/dvc2609/images/2156_Population-and-migration_Illustration.png",
+      "alt": null,
+      "src_new": "/visualisations/dvc2609/images/2156_Population-and-migration_Illustration.png"
     },
     {
       "type": "heading",
@@ -135,7 +136,8 @@
       "h4": "Figure 1: Admin-based population estimates (ABPE) data show the largest percentage of people living in Cambridge were aged 19 to 23 years\n\nThe embedded visualisation below may not display correctly without JavaScript enabled. View it in full screen.\n\nEmbed code\nEmbed this interactive Copy",
       "h5": null,
       "title": "Figure 1: Admin-based population estimates (ABPE) data show the largest percentage of people living in Cambridge were aged 19 to 23 years ",
-      "url": "/visualisations/dvc2609/Cambridge/Fig1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Cambridge/Fig1/index.html",
+      "url_new": "/visualisations/dvc2609/Cambridge/Fig1/index.html"
     },
     {
       "type": "li",
@@ -185,7 +187,8 @@
       "h4": "Figure 2: Cambridge's population increased by 1.7% to 146,200 people between 2021 and 2022 ",
       "h5": null,
       "title": "Cambridge's population increased by 1.7%  to 146,200 people between 2021 and 2022  ",
-      "url": "/visualisations/dvc2609/Cambridge/Fig2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Cambridge/Fig2/index.html",
+      "url_new": "/visualisations/dvc2609/Cambridge/Fig2/index.html"
     },
     {
       "type": "li",
@@ -259,7 +262,8 @@
       "h4": "Figure 3: The largest difference in population estimates between ABPEs and Census 2021 were in LSOAs with communal establishments ",
       "h5": null,
       "title": "The largest difference in population estimates between ABPEs and Census 2021 were in LSOAs with communal establishments ",
-      "url": "/visualisations/dvc2609/Cambridge/Fig3/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Cambridge/Fig3/index.html",
+      "url_new": "/visualisations/dvc2609/Cambridge/Fig3/index.html"
     },
     {
       "type": "li",
@@ -324,8 +328,9 @@
       "h3": "Population and migration in Cambridge",
       "h4": "Changes in Cambridge's daytime population ",
       "h5": null,
-      "src": "/visualisations/dvc2609/images/2156_Population-sub-groups-characteristics_Illustration.png",
-      "alt": null
+      "src": "https://www.ons.gov.uk/visualisations/dvc2609/images/2156_Population-sub-groups-characteristics_Illustration.png",
+      "alt": null,
+      "src_new": "/visualisations/dvc2609/images/2156_Population-sub-groups-characteristics_Illustration.png"
     },
     {
       "type": "heading",
@@ -384,7 +389,8 @@
       "h4": "Figure 4: The ABES proportion of ethnic groups in Cambridge is similar to Census 2021. ",
       "h5": null,
       "title": "Figure 4: The ABES proportion of ethnic groups in Cambridge is similar to Census. ",
-      "url": "/visualisations/dvc2609/Cambridge/Fig4/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Cambridge/Fig4/index.html",
+      "url_new": "/visualisations/dvc2609/Cambridge/Fig4/index.html"
     },
     {
       "type": "p",
@@ -442,7 +448,8 @@
       "h4": "Figure 5: Cambridge's younger age groups are typically more ethnically diverse than older age groups for both males and females ",
       "h5": null,
       "title": "Figure 5: Cambridge's younger age groups are typically more ethnically diverse than older age groups for both males and females ",
-      "url": "/visualisations/dvc2609/Cambridge/Fig5a/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Cambridge/Fig5a/index.html",
+      "url_new": "/visualisations/dvc2609/Cambridge/Fig5a/index.html"
     },
     {
       "type": "p",
@@ -467,7 +474,8 @@
       "h4": "Figure 5: Cambridge's younger age groups are typically more ethnically diverse than older age groups for both males and females ",
       "h5": null,
       "title": "Figure 5: Cambridge's younger age groups are typically more ethnically diverse than older age groups for both males and females ",
-      "url": "/visualisations/dvc2609/Cambridge/Fig5b/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Cambridge/Fig5b/index.html",
+      "url_new": "/visualisations/dvc2609/Cambridge/Fig5b/index.html"
     },
     {
       "type": "p",
@@ -533,7 +541,8 @@
       "h4": "Figure 6: Median occupied address net income is higher than the average for England across many local areas in Cambridge",
       "h5": null,
       "title": "Figure 6: Median occupied address net income is higher than the average for England across many local areas in Cambridge",
-      "url": "/visualisations/dvc2609/Cambridge/Fig6/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Cambridge/Fig6/index.html",
+      "url_new": "/visualisations/dvc2609/Cambridge/Fig6/index.html"
     },
     {
       "type": "li",
@@ -599,7 +608,8 @@
       "h4": "Figure 7: Income measures in the admin-based income by ethnicity statistics (ABIES) dataset for Cambridge show variation between ethnic groups",
       "h5": null,
       "title": "Figure 7: Income measures in the ABIES dataset for Cambridge show variation between ethnic groups ",
-      "url": "/visualisations/dvc2609/Cambridge/Fig7/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Cambridge/Fig7/index.html",
+      "url_new": "/visualisations/dvc2609/Cambridge/Fig7/index.html"
     },
     {
       "type": "li",
@@ -639,8 +649,9 @@
       "h3": "Population sub-groups and characteristics in Cambridge ",
       "h4": "Figure 7: Income measures in the admin-based income by ethnicity statistics (ABIES) dataset for Cambridge show variation between ethnic groups",
       "h5": null,
-      "src": "/visualisations/dvc2609/images/2156_Housing-accomodation-and-living-arrangements_Illustration.png",
-      "alt": null
+      "src": "https://www.ons.gov.uk/visualisations/dvc2609/images/2156_Housing-accomodation-and-living-arrangements_Illustration.png",
+      "alt": null,
+      "src_new": "/visualisations/dvc2609/images/2156_Housing-accomodation-and-living-arrangements_Illustration.png"
     },
     {
       "type": "heading",
@@ -699,7 +710,8 @@
       "h4": "Figure 8: There are more Census 2021 households in Cambridge than occupied addresses in the admin-based occupied address dataset (ABOAD) ",
       "h5": null,
       "title": "Figure 8: There are more Census 2021 households in Cambridge than occupied addresses in the admin-based occupied address dataset (ABOAD) ",
-      "url": "/visualisations/dvc2609/Cambridge/Fig8/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Cambridge/Fig8/index.html",
+      "url_new": "/visualisations/dvc2609/Cambridge/Fig8/index.html"
     },
     {
       "type": "p",
@@ -741,7 +753,8 @@
       "h4": "Figure 9: Most residential addresses in Cambridge have one or two people living there ",
       "h5": null,
       "title": "Figure 9: Most residential addresses in Cambridge have one or two people living there ",
-      "url": "/visualisations/dvc2609/Cambridge/Fig9/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Cambridge/Fig9/index.html",
+      "url_new": "/visualisations/dvc2609/Cambridge/Fig9/index.html"
     },
     {
       "type": "p",
@@ -831,7 +844,8 @@
       "h4": "Figure 10: Dwellings in Cambridge most commonly have five rooms ",
       "h5": null,
       "title": "Figure 10: Dwellings  in Cambridge  most commonly have five rooms ",
-      "url": "/visualisations/dvc2609/Cambridge/Fig10/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Cambridge/Fig10/index.html",
+      "url_new": "/visualisations/dvc2609/Cambridge/Fig10/index.html"
     },
     {
       "type": "li",
@@ -905,7 +919,8 @@
       "h4": "Figure 11: A large proportion of Cambridge’s housing stock was built before 1919",
       "h5": null,
       "title": "Figure 11: A large proportion of Cambridge’s housing stock was built before 1919 ",
-      "url": "/visualisations/dvc2609/Cambridge/Fig11/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Cambridge/Fig11/index.html",
+      "url_new": "/visualisations/dvc2609/Cambridge/Fig11/index.html"
     },
     {
       "type": "p",
@@ -963,7 +978,8 @@
       "h4": "Figure 12: Terraced houses are the most common Valuation Office Agency (VOA) accommodation type for all ethnic groups in Cambridge",
       "h5": null,
       "title": "Figure 12: Terraced houses are the most common VOA accommodation type for all ethnic groups in Cambridge ",
-      "url": "/visualisations/dvc2609/Cambridge/Fig12/vis/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Cambridge/Fig12/vis/index.html",
+      "url_new": "/visualisations/dvc2609/Cambridge/Fig12/vis/index.html"
     },
     {
       "type": "li",
@@ -1037,7 +1053,8 @@
       "h4": "Figure 13: Individuals in the \"Black\" and \"Other\" ethnic groups are less likely to live in dwellings with four or more bedrooms compared with all other ethnic groups ",
       "h5": null,
       "title": "Figure 13: Individuals in the “Black” and “Other” ethnic groups are less likely to live in dwellings with four or more bedrooms compared with all other ethnic groups ",
-      "url": "/visualisations/dvc2609/Cambridge/Fig13/vis/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Cambridge/Fig13/vis/index.html",
+      "url_new": "/visualisations/dvc2609/Cambridge/Fig13/vis/index.html"
     },
     {
       "type": "li",
@@ -1191,7 +1208,8 @@
       "h4": "Figure 14: The most common age group of communal establishment residents in Cambridge was those aged 16 to 24 years for both males and females",
       "h5": null,
       "title": "Figure 14: The most common age group of communal establishment residents in Cambridge was those aged 16 to 24 years for both males and females ",
-      "url": "/visualisations/dvc2609/Cambridge/Fig14/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2609/Cambridge/Fig14/index.html",
+      "url_new": "/visualisations/dvc2609/Cambridge/Fig14/index.html"
     },
     {
       "type": "li",

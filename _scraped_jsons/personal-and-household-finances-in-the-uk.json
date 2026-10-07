@@ -50,7 +50,7 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "This article is part of a [series of UK Perspectives](/visualisations/20170726163612/https://visual.ons.gov.uk/uk-perspectives-an-introduction/) providing an overview of the social and economic changes of the nation over the last three decades. It presents some key statistics relating to personal and household finances."
+      "text": "This article is part of a [series of UK Perspectives](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/uk-perspectives-an-introduction/) providing an overview of the social and economic changes of the nation over the last three decades. It presents some key statistics relating to personal and household finances."
     },
     {
       "type": "heading",
@@ -104,7 +104,8 @@
       "h4": "Real Household Disposable Income (RHDI) per head of the population, UK, 1997 to 2013",
       "h5": null,
       "title": "Real Household Disposable Income (RHDI) per head of the population, 1997 to 2013",
-      "url": "/visualisations/nesscontent/dvc230/Finance_Chart1/Finance_Chart1.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc230/Finance_Chart1/Finance_Chart1.html",
+      "url_new": "/visualisations/nesscontent/dvc230/Finance_Chart1/Finance_Chart1.html"
     },
     {
       "type": "p",
@@ -112,7 +113,7 @@
       "h3": null,
       "h4": "Real Household Disposable Income (RHDI) per head of the population, UK, 1997 to 2013",
       "h5": null,
-      "text": "[Download the data for this chart.](/visualisations/20170726163612/https://visual.ons.gov.uk/wp-content/uploads/2015/02/Fig-1-RHDI-per-head.csv)"
+      "text": "[Download the data for this chart.](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/wp-content/uploads/2015/02/Fig-1-RHDI-per-head.csv)"
     },
     {
       "type": "p",
@@ -165,7 +166,8 @@
       "h3": null,
       "h4": "Real equivalised household disposable income1, UK, 1980 to financial year ending 20132",
       "h5": null,
-      "text": "<ons-interactive url=\"/visualisations/nesscontent/dvc230/Finance_Chart2/Finance_Chart2.html\" full-width=\"false\" title=\"Real equivalised household disposable income1,Â� UK, 1980 to financial year ending 20132 \"\"\"\"\"\"\"/>"
+      "text": "<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc230/Finance_Chart2/Finance_Chart2.html\" full-width=\"false\" title=\"Real equivalised household disposable income1,Â� UK, 1980 to financial year ending 20132 \"\"\"\"\"\"\"/>",
+      "text_new": "<ons-interactive url=\"/visualisations/nesscontent/dvc230/Finance_Chart2/Finance_Chart2.html\" full-width=\"false\" title=\"Real equivalised household disposable income1,Â� UK, 1980 to financial year ending 20132 \"\"\"\"\"\"\"/>"
     },
     {
       "type": "p",
@@ -173,7 +175,7 @@
       "h3": null,
       "h4": "Real equivalised household disposable income1, UK, 1980 to financial year ending 20132",
       "h5": null,
-      "text": "[Download the data for this chart.](/visualisations//visual/2015/02/Fig-2-Equivalised-RHDI-by-richest-poorest-and-median-households.csv)"
+      "text": "[Download the data for this chart.](https://static.ons.gov.uk/visual/2015/02/Fig-2-Equivalised-RHDI-by-richest-poorest-and-median-households.csv)"
     },
     {
       "type": "p",
@@ -234,7 +236,8 @@
       "h3": null,
       "h4": "Percentage of people living in relative low income, UK, financial year ending 1999 to financial year ending 2013",
       "h5": null,
-      "text": "<ons-interactive url=\"/visualisations/nesscontent/dvc230/Finance_Chart3/Finance_Chart3.html\" full-width=\"false\" title=\"Percentage of people living in relative low income, UK,Â� financial year ending 1999 to financial year ending 2013 \"\"\"\"\"\"\"/>"
+      "text": "<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc230/Finance_Chart3/Finance_Chart3.html\" full-width=\"false\" title=\"Percentage of people living in relative low income, UK,Â� financial year ending 1999 to financial year ending 2013 \"\"\"\"\"\"\"/>",
+      "text_new": "<ons-interactive url=\"/visualisations/nesscontent/dvc230/Finance_Chart3/Finance_Chart3.html\" full-width=\"false\" title=\"Percentage of people living in relative low income, UK,Â� financial year ending 1999 to financial year ending 2013 \"\"\"\"\"\"\"/>"
     },
     {
       "type": "p",
@@ -242,7 +245,7 @@
       "h3": null,
       "h4": "Percentage of people living in relative low income, UK, financial year ending 1999 to financial year ending 2013",
       "h5": null,
-      "text": "[Download the data for this chart.](/visualisations/20170726163612/https://visual.ons.gov.uk/wp-content/uploads/2015/02/Fig-3-Relative-low-income.csv)"
+      "text": "[Download the data for this chart.](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/wp-content/uploads/2015/02/Fig-3-Relative-low-income.csv)"
     },
     {
       "type": "p",
@@ -325,7 +328,8 @@
       "h4": "Annual growth rates in average weekly regular pay in Great Britain and the UK Consumer Prices Index (CPI), 2001 to 2014",
       "h5": null,
       "title": "Annual growth rates in average weekly regular pay in Great BritainÂ� and the UK Consumer Prices Index (CPI), 2001 to 2014",
-      "url": "/visualisations/nesscontent/dvc230/Finance_Chart4/Finance_Chart4.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc230/Finance_Chart4/Finance_Chart4.html",
+      "url_new": "/visualisations/nesscontent/dvc230/Finance_Chart4/Finance_Chart4.html"
     },
     {
       "type": "p",
@@ -333,7 +337,7 @@
       "h3": null,
       "h4": "Annual growth rates in average weekly regular pay in Great Britain and the UK Consumer Prices Index (CPI), 2001 to 2014",
       "h5": null,
-      "text": "[Download the data for this chart.](/visualisations/20170726163612/https://visual.ons.gov.uk/wp-content/uploads/2015/02/Fig-4-Cost-of-living1.csv)"
+      "text": "[Download the data for this chart.](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/wp-content/uploads/2015/02/Fig-4-Cost-of-living1.csv)"
     },
     {
       "type": "p",
@@ -391,7 +395,8 @@
       "h4": null,
       "h5": null,
       "title": "Interactive chart - UK in a European context",
-      "url": "/visualisations/nesscontent/dvc230/Finance_Chart5/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc230/Finance_Chart5/index.html",
+      "url_new": "/visualisations/nesscontent/dvc230/Finance_Chart5/index.html"
     },
     {
       "type": "heading",
@@ -426,7 +431,8 @@
       "h4": "Percentage of household disposable income5, spent on energy6, UK, 2002 to 2012",
       "h5": null,
       "title": "Percentage of household disposable income<sup>5<\/sup>,Â� spent on energy<sup>6<\/sup>, UK, 2002 to 2012",
-      "url": "/visualisations/nesscontent/dvc230/Finance_Chart6/Finance_Chart6.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc230/Finance_Chart6/Finance_Chart6.html",
+      "url_new": "/visualisations/nesscontent/dvc230/Finance_Chart6/Finance_Chart6.html"
     },
     {
       "type": "p",
@@ -434,7 +440,7 @@
       "h3": null,
       "h4": "Percentage of household disposable income5, spent on energy6, UK, 2002 to 2012",
       "h5": null,
-      "text": "[Download the data for this chart.](/visualisations/20170726163612/https://visual.ons.gov.uk/wp-content/uploads/2015/02/Fig-6-Disposable-income-spent-on-household-energy.csv)"
+      "text": "[Download the data for this chart.](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/wp-content/uploads/2015/02/Fig-6-Disposable-income-spent-on-household-energy.csv)"
     },
     {
       "type": "p",

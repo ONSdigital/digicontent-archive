@@ -84,7 +84,8 @@
       "h4": "Children aged 11 - 16 from unhealthy functioning families more likely to have a mental disorder",
       "h5": null,
       "title": "Children aged 11 - 16 from unhealthy functioning families more likely to have a mental disorder Percent of children with a mental disorder by family functioning and age group, England, 2017",
-      "url": "/visualisations/dvc598/chart_familyfunc/splitbar/"
+      "url": "https://www.ons.gov.uk/visualisations/dvc598/chart_familyfunc/splitbar/",
+      "url_new": "/visualisations/dvc598/chart_familyfunc/splitbar/"
     },
     {
       "type": "p",
@@ -159,7 +160,8 @@
       "h4": "Children whose parents had poor mental health more likely to have a mental disorder",
       "h5": null,
       "title": "Children whose parents had poor mental health more likely to have a mental disorder Percent of children with a mental disorder by parental mental health and age group, England, 2017",
-      "url": "/visualisations/dvc598/chart_pmental/splitbar/"
+      "url": "https://www.ons.gov.uk/visualisations/dvc598/chart_pmental/splitbar/",
+      "url_new": "/visualisations/dvc598/chart_pmental/splitbar/"
     },
     {
       "type": "p",
@@ -226,7 +228,8 @@
       "h4": "Children whose parents receive welfare benefits more likely to experience a mental disorder",
       "h5": null,
       "title": "Children whose parents receive welfare benefits more likely to experience a mental disorder Percent of children with a mental disorder, by receipt of welfare benefits and age group, England, 2017",
-      "url": "/visualisations/dvc598/chart_benefit/splitbar/"
+      "url": "https://www.ons.gov.uk/visualisations/dvc598/chart_benefit/splitbar/",
+      "url_new": "/visualisations/dvc598/chart_benefit/splitbar/"
     },
     {
       "type": "p",
@@ -301,7 +304,8 @@
       "h4": "Secondary school aged children from single lone parent families experience higher rates of mental disorders",
       "h5": null,
       "title": "Secondary school aged children from single lone parent families experience higher rates of mental disorders Percent of children with a mental disorder by marital status and age group, England, 2017",
-      "url": "/visualisations/dvc598/chart_marital/splitbar/"
+      "url": "https://www.ons.gov.uk/visualisations/dvc598/chart_marital/splitbar/",
+      "url_new": "/visualisations/dvc598/chart_marital/splitbar/"
     },
     {
       "type": "p",
@@ -335,7 +339,8 @@
       "h4": "5 to 10 year olds whose parents have no qualifications more likely to have a mental disorder",
       "h5": null,
       "title": "5 to 10 year olds whose parents have no qualifications more likely to have a mental disorder Percent of children with a mental disorder by parental qualification and age group, England, 2017",
-      "url": "/visualisations/dvc598/chart_qual/splitbar/"
+      "url": "https://www.ons.gov.uk/visualisations/dvc598/chart_qual/splitbar/",
+      "url_new": "/visualisations/dvc598/chart_qual/splitbar/"
     },
     {
       "type": "heading",
@@ -361,7 +366,8 @@
       "h4": null,
       "h5": null,
       "title": "Young peoples mental health data explorer",
-      "url": "/visualisations/dvc598/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc598/index.html",
+      "url_new": "/visualisations/dvc598/index.html"
     },
     {
       "type": "heading",
@@ -512,7 +518,7 @@
       "h5": "Other (less common disorders)",
       "box_h2": "Contact",
       "box_h3": null,
-      "box_text": "Tim Vizard or Jodie Davis\n[socialsurveys@ons.gov.uk](mailto:socialsurveys@ons.gov.uk)\n",
+      "box_text": "Tim Vizard or Jodie Davis\n[socialsurveys@ons.gov.uk](mailto:socialsurveys@ons.gov.uk )\n",
       "box_items": null
     }
   ],

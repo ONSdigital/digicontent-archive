@@ -194,7 +194,8 @@
       "h4": "Only half of free school meals students earned more than £17,000 aged 30 years",
       "h5": "Pay As You Earn (PAYE) earnings distribution at age 30 years by free school meal recipient status, tax years ending 2017 to 2019.",
       "title": "Only half of free school meals students earned more than £17,000 aged 30 years",
-      "url": "/visualisations/dvc2083/Fig_1_Earnings_percentiles/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2083/Fig_1_Earnings_percentiles/index.html",
+      "url_new": "/visualisations/dvc2083/Fig_1_Earnings_percentiles/index.html"
     },
     {
       "type": "heading",
@@ -228,7 +229,8 @@
       "h3": "Half of free school meals students earned £17,000 or less aged 30 years",
       "h4": "Only half of free school meals students earned more than £17,000 aged 30 years",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2083/Fig_1_Earnings_percentiles/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2083/Fig_1_Earnings_percentiles/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2083/Fig_1_Earnings_percentiles/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -312,7 +314,8 @@
       "h4": "Pay diverges around university leaving age",
       "h5": "Average Pay As You Earn (PAYE) earnings for young adults by gender and free school meal recipient status, tax years ending 2005 to 2019",
       "title": "Pay diverges with age for young adults by gender and free school meal recipient status",
-      "url": "/visualisations/dvc2083/Fig_2_Earnings_age_gender/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2083/Fig_2_Earnings_age_gender/index.html",
+      "url_new": "/visualisations/dvc2083/Fig_2_Earnings_age_gender/index.html"
     },
     {
       "type": "heading",
@@ -346,7 +349,8 @@
       "h3": "Earnings gap for free school meals students widens with age",
       "h4": "Pay diverges around university leaving age",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2083/Fig_2_Earnings_age_gender/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2083/Fig_2_Earnings_age_gender/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2083/Fig_2_Earnings_age_gender/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -405,7 +409,8 @@
       "h4": "Students on free school meals are less likely to go to university",
       "h5": "Highest level of qualification attained by age 30 years by free school meal recipient status, academic years ending 2002 to 2019",
       "title": "Highest level of qualification attained by age 30 years by free school meal recipient status",
-      "url": "/visualisations/dvc2083/Fig_3_Highest_Level_Qual/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2083/Fig_3_Highest_Level_Qual/index.html",
+      "url_new": "/visualisations/dvc2083/Fig_3_Highest_Level_Qual/index.html"
     },
     {
       "type": "heading",
@@ -439,7 +444,8 @@
       "h3": "Earnings gap for free school meals students widens with age",
       "h4": "Students on free school meals are less likely to go to university",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2083/Fig_3_Highest_Level_Qual/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2083/Fig_3_Highest_Level_Qual/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2083/Fig_3_Highest_Level_Qual/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -507,7 +513,8 @@
       "h4": "Independent school pupils generally have the highest earnings for any qualification level",
       "h5": "Average Pay As You Earn (PAYE) earnings for young adults by highest level of qualification and free school meal recipient status, tax years ending 2005 to 2019",
       "title": "Independent school pupils generally have the highest earnings for any qualification level",
-      "url": "/visualisations/dvc2083/Fig_4_Earnings_age_HLQ/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2083/Fig_4_Earnings_age_HLQ/index.html",
+      "url_new": "/visualisations/dvc2083/Fig_4_Earnings_age_HLQ/index.html"
     },
     {
       "type": "heading",
@@ -524,7 +531,8 @@
       "h3": "Disadvantaged pupils went on to earn less than others with the same level qualification",
       "h4": "Independent school pupils generally have the highest earnings for any qualification level",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2083/Fig_4_Earnings_age_HLQ/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2083/Fig_4_Earnings_age_HLQ/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2083/Fig_4_Earnings_age_HLQ/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -624,7 +632,8 @@
       "h4": "Top performing free school meals students earn similarly to average independent school pupils",
       "h5": "Age-earnings profile by key stage 4 (KS4) attainment, mean annual Pay As You Earn (PAYE) earnings, April 2019 prices",
       "title": "Top performing free school meals students earn similarly to average independent school pupils",
-      "url": "/visualisations/dvc2083/Fig_5_Earnings_age_KS4/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2083/Fig_5_Earnings_age_KS4/index.html",
+      "url_new": "/visualisations/dvc2083/Fig_5_Earnings_age_KS4/index.html"
     },
     {
       "type": "heading",
@@ -658,7 +667,8 @@
       "h3": "Educational KS4 attainment does not close the earnings gap",
       "h4": "Top performing free school meals students earn similarly to average independent school pupils",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2083/Fig_5_Earnings_age_KS4/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2083/Fig_5_Earnings_age_KS4/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2083/Fig_5_Earnings_age_KS4/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -742,7 +752,8 @@
       "h4": "Earnings gap only partly explained between free school meals students and the independently educated",
       "h5": "Raw and adjusted earnings gaps with free school meal recipients from average Pay As You Earn (PAYE) earnings at age 30 years, tax years ending 2017 to 2019",
       "title": "Earnings gap only partly explained between free school meals students and the independently educated",
-      "url": "/visualisations/dvc2083/Fig_6_Raw_adjusted_gaps/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2083/Fig_6_Raw_adjusted_gaps/index.html",
+      "url_new": "/visualisations/dvc2083/Fig_6_Raw_adjusted_gaps/index.html"
     },
     {
       "type": "heading",
@@ -776,7 +787,8 @@
       "h3": "Exploring the earnings gap by looking at factors together",
       "h4": "Earnings gap only partly explained between free school meals students and the independently educated",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2083/Fig_6_Raw_adjusted_gaps/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2083/Fig_6_Raw_adjusted_gaps/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2083/Fig_6_Raw_adjusted_gaps/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -868,7 +880,8 @@
       "h4": "Experience in work and education explain most of the earnings gap between free school meals recipients and other students",
       "h5": "Explained difference in the mean of log annual earnings from Pay As You Earn (PAYE) at age 30 years, tax years ending 2017 to 2019",
       "title": "Experience in work and education explain most of the earnings gap between free school meals recipients and other students, PAYE at age 30",
-      "url": "/visualisations/dvc2083/Fig_7_Decomposition/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2083/Fig_7_Decomposition/index.html",
+      "url_new": "/visualisations/dvc2083/Fig_7_Decomposition/index.html"
     },
     {
       "type": "heading",
@@ -902,7 +915,8 @@
       "h3": "Education and years in work drive almost all of earnings gap",
       "h4": "Experience in work and education explain most of the earnings gap between free school meals recipients and other students",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2083/Fig_7_Decomposition/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2083/Fig_7_Decomposition/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2083/Fig_7_Decomposition/datadownload.xlsx)"
     },
     {
       "type": "p",

@@ -118,8 +118,9 @@
       "chartbuilder_h3": "London had the highest proportion of deaths involving the coronavirus (COVID-19) between March and July 2020",
       "chartbuilder_h4": "Number of deaths involving and not involving the coronavirus (COVID-19), Wales and regions of England, deaths occurring between 1 March and 31 July 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup24to28august2020/2020-08-28/6f1afa5e",
-      "src": "/_scraped_chartbuilder_imgs/6f1afa5e.png",
-      "local_filename": "6f1afa5e.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup24to28august2020/2020-08-28/6f1afa5e&width=&hideSource=true",
+      "local_filename": "6f1afa5e.png",
+      "src_new": "/_scraped_chartbuilder_imgs/6f1afa5e.png"
     },
     {
       "type": "p",
@@ -186,7 +187,8 @@
       "h4": "Number of deaths involving COVID-19 in Middle Layer Super Output Areas, England and Wales, deaths occurring between 1 March and 31 July 2020",
       "h5": null,
       "title": "Interactive chart",
-      "url": "/visualisations/dvc957/map/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc957/map/index.html",
+      "url_new": "/visualisations/dvc957/map/index.html"
     },
     {
       "type": "heading",
@@ -368,7 +370,8 @@
       "h4": "There has been widespread decline in international air travel to the UK since March 2020",
       "h5": null,
       "title": "Interactive chart",
-      "url": "/visualisations/dvc953/fig6/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc953/fig6/index.html",
+      "url_new": "/visualisations/dvc953/fig6/index.html"
     },
     {
       "type": "p",
@@ -468,8 +471,9 @@
       "chartbuilder_h3": "The percentage of workless households has been decreasing since 2010",
       "chartbuilder_h4": "Percentage of households by combined economic status of all household members, UK, between April to June 1996 and April to June 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup24to28august2020/2020-08-28/93e41cf8",
-      "src": "/_scraped_chartbuilder_imgs/93e41cf8.png",
-      "local_filename": "93e41cf8.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup24to28august2020/2020-08-28/93e41cf8&width=&hideSource=true",
+      "local_filename": "93e41cf8.png",
+      "src_new": "/_scraped_chartbuilder_imgs/93e41cf8.png"
     },
     {
       "type": "p",
@@ -544,7 +548,8 @@
       "h4": "Falls in police recorded theft offences and rises in drug offences during lockdown compared with 2019 average",
       "h5": null,
       "title": "Interactive chart",
-      "url": "/visualisations/dvc946/types/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc946/types/index.html",
+      "url_new": "/visualisations/dvc946/types/index.html"
     },
     {
       "type": "heading",
@@ -661,7 +666,8 @@
       "h4": "Although people in Scotland were more likely to think that Britain will be united after the coronavirus pandemic than to think it was united before, they were less likely to say this than those in England or Wales",
       "h5": "Percentage of people reporting different levels of unity in Britain before and after the coronavirus (COVID-19) pandemic by country, Great Britain, 24 April to 28 June 2020",
       "title": "Interactive chart",
-      "url": "/visualisations/dvc947/fig2/wrapper/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc947/fig2/wrapper/index.html",
+      "url_new": "/visualisations/dvc947/fig2/wrapper/index.html"
     },
     {
       "type": "p",
@@ -762,7 +768,7 @@
       "h5": null,
       "box_h2": "Contact",
       "box_h3": null,
-      "box_text": "[digitalcontent@ons.gov.uk](mailto:digitalcontent@ons.gov.uk)\n",
+      "box_text": "[digitalcontent@ons.gov.uk](mailto:digitalcontent@ons.gov.uk )\n",
       "box_items": null
     }
   ],

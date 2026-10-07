@@ -101,7 +101,8 @@
       "h4": "Proportion of employee jobs paid less than the living wage, Local Authorities of GB, 2014",
       "h5": null,
       "title": "Proportion of employee jobs paid less than the living wage, Local Authorities of GB, 2014",
-      "url": "/visualisations/nesscontent/dvc289/lwmap/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc289/lwmap/index.html",
+      "url_new": "/visualisations/nesscontent/dvc289/lwmap/index.html"
     },
     {
       "type": "p",
@@ -109,7 +110,7 @@
       "h3": "Find out how many jobs are paid below the living wage in your area:",
       "h4": "Proportion of employee jobs paid less than the living wage, Local Authorities of GB, 2014",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2015/10/data2-1.csv)"
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2015/10/data2-1.csv)"
     },
     {
       "type": "heading",
@@ -160,7 +161,8 @@
       "h4": "Proportion of employee jobs paid less than the living wage by age, UK, 2014",
       "h5": null,
       "title": "Proportion of employee jobs paid less than the living wage by age, UK, 2014",
-      "url": "/visualisations/nesscontent/dvc289/lwage/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc289/lwage/index.html",
+      "url_new": "/visualisations/nesscontent/dvc289/lwage/index.html"
     },
     {
       "type": "heading",
@@ -186,7 +188,8 @@
       "h4": "Proportion of employee jobs paid less than the living wage by sex, UK, 2014",
       "h5": null,
       "title": "Proportion of employee jobs paid less than the living wage by sex, UK, 2014",
-      "url": "/visualisations/nesscontent/dvc289/lwsex/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc289/lwsex/index.html",
+      "url_new": "/visualisations/nesscontent/dvc289/lwsex/index.html"
     },
     {
       "type": "p",
@@ -236,7 +239,8 @@
       "h4": "Proportion of employee jobs paid less than the living wage by selected industries, UK, 2014",
       "h5": null,
       "title": "Proportion of employee jobs paid less than the living wage by selected industries, UK, 2014",
-      "url": "/visualisations/nesscontent/dvc289/lwocc/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc289/lwocc/index.html",
+      "url_new": "/visualisations/nesscontent/dvc289/lwocc/index.html"
     },
     {
       "type": "p",

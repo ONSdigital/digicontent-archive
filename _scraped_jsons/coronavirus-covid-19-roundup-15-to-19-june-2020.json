@@ -109,7 +109,8 @@
       "h4": "Age-standardised mortality rate of death involving COVID-19 for those aged 9 to 64 years by sex and religious group, England and Wales, 2 March to 15 May 2020",
       "h5": null,
       "title": "Age-standardised mortality rate of death involving COVID-19 for those aged 9 to 64 years by sex and religious group, England and Wales, 2 March to 15 May 2020",
-      "url": "/visualisations/dvc865/fig1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc865/fig1/index.html",
+      "url_new": "/visualisations/dvc865/fig1/index.html"
     },
     {
       "type": "heading",
@@ -166,7 +167,8 @@
       "h3": null,
       "h4": "Age-standardised mortality rate of death involving COVID-19 for those aged 9 to 64 years by sex and religious group, England and Wales, 2 March to 15 May 2020",
       "h5": "Notes:",
-      "text": "[Download the data](/visualisations/dvc865/fig1/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc865/fig1/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc865/fig1/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -200,7 +202,8 @@
       "h4": "Age-standardised COVID-19-related mortality rates for those aged 65 years and over by sex and religious group, England and Wales, 2 March to 15 May 2020",
       "h5": null,
       "title": "Age-standardised COVID-19-related mortality rates for those aged 65 years and over by sex and religious group, England and Wales, 2 March to 15 May 2020",
-      "url": "/visualisations/dvc865/fig2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc865/fig2/index.html",
+      "url_new": "/visualisations/dvc865/fig2/index.html"
     },
     {
       "type": "heading",
@@ -249,7 +252,8 @@
       "h3": null,
       "h4": "Age-standardised COVID-19-related mortality rates for those aged 65 years and over by sex and religious group, England and Wales, 2 March to 15 May 2020",
       "h5": "Notes:",
-      "text": "[Download the data](/visualisations/dvc865/fig2/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc865/fig2/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc865/fig2/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -624,8 +628,9 @@
       "chartbuilder_h3": "In the three months to May 2020, the volume of retail sales decreased by a record 12.8%",
       "chartbuilder_h4": "Seasonally adjusted, Great Britain, May 2015 to May 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup15to19june2020/2020-06-19/807eab34",
-      "src": "/_scraped_chartbuilder_imgs/807eab34.png",
-      "local_filename": "807eab34.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup15to19june2020/2020-06-19/807eab34&width=&hideSource=true",
+      "local_filename": "807eab34.png",
+      "src_new": "/_scraped_chartbuilder_imgs/807eab34.png"
     },
     {
       "type": "p",
@@ -660,8 +665,9 @@
       "chartbuilder_h3": "There has been a sharp uplift in already increasing sales for non-store retailing during the coronavirus pandemic, while non-food stores and fuel show growth in May from the lowest levels on record in April 2020",
       "chartbuilder_h4": "Seasonally adjusted, Great Britain, May 2015 to May 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup15to19june2020/2020-06-19/1133467b",
-      "src": "/_scraped_chartbuilder_imgs/1133467b.png",
-      "local_filename": "1133467b.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup15to19june2020/2020-06-19/1133467b&width=&hideSource=true",
+      "local_filename": "1133467b.png",
+      "src_new": "/_scraped_chartbuilder_imgs/1133467b.png"
     },
     {
       "type": "p",
@@ -745,7 +751,8 @@
       "h4": "Nearly one in five students who deferred went on to gain a first-class degree",
       "h5": "Percentage of 16- to 35-year-olds with degree, by whether they deferred, UK, 2019",
       "title": "Nearly one in five students who deferred went on to gain a first-class degree",
-      "url": "/visualisations/dvc860/education/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc860/education/index.html",
+      "url_new": "/visualisations/dvc860/education/index.html"
     },
     {
       "type": "p",
@@ -753,7 +760,8 @@
       "h3": null,
       "h4": "Nearly one in five students who deferred went on to gain a first-class degree",
       "h5": "Percentage of 16- to 35-year-olds with degree, by whether they deferred, UK, 2019",
-      "text": "[Download the data](/visualisations/dvc860/datadownload.xlsx)"
+      "text": "[Download the data](http://www.ons.gov.uk/visualisations/dvc860/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc860/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -820,7 +828,8 @@
       "h4": "People who deferred going to university are now more likely to be in a high-skilled job than those who went straight from school",
       "h5": "Percentage of 16- to 35-year-olds in high-, mid- and low-skilled jobs, by whether they deferred, UK, 2008 and 2019",
       "title": "People who deferred going to university are now more likely to be in a high-skilled job than those who went straight from school",
-      "url": "/visualisations/dvc860/work/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc860/work/index.html",
+      "url_new": "/visualisations/dvc860/work/index.html"
     },
     {
       "type": "heading",
@@ -845,7 +854,8 @@
       "h3": null,
       "h4": "People who deferred going to university are now more likely to be in a high-skilled job than those who went straight from school",
       "h5": "Notes:",
-      "text": "[Download the data](/visualisations/dvc860/datadownload.xlsx)"
+      "text": "[Download the data](http://www.ons.gov.uk/visualisations/dvc860/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc860/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -929,8 +939,9 @@
       "chartbuilder_h3": "Parents’ economic well-being has been affected more than those without children in the house",
       "chartbuilder_h4": "Comparisons of Economic well-being between parents and non-parents, UK, 3 April 2020 – 10 May 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup15to19june2020/2020-06-19/b4cfd000",
-      "src": "/_scraped_chartbuilder_imgs/b4cfd000.png",
-      "local_filename": "b4cfd000.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup15to19june2020/2020-06-19/b4cfd000&width=&hideSource=true",
+      "local_filename": "b4cfd000.png",
+      "src_new": "/_scraped_chartbuilder_imgs/b4cfd000.png"
     },
     {
       "type": "p",
@@ -1152,7 +1163,8 @@
       "h4": "Those reporting that they “Always” or “Often” feel lonely were almost five times more likely to have higher levels of anxiety than those who “never” feel lonely",
       "h5": "Odds ratios of factors affecting high anxiety, Great Britain, 3 April and 10 May 2020",
       "title": "Interactive chart",
-      "url": "/visualisations/dvc835/orsmall/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc835/orsmall/index.html",
+      "url_new": "/visualisations/dvc835/orsmall/index.html"
     },
     {
       "type": "heading",

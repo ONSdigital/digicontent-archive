@@ -50,7 +50,8 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[](/visualisations//visual/2015/07/image.png)"
+      "text": "[](https://static.ons.gov.uk/visual/2015/07/image.png)",
+      "text_new": "[](/visual/2015/07/image.png)"
     },
     {
       "type": "image",
@@ -58,8 +59,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations//visual/2015/07/image.png",
-      "alt": null
+      "src": "https://static.ons.gov.uk/visual/2015/07/image.png",
+      "alt": null,
+      "src_new": "/visual/2015/07/image.png"
     },
     {
       "type": "p",
@@ -110,7 +112,8 @@
       "h4": "Average financial capability score by measure and sex, Great Britain, 2010/12",
       "h5": null,
       "title": "Average financial capability score by measure and sex, Great Britain, 2010/12",
-      "url": "/visualisations/nesscontent/dvc271/FinCap1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc271/FinCap1/index.html",
+      "url_new": "/visualisations/nesscontent/dvc271/FinCap1/index.html"
     },
     {
       "type": "p",
@@ -161,7 +164,8 @@
       "h4": "Average financial capability score by measure and age, Great Britain, 2010/12",
       "h5": null,
       "title": "Average financial capability score by measure and age, Great Britain, 2010/12",
-      "url": "/visualisations/nesscontent/dvc271/FinCap2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc271/FinCap2/index.html",
+      "url_new": "/visualisations/nesscontent/dvc271/FinCap2/index.html"
     },
     {
       "type": "p",
@@ -212,7 +216,8 @@
       "h4": "Average financial capability score by measure and qualification level, Great Britain, 2010/12",
       "h5": null,
       "title": "Average financial capability score by measure and qualification level, Great Britain, 2010/12",
-      "url": "/visualisations/nesscontent/dvc271/FinCap3/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc271/FinCap3/index.html",
+      "url_new": "/visualisations/nesscontent/dvc271/FinCap3/index.html"
     },
     {
       "type": "p",
@@ -263,7 +268,8 @@
       "h4": "Average financial capability score by measure and income level, Great Britain, 2010/12",
       "h5": null,
       "title": "Average financial capability score by measure and income level, Great Britain, 2010/12",
-      "url": "/visualisations/nesscontent/dvc271/FinCap4/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc271/FinCap4/index.html",
+      "url_new": "/visualisations/nesscontent/dvc271/FinCap4/index.html"
     },
     {
       "type": "p",

@@ -77,7 +77,8 @@
       "h4": "8 out of the 10 local authorities experiencing the largest population growth are in London",
       "h5": "Map of population change in England and Wales, 2004-20141",
       "title": "Maps",
-      "url": "/visualisations/nesscontent/dvc264/map/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc264/map/index.html",
+      "url_new": "/visualisations/nesscontent/dvc264/map/index.html"
     },
     {
       "type": "heading",
@@ -112,7 +113,8 @@
       "h4": "Tower Hamlets experienced the largest population growth over the last decade at 34.5%",
       "h5": "Local authorities with the highest percentage increase in population, 2004-2014, England and Wales",
       "title": "Tower Hamlets experienced the largest population growth over the last decade at 34.5%",
-      "url": "/visualisations/nesscontent/dvc264/charts/Horizontal_bar_charttop/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc264/charts/Horizontal_bar_charttop/index.html",
+      "url_new": "/visualisations/nesscontent/dvc264/charts/Horizontal_bar_charttop/index.html"
     },
     {
       "type": "p",
@@ -171,7 +173,8 @@
       "h4": "Kensington and Chelsea saw the greatest decrease in population size over the last decade, at 5.8%",
       "h5": "Local authorities with the highest percentage decrease in population, 2004-2014, England and Wales",
       "title": "Kensington and Chelsea saw the greatest decrease in population size over the last decade, at 5.8%",
-      "url": "/visualisations/nesscontent/dvc264/charts/Horizontal_bar_chartbottom/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc264/charts/Horizontal_bar_chartbottom/index.html",
+      "url_new": "/visualisations/nesscontent/dvc264/charts/Horizontal_bar_chartbottom/index.html"
     },
     {
       "type": "p",

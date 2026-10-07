@@ -107,7 +107,8 @@
       "h3": "But just how large is the difference?",
       "h4": null,
       "h5": null,
-      "text": "[](/visualisations//visual/2016/12/GPG-formula.png) The Gender Pay Gap (GPG) is the primary measure used when comparing differences in pay between men and women. It is calculated using hourly pay (excluding overtime) for full-time employees.\n"
+      "text": "[](https://static.ons.gov.uk/visual/2016/12/GPG-formula.png) The Gender Pay Gap (GPG) is the primary measure used when comparing differences in pay between men and women. It is calculated using hourly pay (excluding overtime) for full-time employees.\n",
+      "text_new": "[](/visual/2016/12/GPG-formula.png) The Gender Pay Gap (GPG) is the primary measure used when comparing differences in pay between men and women. It is calculated using hourly pay (excluding overtime) for full-time employees.\n"
     },
     {
       "type": "image",
@@ -115,8 +116,9 @@
       "h3": "But just how large is the difference?",
       "h4": null,
       "h5": null,
-      "src": "/visualisations//visual/2016/12/GPG-formula.png",
-      "alt": null
+      "src": "https://static.ons.gov.uk/visual/2016/12/GPG-formula.png",
+      "alt": null,
+      "src_new": "/visual/2016/12/GPG-formula.png"
     },
     {
       "type": "p",
@@ -158,7 +160,8 @@
       "h4": null,
       "h5": null,
       "title": "Test your knowledge on the difference between earnings of men and women in seven different occupations",
-      "url": "/visualisations/dvc384/original/quiz/quiz/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc384/original/quiz/quiz/index.html",
+      "url_new": "/visualisations/dvc384/original/quiz/quiz/index.html"
     },
     {
       "type": "p",
@@ -230,7 +233,8 @@
       "h3": "Test your knowledge on the difference between earnings of men and women in seven different occupations",
       "h4": null,
       "h5": null,
-      "text": "[](/visualisations//visual/2016/11/218px-Government_Equalities_Office_Logo.png)"
+      "text": "[](https://static.ons.gov.uk/visual/2016/11/218px-Government_Equalities_Office_Logo.png)",
+      "text_new": "[](/visual/2016/11/218px-Government_Equalities_Office_Logo.png)"
     },
     {
       "type": "image",
@@ -238,8 +242,9 @@
       "h3": "Test your knowledge on the difference between earnings of men and women in seven different occupations",
       "h4": null,
       "h5": null,
-      "src": "/visualisations//visual/2016/11/218px-Government_Equalities_Office_Logo.png",
-      "alt": null
+      "src": "https://static.ons.gov.uk/visual/2016/11/218px-Government_Equalities_Office_Logo.png",
+      "alt": null,
+      "src_new": "/visual/2016/11/218px-Government_Equalities_Office_Logo.png"
     },
     {
       "type": "heading",
@@ -256,7 +261,7 @@
       "h3": "Test your knowledge on the difference between earnings of men and women in seven different occupations",
       "h4": "Other Visual.ONS articles",
       "h5": null,
-      "text": "[Find out the gender pay gap for your job](/visualisations/20170726163612/https://visual.ons.gov.uk/find-out-the-gender-pay-gap-for-your-job)\n[Women shoulder the responsibility of ‘unpaid work’](https://visual.ons.gov.uk/the-value-of-your-unpaid-work/)\n[The gender pay gap – what is it and what affects it?](https://visual.ons.gov.uk/the-gender-pay-gap-what-is-it-and-what-affects-it/)\n"
+      "text": "[Find out the gender pay gap for your job](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/find-out-the-gender-pay-gap-for-your-job)\n[Women shoulder the responsibility of ‘unpaid work’](https://visual.ons.gov.uk/the-value-of-your-unpaid-work/)\n[The gender pay gap – what is it and what affects it?](https://visual.ons.gov.uk/the-gender-pay-gap-what-is-it-and-what-affects-it/)\n"
     },
     {
       "type": "p",

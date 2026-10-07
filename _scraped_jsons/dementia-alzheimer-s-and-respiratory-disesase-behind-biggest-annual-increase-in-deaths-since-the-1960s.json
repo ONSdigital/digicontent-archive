@@ -76,7 +76,8 @@
       "h4": "Registered deaths, England and Wales, 1995 to 2015",
       "h5": null,
       "title": "Registered deaths, England and Wales, 1995 to 2015",
-      "url": "/visualisations/nesscontent/dvc321/deaths1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc321/deaths1/index.html",
+      "url_new": "/visualisations/nesscontent/dvc321/deaths1/index.html"
     },
     {
       "type": "p",
@@ -167,7 +168,8 @@
       "h4": "Percentage change in age-specific mortality rates, England and Wales, 2014 to 2015",
       "h5": null,
       "title": "Percentage change in age-specific mortality rates, England and Wales, 2014 to 2015",
-      "url": "/visualisations/nesscontent/dvc321/deaths3/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc321/deaths3/index.html",
+      "url_new": "/visualisations/nesscontent/dvc321/deaths3/index.html"
     },
     {
       "type": "heading",

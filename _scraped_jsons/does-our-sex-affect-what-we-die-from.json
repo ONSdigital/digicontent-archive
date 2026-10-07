@@ -109,7 +109,8 @@
       "h4": "Death registrations by age, England and Wales, 2015",
       "h5": null,
       "title": "Death registrations by age, England and Wales, 2015",
-      "url": "/visualisations/github/dvc348/charts/linechart_death_1/line_chart/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/github/dvc348/charts/linechart_death_1/line_chart/index.html",
+      "url_new": "/visualisations/github/dvc348/charts/linechart_death_1/line_chart/index.html"
     },
     {
       "type": "p",
@@ -152,7 +153,8 @@
       "h4": "Distribution of death registrations by underlying cause, sex and age, England and Wales, 2015",
       "h5": null,
       "title": "Distribution of death registrations by underlying cause, sex and age, England and Wales, 2015",
-      "url": "/visualisations/github/dvc348/interactive/stackedpyramid/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/github/dvc348/interactive/stackedpyramid/index.html",
+      "url_new": "/visualisations/github/dvc348/interactive/stackedpyramid/index.html"
     },
     {
       "type": "heading",
@@ -301,7 +303,8 @@
       "h4": "Deaths due to external causes, England and Wales, 2015",
       "h5": null,
       "title": "Deaths due to external causes, England and Wales, 2015",
-      "url": "/visualisations/github/dvc348/charts/linechart_death_2/line_chart/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/github/dvc348/charts/linechart_death_2/line_chart/index.html",
+      "url_new": "/visualisations/github/dvc348/charts/linechart_death_2/line_chart/index.html"
     },
     {
       "type": "p",
@@ -400,7 +403,8 @@
       "h4": "Deaths due to mental and behavioural disorders, England and Wales, 2015",
       "h5": null,
       "title": "Deaths due to mental and behavioural disorders, England and Wales, 2015",
-      "url": "/visualisations/github/dvc348/charts/linechart_death_3/line_chart/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/github/dvc348/charts/linechart_death_3/line_chart/index.html",
+      "url_new": "/visualisations/github/dvc348/charts/linechart_death_3/line_chart/index.html"
     },
     {
       "type": "p",
@@ -408,7 +412,7 @@
       "h3": "Twice as many women died of mental and behavioural disorders (including dementia and Alzheimer disease) aged 80 and over, compared with men, in 2015",
       "h4": "Deaths due to mental and behavioural disorders, England and Wales, 2015",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2016/07/data-2.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2016/07/data-2.csv)"
     },
     {
       "type": "p",
@@ -660,7 +664,7 @@
       "h3": "Twice as many women died of mental and behavioural disorders (including dementia and Alzheimer disease) aged 80 and over, compared with men, in 2015",
       "h4": "Footnotes:",
       "h5": null,
-      "text": "[ONS (2015) What do we die from?](/visualisations/20160105160709/http:/www.ons.gov.uk/ons/rel/vsob1/mortality-statistics--deaths-registered-in-england-and-wales--series-dr-/2014/sty-what-do-we-die-from.html)"
+      "text": "[ONS (2015) What do we die from?](http://webarchive.nationalarchives.gov.uk/20160105160709/http:/www.ons.gov.uk/ons/rel/vsob1/mortality-statistics--deaths-registered-in-england-and-wales--series-dr-/2014/sty-what-do-we-die-from.html)"
     },
     {
       "type": "li",

@@ -203,7 +203,8 @@
       "h4": "Antibody levels remained high in adults across the UK",
       "h5": "Modelled percentage of the adult population with levels of antibodies against SARS-CoV-2 at or above 179 nanograms per millilitre (ng/ml) or 800 ng/ml, by age group, UK countries, 7 December 2020 to 19 February 2023",
       "title": "antibodies age",
-      "url": "/visualisations/dvc2539/fig1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2539/fig1/index.html",
+      "url_new": "/visualisations/dvc2539/fig1/index.html"
     },
     {
       "type": "heading",
@@ -220,7 +221,8 @@
       "h3": null,
       "h4": "Antibody levels remained high in adults across the UK",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2539/fig1/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2539/fig1/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2539/fig1/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -319,7 +321,8 @@
       "h4": "The highest antibody levels were seen among those aged 65 years and over across the UK",
       "h5": "Modelled percentage of the population with levels of antibodies across varying levels from less than 179 nanograms per millilitre (ng/ml) to 6,000 ng/ml and above, 2 May 2022 to 19 February 2023",
       "title": "antibodies age",
-      "url": "/visualisations/dvc2539/fig3/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2539/fig3/index.html",
+      "url_new": "/visualisations/dvc2539/fig3/index.html"
     },
     {
       "type": "heading",
@@ -336,7 +339,8 @@
       "h3": null,
       "h4": "The highest antibody levels were seen among those aged 65 years and over across the UK",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2539/fig3/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2539/fig3/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2539/fig3/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -492,7 +496,8 @@
       "h4": "Antibody levels remained high at the 179 ng/ml level among children aged 12 to 15 years across Great Britain",
       "h5": "Modelled percentage of children with levels of antibodies against SARS-CoV-2 at or above 179 nanograms per millilitre (ng/ml) or 800 ng/ml, by age group, Great Britain, 29 November 2021 to 19 February 2023",
       "title": "antibodies age",
-      "url": "/visualisations/dvc2539/fig2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2539/fig2/index.html",
+      "url_new": "/visualisations/dvc2539/fig2/index.html"
     },
     {
       "type": "heading",
@@ -509,7 +514,8 @@
       "h3": null,
       "h4": "Antibody levels remained high at the 179 ng/ml level among children aged 12 to 15 years across Great Britain",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2539/fig2/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2539/fig2/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2539/fig2/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -585,8 +591,9 @@
       "chartbuilder_h3": "Antibody levels varied by age group",
       "chartbuilder_h4": "Estimated percentage of the population with levels of antibodies against SARS-CoV-2 at or above five antibody thresholds, by age group, UK, 8 August to 4 September 2022",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19latestinsights/antibodies/a466b66f",
-      "src": "/_scraped_chartbuilder_imgs/a466b66f.png",
-      "local_filename": "a466b66f.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19latestinsights/antibodies/a466b66f&width=&hideSource=true",
+      "local_filename": "a466b66f.png",
+      "src_new": "/_scraped_chartbuilder_imgs/a466b66f.png"
     },
     {
       "type": "p",
@@ -733,7 +740,8 @@
       "h4": null,
       "h5": null,
       "title": "Glossary",
-      "url": "/visualisations/covidgloss/covid_gloss/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/covidgloss/covid_gloss/index.html",
+      "url_new": "/visualisations/covidgloss/covid_gloss/index.html"
     },
     {
       "type": "p",

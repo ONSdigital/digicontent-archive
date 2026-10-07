@@ -103,7 +103,8 @@
       "h4": null,
       "h5": null,
       "title": "EnergyTiles",
-      "url": "/visualisations/dvc2389/tiles/wrappers/energy.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2389/tiles/wrappers/energy.html",
+      "url_new": "/visualisations/dvc2389/tiles/wrappers/energy.html"
     },
     {
       "type": "heading",
@@ -120,7 +121,8 @@
       "h3": "Explore by topic",
       "h4": null,
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2389/tiles/datadownloads/energy.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2389/tiles/datadownloads/energy.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2389/tiles/datadownloads/energy.xlsx)"
     },
     {
       "type": "heading",
@@ -250,8 +252,9 @@
       "h3": "How this affects you",
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc2389/images/Personal-inflation-calculator.png",
-      "alt": ""
+      "src": "https://www.ons.gov.uk/visualisations/dvc2389/images/Personal-inflation-calculator.png",
+      "alt": "",
+      "src_new": "/visualisations/dvc2389/images/Personal-inflation-calculator.png"
     },
     {
       "type": "image",
@@ -259,8 +262,9 @@
       "h3": "How this affects you",
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc2389/images/Impact-cost-of-living-adults.png",
-      "alt": ""
+      "src": "https://www.ons.gov.uk/visualisations/dvc2389/images/Impact-cost-of-living-adults.png",
+      "alt": "",
+      "src_new": "/visualisations/dvc2389/images/Impact-cost-of-living-adults.png"
     },
     {
       "type": "image",
@@ -268,8 +272,9 @@
       "h3": "How this affects you",
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc2389/images/Energy-efficient-local-area.png",
-      "alt": ""
+      "src": "https://www.ons.gov.uk/visualisations/dvc2389/images/Energy-efficient-local-area.png",
+      "alt": "",
+      "src_new": "/visualisations/dvc2389/images/Energy-efficient-local-area.png"
     },
     {
       "type": "heading",
@@ -319,7 +324,8 @@
       "h4": null,
       "h5": null,
       "title": "glossary",
-      "url": "/visualisations/dvc2389/gloss/widget_gloss/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2389/gloss/widget_gloss/index.html",
+      "url_new": "/visualisations/dvc2389/gloss/widget_gloss/index.html"
     },
     {
       "type": "box",

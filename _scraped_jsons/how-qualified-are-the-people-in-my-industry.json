@@ -165,7 +165,8 @@
       "h4": "Qualification index score for workers in each sector, England and Wales, 2021",
       "h5": null,
       "title": "Qualification index score for workers in each sector",
-      "url": "/visualisations/dvc2256/fig1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2256/fig1/index.html",
+      "url_new": "/visualisations/dvc2256/fig1/index.html"
     },
     {
       "type": "p",
@@ -320,7 +321,8 @@
       "h4": "Select an industrial sector to explore the qualification levels of the individual industries:",
       "h5": null,
       "title": "Industrial sectors explorer",
-      "url": "/visualisations/dvc2256/fig2/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2256/fig2/index.html",
+      "url_new": "/visualisations/dvc2256/fig2/index.html"
     },
     {
       "type": "p",
@@ -370,7 +372,8 @@
       "h4": "You can further explore the detailed qualification levels of these and all the other individual industries using the interactive visualisation.",
       "h5": null,
       "title": "Detailed qualification levels",
-      "url": "/visualisations/dvc2256/fig3/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2256/fig3/index.html",
+      "url_new": "/visualisations/dvc2256/fig3/index.html"
     },
     {
       "type": "heading",
@@ -446,7 +449,8 @@
       "h4": "The scatterplot shows the percentage of workers in each local authority who have higher education qualifications, by industry.",
       "h5": "",
       "title": "Map and scatterplot",
-      "url": "/visualisations/dvc2256/fig4-5-wrapper/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2256/fig4-5-wrapper/index.html",
+      "url_new": "/visualisations/dvc2256/fig4-5-wrapper/index.html"
     },
     {
       "type": "heading",

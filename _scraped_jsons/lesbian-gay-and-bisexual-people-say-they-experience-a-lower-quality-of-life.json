@@ -100,7 +100,8 @@
       "h4": "Difference in personal well-being ratings by self-reported sexual identity compared with UK average, 3 years ending December 2015",
       "h5": null,
       "title": "Difference in personal well-being ratings by self-reported sexual identity compared with UK average, 3 years ending December 2015",
-      "url": "/visualisations/dvc414/worthwhile/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc414/worthwhile/index.html",
+      "url_new": "/visualisations/dvc414/worthwhile/index.html"
     },
     {
       "type": "interactive",
@@ -109,7 +110,8 @@
       "h4": "Difference in personal well-being ratings by self-reported sexual identity compared with UK average, 3 years ending December 2015",
       "h5": null,
       "title": "Life Satisfaction",
-      "url": "/visualisations/dvc414/satisfaction/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc414/satisfaction/index.html",
+      "url_new": "/visualisations/dvc414/satisfaction/index.html"
     },
     {
       "type": "p",
@@ -126,7 +128,8 @@
       "h4": "Difference in personal well-being ratings by self-reported sexual identity compared with UK average, 3 years ending December 2015",
       "h5": null,
       "title": "Happiness",
-      "url": "/visualisations/dvc414/happiness/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc414/happiness/index.html",
+      "url_new": "/visualisations/dvc414/happiness/index.html"
     },
     {
       "type": "interactive",
@@ -135,7 +138,8 @@
       "h4": "Difference in personal well-being ratings by self-reported sexual identity compared with UK average, 3 years ending December 2015",
       "h5": null,
       "title": "Anxiety",
-      "url": "/visualisations/dvc414/anxiety/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc414/anxiety/index.html",
+      "url_new": "/visualisations/dvc414/anxiety/index.html"
     },
     {
       "type": "p",
@@ -143,7 +147,7 @@
       "h3": null,
       "h4": "Difference in personal well-being ratings by self-reported sexual identity compared with UK average, 3 years ending December 2015",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/07/data.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/07/data.csv)"
     },
     {
       "type": "p",
@@ -192,7 +196,8 @@
       "h3": "How big is the LGB community in the UK?",
       "h4": null,
       "h5": null,
-      "text": "[](/visualisations//visual/2017/07/Sexual-identity-2015-new.png) Note: Numbers do not add up to 100% due to rounding"
+      "text": "[](https://static.ons.gov.uk/visual/2017/07/Sexual-identity-2015-new.png) Note: Numbers do not add up to 100% due to rounding",
+      "text_new": "[](/visual/2017/07/Sexual-identity-2015-new.png) Note: Numbers do not add up to 100% due to rounding"
     },
     {
       "type": "image",
@@ -200,8 +205,9 @@
       "h3": "How big is the LGB community in the UK?",
       "h4": null,
       "h5": null,
-      "src": "/visualisations//visual/2017/07/Sexual-identity-2015-new.png",
-      "alt": null
+      "src": "https://static.ons.gov.uk/visual/2017/07/Sexual-identity-2015-new.png",
+      "alt": null,
+      "src_new": "/visual/2017/07/Sexual-identity-2015-new.png"
     },
     {
       "type": "heading",
@@ -299,7 +305,7 @@
       "h3": "What next?",
       "h4": null,
       "h5": null,
-      "text": "[Sexual identity in the UK in 2014](/visualisations/20170726163612/https://visual.ons.gov.uk/sexual-identity-in-the-uk-2014/)"
+      "text": "[Sexual identity in the UK in 2014](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/sexual-identity-in-the-uk-2014/)"
     },
     {
       "type": "p",

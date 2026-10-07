@@ -46,7 +46,7 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "This article, part of a [series of UK Perspectives](/visualisations/20170726163612/https://visual.ons.gov.uk/uk-perspectives-an-introduction/) providing an overview of the nation over the last three decades, presents some key statistics relating to national energy and emissions trends."
+      "text": "This article, part of a [series of UK Perspectives](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/uk-perspectives-an-introduction/) providing an overview of the nation over the last three decades, presents some key statistics relating to national energy and emissions trends."
     },
     {
       "type": "heading",
@@ -81,7 +81,8 @@
       "h4": "Energy consumption by final user1 (energy supplied basis) for the industry, transport and domestic sectors, UK, 1980 to 2013",
       "h5": null,
       "title": "Energy consumption by final user<sup>1<\/sup> (energy supplied basis) for the industry, transport and domestic sectors, UK, 1980 to 2013",
-      "url": "/visualisations/nesscontent/dvc231/Energy_Chart1/Energy_Chart1.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc231/Energy_Chart1/Energy_Chart1.html",
+      "url_new": "/visualisations/nesscontent/dvc231/Energy_Chart1/Energy_Chart1.html"
     },
     {
       "type": "p",
@@ -89,7 +90,7 @@
       "h3": null,
       "h4": "Energy consumption by final user1 (energy supplied basis) for the industry, transport and domestic sectors, UK, 1980 to 2013",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2015/02/1-UK-energy-consumption-by-final-user-.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2015/02/1-UK-energy-consumption-by-final-user-.csv)"
     },
     {
       "type": "p",
@@ -175,7 +176,8 @@
       "h4": "Energy import dependency, UK, 1980 to 2013",
       "h5": null,
       "title": "Energy import dependency, UK, 1980 to 2013",
-      "url": "/visualisations/nesscontent/dvc231/Energy_Chart2/Energy_Chart2.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc231/Energy_Chart2/Energy_Chart2.html",
+      "url_new": "/visualisations/nesscontent/dvc231/Energy_Chart2/Energy_Chart2.html"
     },
     {
       "type": "p",
@@ -183,7 +185,7 @@
       "h3": null,
       "h4": "Energy import dependency, UK, 1980 to 2013",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2015/02/2-Import-dependency.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2015/02/2-Import-dependency.csv)"
     },
     {
       "type": "p",
@@ -242,7 +244,8 @@
       "h4": "Electricity supplied3 by fuel type, UK, 1980 to 2013",
       "h5": null,
       "title": "Electricity supplied<sup>3<\/sup>Â� by fuel type, UK, 1980 to 2013",
-      "url": "/visualisations/nesscontent/dvc231/Energy_Chart3/Energy_Chart3.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc231/Energy_Chart3/Energy_Chart3.html",
+      "url_new": "/visualisations/nesscontent/dvc231/Energy_Chart3/Energy_Chart3.html"
     },
     {
       "type": "p",
@@ -250,7 +253,7 @@
       "h3": null,
       "h4": "Electricity supplied3 by fuel type, UK, 1980 to 2013",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2015/02/3-Electricity-supplied-by-fuel-type.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2015/02/3-Electricity-supplied-by-fuel-type.csv)"
     },
     {
       "type": "p",
@@ -328,7 +331,8 @@
       "h4": "Emissions of greenhouse gases4, UK and crown dependencies5, 1990 to 2013",
       "h5": null,
       "title": "Emissions of greenhouse gases<sup>4<\/sup>, UK and crown dependencies<sup>5<\/sup>, 1990 to 2013",
-      "url": "/visualisations/nesscontent/dvc231/Energy_Chart4/Energy_Chart4.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc231/Energy_Chart4/Energy_Chart4.html",
+      "url_new": "/visualisations/nesscontent/dvc231/Energy_Chart4/Energy_Chart4.html"
     },
     {
       "type": "p",
@@ -336,7 +340,7 @@
       "h3": null,
       "h4": "Emissions of greenhouse gases4, UK and crown dependencies5, 1990 to 2013",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2015/02/4-Emissions-of-greenhouse-gases.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2015/02/4-Emissions-of-greenhouse-gases.csv)"
     },
     {
       "type": "li",

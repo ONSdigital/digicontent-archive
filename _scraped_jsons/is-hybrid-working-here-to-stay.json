@@ -134,7 +134,8 @@
       "h4": "The proportion of homeworkers planning to work mostly from home rose 12 percentage points between April 2021 and February 2022",
       "h5": "Future plans of workers who worked from home because of the coronavirus pandemic, Great Britain, 21 to 25 April 2021 and 3 to 13 February 2022",
       "title": "future plans",
-      "url": "/visualisations/dvc1971/expectations/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1971/expectations/index.html",
+      "url_new": "/visualisations/dvc1971/expectations/index.html"
     },
     {
       "type": "p",
@@ -142,7 +143,8 @@
       "h3": null,
       "h4": "The proportion of homeworkers planning to work mostly from home rose 12 percentage points between April 2021 and February 2022",
       "h5": "Future plans of workers who worked from home because of the coronavirus pandemic, Great Britain, 21 to 25 April 2021 and 3 to 13 February 2022",
-      "text": "[Download the data for future working plans (XLSX, 18KB)](/visualisations/dvc1971/expectations/datadownload.xlsx)"
+      "text": "[Download the data for future working plans (XLSX, 18KB)](https://www.ons.gov.uk/visualisations/dvc1971/expectations/datadownload.xlsx)",
+      "text_new": "[Download the data for future working plans (XLSX, 18KB)](/visualisations/dvc1971/expectations/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -237,7 +239,8 @@
       "h4": "The proportion of workers hybrid working has risen slightly during spring 2022",
       "h5": "Percentage of working adults travelling to work, Great Britain, January 2021 to May 2022",
       "title": "time series",
-      "url": "/visualisations/dvc1971/time-series/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1971/time-series/index.html",
+      "url_new": "/visualisations/dvc1971/time-series/index.html"
     },
     {
       "type": "heading",
@@ -262,7 +265,8 @@
       "h3": null,
       "h4": "The proportion of workers hybrid working has risen slightly during spring 2022",
       "h5": "Notes:",
-      "text": "[Download the data for adults travelling to work (XLSX, 19KB)](/visualisations/dvc1971/time-series/datadownload.xlsx)"
+      "text": "[Download the data for adults travelling to work (XLSX, 19KB)](https://www.ons.gov.uk/visualisations/dvc1971/time-series/datadownload.xlsx)",
+      "text_new": "[Download the data for adults travelling to work (XLSX, 19KB)](/visualisations/dvc1971/time-series/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -370,7 +374,8 @@
       "h4": "Hybrid work was more common among higher earners",
       "h5": "Percentage of working adults, by income, Great Britain, 27 April to 8 May 2022",
       "title": "income band",
-      "url": "/visualisations/dvc1971/income-band/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1971/income-band/index.html",
+      "url_new": "/visualisations/dvc1971/income-band/index.html"
     },
     {
       "type": "p",
@@ -378,7 +383,8 @@
       "h3": null,
       "h4": "Hybrid work was more common among higher earners",
       "h5": "Percentage of working adults, by income, Great Britain, 27 April to 8 May 2022",
-      "text": "[Download the data for place of work by income (XLSX, 15KB)](/visualisations/dvc1971/income-band/datadownload.xlsx)"
+      "text": "[Download the data for place of work by income (XLSX, 15KB)](https://www.ons.gov.uk/visualisations/dvc1971/income-band/datadownload.xlsx)",
+      "text_new": "[Download the data for place of work by income (XLSX, 15KB)](/visualisations/dvc1971/income-band/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -438,7 +444,8 @@
       "h4": "Hybrid working was most common among workers aged 30 to 49 years",
       "h5": "Percentage of working adults, by age, Great Britain, 27 April to 8 May 2022",
       "title": "age group",
-      "url": "/visualisations/dvc1971/age-group/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1971/age-group/index.html",
+      "url_new": "/visualisations/dvc1971/age-group/index.html"
     },
     {
       "type": "p",
@@ -446,7 +453,8 @@
       "h3": null,
       "h4": "Hybrid working was most common among workers aged 30 to 49 years",
       "h5": "Percentage of working adults, by age, Great Britain, 27 April to 8 May 2022",
-      "text": "[Download the data place of work by age (XLSX, 15KB)](/visualisations/dvc1971/age-group/datadownload.xlsx)"
+      "text": "[Download the data place of work by age (XLSX, 15KB)](https://www.ons.gov.uk/visualisations/dvc1971/age-group/datadownload.xlsx)",
+      "text_new": "[Download the data place of work by age (XLSX, 15KB)](/visualisations/dvc1971/age-group/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -498,8 +506,9 @@
       "chartbuilder_h3": "The most common benefit of working from home was improved work life balance",
       "chartbuilder_h4": "Percentage of homeworkers reporting advantages, Great Britain, 3 – 13 February 2022",
       "data_uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/ishybridworkingheretostay/2022-05-23/220393a3",
-      "src": "/_scraped_chartbuilder_imgs/220393a3.png",
-      "local_filename": "220393a3.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/ishybridworkingheretostay/2022-05-23/220393a3&width=&hideSource=true",
+      "local_filename": "220393a3.png",
+      "src_new": "/_scraped_chartbuilder_imgs/220393a3.png"
     },
     {
       "type": "p",
@@ -591,8 +600,9 @@
       "chartbuilder_h3": "Information and communications businesses are the most likely to be planning to adopt homeworking permanently",
       "chartbuilder_h4": "Percentage of businesses using or planning to use increased homeworking as a permanent business model, businesses not permanently stopped trading, broken down by industry, weighted by count, UK, 4 to 17 April 2022",
       "data_uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/ishybridworkingheretostay/2022-05-23/903b2749",
-      "src": "/_scraped_chartbuilder_imgs/903b2749.png",
-      "local_filename": "903b2749.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/ishybridworkingheretostay/2022-05-23/903b2749&width=&hideSource=true",
+      "local_filename": "903b2749.png",
+      "src_new": "/_scraped_chartbuilder_imgs/903b2749.png"
     },
     {
       "type": "p",
@@ -667,7 +677,8 @@
       "h4": "Information and communication businesses reported the biggest increase in businesses using, or planning to use, homeworking permanently",
       "h5": "Percentage of businesses using, or planning to use, homeworking as a permanent business model, businesses not permanently stopped trading, broken down by industry, weighted by count, UK, 16 to 29 November 2020 and 4 to 17 April 2022",
       "title": "homeworking by business",
-      "url": "/visualisations/dvc1971/homeworking-by-business/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1971/homeworking-by-business/index.html",
+      "url_new": "/visualisations/dvc1971/homeworking-by-business/index.html"
     },
     {
       "type": "heading",
@@ -692,7 +703,8 @@
       "h3": null,
       "h4": "Information and communication businesses reported the biggest increase in businesses using, or planning to use, homeworking permanently",
       "h5": "Notes:",
-      "text": "[Download the data for businesses using homeworking (XLSX, 18KB)](/visualisations/dvc1971/homeworking-by-business/datadownload.xlsx)"
+      "text": "[Download the data for businesses using homeworking (XLSX, 18KB)](https://www.ons.gov.uk/visualisations/dvc1971/homeworking-by-business/datadownload.xlsx)",
+      "text_new": "[Download the data for businesses using homeworking (XLSX, 18KB)](/visualisations/dvc1971/homeworking-by-business/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -719,8 +731,9 @@
       "chartbuilder_h3": "Improved staff well-being was the most common reason for businesses using, or planning to use, homeworking permanently",
       "chartbuilder_h4": "Reasons for adopting homeworking as a permanent business model, businesses not permanently stopped trading, weighted by count, UK, 4 to 17 April 2022",
       "data_uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/ishybridworkingheretostay/2022-05-23/e97e955a",
-      "src": "/_scraped_chartbuilder_imgs/e97e955a.png",
-      "local_filename": "e97e955a.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/ishybridworkingheretostay/2022-05-23/e97e955a&width=&hideSource=true",
+      "local_filename": "e97e955a.png",
+      "src_new": "/_scraped_chartbuilder_imgs/e97e955a.png"
     },
     {
       "type": "box",
@@ -745,7 +758,7 @@
       "h5": "Notes:",
       "box_h2": "Contact",
       "box_h3": null,
-      "box_text": "[economic.advice@ons.gov.uk](mailto:economic.advice@ons.gov.uk)\n",
+      "box_text": "[economic.advice@ons.gov.uk](mailto:economic.advice@ons.gov.uk )\n",
       "box_items": null
     }
   ],

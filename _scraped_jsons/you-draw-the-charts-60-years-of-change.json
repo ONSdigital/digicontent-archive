@@ -66,8 +66,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations//visual/2017/10/dyoexample.gif",
-      "alt": null
+      "src": "https://static.ons.gov.uk/visual/2017/10/dyoexample.gif",
+      "alt": null,
+      "src_new": "/visual/2017/10/dyoexample.gif"
     },
     {
       "type": "image",
@@ -75,8 +76,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations//visual/2017/10/today_ons_house_prices.png",
-      "alt": null
+      "src": "https://static.ons.gov.uk/visual/2017/10/today_ons_house_prices.png",
+      "alt": null,
+      "src_new": "/visual/2017/10/today_ons_house_prices.png"
     },
     {
       "type": "heading",
@@ -119,7 +121,8 @@
       "h4": "Average house prices, 1957 to 2017, UK",
       "h5": null,
       "title": "Average house prices, 1957 to 2017, UK",
-      "url": "/visualisations/dvc445/ukhpi/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc445/ukhpi/index.html",
+      "url_new": "/visualisations/dvc445/ukhpi/index.html"
     },
     {
       "type": "p",
@@ -127,7 +130,7 @@
       "h3": "How low were house prices in 1957?1",
       "h4": "Average house prices, 1957 to 2017, UK",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/10/ukhpi.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/10/ukhpi.csv)"
     },
     {
       "type": "image",
@@ -135,8 +138,9 @@
       "h3": "How low were house prices in 1957?1",
       "h4": "Average house prices, 1957 to 2017, UK",
       "h5": null,
-      "src": "/visualisations//visual/2017/10/today_ons_life_expectancy_v2.png",
-      "alt": null
+      "src": "https://static.ons.gov.uk/visual/2017/10/today_ons_life_expectancy_v2.png",
+      "alt": null,
+      "src_new": "/visual/2017/10/today_ons_life_expectancy_v2.png"
     },
     {
       "type": "heading",
@@ -179,7 +183,8 @@
       "h4": "Life expectancy at birth, males, 1957 to 2014, UK",
       "h5": null,
       "title": "Life expectancy at birth, males, 1957 to 2014, UK",
-      "url": "/visualisations/dvc445/lifeexp/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc445/lifeexp/index.html",
+      "url_new": "/visualisations/dvc445/lifeexp/index.html"
     },
     {
       "type": "p",
@@ -187,7 +192,7 @@
       "h3": "How long could you expect to live in 1957?",
       "h4": "Life expectancy at birth, males, 1957 to 2014, UK",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/10/lifeexp.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/10/lifeexp.csv)"
     },
     {
       "type": "image",
@@ -195,8 +200,9 @@
       "h3": "How long could you expect to live in 1957?",
       "h4": "Life expectancy at birth, males, 1957 to 2014, UK",
       "h5": null,
-      "src": "/visualisations//visual/2017/10/today_ons_charts_divorce.png",
-      "alt": null
+      "src": "https://static.ons.gov.uk/visual/2017/10/today_ons_charts_divorce.png",
+      "alt": null,
+      "src_new": "/visual/2017/10/today_ons_charts_divorce.png"
     },
     {
       "type": "heading",
@@ -247,7 +253,8 @@
       "h4": "Divorce and marriage rates, females, 1957 to 2014, England and Wales",
       "h5": null,
       "title": "Divorce and marriage rates, females, 1957 to 2014, England and Wales",
-      "url": "/visualisations/dvc445/marriage/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc445/marriage/index.html",
+      "url_new": "/visualisations/dvc445/marriage/index.html"
     },
     {
       "type": "p",
@@ -255,7 +262,7 @@
       "h3": "Did many people divorce?",
       "h4": "Divorce and marriage rates, females, 1957 to 2014, England and Wales",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/10/marriage.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/10/marriage.csv)"
     },
     {
       "type": "image",
@@ -263,8 +270,9 @@
       "h3": "Did many people divorce?",
       "h4": "Divorce and marriage rates, females, 1957 to 2014, England and Wales",
       "h5": null,
-      "src": "/visualisations//visual/2017/10/today_ons_babies_outside_marriage.png",
-      "alt": null
+      "src": "https://static.ons.gov.uk/visual/2017/10/today_ons_babies_outside_marriage.png",
+      "alt": null,
+      "src_new": "/visual/2017/10/today_ons_babies_outside_marriage.png"
     },
     {
       "type": "heading",
@@ -307,7 +315,8 @@
       "h4": "Children born to unmarried parents, 1957 to 2016, England and Wales",
       "h5": null,
       "title": "Children born to unmarried parents, 1957 to 2016, England and Wales",
-      "url": "/visualisations/dvc445/bornoutmarriage/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc445/bornoutmarriage/index.html",
+      "url_new": "/visualisations/dvc445/bornoutmarriage/index.html"
     },
     {
       "type": "p",
@@ -315,7 +324,7 @@
       "h3": "How many children were born outside of marriage?2",
       "h4": "Children born to unmarried parents, 1957 to 2016, England and Wales",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/10/bornoutmarriage.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/10/bornoutmarriage.csv)"
     },
     {
       "type": "image",
@@ -323,8 +332,9 @@
       "h3": "How many children were born outside of marriage?2",
       "h4": "Children born to unmarried parents, 1957 to 2016, England and Wales",
       "h5": null,
-      "src": "/visualisations//visual/2017/10/today_ons_babies2.png",
-      "alt": null
+      "src": "https://static.ons.gov.uk/visual/2017/10/today_ons_babies2.png",
+      "alt": null,
+      "src_new": "/visual/2017/10/today_ons_babies2.png"
     },
     {
       "type": "heading",
@@ -358,7 +368,8 @@
       "h4": null,
       "h5": null,
       "title": "Born abroad draw your own",
-      "url": "/visualisations/dvc445/bornabroad/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc445/bornabroad/index.html",
+      "url_new": "/visualisations/dvc445/bornabroad/index.html"
     },
     {
       "type": "p",
@@ -366,7 +377,7 @@
       "h3": "What percentage of people living in the UK were born abroad?3",
       "h4": null,
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/10/bornabroad.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/10/bornabroad.csv)"
     },
     {
       "type": "image",
@@ -374,8 +385,9 @@
       "h3": "What percentage of people living in the UK were born abroad?3",
       "h4": null,
       "h5": null,
-      "src": "/visualisations//visual/2017/10/today_ons_mothers_age.png",
-      "alt": null
+      "src": "https://static.ons.gov.uk/visual/2017/10/today_ons_mothers_age.png",
+      "alt": null,
+      "src_new": "/visual/2017/10/today_ons_mothers_age.png"
     },
     {
       "type": "heading",
@@ -401,7 +413,8 @@
       "h4": null,
       "h5": null,
       "title": "1st born draw your own",
-      "url": "/visualisations/dvc445/firstborn/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc445/firstborn/index.html",
+      "url_new": "/visualisations/dvc445/firstborn/index.html"
     },
     {
       "type": "p",
@@ -409,7 +422,7 @@
       "h3": "What was the average age of a first-time mother in 1957?",
       "h4": null,
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/10/firstborn.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/10/firstborn.csv)"
     },
     {
       "type": "p",

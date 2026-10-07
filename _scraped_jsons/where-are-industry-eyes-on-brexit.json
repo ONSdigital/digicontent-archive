@@ -104,7 +104,8 @@
       "h4": "Find out which industries are most and least concentrated in your area.",
       "h5": null,
       "title": "Find out which industries are most and least concentrated in your area.",
-      "url": "/visualisations/dvc421/charts/all/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc421/charts/all/index.html",
+      "url_new": "/visualisations/dvc421/charts/all/index.html"
     },
     {
       "type": "p",
@@ -112,7 +113,7 @@
       "h3": null,
       "h4": "Find out which industries are most and least concentrated in your area.",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/07/industryconcentration_localauthority.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/07/industryconcentration_localauthority.csv)"
     },
     {
       "type": "heading",
@@ -171,7 +172,8 @@
       "h4": "Concentration of industry, 2015",
       "h5": null,
       "title": "Concentration of industry, 2015",
-      "url": "/visualisations/dvc421/map/maps/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc421/map/maps/index.html",
+      "url_new": "/visualisations/dvc421/map/maps/index.html"
     },
     {
       "type": "p",
@@ -179,7 +181,7 @@
       "h3": "Which areas benefit most from trade links with the EU?",
       "h4": "Concentration of industry, 2015",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/07/industryconcentration_NUTS2.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/07/industryconcentration_NUTS2.csv)"
     },
     {
       "type": "p",
@@ -245,7 +247,8 @@
       "h4": "Concentration of industry, 2015",
       "h5": null,
       "title": "Concentration of industry, 2015",
-      "url": "/visualisations/dvc421/charts/london/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc421/charts/london/index.html",
+      "url_new": "/visualisations/dvc421/charts/london/index.html"
     },
     {
       "type": "p",
@@ -253,7 +256,7 @@
       "h3": "Which areas benefit most from trade links with the EU?",
       "h4": "Concentration of industry, 2015",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/07/LondonvsNorth-1.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/07/LondonvsNorth-1.csv)"
     },
     {
       "type": "heading",
@@ -304,7 +307,8 @@
       "h4": "Concentration of industry, 2015",
       "h5": null,
       "title": "Concentration of industry, 2015",
-      "url": "/visualisations/dvc421/map/maps/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc421/map/maps/index.html",
+      "url_new": "/visualisations/dvc421/map/maps/index.html"
     },
     {
       "type": "p",
@@ -312,7 +316,7 @@
       "h3": "Where in Britain are the sectors most associated with migrant workers?",
       "h4": "Concentration of industry, 2015",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/07/industryconcentration_NUTS2.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/07/industryconcentration_NUTS2.csv)"
     },
     {
       "type": "p",
@@ -395,7 +399,8 @@
       "h4": "Concentration of industry, 2015",
       "h5": null,
       "title": "Concentration of industry, 2015",
-      "url": "/visualisations/dvc421/map/maps/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc421/map/maps/index.html",
+      "url_new": "/visualisations/dvc421/map/maps/index.html"
     },
     {
       "type": "p",
@@ -403,7 +408,7 @@
       "h3": "Where are the sectors affected by EU funding and regulation?",
       "h4": "Concentration of industry, 2015",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2017/07/industryconcentration_NUTS2.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2017/07/industryconcentration_NUTS2.csv)"
     },
     {
       "type": "p",

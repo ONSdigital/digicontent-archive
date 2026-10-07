@@ -183,8 +183,9 @@
       "chartbuilder_h3": "UK GDP fell by a cumulative 21.8% in the first half of 2020",
       "chartbuilder_h4": "Quarter 4 (Oct to Dec) 2019 to Quarter 2 (Apr to June ) 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup28septemberto2october2020/2020-10-02/ae852dd9",
-      "src": "/_scraped_chartbuilder_imgs/ae852dd9.png",
-      "local_filename": "ae852dd9.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup28septemberto2october2020/2020-10-02/ae852dd9&width=&hideSource=true",
+      "local_filename": "ae852dd9.png",
+      "src_new": "/_scraped_chartbuilder_imgs/ae852dd9.png"
     },
     {
       "type": "p",
@@ -268,8 +269,9 @@
       "chartbuilder_h3": "UK net borrowing from the rest of the world decreased to 0.6% of GDP in the latest quarter",
       "chartbuilder_h4": "Net lending (+) or borrowing (-) position as a percentage of GDP, non-financial account, seasonally adjusted, Quarter 1 (Jan to Mar) 2008 to Quarter 2 (Apr to June) 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup28septemberto2october2020/2020-10-02/fa72370e",
-      "src": "/_scraped_chartbuilder_imgs/fa72370e.png",
-      "local_filename": "fa72370e.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup28septemberto2october2020/2020-10-02/fa72370e&width=&hideSource=true",
+      "local_filename": "fa72370e.png",
+      "src_new": "/_scraped_chartbuilder_imgs/fa72370e.png"
     },
     {
       "type": "p",
@@ -418,7 +420,8 @@
       "h4": "COVID-19 infection rates have increased primarily in the least deprived areas",
       "h5": "Estimated percentage testing positive for the coronavirus (COVID-19) on nose and throat swabs, daily, by index of deprivation quintiles between 23 July and 10 September 2020, England",
       "title": "COVID-19 infection rates have increased primarily in the least deprived areas\" full-width=\"false",
-      "url": "/visualisations/dvc991/multiple_imd/age/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc991/multiple_imd/age/index.html",
+      "url_new": "/visualisations/dvc991/multiple_imd/age/index.html"
     },
     {
       "type": "p",

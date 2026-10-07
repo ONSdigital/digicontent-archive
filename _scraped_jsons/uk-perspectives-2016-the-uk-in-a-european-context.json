@@ -42,7 +42,7 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "This article in the [UK Perspectives](/visualisations/20170726163612/https://visual.ons.gov.uk/introducing-uk-perspectives-2016/) series presents interactive charts illustrating how the UK population and economy compares with the other 27 member states of the European Union (EU)."
+      "text": "This article in the [UK Perspectives](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/introducing-uk-perspectives-2016/) series presents interactive charts illustrating how the UK population and economy compares with the other 27 member states of the European Union (EU)."
     },
     {
       "type": "p",
@@ -85,7 +85,8 @@
       "h4": "The UK had the third largest population in the EU in 2015",
       "h5": null,
       "title": "The UK had the thirdÂ� largest population in the EU in 2015",
-      "url": "/visualisations/nesscontent/dvc341/Europe_Pop/Europe.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc341/Europe_Pop/Europe.html",
+      "url_new": "/visualisations/nesscontent/dvc341/Europe_Pop/Europe.html"
     },
     {
       "type": "p",
@@ -93,7 +94,7 @@
       "h3": "Population",
       "h4": "The UK had the third largest population in the EU in 2015",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2016/05/population_data.xlsx)."
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2016/05/population_data.xlsx)."
     },
     {
       "type": "p",
@@ -196,7 +197,8 @@
       "h4": "The UK had the second highest level of long-term immigration in the EU in 2014",
       "h5": null,
       "title": "The UK had the second highest level of long-term immigrationÂ� in the EU in 2014",
-      "url": "/visualisations/nesscontent/dvc341/Europe_Mig/Europe.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc341/Europe_Mig/Europe.html",
+      "url_new": "/visualisations/nesscontent/dvc341/Europe_Mig/Europe.html"
     },
     {
       "type": "p",
@@ -204,7 +206,7 @@
       "h3": "Migration",
       "h4": "The UK had the second highest level of long-term immigration in the EU in 2014",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2016/05/migration_data.xlsx)."
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2016/05/migration_data.xlsx)."
     },
     {
       "type": "p",
@@ -279,7 +281,8 @@
       "h4": "The UK’s GDP per capita was 9% higher than the EU average in 2014",
       "h5": null,
       "title": "The UKâ€™s GDP per capita wasÂ� 9% higher than the EU average in 2014",
-      "url": "/visualisations/nesscontent/dvc341/Europe_Eco/Europe.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc341/Europe_Eco/Europe.html",
+      "url_new": "/visualisations/nesscontent/dvc341/Europe_Eco/Europe.html"
     },
     {
       "type": "p",
@@ -287,7 +290,7 @@
       "h3": "Economy",
       "h4": "The UK’s GDP per capita was 9% higher than the EU average in 2014",
       "h5": null,
-      "text": "[Download the data](/visualisations//visual/2016/05/economy_data.xlsx)."
+      "text": "[Download the data](https://static.ons.gov.uk/visual/2016/05/economy_data.xlsx)."
     },
     {
       "type": "p",
@@ -537,10 +540,10 @@
       "box_text": "",
       "box_items": [
         "[UK Perspectives 2016](https://visual.ons.gov.uk/introducing-uk-perspectives-2016/)",
-        "[Measuring national well-being, European comparisons, 2014](/visualisations/20160105160709/http://www.ons.gov.uk/ons/rel/wellbeing/measuring-national-well-being/european-comparisons--2014/index.html)",
-        "[Urban Audit comparing UK and European towns and cities, 2010 to 2012](/visualisations/20160105160709/http://www.ons.gov.uk/ons/rel/regional-analysis/urban-audit/comparing-uk-and-european-towns-and-cities--2010-2012/index.html)",
+        "[Measuring national well-being, European comparisons, 2014](http://webarchive.nationalarchives.gov.uk/20160105160709/http://www.ons.gov.uk/ons/rel/wellbeing/measuring-national-well-being/european-comparisons--2014/index.html)",
+        "[Urban Audit comparing UK and European towns and cities, 2010 to 2012](http://webarchive.nationalarchives.gov.uk/20160105160709/http://www.ons.gov.uk/ons/rel/regional-analysis/urban-audit/comparing-uk-and-european-towns-and-cities--2010-2012/index.html)",
         "[Key figures on Europe 2014](http://ec.europa.eu/eurostat/web/products-pocketbooks/-/KS-EI-14-001)",
-        "[EU Government debt 2013](/visualisations/20160105160709/http://www.ons.gov.uk/ons/rel/psa/eu-government-debt-and-deficit-returns/september-2014/info-eu28-countries-debt.htm)",
+        "[EU Government debt 2013](http://webarchive.nationalarchives.gov.uk/20160105160709/http://www.ons.gov.uk/ons/rel/psa/eu-government-debt-and-deficit-returns/september-2014/info-eu28-countries-debt.htm)",
         "[Eurostat Economic Trends](http://ec.europa.eu/eurostat/web/ess/-/eurostat-s-new-infographic-economic-trends)",
         "[Population estimates](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/annualmidyearpopulationestimates/2015-06-25)",
         "[Long term international migration](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/migrationstatisticsquarterlyreport/february2016)",

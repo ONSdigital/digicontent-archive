@@ -133,7 +133,8 @@
       "h4": null,
       "h5": "Adults, Great Britain, 25 August to 5 September 2021",
       "title": "Chart showing the percentage of adults by age group asked to provide proof of vaccination or a negative test",
-      "url": "/visualisations/dvc1568/age/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1568/age/index.html",
+      "url_new": "/visualisations/dvc1568/age/index.html"
     },
     {
       "type": "heading",
@@ -158,7 +159,8 @@
       "h3": null,
       "h4": null,
       "h5": "Notes",
-      "text": "[Download data for the percentages of adults asked for proof of COVID-19 status by age group (XLSX, 20 KB)](/visualisations/dvc1568/age/datadownload.xlsx)"
+      "text": "[Download data for the percentages of adults asked for proof of COVID-19 status by age group (XLSX, 20 KB)](https://www.ons.gov.uk/visualisations/dvc1568/age/datadownload.xlsx)",
+      "text_new": "[Download data for the percentages of adults asked for proof of COVID-19 status by age group (XLSX, 20 KB)](/visualisations/dvc1568/age/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -234,7 +236,8 @@
       "h4": null,
       "h5": "Percentage of adults who had been asked to prove COVID-19 vaccination or a recent negative test by venue, Great Britain, 25 August to 5 September 2021",
       "title": "Chart showing the percentage of those asked for vaccination or negative test proof by venue",
-      "url": "/visualisations/dvc1568/venue/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1568/venue/index.html",
+      "url_new": "/visualisations/dvc1568/venue/index.html"
     },
     {
       "type": "heading",
@@ -267,7 +270,8 @@
       "h3": null,
       "h4": null,
       "h5": "Notes",
-      "text": "[Download data for the percentage of adults asked to prove COVID-19 status by venue (XLSX, 17 KB)](/visualisations/dvc1568/venue/datadownload.xlsx)"
+      "text": "[Download data for the percentage of adults asked to prove COVID-19 status by venue (XLSX, 17 KB)](https://www.ons.gov.uk/visualisations/dvc1568/venue/datadownload.xlsx)",
+      "text_new": "[Download data for the percentage of adults asked to prove COVID-19 status by venue (XLSX, 17 KB)](/visualisations/dvc1568/venue/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -350,7 +354,8 @@
       "h4": null,
       "h5": "Percentage of adults who had been asked to prove COVID-19 vaccination or a recent negative test by age group and venue, Great Britain, 25 August to 5 September 2021",
       "title": "Chart showing the percentage of those asked for vaccination or negative test proof by venue type",
-      "url": "/visualisations/dvc1568/age-venue/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1568/age-venue/index.html",
+      "url_new": "/visualisations/dvc1568/age-venue/index.html"
     },
     {
       "type": "heading",
@@ -383,7 +388,8 @@
       "h3": null,
       "h4": null,
       "h5": "Notes",
-      "text": "[Download data for the age group and venue breakdown of adults asked to provide proof of their COVID-19 status (XLSX, 18 KB)](/visualisations/dvc1568/age-venue/datadownload.xlsx)"
+      "text": "[Download data for the age group and venue breakdown of adults asked to provide proof of their COVID-19 status (XLSX, 18 KB)](https://www.ons.gov.uk/visualisations/dvc1568/age-venue/datadownload.xlsx)",
+      "text_new": "[Download data for the age group and venue breakdown of adults asked to provide proof of their COVID-19 status (XLSX, 18 KB)](/visualisations/dvc1568/age-venue/datadownload.xlsx)"
     },
     {
       "type": "p",

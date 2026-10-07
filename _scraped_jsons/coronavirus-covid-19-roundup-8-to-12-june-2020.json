@@ -109,7 +109,8 @@
       "h4": "Number of deaths involving COVID-19 in Middle Layer Super Output Areas, death occurring between March to May 2020, England and Wales",
       "h5": null,
       "title": "Number of deaths involving COVID-19 in Middle Layer Super Output Areas, death occurring between March to May 2020, England and Wales",
-      "url": "/visualisations/dvc846/map/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc846/map/index.html",
+      "url_new": "/visualisations/dvc846/map/index.html"
     },
     {
       "type": "p",
@@ -193,7 +194,8 @@
       "h4": "The coronavirus (COVID-19) pandemic has had a proportionally higher impact on the most deprived areas of England",
       "h5": "Age-standardised mortality rates, all deaths and deaths involving the coronavirus (COVID-19), Index of Multiple Deprivation, England, deaths occurring between 1 March and 31 May 2020",
       "title": "Bar chart",
-      "url": "/visualisations/dvc846/clusteredbarvertical/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc846/clusteredbarvertical/index.html",
+      "url_new": "/visualisations/dvc846/clusteredbarvertical/index.html"
     },
     {
       "type": "heading",
@@ -350,8 +352,9 @@
       "chartbuilder_h3": "England had the highest mortality rate of the four UK nations for deaths involving COVID-19, in March and April 2020",
       "chartbuilder_h4": "Age-standardised mortality rate per 100,000 population, UK and constituent countries deaths occurring in March and April 2020, registered by 15 May 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup8to12june2020/2020-06-12/5a78b931",
-      "src": "/_scraped_chartbuilder_imgs/5a78b931.png",
-      "local_filename": "5a78b931.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup8to12june2020/2020-06-12/5a78b931&width=&hideSource=true",
+      "local_filename": "5a78b931.png",
+      "src_new": "/_scraped_chartbuilder_imgs/5a78b931.png"
     },
     {
       "type": "p",
@@ -427,7 +430,8 @@
       "h4": "The fall of 10.4% is unprecedented, when compared with quarterly growth rates",
       "h5": "UK GDP growth, Quarter 1 (Jan to Mar) 2005 until February to April 2020",
       "title": "Bar chart",
-      "url": "/visualisations/dvc843/gdp/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc843/gdp/index.html",
+      "url_new": "/visualisations/dvc843/gdp/index.html"
     },
     {
       "type": "heading",
@@ -682,7 +686,8 @@
       "h4": "More than one-fifth of usual household spending has been prevented by the lockdown",
       "h5": "Weekly household expenditure by category, UK, financial year ending March 2019",
       "title": "Interactive chart",
-      "url": "/visualisations/dvc824a/treemap/treemap/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc824a/treemap/treemap/index.html",
+      "url_new": "/visualisations/dvc824a/treemap/treemap/index.html"
     },
     {
       "type": "heading",
@@ -783,7 +788,8 @@
       "h4": "Concerns about well-being during the COVID-19 pandemic tend to be more common among disabled people with social, behavioural or mental health impairments",
       "h5": "Great Britain, May 2020",
       "title": "Horizontal clustered bar chart",
-      "url": "/visualisations/dvc847/fig3/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc847/fig3/index.html",
+      "url_new": "/visualisations/dvc847/fig3/index.html"
     },
     {
       "type": "heading",
@@ -883,8 +889,9 @@
       "chartbuilder_h3": "Average anxiety ratings vary between disabled people with different types of impairments",
       "chartbuilder_h4": "Great Britain, May 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup8to12june2020/2020-06-12/c48210ea",
-      "src": "/_scraped_chartbuilder_imgs/c48210ea.png",
-      "local_filename": "c48210ea.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup8to12june2020/2020-06-12/c48210ea&width=&hideSource=true",
+      "local_filename": "c48210ea.png",
+      "src_new": "/_scraped_chartbuilder_imgs/c48210ea.png"
     },
     {
       "type": "p",
@@ -976,7 +983,8 @@
       "h4": "Workers in the residential care sector are most likely to come into close contact with others",
       "h5": "Proportion of workers who come into physical proximity to other people, selected industries, UK, 2019",
       "title": "Workers in the residential care sector are most likely to come into close contact with others",
-      "url": "/visualisations/dvc852/stack/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc852/stack/index.html",
+      "url_new": "/visualisations/dvc852/stack/index.html"
     },
     {
       "type": "p",
@@ -1060,7 +1068,8 @@
       "h4": "In Wave 2, 30% of businesses who continued to trade expected their workforce to decrease, compared with 9% in Wave 5",
       "h5": "Responding businesses who continued to trade, expectations of workforce size in the two weeks from completion of each wave, UK, 23 March to 7 May 2020",
       "title": "R&D Sankey diagram",
-      "url": "/visualisations/dvc848/workforce/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc848/workforce/index.html",
+      "url_new": "/visualisations/dvc848/workforce/index.html"
     },
     {
       "type": "heading",

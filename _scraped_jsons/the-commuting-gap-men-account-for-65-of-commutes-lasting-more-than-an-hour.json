@@ -93,7 +93,8 @@
       "h4": "Proportion of commutes of different lengths by men and women, UK, October to December 2017",
       "h5": null,
       "title": "Proportion of commutes of different lengths by men and women, UK, October to December 2017",
-      "url": "/visualisations/dvc555/TimeTaken/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc555/TimeTaken/index.html",
+      "url_new": "/visualisations/dvc555/TimeTaken/index.html"
     },
     {
       "type": "p",
@@ -101,7 +102,8 @@
       "h3": "The longer the commute, the more likely it will be made by men",
       "h4": "Proportion of commutes of different lengths by men and women, UK, October to December 2017",
       "h5": null,
-      "text": "[Download the data.](/visualisations/dvc555/downloadthedata/time_taken_to_travel.csv)"
+      "text": "[Download the data.](http://www.ons.gov.uk/visualisations/dvc555/downloadthedata/time_taken_to_travel.csv)",
+      "text_new": "[Download the data.](/visualisations/dvc555/downloadthedata/time_taken_to_travel.csv)"
     },
     {
       "type": "p",
@@ -168,7 +170,8 @@
       "h4": "Proportion of commutes by different modes by men and women, UK, October to December 2017",
       "h5": null,
       "title": "Proportion of commutes by different modes by men and women, UK, October to December 2017",
-      "url": "/visualisations/dvc555/mode/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc555/mode/index.html",
+      "url_new": "/visualisations/dvc555/mode/index.html"
     },
     {
       "type": "p",
@@ -176,7 +179,8 @@
       "h3": "Disparity in time taken to get to work is largely reflected in the ways men and women commute",
       "h4": "Proportion of commutes by different modes by men and women, UK, October to December 2017",
       "h5": null,
-      "text": "[Download the data.](/visualisations/dvc555/downloadthedata/mode_of_transport.csv)"
+      "text": "[Download the data.](http://www.ons.gov.uk/visualisations/dvc555/downloadthedata/mode_of_transport.csv)",
+      "text_new": "[Download the data.](/visualisations/dvc555/downloadthedata/mode_of_transport.csv)"
     },
     {
       "type": "heading",
@@ -244,7 +248,8 @@
       "h4": "Proportion of commutes lasting more than an hour by men and women, by country and region, October to December 2017",
       "h5": null,
       "title": "Proportion of commutes lasting more than an hour by men and women, by country and region, October to December 2017",
-      "url": "/visualisations/dvc555/HourPlus/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc555/HourPlus/index.html",
+      "url_new": "/visualisations/dvc555/HourPlus/index.html"
     },
     {
       "type": "p",
@@ -252,7 +257,8 @@
       "h3": "The North East is the only region where women make more long commutes than men",
       "h4": "Proportion of commutes lasting more than an hour by men and women, by country and region, October to December 2017",
       "h5": null,
-      "text": "[Download the data.](/visualisations/dvc555/downloadthedata/hour_plus.csv)"
+      "text": "[Download the data.](http://www.ons.gov.uk/visualisations/dvc555/downloadthedata/hour_plus.csv)",
+      "text_new": "[Download the data.](/visualisations/dvc555/downloadthedata/hour_plus.csv)"
     },
     {
       "type": "p",
@@ -311,7 +317,8 @@
       "h4": "Proportion of commutes from a different country or region by men and women, October to December 2017",
       "h5": null,
       "title": "Proportion of commutes from a different country or region by men and women, October to December 2017",
-      "url": "/visualisations/dvc555/RegionRegion/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc555/RegionRegion/index.html",
+      "url_new": "/visualisations/dvc555/RegionRegion/index.html"
     },
     {
       "type": "p",
@@ -319,7 +326,8 @@
       "h3": "Men are more likely to work in a different region to where they live",
       "h4": "Proportion of commutes from a different country or region by men and women, October to December 2017",
       "h5": null,
-      "text": "[Download the data.](/visualisations/dvc555/downloadthedata/region_to_region.csv)"
+      "text": "[Download the data.](http://www.ons.gov.uk/visualisations/dvc555/downloadthedata/region_to_region.csv)",
+      "text_new": "[Download the data.](/visualisations/dvc555/downloadthedata/region_to_region.csv)"
     },
     {
       "type": "p",
@@ -403,7 +411,8 @@
       "h4": "Proportion of commutes lasting 15 minutes or less by men and women, by country and region, October to December 2017",
       "h5": null,
       "title": "Proportion of commutes lasting 15 minutes or less by men and women, by country and region, October to December 2017",
-      "url": "/visualisations/dvc555/15mins/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc555/15mins/index.html",
+      "url_new": "/visualisations/dvc555/15mins/index.html"
     },
     {
       "type": "p",
@@ -411,7 +420,8 @@
       "h3": "Women are more likely to live close to their place of work",
       "h4": "Proportion of commutes lasting 15 minutes or less by men and women, by country and region, October to December 2017",
       "h5": null,
-      "text": "[Download the data.](/visualisations/dvc555/downloadthedata/15_mins_or_less.csv)"
+      "text": "[Download the data.](http://www.ons.gov.uk/visualisations/dvc555/downloadthedata/15_mins_or_less.csv)",
+      "text_new": "[Download the data.](/visualisations/dvc555/downloadthedata/15_mins_or_less.csv)"
     },
     {
       "type": "heading",

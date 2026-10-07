@@ -50,7 +50,7 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "Other economic aspects have been covered elsewhere in the [UK Perspectives series](/visualisations/20170726163612/https://visual.ons.gov.uk/uk-perspectives-an-introduction/), which presents an overview of the social and economic changes that have occurred in the UK over the last three decades."
+      "text": "Other economic aspects have been covered elsewhere in the [UK Perspectives series](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/uk-perspectives-an-introduction/), which presents an overview of the social and economic changes that have occurred in the UK over the last three decades."
     },
     {
       "type": "heading",
@@ -113,7 +113,8 @@
       "h4": "Real GDP growth year-on-year, UK, 1980 to 2014",
       "h5": null,
       "title": "Real GDP growth year-on-year, UK, 1980 to 2014",
-      "url": "/visualisations/nesscontent/dvc234/Economy_Chart1/Economy_Chart1.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Economy_Chart1/Economy_Chart1.html",
+      "url_new": "/visualisations/nesscontent/dvc234/Economy_Chart1/Economy_Chart1.html"
     },
     {
       "type": "p",
@@ -121,7 +122,7 @@
       "h3": "The UK economy has returned to growth",
       "h4": "Real GDP growth year-on-year, UK, 1980 to 2014",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2015/07/Economy_Chart1.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2015/07/Economy_Chart1.csv)"
     },
     {
       "type": "p",
@@ -155,7 +156,8 @@
       "h4": "Real GDP per head, UK, 1980 to 2014",
       "h5": null,
       "title": "Real GDP per head, UK, 1980 to 2014",
-      "url": "/visualisations/nesscontent/dvc234/Economy_Chart2/Economy_Chart2.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Economy_Chart2/Economy_Chart2.html",
+      "url_new": "/visualisations/nesscontent/dvc234/Economy_Chart2/Economy_Chart2.html"
     },
     {
       "type": "p",
@@ -163,7 +165,7 @@
       "h3": "The UK economy has returned to growth",
       "h4": "Real GDP per head, UK, 1980 to 2014",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2015/07/Economy_Chart2.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2015/07/Economy_Chart2.csv)"
     },
     {
       "type": "p",
@@ -225,7 +227,8 @@
       "h4": "Output per hour worked growth year-on-year, UK, 1980 to 2014",
       "h5": null,
       "title": "Output per hour worked growth year-on-year, UK, 1980 to 2014",
-      "url": "/visualisations/nesscontent/dvc234/Economy_Chart3/Economy_Chart3.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Economy_Chart3/Economy_Chart3.html",
+      "url_new": "/visualisations/nesscontent/dvc234/Economy_Chart3/Economy_Chart3.html"
     },
     {
       "type": "p",
@@ -233,7 +236,7 @@
       "h3": "UK productivity levels remain subdued",
       "h4": "Output per hour worked growth year-on-year, UK, 1980 to 2014",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2015/07/Economy_Chart3.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2015/07/Economy_Chart3.csv)"
     },
     {
       "type": "p",
@@ -303,7 +306,8 @@
       "h4": "Imports, exports and trade balance, UK, 1980 to 2014",
       "h5": null,
       "title": "Imports, exports and trade balance, UK, 1980 to 2014",
-      "url": "/visualisations/nesscontent/dvc234/Economy_Chart4/Economy_Chart4.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Economy_Chart4/Economy_Chart4.html",
+      "url_new": "/visualisations/nesscontent/dvc234/Economy_Chart4/Economy_Chart4.html"
     },
     {
       "type": "p",
@@ -311,7 +315,7 @@
       "h3": "The UK has run a trade deficit since 1998",
       "h4": "Imports, exports and trade balance, UK, 1980 to 2014",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2015/07/Economy_Chart4.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2015/07/Economy_Chart4.csv)"
     },
     {
       "type": "p",
@@ -390,7 +394,8 @@
       "h4": "Inflation rate, January 1989 to May 2015",
       "h5": null,
       "title": "Inflation rate, January 1989 to May 2015",
-      "url": "/visualisations/nesscontent/dvc234/Economy_Chart5/Economy_Chart5.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Economy_Chart5/Economy_Chart5.html",
+      "url_new": "/visualisations/nesscontent/dvc234/Economy_Chart5/Economy_Chart5.html"
     },
     {
       "type": "p",
@@ -398,7 +403,7 @@
       "h3": "The inflation rate currently stands at 0.1%",
       "h4": "Inflation rate, January 1989 to May 2015",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2015/07/Economy_Chart5.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2015/07/Economy_Chart5.csv)"
     },
     {
       "type": "p",
@@ -460,7 +465,8 @@
       "h4": "Bank of England interest rates, 1st January 1980 to 6th July 20151",
       "h5": null,
       "title": "Bank of England interest rates, 1st January 1980 to 6th July 2015<sup>1<\/sup>",
-      "url": "/visualisations/nesscontent/dvc234/Economy_Chart6/Economy_Chart6.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Economy_Chart6/Economy_Chart6.html",
+      "url_new": "/visualisations/nesscontent/dvc234/Economy_Chart6/Economy_Chart6.html"
     },
     {
       "type": "p",
@@ -468,7 +474,7 @@
       "h3": "Interest rates are also at record low levels",
       "h4": "Bank of England interest rates, 1st January 1980 to 6th July 20151",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2015/07/Economy_Chart6.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2015/07/Economy_Chart6.csv)"
     },
     {
       "type": "p",
@@ -547,7 +553,8 @@
       "h4": "UK government deficit, financial year ending 1981 to financial year ending 2014",
       "h5": null,
       "title": "UK government deficit, financial year ending 1981 to financial year ending 2014",
-      "url": "/visualisations/nesscontent/dvc234/Economy_Chart7/Economy_Chart7.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Economy_Chart7/Economy_Chart7.html",
+      "url_new": "/visualisations/nesscontent/dvc234/Economy_Chart7/Economy_Chart7.html"
     },
     {
       "type": "p",
@@ -555,7 +562,7 @@
       "h3": "The UK deficit has been typically positive since 1980",
       "h4": "UK government deficit, financial year ending 1981 to financial year ending 2014",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2015/02/UKP-Economy-Fig-7-deficit.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2015/02/UKP-Economy-Fig-7-deficit.csv)"
     },
     {
       "type": "p",
@@ -625,7 +632,8 @@
       "h4": "UK government debt as a percentage of GDP, financial year ending 1980 to financial year ending 2014",
       "h5": null,
       "title": "UK government debt as a percentage of GDP, financial year ending 1980 to financial year ending 2014",
-      "url": "/visualisations/nesscontent/dvc234/Economy_Chart8/Economy_Chart8.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Economy_Chart8/Economy_Chart8.html",
+      "url_new": "/visualisations/nesscontent/dvc234/Economy_Chart8/Economy_Chart8.html"
     },
     {
       "type": "p",
@@ -633,7 +641,7 @@
       "h3": "UK government debt as a percentage of GDP is rising",
       "h4": "UK government debt as a percentage of GDP, financial year ending 1980 to financial year ending 2014",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2015/02/UKP-Economy-Fig-8-debt.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2015/02/UKP-Economy-Fig-8-debt.csv)"
     },
     {
       "type": "p",
@@ -675,7 +683,8 @@
       "h4": "Interest payments on public sector debt as a percentage of government expenditure, UK, financial year ending 1981 to financial year ending 2014 2",
       "h5": null,
       "title": "Interest payments on public sector debt as a percentage of government expenditure, UK,Â� financial year ending 1981 to financial year ending 2014Â� <sup>2<\/sup>",
-      "url": "/visualisations/nesscontent/dvc234/Economy_Chart9/Economy_Chart9.html"
+      "url": "https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Economy_Chart9/Economy_Chart9.html",
+      "url_new": "/visualisations/nesscontent/dvc234/Economy_Chart9/Economy_Chart9.html"
     },
     {
       "type": "p",
@@ -683,7 +692,7 @@
       "h3": "UK government debt as a percentage of GDP is rising",
       "h4": "Interest payments on public sector debt as a percentage of government expenditure, UK, financial year ending 1981 to financial year ending 2014 2",
       "h5": null,
-      "text": "[Download the data.](/visualisations//visual/2015/02/UKP-Economy-Fig-9-debt-interest.csv)"
+      "text": "[Download the data.](https://static.ons.gov.uk/visual/2015/02/UKP-Economy-Fig-9-debt-interest.csv)"
     },
     {
       "type": "p",

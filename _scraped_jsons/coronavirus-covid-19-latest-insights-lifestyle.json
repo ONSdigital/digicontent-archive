@@ -157,8 +157,9 @@
       "chartbuilder_h3": "Around 1 in 5 people reported the coronavirus pandemic as an important issue facing the UK",
       "chartbuilder_h4": "Proportion of all adults in Great Britain reporting important issues facing the UK today, 8 to 19 March 2023",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19latestinsights/lifestyle/cf943b7b",
-      "src": "/_scraped_chartbuilder_imgs/cf943b7b.png",
-      "local_filename": "cf943b7b.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19latestinsights/lifestyle/cf943b7b&width=&hideSource=true",
+      "local_filename": "cf943b7b.png",
+      "src_new": "/_scraped_chartbuilder_imgs/cf943b7b.png"
     },
     {
       "type": "p",
@@ -382,8 +383,9 @@
       "chartbuilder_h3": "Those with a health condition were more likely to report the coronavirus pandemic as a reason for leaving their previous job",
       "chartbuilder_h4": "Proportion of people aged 50 to 65 years who have left their previous job since the coronavirus pandemic and would consider returning by physical and mental health condition or illness, Great Britain, 10 to 29 August 2022",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19latestinsights/lifestyle/3cd3ccf2",
-      "src": "/_scraped_chartbuilder_imgs/3cd3ccf2.png",
-      "local_filename": "3cd3ccf2.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19latestinsights/lifestyle/3cd3ccf2&width=&hideSource=true",
+      "local_filename": "3cd3ccf2.png",
+      "src_new": "/_scraped_chartbuilder_imgs/3cd3ccf2.png"
     },
     {
       "type": "p",
@@ -491,7 +493,8 @@
       "h4": "People reporting long COVID more likely to be out of the labour market",
       "h5": "Estimated percentage of people aged 16 to 64 years who are economically inactive by self-reported long COVID status, UK: February 2021 to July 2022",
       "title": "More people are out of the labour market because of long-term sickness since the pandemic began, but long COVID is not the main factor ",
-      "url": "/visualisations/dvc2360/fig1/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2360/fig1/index.html",
+      "url_new": "/visualisations/dvc2360/fig1/index.html"
     },
     {
       "type": "heading",
@@ -508,7 +511,8 @@
       "h3": null,
       "h4": "People reporting long COVID more likely to be out of the labour market",
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2360/fig1/datadownload.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2360/fig1/datadownload.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2360/fig1/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -633,8 +637,9 @@
       "chartbuilder_h3": "Healthy People and Healthy Lives scores declined, while Healthy Places improved in 2020",
       "chartbuilder_h4": "Health Index and health domain scores, England, 2015 to 2020",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19latestinsights/lifestyle/5cf69767",
-      "src": "/_scraped_chartbuilder_imgs/5cf69767.png",
-      "local_filename": "5cf69767.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19latestinsights/lifestyle/5cf69767&width=&hideSource=true",
+      "local_filename": "5cf69767.png",
+      "src_new": "/_scraped_chartbuilder_imgs/5cf69767.png"
     },
     {
       "type": "p",
@@ -756,7 +761,8 @@
       "h4": "How did health change in your local area during the start of the pandemic?",
       "h5": null,
       "title": "Health index (statistics.gov.uk) ",
-      "url": "/visualisations/dvc1900/mapsfinal/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1900/mapsfinal/index.html",
+      "url_new": "/visualisations/dvc1900/mapsfinal/index.html"
     },
     {
       "type": "p",
@@ -847,7 +853,8 @@
       "h4": null,
       "h5": null,
       "title": "Glossary",
-      "url": "/visualisations/covidgloss/covid_gloss/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/covidgloss/covid_gloss/index.html",
+      "url_new": "/visualisations/covidgloss/covid_gloss/index.html"
     },
     {
       "type": "p",

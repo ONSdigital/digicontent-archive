@@ -390,7 +390,8 @@
       "h4": null,
       "h5": null,
       "title": "Table 1",
-      "url": "/visualisations/dvc2885/table/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2885/table/index.html",
+      "url_new": "/visualisations/dvc2885/table/index.html"
     },
     {
       "type": "p",
@@ -398,7 +399,8 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[Download the data quality framework summary for selected offences table (XLSX, 13KB)](/visualisations/dvc2885/table/datadownload.xlsx)"
+      "text": "[Download the data quality framework summary for selected offences table (XLSX, 13KB)](https://www.ons.gov.uk/visualisations/dvc2885/table/datadownload.xlsx)",
+      "text_new": "[Download the data quality framework summary for selected offences table (XLSX, 13KB)](/visualisations/dvc2885/table/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -406,7 +408,8 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "text": "[Download the data quality framework summary for selected offences table (PDF, 53KB)](/visualisations/dvc2885/table/data_quality_framework.pdf)"
+      "text": "[Download the data quality framework summary for selected offences table (PDF, 53KB)](https://www.ons.gov.uk/visualisations/dvc2885/table/data_quality_framework.pdf)",
+      "text_new": "[Download the data quality framework summary for selected offences table (PDF, 53KB)](/visualisations/dvc2885/table/data_quality_framework.pdf)"
     },
     {
       "type": "p",

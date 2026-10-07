@@ -76,7 +76,8 @@
       "h4": "Number of deaths due to COVID-19 in Middle Layer Super Output Areas, death registered between March 2020 and April 2021, England and Wales",
       "h5": null,
       "title": "Interactive map of deaths due to COVID-19",
-      "url": "/visualisations/dvc1359/covid-death-map/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc1359/covid-death-map/index.html",
+      "url_new": "/visualisations/dvc1359/covid-death-map/index.html"
     },
     {
       "type": "heading",
@@ -165,7 +166,8 @@
       "h3": null,
       "h4": "Number of deaths due to COVID-19 in Middle Layer Super Output Areas, death registered between March 2020 and April 2021, England and Wales",
       "h5": "Notes:",
-      "text": "[Download the data](/visualisations/dvc1359/covid-death-map/data/datadownload.xlsx)"
+      "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1359/covid-death-map/data/datadownload.xlsx)",
+      "text_new": "[Download the data](/visualisations/dvc1359/covid-death-map/data/datadownload.xlsx)"
     },
     {
       "type": "box",

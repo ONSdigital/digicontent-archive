@@ -129,7 +129,8 @@
       "h4": "Explore property prices per square metre across England and Wales:",
       "h5": null,
       "title": "Explore property prices per square metre across England and Wales:",
-      "url": "/visualisations/dvc434/map/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc434/map/index.html",
+      "url_new": "/visualisations/dvc434/map/index.html"
     },
     {
       "type": "p",
@@ -137,7 +138,7 @@
       "h3": "Price per square metre",
       "h4": "Explore property prices per square metre across England and Wales:",
       "h5": null,
-      "text": "[Download the data](/visualisations/20170726163612///visual.ons.gov.uk/wp-content/uploads/2017/10/map.csv)"
+      "text": "[Download the data](http://webarchive.nationalarchives.gov.uk/20170726163612///visual.ons.gov.uk/wp-content/uploads/2017/10/map.csv)"
     },
     {
       "type": "p",
@@ -145,7 +146,7 @@
       "h3": "Price per square metre",
       "h4": "Explore property prices per square metre across England and Wales:",
       "h5": null,
-      "text": "We've also used this data to help you find out [Will an extension increase the value of my house?](/visualisations/20170726163612/https://visual.ons.gov.uk/will-an-extension-increase-the-value-of-my-house)"
+      "text": "We've also used this data to help you find out [Will an extension increase the value of my house?](http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/will-an-extension-increase-the-value-of-my-house)"
     },
     {
       "type": "heading",
@@ -204,7 +205,8 @@
       "h4": "Average size of homes in selected EU countries and USA1",
       "h5": null,
       "title": "Average size of homes in selected EU countries and USA<sup>1<\/sup>",
-      "url": "/visualisations/dvc434/floorplan/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc434/floorplan/index.html",
+      "url_new": "/visualisations/dvc434/floorplan/index.html"
     },
     {
       "type": "p",
@@ -212,7 +214,7 @@
       "h3": "How big are our homes?",
       "h4": "Average size of homes in selected EU countries and USA1",
       "h5": null,
-      "text": "[Download the data](/visualisations/20170726163612///visual.ons.gov.uk/wp-content/uploads/2017/10/floorplan.csv)"
+      "text": "[Download the data](http://webarchive.nationalarchives.gov.uk/20170726163612///visual.ons.gov.uk/wp-content/uploads/2017/10/floorplan.csv)"
     },
     {
       "type": "heading",
@@ -279,7 +281,8 @@
       "h4": "Will an extension increase the value of my house?",
       "h5": null,
       "title": "Will an extension increase the value of my house? Weâ€™ve used ONS data on property prices per square metre to help you find out what extra floor space could be worth in your area. The value of an extension will depend on many things that we havenâ€™t allowed for here, like the quality of construction, what type of room it is, and the exact location of the property within your local authority. This calculator uses average values for houses across local authority areas.",
-      "url": "/visualisations/dvc434/calculator/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc434/calculator/index.html",
+      "url_new": "/visualisations/dvc434/calculator/index.html"
     },
     {
       "type": "p",
@@ -287,7 +290,7 @@
       "h3": "Are houses getting bigger?",
       "h4": "Will an extension increase the value of my house?",
       "h5": null,
-      "text": "[Download the data](/visualisations/20170726163612///visual.ons.gov.uk/wp-content/uploads/2017/10/extension_calculator.csv)"
+      "text": "[Download the data](http://webarchive.nationalarchives.gov.uk/20170726163612///visual.ons.gov.uk/wp-content/uploads/2017/10/extension_calculator.csv)"
     },
     {
       "type": "p",

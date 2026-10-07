@@ -71,7 +71,8 @@
       "h4": null,
       "h5": null,
       "title": "Basket of goods timeline",
-      "url": "/visualisations/dvc481/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc481/index.html",
+      "url_new": "/visualisations/dvc481/index.html"
     },
     {
       "type": "heading",
@@ -230,7 +231,7 @@
       "box_text": "",
       "box_items": [
         "[The Basket of Goods and Services 2016](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/consumerpriceinflationbasketofgoodsandservices/2016)",
-        "[Historical basket of goods](/visualisations/20160105160709/http://www.ons.gov.uk/ons/guide-method/user-guidance/prices/cpi-and-rpi/cpi-and-rpi-basket-of-goods-and-services/index.html)"
+        "[Historical basket of goods](http://webarchive.nationalarchives.gov.uk/20160105160709/http://www.ons.gov.uk/ons/guide-method/user-guidance/prices/cpi-and-rpi/cpi-and-rpi-basket-of-goods-and-services/index.html)"
       ]
     },
     {

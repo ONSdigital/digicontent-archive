@@ -142,7 +142,8 @@
       "h4": "Peaks of excess mortality were geographically localised in the countries of Western Europe",
       "h5": "Interactive map showing relative age-standardised mortality rates by week and NUTS3 region of Europe",
       "title": "Map",
-      "url": "/visualisations/dvc895/mapchangeovertime/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc895/mapchangeovertime/index.html",
+      "url_new": "/visualisations/dvc895/mapchangeovertime/index.html"
     },
     {
       "type": "box",

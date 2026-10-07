@@ -102,7 +102,8 @@
       "h4": "Rate of heroin and morphine deaths by misuse, 2014 to 2016, England and Wales",
       "h5": null,
       "title": "Rate of heroin and morphine deaths by misuse, 2014 to 2016, England and Wales",
-      "url": "/visualisations/dvc478/hexmap/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc478/hexmap/index.html",
+      "url_new": "/visualisations/dvc478/hexmap/index.html"
     },
     {
       "type": "p",
@@ -201,7 +202,8 @@
       "h4": "Death rates by deprivation decile for drug misuse and non-misuse, 2016, England",
       "h5": null,
       "title": "Death rates by deprivation decile for drug misuse and non-misuse, 2016, England",
-      "url": "/visualisations/dvc478/IMD/IMD-Bar-Vertical/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc478/IMD/IMD-Bar-Vertical/index.html",
+      "url_new": "/visualisations/dvc478/IMD/IMD-Bar-Vertical/index.html"
     },
     {
       "type": "p",
@@ -245,8 +247,9 @@
       "chartbuilder_h3": "Deaths from drug misuse out of all drug-related deaths, 1993 to 2016, England and Wales",
       "chartbuilder_h4": "Source: Deaths related to drug poisoning in England and Wales: 2016 registrations",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/halfofheroinmorphinemisusedeathhotspotsinenglandandwalesareseasidelocations/2018-04-04/1ff8c300",
-      "src": "/_scraped_chartbuilder_imgs/1ff8c300.png",
-      "local_filename": "1ff8c300.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/halfofheroinmorphinemisusedeathhotspotsinenglandandwalesareseasidelocations/2018-04-04/1ff8c300&width=&hideSource=true",
+      "local_filename": "1ff8c300.png",
+      "src_new": "/_scraped_chartbuilder_imgs/1ff8c300.png"
     },
     {
       "type": "p",
@@ -265,8 +268,9 @@
       "chartbuilder_h3": "Deaths from any opiate out of all deaths from drug misuse",
       "chartbuilder_h4": "England and Wales, 1993 to 2016",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/halfofheroinmorphinemisusedeathhotspotsinenglandandwalesareseasidelocations/2018-04-04/71438784",
-      "src": "/_scraped_chartbuilder_imgs/71438784.png",
-      "local_filename": "71438784.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/halfofheroinmorphinemisusedeathhotspotsinenglandandwalesareseasidelocations/2018-04-04/71438784&width=&hideSource=true",
+      "local_filename": "71438784.png",
+      "src_new": "/_scraped_chartbuilder_imgs/71438784.png"
     },
     {
       "type": "p",
@@ -301,8 +305,9 @@
       "chartbuilder_h3": "Number of deaths from heroin and/or morphine, 1993 to 2016, England and Wales",
       "chartbuilder_h4": "England and Wales, 1993 to 2016",
       "data_uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/halfofheroinmorphinemisusedeathhotspotsinenglandandwalesareseasidelocations/2018-04-04/1a29c600",
-      "src": "/_scraped_chartbuilder_imgs/1a29c600.png",
-      "local_filename": "1a29c600.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/halfofheroinmorphinemisusedeathhotspotsinenglandandwalesareseasidelocations/2018-04-04/1a29c600&width=&hideSource=true",
+      "local_filename": "1a29c600.png",
+      "src_new": "/_scraped_chartbuilder_imgs/1a29c600.png"
     },
     {
       "type": "p",

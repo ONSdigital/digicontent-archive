@@ -128,7 +128,8 @@
       "h4": "Top five jobs chosen by 16 to 21-year-olds, 2011 to 2012, and proportion of 22 to 29-year-olds doing those jobs in 2017",
       "h5": null,
       "title": "Top five jobs chosen by 16 to 21-year-olds, 2011 to 2012, and proportion of 22 to 29-year-olds doing those jobs in 2017",
-      "url": "/visualisations/dvc543/chart1/tf/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc543/chart1/tf/index.html",
+      "url_new": "/visualisations/dvc543/chart1/tf/index.html"
     },
     {
       "type": "li",
@@ -187,7 +188,8 @@
       "h4": "Top 10 jobs in which 22 to 29-year-olds work, 2011 compared with 2017",
       "h5": null,
       "title": "Top 10 jobs in which 22 to 29-year-olds work, 2011 compared with 2017",
-      "url": "/visualisations/dvc543/slope/scb/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc543/slope/scb/index.html",
+      "url_new": "/visualisations/dvc543/slope/scb/index.html"
     },
     {
       "type": "heading",
@@ -246,7 +248,8 @@
       "h4": "Expected earnings of young people (aged 16 to 21) by age 30, 2015 to 2016, compared with 30-year-olds' earnings, 2017",
       "h5": null,
       "title": "Expected earnings of young people (aged 16 to 21) by age 30, 2015 to 2016, compared with 30-year-olds' earnings, 2017",
-      "url": "/visualisations/dvc543/dist/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc543/dist/index.html",
+      "url_new": "/visualisations/dvc543/dist/index.html"
     },
     {
       "type": "heading",
@@ -323,8 +326,9 @@
       "chartbuilder_h3": "Aspects of future occupation's importance to 16-21 year olds",
       "chartbuilder_h4": "Source: Understanding Society",
       "data_uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/youngpeoplescareeraspirationsversusreality/2018-09-27/a741a516",
-      "src": "/_scraped_chartbuilder_imgs/a741a516.png",
-      "local_filename": "a741a516.png"
+      "src": "https://www.ons.gov.uk/chartimage?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/youngpeoplescareeraspirationsversusreality/2018-09-27/a741a516&width=&hideSource=true",
+      "local_filename": "a741a516.png",
+      "src_new": "/_scraped_chartbuilder_imgs/a741a516.png"
     },
     {
       "type": "box",

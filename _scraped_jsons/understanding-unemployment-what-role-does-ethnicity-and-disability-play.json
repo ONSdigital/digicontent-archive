@@ -42,8 +42,9 @@
       "h3": null,
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc2281image/images/headerimage.svg",
-      "alt": null
+      "src": "https://www.ons.gov.uk/visualisations/dvc2281image/images/headerimage.svg",
+      "alt": null,
+      "src_new": "/visualisations/dvc2281image/images/headerimage.svg"
     },
     {
       "type": "heading",
@@ -94,7 +95,7 @@
       "h5": null,
       "box_h2": "Contact",
       "box_h3": null,
-      "box_text": "Peter Broad, Henry Lau, Matthew Minifie, George Roberts, Charlotte Standeven and Sarah Wood \n[equalities@ons.gov.uk](mailto:equalities@ons.gov.uk)\n",
+      "box_text": "Peter Broad, Henry Lau, Matthew Minifie, George Roberts, Charlotte Standeven and Sarah Wood \n[equalities@ons.gov.uk](mailto:equalities@ons.gov.uk )\n",
       "box_items": null
     }
   ],

@@ -103,7 +103,8 @@
       "h4": null,
       "h5": null,
       "title": "SpendTiles",
-      "url": "/visualisations/dvc2389/tiles/wrappers/spending.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2389/tiles/wrappers/spending.html",
+      "url_new": "/visualisations/dvc2389/tiles/wrappers/spending.html"
     },
     {
       "type": "heading",
@@ -120,7 +121,8 @@
       "h3": "Explore by topic",
       "h4": null,
       "h5": "Download the data",
-      "text": "[.xlsx](/visualisations/dvc2389/tiles/datadownloads/spending.xlsx)"
+      "text": "[.xlsx](https://www.ons.gov.uk/visualisations/dvc2389/tiles/datadownloads/spending.xlsx)",
+      "text_new": "[.xlsx](/visualisations/dvc2389/tiles/datadownloads/spending.xlsx)"
     },
     {
       "type": "heading",
@@ -234,8 +236,9 @@
       "h3": "How this affects you",
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc2389/images/Personal-inflation-calculator.png",
-      "alt": ""
+      "src": "https://www.ons.gov.uk/visualisations/dvc2389/images/Personal-inflation-calculator.png",
+      "alt": "",
+      "src_new": "/visualisations/dvc2389/images/Personal-inflation-calculator.png"
     },
     {
       "type": "image",
@@ -243,8 +246,9 @@
       "h3": "How this affects you",
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc2389/images/Shopping-prices-comparison.png",
-      "alt": ""
+      "src": "https://www.ons.gov.uk/visualisations/dvc2389/images/Shopping-prices-comparison.png",
+      "alt": "",
+      "src_new": "/visualisations/dvc2389/images/Shopping-prices-comparison.png"
     },
     {
       "type": "image",
@@ -252,8 +256,9 @@
       "h3": "How this affects you",
       "h4": null,
       "h5": null,
-      "src": "/visualisations/dvc2389/images/Parenting-and-spending.png",
-      "alt": ""
+      "src": "https://www.ons.gov.uk/visualisations/dvc2389/images/Parenting-and-spending.png",
+      "alt": "",
+      "src_new": "/visualisations/dvc2389/images/Parenting-and-spending.png"
     },
     {
       "type": "heading",
@@ -303,7 +308,8 @@
       "h4": null,
       "h5": null,
       "title": "glossary",
-      "url": "/visualisations/dvc2389/gloss/widget_gloss/index.html"
+      "url": "https://www.ons.gov.uk/visualisations/dvc2389/gloss/widget_gloss/index.html",
+      "url_new": "/visualisations/dvc2389/gloss/widget_gloss/index.html"
     },
     {
       "type": "box",
@@ -486,8 +492,9 @@
       "h3": "Connect with us",
       "h4": null,
       "h5": null,
-      "src": "/visualisations//assets/images/logo-ogl-footer.svg",
-      "alt": "OGL"
+      "src": "https://cdn.ons.gov.uk/assets/images/logo-ogl-footer.svg",
+      "alt": "OGL",
+      "src_new": "/assets/images/logo-ogl-footer.svg"
     },
     {
       "type": "p",
