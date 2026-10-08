@@ -1,0 +1,34 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02005465,South Holland 001,"Donington, Quadring & Gosberton",0,3,3,1,0,0,0,0,1,3,5,2,3,0,covid
+E02005466,South Holland 002,"Long Sutton West, Gedney & Holbeach Hurn",0,3,0,0,0,0,0,0,1,0,5,2,0,1,covid
+E02005467,South Holland 003,Holbeach,0,2,0,0,1,0,0,1,1,1,1,1,1,0,covid
+E02005468,South Holland 004,"Moulton, Weston & Whaplode",0,2,0,0,0,0,0,0,1,2,3,2,0,1,covid
+E02005469,South Holland 005,Pinchbeck & Deeping St Nicholas,1,1,2,1,0,0,0,0,0,4,2,1,0,0,covid
+E02005470,South Holland 006,Spalding North,0,2,1,0,0,0,0,0,4,5,3,5,1,1,covid
+E02005471,South Holland 007,Spalding East,0,0,1,0,0,0,0,0,5,3,3,2,0,0,covid
+E02005472,South Holland 008,Long Sutton East & Sutton Bridge,0,5,4,3,0,0,0,0,2,1,4,9,4,0,covid
+E02005473,South Holland 009,Spalding South West,0,1,9,4,0,0,0,3,8,2,1,3,2,0,covid
+E02005474,South Holland 010,Fleet Hargate & Holbeach St Johns,0,2,0,0,0,1,0,1,0,0,1,2,0,0,covid
+E02005475,South Holland 011,Crowland & Cowbit,0,1,0,0,0,0,0,0,0,0,1,2,0,0,covid
+E02005465,South Holland 001,"Donington, Quadring & Gosberton",9,14,8,16,9,15,13,6,8,9,5,9,8,10,noncovid
+E02005466,South Holland 002,"Long Sutton West, Gedney & Holbeach Hurn",4,5,6,9,8,4,4,6,4,4,7,4,5,6,noncovid
+E02005467,South Holland 003,Holbeach,9,14,9,11,10,4,3,3,9,6,11,10,4,4,noncovid
+E02005468,South Holland 004,"Moulton, Weston & Whaplode",8,7,4,7,7,10,2,4,7,8,9,7,7,6,noncovid
+E02005469,South Holland 005,Pinchbeck & Deeping St Nicholas,5,5,2,11,4,2,6,6,4,6,6,5,8,9,noncovid
+E02005470,South Holland 006,Spalding North,7,13,10,6,8,8,10,12,11,9,11,7,7,9,noncovid
+E02005471,South Holland 007,Spalding East,7,14,3,9,7,11,10,10,8,7,12,11,11,6,noncovid
+E02005472,South Holland 008,Long Sutton East & Sutton Bridge,14,12,10,6,9,8,13,13,11,11,12,16,7,7,noncovid
+E02005473,South Holland 009,Spalding South West,11,11,10,15,7,8,12,11,16,6,9,10,9,7,noncovid
+E02005474,South Holland 010,Fleet Hargate & Holbeach St Johns,7,10,7,8,8,4,10,8,8,6,1,5,6,8,noncovid
+E02005475,South Holland 011,Crowland & Cowbit,5,7,3,5,5,2,7,7,3,2,6,5,7,3,noncovid
+E02005465,South Holland 001,"Donington, Quadring & Gosberton",13,10,10,7,7,9,11,11,10,8,12,11,13,10,average
+E02005466,South Holland 002,"Long Sutton West, Gedney & Holbeach Hurn",8,7,7,7,6,5,4,5,9,7,8,7,8,7,average
+E02005467,South Holland 003,Holbeach,10,9,8,9,8,8,8,12,8,10,11,8,10,9,average
+E02005468,South Holland 004,"Moulton, Weston & Whaplode",6,6,6,7,5,5,6,8,7,8,11,9,6,6,average
+E02005469,South Holland 005,Pinchbeck & Deeping St Nicholas,5,7,7,4,6,5,6,7,8,6,6,5,5,7,average
+E02005470,South Holland 006,Spalding North,9,11,8,8,10,9,7,9,9,11,13,11,9,11,average
+E02005471,South Holland 007,Spalding East,9,8,7,6,7,7,6,9,9,7,10,8,9,8,average
+E02005472,South Holland 008,Long Sutton East & Sutton Bridge,15,11,9,9,14,10,14,14,14,12,18,14,15,11,average
+E02005473,South Holland 009,Spalding South West,14,7,8,8,11,8,7,10,12,10,13,11,14,7,average
+E02005474,South Holland 010,Fleet Hargate & Holbeach St Johns,11,5,7,6,8,6,5,6,9,8,10,7,11,5,average
+E02005475,South Holland 011,Crowland & Cowbit,5,6,4,5,5,5,3,6,5,4,7,5,5,6,average

@@ -1,0 +1,20 @@
+{
+  "essential": {
+    "graphic_data_url": ["commute-reformatted.csv","income-reformatted.csv"],
+    "sourceText": ["Office for National Statistics"]
+  },
+
+  "optional": {
+    "margin_sm": [10, 35, 40, 5],
+    "margin_md": [10, 35, 40, 10],
+    "margin_lg": [10, 35, 40, 20],
+
+    "aspectRatio_sm": [16, 24],
+    "aspectRatio_md": [16, 14],
+    "aspectRatio_lg": [16, 10],
+    "tickNumbers_s_m_l":[3,5,9],
+
+    "mediumBreakpoint": 576,
+    "mobileBreakpoint": 414
+  }
+}

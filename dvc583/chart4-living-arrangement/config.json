@@ -1,0 +1,26 @@
+{
+    "essential" : {
+            "slopeType":"value",
+            "ifValueShowRanks":false,
+            "ifRankCustomRank":true,
+            "ifRankShowValue":true,
+            "dataFile":"data.csv",
+            "leftRightTitles": ["1997","2017"],
+            "sourceText":["Office for National Statistics – Labour Force Survey"],
+            "sourceURL":["http://www.ons.gov.uk/"],
+            "sortby":"descending",
+            "yAxisScale":"auto_min_max",
+            "yAxisBreak": false,
+            "yAxisBreakText":"TOP 20 &#9650;",
+            "numberFormat":",.1%",
+            "gHeight_sm_md_lg":[50,50,50]
+    },
+    "optional" : {
+            "margin_sm": [40, 235, 20, 55],
+            "margin_md": [40, 235, 10, 235],
+            "margin_lg": [40, 235, 10, 235],
+
+            "mobileBreakpoint" : 501,
+            "mediumBreakpoint":600
+    }
+}

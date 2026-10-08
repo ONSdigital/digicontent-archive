@@ -1,0 +1,505 @@
+date,category,chiffre,series
+03/01/2020,Total,87.70315854,Ischaemic Heart Disease
+10/01/2020,Total,91.65473246,Ischaemic Heart Disease
+17/01/2020,Total,92.74474307,Ischaemic Heart Disease
+24/01/2020,Total,94.45768772,Ischaemic Heart Disease
+31/01/2020,Total,93.78357636,Ischaemic Heart Disease
+07/02/2020,Total,90.28855104,Ischaemic Heart Disease
+14/02/2020,Total,85.77931251,Ischaemic Heart Disease
+21/02/2020,Total,84.25791928,Ischaemic Heart Disease
+28/02/2020,Total,89.3599335,Ischaemic Heart Disease
+06/03/2020,Total,86.14785992,Ischaemic Heart Disease
+13/03/2020,Total,92.81638134,Ischaemic Heart Disease
+20/03/2020,Total,90.28610588,Ischaemic Heart Disease
+27/03/2020,Total,94.47963801,Ischaemic Heart Disease
+03/04/2020,Total,109.7737557,Ischaemic Heart Disease
+10/04/2020,Total,97.05159705,Ischaemic Heart Disease
+17/04/2020,Total,97.13292789,Ischaemic Heart Disease
+24/04/2020,Total,110.3483782,Ischaemic Heart Disease
+01/05/2020,Total,107.1047009,Ischaemic Heart Disease
+03/01/2020,Total,92.13675214,Stroke
+10/01/2020,Total,103.3546326,Stroke
+17/01/2020,Total,83.65508366,Stroke
+24/01/2020,Total,87.66458766,Stroke
+31/01/2020,Total,85.4776172,Stroke
+07/02/2020,Total,83.24104836,Stroke
+14/02/2020,Total,88.87229276,Stroke
+21/02/2020,Total,92.56505576,Stroke
+28/02/2020,Total,92.578276,Stroke
+06/03/2020,Total,92.40797546,Stroke
+13/03/2020,Total,93.84441088,Stroke
+20/03/2020,Total,91.0530483,Stroke
+27/03/2020,Total,94.37086093,Stroke
+03/04/2020,Total,121.7788861,Stroke
+10/04/2020,Total,97.62000807,Stroke
+17/04/2020,Total,105.5974593,Stroke
+24/04/2020,Total,112.7789047,Stroke
+01/05/2020,Total,99.29372663,Stroke
+03/01/2020,Total,102.4020662,Sepsis
+10/01/2020,Total,101.9329596,Sepsis
+17/01/2020,Total,99.71682113,Sepsis
+24/01/2020,Total,88.43289351,Sepsis
+31/01/2020,Total,112.7017768,Sepsis
+07/02/2020,Total,99.4129944,Sepsis
+14/02/2020,Total,101.4348243,Sepsis
+21/02/2020,Total,100.3636824,Sepsis
+28/02/2020,Total,96.69901629,Sepsis
+06/03/2020,Total,92.05821935,Sepsis
+13/03/2020,Total,96.48497803,Sepsis
+20/03/2020,Total,103.6024422,Sepsis
+27/03/2020,Total,99.71783949,Sepsis
+03/04/2020,Total,110.9381934,Sepsis
+10/04/2020,Total,88.30614681,Sepsis
+17/04/2020,Total,94.53283352,Sepsis
+24/04/2020,Total,100.4674724,Sepsis
+01/05/2020,Total,90.66668509,Sepsis
+03/01/2020,Total,88.99082569,Asthma
+10/01/2020,Total,102.8119508,Asthma
+17/01/2020,Total,100,Asthma
+24/01/2020,Total,86.87943262,Asthma
+31/01/2020,Total,100.9803922,Asthma
+07/02/2020,Total,89.17197452,Asthma
+14/02/2020,Total,91.37577002,Asthma
+21/02/2020,Total,108.6021505,Asthma
+28/02/2020,Total,93.18181818,Asthma
+06/03/2020,Total,116.5254237,Asthma
+13/03/2020,Total,111.1111111,Asthma
+20/03/2020,Total,111.2531969,Asthma
+27/03/2020,Total,127.9620853,Asthma
+03/04/2020,Total,183.6228288,Asthma
+10/04/2020,Total,175.1918159,Asthma
+17/04/2020,Total,170.8229426,Asthma
+24/04/2020,Total,197.761194,Asthma
+01/05/2020,Total,140.7407407,Asthma
+03/01/2020,Total,108.2456443,Diabetes mellitus
+10/01/2020,Total,112.0243531,Diabetes mellitus
+17/01/2020,Total,105.1113604,Diabetes mellitus
+24/01/2020,Total,98.86401054,Diabetes mellitus
+31/01/2020,Total,99.07755381,Diabetes mellitus
+07/02/2020,Total,103.6157582,Diabetes mellitus
+14/02/2020,Total,97.61135057,Diabetes mellitus
+21/02/2020,Total,104.1970803,Diabetes mellitus
+28/02/2020,Total,101.6222264,Diabetes mellitus
+06/03/2020,Total,101.2275396,Diabetes mellitus
+13/03/2020,Total,106.2546399,Diabetes mellitus
+20/03/2020,Total,111.6533865,Diabetes mellitus
+27/03/2020,Total,124.4311129,Diabetes mellitus
+03/04/2020,Total,154.1777869,Diabetes mellitus
+10/04/2020,Total,143.0394659,Diabetes mellitus
+17/04/2020,Total,158.1213699,Diabetes mellitus
+24/04/2020,Total,161.633563,Diabetes mellitus
+01/05/2020,Total,138.6476427,Diabetes mellitus
+03/01/2020,Total,92.9273603,All circulatory disease
+10/01/2020,Total,98.5960434,All circulatory disease
+17/01/2020,Total,95.36318651,All circulatory disease
+24/01/2020,Total,92.97876411,All circulatory disease
+31/01/2020,Total,94.63398476,All circulatory disease
+07/02/2020,Total,88.71185525,All circulatory disease
+14/02/2020,Total,90.81541526,All circulatory disease
+21/02/2020,Total,90.37068004,All circulatory disease
+28/02/2020,Total,92.43667242,All circulatory disease
+06/03/2020,Total,90.6072431,All circulatory disease
+13/03/2020,Total,95.03631961,All circulatory disease
+20/03/2020,Total,94.67258602,All circulatory disease
+27/03/2020,Total,97.04193218,All circulatory disease
+03/04/2020,Total,117.8075784,All circulatory disease
+10/04/2020,Total,103.9308888,All circulatory disease
+17/04/2020,Total,108.7506511,All circulatory disease
+24/04/2020,Total,118.6999176,All circulatory disease
+01/05/2020,Total,111.5441578,All circulatory disease
+03/01/2020,Total,100.3883782,All non-COVID-19
+10/01/2020,Total,101.6988395,All non-COVID-19
+17/01/2020,Total,98.23887191,All non-COVID-19
+24/01/2020,Total,92.81652856,All non-COVID-19
+31/01/2020,Total,95.06528827,All non-COVID-19
+07/02/2020,Total,92.07371263,All non-COVID-19
+14/02/2020,Total,94.10479598,All non-COVID-19
+21/02/2020,Total,93.80573883,All non-COVID-19
+28/02/2020,Total,96.67698031,All non-COVID-19
+06/03/2020,Total,94.64229819,All non-COVID-19
+13/03/2020,Total,98.25970549,All non-COVID-19
+20/03/2020,Total,99.61026184,All non-COVID-19
+27/03/2020,Total,104.155152,All non-COVID-19
+03/04/2020,Total,123.467091,All non-COVID-19
+10/04/2020,Total,112.4163625,All non-COVID-19
+17/04/2020,Total,124.5451601,All non-COVID-19
+24/04/2020,Total,125.8724543,All non-COVID-19
+01/05/2020,Total,114.2117144,All non-COVID-19
+03/01/2020,Hospital,84.55284553,Ischaemic Heart Disease
+10/01/2020,Hospital,86.63224326,Ischaemic Heart Disease
+17/01/2020,Hospital,90.92317224,Ischaemic Heart Disease
+24/01/2020,Hospital,83.49737533,Ischaemic Heart Disease
+31/01/2020,Hospital,87.0221328,Ischaemic Heart Disease
+07/02/2020,Hospital,87.17697089,Ischaemic Heart Disease
+14/02/2020,Hospital,84.01920439,Ischaemic Heart Disease
+21/02/2020,Hospital,79.65353261,Ischaemic Heart Disease
+28/02/2020,Hospital,78.76955903,Ischaemic Heart Disease
+06/03/2020,Hospital,81.27147766,Ischaemic Heart Disease
+13/03/2020,Hospital,87.40216176,Ischaemic Heart Disease
+20/03/2020,Hospital,80.84714549,Ischaemic Heart Disease
+27/03/2020,Hospital,82.60038241,Ischaemic Heart Disease
+03/04/2020,Hospital,72.21135029,Ischaemic Heart Disease
+10/04/2020,Hospital,57.93025872,Ischaemic Heart Disease
+17/04/2020,Hospital,54.4518028,Ischaemic Heart Disease
+24/04/2020,Hospital,57.30501648,Ischaemic Heart Disease
+01/05/2020,Hospital,61.1894777,Ischaemic Heart Disease
+03/01/2020,Hospital,93.79652605,Stroke
+10/01/2020,Hospital,106.9364162,Stroke
+17/01/2020,Hospital,81.32820019,Stroke
+24/01/2020,Hospital,89.90211231,Stroke
+31/01/2020,Hospital,87.77598277,Stroke
+07/02/2020,Hospital,77.75318207,Stroke
+14/02/2020,Hospital,86.846543,Stroke
+21/02/2020,Hospital,92.70952928,Stroke
+28/02/2020,Hospital,87.1586287,Stroke
+06/03/2020,Hospital,90.46242775,Stroke
+13/03/2020,Hospital,92.95054008,Stroke
+20/03/2020,Hospital,81.88657407,Stroke
+27/03/2020,Hospital,84.09785933,Stroke
+03/04/2020,Hospital,98.9010989,Stroke
+10/04/2020,Hospital,73.66589327,Stroke
+17/04/2020,Hospital,69.83568075,Stroke
+24/04/2020,Hospital,75.91153616,Stroke
+01/05/2020,Hospital,79.05982906,Stroke
+03/01/2020,Hospital,102.3168933,Sepsis
+10/01/2020,Hospital,103.5897878,Sepsis
+17/01/2020,Hospital,101.2170019,Sepsis
+24/01/2020,Hospital,88.83291955,Sepsis
+31/01/2020,Hospital,109.5554414,Sepsis
+07/02/2020,Hospital,95.93395193,Sepsis
+14/02/2020,Hospital,97.47018883,Sepsis
+21/02/2020,Hospital,100.2987038,Sepsis
+28/02/2020,Hospital,93.39647041,Sepsis
+06/03/2020,Hospital,91.06150796,Sepsis
+13/03/2020,Hospital,96.67028224,Sepsis
+20/03/2020,Hospital,102.5303347,Sepsis
+27/03/2020,Hospital,98.00825447,Sepsis
+03/04/2020,Hospital,103.0481647,Sepsis
+10/04/2020,Hospital,77.45123583,Sepsis
+17/04/2020,Hospital,73.73421026,Sepsis
+24/04/2020,Hospital,81.5131711,Sepsis
+01/05/2020,Hospital,74.88977761,Sepsis
+03/01/2020,Hospital,87.07865169,Asthma
+10/01/2020,Hospital,101.4084507,Asthma
+17/01/2020,Hospital,110.2719033,Asthma
+24/01/2020,Hospital,92.10526316,Asthma
+31/01/2020,Hospital,94.42724458,Asthma
+07/02/2020,Hospital,94.51219512,Asthma
+14/02/2020,Hospital,95.23809524,Asthma
+21/02/2020,Hospital,98.72611465,Asthma
+28/02/2020,Hospital,89.96539792,Asthma
+06/03/2020,Hospital,110.7491857,Asthma
+13/03/2020,Hospital,118.9591078,Asthma
+20/03/2020,Hospital,106.25,Asthma
+27/03/2020,Hospital,125.4681648,Asthma
+03/04/2020,Hospital,153.5433071,Asthma
+10/04/2020,Hospital,124.0875912,Asthma
+17/04/2020,Hospital,101.1235955,Asthma
+24/04/2020,Hospital,118.1102362,Asthma
+01/05/2020,Hospital,67.27272727,Asthma
+03/01/2020,Hospital,106.3192573,Diabetes mellitus
+10/01/2020,Hospital,108.5972851,Diabetes mellitus
+17/01/2020,Hospital,103.6952163,Diabetes mellitus
+24/01/2020,Hospital,96.91176471,Diabetes mellitus
+31/01/2020,Hospital,98.00613497,Diabetes mellitus
+07/02/2020,Hospital,100.2888318,Diabetes mellitus
+14/02/2020,Hospital,91.89276486,Diabetes mellitus
+21/02/2020,Hospital,107.2834646,Diabetes mellitus
+28/02/2020,Hospital,103.0006743,Diabetes mellitus
+06/03/2020,Hospital,95.05208333,Diabetes mellitus
+13/03/2020,Hospital,102.1577883,Diabetes mellitus
+20/03/2020,Hospital,101.1075384,Diabetes mellitus
+27/03/2020,Hospital,113.7211037,Diabetes mellitus
+03/04/2020,Hospital,125.6931608,Diabetes mellitus
+10/04/2020,Hospital,93.90329362,Diabetes mellitus
+17/04/2020,Hospital,89.75265018,Diabetes mellitus
+24/04/2020,Hospital,94.66714388,Diabetes mellitus
+01/05/2020,Hospital,81.30530973,Diabetes mellitus
+03/01/2020,Hospital,93.2320442,All circulatory disease
+10/01/2020,Hospital,97.51368613,All circulatory disease
+17/01/2020,Hospital,92.03013,All circulatory disease
+24/01/2020,Hospital,90.77117573,All circulatory disease
+31/01/2020,Hospital,92.56360078,All circulatory disease
+07/02/2020,Hospital,86.37198321,All circulatory disease
+14/02/2020,Hospital,87.90691418,All circulatory disease
+21/02/2020,Hospital,88.572585,All circulatory disease
+28/02/2020,Hospital,85.94078855,All circulatory disease
+06/03/2020,Hospital,87.3603446,All circulatory disease
+13/03/2020,Hospital,93.66177301,All circulatory disease
+20/03/2020,Hospital,87.49466496,All circulatory disease
+27/03/2020,Hospital,88.39150228,All circulatory disease
+03/04/2020,Hospital,87.71665411,All circulatory disease
+10/04/2020,Hospital,66.68570613,All circulatory disease
+17/04/2020,Hospital,60.92555902,All circulatory disease
+24/04/2020,Hospital,67.99253303,All circulatory disease
+01/05/2020,Hospital,68.69667549,All circulatory disease
+03/01/2020,Hospital,97.91307872,All non-COVID-19
+10/01/2020,Hospital,99.43878305,All non-COVID-19
+17/01/2020,Hospital,94.86593159,All non-COVID-19
+24/01/2020,Hospital,91.1036481,All non-COVID-19
+31/01/2020,Hospital,92.29754591,All non-COVID-19
+07/02/2020,Hospital,87.88590127,All non-COVID-19
+14/02/2020,Hospital,88.75302096,All non-COVID-19
+21/02/2020,Hospital,91.7526525,All non-COVID-19
+28/02/2020,Hospital,90.87827659,All non-COVID-19
+06/03/2020,Hospital,89.22248451,All non-COVID-19
+13/03/2020,Hospital,94.0922354,All non-COVID-19
+20/03/2020,Hospital,92.51984127,All non-COVID-19
+27/03/2020,Hospital,96.11267369,All non-COVID-19
+03/04/2020,Hospital,94.71356702,All non-COVID-19
+10/04/2020,Hospital,66.96814786,All non-COVID-19
+17/04/2020,Hospital,62.11142994,All non-COVID-19
+24/04/2020,Hospital,63.48016372,All non-COVID-19
+01/05/2020,Hospital,61.83238336,All non-COVID-19
+03/01/2020,Care home,99.5821727,Ischaemic Heart Disease
+10/01/2020,Care home,80.33419023,Ischaemic Heart Disease
+17/01/2020,Care home,84.97191011,Ischaemic Heart Disease
+24/01/2020,Care home,89.65014577,Ischaemic Heart Disease
+31/01/2020,Care home,92.77620397,Ischaemic Heart Disease
+07/02/2020,Care home,73.26283988,Ischaemic Heart Disease
+14/02/2020,Care home,88.09891808,Ischaemic Heart Disease
+21/02/2020,Care home,80.66971081,Ischaemic Heart Disease
+28/02/2020,Care home,111.2956811,Ischaemic Heart Disease
+06/03/2020,Care home,72.56990679,Ischaemic Heart Disease
+13/03/2020,Care home,86.04651163,Ischaemic Heart Disease
+20/03/2020,Care home,89.89726027,Ischaemic Heart Disease
+27/03/2020,Care home,113.3567663,Ischaemic Heart Disease
+03/04/2020,Care home,141.3969336,Ischaemic Heart Disease
+10/04/2020,Care home,125.3968254,Ischaemic Heart Disease
+17/04/2020,Care home,177.5544389,Ischaemic Heart Disease
+24/04/2020,Care home,185.1851852,Ischaemic Heart Disease
+01/05/2020,Care home,152.027027,Ischaemic Heart Disease
+03/01/2020,Care home,85.52631579,Stroke
+10/01/2020,Care home,96.50455927,Stroke
+17/01/2020,Care home,83.7037037,Stroke
+24/01/2020,Care home,68.53582555,Stroke
+31/01/2020,Care home,73.32293292,Stroke
+07/02/2020,Care home,93.10344828,Stroke
+14/02/2020,Care home,92.17391304,Stroke
+21/02/2020,Care home,82.4829932,Stroke
+28/02/2020,Care home,88.49557522,Stroke
+06/03/2020,Care home,86.20689655,Stroke
+13/03/2020,Care home,77.05479452,Stroke
+20/03/2020,Care home,106.0606061,Stroke
+27/03/2020,Care home,108.6065574,Stroke
+03/04/2020,Care home,144.6280992,Stroke
+10/04/2020,Care home,157.5052854,Stroke
+17/04/2020,Care home,183.4951456,Stroke
+24/04/2020,Care home,183.3648393,Stroke
+01/05/2020,Care home,147.6793249,Stroke
+03/01/2020,Care home,75.0438718,Sepsis
+10/01/2020,Care home,101.0986048,Sepsis
+17/01/2020,Care home,81.09806784,Sepsis
+24/01/2020,Care home,56.67649059,Sepsis
+31/01/2020,Care home,122.6442091,Sepsis
+07/02/2020,Care home,112.9067096,Sepsis
+14/02/2020,Care home,154.6521294,Sepsis
+21/02/2020,Care home,80.291695,Sepsis
+28/02/2020,Care home,125.8872051,Sepsis
+06/03/2020,Care home,93.51620948,Sepsis
+13/03/2020,Care home,86.99182277,Sepsis
+20/03/2020,Care home,95.00059375,Sepsis
+27/03/2020,Care home,99.98588435,Sepsis
+03/04/2020,Care home,185.3474422,Sepsis
+10/04/2020,Care home,203.2961076,Sepsis
+17/04/2020,Care home,338.8268459,Sepsis
+24/04/2020,Care home,335.6992135,Sepsis
+01/05/2020,Care home,220.4085745,Sepsis
+03/01/2020,Care home,90.27777778,Asthma
+10/01/2020,Care home,104.1666667,Asthma
+17/01/2020,Care home,63.10679612,Asthma
+24/01/2020,Care home,95.58823529,Asthma
+31/01/2020,Care home,117.6470588,Asthma
+07/02/2020,Care home,62.5,Asthma
+14/02/2020,Care home,92.59259259,Asthma
+21/02/2020,Care home,101.5625,Asthma
+28/02/2020,Care home,78.125,Asthma
+06/03/2020,Care home,131.147541,Asthma
+13/03/2020,Care home,97.22222222,Asthma
+20/03/2020,Care home,111.1111111,Asthma
+27/03/2020,Care home,156.7164179,Asthma
+03/04/2020,Care home,274.5098039,Asthma
+10/04/2020,Care home,308.5106383,Asthma
+17/04/2020,Care home,402.173913,Asthma
+24/04/2020,Care home,433.9622642,Asthma
+01/05/2020,Care home,404.7619048,Asthma
+03/01/2020,Care home,114.1696751,Diabetes mellitus
+10/01/2020,Care home,106.8825911,Diabetes mellitus
+17/01/2020,Care home,101.905551,Diabetes mellitus
+24/01/2020,Care home,84.33219178,Diabetes mellitus
+31/01/2020,Care home,88.16120907,Diabetes mellitus
+07/02/2020,Care home,105.6074766,Diabetes mellitus
+14/02/2020,Care home,95.06057782,Diabetes mellitus
+21/02/2020,Care home,106.6606661,Diabetes mellitus
+28/02/2020,Care home,95.6097561,Diabetes mellitus
+06/03/2020,Care home,93.83378016,Diabetes mellitus
+13/03/2020,Care home,110.5457909,Diabetes mellitus
+20/03/2020,Care home,125,Diabetes mellitus
+27/03/2020,Care home,152.8525296,Diabetes mellitus
+03/04/2020,Care home,180.0626305,Diabetes mellitus
+10/04/2020,Care home,208.7326944,Diabetes mellitus
+17/04/2020,Care home,276.119403,Diabetes mellitus
+24/04/2020,Care home,288.2288229,Diabetes mellitus
+01/05/2020,Care home,216.8874172,Diabetes mellitus
+03/01/2020,Care home,95.67420109,All circulatory disease
+10/01/2020,Care home,95.59633028,All circulatory disease
+17/01/2020,Care home,87.41258741,All circulatory disease
+24/01/2020,Care home,79.41622441,All circulatory disease
+31/01/2020,Care home,85,All circulatory disease
+07/02/2020,Care home,80.65860775,All circulatory disease
+14/02/2020,Care home,92.00863931,All circulatory disease
+21/02/2020,Care home,85.99254041,All circulatory disease
+28/02/2020,Care home,95.92013889,All circulatory disease
+06/03/2020,Care home,84.48136143,All circulatory disease
+13/03/2020,Care home,84.06708595,All circulatory disease
+20/03/2020,Care home,94.30438842,All circulatory disease
+27/03/2020,Care home,106.4703042,All circulatory disease
+03/04/2020,Care home,137.7915278,All circulatory disease
+10/04/2020,Care home,153.5358329,All circulatory disease
+17/04/2020,Care home,188.3859168,All circulatory disease
+24/04/2020,Care home,196.3087248,All circulatory disease
+01/05/2020,Care home,156.9361277,All circulatory disease
+03/01/2020,Care home,106.5180587,All non-COVID-19
+10/01/2020,Care home,101.4631653,All non-COVID-19
+17/01/2020,Care home,95.0410509,All non-COVID-19
+24/01/2020,Care home,85.34197556,All non-COVID-19
+31/01/2020,Care home,90.57307801,All non-COVID-19
+07/02/2020,Care home,89.7764749,All non-COVID-19
+14/02/2020,Care home,94.61866047,All non-COVID-19
+21/02/2020,Care home,89.41743188,All non-COVID-19
+28/02/2020,Care home,97.37827715,All non-COVID-19
+06/03/2020,Care home,92.95363832,All non-COVID-19
+13/03/2020,Care home,97.64482731,All non-COVID-19
+20/03/2020,Care home,100.0429369,All non-COVID-19
+27/03/2020,Care home,110.6317965,All non-COVID-19
+03/04/2020,Care home,159.9478089,All non-COVID-19
+10/04/2020,Care home,181.7653891,All non-COVID-19
+17/04/2020,Care home,232.7324648,All non-COVID-19
+24/04/2020,Care home,224.2128603,All non-COVID-19
+01/05/2020,Care home,189.2087023,All non-COVID-19
+03/01/2020,Private home,87.55665431,Ischaemic Heart Disease
+10/01/2020,Private home,99.90205681,Ischaemic Heart Disease
+17/01/2020,Private home,97.60333449,Ischaemic Heart Disease
+24/01/2020,Private home,109.1654247,Ischaemic Heart Disease
+31/01/2020,Private home,100.4306969,Ischaemic Heart Disease
+07/02/2020,Private home,97.89217673,Ischaemic Heart Disease
+14/02/2020,Private home,85.28361761,Ischaemic Heart Disease
+21/02/2020,Private home,91.08280255,Ischaemic Heart Disease
+28/02/2020,Private home,94.20289855,Ischaemic Heart Disease
+06/03/2020,Private home,92.91683247,Ischaemic Heart Disease
+13/03/2020,Private home,96.98641766,Ischaemic Heart Disease
+20/03/2020,Private home,101.010101,Ischaemic Heart Disease
+27/03/2020,Private home,102.6912181,Ischaemic Heart Disease
+03/04/2020,Private home,143.2242991,Ischaemic Heart Disease
+10/04/2020,Private home,136.3424849,Ischaemic Heart Disease
+17/04/2020,Private home,131.712963,Ischaemic Heart Disease
+24/04/2020,Private home,158.9892665,Ischaemic Heart Disease
+01/05/2020,Private home,150.3267974,Ischaemic Heart Disease
+03/01/2020,Private home,93.02325581,Stroke
+10/01/2020,Private home,92.10526316,Stroke
+17/01/2020,Private home,95.77922078,Stroke
+24/01/2020,Private home,112.5,Stroke
+31/01/2020,Private home,83.33333333,Stroke
+07/02/2020,Private home,95.32374101,Stroke
+14/02/2020,Private home,97.12230216,Stroke
+21/02/2020,Private home,104.3613707,Stroke
+28/02/2020,Private home,124.5136187,Stroke
+06/03/2020,Private home,115.6862745,Stroke
+13/03/2020,Private home,132.8413284,Stroke
+20/03/2020,Private home,109.4339623,Stroke
+27/03/2020,Private home,132,Stroke
+03/04/2020,Private home,209.3495935,Stroke
+10/04/2020,Private home,144.0329218,Stroke
+17/04/2020,Private home,164.7940075,Stroke
+24/04/2020,Private home,179.4871795,Stroke
+01/05/2020,Private home,140.2439024,Stroke
+03/01/2020,Private home,121.6471018,Sepsis
+10/01/2020,Private home,66.79729248,Sepsis
+17/01/2020,Private home,109.1022444,Sepsis
+24/01/2020,Private home,135.8782531,Sepsis
+31/01/2020,Private home,159.1765268,Sepsis
+07/02/2020,Private home,136.1538682,Sepsis
+14/02/2020,Private home,127.8854147,Sepsis
+21/02/2020,Private home,132.022884,Sepsis
+28/02/2020,Private home,128.9878751,Sepsis
+06/03/2020,Private home,112.5658077,Sepsis
+13/03/2020,Private home,112.6701319,Sepsis
+20/03/2020,Private home,124.6882793,Sepsis
+27/03/2020,Private home,146.6920933,Sepsis
+03/04/2020,Private home,189.3999179,Sepsis
+10/04/2020,Private home,232.8516059,Sepsis
+17/04/2020,Private home,363.674148,Sepsis
+24/04/2020,Private home,260.5426732,Sepsis
+01/05/2020,Private home,289.9727426,Sepsis
+03/01/2020,Private home,83.33333333,Asthma
+10/01/2020,Private home,101.9417476,Asthma
+17/01/2020,Private home,95.83333333,Asthma
+24/01/2020,Private home,61.9047619,Asthma
+31/01/2020,Private home,114.9425287,Asthma
+07/02/2020,Private home,82.08955224,Asthma
+14/02/2020,Private home,70,Asthma
+21/02/2020,Private home,155.8441558,Asthma
+28/02/2020,Private home,120,Asthma
+06/03/2020,Private home,137.9310345,Asthma
+13/03/2020,Private home,83.33333333,Asthma
+20/03/2020,Private home,138.1578947,Asthma
+27/03/2020,Private home,116.8831169,Asthma
+03/04/2020,Private home,232.5581395,Asthma
+10/04/2020,Private home,266.6666667,Asthma
+17/04/2020,Private home,253.3333333,Asthma
+24/04/2020,Private home,290.6976744,Asthma
+01/05/2020,Private home,259.7402597,Asthma
+03/01/2020,Private home,106.4655172,Diabetes mellitus
+10/01/2020,Private home,121.5529753,Diabetes mellitus
+17/01/2020,Private home,104.7272727,Diabetes mellitus
+24/01/2020,Private home,113.3900929,Diabetes mellitus
+31/01/2020,Private home,112.1533442,Diabetes mellitus
+07/02/2020,Private home,110.2880658,Diabetes mellitus
+14/02/2020,Private home,115.7676349,Diabetes mellitus
+21/02/2020,Private home,94.7459087,Diabetes mellitus
+28/02/2020,Private home,106.1759729,Diabetes mellitus
+06/03/2020,Private home,119.787408,Diabetes mellitus
+13/03/2020,Private home,111.9724376,Diabetes mellitus
+20/03/2020,Private home,123.9515377,Diabetes mellitus
+27/03/2020,Private home,132.3387873,Diabetes mellitus
+03/04/2020,Private home,206.1904762,Diabetes mellitus
+10/04/2020,Private home,212.8712871,Diabetes mellitus
+17/04/2020,Private home,234.8484848,Diabetes mellitus
+24/04/2020,Private home,227.2296015,Diabetes mellitus
+01/05/2020,Private home,220.0383509,Diabetes mellitus
+03/01/2020,Private home,90.06134969,All circulatory disease
+10/01/2020,Private home,100.6049961,All circulatory disease
+17/01/2020,Private home,104.6221112,All circulatory disease
+24/01/2020,Private home,102.9506784,All circulatory disease
+31/01/2020,Private home,101.519337,All circulatory disease
+07/02/2020,Private home,96.02879703,All circulatory disease
+14/02/2020,Private home,93.17919075,All circulatory disease
+21/02/2020,Private home,96.05488851,All circulatory disease
+28/02/2020,Private home,99.27932406,All circulatory disease
+06/03/2020,Private home,98.37033538,All circulatory disease
+13/03/2020,Private home,102.724595,All circulatory disease
+20/03/2020,Private home,103.6256107,All circulatory disease
+27/03/2020,Private home,107.0348997,All circulatory disease
+03/04/2020,Private home,156.20718,All circulatory disease
+10/04/2020,Private home,143.7061048,All circulatory disease
+17/04/2020,Private home,152.3151909,All circulatory disease
+24/04/2020,Private home,167.366212,All circulatory disease
+01/05/2020,Private home,166.9465435,All circulatory disease
+03/01/2020,Private home,98.59426894,All non-COVID-19
+10/01/2020,Private home,106.1118853,All non-COVID-19
+17/01/2020,Private home,106.6717315,All non-COVID-19
+24/01/2020,Private home,103.4288926,All non-COVID-19
+31/01/2020,Private home,103.8918446,All non-COVID-19
+07/02/2020,Private home,100.1914721,All non-COVID-19
+14/02/2020,Private home,102.8848321,All non-COVID-19
+21/02/2020,Private home,101.0026996,All non-COVID-19
+28/02/2020,Private home,104.9601766,All non-COVID-19
+06/03/2020,Private home,105.0136529,All non-COVID-19
+13/03/2020,Private home,105.6119681,All non-COVID-19
+20/03/2020,Private home,111.6705183,All non-COVID-19
+27/03/2020,Private home,117.0934373,All non-COVID-19
+03/04/2020,Private home,156.7126301,All non-COVID-19
+10/04/2020,Private home,150.1158557,All non-COVID-19
+17/04/2020,Private home,164.8378847,All non-COVID-19
+24/04/2020,Private home,171.9094697,All non-COVID-19
+01/05/2020,Private home,165.5968078,All non-COVID-19

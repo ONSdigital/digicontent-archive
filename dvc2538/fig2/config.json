@@ -1,0 +1,137 @@
+{
+    "essential": {
+        "graphic_data_url": "data.csv",
+        "sort_data": false,
+        "numbercolumns_sm_md_lg": [
+            1,
+            2,
+            2
+        ],
+        "colour_palette": [
+            "#871A5B",
+            "#27A0CC"
+
+        ],
+        "dateFormat": "%b-%Y",
+        "legendLabels": [
+            "Death due to COVID-19",
+            "Deaths involving but not due to COVID-19"
+        ],
+        "sourceText": [
+            "Monthly mortality analysis from the Office for National Statistics"
+        ],
+        "sourceURL": [
+            "http://www.ons.gov.uk/ons/publications/re-reference-tables.html?edition=tcm%3A77-350752"
+        ],
+        "annotationChart": [],
+        "annotationBullet": [
+            "",
+            ""
+        ],
+        "annotationXY": [
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ]
+        ],
+        "annotationAlign": [
+            "middle",
+            "middle"
+        ],
+        "circles": false,
+        "annotationCXCY": [
+            [
+                "",
+                ""
+            ],
+            [
+                "",
+                ""
+            ]
+        ],
+        "yAxisLabel": "% deaths involving COVID-19",
+        "yAxisScale": [
+            0,
+            100
+        ],
+        "yAxisBreak": false,
+        "yAxisBreak_sm_md_lg": []
+    },
+    "optional": {
+        "margin_sm": [
+            0,
+            0,
+            0,
+            20
+        ],
+        "margin_md": [
+            0,
+            0,
+            0,
+            20
+        ],
+        "margin_lg": [
+            0,
+            0,
+            0,
+            20
+        ],
+        "innersm": [
+            50,
+            7,
+            30,
+            20
+        ],
+        "innermd": [
+            60,
+            15,
+            30,
+            20
+        ],
+        "innerlg": [
+            50,
+            20,
+            30,
+            20
+        ],
+        "aspectRatio_sm": [
+            16,
+            14
+        ],
+        "aspectRatio_md": [
+            16,
+            14
+        ],
+        "aspectRatio_lg": [
+            16,
+            14
+        ],
+        "mobileBreakpoint": 610,
+        "xAxisTextFormat_sm_md_lg": {
+          "sm": "%b '%y",
+          "md": "%b '%y",
+          "lg": "%b '%y"
+        },
+        "x_num_ticks_sm_md_lg": [
+            30,
+            30,
+            30
+        ],
+        "y_num_ticks_sm_md_lg": [
+            4,
+            5,
+            5
+        ],
+        "x_ticks_every": {
+          "sm": 12,
+          "md": 8,
+          "lg": 6
+        },
+        "centre_line": false,
+        "centre_line_value": 0
+    }
+}

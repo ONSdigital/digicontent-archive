@@ -1,0 +1,34 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02004093,High Peak 001,Hadfield East & Tintwistle,0,12,0,0,0,0,0,0,1,1,1,1,0,0,covid
+E02004094,High Peak 002,Hadfield West & Gamesley,0,0,1,1,0,0,0,13,3,1,1,0,0,0,covid
+E02004095,High Peak 003,Glossop,0,7,3,0,2,1,1,3,7,1,1,2,2,0,covid
+E02004096,High Peak 004,"Dinting, Simmondley & Charlesworth",0,4,3,3,0,0,1,0,3,1,3,3,1,0,covid
+E02004097,High Peak 005,New Mills West & Furness Vale,1,1,1,0,0,0,0,0,0,0,5,2,0,1,covid
+E02004098,High Peak 006,New Mills East & Hayfield,0,11,1,2,0,1,0,1,1,2,1,5,1,0,covid
+E02004100,High Peak 008,Whaley Bridge & Chinley,0,5,1,1,0,0,0,0,1,0,4,1,1,0,covid
+E02004102,High Peak 010,Buxton North,0,12,3,4,0,1,1,1,0,3,4,6,0,0,covid
+E02004103,High Peak 011,Buxton South & East,0,2,1,1,0,0,0,0,8,4,2,0,1,1,covid
+E02004104,High Peak 012,Buxton Burbage & Harpur Hill,0,1,0,1,0,0,0,0,2,1,3,3,0,0,covid
+E02006872,High Peak 013,Chapel-en-le-Frith & Hope Valley,0,10,3,1,2,0,0,0,2,0,8,6,1,0,covid
+E02004093,High Peak 001,Hadfield East & Tintwistle,7,14,3,4,2,2,3,3,3,3,2,3,2,4,noncovid
+E02004094,High Peak 002,Hadfield West & Gamesley,7,12,4,6,6,6,12,4,4,8,4,7,4,8,noncovid
+E02004095,High Peak 003,Glossop,7,8,5,4,8,7,8,7,5,4,9,15,12,5,noncovid
+E02004096,High Peak 004,"Dinting, Simmondley & Charlesworth",5,9,6,5,4,10,7,10,16,4,9,5,10,6,noncovid
+E02004097,High Peak 005,New Mills West & Furness Vale,5,7,7,5,8,3,3,7,3,9,3,1,7,4,noncovid
+E02004098,High Peak 006,New Mills East & Hayfield,6,6,3,6,5,10,5,5,4,5,11,3,6,2,noncovid
+E02004100,High Peak 008,Whaley Bridge & Chinley,7,9,5,6,1,5,4,6,6,3,5,7,7,4,noncovid
+E02004102,High Peak 010,Buxton North,16,16,13,6,9,8,8,13,14,13,16,10,14,9,noncovid
+E02004103,High Peak 011,Buxton South & East,8,13,6,7,12,3,4,6,14,4,4,4,4,6,noncovid
+E02004104,High Peak 012,Buxton Burbage & Harpur Hill,1,3,3,5,3,5,4,1,5,5,1,7,3,3,noncovid
+E02006872,High Peak 013,Chapel-en-le-Frith & Hope Valley,10,11,6,7,9,4,9,10,11,13,9,6,14,11,noncovid
+E02004093,High Peak 001,Hadfield East & Tintwistle,4,6,4,5,5,5,4,5,6,5,8,5,4,6,average
+E02004094,High Peak 002,Hadfield West & Gamesley,7,6,4,6,4,6,8,7,5,6,8,5,7,6,average
+E02004095,High Peak 003,Glossop,6,8,8,7,7,5,4,9,7,8,9,8,6,8,average
+E02004096,High Peak 004,"Dinting, Simmondley & Charlesworth",7,6,6,7,7,5,7,7,5,8,8,7,7,6,average
+E02004097,High Peak 005,New Mills West & Furness Vale,5,5,3,4,3,4,5,5,4,4,5,4,5,5,average
+E02004098,High Peak 006,New Mills East & Hayfield,8,4,6,4,6,7,5,4,5,7,9,7,8,4,average
+E02004100,High Peak 008,Whaley Bridge & Chinley,8,7,6,5,4,4,7,6,8,7,7,6,8,7,average
+E02004102,High Peak 010,Buxton North,12,11,12,11,9,9,12,12,13,12,17,13,12,11,average
+E02004103,High Peak 011,Buxton South & East,6,6,2,5,4,5,6,7,6,4,5,6,6,6,average
+E02004104,High Peak 012,Buxton Burbage & Harpur Hill,4,4,5,4,3,3,4,4,7,6,6,5,4,4,average
+E02006872,High Peak 013,Chapel-en-le-Frith & Hope Valley,11,12,12,7,10,9,8,11,11,12,12,13,11,12,average

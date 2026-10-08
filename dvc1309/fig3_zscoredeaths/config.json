@@ -1,0 +1,24 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+            "legendLabels" : ["Female","Male"],
+            "colour_palette": ["#206095"],
+            "sourceText":"Office for National Statistics",
+            "xAxisLabel":"2020 z-score against expected"
+    },
+    "optional" : {
+            "margin_sm": [20, 20, 20, 150],
+            "margin_md": [20, 20, 20, 275],
+            "margin_lg": [20, 20, 20, 350],
+
+            "aspectRatio_sm" : [1,14],
+            "aspectRatio_md" : [1,5],
+            "aspectRatio_lg" : [4,8],
+
+            "mobileBreakpoint" : 425,
+
+            "x_num_ticks_sm_md_lg" : [5,5,5],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}

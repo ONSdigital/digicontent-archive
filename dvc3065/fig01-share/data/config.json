@@ -1,0 +1,14 @@
+{"ons":{
+"maptitle": "Occupation demand map",
+"varcolour": [
+    "YlGnBu","YlGnBu","YlGnBu","YlGnBu","YlGnBu","YlGnBu","YlGnBu","YlGnBu","YlGnBu","YlGnBu","YlGnBu"
+],
+"varlabels": ["Book-keepers, payroll managers and wages clerks","Business sales executives","Care workers and home carers","Chefs","Cleaners and domestics","IT user support technicians","Metal working production and maintenance fitters","Other administrative occupations n.e.c.","Programmers and software development professionals","Sales accounts and business development managers"],
+"varload": 0,
+"varunit": ["% share","% share","% share","% share","% share","% share","% share","% share","% share","% share"],
+"displaydecimals": 1,
+"legenddecimals":1,
+"breaks": ["jenks","jenks","jenks","jenks","jenks","jenks","jenks","jenks","jenks","jenks","jenks"],
+"dropticks": true,
+"numberBreaks": [5,5,5,5,5,5,5,5,5,5,5]
+}}

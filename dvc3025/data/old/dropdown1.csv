@@ -1,0 +1,106 @@
+﻿id,label,group
+1,"A01 Products of agriculture, hunting and related services","Agriculture, Forestry And Fishing"
+2,"A02 Products of forestry, logging and related services","Agriculture, Forestry And Fishing"
+3,A03 Fish and other fishing products; aquaculture products; support services to fishing,"Agriculture, Forestry And Fishing"
+4,B05 Coal and lignite,Mining And Quarrying
+5,B06 & B07 Extraction Of Crude Petroleum And Natural Gas Â & Mining Of Metal Ores,Mining And Quarrying
+6,B08 Other mining and quarrying products,Mining And Quarrying
+7,B09 Mining support services,Mining And Quarrying
+8,C101 Preserved meat and meat products,Manufacturing
+9,"C102_3 Processed and preserved fish, crustaceans, molluscs, fruit and vegetables",Manufacturing
+10,C104 Vegetable and animal oils and fats,Manufacturing
+11,C105 Dairy products,Manufacturing
+12,"C106 Grain mill products, starches and starch products",Manufacturing
+13,C107 Bakery and farinaceous products,Manufacturing
+14,C108 Other food products,Manufacturing
+15,C109 Prepared animal feeds,Manufacturing
+16,C11.01-6 & C12 Alcoholic beverages  & Tobacco products,Manufacturing
+17,C1107 Soft drinks,Manufacturing
+18,C13 Textiles,Manufacturing
+19,C14 Wearing apparel,Manufacturing
+20,C15 Leather and related products,Manufacturing
+21,"C16 Wood and of products of wood and cork, except furniture; articles of straw and plaiting materials",Manufacturing
+22,C17 Paper and paper products,Manufacturing
+23,C18 Printing and recording services,Manufacturing
+24,C19 Coke and refined petroleum products,Manufacturing
+25,"C203 Paints, varnishes and similar coatings, printing ink and mastics",Manufacturing
+26,"C204 Soap and detergents, cleaning and polishing preparations, perfumes and toilet preparations",Manufacturing
+27,C205 Other chemical products,Manufacturing
+28,"C20A Industrial gases, inorganics and fertilisers (all inorganic chemicals) - 20.11/13/15",Manufacturing
+29,C20B Petrochemicals - 20.14/16/17/60,Manufacturing
+30,"C20C Dyestuffs, agro-chemicals - 20.12/20",Manufacturing
+31,C21 Basic pharmaceutical products and pharmaceutical preparations,Manufacturing
+32,C22 Rubber and plastic products,Manufacturing
+33,"C235_6 Cement, lime, plaster and articles of concrete, cement and plaster",Manufacturing
+34,"C23OTHER Glass, refractory, clay, other porcelain and ceramic, stone and abrasive products - 23.1-4/7-9",Manufacturing
+35,C241_3 Basic iron and steel,Manufacturing
+36,C244_5 Other basic metals and casting,Manufacturing
+37,C254 Weapons and ammunition,Manufacturing
+38,"C25OTHER Fabricated metal products, excl. machinery and equipment and weapons & ammunition - 25.1-3/25.5-9",Manufacturing
+39,"C26 Computer, electronic and optical products",Manufacturing
+40,C27 Electrical equipment,Manufacturing
+41,C28 Machinery and equipment n.e.c.,Manufacturing
+42,"C29 Motor vehicles, trailers and semi-trailers",Manufacturing
+43,C301 Ships and boats,Manufacturing
+44,C303 Air and spacecraft and related machinery,Manufacturing
+45,C30OTHER Other transport equipment - 30.2/4/9,Manufacturing
+46,C31 Furniture,Manufacturing
+47,C32 Other manufactured goods,Manufacturing
+48,C3315 Repair and maintenance of ships and boats,Manufacturing
+49,C3316 Repair and maintenance of aircraft and spacecraft,Manufacturing
+50,C33OTHER Rest of repair; Installation - 33.11-14/17/19/20,Manufacturing
+51,"D351 Electricity, transmission and distribution","Electricity, Gas, Steam And Air Conditioning Supply"
+52,D352_3 Gas; distribution of gaseous fuels through mains; steam and air conditioning supply,"Electricity, Gas, Steam And Air Conditioning Supply"
+53,E36 Natural water; water treatment and supply services,"Water Supply; Sewerage, Waste Management And Remediation Activities"
+54,E37 Sewerage services; sewage sludge,"Water Supply; Sewerage, Waste Management And Remediation Activities"
+55,"E38 Waste collection, treatment and disposal services; materials recovery services","Water Supply; Sewerage, Waste Management And Remediation Activities"
+56,E39 Remediation services and other waste management services,"Water Supply; Sewerage, Waste Management And Remediation Activities"
+57,"F41, F42 & F43 Construction",Construction
+58,G45 Wholesale and retail trade and repair services of motor vehicles and motorcycles,Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles
+59,"G46 Wholesale trade services, except of motor vehicles and motorcycles",Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles
+60,"G47 Retail trade services, except of motor vehicles and motorcycles",Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles
+61,H491_2 Rail transport services,Transportation And Storage
+62,"H493_5 Land transport services and transport services via pipelines, excluding rail transport",Transportation And Storage
+63,H50 Water transport services,Transportation And Storage
+64,H51 Air transport services,Transportation And Storage
+65,H52 Warehousing and support services for transportation,Transportation And Storage
+66,H53 Postal and courier services,Transportation And Storage
+67,I55 Accommodation services,Accommodation And Food Service Activities
+68,I56 Food and beverage serving services,Accommodation And Food Service Activities
+69,J58 Publishing services,Information And Communication
+70,"J59 & J60 Motion Picture, Video & TV Programme Production, Sound Recording & Music Publishing Activities & Programming And Broadcasting Activities",Information And Communication
+71,J61 Telecommunications services,Information And Communication
+72,"J62 Computer programming, consultancy and related services",Information And Communication
+73,J63 Information services,Information And Communication
+74,"K64 Financial services, except insurance and pension funding",Financial And Insurance Activities
+75,"K65.1-2 & K65.3 Insurance, reinsurance and pension funding services, except compulsory social security",Financial And Insurance Activities
+76,K66 Services auxiliary to financial services and insurance services,Financial And Insurance Activities
+77,L683 Real estate services on a fee or contract basis,Real Estate Activities
+78,L68A Owner-Occupiers' Housing Services,Real Estate Activities
+79,"L68BXL683 Real estate services, excluding on a fee or contract basis and imputed rent",Real Estate Activities
+80,M691 Legal services,"Professional, Scientific And Technical Activities"
+81,"M692 Accounting, bookkeeping and auditing services; tax consulting services","Professional, Scientific And Technical Activities"
+82,M70 Services of head offices; management consulting services,"Professional, Scientific And Technical Activities"
+83,M71 Architectural and engineering services; technical testing and analysis services,"Professional, Scientific And Technical Activities"
+84,M72 Scientific research and development services,"Professional, Scientific And Technical Activities"
+85,M73 Advertising and market research services,"Professional, Scientific And Technical Activities"
+86,"M74 Other professional, scientific and technical services","Professional, Scientific And Technical Activities"
+87,M75 Veterinary services,"Professional, Scientific And Technical Activities"
+88,N77 Rental and leasing services,Administrative And Support Service Activities
+89,N78 Employment services,Administrative And Support Service Activities
+90,"N79 Travel agency, tour operator and other reservation services and related services",Administrative And Support Service Activities
+91,N80 Security and investigation services,Administrative And Support Service Activities
+92,N81 Services to buildings and landscape,Administrative And Support Service Activities
+93,"N82 Office administrative, office support and other business support services",Administrative And Support Service Activities
+94,O84 Public administration and defence services; compulsory social security services,Public Administration And Defence; Compulsory Social Security
+95,P85 Education services,Education
+96,Q86 Human health services,Human Health And Social Work Activities
+97,Q87 & Q88 Residential Care  & Social Work Activities,Human Health And Social Work Activities
+98,"R90 Creative, arts and entertainment services","Arts, Entertainment And Recreation"
+99,"R91 Libraries, archives, museums and other cultural services","Arts, Entertainment And Recreation"
+100,R92 Gambling and betting services,"Arts, Entertainment And Recreation"
+101,R93 Sports services and amusement and recreation services,"Arts, Entertainment And Recreation"
+102,S94 Services furnished by membership organisations,Other Service Activities
+103,S95 Repair services of computers and personal and household goods,Other Service Activities
+104,S96 Other personal services,Other Service Activities
+105,T97 Services of households as employers of domestic personnel,Activities Of Households As Employers; Undifferentiated Goods- And Services-Producing Activities Of Households For Own Use

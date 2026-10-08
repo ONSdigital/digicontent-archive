@@ -1,0 +1,57 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+        
+            "colour_palette": ["#D2376D", "#37288B" ],
+        
+            "dateFormat":"%b-%y",
+        
+            "legendLabels" : ["Price index accounting for packet size changes (published CPIH)", "Price index not adjusted for packet size changes"],
+        
+            "sourceText":["UK consumer price inflation, ONS"],
+            "sourceURL":["https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/june2017"],
+            
+            "annotationChart": [
+      			"the gap indicates how much the  change in packet size accounts for  the price change since 2012"
+            ],
+            "annotationBullet": [
+             	"The gap indicates how much the change in packet size accounts for the price change since 2012"
+            ],
+            "annotationXY":[
+               ["Aug-2016", 109.6]
+            ],
+            "annotationAlign":[
+             	"middle"
+            ],
+        
+            "circles" : false,    
+            "annotationCXCY":[
+                
+            ],
+        
+            "yAxisLabel":"Index (January 2012=100)",
+            "yAxisScale":[98,110] ,  
+            "yAxisBreak": false,
+            "yAxisBreak_sm_md_lg": [75,75,75]            
+    },
+    "optional" : {
+            "margin_sm": [25, 25, 40, 30],
+            "margin_md": [25, 25, 40, 30],
+            "margin_lg": [25, 25, 40, 30],
+        
+            "aspectRatio_sm" : [16,16],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+        
+            "mobileBreakpoint" : 610, 
+            "vertical_line" : false,
+            "annotateLineX1_Y1_X2_Y2":[  ],            
+            "xAxisTextFormat_sm_md_lg" : ["%Y", "%Y", "%b %Y"],                 
+            "x_num_ticks_sm_md_lg" : [7,10,10],    
+            "y_num_ticks_sm_md_lg" : [6,8,8],
+            "centre_line" : true,
+            "centre_line_value" : 100
+    }
+}
+
+

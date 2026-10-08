@@ -1,6 +1,0 @@
-{"vars": ["Overcrowded", "Standard occupancy", "Under occupied"],
-
- "filenames": ["over.json", "standard.json", "under.json"],
-
- "code": ["over", "standard", "under"]
-}

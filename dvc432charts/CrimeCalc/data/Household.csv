@@ -1,0 +1,57 @@
+Age,Sex,EmploymentDeprivation,Tenure,Chancein1000ofhouseholdbeingavictimofburglary,Chancein1000ofhouseholdbeingavictimofotherhouseholdtheft,Chancein1000ofhouseholdbeingavictimofcriminaldamage,Chancein1000ofhouseholdbeingavictimofvehiclerelatedtheft
+16-29,Female,20% least deprived,Owners,1.1,2.4,2.5,5.1
+16-29,Female,20% least deprived,Private renter,2,3.3,2.1,3.6
+16-29,Female,20% least deprived,Social renter,0,1.4,2.3,0
+16-29,Female,20% most deprived,Owners,4.4,4.7,4.6,6.1
+16-29,Female,20% most deprived,Private renter,5.5,3.4,3.8,6
+16-29,Female,20% most deprived,Social renter,5.7,6.2,4.5,6.3
+16-29,Female,Other,Owners,2.9,2.4,5.9,4.8
+16-29,Female,Other,Private renter,2.8,2.4,3.8,5.1
+16-29,Female,Other,Social renter,5.5,2.8,3.8,5
+16-29,Male,20% least deprived,Owners,1,1.1,3.8,3.7
+16-29,Male,20% least deprived,Private renter,2.5,1.5,4.2,4.7
+16-29,Male,20% least deprived,Social renter,1.9,0,1.5,..
+16-29,Male,20% most deprived,Owners,2.9,2.6,8.6,5.1
+16-29,Male,20% most deprived,Private renter,3.1,3.1,4.1,7.3
+16-29,Male,20% most deprived,Social renter,2.8,2.5,5.7,9.2
+16-29,Male,Other,Owners,1.3,2.1,4,4.3
+16-29,Male,Other,Private renter,2.2,2,3.8,4.4
+16-29,Male,Other,Social renter,3.2,1.4,4.7,6.4
+30-59,Female,20% least deprived,Owners,1.8,1.7,3.1,4.2
+30-59,Female,20% least deprived,Private renter,2.2,1.9,4.3,5.1
+30-59,Female,20% least deprived,Social renter,2.2,3,2.1,1.1
+30-59,Female,20% most deprived,Owners,3.2,3.9,6.2,5.4
+30-59,Female,20% most deprived,Private renter,3.7,4.6,5.9,6
+30-59,Female,20% most deprived,Social renter,4.2,4.5,5.8,5.1
+30-59,Female,Other,Owners,2.4,2.8,4.4,4.3
+30-59,Female,Other,Private renter,3.1,2.9,4.2,4.9
+30-59,Female,Other,Social renter,2.9,3.1,5.2,5.1
+30-59,Male,20% least deprived,Owners,2.1,1.5,3.1,4.1
+30-59,Male,20% least deprived,Private renter,2.5,1.8,3.5,4.9
+30-59,Male,20% least deprived,Social renter,0.7,2.2,4.7,4.1
+30-59,Male,20% most deprived,Owners,3.1,3.2,5.9,5.1
+30-59,Male,20% most deprived,Private renter,4.1,3.5,5.4,7
+30-59,Male,20% most deprived,Social renter,2.9,3.3,5.6,7
+30-59,Male,Other,Owners,2.5,2,4.7,5
+30-59,Male,Other,Private renter,2.4,1.7,4.2,4.7
+30-59,Male,Other,Social renter,3.5,2.6,4.7,4.9
+60+,Female,20% least deprived,Owners,1.4,1.2,1.5,1.7
+60+,Female,20% least deprived,Private renter,1,0.2,3.7,0.5
+60+,Female,20% least deprived,Social renter,1.9,1.7,0,1.4
+60+,Female,20% most deprived,Owners,1.9,2.4,2.5,2.8
+60+,Female,20% most deprived,Private renter,2.1,1.7,5.9,0
+60+,Female,20% most deprived,Social renter,1.9,2.6,1.3,3.2
+60+,Female,Other,Owners,1.5,1.5,2,1.8
+60+,Female,Other,Private renter,1.4,2,2.1,1.6
+60+,Female,Other,Social renter,2,1.9,1.8,2.8
+60+,Male,20% least deprived,Owners,1.7,1,2.1,1.6
+60+,Male,20% least deprived,Private renter,0.3,0.8,2.5,4.5
+60+,Male,20% least deprived,Social renter,1.2,0.9,1.8,2.1
+60+,Male,20% most deprived,Owners,2.5,2.5,3.2,2
+60+,Male,20% most deprived,Private renter,1.9,3,3,6.1
+60+,Male,20% most deprived,Social renter,2,2.2,3.5,3.1
+60+,Male,Other,Owners,1.6,1.6,2.4,1.9
+60+,Male,Other,Private renter,0.8,1.8,1.5,2.7
+60+,Male,Other,Social renter,1.5,2,3.2,2.5
+All in England,All in England,All in England,All in England,2.4,2.2,3.7,3
+All in Wales,All in Wales,All in Wales,All in Wales,2.2,2.6,3.6,2.6

@@ -1,0 +1,1495 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+    <title></title>
+
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+    <link rel="stylesheet" href="../lib/globalStyle.css" />
+    <link rel="stylesheet" href="../lib/owlcarousel.css" />
+    <link rel="stylesheet" href="../lib/owltheme.css" />
+    <style type="text/css">
+		
+		.line-0 { stroke: #274796; }
+		.border0 { border-top: 2px solid #274796; }
+
+				
+		
+		/* legend element labels */
+        #graphic .key label/* required */
+		{
+            white-space: nowrap;
+            font-size: 12px;
+            color: #333;
+            font-weight: normal;
+        }
+		
+		#wrapper {
+					width: 100%;
+					max-width: 800px;
+					margin: 0 auto;
+					font-family: 'Open Sans', Arial, sans-serif;
+				}
+				
+				
+				#graphic x.axis labels{
+					display:none;	
+				}
+				
+				.falseLabels{
+					font-size:12px;	
+					color:red;	
+					fill:red;
+				}
+				
+				#image {
+					position: relative;
+					height: auto;
+				}
+				
+				.one img { 
+					display: block; 
+				}
+				
+				.number { 
+					padding: 13px 0 13px 40px; 
+				}
+				
+				#header-one {
+					width: 365px;
+					background-color: #2e2e2e;
+					height: 101px;
+					z-index: 1;
+					position: absolute;
+					top: 35px;
+					left: 0;
+					opacity: 0.8;
+				}
+				
+				#text-one {
+					width: 365px;
+					height: 101px;
+					z-index: 1;
+					position: absolute;
+					top: 35px;
+					left: 0;
+				}
+				
+				#header-two {
+					width: 390px;
+					background-color: #2e2e2e;
+					height: 101px;
+					z-index: 1;
+					position: absolute;
+					top: 35px;
+					left: 0;
+					opacity: 0.8;
+				}
+				
+				#text-two {
+					width: 390px;
+					height: 101px;
+					z-index: 1;
+					position: absolute;
+					top: 35px;
+					left: 0;
+				}
+				
+				#header-three {
+					width: 445px;
+					background-color: #2e2e2e;
+					height: 101px;
+					z-index: 1;
+					position: absolute;
+					top: 35px;
+					left: 0;
+					opacity: 0.8;
+				}
+				
+				#text-three {
+					width: 445px;
+					height: 101px;
+					z-index: 1;
+					position: absolute;
+					top: 35px;
+					left: 0;
+				}
+				
+				#header-four {
+					width: 315px;
+					background-color: #2e2e2e;
+					height: 101px;
+					z-index: 1;
+					position: absolute;
+					top: 35px;
+					left: 0;
+					opacity: 0.8;
+				}
+				
+				#text-four {
+					width: 315px;
+					height: 101px;
+					z-index: 1;
+					position: absolute;
+					top: 35px;
+					left: 0;
+				}
+				
+				#header-five {
+					width: 335px;
+					background-color: #2e2e2e;
+					height: 101px;
+					z-index: 1;
+					position: absolute;
+					top: 35px;
+					left: 0;
+					opacity: 0.8;
+				}
+				
+				#text-five {
+					width: 335px;
+					height: 101px;
+					z-index: 1;
+					position: absolute;
+					top: 35px;
+					left: 0;
+				}
+				
+				#header-six {
+					width: 370px;
+					background-color: #2e2e2e;
+					height: 101px;
+					z-index: 1;
+					position: absolute;
+					top: 35px;
+					left: 0;
+					opacity: 0.8;
+				}
+				
+				#text-six {
+					width: 370px;
+					height: 101px;
+					z-index: 1;
+					position: absolute;
+					top: 35px;
+					left: 0;
+				}
+				
+				#header-seven {
+					width: 405px;
+					background-color: #2e2e2e;
+					height: 101px;
+					z-index: 1;
+					position: absolute;
+					top: 35px;
+					left: 0;
+					opacity: 0.8;
+				}
+				
+				#text-seven {
+					width: 405px;
+					height: 101px;
+					z-index: 1;
+					position: absolute;
+					top: 35px;
+					left: 0;
+				}
+				
+				#header-eight {
+					width: 385px;
+					background-color: #2e2e2e;
+					height: 101px;
+					z-index: 1;
+					position: absolute;
+					top: 35px;
+					left: 0;
+					opacity: 0.8;
+				}
+				
+				#text-eight {
+					width: 385px;
+					height: 101px;
+					z-index: 1;
+					position: absolute;
+					top: 35px;
+					left: 0;
+				}
+				
+				#header-nine {
+					width: 400px;
+					background-color: #2e2e2e;
+					height: 101px;
+					z-index: 1;
+					position: absolute;
+					top: 35px;
+					left: 0;
+					opacity: 0.8;
+				}
+				
+				#text-nine {
+					width: 400px;
+					height: 101px;
+					z-index: 1;
+					position: absolute;
+					top: 35px;
+					left: 0;
+				}
+				
+				#number {
+					width: 380px;
+					height: 101px;
+					z-index: 2;
+					position: absolute;
+					top: 35px;
+					left: 0;
+					opacity: 1;
+				} 
+				
+				p {
+					font-family: 'Open Sans', Arial, sans-serif;
+					color: #fff;
+					font-size: 18px;
+					padding: 25px 40px 30px 40px;
+					margin: 0;
+				}
+				
+				#yAxisunit {
+					font-family: 'Open Sans', Arial, sans-serif;
+					color: black;
+					font-size: 18px;
+					margin: 0;
+					padding: 0px 0px 0px 0px;
+				}
+				
+				h1 {
+					font-family: 'Open Sans', Arial, sans-serif;
+					color: #fff;
+					font-size: 46px;
+					padding-left: 130px;
+					margin-top: 3px;
+					margin-bottom: 0;
+					font-weight: 700;
+				}
+				h4 {
+					font-family: 'Open Sans', Arial, sans-serif;
+					color: #fff;
+					font-size: 70px;
+					/*padding-left: 30px;*/
+					margin-top: 2px;
+					margin-bottom: 0;
+					font-weight: 700;
+					opacity: 0.85;
+				}
+				h2 {
+					font-family: 'Open Sans', Arial, sans-serif;
+					font-weight: 400;
+					color: #fff;
+					font-size: 24px;
+					padding-left: 130px;
+					margin-top: -11px;
+				}
+				h5 {
+					font-family: 'Open Sans', Arial, sans-serif;
+					font-weight: 400;
+					color: #fff;
+					font-size: 24px;
+					/*padding-left: 30px;*/
+					margin-top: -11px;
+					font-weight: 600;
+					opacity: 0.85;
+				}
+				h3 {
+					font-family: 'Open Sans', Arial, sans-serif;
+					font-weight: 600;
+					color: #fff;
+					font-size: 18px;
+					margin: 0;
+					padding: 10px 20px 10px 93px;
+				}
+				
+				#icon-container {
+					width: 100%;
+					float: left;
+					height: auto;
+				}
+				
+				#icon-container-top {
+					width: 100%;
+					float: left;
+					height: auto;
+					padding-top: 20px;
+				}
+				
+				
+				.icon-cross {
+					background-image: url("../images/cross.svg");
+					background-position: 40px 22px;
+					background-repeat: no-repeat;
+				}
+				
+				.icon-calendar {
+					background-image: url("../images/calendar.svg");
+					background-position: 40px 3px;
+					background-repeat: no-repeat;
+				}
+				
+				
+				.icon-coalpick {
+					background-image: url("../images/coalpick.svg");
+					background-position: 40px 22px;
+					background-repeat: no-repeat;
+				}
+				
+				.icon-slidingwage {
+					background-image: url("../images/slidingwage.svg");
+					background-position: 40px 3px;
+					background-repeat: no-repeat;
+				}
+				
+					.icon-minwage {
+					background-image: url("../images/minwage.svg");
+					background-position: 40px 3px;
+					background-repeat: no-repeat;
+				}
+				.icon-engineertools {
+					background-image: url("../images/engineertools.svg");
+					background-position: 40px 22px;
+					background-repeat: no-repeat;
+				}
+				
+				.icon-47hr {
+					background-image: url("../images/47hr.svg");
+					background-position: 40px 3px;
+					background-repeat: no-repeat;
+				}
+					.icon-tempwage {
+					background-image: url("../images/tempwage.svg");
+					background-position: 40px 3px;
+					background-repeat: no-repeat;
+				}
+					.icon-train {
+					background-image: url("../images/train.svg");
+					background-position: 40px 22px;
+					background-repeat: no-repeat;
+				}
+				
+				.icon-megaphone {
+					background-image: url("../images/megaphone.svg");
+					background-position: 40px 3px;
+					background-repeat: no-repeat;
+				}
+				.icon-deal {
+					background-image: url("../images/deal.svg");
+					background-position: 40px 3px;
+					background-repeat: no-repeat;
+				}
+						.icon-person {
+					background-image: url("../images/person.svg");
+					background-position: 40px 22px;
+					background-repeat: no-repeat;
+				}
+					.icon-pitclosed {
+					background-image: url("../images/pitclosed.svg");
+					background-position: 40px 3px;
+					background-repeat: no-repeat;
+				}
+				
+				
+				
+				
+				#text {
+					/*width: 100%;*/
+					height: auto;
+					clear: both;
+				}
+				
+				#info-one {
+					background-color: #2e2e2e;
+					display: block;
+						/*width: 100px;*/
+						height: auto;
+						position:center;
+				}
+				
+				#info-two {
+					background-color: #2e2e2e;
+				}
+				
+				#info-three {
+					background-color: #2e2e2e;
+				}
+				
+				#info-four {
+					background-color: #2e2e2e;
+				}
+				
+				#info-five {
+					background-color: #2e2e2e;
+				}
+				
+				#info-six {
+					background-color: #2e2e2e;
+				}
+				
+				#info-seven {
+					background-color: #2e2e2e;
+				}
+				
+				#info-eight {
+					background-color: #2e2e2e;
+				}
+				
+				#info-nine {
+					background-color: #2e2e2e;
+				}
+				.days {
+						padding: 5px 20px;
+						height: 90px;
+						width:460px;
+						z-index: 1;
+						position: absolute;
+						top: 50%;
+						right: 0px;
+						text-align: end;
+						/*background-color: rgba(38,50,86,0.5);*/
+					}
+				
+				/* #col1{
+						background-color: rgba(200,200,200,0.5);
+				}
+				#col2{
+						background-color: rgba(200,200,200,0.5);
+				}
+				#col3{
+						background-color: rgba(200,200,200,0.5);
+				}
+				#col4{
+						background-color: rgba(200,200,200,0.5);
+				}
+				#col5{
+						background-color: rgba(200,200,200,0.5);
+				}
+				#col6{
+						background-color: rgba(200,200,200,0.5);
+				}
+				#col7{
+						background-color: rgba(200,200,200,0.5);
+				}
+				#col8{
+						background-color: rgba(200,200,200,0.5);
+				}
+				#col9{
+						background-color: rgba(38,50,86,0.5);
+				} */
+				@media screen and (max-width: 480px) {
+					
+				.number { 
+					padding: 0 0 5px 25px;
+					-ms-transform: scale(0.8);  /*IE 9 */
+					-webkit-transform: scale(0.8); /* Safari */
+					transform: scale(0.8);
+				}
+				
+				.days {
+						padding: 0px 20px;
+						height: 68px;
+						width:260px;
+						top: 130px;
+						right: 0px;
+				}
+					
+				#header-one, #text-one {
+					width: 300px;
+					height: 75px;
+					top: 15px;
+				}
+				
+				#header-two, #text-two {
+					width: 320px;
+					height: 75px;
+					top: 15px;
+				}
+				
+				#header-three, #text-three {
+					width: 295px;
+					height: 75px;
+					top: 15px;
+				}
+				
+				#header-four, #text-four {
+					width: 255px;
+					height: 75px;
+					top: 15px;
+				}
+				
+				#header-five, #text-five {
+					width: 275px;
+					height: 75px;
+					top: 15px;
+				}
+				
+				#header-six, #text-six {
+					width: 300px;
+					height: 75px;
+					top: 15px;
+				}
+				
+				#header-seven, #text-seven {
+					width: 325px;
+					height: 75px;
+					top: 15px;
+				}
+				
+				#header-eight, #text-eight {
+					width: 310px;
+					height: 75px;
+					top: 15px;
+				}
+				
+				#header-nine, #text-nine {
+					width: 330px;
+					height: 75px;
+					top: 15px;
+				}
+				
+				#number {
+					width: 310px;
+					height: 75px;
+					top: 15px;
+				} 
+				
+				h1 {
+					font-size: 36px;
+					padding-left: 105px;
+					margin-top: 3px;
+				}
+				h4 {
+					font-size: 40px;
+					padding-left: 10px;
+					margin-top: 3px;
+				}
+				h2 {
+					font-size: 20px;
+					padding-left: 105px;
+				}
+				h5 {
+					font-size: 20px;
+					padding-left: 10px;
+				}
+				h3 {
+					font-size: 16px;
+					padding: 10px 20px 10px 78px;
+				}
+				
+				p {
+					font-size: 14px;
+					padding: 25px 25px 25px 25px;
+				}
+				
+				
+				
+				
+				.icon-cross {
+					background-position: 25px 22px;
+				}
+				
+				.icon-calendar {
+					background-position: 25px 3px;
+				}
+				
+				
+				
+				
+				.icon-coalpick {
+					background-position: 25px 22px;
+				}
+				
+				.icon-slidingwage {
+					background-position: 25px 3px;
+				}
+				.icon-minwage {
+					background-position: 25px 3px;
+				}
+				.icon-tempwage {
+					background-position: 25px 3px;
+				}
+					.icon-train {
+					background-position: 25px 22px;
+				}
+				
+				.icon-megaphone {
+					background-position: 25px 3px;
+				}
+						.icon-person {
+					background-position: 25px 22px;
+				}
+				.icon-pitclosed {
+					background-position: 25px 3px;
+				}
+				
+
+						 
+			/*#owl-demo .tiles {
+				display: block;
+				width: 100%;
+				height: auto;
+				background-position:center;
+				}*/
+		
+		}
+				
+
+		
+		.bigDisc{
+			stroke:#E66500;
+			stroke-width:0px;
+			/*display:inline;*/
+			cursor: pointer;
+		}
+		.numInside {
+		    font-family: 'Open Sans', sans-serif;
+			font-size: 16px;
+			fill: #eee;
+			font-weight:500;
+			pointer-events:none;
+		}
+		
+		#bigNum {
+		font-family: 'Open Sansbold', sans-serif;
+		font-size:70px;
+		stroke-width:1px;
+		stroke: #FFF;
+		color:#008cba;
+		position:absolute;
+		top:50%;
+		width:100%;
+		text-align: center;
+	}
+	
+	.owl-item h4 {
+		/* width:170px;*/
+		padding-left:10px;
+		padding-top:5px;
+	}
+	
+	
+/*	.owl-carousel {
+		font-family: 'open_sansregular';
+		font-size:32px;
+		color:#abc;
+		z-index:5;
+		background-color:#fafafa;
+		
+	}*/
+	
+	#carousel {
+		padding-bottom:10px;	
+		margin-top:10px;
+		/*margin-left:100px;
+		margin-right:100px;
+		width:100%;*/
+		align:middle;
+	}
+	 
+	#owl-demo .tiles {  /* img  */
+		display: block;
+		width: 100%;
+		height: auto;
+		background-position:center;
+		}
+		
+    
+    </style>
+</head>
+<body>
+	<div id="wrapper">
+    <div id="graphic">
+    	<img src="fallback.png" alt="[Chart]" />
+    </div>
+	   
+    <div class="row" id="carousel"> 
+			<div>
+               <!-- <div class="span12"> -->
+                
+                      <div id="owl-demo" class="owl-carousel owl-theme">
+                       <div id="x0" class="tiles">
+                         
+                           <div id="one">
+                            
+                                <div id="image" class="one">
+                                	<img border="0" alt="Welsh Coal Strike" src="../images/1_1899.jpg" width="100%">
+                                
+                                	<div class="days" id="col1">
+                                    	<h4 id="days1"></h4>
+                                    	<h5>Working days lost in the year</h5>
+                                    </div>
+                                		
+                                    <div id="header-one">
+                                    </div>
+                                    
+                                    <div id="text-one">
+                                        <h1>1898</h1>
+                                        <h2>Welsh coal strike</h2>
+                                    </div>
+                                
+                                    <div id="number">
+                                        <img class="number" border="0" alt="one" src="../images/1.svg" height="75px" width="75px">
+                                    </div>
+                                    
+                                </div> 
+                                  
+                                <div id="info-one">
+                                    
+                                    <div id="icon-container-top" class="icon-coalpick">
+                                        <h3>People involved: Colliers of South Wales</h3>
+                                    </div>
+                                        
+                                    <div id="icon-container" class="icon-slidingwage">
+                                        <h3>Result: Sliding wage scale remained</h3>
+                                    </div>
+                                    
+                                    <div id="text">
+                                        <p>Dispute involved the colliers of South Wales. It was caused by the introduction of a sliding wage scale for workers. The strike was unsuccessful as the sliding scale stayed in place, although the miners were given a 5% advance. Subsequently, the South Wales Miners’ Federation ('The Fed') was formed.</p>
+                                    </div>
+                                
+                                </div>
+                                    
+                      </div>  <!--  one  -->
+  						</div> <!-- #x0-->
+                          <div id="x1" class="tiles">
+                            <div id="two">
+    
+                             <div id="image" class="one">
+                                <img border="0" alt="National coal strike" src="../images/2_1912.jpg" width="100%">
+                                	<div class="days" id="col2">
+                                    	<h4 id="days2"></h4>
+                                    	<h5>Working days lost in the year</h5>
+                                    </div>
+                                    
+                                    <div id="header-two"></div>
+                                    
+                                    <div id="text-two">
+                                        <h1>1912</h1>
+                                        <h2>National coal strike</h2>
+                                    </div>
+                                
+                                    <div id="number">
+                                        <img class="number" border="0" alt="two" src="../images/2.svg" height="75px" width="75px">
+                                    </div>
+                             </div>
+                                
+                             <div id="info-two">
+                                <div id="icon-container-top" class="icon-coalpick">
+                                    <h3>People involved: Coal miners</h3>
+                                </div>
+                                    
+                                <div id="icon-container" class="icon-minwage">
+                                    <h3>Result: Minimum wage secured</h3>
+                                </div>
+                                
+                                <div id="text">
+                                    <p>Dispute involved nearly one million miners. It was the first national strike by miners and they aimed to secure a minimum wage. After 37 days, the government intervened and ended the strike by passing the Coal Mines (Minimum Wage) Act 1912.</p>
+                                </div>
+        					</div> 
+ 						 </div>  <!--  two  -->
+                       </div>  <!-- #x1-->
+                       
+                       <div id="x2" class="tiles">
+                       <div id="three">
+                              <div id="image" class="one">
+                                <img border="0" alt="Battle of George square" src="../images/3_1919.jpg" width="100%">
+                                	<div class="days" id="col3">
+                                    	<h4 id="days3"></h4>
+                                    	<h5>Working days lost in the year</h5>
+                                    </div>
+                                    
+                                    <div id="header-three">
+                                    </div>
+                                    
+                                    <div id="text-three">
+                                        <h1>1919</h1>
+                                        <h2>Battle of George Square</h2>
+                                    </div>
+                                
+                                    <div id="number">
+                                        <img class="number" border="0" alt="three" src="../images/3.svg" height="75px" width="75px">
+                                    </div>
+                               </div>
+                                
+                                
+                            <div id="info-three">
+                                <div id="icon-container-top" class="icon-engineertools">
+                                    <h3>People involved: Shipbuilding and engineering workers</h3>
+                                </div>
+                                    
+                                <div id="icon-container" class="icon-47hr">
+                                    <h3>Result: 47-hour work week guaranteed</h3>
+                                </div>
+                                
+                                <div id="text">
+                                    <p>Dispute involved workers in shipbuilding and engineering, who went on strike over shorter weekly working hours. The strike was a catalyst for one of the most intense riots in the history of Glasgow, with armed troops deployed on the streets. Eventually the workers returned to work with a guaranteed 47-hour week.</p>
+                                </div>
+                            </div>
+      					</div>   <!--  three  --> 
+                      </div>  <!-- #x2-->
+                      
+                    <div id="x3" class="tiles">
+                      <div id="four">
+                                <div id="image" class="one">
+                                	<img border="0" alt="Black Friday" src="../images/4_1921.jpg" width="100%">
+                                	<div class="days" id="col4">
+                                    	<h4 id="days4"></h4>
+                                    	<h5>Working days lost in the year</h5>
+                                    </div>
+                                    
+                                    <div id="header-four"></div>
+                                    
+                                    <div id="text-four">
+                                        <h1>1921</h1>
+                                        <h2>Black Friday</h2>
+                                    </div>
+                                
+                                    <div id="number">
+                                        <img class="number" border="0" alt="four" src="../images/4.svg" height="75px" width="75px">
+                                    </div>
+                                </div>
+                                
+                                <div id="info-four">
+                                    <div id="icon-container-top" class="icon-coalpick">
+                                        <h3>People involved: Coal miners</h3>
+                                    </div>
+                                        
+                                    <div id="icon-container" class="icon-tempwage">
+                                        <h3>Result: Temporary wage subsidy given</h3>
+                                    </div>
+                                    
+                                    <div id="text">
+                                        <p>On April 15, the transport and rail unions decided not to strike in support of their Triple Alliance partners, the coal miners, who were protesting about pay cuts and longer working hours.  The day is known as Black Friday. Eventually the government granted a temporary subsidy to avoid wage reductions.</p>
+                                    </div>
+                                </div>
+      					</div>  <!--  four  --> 
+                       </div>  <!-- #x3-->
+                       
+                <div id="x4" class="tiles">
+                 <div id="five">
+                            <div id="image" class="one">
+                            <img border="0" alt="General Strike" src="../images/5_1926.jpg" width="100%">
+                            	<div class="days" id="col5">
+                                    	<h4 id="days5"></h4>
+                                    	<h5>Working days lost in the year</h5>
+                                    </div>
+                                    
+                                <div id="header-five"></div>
+                                
+                                <div id="text-five">
+                                    <h1>1926</h1>
+                                    <h2>General Strike</h2>
+                                </div>
+                            
+                                <div id="number">
+                                    <img class="number" border="0" alt="five" src="../images/5.svg" height="75px" width="75px">
+                                </div>
+                            </div>
+                            
+                            <div id="info-five">
+                                <div id="icon-container-top" class="icon-train">
+                                    <h3>People involved: Transport and heavy industry workers</h3>
+                                </div>
+                                    
+                                <div id="icon-container" class="icon-megaphone">
+                                    <h3>Result: Low pay and poor condition remained</h3>
+                                </div>
+                                
+                                <div id="text">
+                                    <p>More than 1.5 million workers went on strike in support of coal miners, whose bosses wanted to reduce wages and conditions. 
+In solidarity, people from other industries stayed off work.  The Trades Union Congress  called off the strike nine days later. In 1927 the Trades Disputes Act banned sympathy strikes.
+</p>
+                                </div>
+                            </div>
+      				</div>  <!--  five  -->
+                </div>  <!-- #x4-->
+                
+                <div id="x5" class="tiles">
+                	<div id="six">
+                          <div id="image" class="one">
+                            <img border="0" alt="UK miners’ strike" src="../images/6_1972.jpg" width="100%">
+                            	<div class="days" id="col6">
+                                    	<h4 id="days6"></h4>
+                                    	<h5>Working days lost in the year</h5>
+                                    </div>
+                                    
+                                <div id="header-six"></div>
+                                
+                                <div id="text-six">
+                                    <h1>1972</h1>
+                                    <h2>UK miners’ strike</h2>
+                                </div>
+                            
+                                <div id="number">
+                                    <img class="number" border="0" alt="six" src="../images/6.svg" height="75px" width="75px">
+                                </div>
+                          </div>
+                            
+                          <div id="info-six">
+                            <div id="icon-container-top" class="icon-coalpick">
+                                <h3>People involved: Coal miners</h3>
+                            </div>
+                                
+                            <div id="icon-container" class="icon-deal">
+                                <h3>Result: Pay offer confirmed</h3>
+                            </div>
+                            
+                            <div id="text">
+                                <p>Miners went on official strike for the first time since 1926 after wage negotiations between the National Union of Mineworkers  and the National Coal Board collapsed. A state of emergency was declared and a three-day week introduced to save electricity. The same happened in 1974, contributing to the fall of Edward Heath’s Conservative government.</p>
+                            </div>
+                          </div>
+                       </div>  <!--  six  -->
+                    </div>  <!-- #x5-->
+                    
+                <div id="x6" class="tiles">
+                	<div id="seven">
+                          <div id="image" class="one">
+                            <img border="0" alt="Winter of discontent" src="../images/7_1979.jpg" width="100%">
+                            	<div class="days" id="col7">
+                                    	<h4 id="days7"></h4>
+                                    	<h5>Working days lost in the year</h5>
+                                    </div>
+                                    
+                                <div id="header-seven"></div>
+                                
+                                <div id="text-seven">
+                                    <h1>1979</h1>
+                                    <h2>Winter of discontent</h2>
+                                </div>
+                            
+                                <div id="number">
+                                    <img class="number" border="0" alt="seven" src="../images/7.svg" height="75px" width="75px">
+                                </div>
+                            </div>
+                            
+                            <div id="info-seven">
+                                <div id="icon-container-top" class="icon-person">
+                                    <h3>People involved: Public sector workers</h3>
+                                </div>
+                                    
+                                <div id="icon-container" class="icon-deal">
+                                    <h3>Result: Trade union restriction agreed</h3>
+                                </div>
+                                
+                                <div id="text">
+                                    <p>There were widespread public sector strikes, with unions demanding larger pay rises following government attempts to cap pay in a bid to tackle inflation. The strikes lead to a landslide victory for Margaret Thatcher’s Conservative Party, who promised and delivered legislation to restrict trades union powers.</p>
+                                </div>
+                            </div>
+                       </div>    <!--  seven  -->
+      			</div>  <!-- #x6-->
+                
+                <div id="x7" class="tiles">
+                	<div id="eight">
+                        <div id="image" class="one">
+                        <img border="0" alt="UK miners’ strike, Battle of Orgreave" src="../images/8_1984.jpg" width="100%">
+                        	<div class="days" id="col8">
+                                    	<h4 id="days8"></h4>
+                                    	<h5>Working days lost in the year</h5>
+                                    </div>
+                                    
+                            <div id="header-eight"></div>
+                            
+                            <div id="text-eight">
+                                <h1>1984</h1>
+                                <h2>Battle of Orgreave</h2>
+                            </div>    
+                        
+                            <div id="number">
+                                <img class="number" border="0" alt="eight" src="../images/8.svg" height="75px" width="75px">
+                            </div>
+                        </div>
+                        
+                            <div id="info-eight">
+                            
+                            <div id="icon-container-top" class="icon-coalpick">
+                                <h3>People involved: Coal miners</h3>
+                            </div>
+                                
+                            <div id="icon-container" class="icon-pitclosed">
+                                <h3>Result: Pit closures continued</h3>
+                            </div>
+                            
+                            <div id="text">
+                                <p>At its peak, 142,000 miners went on strike over pit closures and pay.  In June 1984, picketing miners tried to prevent lorries carrying coke from leaving a coking plant at Orgreave, near Rotherham. There followed a violent clash with police - dubbed the Battle of Orgreave. Hundreds of pits closed after the strike.</p>
+                            </div>
+                        </div>
+                     </div>    <!--  eight  -->        
+                  </div>  <!-- #x7-->
+                  
+                <div id="x8" class="tiles">
+                 	<div id="nine">
+    					<div id="image" class="one">
+        				<img border="0" alt="Public sector strikes" src="../images/9_2011.jpg" width="100%">
+                            <div class="days" id="col9">
+                                    	<h4 id="days9"></h4>
+                                    	<h5>Working days lost in the year</h5>
+                                    </div>
+                                    
+                                <div id="header-nine"></div>
+                                
+                                <div id="text-nine">
+                                    <h1>2011</h1>
+                                    <h2>Public sector strikes</h2>
+                                </div>
+                            
+                                <div id="number">
+                                    <img class="number" border="0" alt="nine" src="../images/9.svg" height="75px" width="75px">
+                                </div>
+                         </div>
+                            
+                         <div id="info-nine">
+                            <div id="icon-container-top" class="icon-person">
+                                <h3>People involved: Public sector workers</h3>
+                            </div>
+                                
+                            <div id="icon-container" class="icon-deal">
+                                <h3>Result: Negotiations continued</h3>
+                            </div>
+                            
+                            <div id="text">
+                                <p>Hundreds of thousands public sector workers were involved in a series of disputes over pensions. More than a million people were involved in industrial action, which was also amid concern over pay and a fall in living standards. It caused the closure of schools and the postponement of hospital operations.</p>
+                            </div>
+                         </div>
+      				</div>   <!--  nine  -->    
+                  </div>   <!-- #x8-->
+
+               </div>   <!-- owl-demo-->
+              <!-- </div>-->
+            </div>
+       </div>   <!-- row  carousel-->
+        
+    <div id="keypoints">
+        <p></p>
+    </div>
+	
+   
+   </div>
+    
+    <script src="../lib/jquery.js" type="text/javascript"></script>
+    <script src="../lib/d3.v3.min.js" type="text/javascript"></script>
+    <script src="../lib/modernizr.svg.min.js" type="text/javascript"></script>
+    <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="../lib/owlcarousel.js" type="text/javascript"></script>
+    <script src="../lib/jquery.countTo.js" type="text/javascript"></script>
+    
+    <script>
+		var graphic = $('#graphic');
+		var keypoints = $('#keypoints');
+		var footer = $(".footer");
+		var pymChild = null;
+		var owlCaro = $('#owl-demo');
+		var myPrev = 10;
+		var lastSlide = 0;
+		var count = 0;
+		var prevcount = 0;
+
+	function drawGraphic(width) {
+		   var threshold_md = 788;
+		   var threshold_sm = dvc.optional.mobileBreakpoint; 
+		  
+		  	//set variables for chart dimensions dependent on width of #graphic
+		    if (graphic.width() < threshold_sm) {     var discSize = 8;    	
+		            var margin = {top: dvc.optional.margin_sm[0], right: dvc.optional.margin_sm[1], bottom: dvc.optional.margin_sm[2], left: dvc.optional.margin_sm[3]}; 
+					var chart_width = graphic.width() - margin.left - margin.right;
+		            var height = Math.ceil((chart_width * dvc.optional.aspectRatio_sm[1]) / dvc.optional.aspectRatio_sm[0]) - margin.top - margin.bottom;
+		    } else if (graphic.width() < threshold_md){     var discSize = 14;
+		        	var margin = {top: dvc.optional.margin_md[0], right: dvc.optional.margin_md[1], bottom: dvc.optional.margin_md[2], left: dvc.optional.margin_md[3]}; 
+					var chart_width = graphic.width() - margin.left - margin.right;
+		            var height = Math.ceil((chart_width * dvc.optional.aspectRatio_md[1]) / dvc.optional.aspectRatio_md[0]) - margin.top - margin.bottom;
+		  	} else {   var discSize = 14;
+		        	var margin = {top: dvc.optional.margin_lg[0], right: dvc.optional.margin_lg[1], bottom: dvc.optional.margin_lg[2], left: dvc.optional.margin_lg[3]}
+					var chart_width = graphic.width() - margin.left - margin.right;
+		            var height = Math.ceil((chart_width * dvc.optional.aspectRatio_lg[1]) / dvc.optional.aspectRatio_lg[0]) - margin.top - margin.bottom;
+			}
+
+		    // clear out existing graphics
+		    graphic.empty();
+			keypoints.empty();
+			footer.empty();
+			//owlCaro.empty();
+
+
+//		var specialDate = new Date(2001,4,14);
+		var specialDates = [ "1891" , "1901" , "1911" ,  "1921" ,  "1931" ,  "1941" ,  "1951" ,  "1961" ,  "1971" ,  "1981" ,  "1991" , "2001" , "2011"  ];
+		var specialDatesM = [ "1891" , "1911" , "1931" , "1951" ,  "1971" ,   "1991" , "2011"  ];
+
+		    //var x = d3.time.scale().range([0, chart_width]);				
+		    var y = d3.scale.linear().range([height, 0]);
+			
+			var x = d3.time.scale()
+				.range([0, chart_width])
+				.domain([new Date(1891,1,1), new Date(2011,11,1)]);
+
+		    x.domain(d3.extent(graphic_data, function(d) { return d.date; }));
+	/*	    var xAxis = d3.svg.axis()
+		        .scale(x)
+		        .orient("bottom")
+		        .tickFormat(function(d,i) {
+		            //specify date format for x axis depending on #graphic width
+		            if (graphic.width() <= threshold_sm) {
+		                var fmt = d3.time.format(dvc.optional.xAxisTextFormat_sm_md_lg[0]);
+		                return '\u2019' + fmt(d);
+		            } else if (graphic.width() <= threshold_md){
+		                var fmt = d3.time.format(dvc.optional.xAxisTextFormat_sm_md_lg[1]);
+		                return  fmt(d);
+		            } else {
+		                var fmt = d3.time.format(dvc.optional.xAxisTextFormat_sm_md_lg[2]);
+		                return fmt(d);
+		            }
+		        })
+				.tickPadding(5);	*/
+				
+				
+				
+			ticks = x.ticks(0);	
+			
+			
+			if ( graphic.width() <= threshold_sm ) {
+				specialDatesM.forEach(function(d,i){ ticks.push(new Date(d)); }) // end forEach	
+			}// end if ...
+			else {
+				specialDates.forEach(function(d,i){ ticks.push(new Date(d)); }) // end forEach	
+			}// end else ...
+			
+			
+			var xAxis = d3.svg.axis()
+				.scale(x)
+				.tickFormat(d3.time.format('%Y'))
+				.tickSize(5,5)
+				.tickValues(ticks);
+												
+		    
+	        //specify number of ticks on x axis and whether 1st and last data point labels are included
+/*	        if(graphic.width()<threshold_sm){		
+	            xAxis.tickValues(x.ticks(dvc.optional.x_num_ticks_sm_md_lg[0]).concat( x.domain() ));
+	        } else if (graphic.width() <= threshold_md){
+				xAxis.tickValues(x.ticks(dvc.optional.x_num_ticks_sm_md_lg[1]));
+			} else {
+	            xAxis.tickValues(x.ticks(dvc.optional.x_num_ticks_sm_md_lg[2]));		
+	        }
+				*/
+		    
+		    var yAxis = d3.svg.axis()
+		        .scale(y)
+		        .orient('left');
+		    			    
+			//specify number or ticks on y axis
+			if (graphic.width() <= threshold_sm) {
+				yAxis.ticks(dvc.optional.y_num_ticks_sm_md_lg[0])
+			 } else if (graphic.width() <= threshold_md){
+				yAxis.ticks(dvc.optional.y_num_ticks_sm_md_lg[1])
+			 } else {
+				yAxis.ticks(dvc.optional.y_num_ticks_sm_md_lg[2])
+			 }
+				
+		    //gridlines
+		    var y_axis_grid = function() { return yAxis; }
+
+		    var line = d3.svg.line()
+		        .x(function(d) { return x(d.date); })
+		        .y(function(d) { return y(d.amt); });
+
+		    // parse data into columns
+		    var lines = {};
+		    for (var column in graphic_data[0]) {
+		        if (column == 'date') continue;
+		        lines[column] = graphic_data.map(function(d) {
+		            return {
+		                'date': d.date,
+		                'amt': d[column]
+		            };
+		        });
+		    }
+			
+			
+			
+		  	//y domain calculations	: zero to intelligent max choice, or intelligent min and max choice,  or interval chosen manually
+	   		if (dvc.essential.yAxisScale == "auto_zero_max"){
+			   var yDomain = [
+								0,
+								d3.max(d3.entries(lines), function(c) {
+									return d3.max(c.value, function(v) {
+										var n = v.amt;
+										return Math.ceil(n);
+									});
+								})
+							 ];
+			} else if (dvc.essential.yAxisScale == "auto_min_max"){
+				var yDomain = [
+								d3.min(d3.entries(lines), function(c) {
+									return d3.min(c.value, function(v) {
+										var n = v.amt;
+										return Math.floor(n);
+									});
+								}),
+							
+								d3.max(d3.entries(lines), function(c) {
+									return d3.max(c.value, function(v) {
+										var n = v.amt;
+										return Math.ceil(n);
+									});
+								})
+					 		];
+			} else {
+			   var yDomain = dvc.essential.yAxisScale;
+		    }
+				 
+		    y.domain(yDomain);
+		    
+			//y axis label
+			/*d3.select('#graphic').append("p")
+		                .attr('class', 'unit')
+		  		        .text(function(d,i) { return dvc.essential.yAxisLabel; });*/
+						
+						
+					
+					
+
+
+			d3.select('#graphic').append("p")
+                .attr('class', 'unit')
+                .attr('id', 'yAxisunit')
+  		        .text(function(d,i) { return "Working days lost (000s)"; });						
+
+		    //create svg for chart
+		    var svg = d3.select('#graphic').append('svg')
+				        .attr("width", chart_width + margin.left + margin.right)
+				        .attr("height", height + margin.top + margin.bottom +30)
+				        .append("g")
+				        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+				
+					svg.append("rect")
+						.attr("class","svgRect")
+						.attr("width", chart_width)
+						.attr("height", height)
+			    
+				    svg.append('g')
+				        .attr('class', 'y axis')
+				        .call(yAxis);
+
+				    svg.append('g')
+				        .attr('class', 'y grid')
+				        .call(y_axis_grid()
+				            .tickSize(-chart_width, 0, 0)
+				            .tickFormat('')
+				        );
+						
+					
+				
+				//create x axis, if y axis doesn't start at 0 drop x axis accordingly	
+				svg.append('g')
+					.attr('class', 'x axis')
+					.attr('id', 'xAxis')
+					.attr('transform', function(d){ 
+								if(yDomain[0] != 0){
+									return 'translate(0,' + (height + 30) + ')'
+								} else {
+									return 'translate(0,' + height  + ')'
+								}
+						})
+					.call(xAxis);
+									
+							
+				//create lines 		
+			    svg.append('g').selectAll('path')
+			        .data(d3.entries(lines))
+			        .enter()
+			        .append('path')
+			            .attr('class', function(d, i) {
+			                return 'line line-' + i;
+			            })
+			            .attr('d', function(d) {
+			                return line(d.value);
+			            });						
+							
+			
+			// John's discs
+			
+			dvc.essential.disc.forEach(function(d,i)
+			{
+				 svg.append("circle")
+					.attr("class", "bigDisc")
+					.attr("id", "photo"+i)
+					.attr('cy',y(dvc.essential.annotateDiscXY[i][1]) -5 )
+					.attr('cx',x(d3.time.format(dvc.essential.dateFormat).parse(dvc.essential.annotateDiscXY[i][0])))
+					.attr("r", discSize)
+					//.style("pointer-events", "auto")
+					.style("fill", dvc.essential.cols[i]);
+					
+					d3.select("#photo"+i).on("mouseover",function(){d3.select(this).style("opacity","0.5");}).on("mouseout",function(){d3.select(this).style("opacity","1");}).on("click", photo);
+					
+				svg.append("text")
+					.text(dvc.essential.disc[i])
+					.attr("class","numInside")
+					.attr("text-anchor", "middle")
+					.attr('y',y(dvc.essential.annotateDiscXY[i][1]))
+					.attr('x',x(d3.time.format(dvc.essential.dateFormat).parse(dvc.essential.annotateDiscXY[i][0])));
+
+			});
+			
+		//var owl = $("#owl-demo")
+			owlCaro.owlCarousel(
+			{
+					//items : 1,
+					/*items : 10, //10 items above 1000px browser width
+					  itemsDesktop : [1000,5], //5 items between 1000px and 901px
+					  itemsDesktopSmall : [900,3], // betweem 900px and 601px
+					  itemsTablet: [600,2], //2 items between 600 and 0
+					  itemsMobile : false // itemsMobile disabled - inherit from item
+					  */
+					navigation : true, // Show next and prev buttons
+					slideSpeed : 300,
+					paginationSpeed : 400,
+					singleItem:true,
+					autoHeight : true,
+					  // "singleItem:true" is a shortcut for:
+					  // items : 1, 
+					  // itemsDesktop : false,
+					  // itemsDesktopSmall : false,
+					  // itemsTablet: false,
+					  // itemsMobile : false
+					//itemsScaleUp : true,
+				navigationText : ["prev","next"],
+				//dots:true,
+				//center:true,
+				//loop:false,
+				//autoplay:false,
+				//autoplayTimeout:2000,
+				//autoplaySpeed:2000,
+					responsive:true,
+					afterAction : whichOne
+					// CSS Styles
+				//baseClass : "owl-carousel",
+				//theme : "owl-theme",
+			
+			});
+			
+		function whichOne(){
+				var owl = $("#owl-demo"),
+      			//status = $("#owlStatus");
+				myTile = this.owl.currentItem;
+				counter(myTile);
+			}
+			
+			
+		function photo(){
+			var myid = this.id;
+			var owls = $("#owl-demo").data('owlCarousel');
+				
+				d3.select("#"+myid).style("stroke-width",2).style("stroke","orange");
+				
+				var zoo = myid.split("photo");
+				zoomTo = zoo.join("");
+				parseFloat(zoomTo);
+				owls.goTo(zoomTo);
+				owls.currentItem = zoomTo;  // not recording this as current slide
+				
+				if(myPrev != 10){
+					d3.select("#photo"+myPrev).style("stroke-width",0); //"+parseInt(myPrev)
+					
+				}
+				myPrev = zoomTo;
+				
+				
+				//var owl = $(".owl-demo").data('owlCarousel');
+			} // end photo
+			
+			/*$('#days1').countTo({
+				from: 0, 
+				to: 15247,
+				speed: 1000,
+				formatter: function (value, options) {
+													  return value.toFixed(options.decimals).replace(/\B(?=(?:\d{3})+(?!\d))/g, ',');
+													}
+				});*/
+			
+			function counter(numbr){
+				index=parseInt(numbr)+1;
+				var dates = [15257000,40890000,34969000,85872000,162233000,23909000,29474000,27135000,1390000];
+				
+				//$('#lost'+(index)).append("<h3>days lost</h3>");
+				
+					$('#days'+(index)).countTo({
+					from: 0, 
+					to: dates[numbr],
+					speed: 1000,
+					formatter: function (value, options) {
+														  return value.toFixed(options.decimals).replace(/\B(?=(?:\d{3})+(?!\d))/g, ',');
+														}
+					});
+					
+				}
+				
+
+		/*
+		function addHtml (numbr) {
+				console.log("Add Html "+numbr);
+				
+				var dates = ['15,257','34,969','85,872','23,909','162,233','29,474','28,135','6,135','1,000'];
+				d3.select("#x"+numbr).select("p").remove();
+				//$("#owl-demo").owlCarousel
+				console.log("zoom -- "+ numbr);
+				console.log(dates[numbr]);
+				d3.select("#x"+numbr)
+				.append("p")
+				.attr("id","bigNum")
+				.text(dates[numbr]);
+		}// end addHTML
+		*/
+		
+	
+			//create link to source				
+			d3.select(".footer").append("p")
+				.text("Source: ")
+				.append("a")
+				.attr("href", dvc.essential.sourceURL)
+				.attr("target", "_blank")
+				.html(dvc.essential.sourceText);
+						
+			//use pym to calculate chart dimensions	
+		    if (pymChild) {
+		        pymChild.sendHeight();
+		    }
+		}  // ends drawGraphic
+
+		//check whether browser can cope with svg	
+		if (Modernizr.svg) {
+		   //load config 
+			d3.json("config.json", function(error, config) {
+			dvc=config
+
+				//load chart data
+				d3.csv(dvc.essential.graphic_data_url, function(error, data) {
+					graphic_data = data;
+					
+					graphic_data.forEach(function(d) {
+						d.date = d3.time.format(dvc.essential.dateFormat).parse(d.date); 
+						
+					});
+					
+					//use pym to create iframed chart dependent on specified variables
+					pymChild = new pym.Child({ renderCallback: drawGraphic});
+				});
+			})
+
+		} else {
+			 //use pym to create iframe containing fallback image (which is set as default)
+			 pymChild = new pym.Child();
+			if (pymChild) {
+		        pymChild.sendHeight();
+		    }
+		}  // ends if
+		
+    </script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a40b58eced07d857',t:'MTc5MDM1MzEzMw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

@@ -1,0 +1,112 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02000714,Newham 001,Forest Gate North,1,5,0,0,0,0,0,1,0,3,4,2,0,1,covid
+E02000715,Newham 002,Little Ilford West,4,19,3,2,0,0,0,0,0,3,9,2,0,0,covid
+E02000716,Newham 003,Manor Park North,0,17,1,0,0,0,0,3,0,3,3,2,0,0,covid
+E02000717,Newham 004,Manor Park South,0,5,0,0,1,1,0,1,0,2,7,1,0,0,covid
+E02000718,Newham 005,Little Ilford East,0,0,2,0,0,0,0,1,0,2,4,1,1,0,covid
+E02000719,Newham 006,Forest Gate West,2,9,0,0,0,0,0,0,0,0,5,2,0,0,covid
+E02000720,Newham 007,Forest Gate East,1,3,2,1,0,0,1,0,2,3,7,4,1,0,covid
+E02000721,Newham 008,Forest Gate South,1,10,1,0,0,0,0,0,2,6,8,2,0,0,covid
+E02000722,Newham 009,Stratford East,1,5,1,0,0,0,0,0,0,3,8,0,0,0,covid
+E02000723,Newham 010,East Ham North,2,8,0,1,0,0,0,1,0,7,7,5,3,0,covid
+E02000724,Newham 011,Plashet East,0,12,2,0,1,0,0,0,0,3,9,1,2,1,covid
+E02000725,Newham 012,Stratford Central,1,4,0,0,1,0,0,1,0,1,5,0,1,0,covid
+E02000726,Newham 013,Olympic Park & Mill Meads,0,5,1,0,0,0,0,0,0,1,5,1,0,0,covid
+E02000727,Newham 014,Plashet West,1,4,2,0,0,0,0,0,0,5,9,4,1,0,covid
+E02000728,Newham 015,Wallend North,0,5,0,0,0,0,0,0,1,1,6,5,0,0,covid
+E02000729,Newham 016,West Ham Park,2,8,2,0,0,0,1,0,1,2,3,3,0,0,covid
+E02000730,Newham 017,Upton Park,0,4,0,2,0,0,0,0,1,3,9,5,0,1,covid
+E02000731,Newham 018,East Ham Central,1,6,0,0,0,0,0,1,1,4,1,3,0,0,covid
+E02000732,Newham 019,East Ham West,1,6,0,0,0,0,0,1,1,3,4,1,1,0,covid
+E02000733,Newham 020,West Ham & Stratford Park,0,4,1,0,0,0,0,0,0,2,3,4,0,0,covid
+E02000734,Newham 021,Plaistow North,0,6,3,0,0,0,0,0,0,2,4,3,2,0,covid
+E02000735,Newham 022,Plaistow North East,0,7,0,0,0,0,0,0,0,4,12,3,3,0,covid
+E02000736,Newham 023,Wallend South,1,4,0,0,0,0,1,0,1,1,10,1,0,0,covid
+E02000737,Newham 024,East Ham South,3,6,1,0,0,0,0,0,0,4,6,0,0,0,covid
+E02000738,Newham 025,East Ham South West,0,5,0,0,0,0,0,0,2,1,4,2,1,0,covid
+E02000739,Newham 026,Plaistow Park,0,2,3,0,1,0,0,0,0,0,5,0,1,0,covid
+E02000740,Newham 027,Canning Town North,0,4,0,0,0,0,0,0,0,3,5,0,1,0,covid
+E02000741,Newham 028,Plaistow South,1,5,0,0,0,0,0,0,1,2,5,4,1,0,covid
+E02000742,Newham 029,Lonsdale Avenue,0,7,1,0,0,0,0,0,0,4,6,1,1,0,covid
+E02000743,Newham 030,Canning Town Central,0,10,0,0,0,0,0,2,0,1,5,7,1,1,covid
+E02000744,Newham 031,Canning Town East,1,8,1,0,0,0,0,0,0,3,2,0,0,0,covid
+E02000745,Newham 032,Beckton North,0,5,1,0,0,0,0,0,0,0,7,0,0,0,covid
+E02000746,Newham 033,Beckton,2,4,0,1,0,0,0,0,0,1,8,2,1,0,covid
+E02000747,Newham 034,Canning Town South & Bow Creek,0,4,1,0,0,0,0,0,2,2,9,2,1,0,covid
+E02000748,Newham 035,Beckton Park,1,3,1,0,0,0,0,1,0,1,2,2,0,0,covid
+E02000749,Newham 036,Custom House,0,7,0,0,0,0,0,0,2,2,8,5,0,0,covid
+E02000750,Newham 037,Royal Docks & North Woolwich,1,3,0,0,0,0,0,0,0,1,3,0,0,0,covid
+E02000714,Newham 001,Forest Gate North,4,4,0,3,3,0,1,3,2,4,2,4,4,2,noncovid
+E02000715,Newham 002,Little Ilford West,7,7,3,2,5,5,1,2,2,4,7,2,5,4,noncovid
+E02000716,Newham 003,Manor Park North,4,3,4,1,1,2,4,5,7,3,5,7,2,3,noncovid
+E02000717,Newham 004,Manor Park South,3,2,4,6,2,1,3,2,1,3,3,7,3,1,noncovid
+E02000718,Newham 005,Little Ilford East,2,2,2,1,1,5,2,1,1,4,2,3,4,1,noncovid
+E02000719,Newham 006,Forest Gate West,2,5,1,0,1,3,3,0,0,5,3,3,1,3,noncovid
+E02000720,Newham 007,Forest Gate East,5,4,1,3,2,1,3,5,4,6,6,2,3,0,noncovid
+E02000721,Newham 008,Forest Gate South,3,2,3,4,5,4,2,3,6,6,1,4,4,3,noncovid
+E02000722,Newham 009,Stratford East,9,9,2,3,2,4,4,2,3,5,1,3,5,2,noncovid
+E02000723,Newham 010,East Ham North,6,7,3,2,4,2,3,3,3,9,3,7,4,5,noncovid
+E02000724,Newham 011,Plashet East,2,3,3,0,3,1,5,3,2,2,3,3,1,5,noncovid
+E02000725,Newham 012,Stratford Central,2,5,4,3,3,3,4,1,1,2,3,5,4,4,noncovid
+E02000726,Newham 013,Olympic Park & Mill Meads,2,4,1,2,0,3,6,7,4,3,2,3,3,3,noncovid
+E02000727,Newham 014,Plashet West,2,2,1,2,3,1,0,2,0,4,2,3,1,2,noncovid
+E02000728,Newham 015,Wallend North,5,2,0,2,1,0,1,2,2,2,5,6,2,2,noncovid
+E02000729,Newham 016,West Ham Park,4,7,3,3,1,2,4,2,3,3,4,2,1,2,noncovid
+E02000730,Newham 017,Upton Park,9,3,2,7,3,4,2,0,4,2,5,5,1,4,noncovid
+E02000731,Newham 018,East Ham Central,4,7,3,2,5,3,7,2,3,2,2,2,3,4,noncovid
+E02000732,Newham 019,East Ham West,3,6,2,5,5,1,1,1,4,3,1,1,2,3,noncovid
+E02000733,Newham 020,West Ham & Stratford Park,3,3,4,4,1,2,4,2,4,6,3,2,10,4,noncovid
+E02000734,Newham 021,Plaistow North,2,2,2,1,1,4,0,2,1,2,2,1,3,5,noncovid
+E02000735,Newham 022,Plaistow North East,2,7,2,1,1,2,3,3,2,3,3,1,3,3,noncovid
+E02000736,Newham 023,Wallend South,5,9,5,5,3,4,3,2,6,1,6,4,4,5,noncovid
+E02000737,Newham 024,East Ham South,5,7,3,2,8,6,3,2,3,2,3,3,4,2,noncovid
+E02000738,Newham 025,East Ham South West,0,5,3,3,1,3,4,2,1,3,3,2,2,1,noncovid
+E02000739,Newham 026,Plaistow Park,4,2,5,4,3,0,6,2,3,4,4,3,3,2,noncovid
+E02000740,Newham 027,Canning Town North,1,3,3,2,4,4,0,3,1,2,5,3,1,3,noncovid
+E02000741,Newham 028,Plaistow South,4,13,4,1,6,1,2,1,1,6,3,2,2,1,noncovid
+E02000742,Newham 029,Lonsdale Avenue,7,5,4,5,6,2,5,4,6,4,6,4,1,6,noncovid
+E02000743,Newham 030,Canning Town Central,3,9,4,3,10,1,3,5,2,1,3,1,1,5,noncovid
+E02000744,Newham 031,Canning Town East,2,1,1,2,1,3,0,3,4,3,1,1,4,1,noncovid
+E02000745,Newham 032,Beckton North,5,5,1,2,4,7,3,1,3,5,7,1,3,0,noncovid
+E02000746,Newham 033,Beckton,1,3,1,3,1,1,2,0,3,4,3,3,2,1,noncovid
+E02000747,Newham 034,Canning Town South & Bow Creek,2,8,1,4,8,3,4,9,2,8,8,1,7,2,noncovid
+E02000748,Newham 035,Beckton Park,1,1,2,0,0,1,0,1,5,3,1,1,2,3,noncovid
+E02000749,Newham 036,Custom House,2,10,4,2,6,5,5,4,3,1,6,2,3,3,noncovid
+E02000750,Newham 037,Royal Docks & North Woolwich,5,1,3,2,0,2,3,1,1,2,3,2,3,5,noncovid
+E02000714,Newham 001,Forest Gate North,3,2,2,2,2,2,1,2,3,3,4,2,3,2,average
+E02000715,Newham 002,Little Ilford West,4,4,5,3,5,2,4,5,3,4,4,5,4,4,average
+E02000716,Newham 003,Manor Park North,5,5,2,3,3,3,3,5,6,5,7,5,5,5,average
+E02000717,Newham 004,Manor Park South,2,3,2,3,2,3,1,4,2,2,2,3,2,3,average
+E02000718,Newham 005,Little Ilford East,2,2,3,1,2,1,1,3,3,2,3,4,2,2,average
+E02000719,Newham 006,Forest Gate West,2,3,2,2,2,1,2,3,2,3,3,3,2,3,average
+E02000720,Newham 007,Forest Gate East,3,3,2,3,2,1,2,2,3,1,3,2,3,3,average
+E02000721,Newham 008,Forest Gate South,2,2,1,2,1,3,4,2,3,3,4,2,2,2,average
+E02000722,Newham 009,Stratford East,3,3,4,4,3,3,3,3,3,3,5,4,3,3,average
+E02000723,Newham 010,East Ham North,3,4,4,4,4,3,4,3,5,5,5,5,3,4,average
+E02000724,Newham 011,Plashet East,2,2,2,2,2,2,2,4,2,3,3,3,2,2,average
+E02000725,Newham 012,Stratford Central,4,2,2,3,3,3,3,3,2,2,5,4,4,2,average
+E02000726,Newham 013,Olympic Park & Mill Meads,4,3,3,3,3,3,3,4,3,3,4,5,4,3,average
+E02000727,Newham 014,Plashet West,2,2,2,2,0,1,2,2,3,2,2,1,2,2,average
+E02000728,Newham 015,Wallend North,2,2,2,3,2,2,2,3,3,1,3,1,2,2,average
+E02000729,Newham 016,West Ham Park,3,4,4,3,1,3,3,2,3,2,4,3,3,4,average
+E02000730,Newham 017,Upton Park,4,3,2,3,3,3,3,3,3,4,5,3,4,3,average
+E02000731,Newham 018,East Ham Central,5,2,2,2,1,3,2,2,3,4,3,3,5,2,average
+E02000732,Newham 019,East Ham West,3,2,2,2,2,3,3,4,3,2,3,3,3,2,average
+E02000733,Newham 020,West Ham & Stratford Park,4,3,4,5,3,3,3,3,4,4,4,3,4,3,average
+E02000734,Newham 021,Plaistow North,2,2,3,3,4,3,2,2,3,3,3,3,2,2,average
+E02000735,Newham 022,Plaistow North East,4,4,4,4,3,3,3,3,3,3,4,3,4,4,average
+E02000736,Newham 023,Wallend South,5,4,4,2,3,4,4,4,3,3,5,4,5,4,average
+E02000737,Newham 024,East Ham South,6,4,4,3,4,4,4,5,4,3,4,5,6,4,average
+E02000738,Newham 025,East Ham South West,2,4,3,2,1,3,2,2,2,2,3,2,2,4,average
+E02000739,Newham 026,Plaistow Park,2,1,2,3,2,2,3,4,4,2,3,4,2,1,average
+E02000740,Newham 027,Canning Town North,2,3,2,3,1,2,2,2,2,3,4,4,2,3,average
+E02000741,Newham 028,Plaistow South,3,4,2,3,3,2,2,4,3,2,4,3,3,4,average
+E02000742,Newham 029,Lonsdale Avenue,6,5,5,5,2,4,4,4,6,4,5,4,6,5,average
+E02000743,Newham 030,Canning Town Central,3,5,4,4,3,3,4,3,4,2,5,4,3,5,average
+E02000744,Newham 031,Canning Town East,3,4,3,4,3,3,4,4,2,4,5,4,3,4,average
+E02000745,Newham 032,Beckton North,4,2,1,2,1,2,3,4,2,3,4,2,4,2,average
+E02000746,Newham 033,Beckton,3,3,2,2,2,1,2,2,3,2,4,2,3,3,average
+E02000747,Newham 034,Canning Town South & Bow Creek,5,2,3,3,2,4,4,4,3,2,5,4,5,2,average
+E02000748,Newham 035,Beckton Park,1,1,1,2,1,2,2,2,2,1,2,1,1,1,average
+E02000749,Newham 036,Custom House,6,6,4,5,3,6,4,5,4,3,9,5,6,6,average
+E02000750,Newham 037,Royal Docks & North Woolwich,3,2,2,3,3,3,2,3,3,3,2,2,3,2,average

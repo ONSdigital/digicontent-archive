@@ -1,0 +1,181 @@
+date,category,chiffre,series
+01/02/2020,Non-specialised Food Stores,100,lbwregion
+01/03/2020,Non-specialised Food Stores,110.2081269,lbwregion
+01/04/2020,Non-specialised Food Stores,107.7304262,lbwregion
+01/05/2020,Non-specialised Food Stores,108.1268583,lbwregion
+01/06/2020,Non-specialised Food Stores,108.0277502,lbwregion
+01/07/2020,Non-specialised Food Stores,103.666997,lbwregion
+01/08/2020,Non-specialised Food Stores,104.0634291,lbwregion
+01/09/2020,Non-specialised Food Stores,104.4598612,lbwregion
+01/10/2020,Non-specialised Food Stores,104.0634291,lbwregion
+01/02/2020,Specialist Food Stores,100,lbwregion
+01/03/2020,Specialist Food Stores,96.88929552,lbwregion
+01/04/2020,Specialist Food Stores,63.49496798,lbwregion
+01/05/2020,Specialist Food Stores,69.71637694,lbwregion
+01/06/2020,Specialist Food Stores,72.82708143,lbwregion
+01/07/2020,Specialist Food Stores,91.12534309,lbwregion
+01/08/2020,Specialist Food Stores,88.47209515,lbwregion
+01/09/2020,Specialist Food Stores,97.07227813,lbwregion
+01/10/2020,Specialist Food Stores,101.3723696,lbwregion
+01/02/2020,"Furniture, Lighting etc",100,lbwregion
+01/03/2020,"Furniture, Lighting etc",78.23779193,lbwregion
+01/04/2020,"Furniture, Lighting etc",22.61146497,lbwregion
+01/05/2020,"Furniture, Lighting etc",38.1104034,lbwregion
+01/06/2020,"Furniture, Lighting etc",91.40127389,lbwregion
+01/07/2020,"Furniture, Lighting etc",107.0063694,lbwregion
+01/08/2020,"Furniture, Lighting etc",108.9171975,lbwregion
+01/09/2020,"Furniture, Lighting etc",110.6157113,lbwregion
+01/10/2020,"Furniture, Lighting etc",112.3142251,lbwregion
+01/02/2020,Electrical Household Appliances,100,lbwregion
+01/03/2020,Electrical Household Appliances,102.3897059,lbwregion
+01/04/2020,Electrical Household Appliances,72.97794118,lbwregion
+01/05/2020,Electrical Household Appliances,81.06617647,lbwregion
+01/06/2020,Electrical Household Appliances,109.8345588,lbwregion
+01/07/2020,Electrical Household Appliances,108.7316176,lbwregion
+01/08/2020,Electrical Household Appliances,107.2610294,lbwregion
+01/09/2020,Electrical Household Appliances,101.1948529,lbwregion
+01/10/2020,Electrical Household Appliances,113.3272059,lbwregion
+01/02/2020,"Hardware, Paints and Glass",100,lbwregion
+01/03/2020,"Hardware, Paints and Glass",100,lbwregion
+01/04/2020,"Hardware, Paints and Glass",65.38461538,lbwregion
+01/05/2020,"Hardware, Paints and Glass",103.7393162,lbwregion
+01/06/2020,"Hardware, Paints and Glass",111.8589744,lbwregion
+01/07/2020,"Hardware, Paints and Glass",113.034188,lbwregion
+01/08/2020,"Hardware, Paints and Glass",116.3461538,lbwregion
+01/09/2020,"Hardware, Paints and Glass",118.1623932,lbwregion
+01/10/2020,"Hardware, Paints and Glass",116.1324786,lbwregion
+01/02/2020,Music and Video Recordings and Equipment,100,lbwregion
+01/03/2020,Music and Video Recordings and Equipment,88.15653965,lbwregion
+01/04/2020,Music and Video Recordings and Equipment,60.04119464,lbwregion
+01/05/2020,Music and Video Recordings and Equipment,56.95159629,lbwregion
+01/06/2020,Music and Video Recordings and Equipment,71.47270855,lbwregion
+01/07/2020,Music and Video Recordings and Equipment,88.77445932,lbwregion
+01/08/2020,Music and Video Recordings and Equipment,94.23274974,lbwregion
+01/09/2020,Music and Video Recordings and Equipment,100.7209063,lbwregion
+01/10/2020,Music and Video Recordings and Equipment,133.4706488,lbwregion
+01/02/2020,Dispensing Chemists,100,lbwregion
+01/03/2020,Dispensing Chemists,138.671875,lbwregion
+01/04/2020,Dispensing Chemists,123.2421875,lbwregion
+01/05/2020,Dispensing Chemists,133.3007813,lbwregion
+01/06/2020,Dispensing Chemists,192.7734375,lbwregion
+01/07/2020,Dispensing Chemists,143.75,lbwregion
+01/08/2020,Dispensing Chemists,144.0429688,lbwregion
+01/09/2020,Dispensing Chemists,149.609375,lbwregion
+01/10/2020,Dispensing Chemists,169.3359375,lbwregion
+01/02/2020,Cosmetic & Toilet Articles,100,lbwregion
+01/03/2020,Cosmetic & Toilet Articles,102.0554985,lbwregion
+01/04/2020,Cosmetic & Toilet Articles,61.25385406,lbwregion
+01/05/2020,Cosmetic & Toilet Articles,69.0647482,lbwregion
+01/06/2020,Cosmetic & Toilet Articles,89.31140802,lbwregion
+01/07/2020,Cosmetic & Toilet Articles,103.9054471,lbwregion
+01/08/2020,Cosmetic & Toilet Articles,101.9527235,lbwregion
+01/09/2020,Cosmetic & Toilet Articles,110.1747174,lbwregion
+01/10/2020,Cosmetic & Toilet Articles,107.3997945,lbwregion
+01/02/2020,"Sports Equipment, Games & Toys",100,lbwregion
+01/03/2020,"Sports Equipment, Games & Toys",74.14548642,lbwregion
+01/04/2020,"Sports Equipment, Games & Toys",47.15162138,lbwregion
+01/05/2020,"Sports Equipment, Games & Toys",50.9202454,lbwregion
+01/06/2020,"Sports Equipment, Games & Toys",76.68711656,lbwregion
+01/07/2020,"Sports Equipment, Games & Toys",85.53900088,lbwregion
+01/08/2020,"Sports Equipment, Games & Toys",95.26730938,lbwregion
+01/09/2020,"Sports Equipment, Games & Toys",102.9798422,lbwregion
+01/10/2020,"Sports Equipment, Games & Toys",129.2725679,lbwregion
+01/02/2020,Non-specialised Food Stores,100,baseline
+01/03/2020,Non-specialised Food Stores,100,baseline
+01/04/2020,Non-specialised Food Stores,100,baseline
+01/05/2020,Non-specialised Food Stores,100,baseline
+01/06/2020,Non-specialised Food Stores,100,baseline
+01/07/2020,Non-specialised Food Stores,100,baseline
+01/08/2020,Non-specialised Food Stores,100,baseline
+01/09/2020,Non-specialised Food Stores,100,baseline
+01/10/2020,Non-specialised Food Stores,100,baseline
+01/02/2020,Specialist Food Stores,100,baseline
+01/03/2020,Specialist Food Stores,100,baseline
+01/04/2020,Specialist Food Stores,100,baseline
+01/05/2020,Specialist Food Stores,100,baseline
+01/06/2020,Specialist Food Stores,100,baseline
+01/07/2020,Specialist Food Stores,100,baseline
+01/08/2020,Specialist Food Stores,100,baseline
+01/09/2020,Specialist Food Stores,100,baseline
+01/10/2020,Specialist Food Stores,100,baseline
+01/02/2020,"Furniture, Lighting etc",100,baseline
+01/03/2020,"Furniture, Lighting etc",100,baseline
+01/04/2020,"Furniture, Lighting etc",100,baseline
+01/05/2020,"Furniture, Lighting etc",100,baseline
+01/06/2020,"Furniture, Lighting etc",100,baseline
+01/07/2020,"Furniture, Lighting etc",100,baseline
+01/08/2020,"Furniture, Lighting etc",100,baseline
+01/09/2020,"Furniture, Lighting etc",100,baseline
+01/10/2020,"Furniture, Lighting etc",100,baseline
+01/02/2020,Electrical Household Appliances,100,baseline
+01/03/2020,Electrical Household Appliances,100,baseline
+01/04/2020,Electrical Household Appliances,100,baseline
+01/05/2020,Electrical Household Appliances,100,baseline
+01/06/2020,Electrical Household Appliances,100,baseline
+01/07/2020,Electrical Household Appliances,100,baseline
+01/08/2020,Electrical Household Appliances,100,baseline
+01/09/2020,Electrical Household Appliances,100,baseline
+01/10/2020,Electrical Household Appliances,100,baseline
+01/02/2020,"Hardware, Paints and Glass",100,baseline
+01/03/2020,"Hardware, Paints and Glass",100,baseline
+01/04/2020,"Hardware, Paints and Glass",100,baseline
+01/05/2020,"Hardware, Paints and Glass",100,baseline
+01/06/2020,"Hardware, Paints and Glass",100,baseline
+01/07/2020,"Hardware, Paints and Glass",100,baseline
+01/08/2020,"Hardware, Paints and Glass",100,baseline
+01/09/2020,"Hardware, Paints and Glass",100,baseline
+01/10/2020,"Hardware, Paints and Glass",100,baseline
+01/02/2020,Music and Video Recordings and Equipment,100,baseline
+01/03/2020,Music and Video Recordings and Equipment,100,baseline
+01/04/2020,Music and Video Recordings and Equipment,100,baseline
+01/05/2020,Music and Video Recordings and Equipment,100,baseline
+01/06/2020,Music and Video Recordings and Equipment,100,baseline
+01/07/2020,Music and Video Recordings and Equipment,100,baseline
+01/08/2020,Music and Video Recordings and Equipment,100,baseline
+01/09/2020,Music and Video Recordings and Equipment,100,baseline
+01/10/2020,Music and Video Recordings and Equipment,100,baseline
+01/02/2020,Dispensing Chemists,100,baseline
+01/03/2020,Dispensing Chemists,100,baseline
+01/04/2020,Dispensing Chemists,100,baseline
+01/05/2020,Dispensing Chemists,100,baseline
+01/06/2020,Dispensing Chemists,100,baseline
+01/07/2020,Dispensing Chemists,100,baseline
+01/08/2020,Dispensing Chemists,100,baseline
+01/09/2020,Dispensing Chemists,100,baseline
+01/10/2020,Dispensing Chemists,100,baseline
+01/02/2020,Cosmetic & Toilet Articles,100,baseline
+01/03/2020,Cosmetic & Toilet Articles,100,baseline
+01/04/2020,Cosmetic & Toilet Articles,100,baseline
+01/05/2020,Cosmetic & Toilet Articles,100,baseline
+01/06/2020,Cosmetic & Toilet Articles,100,baseline
+01/07/2020,Cosmetic & Toilet Articles,100,baseline
+01/08/2020,Cosmetic & Toilet Articles,100,baseline
+01/09/2020,Cosmetic & Toilet Articles,100,baseline
+01/10/2020,Cosmetic & Toilet Articles,100,baseline
+01/02/2020,"Sports Equipment, Games & Toys",100,baseline
+01/03/2020,"Sports Equipment, Games & Toys",100,baseline
+01/04/2020,"Sports Equipment, Games & Toys",100,baseline
+01/05/2020,"Sports Equipment, Games & Toys",100,baseline
+01/06/2020,"Sports Equipment, Games & Toys",100,baseline
+01/07/2020,"Sports Equipment, Games & Toys",100,baseline
+01/08/2020,"Sports Equipment, Games & Toys",100,baseline
+01/09/2020,"Sports Equipment, Games & Toys",100,baseline
+01/10/2020,"Sports Equipment, Games & Toys",100,baseline
+01/02/2020,All Stores,100,lbwregion
+01/03/2020,All Stores,94.92682927,lbwregion
+01/04/2020,All Stores,77.75609756,lbwregion
+01/05/2020,All Stores,87.31707317,lbwregion
+01/06/2020,All Stores,99.31707317,lbwregion
+01/07/2020,All Stores,103.2195122,lbwregion
+01/08/2020,All Stores,104.097561,lbwregion
+01/09/2020,All Stores,105.4634146,lbwregion
+01/10/2020,All Stores,106.7317073,lbwregion
+01/02/2020,All Stores,100,baseline
+01/03/2020,All Stores,100,baseline
+01/04/2020,All Stores,100,baseline
+01/05/2020,All Stores,100,baseline
+01/06/2020,All Stores,100,baseline
+01/07/2020,All Stores,100,baseline
+01/08/2020,All Stores,100,baseline
+01/09/2020,All Stores,100,baseline
+01/10/2020,All Stores,100,baseline

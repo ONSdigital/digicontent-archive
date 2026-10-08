@@ -1,0 +1,74 @@
+{
+  "essential": {
+    "graphic_data_url": "regions.csv",
+    "dateFormat": "%d/%m/%Y",
+
+    "colour_palette": [
+      {
+        "key": "Any duration",
+        "colour": "#206095"
+      },
+      {
+        "key": "Duration 12+ weeks",
+        "colour": "#118C7B"
+      }
+    ],
+    "comparison":"",
+    "categorySort": [],
+    "sourceText": ["Office for National Statistics"],
+    "xAxisLabel": "%",
+    "yAxisLabel": "",
+    "yAxisScale": ["auto_zero_max_total"]
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 10,
+        "right": 20,
+        "bottom": 40,
+        "left": 20,
+        "margin_special_left": 100
+      },
+      "md": {
+        "top": 10,
+        "right": 20,
+        "bottom": 40,
+        "left": 20,
+        "margin_special_left": 20
+      },
+      "lg": {
+        "top": 10,
+        "right": 20,
+        "bottom": 40,
+        "left": 20,
+        "margin_special_left": 250
+      }
+    },
+    "margin_special_left": 250,
+    "chart_every":{
+      "sm": 1,
+      "md": 1,
+      "lg": 1
+    },
+    "aspectRatio": {
+      "sm": [10, 90],
+      "md": [16, 45],
+      "lg": [16, 35]
+    },
+
+    "legendHeight":{
+      "sm": 40,
+      "md": 40,
+      "lg": 40
+    },
+
+    "mobileBreakpoint": 480,
+    "middleBreakpoint": 670,
+    "x_ticks_every": {
+      "sm": 2,
+      "md": 2,
+      "lg": 1
+    },
+    "x_num_ticks_sm_md_lg" : [6,9,9]
+  }
+}

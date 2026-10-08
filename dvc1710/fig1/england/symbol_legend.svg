@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="svg1402"
+   sodipodi:docname="symbol_legend.svg"
+   width="60.07579"
+   height="10"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1406" />
+  <sodipodi:namedview
+     id="namedview1404"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.93916667"
+     inkscape:cx="-96.362023"
+     inkscape:cy="57.497782"
+     inkscape:window-width="1296"
+     inkscape:window-height="980"
+     inkscape:window-x="0"
+     inkscape:window-y="63"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1402" />
+  <g
+     class="tiefighter"
+     id="g1398"
+     transform="translate(-98,-42)">
+    <circle
+       cx="128"
+       cy="47"
+       r="5"
+       display="block"
+       style="fill:#206095"
+       id="circle1390" />
+    <line
+       class="ends"
+       x1="99"
+       x2="99"
+       stroke="#206095"
+       display="block"
+       y1="42"
+       y2="52"
+       stroke-width="2px"
+       id="line1392" />
+    <line
+       class="ends"
+       x1="157"
+       x2="157"
+       stroke="#206095"
+       display="block"
+       y1="42"
+       y2="52"
+       stroke-width="2px"
+       id="line1394" />
+    <line
+       class="between"
+       x1="99"
+       x2="157"
+       y1="47"
+       y2="47"
+       stroke="#206095"
+       stroke-width="2px"
+       id="line1396" />
+  </g>
+  <svg
+     version="1.1"
+     id="svg1400"
+     width="100%"
+     height="100%"
+     transform="translate(-98,-42)" />
+</svg>

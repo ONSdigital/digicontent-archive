@@ -1,0 +1,2 @@
+//js
+var s;const a=((s=globalThis.__sveltekit_160rt7j)==null?void 0:s.base)??"/visualisations/customprofiles";var t;const e=((t=globalThis.__sveltekit_160rt7j)==null?void 0:t.assets)??a??"";export{e as a,a as b};

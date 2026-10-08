@@ -1,0 +1,19 @@
+{
+    "essential" : {
+          "graphic_data_url": "data.csv",
+          "colour_palette":[ "#0075A3" , "#266D4A", "#234D70", "#601552" ],
+      		"sourceText":["Office for National Statistics – Annual Population Survey 3-year pooled dataset 2015-17"],
+          "sourceURL":["https://www.gov.uk/government/publications/adult-education-survey-2016"],
+
+          "xAxisLabel":"%",
+          "xAxisScale":[0,100],
+          "barHeight_sm_md_lg" : [30,30,30]
+
+    },
+    "optional" : {
+      "margin_sm": [0, 0, 0, 200],
+      "margin_md": [0, 0, 0, 200],
+          "mobileBreakpoint" : 610
+
+    }
+}

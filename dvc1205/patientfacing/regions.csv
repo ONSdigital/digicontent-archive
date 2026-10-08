@@ -1,0 +1,637 @@
+date,category,chiffre,min,max
+01/09/2020,Non-patient-facing - aged under 35,0.2160375,0.1258928,0.3569154
+02/09/2020,Non-patient-facing - aged under 35,0.219752,0.1346944,0.3439704
+03/09/2020,Non-patient-facing - aged under 35,0.2242559,0.1433255,0.3359738
+04/09/2020,Non-patient-facing - aged under 35,0.2281109,0.1506497,0.3312771
+05/09/2020,Non-patient-facing - aged under 35,0.2321348,0.159826,0.3290035
+06/09/2020,Non-patient-facing - aged under 35,0.2371562,0.168412,0.3295427
+07/09/2020,Non-patient-facing - aged under 35,0.242987,0.1764943,0.3301964
+08/09/2020,Non-patient-facing - aged under 35,0.2490951,0.1840271,0.3336462
+09/09/2020,Non-patient-facing - aged under 35,0.2562033,0.1914907,0.339022
+10/09/2020,Non-patient-facing - aged under 35,0.2640974,0.1994954,0.3460063
+11/09/2020,Non-patient-facing - aged under 35,0.2736331,0.2079415,0.3564699
+12/09/2020,Non-patient-facing - aged under 35,0.2847031,0.218818,0.3684528
+13/09/2020,Non-patient-facing - aged under 35,0.2971029,0.2302393,0.3817557
+14/09/2020,Non-patient-facing - aged under 35,0.3119326,0.2439896,0.3959193
+15/09/2020,Non-patient-facing - aged under 35,0.3288744,0.2602754,0.4144517
+16/09/2020,Non-patient-facing - aged under 35,0.3479255,0.2780953,0.4326724
+17/09/2020,Non-patient-facing - aged under 35,0.3696053,0.2980559,0.453638
+18/09/2020,Non-patient-facing - aged under 35,0.3941669,0.3213364,0.4790237
+19/09/2020,Non-patient-facing - aged under 35,0.4213256,0.345603,0.5091014
+20/09/2020,Non-patient-facing - aged under 35,0.4519042,0.3730539,0.5427481
+21/09/2020,Non-patient-facing - aged under 35,0.4855502,0.4034214,0.5775541
+22/09/2020,Non-patient-facing - aged under 35,0.5222765,0.4352281,0.6166916
+23/09/2020,Non-patient-facing - aged under 35,0.5617949,0.4704174,0.6583733
+24/09/2020,Non-patient-facing - aged under 35,0.6041813,0.5095086,0.7063814
+25/09/2020,Non-patient-facing - aged under 35,0.6484064,0.5501221,0.7545094
+26/09/2020,Non-patient-facing - aged under 35,0.6948679,0.5923739,0.8040748
+27/09/2020,Non-patient-facing - aged under 35,0.7430599,0.6378124,0.8561401
+28/09/2020,Non-patient-facing - aged under 35,0.7925707,0.6853018,0.9077578
+29/09/2020,Non-patient-facing - aged under 35,0.8420849,0.7339741,0.9606043
+30/09/2020,Non-patient-facing - aged under 35,0.892465,0.7817031,1.0127512
+01/10/2020,Non-patient-facing - aged under 35,0.9413807,0.8294567,1.0662273
+02/10/2020,Non-patient-facing - aged under 35,0.9903774,0.8761553,1.1180346
+03/10/2020,Non-patient-facing - aged under 35,1.0369396,0.9187748,1.16906
+04/10/2020,Non-patient-facing - aged under 35,1.0812564,0.9615474,1.2176266
+05/10/2020,Non-patient-facing - aged under 35,1.1236496,1.0006944,1.2642872
+06/10/2020,Non-patient-facing - aged under 35,1.1631794,1.03771,1.304244
+07/10/2020,Non-patient-facing - aged under 35,1.2010551,1.0743897,1.342435
+08/10/2020,Non-patient-facing - aged under 35,1.2370467,1.108481,1.376339
+09/10/2020,Non-patient-facing - aged under 35,1.269698,1.1406672,1.407846
+10/10/2020,Non-patient-facing - aged under 35,1.3004956,1.1725084,1.4410056
+11/10/2020,Non-patient-facing - aged under 35,1.3300619,1.1992351,1.4708886
+12/10/2020,Non-patient-facing - aged under 35,1.3571705,1.2257823,1.501254
+13/10/2020,Non-patient-facing - aged under 35,1.3833684,1.2484653,1.5314857
+14/10/2020,Non-patient-facing - aged under 35,1.4084394,1.2692112,1.5585903
+15/10/2020,Non-patient-facing - aged under 35,1.4322604,1.2893207,1.5852504
+16/10/2020,Non-patient-facing - aged under 35,1.453953,1.3087669,1.6095845
+17/10/2020,Non-patient-facing - aged under 35,1.4735976,1.3260307,1.632575
+18/10/2020,Non-patient-facing - aged under 35,1.4935665,1.3430694,1.6528888
+19/10/2020,Non-patient-facing - aged under 35,1.5111548,1.3591558,1.6700271
+20/10/2020,Non-patient-facing - aged under 35,1.5265824,1.372151,1.6876386
+21/10/2020,Non-patient-facing - aged under 35,1.540554,1.3838875,1.705419
+22/10/2020,Non-patient-facing - aged under 35,1.5511901,1.3939982,1.7196032
+23/10/2020,Non-patient-facing - aged under 35,1.5602438,1.4015542,1.7306814
+24/10/2020,Non-patient-facing - aged under 35,1.567098,1.4060196,1.7401741
+25/10/2020,Non-patient-facing - aged under 35,1.5697123,1.406657,1.7432542
+26/10/2020,Non-patient-facing - aged under 35,1.5715075,1.4054747,1.7451079
+27/10/2020,Non-patient-facing - aged under 35,1.5707909,1.4047925,1.7459695
+28/10/2020,Non-patient-facing - aged under 35,1.5682868,1.4022738,1.7425663
+29/10/2020,Non-patient-facing - aged under 35,1.5641201,1.3987234,1.7355314
+30/10/2020,Non-patient-facing - aged under 35,1.5586506,1.3967951,1.731176
+31/10/2020,Non-patient-facing - aged under 35,1.5527848,1.3909653,1.7241063
+01/11/2020,Non-patient-facing - aged under 35,1.5484872,1.3866288,1.7160037
+02/11/2020,Non-patient-facing - aged under 35,1.5431326,1.383123,1.7111107
+03/11/2020,Non-patient-facing - aged under 35,1.5391422,1.3814742,1.7066716
+04/11/2020,Non-patient-facing - aged under 35,1.5370835,1.379066,1.7055477
+05/11/2020,Non-patient-facing - aged under 35,1.5352097,1.3781102,1.7070156
+06/11/2020,Non-patient-facing - aged under 35,1.5356693,1.3783955,1.7081761
+07/11/2020,Non-patient-facing - aged under 35,1.5390871,1.3818814,1.7089766
+08/11/2020,Non-patient-facing - aged under 35,1.5424216,1.3874093,1.7119564
+09/11/2020,Non-patient-facing - aged under 35,1.5472392,1.3927844,1.7184786
+10/11/2020,Non-patient-facing - aged under 35,1.5528629,1.3989679,1.7240568
+11/11/2020,Non-patient-facing - aged under 35,1.5593597,1.4054375,1.7319939
+12/11/2020,Non-patient-facing - aged under 35,1.5653766,1.4110083,1.7375067
+13/11/2020,Non-patient-facing - aged under 35,1.569307,1.4130911,1.7436071
+14/11/2020,Non-patient-facing - aged under 35,1.5714533,1.4137969,1.7431995
+15/11/2020,Non-patient-facing - aged under 35,1.5707114,1.4112744,1.7433913
+16/11/2020,Non-patient-facing - aged under 35,1.5663061,1.4048592,1.7398663
+17/11/2020,Non-patient-facing - aged under 35,1.5566349,1.3961989,1.7310786
+18/11/2020,Non-patient-facing - aged under 35,1.5406631,1.3820826,1.7140317
+19/11/2020,Non-patient-facing - aged under 35,1.5192362,1.362384,1.6922596
+20/11/2020,Non-patient-facing - aged under 35,1.4919402,1.3364185,1.6605452
+21/11/2020,Non-patient-facing - aged under 35,1.4590048,1.306236,1.6258015
+22/11/2020,Non-patient-facing - aged under 35,1.4205659,1.2728767,1.5834001
+23/11/2020,Non-patient-facing - aged under 35,1.3789094,1.2358354,1.536886
+24/11/2020,Non-patient-facing - aged under 35,1.3346004,1.1940082,1.4896315
+25/11/2020,Non-patient-facing - aged under 35,1.286238,1.1493741,1.4378526
+26/11/2020,Non-patient-facing - aged under 35,1.2387993,1.1044183,1.3852708
+27/11/2020,Non-patient-facing - aged under 35,1.1923157,1.05977,1.3361282
+28/11/2020,Non-patient-facing - aged under 35,1.1472629,1.0166996,1.289132
+29/11/2020,Non-patient-facing - aged under 35,1.1050488,0.9775153,1.2433933
+30/11/2020,Non-patient-facing - aged under 35,1.0678474,0.9415226,1.2008327
+01/12/2020,Non-patient-facing - aged under 35,1.0353326,0.9126456,1.1660313
+02/12/2020,Non-patient-facing - aged under 35,1.0088505,0.8887169,1.1371743
+03/12/2020,Non-patient-facing - aged under 35,0.9885399,0.8709782,1.114533
+04/12/2020,Non-patient-facing - aged under 35,0.9755566,0.8592118,1.1017283
+05/12/2020,Non-patient-facing - aged under 35,0.970448,0.8550985,1.095469
+06/12/2020,Non-patient-facing - aged under 35,0.9724831,0.8562185,1.0992611
+07/12/2020,Non-patient-facing - aged under 35,0.9824845,0.8641911,1.109384
+08/12/2020,Non-patient-facing - aged under 35,1.0005252,0.880947,1.1292598
+09/12/2020,Non-patient-facing - aged under 35,1.0276776,0.9055024,1.1596448
+10/12/2020,Non-patient-facing - aged under 35,1.0644858,0.937797,1.2028396
+11/12/2020,Non-patient-facing - aged under 35,1.1103631,0.9808608,1.2531402
+12/12/2020,Non-patient-facing - aged under 35,1.1659019,1.0310274,1.3143522
+13/12/2020,Non-patient-facing - aged under 35,1.2308738,1.0900714,1.3832318
+14/12/2020,Non-patient-facing - aged under 35,1.3054955,1.1603841,1.4655445
+15/12/2020,Non-patient-facing - aged under 35,1.3897427,1.2381593,1.5578516
+16/12/2020,Non-patient-facing - aged under 35,1.4822114,1.3228229,1.6581614
+17/12/2020,Non-patient-facing - aged under 35,1.5838277,1.4113954,1.7693301
+18/12/2020,Non-patient-facing - aged under 35,1.6912196,1.5090261,1.8884816
+19/12/2020,Non-patient-facing - aged under 35,1.8031601,1.6086251,2.0161955
+20/12/2020,Non-patient-facing - aged under 35,1.9183749,1.7123179,2.1475021
+21/12/2020,Non-patient-facing - aged under 35,2.0348197,1.8142173,2.2763921
+22/12/2020,Non-patient-facing - aged under 35,2.1499103,1.9121168,2.4085791
+23/12/2020,Non-patient-facing - aged under 35,2.2599601,2.012965,2.5323689
+24/12/2020,Non-patient-facing - aged under 35,2.3634538,2.1099915,2.6493067
+25/12/2020,Non-patient-facing - aged under 35,2.4585408,2.2039083,2.7564105
+26/12/2020,Non-patient-facing - aged under 35,2.5471822,2.2852473,2.8499871
+27/12/2020,Non-patient-facing - aged under 35,2.6216672,2.3592531,2.9261801
+28/12/2020,Non-patient-facing - aged under 35,2.6846659,2.4184618,2.9854099
+29/12/2020,Non-patient-facing - aged under 35,2.7344564,2.4688831,3.0349627
+30/12/2020,Non-patient-facing - aged under 35,2.7728661,2.5088226,3.0669126
+31/12/2020,Non-patient-facing - aged under 35,2.7972458,2.5332215,3.0916754
+01/01/2021,Non-patient-facing - aged under 35,2.8107895,2.5511492,3.0980578
+02/01/2021,Non-patient-facing - aged under 35,2.8155715,2.558855,3.1022292
+03/01/2021,Non-patient-facing - aged under 35,2.8102202,2.5530727,3.0891851
+04/01/2021,Non-patient-facing - aged under 35,2.7972324,2.5430668,3.0732037
+05/01/2021,Non-patient-facing - aged under 35,2.7783637,2.5267014,3.05149
+06/01/2021,Non-patient-facing - aged under 35,2.7530115,2.5078334,3.0230516
+07/01/2021,Non-patient-facing - aged under 35,2.7229148,2.4846435,2.9888873
+08/01/2021,Non-patient-facing - aged under 35,2.6904264,2.4541529,2.9523302
+09/01/2021,Non-patient-facing - aged under 35,2.6566904,2.4192869,2.9109153
+10/01/2021,Non-patient-facing - aged under 35,2.6204146,2.3834421,2.8707907
+11/01/2021,Non-patient-facing - aged under 35,2.5816155,2.3466796,2.8273189
+12/01/2021,Non-patient-facing - aged under 35,2.5412181,2.3035764,2.7856253
+13/01/2021,Non-patient-facing - aged under 35,2.4984372,2.2619761,2.7411803
+14/01/2021,Non-patient-facing - aged under 35,2.4540737,2.2183156,2.6969773
+15/01/2021,Non-patient-facing - aged under 35,2.4060748,2.1714663,2.6484025
+16/01/2021,Non-patient-facing - aged under 35,2.3567693,2.1278696,2.5996354
+17/01/2021,Non-patient-facing - aged under 35,2.3068158,2.0818882,2.5436962
+18/01/2021,Non-patient-facing - aged under 35,2.2537624,2.0371421,2.4837119
+19/01/2021,Non-patient-facing - aged under 35,2.1981345,1.9869729,2.4212332
+20/01/2021,Non-patient-facing - aged under 35,2.1405996,1.934842,2.3604854
+21/01/2021,Non-patient-facing - aged under 35,2.0810283,1.8814662,2.2959356
+22/01/2021,Non-patient-facing - aged under 35,2.0189203,1.820744,2.234412
+23/01/2021,Non-patient-facing - aged under 35,1.954605,1.7568078,2.166301
+24/01/2021,Non-patient-facing - aged under 35,1.8887362,1.6923443,2.1005614
+25/01/2021,Non-patient-facing - aged under 35,1.8237842,1.6308015,2.0339212
+26/01/2021,Non-patient-facing - aged under 35,1.7586506,1.5692609,1.9665198
+27/01/2021,Non-patient-facing - aged under 35,1.6920668,1.5100408,1.8928494
+28/01/2021,Non-patient-facing - aged under 35,1.6268029,1.4524135,1.8190164
+29/01/2021,Non-patient-facing - aged under 35,1.5629711,1.3997732,1.7455493
+30/01/2021,Non-patient-facing - aged under 35,1.499643,1.3439635,1.6757171
+31/01/2021,Non-patient-facing - aged under 35,1.4379263,1.2868156,1.6095843
+01/02/2021,Non-patient-facing - aged under 35,1.3784132,1.2224878,1.5496135
+02/02/2021,Non-patient-facing - aged under 35,1.3205745,1.1581212,1.5001516
+03/02/2021,Non-patient-facing - aged under 35,1.2645983,1.0898268,1.460318
+04/02/2021,Non-patient-facing - aged under 35,1.2104048,1.0207747,1.4270502
+05/02/2021,Non-patient-facing - aged under 35,1.1600635,0.955269,1.3997533
+06/02/2021,Non-patient-facing - aged under 35,1.1101789,0.8925189,1.3725909
+01/09/2020,Patient-facing - aged under 35,0.040362,0.00623,0.2057829
+02/09/2020,Patient-facing - aged under 35,0.0436103,0.00716,0.2071604
+03/09/2020,Patient-facing - aged under 35,0.0470052,0.0083,0.2104979
+04/09/2020,Patient-facing - aged under 35,0.0506267,0.00937,0.2121657
+05/09/2020,Patient-facing - aged under 35,0.0544036,0.0108043,0.2171052
+06/09/2020,Patient-facing - aged under 35,0.0586434,0.0122281,0.2184457
+07/09/2020,Patient-facing - aged under 35,0.0629101,0.0139548,0.2204251
+08/09/2020,Patient-facing - aged under 35,0.0680173,0.0161333,0.2241304
+09/09/2020,Patient-facing - aged under 35,0.0732631,0.0182485,0.2300951
+10/09/2020,Patient-facing - aged under 35,0.0786471,0.0205639,0.2353987
+11/09/2020,Patient-facing - aged under 35,0.0850064,0.0236952,0.2430594
+12/09/2020,Patient-facing - aged under 35,0.092222,0.0270243,0.2468609
+13/09/2020,Patient-facing - aged under 35,0.1000268,0.0309638,0.2557447
+14/09/2020,Patient-facing - aged under 35,0.1078114,0.0357985,0.2627331
+15/09/2020,Patient-facing - aged under 35,0.1167775,0.0409706,0.2725755
+16/09/2020,Patient-facing - aged under 35,0.1275688,0.0469772,0.284134
+17/09/2020,Patient-facing - aged under 35,0.1394988,0.0540843,0.2978523
+18/09/2020,Patient-facing - aged under 35,0.1531609,0.0625838,0.3137192
+19/09/2020,Patient-facing - aged under 35,0.168428,0.0725009,0.3332528
+20/09/2020,Patient-facing - aged under 35,0.1861638,0.0847362,0.3563846
+21/09/2020,Patient-facing - aged under 35,0.2057653,0.0991588,0.3850154
+22/09/2020,Patient-facing - aged under 35,0.2292516,0.1158162,0.4188071
+23/09/2020,Patient-facing - aged under 35,0.2565822,0.1354249,0.4554503
+24/09/2020,Patient-facing - aged under 35,0.287824,0.1571956,0.4983958
+25/09/2020,Patient-facing - aged under 35,0.3227721,0.1818474,0.5436601
+26/09/2020,Patient-facing - aged under 35,0.3609643,0.2105455,0.6009456
+27/09/2020,Patient-facing - aged under 35,0.4044841,0.241739,0.6555492
+28/09/2020,Patient-facing - aged under 35,0.4514449,0.2773163,0.7096728
+29/09/2020,Patient-facing - aged under 35,0.503711,0.3144592,0.7710004
+30/09/2020,Patient-facing - aged under 35,0.5575723,0.3543446,0.8410545
+01/10/2020,Patient-facing - aged under 35,0.6143721,0.3973545,0.9081439
+02/10/2020,Patient-facing - aged under 35,0.673923,0.4448266,0.9801349
+03/10/2020,Patient-facing - aged under 35,0.7329074,0.4904716,1.0464545
+04/10/2020,Patient-facing - aged under 35,0.7909293,0.5365457,1.1144807
+05/10/2020,Patient-facing - aged under 35,0.8478312,0.5839826,1.1829555
+06/10/2020,Patient-facing - aged under 35,0.9041979,0.6314195,1.2421573
+07/10/2020,Patient-facing - aged under 35,0.9561995,0.6790986,1.2999278
+08/10/2020,Patient-facing - aged under 35,1.0051941,0.721919,1.3501314
+09/10/2020,Patient-facing - aged under 35,1.0506452,0.7614565,1.3996237
+10/10/2020,Patient-facing - aged under 35,1.0946368,0.7997642,1.4444773
+11/10/2020,Patient-facing - aged under 35,1.1375755,0.8376282,1.4964884
+12/10/2020,Patient-facing - aged under 35,1.177614,0.8708582,1.5434589
+13/10/2020,Patient-facing - aged under 35,1.2175842,0.9039228,1.5968345
+14/10/2020,Patient-facing - aged under 35,1.2554211,0.9314293,1.6430942
+15/10/2020,Patient-facing - aged under 35,1.2945383,0.9614979,1.6928385
+16/10/2020,Patient-facing - aged under 35,1.3358832,0.9910848,1.740979
+17/10/2020,Patient-facing - aged under 35,1.3757343,1.0246312,1.7955718
+18/10/2020,Patient-facing - aged under 35,1.4205233,1.0621283,1.8463499
+19/10/2020,Patient-facing - aged under 35,1.4670629,1.1027274,1.9061179
+20/10/2020,Patient-facing - aged under 35,1.5117543,1.1415364,1.9659426
+21/10/2020,Patient-facing - aged under 35,1.5600736,1.1846844,2.0330793
+22/10/2020,Patient-facing - aged under 35,1.6093772,1.2296098,2.0938504
+23/10/2020,Patient-facing - aged under 35,1.6551309,1.2705781,2.159126
+24/10/2020,Patient-facing - aged under 35,1.7026634,1.3081323,2.2189601
+25/10/2020,Patient-facing - aged under 35,1.7475837,1.3415355,2.2652721
+26/10/2020,Patient-facing - aged under 35,1.7911924,1.3752838,2.3213726
+27/10/2020,Patient-facing - aged under 35,1.8327394,1.3977328,2.3693588
+28/10/2020,Patient-facing - aged under 35,1.8687947,1.4206087,2.4109882
+29/10/2020,Patient-facing - aged under 35,1.8985033,1.4515478,2.4464209
+30/10/2020,Patient-facing - aged under 35,1.9224532,1.4704387,2.4648128
+31/10/2020,Patient-facing - aged under 35,1.9418806,1.4858996,2.4903319
+01/11/2020,Patient-facing - aged under 35,1.957666,1.4953809,2.5017001
+02/11/2020,Patient-facing - aged under 35,1.9682657,1.5031656,2.5153489
+03/11/2020,Patient-facing - aged under 35,1.9734722,1.5030727,2.5205506
+04/11/2020,Patient-facing - aged under 35,1.9754931,1.5119809,2.5279569
+05/11/2020,Patient-facing - aged under 35,1.9764779,1.51418,2.5251367
+06/11/2020,Patient-facing - aged under 35,1.9746711,1.5176921,2.5202487
+07/11/2020,Patient-facing - aged under 35,1.9723592,1.5243835,2.5221184
+08/11/2020,Patient-facing - aged under 35,1.9658716,1.527966,2.5193984
+09/11/2020,Patient-facing - aged under 35,1.9597874,1.5272116,2.5105281
+10/11/2020,Patient-facing - aged under 35,1.951358,1.5249833,2.4972497
+11/11/2020,Patient-facing - aged under 35,1.9451965,1.5187895,2.4763656
+12/11/2020,Patient-facing - aged under 35,1.9346059,1.5060283,2.4631512
+13/11/2020,Patient-facing - aged under 35,1.9225652,1.4940471,2.4584632
+14/11/2020,Patient-facing - aged under 35,1.9072838,1.4815316,2.4382733
+15/11/2020,Patient-facing - aged under 35,1.8924514,1.4604846,2.4206398
+16/11/2020,Patient-facing - aged under 35,1.8734149,1.4490502,2.3931242
+17/11/2020,Patient-facing - aged under 35,1.8529557,1.4342819,2.3742565
+18/11/2020,Patient-facing - aged under 35,1.8297643,1.4140571,2.3463399
+19/11/2020,Patient-facing - aged under 35,1.8043845,1.3919235,2.3180601
+20/11/2020,Patient-facing - aged under 35,1.7775337,1.3687129,2.2850027
+21/11/2020,Patient-facing - aged under 35,1.749995,1.3442948,2.2462982
+22/11/2020,Patient-facing - aged under 35,1.720031,1.3194259,2.2121976
+23/11/2020,Patient-facing - aged under 35,1.6929434,1.29425,2.1739597
+24/11/2020,Patient-facing - aged under 35,1.6631261,1.2655079,2.1391075
+25/11/2020,Patient-facing - aged under 35,1.6371813,1.2452724,2.1145412
+26/11/2020,Patient-facing - aged under 35,1.6139662,1.224954,2.086237
+27/11/2020,Patient-facing - aged under 35,1.5941595,1.2080698,2.0625755
+28/11/2020,Patient-facing - aged under 35,1.581879,1.1930081,2.0468707
+29/11/2020,Patient-facing - aged under 35,1.5732435,1.1882702,2.0362386
+30/11/2020,Patient-facing - aged under 35,1.570381,1.1879137,2.0354176
+01/12/2020,Patient-facing - aged under 35,1.5744913,1.1951629,2.04981
+02/12/2020,Patient-facing - aged under 35,1.5881804,1.2068368,2.0651457
+03/12/2020,Patient-facing - aged under 35,1.6072692,1.2215901,2.0890943
+04/12/2020,Patient-facing - aged under 35,1.6323108,1.2424356,2.1137667
+05/12/2020,Patient-facing - aged under 35,1.6680992,1.2686889,2.1561363
+06/12/2020,Patient-facing - aged under 35,1.7093047,1.2989974,2.2095886
+07/12/2020,Patient-facing - aged under 35,1.7592579,1.3361702,2.2637964
+08/12/2020,Patient-facing - aged under 35,1.81334,1.38121,2.3374964
+09/12/2020,Patient-facing - aged under 35,1.8767753,1.4347185,2.4188178
+10/12/2020,Patient-facing - aged under 35,1.9467971,1.4943519,2.500697
+11/12/2020,Patient-facing - aged under 35,2.0187134,1.5547691,2.5899788
+12/12/2020,Patient-facing - aged under 35,2.0948068,1.6161992,2.6793333
+13/12/2020,Patient-facing - aged under 35,2.1754983,1.6799725,2.7697791
+14/12/2020,Patient-facing - aged under 35,2.2563389,1.7464542,2.8741274
+15/12/2020,Patient-facing - aged under 35,2.3439512,1.8268863,2.9689844
+16/12/2020,Patient-facing - aged under 35,2.4316917,1.9012587,3.0798402
+17/12/2020,Patient-facing - aged under 35,2.5185836,1.9685448,3.1800803
+18/12/2020,Patient-facing - aged under 35,2.6096871,2.0380775,3.2845833
+19/12/2020,Patient-facing - aged under 35,2.6909355,2.1032034,3.4056063
+20/12/2020,Patient-facing - aged under 35,2.7798717,2.1617782,3.5280271
+21/12/2020,Patient-facing - aged under 35,2.8604151,2.2227449,3.6418217
+22/12/2020,Patient-facing - aged under 35,2.9422603,2.2880474,3.7552836
+23/12/2020,Patient-facing - aged under 35,3.0303084,2.3523043,3.8587306
+24/12/2020,Patient-facing - aged under 35,3.1115471,2.4136593,3.9643212
+25/12/2020,Patient-facing - aged under 35,3.1898344,2.4772413,4.0551657
+26/12/2020,Patient-facing - aged under 35,3.2648305,2.5316195,4.1376069
+27/12/2020,Patient-facing - aged under 35,3.3348161,2.5946433,4.2047995
+28/12/2020,Patient-facing - aged under 35,3.4009369,2.655269,4.2759584
+29/12/2020,Patient-facing - aged under 35,3.4602689,2.7012543,4.3301405
+30/12/2020,Patient-facing - aged under 35,3.5095141,2.7507201,4.380823
+31/12/2020,Patient-facing - aged under 35,3.5503957,2.7946566,4.4120487
+01/01/2021,Patient-facing - aged under 35,3.5819602,2.8287197,4.4402344
+02/01/2021,Patient-facing - aged under 35,3.5973041,2.8521911,4.4475365
+03/01/2021,Patient-facing - aged under 35,3.5991832,2.8600197,4.4429196
+04/01/2021,Patient-facing - aged under 35,3.593771,2.8601416,4.4264729
+05/01/2021,Patient-facing - aged under 35,3.568448,2.8411116,4.3901242
+06/01/2021,Patient-facing - aged under 35,3.5337268,2.8150165,4.3512304
+07/01/2021,Patient-facing - aged under 35,3.4833065,2.7781832,4.2980745
+08/01/2021,Patient-facing - aged under 35,3.4222311,2.7284313,4.2195483
+09/01/2021,Patient-facing - aged under 35,3.3539828,2.6685928,4.1361621
+10/01/2021,Patient-facing - aged under 35,3.2821801,2.6075589,4.0476828
+11/01/2021,Patient-facing - aged under 35,3.1987314,2.5276306,3.9816266
+12/01/2021,Patient-facing - aged under 35,3.1162581,2.4529688,3.9036613
+13/01/2021,Patient-facing - aged under 35,3.0267322,2.3776151,3.8024243
+14/01/2021,Patient-facing - aged under 35,2.9355198,2.2889003,3.7000689
+15/01/2021,Patient-facing - aged under 35,2.845063,2.2111054,3.5890506
+16/01/2021,Patient-facing - aged under 35,2.7589625,2.1364965,3.4762413
+17/01/2021,Patient-facing - aged under 35,2.6674344,2.0600689,3.3581922
+18/01/2021,Patient-facing - aged under 35,2.577628,1.9935607,3.2533539
+19/01/2021,Patient-facing - aged under 35,2.4909587,1.9229048,3.1476461
+20/01/2021,Patient-facing - aged under 35,2.4072598,1.8512879,3.0508302
+21/01/2021,Patient-facing - aged under 35,2.3209864,1.7827754,2.9644365
+22/01/2021,Patient-facing - aged under 35,2.2342209,1.7020176,2.8790359
+23/01/2021,Patient-facing - aged under 35,2.1531559,1.6276048,2.7882512
+24/01/2021,Patient-facing - aged under 35,2.0693163,1.5575975,2.6900277
+25/01/2021,Patient-facing - aged under 35,1.9826862,1.4851426,2.5873555
+26/01/2021,Patient-facing - aged under 35,1.8981803,1.4141384,2.4864378
+27/01/2021,Patient-facing - aged under 35,1.8103521,1.339321,2.3806023
+28/01/2021,Patient-facing - aged under 35,1.7222775,1.2697191,2.275149
+29/01/2021,Patient-facing - aged under 35,1.6337617,1.195404,2.1783432
+30/01/2021,Patient-facing - aged under 35,1.5455075,1.1095527,2.0924675
+31/01/2021,Patient-facing - aged under 35,1.4593172,1.0255311,2.0064712
+01/02/2021,Patient-facing - aged under 35,1.373763,0.9404038,1.9446386
+02/02/2021,Patient-facing - aged under 35,1.2912523,0.8468171,1.881797
+03/02/2021,Patient-facing - aged under 35,1.2161607,0.7618267,1.833661
+04/02/2021,Patient-facing - aged under 35,1.1424395,0.6747678,1.8166408
+05/02/2021,Patient-facing - aged under 35,1.0711859,0.5979575,1.7977431
+06/02/2021,Patient-facing - aged under 35,1.0052101,0.5306812,1.7948183
+01/09/2020,Non-patient-facing - aged 35 and over,0.0673085,0.0411407,0.1065991
+02/09/2020,Non-patient-facing - aged 35 and over,0.0695633,0.0447313,0.105613
+03/09/2020,Non-patient-facing - aged 35 and over,0.0719959,0.0482986,0.1050684
+04/09/2020,Non-patient-facing - aged 35 and over,0.0746048,0.0520279,0.1045745
+05/09/2020,Non-patient-facing - aged 35 and over,0.0775194,0.0561185,0.1049168
+06/09/2020,Non-patient-facing - aged 35 and over,0.0806989,0.0602057,0.1065024
+07/09/2020,Non-patient-facing - aged 35 and over,0.0843158,0.0644146,0.109612
+08/09/2020,Non-patient-facing - aged 35 and over,0.0886005,0.0683721,0.1138106
+09/09/2020,Non-patient-facing - aged 35 and over,0.0936905,0.0730085,0.1187868
+10/09/2020,Non-patient-facing - aged 35 and over,0.0995058,0.0780793,0.1251757
+11/09/2020,Non-patient-facing - aged 35 and over,0.1064129,0.0838285,0.1327635
+12/09/2020,Non-patient-facing - aged 35 and over,0.1142965,0.0908355,0.1414526
+13/09/2020,Non-patient-facing - aged 35 and over,0.1232,0.0985502,0.151183
+14/09/2020,Non-patient-facing - aged 35 and over,0.1330672,0.1074388,0.1620419
+15/09/2020,Non-patient-facing - aged 35 and over,0.1439896,0.117735,0.1738055
+16/09/2020,Non-patient-facing - aged 35 and over,0.1558206,0.1287297,0.1861499
+17/09/2020,Non-patient-facing - aged 35 and over,0.1683559,0.1404604,0.1996061
+18/09/2020,Non-patient-facing - aged 35 and over,0.1815065,0.1530375,0.2138054
+19/09/2020,Non-patient-facing - aged 35 and over,0.1951435,0.1655176,0.2278234
+20/09/2020,Non-patient-facing - aged 35 and over,0.2088036,0.1782718,0.2424372
+21/09/2020,Non-patient-facing - aged 35 and over,0.2220301,0.1908271,0.2567634
+22/09/2020,Non-patient-facing - aged 35 and over,0.2347787,0.2026715,0.2704554
+23/09/2020,Non-patient-facing - aged 35 and over,0.2470942,0.2138404,0.2835683
+24/09/2020,Non-patient-facing - aged 35 and over,0.2582798,0.2245061,0.2961085
+25/09/2020,Non-patient-facing - aged 35 and over,0.2689421,0.2350453,0.3072393
+26/09/2020,Non-patient-facing - aged 35 and over,0.2791396,0.2445777,0.317796
+27/09/2020,Non-patient-facing - aged 35 and over,0.2890985,0.2543888,0.3277262
+28/09/2020,Non-patient-facing - aged 35 and over,0.2988268,0.2647556,0.3373264
+29/09/2020,Non-patient-facing - aged 35 and over,0.309133,0.2750966,0.3475482
+30/09/2020,Non-patient-facing - aged 35 and over,0.3196398,0.2861238,0.3589004
+01/10/2020,Non-patient-facing - aged 35 and over,0.3312819,0.2971878,0.3709746
+02/10/2020,Non-patient-facing - aged 35 and over,0.3447135,0.3095419,0.3843824
+03/10/2020,Non-patient-facing - aged 35 and over,0.3598403,0.3233336,0.4001881
+04/10/2020,Non-patient-facing - aged 35 and over,0.3769124,0.3393714,0.4180457
+05/10/2020,Non-patient-facing - aged 35 and over,0.396749,0.3573479,0.438725
+06/10/2020,Non-patient-facing - aged 35 and over,0.4186451,0.3776689,0.4623055
+07/10/2020,Non-patient-facing - aged 35 and over,0.4431995,0.4011513,0.4886839
+08/10/2020,Non-patient-facing - aged 35 and over,0.4701182,0.426737,0.5166072
+09/10/2020,Non-patient-facing - aged 35 and over,0.4989947,0.4542812,0.5469864
+10/10/2020,Non-patient-facing - aged 35 and over,0.5292989,0.4832301,0.5778545
+11/10/2020,Non-patient-facing - aged 35 and over,0.5608065,0.5130661,0.6113706
+12/10/2020,Non-patient-facing - aged 35 and over,0.5929448,0.5434795,0.6446495
+13/10/2020,Non-patient-facing - aged 35 and over,0.6246487,0.5735457,0.6790248
+14/10/2020,Non-patient-facing - aged 35 and over,0.6555343,0.6019395,0.7131946
+15/10/2020,Non-patient-facing - aged 35 and over,0.6844253,0.6286038,0.7444244
+16/10/2020,Non-patient-facing - aged 35 and over,0.711108,0.6518445,0.7723208
+17/10/2020,Non-patient-facing - aged 35 and over,0.7348856,0.6737838,0.797825
+18/10/2020,Non-patient-facing - aged 35 and over,0.755627,0.6932116,0.8207561
+19/10/2020,Non-patient-facing - aged 35 and over,0.773694,0.7102284,0.8406826
+20/10/2020,Non-patient-facing - aged 35 and over,0.7895762,0.7258403,0.8586368
+21/10/2020,Non-patient-facing - aged 35 and over,0.803752,0.7398549,0.8740039
+22/10/2020,Non-patient-facing - aged 35 and over,0.8168039,0.7522863,0.8877796
+23/10/2020,Non-patient-facing - aged 35 and over,0.8289355,0.7640226,0.9023787
+24/10/2020,Non-patient-facing - aged 35 and over,0.842036,0.7756599,0.916664
+25/10/2020,Non-patient-facing - aged 35 and over,0.8557198,0.7885588,0.9322228
+26/10/2020,Non-patient-facing - aged 35 and over,0.8715101,0.8023046,0.9488932
+27/10/2020,Non-patient-facing - aged 35 and over,0.8887176,0.8191182,0.9665392
+28/10/2020,Non-patient-facing - aged 35 and over,0.9083685,0.8358168,0.9872415
+29/10/2020,Non-patient-facing - aged 35 and over,0.9293708,0.8555955,1.0101464
+30/10/2020,Non-patient-facing - aged 35 and over,0.9519329,0.8773862,1.0335993
+31/10/2020,Non-patient-facing - aged 35 and over,0.9754285,0.8999987,1.05728
+01/11/2020,Non-patient-facing - aged 35 and over,0.998169,0.9220936,1.081164
+02/11/2020,Non-patient-facing - aged 35 and over,1.0203067,0.9438194,1.1050039
+03/11/2020,Non-patient-facing - aged 35 and over,1.0403291,0.9628395,1.1264273
+04/11/2020,Non-patient-facing - aged 35 and over,1.0567389,0.9783015,1.1427576
+05/11/2020,Non-patient-facing - aged 35 and over,1.0686302,0.9894427,1.1565879
+06/11/2020,Non-patient-facing - aged 35 and over,1.074948,0.9952338,1.1637945
+07/11/2020,Non-patient-facing - aged 35 and over,1.0749952,0.9955381,1.1630537
+08/11/2020,Non-patient-facing - aged 35 and over,1.0688865,0.9889997,1.1560752
+09/11/2020,Non-patient-facing - aged 35 and over,1.0569214,0.9773149,1.1423584
+10/11/2020,Non-patient-facing - aged 35 and over,1.0383003,0.9611062,1.1226633
+11/11/2020,Non-patient-facing - aged 35 and over,1.0154317,0.9397901,1.0979375
+12/11/2020,Non-patient-facing - aged 35 and over,0.989424,0.9147031,1.0702221
+13/11/2020,Non-patient-facing - aged 35 and over,0.9610973,0.8884524,1.0394096
+14/11/2020,Non-patient-facing - aged 35 and over,0.9314261,0.8592973,1.0084361
+15/11/2020,Non-patient-facing - aged 35 and over,0.9023799,0.8316079,0.9778912
+16/11/2020,Non-patient-facing - aged 35 and over,0.8746063,0.8049964,0.9483885
+17/11/2020,Non-patient-facing - aged 35 and over,0.8490025,0.7809565,0.9218443
+18/11/2020,Non-patient-facing - aged 35 and over,0.8262169,0.7600517,0.8984069
+19/11/2020,Non-patient-facing - aged 35 and over,0.8069683,0.7423579,0.8775739
+20/11/2020,Non-patient-facing - aged 35 and over,0.7911278,0.7271663,0.8612755
+21/11/2020,Non-patient-facing - aged 35 and over,0.778806,0.7158091,0.8479717
+22/11/2020,Non-patient-facing - aged 35 and over,0.7698892,0.7068427,0.8368828
+23/11/2020,Non-patient-facing - aged 35 and over,0.763879,0.7024955,0.8299026
+24/11/2020,Non-patient-facing - aged 35 and over,0.7598503,0.6992392,0.8244168
+25/11/2020,Non-patient-facing - aged 35 and over,0.7585136,0.6984805,0.8239954
+26/11/2020,Non-patient-facing - aged 35 and over,0.7582827,0.6980508,0.8248989
+27/11/2020,Non-patient-facing - aged 35 and over,0.7594242,0.6980895,0.8260163
+28/11/2020,Non-patient-facing - aged 35 and over,0.7606431,0.698404,0.8291863
+29/11/2020,Non-patient-facing - aged 35 and over,0.7618627,0.6993112,0.8307571
+30/11/2020,Non-patient-facing - aged 35 and over,0.7617942,0.6993266,0.8319674
+01/12/2020,Non-patient-facing - aged 35 and over,0.7615571,0.698453,0.8327672
+02/12/2020,Non-patient-facing - aged 35 and over,0.7611145,0.6974607,0.8315023
+03/12/2020,Non-patient-facing - aged 35 and over,0.7601155,0.6963531,0.8303525
+04/12/2020,Non-patient-facing - aged 35 and over,0.7589624,0.6959319,0.8294087
+05/12/2020,Non-patient-facing - aged 35 and over,0.7586848,0.696314,0.8285422
+06/12/2020,Non-patient-facing - aged 35 and over,0.7595223,0.6975329,0.8278148
+07/12/2020,Non-patient-facing - aged 35 and over,0.761693,0.7007379,0.8307901
+08/12/2020,Non-patient-facing - aged 35 and over,0.7669442,0.7049158,0.8363621
+09/12/2020,Non-patient-facing - aged 35 and over,0.7763098,0.7133645,0.8456149
+10/12/2020,Non-patient-facing - aged 35 and over,0.7896781,0.7261065,0.8599252
+11/12/2020,Non-patient-facing - aged 35 and over,0.8085522,0.7442419,0.8786423
+12/12/2020,Non-patient-facing - aged 35 and over,0.8332538,0.767868,0.9051481
+13/12/2020,Non-patient-facing - aged 35 and over,0.8646056,0.797576,0.9383635
+14/12/2020,Non-patient-facing - aged 35 and over,0.9026483,0.8332348,0.9785477
+15/12/2020,Non-patient-facing - aged 35 and over,0.9490473,0.8761791,1.0268354
+16/12/2020,Non-patient-facing - aged 35 and over,1.0027562,0.9272646,1.0842659
+17/12/2020,Non-patient-facing - aged 35 and over,1.0644618,0.9841672,1.1496753
+18/12/2020,Non-patient-facing - aged 35 and over,1.1329035,1.0467315,1.2246627
+19/12/2020,Non-patient-facing - aged 35 and over,1.2081168,1.1151895,1.3050838
+20/12/2020,Non-patient-facing - aged 35 and over,1.288146,1.1873008,1.3918332
+21/12/2020,Non-patient-facing - aged 35 and over,1.3720297,1.264405,1.4845263
+22/12/2020,Non-patient-facing - aged 35 and over,1.4565924,1.3414815,1.5757524
+23/12/2020,Non-patient-facing - aged 35 and over,1.5400775,1.4179568,1.6675657
+24/12/2020,Non-patient-facing - aged 35 and over,1.6193776,1.49259,1.7529622
+25/12/2020,Non-patient-facing - aged 35 and over,1.6927178,1.5624752,1.8299798
+26/12/2020,Non-patient-facing - aged 35 and over,1.7570994,1.6236685,1.8977755
+27/12/2020,Non-patient-facing - aged 35 and over,1.8112003,1.6755851,1.953045
+28/12/2020,Non-patient-facing - aged 35 and over,1.8525796,1.7162373,1.9951
+29/12/2020,Non-patient-facing - aged 35 and over,1.8818975,1.7457575,2.0241249
+30/12/2020,Non-patient-facing - aged 35 and over,1.8993018,1.7645966,2.0409843
+31/12/2020,Non-patient-facing - aged 35 and over,1.9053962,1.7720554,2.0462419
+01/01/2021,Non-patient-facing - aged 35 and over,1.9012853,1.768389,2.0435836
+02/01/2021,Non-patient-facing - aged 35 and over,1.8911616,1.7579055,2.0328241
+03/01/2021,Non-patient-facing - aged 35 and over,1.875197,1.7421556,2.0165315
+04/01/2021,Non-patient-facing - aged 35 and over,1.8572202,1.7253848,1.9980619
+05/01/2021,Non-patient-facing - aged 35 and over,1.8385728,1.7082844,1.9791684
+06/01/2021,Non-patient-facing - aged 35 and over,1.8210493,1.6960613,1.95727
+07/01/2021,Non-patient-facing - aged 35 and over,1.8051457,1.6818047,1.9365268
+08/01/2021,Non-patient-facing - aged 35 and over,1.792082,1.668644,1.9226896
+09/01/2021,Non-patient-facing - aged 35 and over,1.7831465,1.6585983,1.9125147
+10/01/2021,Non-patient-facing - aged 35 and over,1.7774002,1.6536424,1.9054152
+11/01/2021,Non-patient-facing - aged 35 and over,1.7739976,1.6504342,1.9033176
+12/01/2021,Non-patient-facing - aged 35 and over,1.7732097,1.648351,1.9037949
+13/01/2021,Non-patient-facing - aged 35 and over,1.7731403,1.648038,1.9064392
+14/01/2021,Non-patient-facing - aged 35 and over,1.7746189,1.645844,1.9084052
+15/01/2021,Non-patient-facing - aged 35 and over,1.7740127,1.6445258,1.9065537
+16/01/2021,Non-patient-facing - aged 35 and over,1.7712153,1.6423291,1.9036588
+17/01/2021,Non-patient-facing - aged 35 and over,1.7649144,1.6374702,1.8976315
+18/01/2021,Non-patient-facing - aged 35 and over,1.7543071,1.630831,1.8848397
+19/01/2021,Non-patient-facing - aged 35 and over,1.739507,1.6162258,1.8652559
+20/01/2021,Non-patient-facing - aged 35 and over,1.7187002,1.5973482,1.8419623
+21/01/2021,Non-patient-facing - aged 35 and over,1.6925539,1.5741392,1.8149566
+22/01/2021,Non-patient-facing - aged 35 and over,1.6627816,1.545017,1.785955
+23/01/2021,Non-patient-facing - aged 35 and over,1.6282191,1.5104846,1.751247
+24/01/2021,Non-patient-facing - aged 35 and over,1.5906272,1.4750911,1.7146323
+25/01/2021,Non-patient-facing - aged 35 and over,1.5512213,1.4376479,1.6729815
+26/01/2021,Non-patient-facing - aged 35 and over,1.5106314,1.400648,1.6288483
+27/01/2021,Non-patient-facing - aged 35 and over,1.4699702,1.3620625,1.5863876
+28/01/2021,Non-patient-facing - aged 35 and over,1.4303998,1.3272711,1.541789
+29/01/2021,Non-patient-facing - aged 35 and over,1.391755,1.2929188,1.4992939
+30/01/2021,Non-patient-facing - aged 35 and over,1.354456,1.2601162,1.4600369
+31/01/2021,Non-patient-facing - aged 35 and over,1.3191241,1.2274976,1.421529
+01/02/2021,Non-patient-facing - aged 35 and over,1.2863439,1.1938188,1.3892843
+02/02/2021,Non-patient-facing - aged 35 and over,1.2559967,1.1588535,1.3630234
+03/02/2021,Non-patient-facing - aged 35 and over,1.2262519,1.1209775,1.3398302
+04/02/2021,Non-patient-facing - aged 35 and over,1.197812,1.0834449,1.3214097
+05/02/2021,Non-patient-facing - aged 35 and over,1.1699902,1.0453188,1.3072684
+06/02/2021,Non-patient-facing - aged 35 and over,1.1435169,1.0059803,1.2979606
+01/09/2020,Patient-facing - aged 35 and over,0.0380569,0.0102672,0.126577
+02/09/2020,Patient-facing - aged 35 and over,0.0414345,0.0118804,0.128861
+03/09/2020,Patient-facing - aged 35 and over,0.0448466,0.0138495,0.1307645
+04/09/2020,Patient-facing - aged 35 and over,0.0483623,0.0159067,0.1351666
+05/09/2020,Patient-facing - aged 35 and over,0.0526575,0.0182703,0.1382516
+06/09/2020,Patient-facing - aged 35 and over,0.0571771,0.0207719,0.1425724
+07/09/2020,Patient-facing - aged 35 and over,0.0624159,0.0237717,0.146519
+08/09/2020,Patient-facing - aged 35 and over,0.0677671,0.0270711,0.1547716
+09/09/2020,Patient-facing - aged 35 and over,0.0741158,0.0311234,0.1601007
+10/09/2020,Patient-facing - aged 35 and over,0.0808854,0.0355243,0.1682434
+11/09/2020,Patient-facing - aged 35 and over,0.0888096,0.0403848,0.1760881
+12/09/2020,Patient-facing - aged 35 and over,0.0975403,0.0456241,0.1872399
+13/09/2020,Patient-facing - aged 35 and over,0.1074293,0.0519266,0.1981387
+14/09/2020,Patient-facing - aged 35 and over,0.1181977,0.0597831,0.210709
+15/09/2020,Patient-facing - aged 35 and over,0.1306052,0.0691141,0.2257621
+16/09/2020,Patient-facing - aged 35 and over,0.1441117,0.0799122,0.2422819
+17/09/2020,Patient-facing - aged 35 and over,0.1591443,0.091767,0.2601574
+18/09/2020,Patient-facing - aged 35 and over,0.1762216,0.1047333,0.2803881
+19/09/2020,Patient-facing - aged 35 and over,0.1942167,0.1189073,0.3014995
+20/09/2020,Patient-facing - aged 35 and over,0.2142438,0.1347786,0.3262087
+21/09/2020,Patient-facing - aged 35 and over,0.2356001,0.1514852,0.3526687
+22/09/2020,Patient-facing - aged 35 and over,0.2586014,0.1705299,0.3804685
+23/09/2020,Patient-facing - aged 35 and over,0.2825179,0.1908258,0.4106277
+24/09/2020,Patient-facing - aged 35 and over,0.3084795,0.2119772,0.4408283
+25/09/2020,Patient-facing - aged 35 and over,0.3352652,0.2334689,0.4730846
+26/09/2020,Patient-facing - aged 35 and over,0.3630513,0.2567914,0.5046852
+27/09/2020,Patient-facing - aged 35 and over,0.3911562,0.2812606,0.5357936
+28/09/2020,Patient-facing - aged 35 and over,0.4193966,0.3057481,0.5658962
+29/09/2020,Patient-facing - aged 35 and over,0.4475344,0.3298805,0.5973038
+30/09/2020,Patient-facing - aged 35 and over,0.4758705,0.3550326,0.6236764
+01/10/2020,Patient-facing - aged 35 and over,0.5023893,0.376544,0.6557955
+02/10/2020,Patient-facing - aged 35 and over,0.5275903,0.3980578,0.6845642
+03/10/2020,Patient-facing - aged 35 and over,0.5517459,0.4190862,0.7082986
+04/10/2020,Patient-facing - aged 35 and over,0.5748533,0.4392437,0.730742
+05/10/2020,Patient-facing - aged 35 and over,0.5966682,0.4589735,0.7563249
+06/10/2020,Patient-facing - aged 35 and over,0.6160842,0.4771112,0.7799298
+07/10/2020,Patient-facing - aged 35 and over,0.6351246,0.4951369,0.798775
+08/10/2020,Patient-facing - aged 35 and over,0.6518854,0.5109383,0.8176064
+09/10/2020,Patient-facing - aged 35 and over,0.6677992,0.5276138,0.8337416
+10/10/2020,Patient-facing - aged 35 and over,0.6836569,0.542154,0.8512357
+11/10/2020,Patient-facing - aged 35 and over,0.6988257,0.5571655,0.8663579
+12/10/2020,Patient-facing - aged 35 and over,0.7145306,0.5700314,0.8813098
+13/10/2020,Patient-facing - aged 35 and over,0.7292363,0.584514,0.8989105
+14/10/2020,Patient-facing - aged 35 and over,0.7440327,0.5979114,0.9182604
+15/10/2020,Patient-facing - aged 35 and over,0.7599988,0.6126689,0.9389373
+16/10/2020,Patient-facing - aged 35 and over,0.77684,0.6271942,0.9558144
+17/10/2020,Patient-facing - aged 35 and over,0.7946991,0.6435455,0.9750239
+18/10/2020,Patient-facing - aged 35 and over,0.8149022,0.6580054,1.0009511
+19/10/2020,Patient-facing - aged 35 and over,0.8354443,0.6738024,1.0242935
+20/10/2020,Patient-facing - aged 35 and over,0.85693,0.6935219,1.053766
+21/10/2020,Patient-facing - aged 35 and over,0.8811161,0.7123858,1.0818273
+22/10/2020,Patient-facing - aged 35 and over,0.9064554,0.7325313,1.1108137
+23/10/2020,Patient-facing - aged 35 and over,0.9337775,0.7534564,1.1452868
+24/10/2020,Patient-facing - aged 35 and over,0.9629166,0.778129,1.1811682
+25/10/2020,Patient-facing - aged 35 and over,0.9933849,0.8024173,1.2182529
+26/10/2020,Patient-facing - aged 35 and over,1.025713,0.8290338,1.2600374
+27/10/2020,Patient-facing - aged 35 and over,1.0576563,0.8549931,1.300708
+28/10/2020,Patient-facing - aged 35 and over,1.0898694,0.8847219,1.3392988
+29/10/2020,Patient-facing - aged 35 and over,1.1227617,0.914757,1.3719147
+30/10/2020,Patient-facing - aged 35 and over,1.1559273,0.9463556,1.4093605
+31/10/2020,Patient-facing - aged 35 and over,1.1869597,0.9743463,1.4422412
+01/11/2020,Patient-facing - aged 35 and over,1.2199313,1.0057876,1.4705332
+02/11/2020,Patient-facing - aged 35 and over,1.250327,1.0311331,1.505807
+03/11/2020,Patient-facing - aged 35 and over,1.2771317,1.0535473,1.5360958
+04/11/2020,Patient-facing - aged 35 and over,1.3009815,1.0761698,1.5603943
+05/11/2020,Patient-facing - aged 35 and over,1.3249198,1.0947757,1.5849058
+06/11/2020,Patient-facing - aged 35 and over,1.344073,1.1098698,1.6098725
+07/11/2020,Patient-facing - aged 35 and over,1.3627398,1.122309,1.6332877
+08/11/2020,Patient-facing - aged 35 and over,1.3775503,1.1383725,1.6484545
+09/11/2020,Patient-facing - aged 35 and over,1.3895379,1.1508664,1.6597786
+10/11/2020,Patient-facing - aged 35 and over,1.4004901,1.1613761,1.6725869
+11/11/2020,Patient-facing - aged 35 and over,1.4086096,1.1716086,1.6822685
+12/11/2020,Patient-facing - aged 35 and over,1.4133678,1.1746454,1.6882557
+13/11/2020,Patient-facing - aged 35 and over,1.4171242,1.1808113,1.6923915
+14/11/2020,Patient-facing - aged 35 and over,1.4181262,1.1836327,1.6944107
+15/11/2020,Patient-facing - aged 35 and over,1.4172256,1.1855776,1.6910863
+16/11/2020,Patient-facing - aged 35 and over,1.4149894,1.1837741,1.6884793
+17/11/2020,Patient-facing - aged 35 and over,1.4110848,1.1807699,1.6824451
+18/11/2020,Patient-facing - aged 35 and over,1.4053516,1.1767846,1.6788853
+19/11/2020,Patient-facing - aged 35 and over,1.3982709,1.168084,1.6712572
+20/11/2020,Patient-facing - aged 35 and over,1.3902228,1.1596884,1.6583855
+21/11/2020,Patient-facing - aged 35 and over,1.380127,1.1499776,1.6463496
+22/11/2020,Patient-facing - aged 35 and over,1.3676994,1.1415693,1.629425
+23/11/2020,Patient-facing - aged 35 and over,1.3533319,1.1255296,1.6155315
+24/11/2020,Patient-facing - aged 35 and over,1.3374889,1.1139319,1.5938729
+25/11/2020,Patient-facing - aged 35 and over,1.3193091,1.0946604,1.5723445
+26/11/2020,Patient-facing - aged 35 and over,1.2995452,1.0767749,1.5503782
+27/11/2020,Patient-facing - aged 35 and over,1.2783078,1.0576134,1.5278851
+28/11/2020,Patient-facing - aged 35 and over,1.2560559,1.0385441,1.5042759
+29/11/2020,Patient-facing - aged 35 and over,1.2352949,1.016357,1.4803346
+30/11/2020,Patient-facing - aged 35 and over,1.2147221,0.9960953,1.4564351
+01/12/2020,Patient-facing - aged 35 and over,1.1965983,0.9787754,1.4372721
+02/12/2020,Patient-facing - aged 35 and over,1.1793738,0.9629811,1.4135313
+03/12/2020,Patient-facing - aged 35 and over,1.1631897,0.9505099,1.3978372
+04/12/2020,Patient-facing - aged 35 and over,1.1516281,0.9436228,1.3874477
+05/12/2020,Patient-facing - aged 35 and over,1.1434235,0.9364673,1.3776598
+06/12/2020,Patient-facing - aged 35 and over,1.1399293,0.9344866,1.3731973
+07/12/2020,Patient-facing - aged 35 and over,1.1432601,0.9386419,1.3748209
+08/12/2020,Patient-facing - aged 35 and over,1.1502123,0.9482018,1.3836565
+09/12/2020,Patient-facing - aged 35 and over,1.1653667,0.9619113,1.3993343
+10/12/2020,Patient-facing - aged 35 and over,1.1870226,0.9799495,1.4216417
+11/12/2020,Patient-facing - aged 35 and over,1.2157941,1.0017353,1.456463
+12/12/2020,Patient-facing - aged 35 and over,1.2533471,1.033427,1.5000015
+13/12/2020,Patient-facing - aged 35 and over,1.2986597,1.074146,1.5510106
+14/12/2020,Patient-facing - aged 35 and over,1.3556114,1.1196203,1.6169776
+15/12/2020,Patient-facing - aged 35 and over,1.4200838,1.1770475,1.6922378
+16/12/2020,Patient-facing - aged 35 and over,1.4931539,1.2391,1.7771679
+17/12/2020,Patient-facing - aged 35 and over,1.5732968,1.3065568,1.8722743
+18/12/2020,Patient-facing - aged 35 and over,1.6626604,1.3802925,1.976477
+19/12/2020,Patient-facing - aged 35 and over,1.7584753,1.4610855,2.092369
+20/12/2020,Patient-facing - aged 35 and over,1.8576237,1.5440075,2.2134413
+21/12/2020,Patient-facing - aged 35 and over,1.9625103,1.6328871,2.3368726
+22/12/2020,Patient-facing - aged 35 and over,2.0691094,1.7176762,2.4649294
+23/12/2020,Patient-facing - aged 35 and over,2.1723746,1.8046157,2.5903476
+24/12/2020,Patient-facing - aged 35 and over,2.2718256,1.8911188,2.7057132
+25/12/2020,Patient-facing - aged 35 and over,2.3657059,1.9748844,2.8118216
+26/12/2020,Patient-facing - aged 35 and over,2.4510743,2.058651,2.9023921
+27/12/2020,Patient-facing - aged 35 and over,2.5257205,2.1308141,2.9830332
+28/12/2020,Patient-facing - aged 35 and over,2.5863064,2.1949739,3.0476281
+29/12/2020,Patient-facing - aged 35 and over,2.6333847,2.2388925,3.0884343
+30/12/2020,Patient-facing - aged 35 and over,2.6612822,2.270232,3.1204908
+31/12/2020,Patient-facing - aged 35 and over,2.6754391,2.2900125,3.132566
+01/01/2021,Patient-facing - aged 35 and over,2.6756421,2.2943279,3.1237093
+02/01/2021,Patient-facing - aged 35 and over,2.6652813,2.2831637,3.1106425
+03/01/2021,Patient-facing - aged 35 and over,2.6440148,2.2678071,3.0843488
+04/01/2021,Patient-facing - aged 35 and over,2.6110338,2.2456193,3.0529984
+05/01/2021,Patient-facing - aged 35 and over,2.5756712,2.213712,3.0113571
+06/01/2021,Patient-facing - aged 35 and over,2.5385663,2.1853779,2.9702726
+07/01/2021,Patient-facing - aged 35 and over,2.5013006,2.1519728,2.9193999
+08/01/2021,Patient-facing - aged 35 and over,2.4617444,2.1123887,2.8703556
+09/01/2021,Patient-facing - aged 35 and over,2.4266399,2.0790589,2.828244
+10/01/2021,Patient-facing - aged 35 and over,2.3921045,2.0486301,2.7919248
+11/01/2021,Patient-facing - aged 35 and over,2.363016,2.0191506,2.7620975
+12/01/2021,Patient-facing - aged 35 and over,2.3392064,1.9950983,2.7317606
+13/01/2021,Patient-facing - aged 35 and over,2.3199535,1.9768472,2.7110774
+14/01/2021,Patient-facing - aged 35 and over,2.3024623,1.9590374,2.7020445
+15/01/2021,Patient-facing - aged 35 and over,2.2916722,1.9418643,2.6908487
+16/01/2021,Patient-facing - aged 35 and over,2.2793523,1.936103,2.6790062
+17/01/2021,Patient-facing - aged 35 and over,2.2669433,1.9267991,2.6654062
+18/01/2021,Patient-facing - aged 35 and over,2.2543553,1.9165521,2.6478021
+19/01/2021,Patient-facing - aged 35 and over,2.2388306,1.9046176,2.6293907
+20/01/2021,Patient-facing - aged 35 and over,2.2243057,1.8898442,2.6023127
+21/01/2021,Patient-facing - aged 35 and over,2.20565,1.8677253,2.5763843
+22/01/2021,Patient-facing - aged 35 and over,2.1778458,1.841395,2.5454188
+23/01/2021,Patient-facing - aged 35 and over,2.1431871,1.8028508,2.5226648
+24/01/2021,Patient-facing - aged 35 and over,2.1022269,1.7621636,2.4801673
+25/01/2021,Patient-facing - aged 35 and over,2.0540365,1.7153865,2.4321089
+26/01/2021,Patient-facing - aged 35 and over,1.9967471,1.6606188,2.3714527
+27/01/2021,Patient-facing - aged 35 and over,1.9334578,1.603417,2.304498
+28/01/2021,Patient-facing - aged 35 and over,1.8621978,1.5420246,2.2221889
+29/01/2021,Patient-facing - aged 35 and over,1.7866481,1.481817,2.1316122
+30/01/2021,Patient-facing - aged 35 and over,1.7095543,1.4173197,2.0428843
+31/01/2021,Patient-facing - aged 35 and over,1.6296777,1.3421499,1.9546969
+01/02/2021,Patient-facing - aged 35 and over,1.5485191,1.2625205,1.8889853
+02/02/2021,Patient-facing - aged 35 and over,1.4690579,1.1746681,1.8296736
+03/02/2021,Patient-facing - aged 35 and over,1.3905225,1.0806553,1.7786528
+04/02/2021,Patient-facing - aged 35 and over,1.3140625,0.9865338,1.7448607
+05/02/2021,Patient-facing - aged 35 and over,1.2447149,0.8960868,1.7246857
+06/02/2021,Patient-facing - aged 35 and over,1.1754764,0.8080753,1.7003292

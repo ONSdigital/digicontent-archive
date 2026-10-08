@@ -1,0 +1,67 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02004424,Basildon 001,Billericay North East,0,2,1,0,0,0,0,1,0,0,4,3,0,0,covid
+E02004425,Basildon 002,Billericay Queen's Park,0,5,4,1,1,0,0,0,3,3,7,1,1,0,covid
+E02004426,Basildon 003,Billericay Central & Sunnymede,0,8,1,1,1,0,0,2,0,1,6,1,0,0,covid
+E02004427,Basildon 004,Billericay Tye Common,0,6,1,0,1,0,0,0,2,3,14,1,2,0,covid
+E02004428,Basildon 005,Wickford North East,0,6,4,0,1,0,0,1,1,3,7,3,2,0,covid
+E02004429,Basildon 006,Wickford West,0,6,2,1,1,0,0,1,1,3,11,4,0,0,covid
+E02004430,Basildon 007,Wickford Shotgate,0,2,0,1,0,0,0,0,1,3,5,2,2,0,covid
+E02004431,Basildon 008,Wickford South,0,5,1,0,0,0,0,0,1,1,2,4,0,0,covid
+E02004432,Basildon 009,Bursteads,1,1,3,0,0,0,0,0,0,1,8,2,0,0,covid
+E02004433,Basildon 010,Steeple View & Noak Bridge,0,3,2,1,0,0,0,2,4,11,11,1,0,0,covid
+E02004434,Basildon 011,Felmore & Bowers Gifford,0,8,6,1,1,0,0,0,2,2,8,2,2,0,covid
+E02004435,Basildon 012,Whitmore Way & Fremnells,0,7,1,1,1,0,0,1,1,3,6,2,3,0,covid
+E02004436,Basildon 013,Chalvedon,0,6,2,0,1,0,0,0,0,3,4,4,4,0,covid
+E02004437,Basildon 014,Laindon West & Southfields,0,14,3,3,0,0,0,1,1,1,7,6,3,0,covid
+E02004438,Basildon 015,Basildon Central & Pipps Hill,0,11,5,1,1,0,0,0,1,3,9,1,1,1,covid
+E02004439,Basildon 016,Laindon Central,0,3,1,2,0,0,0,1,0,1,4,3,1,0,covid
+E02004440,Basildon 017,Laindon East & Lee Chapel North,0,4,2,1,0,0,0,0,0,4,9,5,1,0,covid
+E02004441,Basildon 018,Eversley,0,5,2,0,1,0,0,1,2,2,7,3,1,1,covid
+E02004442,Basildon 019,Barstable,0,3,4,1,0,0,0,0,1,0,5,5,0,0,covid
+E02004443,Basildon 020,Lee Chapel South & Kingswood,0,6,1,2,0,0,0,0,0,1,8,4,0,1,covid
+E02004444,Basildon 021,Langdon Hills,0,9,0,0,1,0,0,0,5,3,4,4,1,0,covid
+E02004445,Basildon 022,Vange & Pitsea,0,6,2,0,1,0,0,2,3,1,16,3,2,1,covid
+E02004424,Basildon 001,Billericay North East,3,8,2,3,3,3,4,9,2,0,1,1,4,4,noncovid
+E02004425,Basildon 002,Billericay Queen's Park,7,7,1,3,5,2,5,7,2,9,4,5,4,7,noncovid
+E02004426,Basildon 003,Billericay Central & Sunnymede,5,10,5,9,4,8,4,5,7,4,7,1,3,3,noncovid
+E02004427,Basildon 004,Billericay Tye Common,3,6,2,3,6,5,5,7,4,6,2,3,3,4,noncovid
+E02004428,Basildon 005,Wickford North East,6,15,7,6,6,4,9,8,6,6,9,7,13,7,noncovid
+E02004429,Basildon 006,Wickford West,11,8,10,8,3,11,1,12,11,8,7,4,4,5,noncovid
+E02004430,Basildon 007,Wickford Shotgate,3,6,4,3,6,8,4,9,3,3,4,7,7,4,noncovid
+E02004431,Basildon 008,Wickford South,4,5,5,4,1,4,1,6,2,3,3,6,10,4,noncovid
+E02004432,Basildon 009,Bursteads,6,7,2,3,4,4,4,2,2,6,10,4,6,9,noncovid
+E02004433,Basildon 010,Steeple View & Noak Bridge,7,5,5,5,5,4,7,7,4,5,9,9,6,5,noncovid
+E02004434,Basildon 011,Felmore & Bowers Gifford,8,11,4,4,6,1,4,9,2,5,11,7,6,5,noncovid
+E02004435,Basildon 012,Whitmore Way & Fremnells,9,4,4,2,3,4,3,5,4,1,4,7,6,6,noncovid
+E02004436,Basildon 013,Chalvedon,3,7,8,4,8,2,3,8,6,7,6,2,7,4,noncovid
+E02004437,Basildon 014,Laindon West & Southfields,5,11,6,4,6,5,7,10,8,4,5,3,6,4,noncovid
+E02004438,Basildon 015,Basildon Central & Pipps Hill,15,20,14,8,9,3,9,10,8,7,7,5,6,3,noncovid
+E02004439,Basildon 016,Laindon Central,7,6,7,1,4,3,3,3,4,3,5,5,5,7,noncovid
+E02004440,Basildon 017,Laindon East & Lee Chapel North,10,7,6,5,4,0,7,4,1,6,4,3,8,4,noncovid
+E02004441,Basildon 018,Eversley,7,11,6,0,1,4,8,4,8,8,7,6,9,3,noncovid
+E02004442,Basildon 019,Barstable,1,6,5,5,8,5,9,3,4,3,7,4,3,5,noncovid
+E02004443,Basildon 020,Lee Chapel South & Kingswood,10,7,3,4,5,5,9,8,4,3,10,5,4,6,noncovid
+E02004444,Basildon 021,Langdon Hills,5,10,6,7,2,5,3,8,6,7,7,5,5,4,noncovid
+E02004445,Basildon 022,Vange & Pitsea,7,10,5,3,5,7,7,4,6,4,7,11,4,4,noncovid
+E02004424,Basildon 001,Billericay North East,4,2,3,2,3,3,4,2,3,3,5,5,4,2,average
+E02004425,Basildon 002,Billericay Queen's Park,5,5,6,4,3,5,4,4,2,6,6,7,5,5,average
+E02004426,Basildon 003,Billericay Central & Sunnymede,4,7,8,6,7,5,6,7,7,6,10,4,4,7,average
+E02004427,Basildon 004,Billericay Tye Common,7,6,8,5,4,7,5,7,7,5,8,7,7,6,average
+E02004428,Basildon 005,Wickford North East,9,10,8,7,7,6,6,6,8,7,13,10,9,10,average
+E02004429,Basildon 006,Wickford West,7,7,9,7,7,7,7,8,6,5,9,6,7,7,average
+E02004430,Basildon 007,Wickford Shotgate,6,5,6,5,5,3,4,4,5,4,6,5,6,5,average
+E02004431,Basildon 008,Wickford South,5,6,5,3,5,4,4,5,6,6,4,5,5,6,average
+E02004432,Basildon 009,Bursteads,5,5,5,4,3,4,3,5,4,3,7,3,5,5,average
+E02004433,Basildon 010,Steeple View & Noak Bridge,8,8,6,5,5,6,6,6,7,6,8,7,8,8,average
+E02004434,Basildon 011,Felmore & Bowers Gifford,6,7,4,6,7,4,6,6,7,5,10,7,6,7,average
+E02004435,Basildon 012,Whitmore Way & Fremnells,6,7,6,5,5,6,6,7,5,5,9,7,6,7,average
+E02004436,Basildon 013,Chalvedon,8,6,8,5,5,6,4,6,4,5,7,7,8,6,average
+E02004437,Basildon 014,Laindon West & Southfields,7,5,7,9,5,5,7,5,7,6,7,8,7,5,average
+E02004438,Basildon 015,Basildon Central & Pipps Hill,14,13,11,11,14,10,8,10,12,14,16,11,14,13,average
+E02004439,Basildon 016,Laindon Central,5,5,5,3,4,4,5,4,5,3,6,5,5,5,average
+E02004440,Basildon 017,Laindon East & Lee Chapel North,6,5,7,7,6,5,6,4,6,7,7,5,6,5,average
+E02004441,Basildon 018,Eversley,4,5,8,6,8,6,8,8,6,6,8,9,4,5,average
+E02004442,Basildon 019,Barstable,7,6,6,5,4,5,4,4,4,4,7,6,7,6,average
+E02004443,Basildon 020,Lee Chapel South & Kingswood,6,6,6,7,5,3,6,3,6,7,8,6,6,6,average
+E02004444,Basildon 021,Langdon Hills,4,6,5,5,6,5,6,4,5,6,7,6,4,6,average
+E02004445,Basildon 022,Vange & Pitsea,6,6,6,6,4,6,8,6,7,5,8,6,6,6,average

@@ -1,0 +1,39 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+            "pickxdata":"SPDflows",
+            "pickydata":"Censusflows",
+
+            "sourceText":["Office for National Statistics, UK Balance of Payments, The Pink Book: 2018"],
+            "sourceURL":["https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/bulletins/unitedkingdombalanceofpaymentsthepinkbook/2018"],
+            "rectannotations":[],
+            "textAnnotations":[],
+            "textAnnotationWrap":100,
+            "d3AnnotationWrap":280,
+            "xAxisLabel":"UK investment overseas (£ billion)",
+            "yAxisLabel":"Rate of return (%)",
+            "AxisScale":"",
+      			"xAxisScale":[0,3500],
+      			"yAxisScale":[0,5]
+
+	},
+    "optional" : {
+            "margin_sm": [35 ,20, 35, 41],
+            "margin_md": [40, 20, 35, 41],
+            "margin_lg": [50, 50, 50, 41],
+
+            "aspectRatio_sm" : [1.5,1],
+            "aspectRatio_md" : [2,1],
+            "aspectRatio_lg" : [3,1],
+
+            "mobileBreakpoint" : 610,
+
+            "x_num_ticks_sm_md_lg" : [4,4,5],
+            "y_num_ticks_sm_md_lg" : [4,4,5],
+
+            "annotateLineX1_Y1_X2_Y2":[[]],
+            "lineColor_opcty" : [["#704C27", 1],["#36ADD9", 0.5]]
+
+
+    }
+}

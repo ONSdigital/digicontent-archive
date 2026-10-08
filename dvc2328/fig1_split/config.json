@@ -1,0 +1,24 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "colour_palette": ["#0075A3", "#266D4A", "#234D70", "#601552"],
+    "screenreadertext":"",
+    "sourceText": ["Office for National Statistics – Business Insights and Conditions Survey"],
+    "numberFormat":".0f",
+    "xAxisScale": [0, 49],
+    "barHeight": {
+      "sm": 30,
+      "md": 30,
+      "lg": 40
+    },
+    "margin":{
+      "sm":{"top":40,"right":2,"bottom":10,"left":110},
+      "md":{"top":30,"right":2,"bottom":10,"left":110},
+      "lg":{"top":30,"right":2,"bottom":10,"left":110}
+    }
+  },
+  "optional": {
+    "mobileBreakpoint": 414,
+    "middleBreakpoint": 600
+  }
+}

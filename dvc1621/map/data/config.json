@@ -1,0 +1,21 @@
+{"ons":{
+"maptitle": "Multi Map about life expectancy",
+"varcolour": ["Blues","Blues"],
+"varlabels": ["Rapid charge points","Home devices"],
+"varload": 0,
+"varunit": ["per 100km of major road","per 1000 households"],
+"displaydecimals": 0,
+"legenddecimals": 0,
+"breaks": ["jenks","jenks"],
+"dropticks": true,
+"numberBreaks": [6,6],
+"legendStyle": "rect",
+"legendTitleHeight": [50,20],
+"legendHeight": [90,60],
+"barTitle": "Type of public charge point as a proportion of all public charge points (%)",
+"barLabels": ["Slow (Restricted)","Slow (Unrestricted)", "Rapid (Restricted)","Rapid (Unrestricted)"],
+"bar_colour_palette": ["#A8BD3A", "#118C7B","#27A0CC", "#206095"],
+"bar_margin": [25,25],
+"mobileBreakpoint": 414,
+"barX_ticks": [5,10]
+}}

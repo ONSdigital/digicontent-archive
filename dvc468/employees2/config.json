@@ -1,0 +1,60 @@
+{
+    "essential" : {
+		
+			"GraphType" : "clusterBar" , 
+			
+            "graphic_data_url": "data.csv",
+        
+            "colour_palette": [ "#003c57" , "#00a7a3"],
+        
+            "dateFormat":"%Y",
+        
+            "legendLabels" :[ "2009", "2016" ],
+			"legendStyle": "rect",
+			"sourceText":["Business Register and Employment Survey, ONS"],
+            "sourceURL":["https://www.nomisweb.co.uk/query/select/getdatasetbytheme.asp?theme=27"],
+        
+            "annotationChart": [
+                "Employees involved in production  have increased by almost 50%"
+            ],
+            "annotationBullet": [
+                "Employees involved in production  have increased by almost 50%"
+            ],
+            "annotationXY":[
+                [15000, "Production"]
+            ],
+            "annotationAlign":[
+                "start"
+            ],
+        
+            "circles" : false,    
+            "annotationCXCY":[
+                ["38.4","2010-11"]
+            ],
+        
+            "xAxisLabel":"employees",
+            "xAxisScale":[0,22000],
+            "barHeight_sm_md_lg" : [60,70,80]
+
+    },
+    "optional" : {
+            "margin_sm": [10, 20, 95, 100],
+            "margin_md": [20, 20, 55, 100],
+            "margin_lg": [20, 20, 55, 100],
+        
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+        
+            "mobileBreakpoint" : 610, 
+            
+            "xAxisTextFormat_sm_md_lg" : ["%Y-%y", "%Y-%y", "%Y-%y"], 
+                
+            "x_num_ticks_sm_md_lg" : [7,10,10],    
+            "y_num_ticks_sm_md_lg" : [6,8,10],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}
+
+

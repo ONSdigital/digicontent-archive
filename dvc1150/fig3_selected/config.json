@@ -1,0 +1,23 @@
+{
+    "essential" : {
+          "graphic_data_url": "data.csv",
+          "colour_palette":["#206095"],
+          "accessibleSummary":"Description of what the chart is showing....",
+      		"sourceText":["Office for National Statistics - Business Impact of Coronavirus (COVID-19) Survey"],
+          "sourceURL":[""],
+          "xAxisScale":[[0,0.15],[0,0.15]],
+          "average_line":[0.026,	0.042],
+          "columnTitles": ["EU suppliers",	"UK suppliers"],
+          "columnFormats": [".1%", ".1%"],
+          "barHeight_sm_md_lg" : [40,40,50],
+          "legendLabel" : [""]
+
+
+    },
+    "optional" : {
+          "margin_sm": [8, 0, 25, 180],
+          "margin_md": [8, 0, 25, 180],
+          "mobileBreakpoint" : 610
+
+    }
+}

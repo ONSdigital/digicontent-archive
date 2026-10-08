@@ -1,0 +1,14 @@
+{"ons":{
+"maptitle": "Projected population change for local authorities in England between mid-2022 and mid-2032",
+"varcolour": ["#7A6CB8","#FDCC88", "#FCA540", "#EA8223","#D46012" ],
+"varunit": "population change",
+"displaydecimals": 2,
+"legenddecimals": 0,
+"valuesuffix": "%",
+"breaks": [-5,0,5,8,12,20],
+"dropticks": false,
+"numberBreaks": 5,
+"fillOpacity": 0.7,
+"backgroundColour": "#f2f3f0",
+"legendRectHeight": 8
+}}

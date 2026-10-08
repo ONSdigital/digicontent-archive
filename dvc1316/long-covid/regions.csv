@@ -1,0 +1,65 @@
+series,date,chiffre,lower,upper,category
+Duration 12+ weeks,Age group,,,,test
+Duration 12+ weeks,2-11 years,0.11,0.07,0.14,test
+Duration 12+ weeks,12-16 years,0.4,0.31,0.5,test
+Duration 12+ weeks,17-24 years,0.91,0.76,1.06,test
+Duration 12+ weeks,25-34 years,1.13,1,1.26,test
+Duration 12+ weeks,35-49 years,1.58,1.47,1.68,test
+Duration 12+ weeks,50-69 years,1.58,1.5,1.66,test
+Duration 12+ weeks,70+ years,0.67,0.6,0.74,test
+Duration 12+ weeks,Sex,,,,test
+Duration 12+ weeks,Female,1.23,1.18,1.29,test
+Duration 12+ weeks,Male,0.92,0.87,0.97,test
+Duration 12+ weeks,Ethnic group,,,,test
+Duration 12+ weeks,Black,0.95,0.58,1.32,test
+Duration 12+ weeks,White,1.1,1.05,1.14,test
+Duration 12+ weeks,Mixed,0.94,0.65,1.23,test
+Duration 12+ weeks,Asian,0.83,0.65,1,test
+Duration 12+ weeks,Other ethnic group,0.91,0.59,1.23,test
+Duration 12+ weeks,Index of Multiple Deprivation,,,,test
+Duration 12+ weeks,Quintile group 1 (most deprived),1.27,1.16,1.39,test
+Duration 12+ weeks,Quintile group 2,1.08,0.99,1.18,test
+Duration 12+ weeks,Quintile group 3,1.1,1.01,1.19,test
+Duration 12+ weeks,Quintile group 4,0.97,0.89,1.04,test
+Duration 12+ weeks,Quintile group 5 (least deprived),0.95,0.88,1.02,test
+Duration 12+ weeks,Employment sector,,,,test
+Duration 12+ weeks,Health care,2.53,2.28,2.78,test
+Duration 12+ weeks,Social care,2.01,1.61,2.42,test
+Duration 12+ weeks,Other sector,1.3,1.23,1.37,test
+Duration 12+ weeks,Pre-existing health status,,,,test
+Duration 12+ weeks,Activity limited a lot by health condition,2.59,2.28,2.89,test
+Duration 12+ weeks,Activity limited a little  by health condition ,2.23,1.99,2.46,test
+Duration 12+ weeks,Activity not limited by health condition,1.5,1.32,1.67,test
+Duration 12+ weeks,No pre-existing health conditions,0.91,0.87,0.95,test
+Any duration,Age group,,,,test
+Any duration,2-11 years,0.18,0.13,0.23,test
+Any duration,12-16 years,0.71,0.59,0.84,test
+Any duration,17-24 years,1.53,1.34,1.72,test
+Any duration,25-34 years,1.79,1.62,1.95,test
+Any duration,35-49 years,2.49,2.36,2.62,test
+Any duration,50-69 years,2.4,2.3,2.5,test
+Any duration,70+ years,1.07,0.98,1.16,test
+Any duration,Sex,,,,test
+Any duration,Female,1.92,1.85,1.99,test
+Any duration,Male,1.46,1.39,1.52,test
+Any duration,Ethnic group,,,,test
+Any duration,Black,1.81,1.31,2.31,test
+Any duration,White,1.71,1.66,1.76,test
+Any duration,Mixed,1.54,1.18,1.9,test
+Any duration,Asian,1.33,1.09,1.56,test
+Any duration,Other ethnic group,1.7,1.23,2.16,test
+Any duration,Index of Multiple Deprivation,,,,test
+Any duration,Quintile group 1 (most deprived),2.07,1.92,2.21,test
+Any duration,Quintile group 2,1.74,1.62,1.86,test
+Any duration,Quintile group 3,1.68,1.57,1.79,test
+Any duration,Quintile group 4,1.53,1.43,1.63,test
+Any duration,Quintile group 5 (least deprived),1.41,1.32,1.5,test
+Any duration,Employment sector,,,,test
+Any duration,Health care,3.59,3.29,3.88,test
+Any duration,Social care,3.13,2.63,3.64,test
+Any duration,Other sector,2.08,1.99,2.16,test
+Any duration,Pre-existing health status,,,,test
+Any duration,Activity limited a lot by health condition,3.97,3.59,4.34,test
+Any duration,Activity limited a little  by health condition ,3.4,3.11,3.69,test
+Any duration,Activity not limited by health condition,2.23,2.02,2.44,test
+Any duration,No pre-existing health conditions,1.45,1.4,1.5,test

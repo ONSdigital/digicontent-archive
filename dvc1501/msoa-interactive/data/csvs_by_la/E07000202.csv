@@ -1,0 +1,49 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02006245,Ipswich 001,Whitton,0,2,1,0,1,0,0,0,1,1,1,4,2,0,covid
+E02006246,Ipswich 002,Castle Hill,0,7,7,1,0,0,0,0,0,1,6,1,0,0,covid
+E02006247,Ipswich 003,Whitehouse,0,2,1,0,0,0,0,0,0,2,3,4,3,0,covid
+E02006248,Ipswich 004,Rushmere,0,4,0,0,0,0,0,0,0,8,8,2,1,0,covid
+E02006249,Ipswich 005,Christchurch Park,0,6,4,0,0,0,0,0,0,3,5,2,2,0,covid
+E02006250,Ipswich 006,Westgate,0,11,4,0,0,0,0,0,0,1,2,0,2,0,covid
+E02006251,Ipswich 007,Ipswich Central,0,4,3,0,0,0,0,0,0,2,3,1,0,0,covid
+E02006252,Ipswich 008,California,0,7,2,1,0,0,0,0,1,1,7,6,1,0,covid
+E02006253,Ipswich 009,Broke Hall,0,5,1,0,0,0,0,0,0,3,4,2,0,0,covid
+E02006254,Ipswich 010,Gipping & Chantry Park,0,3,3,1,2,0,0,0,0,1,5,5,1,0,covid
+E02006255,Ipswich 011,Holywells,0,2,2,0,0,0,0,0,0,1,4,4,1,1,covid
+E02006256,Ipswich 012,"Maidenhall, Stoke & Port",0,6,2,1,0,0,0,0,0,2,14,8,3,0,covid
+E02006257,Ipswich 013,Belstead Hills,0,5,1,0,0,0,0,0,0,1,3,2,1,1,covid
+E02006258,Ipswich 014,Priory Heath,0,7,6,1,1,0,0,0,0,4,8,1,2,0,covid
+E02006259,Ipswich 015,Stoke Park,0,1,0,0,0,0,0,0,1,4,7,2,1,0,covid
+E02006260,Ipswich 016,"Gainsborough, Greenwich & Orwell",0,5,0,0,0,0,0,0,1,1,9,0,1,0,covid
+E02006245,Ipswich 001,Whitton,6,6,5,6,9,7,4,10,9,7,4,2,6,11,noncovid
+E02006246,Ipswich 002,Castle Hill,6,8,3,4,2,3,6,9,7,3,5,2,5,7,noncovid
+E02006247,Ipswich 003,Whitehouse,4,9,2,5,5,4,5,5,3,7,6,6,6,4,noncovid
+E02006248,Ipswich 004,Rushmere,6,7,6,8,7,5,5,1,6,7,8,9,5,7,noncovid
+E02006249,Ipswich 005,Christchurch Park,5,9,8,1,7,6,6,9,8,3,9,8,3,6,noncovid
+E02006250,Ipswich 006,Westgate,4,6,3,4,3,8,2,7,5,5,4,2,5,5,noncovid
+E02006251,Ipswich 007,Ipswich Central,9,5,4,5,1,3,2,2,3,7,4,7,5,4,noncovid
+E02006252,Ipswich 008,California,5,14,6,7,3,5,6,7,4,4,7,3,7,9,noncovid
+E02006253,Ipswich 009,Broke Hall,4,7,6,4,6,10,3,10,8,5,7,5,3,7,noncovid
+E02006254,Ipswich 010,Gipping & Chantry Park,4,15,10,6,7,10,4,7,5,10,10,6,13,6,noncovid
+E02006255,Ipswich 011,Holywells,3,9,3,5,5,0,3,5,2,4,2,3,1,2,noncovid
+E02006256,Ipswich 012,"Maidenhall, Stoke & Port",14,12,9,4,6,8,3,6,10,2,6,4,7,2,noncovid
+E02006257,Ipswich 013,Belstead Hills,6,9,4,3,4,5,2,3,6,5,6,8,6,4,noncovid
+E02006258,Ipswich 014,Priory Heath,8,10,3,4,3,4,5,8,2,9,9,7,7,4,noncovid
+E02006259,Ipswich 015,Stoke Park,4,1,4,3,3,3,4,2,4,5,3,4,4,2,noncovid
+E02006260,Ipswich 016,"Gainsborough, Greenwich & Orwell",7,9,8,3,8,3,5,4,2,7,7,5,6,9,noncovid
+E02006245,Ipswich 001,Whitton,6,5,8,5,5,6,5,5,6,7,10,6,6,5,average
+E02006246,Ipswich 002,Castle Hill,9,7,5,4,5,5,6,8,7,5,8,7,9,7,average
+E02006247,Ipswich 003,Whitehouse,6,3,5,5,4,5,4,5,5,6,5,5,6,3,average
+E02006248,Ipswich 004,Rushmere,6,7,6,6,4,6,6,7,8,6,8,7,6,7,average
+E02006249,Ipswich 005,Christchurch Park,9,9,9,8,7,8,8,7,7,11,13,10,9,9,average
+E02006250,Ipswich 006,Westgate,7,4,4,6,6,6,4,4,6,5,7,6,7,4,average
+E02006251,Ipswich 007,Ipswich Central,6,4,3,4,2,4,3,3,4,4,5,5,6,4,average
+E02006252,Ipswich 008,California,7,8,7,6,7,5,7,7,7,7,7,8,7,8,average
+E02006253,Ipswich 009,Broke Hall,7,8,8,6,6,6,8,6,8,7,9,7,7,8,average
+E02006254,Ipswich 010,Gipping & Chantry Park,10,9,9,11,9,10,8,8,8,9,8,9,10,9,average
+E02006255,Ipswich 011,Holywells,4,3,3,4,4,4,3,4,3,4,4,6,4,3,average
+E02006256,Ipswich 012,"Maidenhall, Stoke & Port",8,7,7,6,7,8,8,8,9,8,10,8,8,7,average
+E02006257,Ipswich 013,Belstead Hills,8,8,6,7,6,6,3,6,9,7,8,7,8,8,average
+E02006258,Ipswich 014,Priory Heath,6,7,6,6,6,6,7,5,7,6,7,7,6,7,average
+E02006259,Ipswich 015,Stoke Park,5,5,5,5,5,4,6,6,5,4,8,4,5,5,average
+E02006260,Ipswich 016,"Gainsborough, Greenwich & Orwell",6,6,6,5,5,3,5,5,5,4,7,7,6,6,average

@@ -1,0 +1,74 @@
+{
+  "essential": {
+    "graphic_data_url": "regions.csv",
+    "dateFormat": "%d/%m/%Y",
+    "displayTicksFormat":"%Y",
+    "colour_palette": [{
+        "key": "Under 35 years",
+        "colour": "#206095"
+      },
+      {
+        "key": "35 to 54 years",
+        "colour": "#118C7B"
+      },
+      {
+        "key":"55 years and over",
+        "colour":"#A8BD3A"
+      }
+    ],
+    "categorySort": {
+      "on":false,
+      "sortby":["South East","North West","East","West Midlands","London","Yorkshire and The Humber","South West","East Midlands","North East","Wales"]
+      },
+    "sourceText": "Office for National Statistics – Labour Force Survey",
+    "xAxisLabel": "Year",
+    "yAxisLabel": "",
+    "yAxisScale": "auto_min_max_each",
+    "screenreadertext":"In general, the 36 to 54 age group were most likely to remain in the same occupation as the previous year, while the under 35 age group were least likely to remain. This is partly explained by under 35's higher rate of changing occupation. Under 35's were also more likely to become unemployed. This peaked at nearly 3% in 2020 before falling back to 2% in 2021. Those aged 55 or more were most likely to become economically inactive, mostly due to retirement and early retirement and to a lesser extent due to higher rates of redundancy."
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 30,
+        "right": 23,
+        "bottom": 170,
+        "left": 50
+      },
+      "md": {
+        "top": 30,
+        "right": 23,
+        "bottom": 170,
+        "left": 50
+      },
+      "lg": {
+        "top": 30,
+        "right": 23,
+        "bottom": 45,
+        "left": 35
+      }
+    },
+    "chart_every":{
+      "sm": 1,
+      "md": 1,
+      "lg": 1
+    },
+    "aspectRatio": {
+      "sm": [16, 10],
+      "md": [16, 10],
+      "lg": [16, 10]
+    },
+    "legendHeight":{
+      "sm": 45,
+      "md": 30,
+      "lg": 30
+    },
+
+    "mobileBreakpoint": 480,
+    "middleBreakpoint": 600,
+    "x_ticks_every": {
+      "sm": 7,
+      "md": 7,
+      "lg": 7
+    }
+  }
+}

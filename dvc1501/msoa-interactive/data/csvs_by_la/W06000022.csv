@@ -1,0 +1,61 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+W02000347,Newport 001,Caerleon,2,3,0,0,0,0,0,0,1,1,9,1,0,0,covid
+W02000348,Newport 002,Malpas,1,7,3,0,0,0,0,0,0,2,6,3,0,0,covid
+W02000349,Newport 003,Bettws,1,7,2,0,0,0,0,1,1,5,2,2,0,1,covid
+W02000350,Newport 004,Langstone & Llan-wern,0,4,2,1,0,0,0,0,3,0,4,0,1,0,covid
+W02000351,Newport 005,Beechwood,0,5,2,0,0,0,0,0,1,2,2,0,0,0,covid
+W02000352,Newport 006,Shaftesbury & Crindai,1,1,0,0,0,0,0,1,1,1,2,0,0,0,covid
+W02000353,Newport 007,St Julians & Barnardtown,0,1,1,0,0,0,0,0,0,4,1,0,0,0,covid
+W02000354,Newport 008,Lawrence Hill,1,0,1,0,0,0,0,0,3,1,2,3,0,0,covid
+W02000355,Newport 009,Rogerstone,0,13,7,0,1,0,0,4,1,4,0,1,1,0,covid
+W02000356,Newport 010,Ringland,0,4,1,0,0,0,0,0,2,1,6,2,1,0,covid
+W02000357,Newport 011,Maendy,0,2,3,1,0,1,0,1,1,2,3,2,0,0,covid
+W02000358,Newport 012,Ridgeway & Glasllwch,0,3,2,0,0,0,0,0,3,3,2,3,1,0,covid
+W02000359,Newport 013,Victoria & Somerton,0,14,0,0,0,0,0,0,2,3,4,0,1,0,covid
+W02000360,Newport 014,Stow Hill,0,2,3,0,0,0,0,0,1,6,4,0,0,0,covid
+W02000361,Newport 015,Liswerry & Uskmouth,0,4,0,0,0,0,0,0,1,4,7,1,0,1,covid
+W02000362,Newport 016,Pye Corner & Graig,0,4,1,1,0,0,0,0,0,0,3,0,0,0,covid
+W02000363,Newport 017,Gaer,0,4,1,0,0,0,0,1,0,4,4,1,2,0,covid
+W02000364,Newport 018,Pillgwenlly & Docks,1,7,12,2,0,0,0,0,0,5,3,4,0,0,covid
+W02000365,Newport 019,Duffryn & Maesglas,1,2,1,0,0,0,0,0,0,2,2,0,0,0,covid
+W02000366,Newport 020,Marshfield,0,8,5,0,0,0,0,0,3,1,4,2,0,0,covid
+W02000347,Newport 001,Caerleon,10,8,4,6,5,5,3,6,6,13,7,8,5,7,noncovid
+W02000348,Newport 002,Malpas,10,11,3,4,8,8,8,9,11,11,7,8,5,2,noncovid
+W02000349,Newport 003,Bettws,9,10,8,9,7,7,5,9,6,4,10,9,8,8,noncovid
+W02000350,Newport 004,Langstone & Llan-wern,4,7,6,5,7,8,3,7,7,4,5,3,9,9,noncovid
+W02000351,Newport 005,Beechwood,5,4,1,5,7,7,7,9,6,7,5,3,3,6,noncovid
+W02000352,Newport 006,Shaftesbury & Crindai,5,7,6,10,7,5,4,3,5,4,2,5,5,5,noncovid
+W02000353,Newport 007,St Julians & Barnardtown,3,4,6,3,5,2,5,6,1,5,5,1,6,3,noncovid
+W02000354,Newport 008,Lawrence Hill,6,13,3,11,7,4,7,7,8,9,1,4,5,3,noncovid
+W02000355,Newport 009,Rogerstone,6,8,5,3,8,7,9,4,4,10,12,11,4,10,noncovid
+W02000356,Newport 010,Ringland,5,8,2,4,4,3,4,4,3,3,10,7,4,2,noncovid
+W02000357,Newport 011,Maendy,7,6,11,5,3,5,5,2,9,6,8,5,1,7,noncovid
+W02000358,Newport 012,Ridgeway & Glasllwch,6,9,4,7,4,4,4,5,7,8,2,6,3,4,noncovid
+W02000359,Newport 013,Victoria & Somerton,4,6,2,2,6,4,8,4,6,2,3,4,3,7,noncovid
+W02000360,Newport 014,Stow Hill,2,3,3,7,4,7,7,3,1,6,5,3,6,6,noncovid
+W02000361,Newport 015,Liswerry & Uskmouth,9,8,5,2,8,3,6,10,4,4,8,6,8,9,noncovid
+W02000362,Newport 016,Pye Corner & Graig,5,5,7,4,5,5,5,3,3,3,7,1,3,3,noncovid
+W02000363,Newport 017,Gaer,10,8,7,2,5,8,3,6,5,9,1,4,12,6,noncovid
+W02000364,Newport 018,Pillgwenlly & Docks,10,7,6,5,9,7,8,6,8,7,6,7,1,10,noncovid
+W02000365,Newport 019,Duffryn & Maesglas,5,10,3,7,6,6,6,7,6,5,10,3,6,8,noncovid
+W02000366,Newport 020,Marshfield,4,5,6,12,4,8,10,5,8,1,8,11,6,1,noncovid
+W02000347,Newport 001,Caerleon,9,8,9,8,6,8,7,9,10,9,10,10,9,8,average
+W02000348,Newport 002,Malpas,10,7,7,6,5,6,6,8,8,7,8,9,10,7,average
+W02000349,Newport 003,Bettws,7,7,6,6,6,7,6,7,6,9,8,5,7,7,average
+W02000350,Newport 004,Langstone & Llan-wern,4,6,4,5,6,6,3,6,5,4,6,7,4,6,average
+W02000351,Newport 005,Beechwood,5,5,5,5,5,4,5,6,4,4,7,7,5,5,average
+W02000352,Newport 006,Shaftesbury & Crindai,5,5,5,6,5,5,4,6,5,6,7,7,5,5,average
+W02000353,Newport 007,St Julians & Barnardtown,5,5,5,4,3,5,5,3,3,5,7,5,5,5,average
+W02000354,Newport 008,Lawrence Hill,9,6,7,8,6,7,6,6,6,7,11,7,9,6,average
+W02000355,Newport 009,Rogerstone,11,8,6,7,10,6,7,7,9,9,9,11,11,8,average
+W02000356,Newport 010,Ringland,6,6,5,5,6,5,5,5,7,6,5,5,6,6,average
+W02000357,Newport 011,Maendy,9,4,4,5,6,7,5,6,6,5,7,6,9,4,average
+W02000358,Newport 012,Ridgeway & Glasllwch,6,5,5,4,6,4,6,5,8,6,8,7,6,5,average
+W02000359,Newport 013,Victoria & Somerton,6,5,6,5,4,5,5,5,5,5,9,4,6,5,average
+W02000360,Newport 014,Stow Hill,8,5,5,6,5,5,3,6,5,6,6,4,8,5,average
+W02000361,Newport 015,Liswerry & Uskmouth,8,8,6,7,8,8,7,6,5,7,7,8,8,8,average
+W02000362,Newport 016,Pye Corner & Graig,5,5,5,3,4,4,3,6,5,4,5,4,5,5,average
+W02000363,Newport 017,Gaer,9,5,6,4,5,6,5,7,5,6,6,6,9,5,average
+W02000364,Newport 018,Pillgwenlly & Docks,10,6,7,7,8,8,8,6,10,7,10,9,10,6,average
+W02000365,Newport 019,Duffryn & Maesglas,7,4,5,5,3,4,4,4,4,4,6,5,7,4,average
+W02000366,Newport 020,Marshfield,6,5,6,7,6,5,5,6,7,6,7,8,6,5,average

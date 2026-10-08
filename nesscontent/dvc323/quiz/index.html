@@ -1,0 +1,871 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600|Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+    <title>£1million Property Quiz</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/styles.css" media="screen">
+
+    <style>
+		body {
+			font-family: 'Open Sans', sans-serif;
+			color:#666;
+			background-color: white;
+		}
+        .container{
+			background-color: white;
+			max-width:600px;
+			padding-top:20px;
+        }
+		
+        .qlabel{
+			margin-bottom:15px;
+        }
+		.landingtitle {
+			font-size:24px;
+			font-weight:bold;
+			color:steelblue;	
+		}
+		.landingdescr {
+			font-size:18px;
+			font-weight:bold;
+		}
+		/* BUTTON STYLING */
+		.start {
+			width:120px;
+			background-color:steelblue;
+			color:white;
+			margin-top:20px;		
+		}
+		.btn, .btn-default{
+			border-color:white;
+			width:110px;
+			margin-bottom:7px;
+		}
+		.next {
+			width:120px;
+			background-color:steelblue;
+			color:white;
+			margin-top:20px;
+		}
+		
+		#submitbutton, #submitbutton2 {
+			width:200px;
+			background-color:steelblue;
+			color:white;
+			margin-top:20px;
+			margin-left:0px;
+		}
+		
+			
+		#finishbtn {
+			width:100px;
+			background-color:steelblue;
+			color:white;
+			margin-top:20px;
+			margin-left:0px;
+		}
+		
+		#usesliders {
+			width:100px;
+			background-color:steelblue;
+			color:white;
+			margin-top:20px;
+			margin-left:0px;
+		}
+		
+		
+		#gotofour {
+			display:none;
+		}
+		
+		#usemessage {
+			font-weight:normal;
+			color: #A52A2A;
+		}
+		
+		
+		
+		
+		/* ANSWER STYLING */
+		.answerdiv {
+			margin-top:10px;
+		}
+		.youranswer {
+			font-weight:bold;
+			color:steelblue;
+			font-size:30px;
+		}
+		.incorrect {
+			font-size:24px;
+			font-weight:bold;
+			color: brown;
+		}
+		.correct {
+			font-size:24px;
+			font-weight:bold;
+			color: steelblue;
+		}
+		
+		
+		
+		.foot {
+			font-size:12px;
+		}
+		
+		.row {
+			/*margin-bottom:15px;*/	
+		}
+		
+		#q3nugget, #q4nugget  {
+			margin-top:30px;
+			margin-bottom:20px;
+		}
+		
+		#para2q3 {
+			margin-bottom:10px;
+		}
+				
+		/*Slider CSS*/
+
+		#range{
+			border:none;
+			height:10px;
+		
+		}
+		
+		#slider:before{
+			display:block;
+			/*background-image: url('../img/rangeBar.png');	*/
+			background-position:0px 10px;
+			background-repeat: repeat-x;
+			margin-left:9px;
+			width:calc(100%-9px);
+			height:30px;
+			position:relative;
+			position:absolute;
+			content:""
+		}
+		
+		#range td{
+			border:none;
+		}
+		
+		.rangeGrip{
+			width:30px;
+			height:30px;
+			cursor:ew-resize;
+		  background-color: #ccc;
+		  border: 6px solid #FFF;
+		  border-radius: 18px;
+		  box-shadow: 0 0 2px #888;
+		
+			z-index:8;
+		}
+		
+		
+		.rangeDrag .rangeGrip, .rangeGrip:hover{
+			background-position:right;
+		}
+		
+		#text{
+			color:#666;
+			float:right;
+			pointer-events:none;
+		}
+
+		.first{
+			background: steelblue;
+		}
+		
+		.second{
+			background:#dadada;
+		}
+		
+		.third{
+			background:#ffb958;
+		}
+		
+		.fourth{
+			background:#4c4c4c;
+		}
+		
+		
+		.box {
+			width:10px;
+			height:10px;
+			margin: 0 auto;
+			margin-bottom:5px;
+		}
+	
+		#rotate {
+			text-align:center;	
+		}
+	
+		.textsec {
+			text-align:center;
+	
+			font-size:14px;
+		}
+		
+		.textsec span {
+			text-align:center;
+	
+			font-size:20px;
+		}
+	
+	
+		/*22222222222222222222*/
+		
+
+		#range2{
+			border:none;
+			height:10px;
+		
+		}
+		
+		#slider2:before{
+			display:block;
+			/*background-image: url('../img/rangeBar.png');	*/
+			background-position:0px 10px;
+			background-repeat: repeat-x;
+			margin-left:9px;
+			width:calc(100%-9px);
+			height:30px;
+			position:relative;
+			position:absolute;
+			content:""
+		}
+		
+		#range2 td{
+			border:none;
+		}
+		
+		.rangeGrip2{
+			width:30px;
+			height:30px;
+			cursor:ew-resize;
+		  background-color: #ccc;
+		  border: 6px solid #FFF;
+		  border-radius: 18px;
+		  box-shadow: 0 0 2px #888;
+		
+			z-index:8;
+		}
+		
+		
+		.rangeDrag2 .rangeGrip2, .rangeGrip2:hover{
+			background-position:right;
+		}
+		
+		#text2{
+			color:#666;
+			float:right;
+			pointer-events:none;
+		}
+
+		.first2{
+			background: steelblue;
+		}
+		
+		.second2{
+			background:#dadada;
+		}
+		
+		.third2{
+			background:#ffb958;
+		}
+		
+		.fourth2{
+			background:#4c4c4c;
+		}
+		
+		
+		.box2 {
+			width:10px;
+			height:10px;
+			margin: 0 auto;
+			margin-bottom:5px;
+		}
+	
+		#rotate2 {
+			text-align:center;	
+		}
+	
+		.textsec2 {
+			text-align:center;
+	
+			font-size:14px;
+		}
+		
+		.textsec2 span {
+			text-align:center;
+	
+			font-size:20px;
+		}
+		
+		
+		#scorebar {
+			height:35px;
+			background-color:#dadada;
+			margin-top:10px;
+			margin-bottom:30px;
+		}
+		
+		#scorebarfill {
+			height:35px;
+			background-color:steelblue;
+		}
+		
+		#scoretext {
+			color:steelblue;
+			font-size:36px;
+			padding-top:10px;
+			font-weight:bold;
+		}
+		
+		@media (min-width: 0px) {}
+		
+		.center {
+			margin-bottom:15px;	
+		}
+		
+		.temp{
+			
+		}
+		
+		.buttons{
+			text-align:center;	
+		}
+		
+		#wrapper{
+			min-height:450px;	
+	}
+		
+	</style>
+  </head>
+  <body id="childt">
+     
+ <div id="wrapper">
+ <!--Landing-->
+ <div class="container" id="landing" style="display:show";>
+ <div class="row">
+ <p class="landingtitle">Test your knowledge on £1million Properties</p>
+<!-- <p class="landingdescr">Test your knowledge with our quiz</p>-->
+ </div> 
+ <div class="row">
+ <button type="button" class="btn btn-default start">Start</button>
+ 
+ </div>
+ </div>
+
+ 
+<!--
+  ___    _ 
+ / _ \  / |
+| | | | | |
+| |_| | | |
+ \__\_\ |_|
+-->
+<div class="temp">		
+ <div class="container" id="question1" style="display:none;">
+      <div class="row">
+      <p class="qlabel"><b>How many properties sold for £1million or more in England and Wales in the year ending September 2015?</b></p>
+      <div class="buttons">
+        <button type="button" class="btn btn-default q1 q1a1">173</button><!--North West--> 
+        <button type="button" class="btn btn-default q1 q1a2">2,830</button><!--South East-->
+        <button type="button" class="btn btn-default q1 q1a3">8,850</button><!--London-->
+        <button type="button" class="btn btn-default q1 q1a4">13,679</button><!--CORRECT-->
+      </div>  
+ 		</div>
+ 
+     <div class="row answerdiv" id="q1answer1" style="display:none;">
+            <p class="youranswer" style="color:#A52A2A;" style="opacity:1">173</p>
+            <p class="incorrect"  style="opacity:1">Incorrect!</p>
+            <p class="decsribe" style="opacity:1">173 was the number of properties sold for £1million or more in the North West alone. Pick again!</p>
+     </div>
+     <div class="row answerdiv" id="q1answer2" style="display:none;">
+            <p class="youranswer" style="color:#A52A2A;" style="opacity:1">2,830</p>
+            <p class="incorrect" style="opacity:1">Incorrect!</p>
+            <p class="decsribe" style="opacity:1">2,830 was the number of properties sold for £1million or more in the South East alone. Pick again!</p>
+     </div>
+     <div class="row answerdiv" id="q1answer3" style="display:none;">
+            <p class="youranswer" style="color:#A52A2A;" style="opacity:1">8,850</p>
+            <p class="incorrect"  style="opacity:1">Incorrect!</p>
+            <p class="decsribe" style="opacity:1">8,850 was the number of properties sold for £1million or more in London alone. Pick again!</p>
+     </div>
+     <div class="row answerdiv" id="q1answer4" style="display:none;">
+            <p class="youranswer" style="opacity:1">13,679</p>
+            <p class="correct" style="opacity:1">Correct!</p>
+            <p class="decsribe" style="opacity:1">Well done! 13,679 was the number of properties sold for £1million or more in England and Wales, in the year ending September 2015.</p>
+             <p class="decsribe" style="opacity:1">In the year ending September 1996,  270 properties sold for £1million or more in England and Wales. </p>             
+            
+             <button type="button" class="btn btn-default next goto2">Next</button><!--go to q2-->
+     </div>
+</div>
+</div>
+
+<!--
+  ___    ____  
+ / _ \  |___ \ 
+| | | |   __) |
+| |_| |  / __/ 
+ \__\_\ |_____|
+               
+-->
+<div class="temp">
+ <div class="container" id="question2" style="display:none;">
+      <div class="row">
+      <p class="qlabel"><b>What proportion of £1million or more properties sold in England and Wales were sold in Wales in the year ending September 2015?</b></p>
+      <div class="buttons">
+        <button type="button" class="btn btn-default q2 q2a1">0.1%</button><!--CORRECT--> 
+        <button type="button" class="btn btn-default q2 q2a2">1.3%</button><!--North West-->
+        <button type="button" class="btn btn-default q2 q2a3">3.4%</button><!--South West-->
+        <button type="button" class="btn btn-default q2 q2a4">7.5%</button><!--East of England-->
+      </div>  
+ </div>
+ 
+     <div class="row answerdiv" id="q2answer1" style="display:none;">
+            <p class="youranswer" style="opacity:1">0.1%</p>
+            <p class="correct" style="opacity:1">Correct!</p>
+            <p class="decsribe" style="opacity:1">Well done! 0.1% of properties that sold for £1million or more were in Wales in the year ending September 2015.</p>
+            <p class="decsribe" style="opacity:1">London contained over 64.7% of properties that sold for £1million or more in the same period.</p>
+            <button type="button" class="btn btn-default next goto3">Next</button><!--go to q3-->
+     </div>
+     <div class="row answerdiv" id="q2answer2" style="display:none;">
+            <p class="youranswer"  style="color:#A52A2A;" style="opacity:1">1.3%</p>
+            <p class="incorrect" style="opacity:1">Incorrect!</p>
+            <p class="decsribe" style="opacity:1">The North West of England contained 1.3% of properties that sold for £1million or more. Pick again!</p>
+     </div>
+     <div class="row answerdiv" id="q2answer3" style="display:none;">
+            <p class="youranswer" style="color:#A52A2A;"  style="opacity:1">3.4%</p>
+            <p class="incorrect" style="opacity:1">Incorrect!</p>
+            <p class="decsribe" style="opacity:1">The South West of England contained 3.4% of properties that sold for £1million or more. Pick again!</p>
+     </div>
+     <div class="row answerdiv" id="q2answer4" style="display:none;">
+            <p class="youranswer" style="color:#A52A2A;"  style="opacity:1">7.5%</p>
+            <p class="incorrect" style="opacity:1">Incorrect!</p>
+            <p class="decsribe" style="opacity:1">The East of England contained 7.5% of properties that sold for £1million or more. Pick again!</p>
+     </div>
+</div>   
+</div>
+
+<!--
+  ___    _____ 
+ / _ \  |___ / 
+| | | |   |_ \ 
+| |_| |  ___) |
+ \__\_\ |____/ 
+
+-->
+<div class="temp">
+<div class="container" id="question3" style="display: none">
+     <div class="row">
+     <p class="qlabel"><b>What was the split between the types of properties sold in England and Wales for £1million or more in the year ending September 2015?</b></p>
+     
+<p>Use the sliders to make your guess.</p>
+     
+ 
+  
+    
+	</div>
+  <div id="q3washed">
+   <div class="row">
+          <div class="col-sm-12 col-xs-12">
+
+                <div class="center">
+               		 
+                    <br/><br/>
+                    
+                    <div id="slider">
+                        <table id="range" width="100%" cellspacing="0" cellpadding="0">
+                            <tr id="initialrow">
+<!--                                <td class="first" width="16%"></td>
+                                <td class="second" width="16%"></td>
+                                <td class="third" width="16%"></td>
+                                <td class="fourth" width="16%"></td>
+                                <td class="fifth" width="16%"></td>
+                                <td class="sixth" width="16%"></td>
+-->
+                            </tr>
+                        </table>	
+                    </div>
+            
+                </div>	
+
+          </div>
+	</div><!-- end row --> 
+	
+    <div class="row">
+    	<div class="textsec col-sm-3 col-xs-3">
+            <div class="first box"></div>
+            <div id="q3_textx0">Detached</div>
+        </div>
+        <div class="textsec col-sm-3 col-xs-3">
+            <div class="second box"></div>
+            <div id="q3_textx1">Semi-detached</div>            
+        </div>
+        <div class="textsec col-sm-3 col-xs-3">
+            <div class="third box"></div>
+            <div id="q3_textx2">Terraced</div>            
+        </div>
+        <div  class="textsec col-sm-3 col-xs-3">
+            <div class="fourth box"></div>
+            <div id="q3_textx3">Flats/ Maisonettes</div>            
+        </div>
+    </div>
+    
+    <div class="row">
+    	<div class="textsec col-sm-3 col-xs-3">
+			<div id="q3_textnx0"></div>
+        </div>
+        <div  class="textsec col-sm-3 col-xs-3">
+			<div id="q3_textnx1"></div>
+        </div>
+        <div  class="textsec col-sm-3 col-xs-3">
+			<div id="q3_textnx2"></div>
+        </div>
+        <div  class="textsec col-sm-3 col-xs-3">
+			<div id="q3_textnx3"></div>
+        </div>
+    </div>    
+    
+    <div class="row">
+          <div id="revealslide" class="col-sm-12 col-xs-12"> 
+
+                <div class="center">
+                    <br/>
+                    Actual split between property types
+                    <br/><br/>
+                    <div id="slider">
+                        <table id="range" width="100%" cellspacing="0" cellpadding="0">
+                            <tr id="revealrow">
+                            
+<!--                                <td class="first" width="50%"></td>
+                                <td class="second" width="30%"></td>
+                                <td class="third" width="5%"></td>
+                                <td class="fourth" width="5%"></td>
+                                <td class="fifth" width="5%"></td>
+                                <td class="sixth" width="5%"></td>
+-->                      
+
+          
+                            </tr>
+                        </table>	
+                    </div>
+            
+                </div>	
+
+          </div>
+	</div><!-- end row --> 
+
+
+<!--  
+	<div class="row">
+    	<div id="textResult" class="col-sm-10">
+            <div id="text0" class="textsec col-sm-2 col-xs-2">
+	            <div class="first box"></div>       
+                Pensions (state & public service) <br><span>£328bn</span><br>(50%)
+            </div>
+            <div id="text1" class="textsec col-sm-2 col-xs-2">
+	            <div class="second box"></div>        
+                JSA <br><span>£226bn</span><br>(35%)
+            </div>
+            <div id="text2" class="textsec col-sm-2 col-xs-2">
+	            <div class="third box"></div>                   
+                Disability <br><span>£34bn</span><br>(5%)
+            </div>
+            <div id="text3" class="textsec col-sm-2 col-xs-2">
+	            <div class="fourth box"></div>                    
+                Children <br><span>£65bn</span><br>(10%)
+            </div>
+            <div id="text4" class="textsec col-sm-2 col-xs-2">
+	            <div class="fifth box"></div>                    
+                Children <br><span>£65bn</span><br>(10%)
+            </div>
+        </div>
+    </div>-->
+    
+    
+
+    
+    <div class="row">
+    	<div class="col-sm-12 textResult">
+    	<div  class="textsec col-sm-3 col-xs-3">
+            <div class="first box"></div>
+            <div>Detached</div>
+        </div>
+        <div  class="textsec col-sm-3 col-xs-3">
+            <div class="second box"></div>
+            <div>Semi-detached</div>            
+        </div>
+        <div  class="textsec col-sm-3 col-xs-3">
+            <div class="third box"></div>
+            <div>Terraced</div>            
+        </div>
+        <div  class="textsec col-sm-3 col-xs-3">
+            <div class="fourth box"></div>
+            <div>Flats/ Maisonettes</div>            
+        </div>      
+       </div>
+    </div>
+
+    <div class="row">
+    	<div class="col-sm-12 textResult">
+    	<div id="q3_textrev0" class="textsec col-sm-3 col-xs-3">
+        </div>
+        <div id="q3_textrev1" class="textsec col-sm-3 col-xs-3">
+        </div>
+        <div id="q3_textrev2" class="textsec col-sm-3 col-xs-3">
+        </div>
+        <div id="q3_textrev3" class="textsec col-sm-3 col-xs-3">
+        </div>
+       </div>
+    </div>
+        
+
+    <button id="submitbutton" type="button" class="btn btn-primary col-sm-12 col-xs-12" style="visibility: hidden">Show me the actual split</button> 
+ 
+    <div id="q3nugget" style="display:none;">
+    
+   	 	<p class="col-sm-12 col-xs-12">The temptation might be to think that £1million-plus properties are detached mansions in the country, but flats and terraced housing made up a large proportion of these high end homes. </p>
+    
+    	<p id="para2q3" class="col-sm-12 col-xs-12">These property types dominate the market in London which contained over 64% of properties that sold for £1million or more in the year ending September 2015. </p>
+    
+    </div>
+    
+    
+    <button type="button" id="gotofour" class="btn btn-default next goto4">Next</button><!--go to q4-->
+</div>   
+
+</div>
+</div>
+
+
+<!--
+  ___    _  _   
+ / _ \  | || |  
+| | | | | || |_ 
+| |_| | |__   _|
+ \__\_\    |_|  
+-->
+<div class="temp">
+<div class="container" id="question4" style="display: none">
+     <div class="row">
+      <p class="qlabel"><b>Now just thinking about new-builds...</b></p>
+     <p class="qlabel"><b>What was the split between the types of newly built properties sold for £1million or in the year ending September 2015?</b></p>
+     
+<p>Use the sliders to make your guess.</p>
+</div>
+
+
+
+  <div id="q4washed">
+   <div class="row">
+          <div class="col-sm-12 col-xs-12">
+
+                <div class="center">
+               		 
+                    <br/><br/>
+                    
+                    <div id="slider2">
+                        <table id="range2" width="100%" cellspacing="0" cellpadding="0">
+                            <tr id="initialrow2">
+
+                            </tr>
+                        </table>	
+                    </div>
+            
+                </div>	
+
+          </div>
+	</div><!-- end row --> 
+	
+    <div class="row">
+    	<div  class="textsec2 col-sm-3 col-xs-3">
+            <div class="first box"></div>
+            <div id="q4_textx20">Detached</div>
+        </div>
+        <div class="textsec2 col-sm-3 col-xs-3">
+            <div class="second box"></div>
+            <div id="q4_textx21">Semi-detached</div>            
+        </div>
+        <div class="textsec2 col-sm-3 col-xs-3">
+            <div class="third box"></div>
+            <div id="q4_textx22">Terraced</div>            
+        </div>
+        <div class="textsec2 col-sm-3 col-xs-3">
+            <div class="fourth box"></div>
+            <div id="q4_textx23">Flats/ Maisonettes</div>            
+        </div>
+    </div>
+    
+    <div class="row">
+    	<div class="textsec2 col-sm-3 col-xs-3">
+			<div id="q4_textnx20"></div>
+        </div>
+        <div class="textsec2 col-sm-3 col-xs-3">
+			<div id="q4_textnx21"></div>
+        </div>
+        <div class="textsec2 col-sm-3 col-xs-3">
+			<div id="q4_textnx22"></div>
+        </div>
+        <div  class="textsec2 col-sm-3 col-xs-3">
+			<div id="q4_textnx23"></div>
+        </div>
+    </div>    
+    
+    <div class="row">
+          <div id="revealslide2" class="col-sm-12 col-xs-12"> 
+
+                <div class="center">
+                    <br/>
+                    Actual split between newly built property types
+                    <br/><br/>
+                    <div id="slider2">
+                        <table id="range2" width="100%" cellspacing="0" cellpadding="0">
+                            <tr id="revealrow2">
+                            
+
+          
+                            </tr>
+                        </table>	
+                    </div>
+            
+                </div>	
+
+          </div>
+	</div><!-- end row --> 
+
+    
+    <div class="row">
+    	<div class="col-sm-12 textResult2">
+    	<div class="textsec2 col-sm-3 col-xs-3">
+            <div class="first2 box"></div>
+            <div>Detached</div>
+        </div>
+        <div class="textsec2 col-sm-3 col-xs-3">
+            <div class="second2 box"></div>
+            <div>Semi-detached</div>            
+        </div>
+        <div class="textsec2 col-sm-3 col-xs-3">
+            <div class="third2 box"></div>
+            <div>Terraced</div>            
+        </div>
+        <div  class="textsec2 col-sm-3 col-xs-3">
+            <div class="fourth2 box"></div>
+            <div>Flats/ Maisonettes</div>            
+        </div>      
+       </div>
+    </div>
+
+    <div class="row">
+    	<div class="col-sm-12 textResult2">
+    	<div id="q4_textrev20" class="textsec2 col-sm-3 col-xs-3">
+        </div>
+        <div id="q4_textrev21" class="textsec2 col-sm-3 col-xs-3">
+        </div>
+        <div id="q4_textrev22" class="textsec2 col-sm-3 col-xs-3">
+        </div>
+        <div id="q4_textrev23" class="textsec2 col-sm-3 col-xs-3">
+        </div>
+       </div>
+    </div>
+        
+
+    <button id="submitbutton2" type="button" class="btn btn-primary col-sm-12 col-xs-12"style="visibility: hidden">Show me the actual split</button> 
+ 
+    <div id="q4nugget" style="display:none;">
+    
+   	 	<p class="col-sm-12 col-xs-12">Flats dominated the £1million or more property market for new builds with almost three times as many sales as detached houses. </p>
+    
+    	<p id="para2q3" class="col-sm-12 col-xs-12"> Of the 804 newly built flats that sold for £1million or more in the year ending September 2015, 759 were in London.</p>
+        
+            <button id="finishbtn" type="button" class="btn btn-primary col-sm-12 col-xs-12">Finish</button> 
+    
+    </div>
+</div>  
+</div>
+</div>
+
+<!--
+ _____ _       _     _     
+|  ___(_)_ __ (_)___| |__  
+| |_  | | '_ \| / __| '_ \ 
+|  _| | | | | | \__ \ | | |
+|_|   |_|_| |_|_|___/_| |_|
+-->	
+
+ <div class="container" id="finish" style="display: none">
+ <div class="row">
+ <p class="landingtitle">Thanks for playing</p>
+ 
+ <div id="youscored">
+ 			<p><b>Your knowledge was...</b></p>
+             <p id="scoretext"></p>
+             <p id="scoredescription"></p> 
+       <div id="underline"></div>
+ </div>
+ 
+ <p>For more information on £1m+ properties in England and Wales, <a href="http://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/hpssaadditionaldataset1millionpropertysalesinenglandandwales" target="_blank"> see our data</a></p>
+ <p>To learn more about house prices in your area, see the <a href="http://www.ons.gov.uk/peoplepopulationandcommunity/housing/bulletins/housepricestatisticsforsmallareas/yearendingdec1995toyearendingsept2015" target="_blank"> ONS House Price Statistics for Small Areas (HPSSAs) release</a>.</p>
+ </div> 
+ </div>
+
+
+
+
+</div>
+
+
+
+
+<!-- Constant libraries / frameworks -->
+    <script src="js/jquery-1.11.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+ 	<script src="js/modernizr.custom.56904.js"></script>
+    <script src="js/d3.v3.min.js" charset="utf-8"></script>
+    <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="js/colResizable-1.5.min.js"></script>
+	<script></script>
+    
+<!--Optional libraries/frameworks-->
+<!--
+    
+    <script src="js/jquery-ui-1.10.4.custom.min.js"></script>
+    <script src="js/idangerous.swiper-2.1.min.js"></script>
+    <script src="js/idangerous.swiper.hashnav.js"></script>
+    <script src="js/chosen.jquery.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/jquery.ui.labeledslider.js"></script>
+    <script src="js/jquery.ui.touch-punch.min"></script>
+    <script src="js/topojson.min.js"></script>
+
+-->
+<!--Main code-->
+
+    <script src="js/script.js"></script>
+
+    <script>
+	
+		  /* Analytics */
+
+		  /* Google */
+		  // var _gaq = _gaq || [];
+		  // _gaq.push(['_setAccount', 'UA-37894017-1']);
+		  // _gaq.push(['_trackPageview']);
+		
+		
+		  (function() {
+			// var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			// ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			// var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+
+
+    </script>
+
+
+  <script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a40b5a12991cd857',t:'MTc5MDM1MzE4MA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

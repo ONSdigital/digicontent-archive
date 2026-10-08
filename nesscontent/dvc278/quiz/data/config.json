@@ -1,0 +1,13 @@
+{"config":{
+"questions":[
+["For every 100 people who live here, how many were born outside the UK?","pernonuk",0,100,"person","in 2014",""],
+["How many international migrants entered the area intending to stay for more than a year?","Inflow",0,15000,"bar","In the year ending June 2014",""]
+],
+"sources":[
+"2011 Census England & Wales, ONS","2011 Census Scotland, NRS","2011 Census NI, NISRA","Rallings and Thrasher/BBC","Annual Survey of Hours and Earnings GB, 2014, ONS","Annual Survey of Hours and Earnings NI, 2014, DETNI","Business Register and Employment Survey, 2013, ONS","Small Area House Prices, 2013, ONS","National House Price Index - Non-mix adjusted, 2013, ONS","Claimant Count, ONS"
+],
+"urls":[    
+    "http://www.ons.gov.uk/ons/guide-method/census/2011/index.html","http://www.scotlandscensus.gov.uk/","http://www.nisra.gov.uk/","","http://www.ons.gov.uk/ons/rel/ashe/annual-survey-of-hours-and-earnings/index.html","http://www.detini.gov.uk/stats-hours-and-earnings","http://www.ons.gov.uk/ons/rel/bus-register/business-register-employment-survey/index.html","http://www.ons.gov.uk/ons/rel/regional-analysis/house-price-statistics-for-small-areas/1995-2013/index.html","http://www.ons.gov.uk/ons/rel/hpi/house-price-index/december-2014/stb-december-2014.html","http://ons.gov.uk/ons/taxonomy/index.html?nscl=Claimant+Count"
+]
+}
+}

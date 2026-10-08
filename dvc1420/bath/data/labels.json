@@ -1,0 +1,122 @@
+{
+    "version": 8,
+      "sprite": "https://bothness.github.io/ons-basemaps/data/sprite",
+    "glyphs": "https://cdn.ons.gov.uk/maptiles/osm/fontsv1/{fontstack}/{range}.pbf",
+    "sources": {
+          "openmaptiles": {
+        "type": "vector",
+        "tiles": [
+          "https://cdn.ons.gov.uk/maptiles/osm/v2/{z}/{x}/{y}.pbf"
+        ],
+        "buffer": 0,
+        "minzoom": 0,
+        "maxzoom": 14
+      }
+    },
+    "layers": [
+      {
+        "id": "place_town",
+        "type": "symbol",
+        "source": "openmaptiles",
+        "source-layer": "place",
+        "maxzoom": 8,
+        "filter": ["all", ["==", "$type", "Point"], ["==", "class", "town"]],
+        "layout": {
+          "text-size": 10,
+          "text-font": ["Noto Sans Regular"],
+          "text-justify": "left",
+          "visibility": "visible",
+          "text-anchor": {"base": 1, "stops": [[0, "left"], [8, "center"]]},
+          "text-field": "{name:latin}\n{name:nonlatin}"
+        },
+        "paint": {
+          "text-color": "rgb(0, 0, 0)",
+          "text-halo-color": "rgb(242,243,240)",
+          "text-halo-width": 1,
+          "text-halo-blur": 1
+        }
+      },
+      {
+        "id": "place_city",
+        "type": "symbol",
+        "source": "openmaptiles",
+        "source-layer": "place",
+        "maxzoom": 8,
+        "filter": [
+          "all",
+          ["==", "$type", "Point"],
+          ["all", ["!=", "capital", 2], ["==", "class", "city"], [">", "rank", 3]]
+        ],
+        "layout": {
+          "text-size": 10,
+          "text-font": ["Noto Sans Regular"],
+          "text-justify": "left",
+          "visibility": "visible",
+          "text-anchor": {"base": 1, "stops": [[0, "left"], [8, "center"]]},
+          "text-field": "{name:latin}\n{name:nonlatin}"
+        },
+        "paint": {
+          "text-color": "rgb(0, 0, 0)",
+          "text-halo-color": "rgb(242,243,240)",
+          "text-halo-width": 1,
+          "text-halo-blur": 1
+        }
+      },
+      {
+        "id": "place_city_large",
+        "type": "symbol",
+        "source": "openmaptiles",
+        "source-layer": "place",
+        "maxzoom": 8,
+        "filter": [
+          "all",
+          ["==", "$type", "Point"],
+          [
+            "all",
+            ["!=", "capital", 2],
+            ["<=", "rank", 3],
+            ["==", "class", "city"]
+          ]
+        ],
+        "layout": {
+          "text-size": 14,
+          "text-font": ["Noto Sans Regular"],
+          "text-justify": "left",
+          "visibility": "visible",
+          "text-field": "{name:latin}\n{name:nonlatin}"
+        },
+        "paint": {
+          "text-color": "rgb(0, 0, 0)",
+          "text-halo-color": "rgb(242,243,240)",
+          "text-halo-width": 1,
+          "text-halo-blur": 1
+        }
+      },
+      {
+        "id": "place_capital",
+        "type": "symbol",
+        "source": "openmaptiles",
+        "source-layer": "place",
+        "maxzoom": 8,
+        "filter": [
+          "all",
+          ["==", "$type", "Point"],
+          ["all", ["==", "capital", 2], ["==", "class", "city"]]
+        ],
+        "layout": {
+          "text-size": 14,
+          "text-font": ["Noto Sans Regular"],
+          "text-justify": "left",
+          "visibility": "visible",
+          "text-offset": [0.5, 0.2],
+          "text-field": "{name:latin}\n{name:nonlatin}"
+        },
+        "paint": {
+          "text-color": "rgb(0, 0, 0)",
+          "text-halo-color": "rgb(242,243,240)",
+          "text-halo-width": 1,
+          "text-halo-blur": 1
+        }
+      }
+    ]
+  }

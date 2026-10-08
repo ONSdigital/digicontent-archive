@@ -1,0 +1,75 @@
+{
+  "essential": {
+    "screenreadertext": "While younger people want a holiday, the over 70s most want a hug",
+    "graphic_data_url": "../../data_icu.csv",
+    "dateFormat": "%d/%m/%Y",
+    "colour_palette": "",
+    "categorySort": [
+    ],
+    "sourceText": [
+      "Office for National Statistics - Opinions and Lifestyle Survey"
+    ],
+    "xAxisLabel": "%",
+    "yAxisLabel": "",
+    "yAxisScale": "auto_zero_max_total"
+  },
+  "optional": {
+    "margin": {
+      "groupMargin": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 85
+      },
+      "sm": {
+        "top": 60,
+        "right": 23,
+        "bottom": 45,
+        "left": 10
+      },
+      "md": {
+        "top": 60,
+        "right": 23,
+        "bottom": 45,
+        "left": 10
+      },
+      "lg": {
+        "top": 60,
+        "right": 10,
+        "bottom": 45,
+        "left": 10
+      }
+    },
+    "chart_every": {
+      "sm": 1,
+      "md": 2,
+      "lg": 3
+    },
+    "aspectRatio": {
+      "sm": [
+        16,
+        12
+      ],
+      "md": [
+        16,
+        12
+      ],
+      "lg": [
+        16,
+        12
+      ]
+    },
+    "legendHeight": {
+      "sm": 45,
+      "md": 30,
+      "lg": 30
+    },
+    "mobileBreakpoint": 400,
+    "middleBreakpoint": 600,
+    "x_ticks_num": {
+      "sm": 8,
+      "md": 8,
+      "lg": 8
+    }
+  }
+}

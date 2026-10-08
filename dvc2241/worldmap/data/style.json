@@ -1,0 +1,56 @@
+{
+  "version": 8,
+  "name": "Positron",
+  "metadata": {
+    "mapbox:autocomposite": false,
+    "mapbox:type": "template",
+    "mapbox:groups": {
+      "a14c9607bc7954ba1df7205bf660433f": {
+        "name": "Boundaries"
+      }
+    }
+  },
+  "center": [
+    10.184401828277089,
+    -1.1368683772161603e-13
+  ],
+  "bearing": 0,
+  "pitch": 0,
+  "sources": {
+    "openmaptiles": {
+      "type": "vector",
+      "tiles": ["https://cdn.ons.gov.uk/maptiles/osm/v2/{z}/{x}/{y}.pbf"],
+      "maxzoom":14
+    }
+  },
+  "sprite": "https://cdn.ons.gov.uk/maptiles/osm/spritesv1/sprite",
+  "glyphs": "https://cdn.ons.gov.uk/maptiles/osm/fontsv1/{fontstack}/{range}.pbf",
+  "layers": [
+    {
+      "id": "background",
+      "type": "background",
+      "paint": {
+        "background-color": "rgb(242,243,240)"
+      }
+    },
+    {
+      "id": "water",
+      "type": "fill",
+      "source": "openmaptiles",
+      "source-layer": "water",
+      "filter": [
+        "==",
+        "$type",
+        "Polygon"
+      ],
+      "layout": {
+        "visibility": "visible"
+      },
+      "paint": {
+        "fill-color": "rgb(255, 255, 255)",
+        "fill-antialias": true
+      }
+    }
+  ],
+  "id": "ciwf3o3u2008z2pmq7pmvm6xq"
+}

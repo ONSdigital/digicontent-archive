@@ -1,0 +1,27 @@
+name,Employee,Self Employed,Economically Active: Unemployed,Economically inactive ,yPosition,labelOnly
+Indian,0.61,0.1,0.05,0.23,0.208,F
+Pakistani,0.54,0.1,0.05,0.32,0.236,F
+Chinese,0.47,0.09,0.04,0.4,0.264,F
+Bangladeshi,0.43,0.09,0.07,0.42,0.292,F
+Other Asian,0.41,0.12,0.06,0.41,0.32,F
+Caribbean,0.57,0.08,0.08,0.26,0.376,F
+African,0.53,0.09,0.09,0.3,0.404,F
+Other Black,0.48,0.08,0.09,0.35,0.436,F
+White and Asian,0.54,0.1,0.06,0.31,0.488,F
+Other Mixed or Multiple ethnic groups,0.53,0.11,0.07,0.29,0.516,F
+White and Black Caribbean,0.52,0.08,0.09,0.31,0.544,F
+White and Black African,0.51,0.09,0.09,0.32,0.572,F
+Any other ethnic group,0.48,0.13,0.06,0.33,0.628,F
+Arab,0.36,0.09,0.08,0.48,0.656,F
+Other White,0.63,0.16,0.05,0.17,0.04,F
+"English, Welsh, Scottish, Northern Irish or British",0.62,0.11,0.04,0.23,0.096,F
+Irish,0.62,0.13,0.04,0.21,0.068,F
+Roma,0.54,0.17,0.06,0.22,0.124,F
+Gypsy or Irish Traveller,0.26,0.15,0.06,0.53,0.152,F
+"Asian, Asian British or Asian Welsh",,,,,0.188,T
+White,,,,,0.02,T
+"Asian, Asian British or Asian Welsh",,,,,0.188,T
+"Black, Black British, Black Welsh,Caribbean or African",,,,,0.356,T
+Mixed or Multiple ethnic groups,,,,,0.468,T
+Other ethnic group,,,,,0.608,T
+Overall (England and Wales),0.6,0.11,0.04,0.25,100,F

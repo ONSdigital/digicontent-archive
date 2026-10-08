@@ -1,0 +1,62 @@
+{
+    "essential" : {
+            "graphic_data_url": "data/dummydata.csv",
+            "pickxdata":"SPDflows",
+            "pickydata":"Censusflows",
+
+            "sourceText":["Office for National Statistics – Effects of taxes and benefits on UK household income."],
+            "sourceURL":["http://www.ons.gov.uk/"],
+            "rectannotations":[{
+              "x":0,
+              "y":5000,
+              "width":5000,
+              "height":5000,
+              "colour":"none",
+              "opacity":0.1
+            },
+            {
+              "x":-8000,
+              "y":0,
+              "width":8000,
+              "height":8000,
+              "colour":"none",
+              "opacity":0.1
+            }],
+            "textAnnotations":[{
+                "x":1000,
+                "y":4000,
+                "text":""
+              },{
+                "x":-7000,
+                "y":-1000,
+                "text":""
+                }],
+            "textAnnotationWrap":100,
+            "d3AnnotationWrap":300,
+            "xAxisLabel":"Median household income (£)",
+            "yAxisLabel":"Ever worked from home (%)",
+            "AxisScale":"auto_min_max",
+      			"xAxisScale":[-8000,5000],
+      			"yAxisScale":[-8000,5000]
+
+	},
+    "optional" : {
+            "margin_sm": [30 ,20, 20, 40],
+            "margin_md": [30, 20, 0, 40],
+            "margin_lg": [30, 50, 0, 40],
+
+            "aspectRatio_sm" : [1.5,1],
+            "aspectRatio_md" : [1.5,1],
+            "aspectRatio_lg" : [1.5,1],
+
+            "mobileBreakpoint" : 610,
+
+            "x_num_ticks_sm_md_lg" : [4,4,5],
+            "y_num_ticks_sm_md_lg" : [4,4,5],
+
+            "annotateLineX1_Y1_X2_Y2":[[[24955,4.75],[57252.4,58]],[[24955,4.75],[57252.4,58]]],
+            "lineColor_opcty" : [["#704C27", 1],["#36ADD9", 0.5]]
+
+
+    }
+}

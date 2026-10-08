@@ -1,0 +1,45 @@
+line.between{
+  stroke:#c6c6c6;
+  stroke-width:3px;
+}
+
+.dataLabels{
+  font-weight: 600;
+  font-size: 14px;
+}
+
+p.groupLabels{
+  padding-top:15px;
+  font-weight: 600;
+}
+
+
+
+.legend--icon--diamond {
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  align-self: center;
+  flex-shrink: 0;
+}
+
+#container {
+  display: flex;
+      flex-wrap: wrap;
+  }
+.box {
+  /* flex: 0 0 auto; Allow boxes to size based on their content without shrinking */
+  padding: 0px;
+  /* border: 1px solid #000; */
+  /* box-sizing: border-box; */
+  margin: 0px; /* Optional: Add margin to create some space between the boxes */
+}
+
+/* @media (max-width: 600px) {
+  .container {
+      flex-direction: column; /* Stack boxes vertically on smaller screens   }
+  .box {
+      margin: 0 0 10px 0; /* Optional: Adjust margin for vertical stacking 
+  }
+}
+ */

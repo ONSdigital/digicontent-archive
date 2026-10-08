@@ -1,0 +1,14 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+          
+            "collapseText":[
+                ["Household budgets are under increasing strain. Rising prices have led to increased spending in recent years, while disposable income has risen only modestly.<br><br>As a result, the gap between disposable income and spending per head has closed by around £1,100 since 2015, to the narrowest in 11 years."],
+                            ["Back in the early 1990s, the average household had around £120 left over to save from every £1,000 of income (after taking out their spending and taxes).<br><br>By 2017, this had fallen by two-thirds to just £41, which is the lowest ever."],
+                            ["It’s not just day-to-day spending that’s on the rise. Despite budget pressures, households are also investing more in their homes than at any time in the last 30 years.<br><br>Households’ investment reached a record high of £74 billion in 2017, most of which was spending on new homes and major home improvements."],
+                            ["The amount of money owed in short-term loans has surpassed its pre-crisis level. These loans do not require any collateral (such as a house deposit) to be approved, but they’re expensive to pay back because they demand higher interest repayments.<br><br>The stock of consumer credit – including credit cards, car finance plans and payday loans – has risen by nearly one-third in the last five years. Car finance is comfortably the fastest growing type of credit, with nearly 90% of new car purchases now funded this way."]
+                           ],
+            "sourceURL":["https://www.ons.gov.uk/"]
+            
+    }
+}

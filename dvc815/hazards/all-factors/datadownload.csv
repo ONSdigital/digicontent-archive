@@ -1,0 +1,13 @@
+﻿Ethnicity,Sex,Odds ratio compared to white, Lower confidence interval, Upper confidence interval
+Black,Male,1.93,1.7,2.18
+Black,Female,1.89,1.63,2.2
+Bangladeshi/Pakistani,Male,1.81,1.55,2.11
+Bangladeshi/Pakistani,Female,1.61,1.31,1.97
+Indian,Female,1.43,1.2,1.71
+Other,Male,1.34,1.13,1.58
+Indian,Male,1.32,1.15,1.53
+Chinese,Male,1.18,0.85,1.63
+Other,Female,1.08,0.86,1.36
+Mixed,Male,1.03,0.79,1.35
+Mixed,Female,1.03,0.73,1.45
+Chinese,Female,0.75,0.47,1.22

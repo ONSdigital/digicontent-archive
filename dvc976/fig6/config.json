@@ -1,0 +1,16 @@
+{
+    "essential" : {
+          "graphic_data_url": "data.csv",
+          "colour_palette":[ "#0075A3" ],
+      		"sourceText":["Office for National Statistics – Annual Population Survey three-year-pooled dataset (2017 to 2019)"],
+          "xAxisLabel":"",
+          "barHeight_sm_md_lg" : [35,35,35]
+
+    },
+    "optional" : {
+          "margin_sm": [8, 0, 20, 90],
+          "margin_md": [8, 0, 20, 163],
+          "mobileBreakpoint" : 610
+
+    }
+}

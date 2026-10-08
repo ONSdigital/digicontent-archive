@@ -1,0 +1,18 @@
+{
+    "essential" : {
+          "graphic_data_url": "data.csv",
+          "colour_palette":[ "#4d9221" , "#5e3c99", "#234D70", "#601552" ],
+      		"sourceText":["Office for National Statistics – Opinions and Lifestyle Survey"],
+          "sourceURL":["https://www.gov.uk/government/publications/adult-education-survey-2016"],
+
+          "xAxisLabel":"",
+          "xAxisScale":[0,10],
+          "barHeight_sm_md_lg" : [40,40,40]
+
+    },
+    "optional" : {
+      "margin_sm": [0, 0, 0, 130],
+      "margin_md": [0, 0, 0, 130],
+          "mobileBreakpoint" : 610
+    }
+}

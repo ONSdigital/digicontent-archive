@@ -1,0 +1,461 @@
+id,road,region,value
+49,Allen Close,Old St. Mellons,0.182952381
+147,Balmoral Close,Lisvane,0.280963
+18,Acorn Grove,Pontprennau,0.115016087
+37,Albert Street,Riverside,0.099957895
+19,Adam Street,Adamsdown,0.031154958
+6,Aberdovey Street,Splott,0.014205556
+16,Aberystwith Street,Splott,0.005292917
+21,Adamscroft Place,Adamsdown,0.126495
+22,Adamsdown Lane,Adamsdown,0.043773636
+23,Adamsdown Place,Splott,0.141228571
+24,Adamsdown Square,Adamsdown,0.255704286
+29,Adeline Street,Splott,0.011097258
+33,Agate Street,Adamsdown,0.03402375
+55,Allt Y Wennol,Pontprennau,0.089157143
+58,Almond Drive,Pontprennau,0.18451197
+60,Amber Close,Pontprennau,0.121232
+61,Ambergate Drive,Pontprennau,0.092265
+63,Amberley Close,Pontprennau,0.070768095
+64,Amberwood Close,Pontprennau,0.089706667
+65,Amblecote Close,Pontprennau,0.091689091
+67,Ambrooke Close,Pontprennau,0.1719625
+74,Anderson Place,Adamsdown,0.1196112
+83,Applewood Close,Splott,0.024455294
+98,Arrol Street,Splott,0.077146
+99,Arthur Street,Adamsdown,0.052565714
+103,Asgog Street,Splott,0.004095455
+119,Atlas Road,Riverside,0.047563333
+122,Augusta Street,Adamsdown,0.0029075
+148,Baltimore Close,Pontprennau,0.1884175
+159,Barnfield Close,Pontprennau,0.179639
+172,Bayside Road,Splott,0.132252941
+177,Beauchamp Street,Riverside,0.0757636
+180,Beck Court,Pontprennau,0.158009091
+193,Began Road,Old St. Mellons,0.732869661
+194,Beignon Close,Splott,0.155327273
+197,Beresford Road,Adamsdown,0.026755385
+198,Beresford Road Lane,Adamsdown,0.028938095
+204,Bertram Street,Adamsdown,0.027011154
+208,Bethania Row,Old St. Mellons,0.504169091
+236,Blackberry Way,Pontprennau,0.068352353
+237,Blackbirds Way,Old St. Mellons,0.207839143
+239,Blackstone Street,Riverside,0.07931
+249,Blanche Street,Adamsdown,0.026442727
+255,Blossom Drive,Lisvane,0.199322558
+258,Bluebell Drive,Old St. Mellons,0.235443
+262,Booker Street,Adamsdown,0.00824
+264,Borage Close,Pontprennau,0.193884762
+276,Bradley Street,Adamsdown,0.0298705
+281,Bramshill Drive,Pontprennau,0.224197273
+297,Bridge Road,Old St. Mellons,0.627059787
+314,Broadway,Adamsdown,0.012961743
+329,Brook Street,Riverside,0.022580625
+342,Brunel Street,Riverside,0.051461429
+376,Buckingham Close,Lisvane,0.1631875
+382,Burnaby Street,Splott,0.005952703
+388,Burwell Close,Pontprennau,0.231765882
+397,Butterfield Drive,Pontprennau,0.278445926
+443,Cameron Street,Splott,0.0070745
+452,Canopus Close,Old St. Mellons,0.322234286
+453,Canton Court,Riverside,0.006385
+455,Capel Edeyrn,Pontprennau,0.214635926
+456,Capelgwilym Road,Lisvane,0.3536425
+465,Cardinal Drive,Lisvane,0.194067692
+469,Carlisle Street,Splott,0.002580808
+489,Cathedral Road,Riverside,0.201740833
+494,Cecil Street,Adamsdown,0.024221667
+504,Cefn Mably Road,Lisvane,0.348736429
+517,Central Link,Adamsdown,0.359720286
+521,Chamomile Close,Pontprennau,0.127918824
+522,Chancery Lane,Riverside,0.033010435
+525,Chapel Row,Old St. Mellons,0.301355556
+533,Charnwood Drive,Pontprennau,0.218360455
+537,Chartwell Drive,Lisvane,0.179536481
+545,Cherry Orchard Road,Lisvane,0.340149304
+547,Cherry Tree Close,Lisvane,0.300708182
+563,Church Close,Lisvane,0.223345833
+567,Church Road,Lisvane,0.511974444
+569,Church Road,Pontprennau,0.486352857
+573,Churchill Close,Lisvane,0.29839
+584,Clare Gardens,Riverside,0.153513
+585,Clare Place,Riverside,0.029793636
+587,Clare Road,Riverside,0.035
+588,Clare Street,Riverside,0.131165517
+610,Claverton Way,Pontprennau,0.061415366
+616,Clifton Street,Adamsdown,0.007814906
+625,Clonakilty Way,Pontprennau,0.144000667
+629,Clos Alyn,Pontprennau,0.291587273
+638,Clos Coed y Dafarn,Lisvane,0.236879688
+643,Clos Cwm Creunant,Pontprennau,0.199983077
+644,Clos Cwm Du,Pontprennau,0.307242162
+647,Clos Dewi Sant,Riverside,0.106751786
+648,Clos Dol Heulog,Pontprennau,0.104765882
+659,Clos Gwy,Pontprennau,0.236315714
+665,Clos Hendre Gadno,Old St. Mellons,0.2692875
+667,Clos Llysfaen,Lisvane,0.261665323
+677,Clos Melin Ddŵr,Lisvane,0.5058825
+678,Clos Nant Coslech,Pontprennau,0.279863077
+679,Clos Nant Ddu,Pontprennau,0.166602
+680,Clos Nant Glaswg,Pontprennau,0.189228974
+681,Clos Nant Mwlan,Pontprennau,0.162934783
+682,Clos Nant Y Cor,Pontprennau,0.1898668
+683,Clos Nant Y Cwm,Pontprennau,0.202604706
+684,Clos Nanteos,Pontprennau,0.1176425
+717,Clos Y Ffynnon,Pontprennau,0.109591786
+742,Clyde Street,Adamsdown,0.059697778
+768,Coldstream Terrace,Riverside,0.035349333
+775,Collivaud Place,Splott,0.285157222
+783,Comet Street,Adamsdown,0.037501481
+791,Constellation Street,Adamsdown,0.114195319
+796,Copper Street,Adamsdown,0.0052025
+798,Copse Walk,Pontprennau,0.224395455
+801,Cork Drive,Pontprennau,0.222010323
+806,Cornflower Close,Lisvane,0.157638571
+823,Cotswold Avenue,Lisvane,0.103363636
+825,Cottingham Drive,Pontprennau,0.052645217
+832,Courtenay Close,Old St. Mellons,0.462356
+833,Courtenay Road,Splott,0.187615517
+835,Coveny Street,Splott,0.028646964
+839,Cowbridge Road East,Riverside,0.064341656
+843,Cowslip Close,Pontprennau,0.124036471
+844,Craddock Street,Riverside,0.014796301
+851,Cranbourne Way,Pontprennau,0.125430926
+855,Crawford Drive,Pontprennau,0.148075455
+859,Cressfield Drive,Pontprennau,0.192677143
+865,Croescadarn Close,Pontprennau,0.17039623
+867,Croescadarn Road,Pontprennau,0.42471697
+868,Crofta,Lisvane,0.30417
+889,Cumnock Place,Splott,0.043186667
+890,Cumnock Terrace,Splott,0.002835
+891,Cumrae Street,Splott,0.030505
+905,Cwrt Cefn,Lisvane,0.504196207
+928,Cyril Crescent,Adamsdown,0.097568
+934,Damson Place,Pontprennau,0.4624725
+948,Dartington Drive,Pontprennau,0.209291887
+953,Davis Street,Adamsdown,0.114750313
+956,De Burgh Place,Riverside,0.027803333
+957,De Burgh Street,Riverside,0.005592973
+959,De Croche Place,Riverside,0.008078
+972,Delta Street,Riverside,0.031708333
+979,Dering Road,Pontprennau,0.364361667
+982,Despenser Gardens,Riverside,0.230988
+983,Despenser Place,Riverside,0.049694667
+984,Despenser Street,Riverside,0.112971714
+989,Diamond Street,Adamsdown,0.025304146
+1008,Dowlais Road,Splott,0.123273571
+1013,Drawlings Close,Old St. Mellons,0.18985
+1017,Druidstone Road,Old St. Mellons,0.532725426
+1032,Dunbar Close,Pontprennau,0.174906667
+1033,Duncan Close,Old St. Mellons,0.193597059
+1034,Dungarvan Drive,Pontprennau,0.191690526
+1057,East Moors Road,Splott,0.101965556
+1060,East Tyndall Street,Splott,0.117920926
+1061,Eastern Business Park,Old St. Mellons,0.067050476
+1062,Eastern Close,Old St. Mellons,0.181538
+1064,Eclipse Street,Adamsdown,0.03217037
+1093,Emerald Street,Adamsdown,0.010567407
+1095,Enbourne Drive,Pontprennau,0.041552222
+1107,Eurwg Crescent,Old St. Mellons,0.145908889
+1109,Evenwood Close,Pontprennau,0.1474225
+1119,Eyre Street,Splott,0.018798929
+1146,Falfield Close,Lisvane,0.279878182
+1151,Farmville Road,Splott,0.0510815
+1153,Felbrigg Crescent,Pontprennau,0.237444545
+1156,Felsted Close,Pontprennau,0.241914545
+1170,Ffordd Brynhyfryd,Old St. Mellons,0.080192917
+1181,Ffordd Ottoway,Splott,0.039018
+1203,Fitzalan Place,Adamsdown,0.073729429
+1204,Fitzalan Road,Adamsdown,0.153765278
+1205,Fitzhamon Embankment,Riverside,0.092286389
+1212,Florence Street,Splott,0.016716154
+1225,Forgeside Close,Splott,0.017683333
+1229,Fort Street,Adamsdown,0.006764444
+1234,Four Elms Road,Adamsdown,0.081088824
+1237,Fox Street,Adamsdown,0.01751125
+1238,Foxberry Close,Pontprennau,0.160242
+1244,Freshmoor Road,Splott,0.172265588
+1252,Galdames Place,Splott,0.151494
+1255,Galston Street,Adamsdown,0.022048889
+1257,Garesfield Street,Adamsdown,0.096212692
+1263,Gateside Close,Pontprennau,0.269589474
+1264,Gaulden Grove,Pontprennau,0.140361176
+1267,Gelli Frongoch,Pontprennau,0.181613158
+1298,Glass Avenue,Splott,0.073887619
+1308,Glossop Road,Adamsdown,0.12457375
+1309,Gloucester Street,Riverside,0.005175263
+1322,Gold Street,Adamsdown,0.028837692
+1332,Gould Close,Old St. Mellons,0.249718824
+1339,Graig Road,Lisvane,0.4761
+1340,Graig View,Lisvane,0.383781667
+1348,Grangewood Close,Pontprennau,0.231815
+1353,Gray Street,Riverside,0.003202
+1361,Green Street,Riverside,0.012127826
+1362,Greenacre Drive,Pontprennau,0.333320333
+1374,Greenway Road,Old St. Mellons,0.277468966
+1378,Greenwood Close,Pontprennau,0.174220714
+1392,Guildford Crescent,Adamsdown,0.032320909
+1398,Gwendoline Place,Splott,0.260995714
+1399,Gwendoline Street,Splott,0.001006364
+1404,Habershon Street,Splott,0.012626914
+1431,Harefield Close,Pontprennau,0.228221667
+1435,Harold Street,Adamsdown,0.044362727
+1446,Hastings Crescent,Old St. Mellons,0.176636145
+1471,Heath Street,Riverside,0.021484
+1473,Heathcliffe Close,Old St. Mellons,0.146784
+1485,Helen Place,Adamsdown,0.064461071
+1486,Helen Street,Adamsdown,0.1192525
+1512,Heol Camddwr,Pontprennau,0.481628148
+1515,Heol Cefn Onn,Lisvane,0.239659649
+1536,Heol Glandulais,Pontprennau,0.525153036
+1538,Heol Glaslyn,Pontprennau,0.56152
+1546,Heol Hir,Lisvane,0.286327143
+1580,Heol Pontprennau,Pontprennau,0.435428029
+1587,Heol St Denys,Lisvane,0.223943636
+1598,Heol Ty Ffynnon,Pontprennau,0.2860615
+1611,Heol y Delyn,Lisvane,0.301761456
+1628,Hickory Court,Splott,0.1033075
+1629,High Bank,Pontprennau,0.29061
+1641,Hillcot Close,Lisvane,0.255714444
+1648,Hinton Street,Splott,0.134313333
+1654,Hollington Drive,Pontprennau,0.202202903
+1655,Holly Grove,Lisvane,0.246786667
+1665,Holmeside,Lisvane,0.2285
+1674,Horwood Close,Splott,0.108225938
+1675,Hotham Close,Pontprennau,0.169737273
+1677,Howard Gardens,Adamsdown,0.219264706
+1678,Howard Place,Adamsdown,0.247416667
+1679,Howard Street,Splott,0.005566154
+1680,Howard Terrace,Adamsdown,0.15637
+1689,Huntingdon Drive,Pontprennau,0.471114186
+1694,Hyssop Close,Pontprennau,0.127242727
+1695,Idencroft Close,Pontprennau,0.139682
+1702,Inchmarnock Street,Splott,0.008516364
+1712,Ireton Close,Pontprennau,0.235717143
+1713,Iron Street,Adamsdown,0.0119595
+1715,Ivydale,Lisvane,0.241282264
+1717,Jade Close,Lisvane,0.213002222
+1720,Janet Street,Splott,0.004888545
+1723,Jaycroft Close,Pontprennau,0.053635
+1729,Jindabyne Court,Old St. Mellons,0.80800125
+1739,Kames Place,Adamsdown,0.113862143
+1741,Keen Road,Splott,0.157635
+1750,Kenmare Mews,Pontprennau,0.207216364
+1761,Kerrycroy Street,Splott,0.00303
+1770,Kilcattan Street,Splott,0.005292727
+1778,King's Road,Riverside,5.00E-06
+1785,Kingarth Street,Splott,0.007477778
+1789,Kingston Road,Riverside,0.050451429
+1791,Kinsale Close,Pontprennau,0.156728333
+1795,Kitchener Road,Riverside,0.095302
+1798,Knole Close,Pontprennau,0.094895
+1799,Knox Road,Adamsdown,0.126904444
+1809,Lady Margaret Terrace,Splott,0.037222381
+1821,Lamberton Street,Splott,0.11545375
+1835,Larch Grove,Lisvane,0.3338024
+1836,Lascelles Drive,Pontprennau,0.199228925
+1848,Leacroft Place,Pontprennau,0.052668333
+1849,Lead Street,Adamsdown,0.006358333
+1855,Leckwith Place,Riverside,0.01973
+1858,Leckwith Road,Riverside,0.097110435
+1865,Lewis Road,Splott,0.144123731
+1866,Lewis Street,Riverside,0.059707222
+1868,Liddell Close,Pontprennau,0.15974
+1870,Lilburne Close,Pontprennau,0.250041
+1886,Lisvane Road,Lisvane,0.501310952
+1891,Littleton Street,Riverside,0.028192
+1899,Llandaff Road,Riverside,0.00871
+1914,Llanewrwg Way,Old St. Mellons,0.477246667
+1951,Llwyn-y-pia Road,Lisvane,0.425882273
+1969,Lodge Close,Lisvane,0.38818
+1991,Long House Close,Lisvane,0.337009
+1992,Longcross Street,Adamsdown,0.033927273
+1993,Longleat Close,Lisvane,0.303925714
+2004,Lovage Close,Pontprennau,0.23895963
+2006,Lower Cathedral Road,Riverside,0.029634583
+2019,Lyncroft Close,Old St. Mellons,0.049578
+2020,Lyndhurst Street,Riverside,0.042334348
+2035,Machen Place,Riverside,0.04643125
+2043,Maes Brith Y Garn,Pontprennau,0.116586429
+2046,Maes y Bryn,Pontprennau,0.122007619
+2054,Maes Y Hedydd,Pontprennau,0.124190588
+2057,Maes y Wennol,Pontprennau,0.100119
+2075,Malthouse Avenue,Pontprennau,0.282465208
+2077,Mandeville Place,Riverside,0.04526
+2078,Mandeville Street,Riverside,0.043338571
+2087,Mansfield Street,Riverside,0.005126364
+2101,Marion Street,Splott,0.011506049
+2103,Mark Street,Riverside,0.009841739
+2143,Melrose Close,Old St. Mellons,0.296958421
+2144,Melville Avenue,Old St. Mellons,0.3990685
+2159,Metal Street,Adamsdown,0.089496818
+2160,Meteor Street,Adamsdown,0.027637083
+2168,Mill Lane,Old St. Mellons,0.361471667
+2170,Mill Place,Lisvane,0.432908889
+2172,Mill Road,Lisvane,0.490665395
+2174,Millbrook Park,Lisvane,0.2236964
+2175,Millfield,Lisvane,0.209553636
+2178,Millheath Drive,Lisvane,0.13777303
+2179,Millrace Close,Lisvane,0.207180283
+2180,Millwood,Lisvane,0.368105098
+2196,Moira Place,Adamsdown,0.094212632
+2197,Moira Street,Adamsdown,0.002795833
+2198,Moira Terrace,Adamsdown,0.086831064
+2210,Moorhead Close,Splott,0.034581429
+2211,Moorland Road,Adamsdown,0.04511
+2212,Moorland Road,Splott,0.040173448
+2213,Moors Lane,Splott,0.10577
+2216,Morgan Street,Adamsdown,0.006346667
+2226,Mount St Denys,Lisvane,0.353438261
+2231,Mulberry Drive,Pontprennau,0.146215
+2257,Naseby Close,Pontprennau,0.40724625
+2258,Nasturtium Way,Pontprennau,0.113413333
+2259,Neath Street,Splott,0.009912667
+2260,Neilson Close,Splott,0.12603
+2262,Nettlefold Road,Splott,0.203614
+2263,Neville Place,Riverside,0.121303846
+2264,Neville Street,Riverside,0.075261591
+2275,Newport Road,Adamsdown,0.093193733
+2278,Newport Road,Old St. Mellons,0.334708252
+2290,Ninian Park Road,Riverside,0.024338031
+2292,Nora Street,Adamsdown,0.072618125
+2302,North Luton Place,Adamsdown,0.011214545
+2303,North Morgan Street,Riverside,0.00535625
+2304,North Park Road,Splott,0.165506
+2331,Oakford Close,Pontprennau,0.12411
+2333,Oakleafe Drive,Pontprennau,0.104926667
+2334,Oakmead Close,Pontprennau,0.090645
+2338,Ocean Way,Splott,0.280986025
+2346,Old Hill,Old St. Mellons,0.599906667
+2348,Old Mill Road,Lisvane,0.809154571
+2349,Old Newport Road,Old St. Mellons,0.486681
+2356,Orbit Street,Adamsdown,0.032754167
+2358,Orchard Court,Lisvane,0.182208
+2364,Ordell Street,Splott,0.004752692
+2379,Pacific Road,Splott,0.096052368
+2414,Parkstone Avenue,Old St. Mellons,0.251996667
+2415,Parkwall Road,Pontprennau,0.641000833
+2428,Pearl Place,Adamsdown,0.08685
+2429,Pearl Street,Adamsdown,0.025744625
+2433,Pellett Street,Adamsdown,0.003655
+2500,Pentwyn Link Road,Old St. Mellons,0.497804545
+2501,Pentwyn Link Road,Pontprennau,0.578887143
+2507,Peppermint Drive,Pontprennau,0.189798387
+2516,Philip Street,Riverside,0.243179
+2519,Picton Place,Riverside,0.08093
+2520,Picton Walk,Riverside,0.017027143
+2521,Piercefield Place,Adamsdown,0.013018
+2530,Pipkin Close,Pontprennau,0.02695375
+2533,Planet Street,Adamsdown,0.006713571
+2534,Plantagenet Street,Riverside,0.019375758
+2539,Plas y Delyn,Lisvane,0.153338889
+2572,Portland Place,Lisvane,0.4767725
+2573,Portmanmoor Road,Splott,0.156741148
+2578,Priest Road,Adamsdown,0.097398
+2580,Prince Leopold Street,Adamsdown,0.106222857
+2617,Railway Street,Splott,0.011993033
+2618,Railway Terrace,Riverside,0.193338824
+2624,Rawden Mews,Riverside,0.133393125
+2625,Rawden Place,Riverside,0.11561
+2642,Rennie Street,Riverside,0.045107273
+2663,Richards Place,Adamsdown,5.67E-05
+2665,Richards Terrace,Adamsdown,0.097958095
+2669,Ridgeway,Lisvane,0.186964949
+2684,Rolls Street,Riverside,0.047370435
+2700,Rosewood Close,Lisvane,0.300195333
+2706,Rover Way,Adamsdown,0.218658947
+2711,Rowan Way,Lisvane,0.216981132
+2715,Ruby Street,Adamsdown,0.001732692
+2716,Rudry Road,Lisvane,0.321898571
+2720,Runcorn Close,Old St. Mellons,0.18257
+2722,Ruperra Close,Old St. Mellons,0.251725
+2729,Ryder Street,Riverside,0.37634
+2730,Sable Close,Lisvane,0.169776
+2758,Sandon Street,Adamsdown,0.268599375
+2762,Sanquhar Street,Splott,0.032425176
+2763,Sapele Drive,Splott,0.059676667
+2764,Sapphire Street,Adamsdown,0.046077143
+2767,Scotney Way,Pontprennau,0.141895
+2779,Severn Road,Riverside,0.005122
+2780,Seymour Street,Splott,0.013010377
+2792,Shields Close,Pontprennau,0.074963333
+2796,Silver Street,Adamsdown,0.01045
+2797,Silverstone Close,Old St. Mellons,0.129884
+2799,Sindercombe Close,Pontprennau,0.394561935
+2800,Singleton Road,Splott,0.064676176
+2804,Skibereen Close,Pontprennau,0.189298667
+2807,Smeaton Street,Riverside,0.045321333
+2821,South Luton Place,Adamsdown,0.007881429
+2822,South Morgan Place,Riverside,0.219658333
+2823,South Park Road,Splott,0.093929091
+2831,Speedwell Close,Pontprennau,0.06354
+2835,Spire Cardiff Hospital,Pontprennau,0.1094456
+2836,Splott Road,Splott,0.067036813
+2837,Spring Gardens Place,Adamsdown,0.011231429
+2838,Spring Gardens Terrace,Adamsdown,0.018162353
+2845,Spruce Close,Splott,0.107305556
+2896,St. Mellons Road,Lisvane,0.548863529
+2897,St. Mellons Road,Pontprennau,0.85857396
+2899,Stacey Road,Adamsdown,0.233724386
+2904,Stanier Court,Splott,0.144703333
+2907,Star Street,Adamsdown,0.04507625
+2917,Stephenson Street,Riverside,0.003955
+2937,Sun Street,Adamsdown,0.175685714
+2945,Swansea Street,Splott,0.027546429
+2948,Swinton Street,Splott,0.008668182
+2954,System Street,Adamsdown,0.126207895
+2958,Tŷ'r Winch Road,Old St. Mellons,0.377401765
+2962,Tŷ Draw Road,Pontprennau,0.87387124
+2975,Taffs Mead Embankment,Riverside,0.04095
+2981,Tanglewood Close,Lisvane,0.211553333
+2985,Tarragon Way,Pontprennau,0.232074091
+3001,Telford Street,Riverside,0.001289231
+3009,Tharsis Close,Adamsdown,0.042147273
+3016,The Coppins,Lisvane,0.284663636
+3017,The Court,Lisvane,0.321115714
+3020,The Dell,Old St. Mellons,0.51536375
+3023,The Farthings,Pontprennau,0.165065714
+3031,The Maltings,Pontprennau,0.189952264
+3032,The Oaks,Lisvane,0.47861
+3033,The Paddock,Lisvane,0.304325882
+3042,The Spinney,Lisvane,0.242724615
+3043,The Ton,Old St. Mellons,0.161429091
+3047,The Woodlands,Lisvane,0.323292222
+3049,Theodora Street,Adamsdown,0.031439048
+3069,Tidal Sidings,Splott,0.298130278
+3074,Tin Street,Adamsdown,0.086617778
+3077,Titan Road,Splott,0.00012
+3081,Topaz Street,Adamsdown,0.001349231
+3090,Tramore Way,Pontprennau,0.171829167
+3111,Trevethick Street,Riverside,0.003028
+3119,Tudor Street,Riverside,0.017159268
+3136,Ty-to-Maen Close,Old St. Mellons,0.138412647
+3154,Tyler Street,Adamsdown,0.050203
+3161,University Place,Splott,0.15912125
+3172,Vale Road,Splott,0.053671429
+3175,Vanguard Way,Splott,0.104035116
+3199,Wagtail Close,Pontprennau,0.32373
+3200,Wain Close,Pontprennau,0.1098725
+3202,Walford Place,Riverside,0.046154286
+3203,Walker Road,Splott,0.025195208
+3247,Wellington Street,Riverside,0.1303788
+3249,Wells Street,Riverside,0.036495143
+3264,Wern Fawr Lane,Old St. Mellons,0.336863261
+3274,West Luton Place,Adamsdown,0.136048
+3298,Wexford Court,Pontprennau,0.219931
+3322,Wicklow Close,Pontprennau,0.131766
+3326,Wilkinson Close,Splott,0.06298
+3328,William Nicholls Drive,Old St. Mellons,0.211564444
+3343,Wilson Street,Splott,0.010372667
+3358,Windsor Road,Adamsdown,0.139178125
+3361,Windsor Road,Splott,0.17417875
+3369,Wisley Place,Pontprennau,0.05095
+3373,Wood Close,Lisvane,0.24049
+3375,Wood Street,Riverside,0.0349075
+3386,Woodsy Close,Pontprennau,0.2002175
+3394,Wordsworth Avenue,Adamsdown,0.0723
+3407,Wyndham Crescent,Riverside,0.027621111
+3408,Wyndham Place,Riverside,0.047581842
+3410,Wyndham Street,Riverside,0.054693871
+3423,Youghal Close,Pontprennau,0.145533333
+3426,Zinc Street,Adamsdown,0.054933846

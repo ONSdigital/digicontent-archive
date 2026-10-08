@@ -1,0 +1,85 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02000166,Camden 001,Highgate West,0,4,1,1,0,0,0,0,0,1,4,1,1,0,covid
+E02000167,Camden 002,Hampstead Town,0,1,0,0,0,0,0,1,1,0,2,0,0,0,covid
+E02000168,Camden 003,Tufnell Park West,0,6,1,0,0,0,1,0,0,3,2,4,1,0,covid
+E02000169,Camden 004,Frognal,1,5,1,0,0,0,0,0,0,2,3,0,0,0,covid
+E02000170,Camden 005,Fortune Green,0,4,0,0,0,0,0,0,0,2,0,1,0,0,covid
+E02000171,Camden 006,Mansfield Road & Park Hill Road,0,5,1,0,0,0,0,0,0,0,1,0,0,0,covid
+E02000172,Camden 007,Kentish Town West,0,14,2,0,0,0,0,0,0,1,4,3,0,0,covid
+E02000173,Camden 008,Fitzjohns & Royal Free,0,0,0,0,0,0,0,0,0,0,0,1,0,0,covid
+E02000174,Camden 009,Kentish Town East,0,4,0,0,0,0,0,0,0,0,3,4,1,0,covid
+E02000175,Camden 010,West Hampstead,0,4,0,0,0,0,0,0,0,0,4,1,0,0,covid
+E02000176,Camden 011,Belsize Park,0,1,0,0,0,0,0,0,0,0,2,4,0,0,covid
+E02000177,Camden 012,Chalk Farm,0,10,1,2,0,0,0,0,0,0,9,1,0,0,covid
+E02000178,Camden 013,Kilburn Grange,0,5,0,0,0,0,0,0,0,1,4,6,1,0,covid
+E02000179,Camden 014,Adelaide Road,0,5,0,0,1,0,0,0,0,0,5,2,0,0,covid
+E02000180,Camden 015,Camden Road South,0,3,1,1,0,0,0,0,0,0,4,0,1,0,covid
+E02000181,Camden 016,South Hampstead,0,1,0,0,0,0,0,0,0,0,0,1,0,0,covid
+E02000182,Camden 017,Swiss Cottage,0,6,1,0,0,0,0,0,0,0,2,4,1,0,covid
+E02000183,Camden 018,Primrose Hill,0,4,1,0,1,0,0,0,0,0,2,0,1,0,covid
+E02000184,Camden 019,Camden Street & Elm Village,1,4,1,0,0,0,0,0,1,1,4,2,1,1,covid
+E02000185,Camden 020,Kilburn East,0,9,3,1,0,0,0,1,0,0,6,2,0,1,covid
+E02000186,Camden 021,Camden Town & Mornington Crescent,0,3,0,0,0,0,0,0,0,0,2,3,0,0,covid
+E02000187,Camden 022,Somers Town,2,6,1,0,0,0,0,0,0,0,4,1,2,0,covid
+E02000188,Camden 023,Euston,0,4,1,0,0,0,0,0,0,0,2,0,1,1,covid
+E02000189,Camden 024,Gray's Inn Road,0,3,0,0,0,0,0,0,0,0,0,0,0,1,covid
+E02000190,Camden 025,Bloomsbury East,0,6,0,0,0,0,0,0,0,0,1,0,0,0,covid
+E02000191,Camden 026,Fitzrovia East & Bloomsbury West,0,2,0,0,0,0,0,0,0,1,1,1,0,0,covid
+E02000192,Camden 027,Hatton Garden & Theobalds Road,0,7,1,0,0,0,0,0,0,0,2,2,0,0,covid
+E02000193,Camden 028,"Holborn, St Giles & Bloomsbury South",2,0,0,0,0,0,0,0,0,0,3,0,0,0,covid
+E02000166,Camden 001,Highgate West,0,8,6,3,4,7,6,3,1,3,4,6,1,4,noncovid
+E02000167,Camden 002,Hampstead Town,8,2,3,6,4,4,7,2,2,2,3,6,4,0,noncovid
+E02000168,Camden 003,Tufnell Park West,2,12,2,4,4,1,4,5,6,2,5,3,5,4,noncovid
+E02000169,Camden 004,Frognal,2,9,2,1,3,4,3,6,2,3,3,2,4,4,noncovid
+E02000170,Camden 005,Fortune Green,1,2,4,0,4,2,3,1,2,4,2,4,2,3,noncovid
+E02000171,Camden 006,Mansfield Road & Park Hill Road,3,4,2,3,3,5,1,1,2,2,1,1,2,2,noncovid
+E02000172,Camden 007,Kentish Town West,3,9,3,7,4,2,5,8,7,6,9,9,5,4,noncovid
+E02000173,Camden 008,Fitzjohns & Royal Free,0,4,0,6,4,2,1,1,1,0,4,2,2,4,noncovid
+E02000174,Camden 009,Kentish Town East,1,3,1,4,6,4,4,3,1,8,5,5,4,5,noncovid
+E02000175,Camden 010,West Hampstead,2,1,3,2,2,4,3,2,3,1,5,2,2,3,noncovid
+E02000176,Camden 011,Belsize Park,2,1,2,5,5,3,2,2,3,2,2,5,4,3,noncovid
+E02000177,Camden 012,Chalk Farm,4,9,4,7,1,3,6,4,6,2,15,8,4,5,noncovid
+E02000178,Camden 013,Kilburn Grange,3,7,1,2,2,1,3,7,8,4,4,1,7,4,noncovid
+E02000179,Camden 014,Adelaide Road,4,5,0,3,5,1,1,9,4,1,4,2,3,4,noncovid
+E02000180,Camden 015,Camden Road South,3,5,3,2,2,2,3,1,0,4,1,2,2,3,noncovid
+E02000181,Camden 016,South Hampstead,2,3,2,4,1,2,4,3,2,3,4,1,3,2,noncovid
+E02000182,Camden 017,Swiss Cottage,4,9,1,4,5,5,2,6,3,4,1,2,1,6,noncovid
+E02000183,Camden 018,Primrose Hill,2,3,2,4,3,3,4,2,0,1,3,4,3,7,noncovid
+E02000184,Camden 019,Camden Street & Elm Village,4,1,5,3,1,5,1,2,4,3,3,3,1,6,noncovid
+E02000185,Camden 020,Kilburn East,7,5,6,4,0,4,9,4,2,5,5,5,2,7,noncovid
+E02000186,Camden 021,Camden Town & Mornington Crescent,1,2,1,3,2,4,3,3,3,6,1,2,6,3,noncovid
+E02000187,Camden 022,Somers Town,7,5,3,4,3,5,2,3,7,3,7,1,7,5,noncovid
+E02000188,Camden 023,Euston,4,3,4,2,3,4,3,3,0,1,3,2,4,2,noncovid
+E02000189,Camden 024,Gray's Inn Road,5,3,1,2,2,0,2,0,2,1,1,2,2,2,noncovid
+E02000190,Camden 025,Bloomsbury East,3,3,1,2,3,1,5,1,5,2,2,0,2,0,noncovid
+E02000191,Camden 026,Fitzrovia East & Bloomsbury West,4,2,1,1,0,0,1,1,2,1,1,1,1,4,noncovid
+E02000192,Camden 027,Hatton Garden & Theobalds Road,2,5,2,3,3,2,2,4,5,2,3,4,3,2,noncovid
+E02000193,Camden 028,"Holborn, St Giles & Bloomsbury South",1,2,4,3,2,1,4,2,0,1,2,1,3,1,noncovid
+E02000166,Camden 001,Highgate West,4,4,2,4,4,3,5,5,5,5,3,4,4,4,average
+E02000167,Camden 002,Hampstead Town,3,4,3,3,3,4,3,3,5,4,4,2,3,4,average
+E02000168,Camden 003,Tufnell Park West,5,4,4,3,6,3,5,5,5,6,5,4,5,4,average
+E02000169,Camden 004,Frognal,3,3,3,3,4,2,3,3,3,3,4,3,3,3,average
+E02000170,Camden 005,Fortune Green,3,3,3,2,2,2,3,3,3,3,4,4,3,3,average
+E02000171,Camden 006,Mansfield Road & Park Hill Road,3,3,4,3,3,3,3,4,5,3,3,3,3,3,average
+E02000172,Camden 007,Kentish Town West,7,6,5,7,7,5,5,5,6,4,8,7,7,6,average
+E02000173,Camden 008,Fitzjohns & Royal Free,3,2,2,3,1,4,2,3,3,6,3,3,3,2,average
+E02000174,Camden 009,Kentish Town East,3,5,6,3,4,3,2,3,2,3,3,3,3,5,average
+E02000175,Camden 010,West Hampstead,3,2,2,3,4,1,2,2,3,4,2,4,3,2,average
+E02000176,Camden 011,Belsize Park,2,2,3,2,2,3,3,1,2,2,2,3,2,2,average
+E02000177,Camden 012,Chalk Farm,7,4,3,6,6,4,7,7,5,6,6,6,7,4,average
+E02000178,Camden 013,Kilburn Grange,3,4,4,2,3,4,4,5,3,4,3,3,3,4,average
+E02000179,Camden 014,Adelaide Road,3,4,3,3,2,3,3,2,3,2,3,2,3,4,average
+E02000180,Camden 015,Camden Road South,3,4,3,3,2,1,3,1,4,3,4,3,3,4,average
+E02000181,Camden 016,South Hampstead,2,2,2,2,1,2,2,2,3,2,3,2,2,2,average
+E02000182,Camden 017,Swiss Cottage,4,3,5,4,3,4,3,4,5,5,5,5,4,3,average
+E02000183,Camden 018,Primrose Hill,3,3,3,2,4,3,3,5,4,4,3,3,3,3,average
+E02000184,Camden 019,Camden Street & Elm Village,3,4,4,2,4,3,3,2,4,4,4,4,3,4,average
+E02000185,Camden 020,Kilburn East,6,7,6,7,4,5,6,6,7,7,8,7,6,7,average
+E02000186,Camden 021,Camden Town & Mornington Crescent,6,3,3,3,3,2,3,2,3,3,2,3,6,3,average
+E02000187,Camden 022,Somers Town,5,2,5,5,4,5,4,5,4,6,7,6,5,2,average
+E02000188,Camden 023,Euston,5,4,2,4,4,3,5,3,4,3,4,3,5,4,average
+E02000189,Camden 024,Gray's Inn Road,2,2,2,2,1,1,1,4,4,1,1,2,2,2,average
+E02000190,Camden 025,Bloomsbury East,4,3,2,2,2,2,3,3,4,3,3,3,4,3,average
+E02000191,Camden 026,Fitzrovia East & Bloomsbury West,1,2,2,2,1,1,2,1,1,2,3,2,1,2,average
+E02000192,Camden 027,Hatton Garden & Theobalds Road,3,5,3,3,4,3,3,3,2,2,3,3,3,5,average
+E02000193,Camden 028,"Holborn, St Giles & Bloomsbury South",3,3,2,2,2,2,1,3,2,3,2,3,3,3,average

@@ -1,0 +1,100 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02000313,Greenwich 001,Thamesmead Birchmere Park,0,4,0,0,0,0,0,0,0,1,1,2,1,0,covid
+E02000314,Greenwich 002,West Thamesmead,1,9,1,1,0,0,0,0,1,0,2,2,0,1,covid
+E02000315,Greenwich 003,Abbey Wood North,0,7,0,1,0,0,0,0,0,1,4,1,1,0,covid
+E02000316,Greenwich 004,"Woolwich Dockyard, Arsenal & Charlton Riverside",1,4,0,0,0,0,0,0,0,2,4,1,0,0,covid
+E02000317,Greenwich 005,Woolwich West,1,5,0,0,0,0,0,0,0,2,1,1,2,0,covid
+E02000318,Greenwich 006,Plumstead High Street,0,4,2,0,0,0,0,1,0,2,3,9,3,0,covid
+E02000319,Greenwich 007,Plumstead Common & Riverside,3,2,2,0,0,0,0,0,0,0,4,4,1,0,covid
+E02000320,Greenwich 008,Abbey Wood South,2,7,0,0,0,0,0,0,0,1,1,4,0,0,covid
+E02000321,Greenwich 009,Woolwich Glyndon,0,4,0,1,0,0,0,0,0,1,1,2,1,0,covid
+E02000323,Greenwich 011,Woolwich South,0,9,2,0,0,0,0,0,1,1,2,0,4,0,covid
+E02000324,Greenwich 012,Charlton Village,0,5,3,2,0,0,0,0,1,0,4,2,1,1,covid
+E02000326,Greenwich 014,Charlton Slopes,1,4,0,0,0,0,0,0,0,0,2,2,1,0,covid
+E02000327,Greenwich 015,Woolwich Common,0,4,3,0,0,1,0,1,1,0,2,3,0,1,covid
+E02000328,Greenwich 016,Westcombe Park & Maze Hill,0,9,0,0,1,0,0,0,0,0,5,2,0,0,covid
+E02000329,Greenwich 017,Plumstead South,1,3,0,0,0,0,0,0,0,1,10,2,1,0,covid
+E02000331,Greenwich 019,Hornfair Park,0,6,1,0,0,0,0,0,1,1,5,1,0,0,covid
+E02000332,Greenwich 020,Shooters Hill,0,1,0,0,0,0,0,0,0,2,2,2,0,0,covid
+E02000333,Greenwich 021,Blackheath Standard & Village,1,2,0,1,0,0,0,0,0,2,1,2,0,0,covid
+E02000334,Greenwich 022,Kidbrooke North,0,8,2,0,0,0,0,0,0,0,6,2,0,0,covid
+E02000335,Greenwich 023,Eltham North,0,3,0,0,0,0,0,0,0,3,4,1,0,0,covid
+E02000337,Greenwich 025,Eltham West,0,5,0,1,0,0,0,0,1,1,5,3,1,0,covid
+E02000339,Greenwich 027,Eltham Park,0,7,0,0,0,0,0,0,0,0,3,3,1,0,covid
+E02000340,Greenwich 028,Eltham South,0,0,0,0,0,0,0,1,0,0,5,3,0,0,covid
+E02000341,Greenwich 029,Middlepark & Horn Park,0,6,1,1,0,0,0,0,0,1,8,1,0,0,covid
+E02000342,Greenwich 030,Avery Hill,0,2,0,0,0,0,0,0,0,0,6,0,0,0,covid
+E02000343,Greenwich 031,Mottingham East,1,5,1,0,0,0,1,0,0,1,6,1,1,0,covid
+E02000344,Greenwich 032,New Eltham,0,14,1,0,0,0,0,0,2,0,5,2,0,0,covid
+E02006786,Greenwich 033,Wickham Lane & Winns Common,0,1,2,0,0,0,0,0,1,0,8,2,1,0,covid
+E02006927,Greenwich 034,Kidbrooke South,4,5,0,0,0,0,0,0,2,0,14,4,2,0,covid
+E02006928,Greenwich 035,Greenwich & Deptford Creekside,0,1,1,0,0,0,0,0,0,0,0,0,1,0,covid
+E02006929,Greenwich 036,Greenwich Peninsula,0,5,1,1,0,0,0,0,0,1,4,3,0,0,covid
+E02006930,Greenwich 037,Greenwich East,1,2,0,0,0,0,0,0,0,0,2,0,1,0,covid
+E02006931,Greenwich 038,Greenwich Town & Park,0,6,2,0,0,0,0,0,0,1,3,1,0,0,covid
+E02000313,Greenwich 001,Thamesmead Birchmere Park,2,2,1,3,2,3,3,3,3,4,1,1,1,3,noncovid
+E02000314,Greenwich 002,West Thamesmead,6,6,5,4,3,5,3,1,10,0,7,2,3,5,noncovid
+E02000315,Greenwich 003,Abbey Wood North,10,9,7,6,10,2,5,7,4,7,6,2,1,7,noncovid
+E02000316,Greenwich 004,"Woolwich Dockyard, Arsenal & Charlton Riverside",2,6,1,3,4,2,5,3,4,5,7,4,3,4,noncovid
+E02000317,Greenwich 005,Woolwich West,2,11,3,2,3,5,2,2,2,5,1,3,2,3,noncovid
+E02000318,Greenwich 006,Plumstead High Street,3,8,5,7,7,3,8,6,3,4,5,3,7,3,noncovid
+E02000319,Greenwich 007,Plumstead Common & Riverside,6,4,5,1,4,1,3,5,5,2,1,3,8,7,noncovid
+E02000320,Greenwich 008,Abbey Wood South,1,5,1,1,2,1,3,5,4,2,3,7,2,2,noncovid
+E02000321,Greenwich 009,Woolwich Glyndon,6,1,1,5,2,2,1,3,1,7,8,7,3,2,noncovid
+E02000323,Greenwich 011,Woolwich South,7,8,10,4,3,4,4,8,6,5,1,7,8,1,noncovid
+E02000324,Greenwich 012,Charlton Village,4,10,5,3,3,1,3,5,7,8,5,6,3,2,noncovid
+E02000326,Greenwich 014,Charlton Slopes,6,7,2,3,2,0,5,3,1,3,5,3,4,4,noncovid
+E02000327,Greenwich 015,Woolwich Common,0,4,4,5,1,1,4,3,1,1,1,2,1,3,noncovid
+E02000328,Greenwich 016,Westcombe Park & Maze Hill,9,11,5,5,4,4,2,4,1,2,3,9,4,6,noncovid
+E02000329,Greenwich 017,Plumstead South,4,4,3,3,2,3,3,6,7,2,3,1,2,3,noncovid
+E02000331,Greenwich 019,Hornfair Park,5,9,4,4,7,6,6,1,3,4,4,8,4,2,noncovid
+E02000332,Greenwich 020,Shooters Hill,4,4,4,1,5,7,0,3,5,1,5,3,2,6,noncovid
+E02000333,Greenwich 021,Blackheath Standard & Village,5,4,4,10,1,2,2,6,4,5,2,4,4,1,noncovid
+E02000334,Greenwich 022,Kidbrooke North,2,5,2,2,2,2,2,6,1,3,3,1,4,5,noncovid
+E02000335,Greenwich 023,Eltham North,6,3,4,2,4,3,5,5,2,2,4,2,1,6,noncovid
+E02000337,Greenwich 025,Eltham West,7,6,4,2,5,4,2,2,3,2,5,3,8,3,noncovid
+E02000339,Greenwich 027,Eltham Park,3,7,4,3,5,1,4,3,4,3,1,4,1,5,noncovid
+E02000340,Greenwich 028,Eltham South,7,8,9,4,3,6,6,5,1,3,10,5,6,2,noncovid
+E02000341,Greenwich 029,Middlepark & Horn Park,2,7,4,3,4,6,7,6,3,6,4,4,2,1,noncovid
+E02000342,Greenwich 030,Avery Hill,4,2,4,1,2,3,3,1,5,1,2,1,3,1,noncovid
+E02000343,Greenwich 031,Mottingham East,5,7,4,8,8,7,11,3,3,2,7,6,6,4,noncovid
+E02000344,Greenwich 032,New Eltham,6,11,7,8,3,3,4,6,4,2,3,4,7,0,noncovid
+E02006786,Greenwich 033,Wickham Lane & Winns Common,1,3,2,1,4,3,2,0,4,3,1,5,1,4,noncovid
+E02006927,Greenwich 034,Kidbrooke South,4,7,11,7,3,5,5,5,3,5,8,3,7,5,noncovid
+E02006928,Greenwich 035,Greenwich & Deptford Creekside,0,4,3,1,1,1,0,1,2,2,2,0,4,3,noncovid
+E02006929,Greenwich 036,Greenwich Peninsula,3,6,1,5,4,4,4,5,2,3,3,1,1,3,noncovid
+E02006930,Greenwich 037,Greenwich East,7,4,1,2,4,2,1,3,2,1,1,3,1,5,noncovid
+E02006931,Greenwich 038,Greenwich Town & Park,2,21,4,3,7,3,4,6,4,2,4,2,5,4,noncovid
+E02000313,Greenwich 001,Thamesmead Birchmere Park,3,2,3,2,3,3,1,1,3,3,2,3,3,2,average
+E02000314,Greenwich 002,West Thamesmead,4,4,5,6,7,4,4,5,4,4,7,8,4,4,average
+E02000315,Greenwich 003,Abbey Wood North,6,4,5,6,5,5,5,2,5,3,6,7,6,4,average
+E02000316,Greenwich 004,"Woolwich Dockyard, Arsenal & Charlton Riverside",5,5,4,3,4,2,2,3,4,3,4,3,5,5,average
+E02000317,Greenwich 005,Woolwich West,3,3,3,4,3,4,3,4,6,3,5,4,3,3,average
+E02000318,Greenwich 006,Plumstead High Street,4,3,2,4,4,3,4,4,4,5,6,5,4,3,average
+E02000319,Greenwich 007,Plumstead Common & Riverside,6,2,6,5,6,6,3,5,2,6,7,6,6,2,average
+E02000320,Greenwich 008,Abbey Wood South,4,4,3,2,2,3,5,3,2,4,4,3,4,4,average
+E02000321,Greenwich 009,Woolwich Glyndon,5,4,4,3,4,3,4,3,3,3,5,4,5,4,average
+E02000323,Greenwich 011,Woolwich South,6,6,4,3,4,5,3,5,6,5,7,5,6,6,average
+E02000324,Greenwich 012,Charlton Village,4,5,4,5,4,5,4,5,6,6,8,7,4,5,average
+E02000326,Greenwich 014,Charlton Slopes,3,4,2,3,2,3,2,3,2,2,2,3,3,4,average
+E02000327,Greenwich 015,Woolwich Common,2,3,2,3,2,3,4,3,3,2,3,1,2,3,average
+E02000328,Greenwich 016,Westcombe Park & Maze Hill,5,4,3,5,4,6,4,5,4,4,6,6,5,4,average
+E02000329,Greenwich 017,Plumstead South,4,2,2,3,1,4,3,3,3,4,5,3,4,2,average
+E02000331,Greenwich 019,Hornfair Park,3,5,4,3,6,3,5,6,6,5,5,4,3,5,average
+E02000332,Greenwich 020,Shooters Hill,4,3,4,3,3,3,3,5,5,5,5,2,4,3,average
+E02000333,Greenwich 021,Blackheath Standard & Village,3,3,5,5,3,4,3,5,5,4,5,4,3,3,average
+E02000334,Greenwich 022,Kidbrooke North,2,3,3,4,5,3,4,3,4,3,4,4,2,3,average
+E02000335,Greenwich 023,Eltham North,5,4,3,2,4,3,4,4,3,4,5,3,5,4,average
+E02000337,Greenwich 025,Eltham West,5,4,6,3,4,3,5,3,4,6,5,4,5,4,average
+E02000339,Greenwich 027,Eltham Park,4,4,3,5,5,5,4,2,5,3,7,6,4,4,average
+E02000340,Greenwich 028,Eltham South,6,3,4,5,5,4,5,5,2,3,5,4,6,3,average
+E02000341,Greenwich 029,Middlepark & Horn Park,5,4,5,3,4,4,4,5,3,4,6,4,5,4,average
+E02000342,Greenwich 030,Avery Hill,3,3,3,4,4,2,5,4,3,2,5,5,3,3,average
+E02000343,Greenwich 031,Mottingham East,3,5,6,4,5,5,5,4,7,5,7,4,3,5,average
+E02000344,Greenwich 032,New Eltham,6,5,6,4,5,4,4,7,5,7,7,7,6,5,average
+E02006786,Greenwich 033,Wickham Lane & Winns Common,3,4,3,2,3,2,2,3,4,4,4,4,3,4,average
+E02006927,Greenwich 034,Kidbrooke South,6,6,6,5,6,5,5,6,6,6,10,5,6,6,average
+E02006928,Greenwich 035,Greenwich & Deptford Creekside,2,3,2,2,2,2,3,3,1,2,3,3,2,3,average
+E02006929,Greenwich 036,Greenwich Peninsula,3,5,4,3,3,2,2,3,3,5,7,4,3,5,average
+E02006930,Greenwich 037,Greenwich East,4,3,2,2,3,3,2,3,1,2,4,2,4,3,average
+E02006931,Greenwich 038,Greenwich Town & Park,4,7,4,5,5,2,4,4,6,7,6,5,4,7,average

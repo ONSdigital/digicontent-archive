@@ -1,0 +1,33 @@
+plot,ycategory,xcategory,value
+Life Satisfaction,Not using more credit,Very High,0.2
+Life Satisfaction,Using more credit,Very High,0.09
+Life Satisfaction,Not using more credit,High,0.51
+Life Satisfaction,Using more credit,High,0.39
+Life Satisfaction,Not using more credit,Medium,0.21
+Life Satisfaction,Using more credit,Medium,0.33
+Life Satisfaction,Not using more credit,Low,0.08
+Life Satisfaction,Using more credit,Low,0.19
+Worthwhile,Not using more credit,Very High,0.29
+Worthwhile,Using more credit,Very High,0.17
+Worthwhile,Not using more credit,High,0.46
+Worthwhile,Using more credit,High,0.41
+Worthwhile,Not using more credit,Medium,0.17
+Worthwhile,Using more credit,Medium,0.28
+Worthwhile,Not using more credit,Low,0.07
+Worthwhile,Using more credit,Low,0.14
+Happiness,Not using more credit,Very High,0.27
+Happiness,Using more credit,Very High,0.15
+Happiness,Not using more credit,High,0.42
+Happiness,Using more credit,High,0.37
+Happiness,Not using more credit,Medium,0.2
+Happiness,Using more credit,Medium,0.27
+Happiness,Not using more credit,Low,0.11
+Happiness,Using more credit,Low,0.22
+Anxiety,Not using more credit,Very High,0.31
+Anxiety,Using more credit,Very High,0.45
+Anxiety,Not using more credit,High,0.19
+Anxiety,Using more credit,High,0.21
+Anxiety,Not using more credit,Medium,0.22
+Anxiety,Using more credit,Medium,0.18
+Anxiety,Not using more credit,Low,0.29
+Anxiety,Using more credit,Low,0.16

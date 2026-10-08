@@ -1,0 +1,68 @@
+﻿{
+  "essential": {
+    "graphic_data_url": "regions.csv",
+    "dateFormat": "%Y",
+    "displayTicksFormat":"%Y",
+    "colour_palette": [
+      {
+        "key": "Actual",
+        "colour": "#206095"
+      },
+      {
+        "key": "November 2020 EFO forecast",
+        "colour": "darkgrey"
+      }
+    ],
+    "categorySort": ["South East","North West","East","West Midlands","London","Yorkshire and The Humber","South West","East Midlands","North East","Wales"],
+    "sourceText": ["Public Sector Finance, Office for National Statistics"],
+    "xAxisLabel": "",
+    "yAxisLabel": "£ bn",
+    "yAxisScale": "auto_min_max_total",
+    "screenreadertext":"REPLACE ME"
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 30,
+        "right": 23,
+        "bottom": 25,
+        "left": 50
+      },
+      "md": {
+        "top": 30,
+        "right": 23,
+        "bottom": 30,
+        "left": 50
+      },
+      "lg": {
+        "top": 30,
+        "right": 23,
+        "bottom": 25,
+        "left": 35
+      }
+    },
+    "chart_every":{
+      "sm": 1,
+      "md": 2,
+      "lg": 3
+    },
+    "aspectRatio": {
+      "sm": [16, 8],
+      "md": [16, 8],
+      "lg": [16, 10]
+    },
+    "legendHeight":{
+      "sm": 45,
+      "md": 30,
+      "lg": 30
+    },
+
+    "mobileBreakpoint": 480,
+    "middleBreakpoint": 670,
+    "x_ticks_every": {
+      "sm": 1,
+      "md": 1,
+      "lg": 1
+    }
+  }
+}

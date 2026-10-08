@@ -1,0 +1,912 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+  <title>Small multiple line charts with band</title>
+
+  <meta name="description" content="">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+  <link rel="stylesheet" href="../../lib/globalStyle.css" />
+  <style type="text/css">
+    body {
+      color: #323132;
+      /* max-width:944px; */
+    }
+
+    .x.axis path {
+      display: none;
+    }
+
+    path.line {
+      fill: none;
+    }
+
+    path.line2 {
+      fill: none;
+    }
+
+    path.line3 {
+      fill: none;
+    }
+
+    text {
+      font-family: 'Open Sans'
+    }
+
+    text.x,
+    text.y {
+      font-size: 12px;
+      fill: #666;
+    }
+
+    line.y,
+    line.x {
+      stroke: #ccc;
+      stroke-width: 1px;
+      shape-rendering: crispEdges;
+    }
+
+    #legend {
+      font-size: 12px;
+    }
+
+    h4 {
+      font-size: 16px;
+      line-height: 24px;
+      margin: 16px 0 16px 0;
+      padding: 24px 0 0 0;
+      font-weight: bold;
+    }
+
+    h5 {
+      font-size: 14px;
+      margin: 0 0 16px 0;
+      font-weight: normal;
+      padding-top: 0;
+    }
+
+    h5,h6 {
+      font-size: 16px;
+      margin: 16px 0 8px 0;
+      font-weight: 700;
+      color: #323132;
+    }
+
+    ul, ol {
+      margin: 16px 0;
+      padding-left: 32px;
+    }
+
+    li {
+        margin: 0 0 8px 0;
+        line-height: 32px;
+        font-weight: 400;
+        font-size: 18px;
+        padding: 0;
+    }
+
+    @media (max-width:767px){
+        li{
+          font-size:16px;
+        }
+    }
+
+  	.line5-yearaverage {
+  		stroke: #666;
+  		stroke-dasharray: 5 8 !important;
+  		stroke-linecap: round !important;
+  		stroke-width: 2px !important;
+  	}
+
+    a {
+        text-decoration: underline;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 32px;
+    }
+
+    .btn {
+        font-family: "Open Sans",Helvetica,Arial,sans-serif;
+        display: inline-block;
+        width: auto;
+        cursor: pointer;
+        padding: 6px 16px 10px 16px;
+        border: 0 none;
+        text-align: center;
+        -webkit-appearance: none;
+        transition: background-color 0.25s ease-out;
+    }
+
+    .btn--primary:focus {
+        background-color: #0b5d30;
+    }
+
+    .btn--primary {
+        background-color: #0F8243;
+        color: #fff;
+    }
+
+    .visuallyhidden{
+    	position: absolute;
+      width: 1px;
+      height: 1px;
+      margin: -1px;
+      padding: 0;
+      overflow: hidden;
+     	clip: rect(0,0,0,0);
+      border: 0;
+    }
+  </style>
+</head>
+
+<body>
+  <!-- <h4>Deaths are still rising in some regions but are dropping in others in week 17 (week ending 24 April 2020)</h4> -->
+  <h5 class="visuallyhidden">Modelled percentage of people that have received one or more doses of a COVID-19 vaccine, UK, and modelled percentage of people testing positive for antibodies to SARS-CoV-2 from a blood sample, UK</h5>
+  <div id="legend" aria-hidden="true"></div>
+  <div id="graphic" aria-hidden="true" style="position:relative">
+    <img src="fallback.png" alt="Modelled percentage of people that have received one or more doses of a COVID-19 vaccine and modelled percentage of people testing positive for antibodies to SARS-CoV-2 from a blood sample, regions, England" />
+  </div>
+
+  <h6 id="source"></h6>
+  <!-- <h6>Notes:</h6>
+    <ol>
+      <li>Based on area of usual residence</li>
+      <li>Figures exclude deaths of non-residents.</li>
+      <li>Based on date a death was registered rather than occurred.</li>
+      <li>All figures for 2020 are provisional.</li>
+      <li>The International Classification of Diseases, Tenth Edition (ICD-10) definitions are as follows: coronavirus (COVID-19) (U07.1 and U07.2).</li>
+
+    </ol>
+  <h5>Download this chart</h5>
+  <a class="btn btn--primary print--hide" title="Download as xlsx" href="datadownload.xlsx">.xlsx</a> -->
+
+  <script src="https://cdn.ons.gov.uk/vendor/d3/4.13.0/d3.min.js" type="text/javascript"></script>
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-annotation/2.1.0/d3-annotation.js" type="text/javascript"></script> -->
+  <script src="../../lib/modernizr.svg.min.js" type="text/javascript"></script>
+  <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js" type="text/javascript"></script>
+  <!-- <script src="../../lib/d3-legend.min.js" type="text/javascript"></script> -->
+  <script>
+    var graphic = d3.select('#graphic');
+    var legend = d3.select('#legend');
+    var pymChild = null;
+
+    function drawGraphic() {
+
+      maxweek=d3.max(graphic_data,function(d){return d.date})
+
+      var threshold_md = dvc.optional.middleBreakpoint;
+      var threshold_sm = dvc.optional.mobileBreakpoint;
+
+      if (parseInt(graphic.style("width")) < threshold_sm) {
+        size = "sm";
+      } else if (parseInt(graphic.style("width")) < threshold_md) {
+        size = "md";
+      } else {
+        size = "lg";
+      }
+
+      categorySort = {}
+      if(Array.isArray(dvc.essential.categorySort)){
+        for (i = 0; i < dvc.essential.categorySort.length; i++) {
+          categorySort[dvc.essential.categorySort[i]] = i;
+        }
+
+        graphic_data.sort(function(a, b) {
+          return categorySort[a.category] - categorySort[b.category]
+        })
+
+        categories=Object.keys(categorySort)
+      } else if(dvc.essential.categorySort=="descending"){
+        //auto sort the array by biggest value
+        graphic_data.filter(function(d){
+          return d.date==maxweek
+        }).sort(function(a,b){return +b.chiffre - (+a.chiffre)}).forEach(function(item, i){
+          categorySort[item.category]=i
+        });
+
+        graphic_data.sort(function(a, b) {
+          return categorySort[a.category] - categorySort[b.category]
+        })
+
+        categories=Object.keys(categorySort)
+      } else if (dvc.essential.categorySort=="ascending"){
+        graphic_data.filter(function(d){
+          return d.date==maxweek
+        }).sort(function(a,b){return +a.chiffre - (+b.chiffre)}).forEach(function(item, i){
+          categorySort[item.category]=i
+        });
+
+        graphic_data.sort(function(a, b) {
+          return categorySort[a.category] - categorySort[b.category]
+        })
+
+        categories=Object.keys(categorySort)
+
+      }
+
+
+      var margin = dvc.optional.margin[size]
+      var chart_width = parseInt(graphic.style("width")) / dvc.optional.chart_every[size] - margin.left - margin.right;
+      var height = Math.ceil((chart_width * dvc.optional.aspectRatio[size][1]) / dvc.optional.aspectRatio[size][0]);
+
+      // clear out existing graphics
+      graphic.selectAll("*").remove();
+      legend.selectAll("*").remove();
+
+      //draw legend
+      legend.append('svg').attr("height", dvc.optional.legendHeight[size]).attr("width", dvc.optional.chart_every[size] * (chart_width + margin.left + margin.right)).append('g')
+        .attr('transform', 'translate(5,5)')
+
+      createLegend();
+
+      function createLegend() {
+
+        var prevX = 0;
+        var prevY = 0;
+        lineNo = 0;
+        var lineNoOld = 0;
+
+        dvc.essential.colour_palette.map(function(d) {
+          return d.key
+        }).forEach(function(d, i) {
+
+          // draw legend text based on content of var legendLabels ...
+          var_group = d3.select("#legend").select('svg').append("g")
+
+          var_group.append("rect")
+            .attr("class", "rect" + i)
+            .attr("fill", dvc.essential.colour_palette[i].colour)
+            .attr("x", 0)
+            .attr("y", 0)
+            .attr("width", function(){if(i==0){return 15}else{return 20}})
+            .attr("height", function(){if(i==0){return 15}else{return 3}})
+
+            if (size!=="sm") {
+              var_group.append("text")
+                .text(dvc.essential.colour_palette[i].key)
+                .attr("class", "legend" + i)
+                .attr("text-anchor", "start")
+                .style("font-size", "12px")
+                .style("fill", "#666")
+                .attr('y', 15)
+                .attr('x', 0);
+            } else {
+              var_group.append("text")
+                .text(dvc.essential.colour_palette[i].smallkey)
+                .attr("class", "legend" + i)
+                .attr("text-anchor", "start")
+                .style("font-size", "12px")
+                .style("fill", "#666")
+                .attr('y', 15)
+                .attr('x', 0);
+            }
+
+
+          d3.selectAll(".legend" + (i))
+            .each(calcPosition);
+
+          function calcPosition() {
+
+
+            var BBox = this.getBBox()
+
+
+            //prevY =BBox.width
+            d3.select(".legend" + (i))
+              .attr("y", function(d) {
+                if ((prevX + BBox.width + 50) > parseInt(graphic.style("width"))) {
+                  lineNoOld = lineNo;
+                  lineNo = lineNo + 1;
+                  prevX = 0;
+                }
+                return eval((lineNo * 20) + 20);
+              })
+              .attr("x", function(d) {
+                return prevX + 25;
+              })
+
+
+            d3.select(".rect" + (i))
+              .attr("y", function(d) {
+
+                if ((prevX + BBox.width + 50) > parseInt(graphic.style("width"))) {
+                  lineNoOld = lineNo;
+                  lineNo = lineNo + 1;
+                  prevX = 0;
+                }
+
+                if (dvc.essential.legendStyle == "rect") {
+                  return eval((lineNo * 20) + 5);
+                } else {
+                  return eval((lineNo * 20) + 12);
+
+                }
+              })
+              .attr("x", function(d) {
+                return prevX;
+              })
+
+            prevX = prevX + BBox.width + 50
+
+
+
+          }; // end function calcPosition()
+        }); // end foreach
+      } // end function createLegend()
+
+      x = d3.scaleTime()
+        .range([0, chart_width]);
+
+      x.domain(d3.extent(graphic_data, function(d) {
+        return d.date
+      }))
+
+      dates=d3.map(graphic_data,function(d){return d.date}).keys()
+
+
+      var xAxis = d3.axisBottom(x)
+          .tickValues(d3.map(graphic_data,function(d){return d.date}).keys()
+          .map(function(d){return d3.timeParse("%a %b %d %Y")(d.match(/\b[\w']+(?:[^\w\n]+[\w']+){1,3}\b/g)[0])})
+          .sort(function(a,b){return a - b})
+          .filter(function(d,i){
+            return i % dvc.optional.x_ticks_every[size] === 0&&i<dates.length-dvc.optional.x_ticks_every[size] || i==dates.length-1 //Rob's fussy comment about labelling the last date
+          }))
+          .tickFormat(d3.timeFormat("%-d %b"))
+
+// add another line
+
+        line3 = d3.line()
+        .defined(function(d) {return d.chiffre3!="null"})
+          .x(function(d) {
+            return x(d.date)
+          })
+          .y(function(d) {
+            return y[d.category](d.chiffre3)
+          })
+
+// add another line
+
+        line2 = d3.line()
+        .defined(function(d) {return d.chiffre2!="null"})
+          .x(function(d) {
+            return x(d.date)
+          })
+          .y(function(d) {
+            return y[d.category](d.chiffre2)
+          })
+
+
+// add a line
+      line = d3.line()
+      .defined(function(d) {return d.chiffre!="null"})
+        .x(function(d) {
+          return x(d.date)
+        })
+        .y(function(d) {
+          return y[d.category](d.chiffre)
+        })
+
+
+
+
+
+
+      var area = d3.area()
+        .defined(function(d) {return d.chiffre!="null"})
+        .curve(d3.curveLinear)
+        .x(function(d) {
+          return x(d.date);
+        })
+        .y1(function(d) {
+          return y[d.category](d.max);
+        })
+        .y0(function(d){
+          return y[d.category](d.min);
+        });
+
+      // add area 2
+      var area2 = d3.area()
+        .defined(function(d) {return d.chiffre2!="null"})
+        .curve(d3.curveLinear)
+        .x(function(d) {
+          return x(d.date);
+        })
+        .y1(function(d) {
+          return y[d.category](d.max2);
+        })
+        .y0(function(d){
+          return y[d.category](d.min2);
+        });
+
+        // // add area 3
+        var area3 = d3.area()
+        .defined(function(d) {return d.chiffre3!="null"})
+          .curve(d3.curveLinear)
+          .x(function(d) {
+            return x(d.date);
+          })
+          .y1(function(d) {
+            return y[d.category](d.max3);
+          })
+          .y0(function(d){
+            return y[d.category](d.min3);
+          });
+
+
+
+      nested = d3.nest()
+        .key(function(d) {
+          return d.category
+        })
+        .key(function(d) {
+          return d.series
+        })
+        .sortValues(function(a,b) { return a.date - b.date; } )
+        .entries(graphic_data)
+
+      //x domain calculations	: zero to intelligent max choice, or intelligent min and max choice,  or interval chosen manually
+      y = {}
+
+      if (dvc.essential.yAxisScale == "auto_zero_max_total") {
+        var yDomain = [0,100];
+        // var yDomain = [0, d3.max(graphic_data, function(d) {
+        //   return +d.max
+        // })];
+        nested.forEach(function(item, i) {
+          y[item.key] = d3.scaleLinear()
+            .range([height, 0])
+            .domain(yDomain)
+            .nice();
+        });
+      } else if (dvc.essential.yAxisScale == "auto_min_max_total") {
+        var yDomain = d3.extent(graphic_data, function(d) {
+          return +d.chiffre
+        });
+        nested.forEach(function(item, i) {
+          y[item.key] = d3.scaleLinear()
+            .range([height, 0])
+            .domain(yDomain)
+            .nice();
+        });
+      } else if (dvc.essential.yAxisScale == "auto_min_max_each") {
+        rolledup = d3.nest()
+          .key(function(d) {
+            return d.category
+          })
+          .rollup(function(v) {
+            return [d3.min(v, function(d) {
+              return +d.chiffre
+            }), d3.max(v, function(d) {
+              return +d.chiffre
+            })]
+          })
+          .entries(graphic_data)
+
+        rolledup.forEach(function(item, i) {
+          y[item.key] = d3.scaleLinear()
+            .range([height, 0])
+            .domain(item.value)
+            .nice();
+        });
+
+      } else if (dvc.essential.yAxisScale == "auto_zero_max_each") {
+        rolledup = d3.nest()
+          .key(function(d) {
+            return d.category
+          })
+          .rollup(function(v) {
+            return [0, d3.max(v, function(d) {
+              return +d.chiffre
+            })]
+          })
+          .entries(graphic_data)
+
+        rolledup.forEach(function(item, i) {
+          y[item.key] = d3.scaleLinear()
+            .range([height, 0])
+            .domain(item.value)
+            .nice();
+        });
+
+      }
+
+      // sort these hardwired numbers maybe through the dimensions above
+      charts = d3.select('#graphic')
+        .selectAll('svg')
+        .data(nested)
+        .enter()
+        .append('svg')
+        .attr("id",function(d,i){return "svg" +i})
+        .attr("width", chart_width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+
+      charts
+        .append('text')
+        .attr("x", margin.left)
+        .attr("y", 12)
+        .text(function(d) {
+          return d.key
+        })
+        .attr('font-weight', 700)
+        .attr('font-size', "14px")
+
+
+      svg = charts
+        .append("g")
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+
+      svg
+        .append('g')
+        .attr('class', 'x axis')
+        .attr("transform", "translate(0," + height + ")")
+        .call(xAxis)
+        .each(function(d, i) {
+          if (i % dvc.optional.chart_every[size] == dvc.optional.chart_every[size] - 1||i==nested.length-1) {
+            d3.select(this).append("text")
+              .text(dvc.essential.xAxisLabel)
+              .attr("transform", "translate(" + chart_width + "," + (margin.bottom - 5) + ")")
+              .attr('text-anchor', 'end')
+              .attr('fill', "#666");
+          }
+        })
+
+      //create svg for chart
+
+      drawyaxis = svg
+        .append('g')
+        .attr('class', 'y axis')
+
+      drawyaxis.each(function(d, i) {
+        if (i % dvc.optional.chart_every[size] == 0) {
+          d3.select(this).call(d3.axisLeft(y[d.key]).tickSize(-chart_width).tickFormat(function(d){return d3.format(".0%")(d/100)}).ticks(4));
+        } else {
+          d3.select(this).call(d3.axisLeft(y[d.key]).tickSize(-chart_width).tickFormat("").ticks(4))
+        }
+
+      })
+
+      svg
+        .selectAll('g.area')
+        .data(function(d){
+          return d.values;
+        }).enter()
+        .append('path')
+        .attr("d",function(d){
+          return area(d.values)
+        })
+        .attr('class',"area")
+        .attr("fill",dvc.essential.colour_palette[1].colour)
+        .attr("opacity",0.4)
+
+        svg
+          .selectAll('g.area2')
+          .data(function(d){
+            return d.values;
+          }).enter()
+          .append('path')
+          .attr("d",function(d){
+            return area2(d.values)
+          })
+          .attr('class',"area2")
+          .attr("fill",dvc.essential.colour_palette[2].colour)
+          .attr("opacity",0.4)
+
+          svg
+            .selectAll('g.area3')
+            .data(function(d){
+              return d.values;
+            }).enter()
+            .append('path')
+            .attr("d",function(d){
+              return area3(d.values)
+            })
+            .attr('class',"area3")
+            .attr("fill",dvc.essential.colour_palette[3].colour)
+            .attr("opacity",0.4)
+
+  // add third line
+  svg
+    .selectAll('g.line3')
+    .data(function(d) {
+      return d.values;
+    })
+    .enter()
+    .append('path')
+    .attr("d", function(d) {
+      // console.log(d)
+      return line3(d.values)
+    })
+    .attr("class", "line3")
+    .attr("stroke", dvc.essential.colour_palette[3].colour)
+    .attr('stroke-width', "3px")
+
+// add second line
+svg
+  .selectAll('g.line2')
+  .data(function(d) {
+    return d.values;
+  })
+  .enter()
+  .append('path')
+  .attr("d", function(d) {
+    // console.log(d)
+    return line2(d.values)
+  })
+  .attr("class", "line2")
+  .attr("stroke", dvc.essential.colour_palette[2].colour)
+  .attr('stroke-width', "3px")
+
+// add lines
+
+  svg
+    .selectAll('g.line')
+    .data(function(d) {
+      return d.values;
+    })
+    .enter()
+    .append('path')
+    .attr("d", function(d) {
+      // console.log(d)
+      return line(d.values)
+    })
+    .attr("class", "line")
+    .attr("stroke", dvc.essential.colour_palette[1].colour)
+    .attr('stroke-width', "3px")
+
+
+
+var goback=3
+// add in circle and value for 2nd vacc
+if (i==99){ // no 2nd vacc this time
+
+  for(var i=0; i<dvc.essential.categorySort.length; i++) {
+    filteredgraphic_data=graphic_data.filter(function(d) {return d.category==dvc.essential.categorySort[i]})
+    d3.select("#svg"+i).append('circle')
+    .attr('cx',margin.left+x(filteredgraphic_data[filteredgraphic_data.length-goback].date))
+    .attr('cy',margin.top + y[dvc.essential.categorySort[0]](filteredgraphic_data[filteredgraphic_data.length-goback].chiffre3))//y(dvc.essential.altmeans[i]))
+    .attr('r', 3)
+    .attr("fill",dvc.essential.colour_palette[3].colour);
+
+
+    d3.select("#svg"+i).append('text')
+    .attr("x",margin.left + 10 +x(filteredgraphic_data[filteredgraphic_data.length-1].date))
+    .attr("y",margin.top + 5 + y[dvc.essential.categorySort[0]](filteredgraphic_data[filteredgraphic_data.length-goback].chiffre3))
+    .attr("font-size","11px")
+    .attr("text-anchor","start")
+    .attr("fill","#666")
+      .attr("class","dkblue"+i)
+    .text(d3.format("(.1f")(filteredgraphic_data[filteredgraphic_data.length-goback].chiffre3));
+  } // no 2nd vacc this time
+}
+
+// add in circle and value for 2nd vacc
+if (i==99){ // no 1st vacc this time
+
+for(var i=0; i<dvc.essential.categorySort.length; i++) {
+  filteredgraphic_data=graphic_data.filter(function(d) {return d.category==dvc.essential.categorySort[i]})
+  d3.select("#svg"+i).append('circle')
+  .attr('cx',margin.left+x(filteredgraphic_data[filteredgraphic_data.length-goback].date))
+  .attr('cy',margin.top + y[dvc.essential.categorySort[0]](filteredgraphic_data[filteredgraphic_data.length-goback].chiffre2))//y(dvc.essential.altmeans[i]))
+  .attr('r', 3)
+  .attr("fill",dvc.essential.colour_palette[2].colour);
+
+
+  d3.select("#svg"+i).append('text')
+  .attr("x",margin.left + 10 +x(filteredgraphic_data[filteredgraphic_data.length-1].date))
+  .attr("y",margin.top + 5 + y[dvc.essential.categorySort[0]](filteredgraphic_data[filteredgraphic_data.length-goback].chiffre2))
+  .attr("font-size","11px")
+  .attr("text-anchor","start")
+  .attr("fill","#666")
+  .attr("class","turq"+i)
+  .text(d3.format("(.1f")(filteredgraphic_data[filteredgraphic_data.length-goback].chiffre2));
+} // no 2nd vacc this time
+}
+
+for(var i=0; i<dvc.essential.categorySort.length; i++) {
+  filteredgraphic_data=graphic_data.filter(function(d) {return d.category==dvc.essential.categorySort[i]})
+  d3.select("#svg"+i).append('circle')
+  .attr('cx',margin.left+x(filteredgraphic_data[filteredgraphic_data.length-1].date))
+  .attr('cy',margin.top + y[dvc.essential.categorySort[0]](filteredgraphic_data[filteredgraphic_data.length-1].chiffre))//y(dvc.essential.altmeans[i]))
+  .attr('r', 3)
+  .attr("fill",dvc.essential.colour_palette[1].colour);
+
+
+  d3.select("#svg"+i).append('text')
+  .attr("x",margin.left + 10 +x(filteredgraphic_data[filteredgraphic_data.length-1].date))
+  .attr("y",margin.top + 5 + y[dvc.essential.categorySort[0]](filteredgraphic_data[filteredgraphic_data.length-1].chiffre))
+  .attr("font-size","11px")
+  .attr("text-anchor","start")
+  .attr("fill","#666")
+  .attr("class","green"+i)
+  .text(d3.format("(.1f")(filteredgraphic_data[filteredgraphic_data.length-1].chiffre));
+}
+
+// bring turquoise line to top
+d3.selectAll(".line2").raise()
+
+// nudge number labels up/down
+
+// d3.selectAll('.dkblue0')
+// .attr('transform', 'translate(0,-5)')
+// // //
+// d3.selectAll('.dkblue1')
+// .attr('transform', 'translate(0,5)')
+// // //
+d3.selectAll('.dkblue2')
+.attr('transform', 'translate(0,8)')
+// //
+d3.selectAll('.dkblue3')
+.attr('transform', 'translate(0,8)')
+//
+d3.selectAll('.dkblue4')
+.attr('transform', 'translate(0,0)')
+// //
+
+// //
+
+// //
+d3.selectAll('.turq0')
+.attr('transform', 'translate(0,0)')
+//
+d3.selectAll('.turq1')
+.attr('transform', 'translate(0,0)')
+// //
+d3.selectAll('.turq2')
+.attr('transform', 'translate(0,00)')
+//
+//
+d3.selectAll('.turq3')
+.attr('transform', 'translate(0,-12)')
+//
+d3.selectAll('.turq4')
+.attr('transform', 'translate(0,-8)')
+
+
+
+
+d3.selectAll('.green0')
+.attr('transform', 'translate(0,0)')
+//
+d3.selectAll('.green1')
+.attr('transform', 'translate(0,0)')
+//
+d3.selectAll('.green2')
+.attr('transform', 'translate(0,0)')
+// // //
+//
+d3.selectAll('.green3')
+.attr('transform', 'translate(0,0)')
+//
+d3.selectAll('.green4')
+.attr('transform', 'translate(0,0)')
+// //
+
+
+
+
+
+          // svg
+          //         .selectAll('g.line')
+          //         .data(function(d) {
+          //           console.log(d.values)
+          //           return d.values;
+          //         })
+          //         .enter()
+          //         .append('path')
+          //         .attr("d", function(d) {
+          //           return line(d.values)
+          //         })
+          //         .attr("class",function(d){return "line"})
+          //         .attr("stroke", "red")
+          //         .attr('stroke-width', "1px")
+
+// calculate refdate and annotation info
+
+firstregion=dvc.essential.categorySort[0];
+firstregiondata=graphic_data.filter(function(d) {return d.category==firstregion})
+refdate=firstregiondata[firstregiondata.length-4].date
+refdateminusone=firstregiondata[firstregiondata.length-5].date
+var formatMonth = d3.timeFormat("%B"),
+    formatDay = d3.timeFormat("%-d");
+datetext=formatDay(refdate)+" "+formatMonth(refdate);
+
+
+
+// add in annotation and dotted line
+        // svg.append("line")
+        // 				  .attr('x1', x(refdate))
+        // 				  .attr('x2', x(refdate))
+        // 				  .style('stroke', '#adadad')
+        // 				  .style('stroke-width', 1)
+        // 				  .style('stroke-dasharray', '5 5')
+        // 				  .attr('y1', 0-25)
+        // 				  .attr('y2', height+0);
+        //
+        // svg.append('text')
+        // .attr("x",x(refdateminusone))
+        // .attr("y", -16)
+        // .attr("font-size","11px")
+        // .attr("text-anchor","end")
+        // .attr("fill",function(d,i){
+        //   if (i==0){return "#666"} else {return "none"}
+        // })
+        // .text("After "+datetext+" 2021, estimates have greater uncertainty")
+        // .call(wrap,180)
+
+        function wrap(text, width) {
+       text.each(function() {
+         var text = d3.select(this),
+           words = text.text().split(/\s+/).reverse(),
+           word,
+           line = [],
+           lineNumber = 0,
+           lineHeight = 1.1, // ems
+           y = text.attr("y"),
+           x = text.attr("x")
+           dy = 0,
+           tspan = text.text(null).append("tspan").attr("x", x).attr("y", y).attr("dy", dy + "em");
+         while (word = words.pop()) {
+           line.push(word);
+           tspan.text(line.join(" "));
+           if (tspan.node().getComputedTextLength() > width) {
+             line.pop();
+             tspan.text(line.join(" "));
+             line = [word];
+             tspan = text.append("tspan").attr("x", x).attr("y", y).attr("dy", ++lineNumber * lineHeight + dy + "em").text(word);
+           }
+         }
+       });
+     }
+
+
+      //create link to source
+      d3.select('#source')
+        .text('Source: ' + dvc.essential.sourceText);
+
+      //use pym to calculate chart dimensions
+      if (pymChild) {
+        pymChild.sendHeight();
+      }
+
+      setInterval(function(){
+  			pymChild.sendHeight();
+  		},1000);
+    }
+
+
+    //check whether browser can cope with svg
+    if (Modernizr.svg) {
+      //load config
+      d3.json("config.json", function(error, config) {
+        dvc = config;
+
+        //load chart data
+        d3.csv(dvc.essential.graphic_data_url, function(error, data) {
+          graphic_data = data;
+
+          graphic_data.forEach(function(d){
+            d.date=d3.timeParse(dvc.essential.dateFormat)(d.date)
+          })
+          //use pym to create iframed chart dependent on specified variables
+          pymChild = new pym.Child({
+            renderCallback: drawGraphic
+          });
+        });
+
+      })
+
+    } else {
+      //use pym to create iframe containing fallback image (which is set as default)
+      pymChild = new pym.Child();
+      if (pymChild) {
+        pymChild.sendHeight();
+      }
+    }
+  </script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a40b1d91ba02a598',t:'MTc5MDM1MDcwMg=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+
+</html>

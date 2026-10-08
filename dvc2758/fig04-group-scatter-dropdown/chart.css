@@ -1,0 +1,32 @@
+.dataLabels{
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.cellsselected {
+  opacity: 1;
+  stroke-width: 2px;
+  /* stroke: #000; */
+  /* fill: orange; */
+  fill-opacity: 0.75;
+}
+
+.hull {
+  opacity:0.5;
+  stroke-linejoin: round;
+  stroke-width:21px;
+}
+
+.hullselected {
+  stroke: #d9d9d9;
+  opacity:1;
+}
+
+h5#source {
+	font: "Open Sans";
+	font-size:16px;
+	font-weight:700;
+	color: #323132;
+
+
+  }

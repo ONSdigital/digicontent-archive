@@ -1,0 +1,43 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02006061,Sedgemoor 001,Cheddar & Axbridge,0,2,1,1,0,0,0,0,1,0,4,3,2,0,covid
+E02006062,Sedgemoor 002,Berrow & Brent Knoll,1,3,0,0,0,0,0,0,1,0,2,4,1,1,covid
+E02006063,Sedgemoor 003,Wedmore & Mark,0,0,0,0,0,0,0,0,1,1,1,1,0,0,covid
+E02006064,Sedgemoor 004,Burnham-on-Sea,0,6,6,0,0,0,0,0,1,2,12,6,1,1,covid
+E02006065,Sedgemoor 005,Highbridge,0,3,2,1,0,1,0,0,1,1,2,0,1,1,covid
+E02006066,Sedgemoor 006,"Pawlett, Puriton & Woolavington",0,2,1,0,0,0,0,0,1,0,2,4,0,0,covid
+E02006067,Sedgemoor 007,"Cannington, Combwich & Nether Stowey",1,0,2,0,0,0,0,0,0,0,0,2,0,0,covid
+E02006068,Sedgemoor 008,Bridgwater North,0,0,0,1,0,0,0,0,1,1,1,3,0,0,covid
+E02006069,Sedgemoor 009,Bridgwater Town,0,3,2,1,0,0,0,0,3,0,1,2,0,0,covid
+E02006070,Sedgemoor 010,Bridgwater East,0,0,1,1,0,0,0,0,0,0,7,6,1,0,covid
+E02006071,Sedgemoor 011,Wembdon & Chilton Trinity,0,6,2,0,0,0,0,0,0,0,2,0,0,0,covid
+E02006072,Sedgemoor 012,"Westonzoyland, Ashcott & Cossington",0,2,2,1,0,0,0,0,2,2,1,2,0,0,covid
+E02006073,Sedgemoor 013,Bridgwater South,0,3,3,0,0,0,0,1,4,4,1,0,1,0,covid
+E02006074,Sedgemoor 014,Stockmoor & North Petherton,0,2,0,0,0,0,0,0,0,0,3,3,1,0,covid
+E02006061,Sedgemoor 001,Cheddar & Axbridge,10,16,6,11,7,11,6,9,12,7,10,8,6,11,noncovid
+E02006062,Sedgemoor 002,Berrow & Brent Knoll,15,17,11,8,8,11,13,17,12,13,13,4,11,6,noncovid
+E02006063,Sedgemoor 003,Wedmore & Mark,5,5,3,8,7,3,7,4,5,4,5,5,1,5,noncovid
+E02006064,Sedgemoor 004,Burnham-on-Sea,22,28,17,11,13,9,12,14,10,18,13,18,12,13,noncovid
+E02006065,Sedgemoor 005,Highbridge,6,15,8,3,3,9,9,6,10,9,7,6,8,11,noncovid
+E02006066,Sedgemoor 006,"Pawlett, Puriton & Woolavington",7,12,6,6,7,5,6,5,5,3,4,11,15,5,noncovid
+E02006067,Sedgemoor 007,"Cannington, Combwich & Nether Stowey",8,8,5,5,6,0,4,7,4,6,5,4,6,6,noncovid
+E02006068,Sedgemoor 008,Bridgwater North,6,4,5,5,3,6,4,6,3,6,3,5,8,10,noncovid
+E02006069,Sedgemoor 009,Bridgwater Town,6,6,7,11,7,4,9,8,4,6,14,11,4,5,noncovid
+E02006070,Sedgemoor 010,Bridgwater East,7,4,6,5,5,5,4,7,3,6,9,6,7,6,noncovid
+E02006071,Sedgemoor 011,Wembdon & Chilton Trinity,10,26,8,3,11,6,11,10,5,8,6,9,9,10,noncovid
+E02006072,Sedgemoor 012,"Westonzoyland, Ashcott & Cossington",8,14,4,12,6,3,7,2,11,13,14,4,12,9,noncovid
+E02006073,Sedgemoor 013,Bridgwater South,13,10,9,6,7,8,9,12,10,9,5,8,5,6,noncovid
+E02006074,Sedgemoor 014,Stockmoor & North Petherton,13,13,7,11,8,11,7,10,10,5,6,11,12,11,noncovid
+E02006061,Sedgemoor 001,Cheddar & Axbridge,10,6,8,7,7,9,10,8,7,9,10,8,10,6,average
+E02006062,Sedgemoor 002,Berrow & Brent Knoll,10,10,9,10,10,11,10,12,12,10,15,10,10,10,average
+E02006063,Sedgemoor 003,Wedmore & Mark,4,3,2,5,4,4,4,4,5,5,5,5,4,3,average
+E02006064,Sedgemoor 004,Burnham-on-Sea,16,15,13,15,15,14,13,16,16,17,17,13,16,15,average
+E02006065,Sedgemoor 005,Highbridge,11,8,9,6,9,6,8,7,6,7,8,9,11,8,average
+E02006066,Sedgemoor 006,"Pawlett, Puriton & Woolavington",6,7,6,6,6,6,6,5,8,5,10,7,6,7,average
+E02006067,Sedgemoor 007,"Cannington, Combwich & Nether Stowey",6,7,6,6,7,4,4,5,7,6,8,6,6,7,average
+E02006068,Sedgemoor 008,Bridgwater North,8,5,5,4,5,5,6,5,4,7,6,7,8,5,average
+E02006069,Sedgemoor 009,Bridgwater Town,8,8,6,5,6,5,5,5,8,6,7,5,8,8,average
+E02006070,Sedgemoor 010,Bridgwater East,6,5,6,4,5,5,5,6,7,5,4,6,6,5,average
+E02006071,Sedgemoor 011,Wembdon & Chilton Trinity,9,7,9,6,7,7,8,7,9,7,12,8,9,7,average
+E02006072,Sedgemoor 012,"Westonzoyland, Ashcott & Cossington",8,6,7,8,7,8,5,8,7,9,7,10,8,6,average
+E02006073,Sedgemoor 013,Bridgwater South,10,11,9,5,6,7,6,8,7,10,11,9,10,11,average
+E02006074,Sedgemoor 014,Stockmoor & North Petherton,6,5,8,5,5,5,7,8,7,8,8,8,6,5,average

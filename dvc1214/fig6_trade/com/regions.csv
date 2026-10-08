@@ -1,0 +1,417 @@
+date,category,series,chiffre
+Apr-08,Fuels ,Exports,8.6
+Jul-08,Fuels ,Exports,10.4
+Oct-08,Fuels ,Exports,9.8
+Jan-09,Fuels ,Exports,7.6
+Apr-09,Fuels ,Exports,6.4
+Jul-09,Fuels ,Exports,6.6
+Oct-09,Fuels ,Exports,6.9
+Jan-10,Fuels ,Exports,8.3
+Apr-10,Fuels ,Exports,9.4
+Jul-10,Fuels ,Exports,9.2
+Oct-10,Fuels ,Exports,8.6
+Jan-11,Fuels ,Exports,10.7
+Apr-11,Fuels ,Exports,11.9
+Jul-11,Fuels ,Exports,11.3
+Oct-11,Fuels ,Exports,10.5
+Jan-12,Fuels ,Exports,12.1
+Apr-12,Fuels ,Exports,12
+Jul-12,Fuels ,Exports,11.9
+Oct-12,Fuels ,Exports,10.5
+Jan-13,Fuels ,Exports,10.9
+Apr-13,Fuels ,Exports,10.7
+Jul-13,Fuels ,Exports,10.8
+Oct-13,Fuels ,Exports,10.1
+Jan-14,Fuels ,Exports,10.4
+Apr-14,Fuels ,Exports,10.5
+Jul-14,Fuels ,Exports,9.3
+Oct-14,Fuels ,Exports,8
+Jan-15,Fuels ,Exports,6.9
+Apr-15,Fuels ,Exports,5.8
+Jul-15,Fuels ,Exports,7.5
+Oct-15,Fuels ,Exports,5.6
+Jan-16,Fuels ,Exports,4.9
+Apr-16,Fuels ,Exports,5.3
+Jul-16,Fuels ,Exports,5.7
+Oct-16,Fuels ,Exports,5.6
+Jan-17,Fuels ,Exports,7.8
+Apr-17,Fuels ,Exports,8.7
+Jul-17,Fuels ,Exports,8.5
+Oct-17,Fuels ,Exports,8.5
+Jan-18,Fuels ,Exports,9
+Apr-18,Fuels ,Exports,8.8
+Jul-18,Fuels ,Exports,12.2
+Oct-18,Fuels ,Exports,12.8
+Jan-19,Fuels ,Exports,10.6
+Apr-19,Fuels ,Exports,9.5
+Jul-19,Fuels ,Exports,10.6
+Oct-19,Fuels ,Exports,11.9
+Jan-20,Fuels ,Exports,11.3
+Apr-20,Fuels ,Exports,6.7
+Jul-20,Fuels ,Exports,5.5
+Oct-20,Fuels ,Exports,5.6
+Jan-21,Fuels ,Exports,5.9
+Apr-08,Fuels ,Imports,11.2
+Jul-08,Fuels ,Imports,14.5
+Oct-08,Fuels ,Imports,11.9
+Jan-09,Fuels ,Imports,10.2
+Apr-09,Fuels ,Imports,8.7
+Jul-09,Fuels ,Imports,8.1
+Oct-09,Fuels ,Imports,8.4
+Jan-10,Fuels ,Imports,9.6
+Apr-10,Fuels ,Imports,10.5
+Jul-10,Fuels ,Imports,10.7
+Oct-10,Fuels ,Imports,10.8
+Jan-11,Fuels ,Imports,14.1
+Apr-11,Fuels ,Imports,15.5
+Jul-11,Fuels ,Imports,15.9
+Oct-11,Fuels ,Imports,16.4
+Jan-12,Fuels ,Imports,17.4
+Apr-12,Fuels ,Imports,17.3
+Jul-12,Fuels ,Imports,16.2
+Oct-12,Fuels ,Imports,16.8
+Jan-13,Fuels ,Imports,17.7
+Apr-13,Fuels ,Imports,17
+Jul-13,Fuels ,Imports,16.2
+Oct-13,Fuels ,Imports,15.7
+Jan-14,Fuels ,Imports,15.4
+Apr-14,Fuels ,Imports,13.6
+Jul-14,Fuels ,Imports,13.5
+Oct-14,Fuels ,Imports,13.5
+Jan-15,Fuels ,Imports,11.5
+Apr-15,Fuels ,Imports,10.1
+Jul-15,Fuels ,Imports,9.3
+Oct-15,Fuels ,Imports,8.8
+Jan-16,Fuels ,Imports,7.3
+Apr-16,Fuels ,Imports,6.8
+Jul-16,Fuels ,Imports,7.4
+Oct-16,Fuels ,Imports,8.6
+Jan-17,Fuels ,Imports,11.3
+Apr-17,Fuels ,Imports,10.7
+Jul-17,Fuels ,Imports,9.4
+Oct-17,Fuels ,Imports,10.3
+Jan-18,Fuels ,Imports,12.9
+Apr-18,Fuels ,Imports,12.6
+Jul-18,Fuels ,Imports,13.1
+Oct-18,Fuels ,Imports,14
+Jan-19,Fuels ,Imports,14.1
+Apr-19,Fuels ,Imports,11.7
+Jul-19,Fuels ,Imports,12.3
+Oct-19,Fuels ,Imports,11.4
+Jan-20,Fuels ,Imports,11.6
+Apr-20,Fuels ,Imports,8.5
+Jul-20,Fuels ,Imports,5.1
+Oct-20,Fuels ,Imports,6.7
+Jan-21,Fuels ,Imports,8.5
+Apr-08,Material manufactures ,Exports,8
+Jul-08,Material manufactures ,Exports,8.5
+Oct-08,Material manufactures ,Exports,8.4
+Jan-09,Material manufactures ,Exports,6.7
+Apr-09,Material manufactures ,Exports,6.1
+Jul-09,Material manufactures ,Exports,5.9
+Oct-09,Material manufactures ,Exports,6.2
+Jan-10,Material manufactures ,Exports,6.4
+Apr-10,Material manufactures ,Exports,7.1
+Jul-10,Material manufactures ,Exports,7.1
+Oct-10,Material manufactures ,Exports,7.2
+Jan-11,Material manufactures ,Exports,8.3
+Apr-11,Material manufactures ,Exports,8.3
+Jul-11,Material manufactures ,Exports,9.1
+Oct-11,Material manufactures ,Exports,8.8
+Jan-12,Material manufactures ,Exports,8.2
+Apr-12,Material manufactures ,Exports,8
+Jul-12,Material manufactures ,Exports,8
+Oct-12,Material manufactures ,Exports,7.8
+Jan-13,Material manufactures ,Exports,7.9
+Apr-13,Material manufactures ,Exports,8.1
+Jul-13,Material manufactures ,Exports,8.5
+Oct-13,Material manufactures ,Exports,7.9
+Jan-14,Material manufactures ,Exports,7.3
+Apr-14,Material manufactures ,Exports,7
+Jul-14,Material manufactures ,Exports,7
+Oct-14,Material manufactures ,Exports,7.4
+Jan-15,Material manufactures ,Exports,7.4
+Apr-15,Material manufactures ,Exports,7
+Jul-15,Material manufactures ,Exports,6.6
+Oct-15,Material manufactures ,Exports,6.4
+Jan-16,Material manufactures ,Exports,6.4
+Apr-16,Material manufactures ,Exports,6.4
+Jul-16,Material manufactures ,Exports,6.2
+Oct-16,Material manufactures ,Exports,7.1
+Jan-17,Material manufactures ,Exports,7.1
+Apr-17,Material manufactures ,Exports,7.3
+Jul-17,Material manufactures ,Exports,7.5
+Oct-17,Material manufactures ,Exports,7.8
+Jan-18,Material manufactures ,Exports,8.1
+Apr-18,Material manufactures ,Exports,8.1
+Jul-18,Material manufactures ,Exports,7.9
+Oct-18,Material manufactures ,Exports,8
+Jan-19,Material manufactures ,Exports,8
+Apr-19,Material manufactures ,Exports,7.9
+Jul-19,Material manufactures ,Exports,8.3
+Oct-19,Material manufactures ,Exports,8.3
+Jan-20,Material manufactures ,Exports,7.6
+Apr-20,Material manufactures ,Exports,7.6
+Jul-20,Material manufactures ,Exports,8.2
+Oct-20,Material manufactures ,Exports,9.2
+Jan-21,Material manufactures ,Exports,8.9
+Apr-08,Material manufactures ,Imports,10.6
+Jul-08,Material manufactures ,Imports,10.7
+Oct-08,Material manufactures ,Imports,10.8
+Jan-09,Material manufactures ,Imports,9.1
+Apr-09,Material manufactures ,Imports,8.7
+Jul-09,Material manufactures ,Imports,8.7
+Oct-09,Material manufactures ,Imports,8.9
+Jan-10,Material manufactures ,Imports,9.7
+Apr-10,Material manufactures ,Imports,10.5
+Jul-10,Material manufactures ,Imports,10.8
+Oct-10,Material manufactures ,Imports,11.1
+Jan-11,Material manufactures ,Imports,12.3
+Apr-11,Material manufactures ,Imports,11.9
+Jul-11,Material manufactures ,Imports,12.7
+Oct-11,Material manufactures ,Imports,12.6
+Jan-12,Material manufactures ,Imports,11.7
+Apr-12,Material manufactures ,Imports,12.1
+Jul-12,Material manufactures ,Imports,12
+Oct-12,Material manufactures ,Imports,12.2
+Jan-13,Material manufactures ,Imports,11.1
+Apr-13,Material manufactures ,Imports,11.8
+Jul-13,Material manufactures ,Imports,11.5
+Oct-13,Material manufactures ,Imports,12.6
+Jan-14,Material manufactures ,Imports,11.2
+Apr-14,Material manufactures ,Imports,10.8
+Jul-14,Material manufactures ,Imports,11.1
+Oct-14,Material manufactures ,Imports,11.2
+Jan-15,Material manufactures ,Imports,10.8
+Apr-15,Material manufactures ,Imports,10.8
+Jul-15,Material manufactures ,Imports,10.6
+Oct-15,Material manufactures ,Imports,10.1
+Jan-16,Material manufactures ,Imports,10.2
+Apr-16,Material manufactures ,Imports,10.8
+Jul-16,Material manufactures ,Imports,11
+Oct-16,Material manufactures ,Imports,12
+Jan-17,Material manufactures ,Imports,12.4
+Apr-17,Material manufactures ,Imports,12.5
+Jul-17,Material manufactures ,Imports,13.2
+Oct-17,Material manufactures ,Imports,13.4
+Jan-18,Material manufactures ,Imports,13.3
+Apr-18,Material manufactures ,Imports,13
+Jul-18,Material manufactures ,Imports,13.8
+Oct-18,Material manufactures ,Imports,14.1
+Jan-19,Material manufactures ,Imports,14.5
+Apr-19,Material manufactures ,Imports,14.7
+Jul-19,Material manufactures ,Imports,14.4
+Oct-19,Material manufactures ,Imports,13.9
+Jan-20,Material manufactures ,Imports,12.9
+Apr-20,Material manufactures ,Imports,11.7
+Jul-20,Material manufactures ,Imports,12.2
+Oct-20,Material manufactures ,Imports,14.8
+Jan-21,Material manufactures ,Imports,14.2
+Apr-08,Machinery & transport equipment ,Exports,23
+Jul-08,Machinery & transport equipment ,Exports,23.3
+Oct-08,Machinery & transport equipment ,Exports,22.1
+Jan-09,Machinery & transport equipment ,Exports,20.5
+Apr-09,Machinery & transport equipment ,Exports,19.9
+Jul-09,Machinery & transport equipment ,Exports,19.5
+Oct-09,Machinery & transport equipment ,Exports,20.3
+Jan-10,Machinery & transport equipment ,Exports,20.9
+Apr-10,Machinery & transport equipment ,Exports,22.1
+Jul-10,Machinery & transport equipment ,Exports,23.6
+Oct-10,Machinery & transport equipment ,Exports,24.3
+Jan-11,Machinery & transport equipment ,Exports,25.6
+Apr-11,Machinery & transport equipment ,Exports,25.8
+Jul-11,Machinery & transport equipment ,Exports,25.5
+Oct-11,Machinery & transport equipment ,Exports,26.7
+Jan-12,Machinery & transport equipment ,Exports,27
+Apr-12,Machinery & transport equipment ,Exports,26
+Jul-12,Machinery & transport equipment ,Exports,26.8
+Oct-12,Machinery & transport equipment ,Exports,25.8
+Jan-13,Machinery & transport equipment ,Exports,26.2
+Apr-13,Machinery & transport equipment ,Exports,27.6
+Jul-13,Machinery & transport equipment ,Exports,28
+Oct-13,Machinery & transport equipment ,Exports,27.9
+Jan-14,Machinery & transport equipment ,Exports,27.6
+Apr-14,Machinery & transport equipment ,Exports,27
+Jul-14,Machinery & transport equipment ,Exports,26.8
+Oct-14,Machinery & transport equipment ,Exports,26.5
+Jan-15,Machinery & transport equipment ,Exports,27.8
+Apr-15,Machinery & transport equipment ,Exports,27.2
+Jul-15,Machinery & transport equipment ,Exports,27.5
+Oct-15,Machinery & transport equipment ,Exports,26.9
+Jan-16,Machinery & transport equipment ,Exports,27.3
+Apr-16,Machinery & transport equipment ,Exports,28.9
+Jul-16,Machinery & transport equipment ,Exports,30.7
+Oct-16,Machinery & transport equipment ,Exports,31.2
+Jan-17,Machinery & transport equipment ,Exports,32.9
+Apr-17,Machinery & transport equipment ,Exports,33.4
+Jul-17,Machinery & transport equipment ,Exports,33.1
+Oct-17,Machinery & transport equipment ,Exports,34.7
+Jan-18,Machinery & transport equipment ,Exports,34.7
+Apr-18,Machinery & transport equipment ,Exports,33.7
+Jul-18,Machinery & transport equipment ,Exports,34.3
+Oct-18,Machinery & transport equipment ,Exports,35.4
+Jan-19,Machinery & transport equipment ,Exports,34.8
+Apr-19,Machinery & transport equipment ,Exports,34.9
+Jul-19,Machinery & transport equipment ,Exports,35.7
+Oct-19,Machinery & transport equipment ,Exports,35.5
+Jan-20,Machinery & transport equipment ,Exports,33.3
+Apr-20,Machinery & transport equipment ,Exports,27.5
+Jul-20,Machinery & transport equipment ,Exports,25.2
+Oct-20,Machinery & transport equipment ,Exports,29.1
+Jan-21,Machinery & transport equipment ,Exports,28.8
+Apr-08,Machinery & transport equipment ,Imports,31
+Jul-08,Machinery & transport equipment ,Imports,31.7
+Oct-08,Machinery & transport equipment ,Imports,29.6
+Jan-09,Machinery & transport equipment ,Imports,27
+Apr-09,Machinery & transport equipment ,Imports,25.8
+Jul-09,Machinery & transport equipment ,Imports,26.5
+Oct-09,Machinery & transport equipment ,Imports,27.8
+Jan-10,Machinery & transport equipment ,Imports,28.9
+Apr-10,Machinery & transport equipment ,Imports,30.8
+Jul-10,Machinery & transport equipment ,Imports,32.6
+Oct-10,Machinery & transport equipment ,Imports,32.5
+Jan-11,Machinery & transport equipment ,Imports,33.7
+Apr-11,Machinery & transport equipment ,Imports,31.6
+Jul-11,Machinery & transport equipment ,Imports,31.7
+Oct-11,Machinery & transport equipment ,Imports,32.5
+Jan-12,Machinery & transport equipment ,Imports,33.4
+Apr-12,Machinery & transport equipment ,Imports,33.4
+Jul-12,Machinery & transport equipment ,Imports,32.5
+Oct-12,Machinery & transport equipment ,Imports,32.3
+Jan-13,Machinery & transport equipment ,Imports,32.5
+Apr-13,Machinery & transport equipment ,Imports,33.2
+Jul-13,Machinery & transport equipment ,Imports,35.8
+Oct-13,Machinery & transport equipment ,Imports,36.5
+Jan-14,Machinery & transport equipment ,Imports,35.7
+Apr-14,Machinery & transport equipment ,Imports,35.4
+Jul-14,Machinery & transport equipment ,Imports,37.3
+Oct-14,Machinery & transport equipment ,Imports,35.5
+Jan-15,Machinery & transport equipment ,Imports,37.7
+Apr-15,Machinery & transport equipment ,Imports,38.3
+Jul-15,Machinery & transport equipment ,Imports,37.7
+Oct-15,Machinery & transport equipment ,Imports,38
+Jan-16,Machinery & transport equipment ,Imports,37.7
+Apr-16,Machinery & transport equipment ,Imports,41.6
+Jul-16,Machinery & transport equipment ,Imports,41.6
+Oct-16,Machinery & transport equipment ,Imports,44
+Jan-17,Machinery & transport equipment ,Imports,44.1
+Apr-17,Machinery & transport equipment ,Imports,45.2
+Jul-17,Machinery & transport equipment ,Imports,45.1
+Oct-17,Machinery & transport equipment ,Imports,45.8
+Jan-18,Machinery & transport equipment ,Imports,44.2
+Apr-18,Machinery & transport equipment ,Imports,42.7
+Jul-18,Machinery & transport equipment ,Imports,45
+Oct-18,Machinery & transport equipment ,Imports,45.6
+Jan-19,Machinery & transport equipment ,Imports,46.8
+Apr-19,Machinery & transport equipment ,Imports,47
+Jul-19,Machinery & transport equipment ,Imports,46.4
+Oct-19,Machinery & transport equipment ,Imports,47.1
+Jan-20,Machinery & transport equipment ,Imports,41.1
+Apr-20,Machinery & transport equipment ,Imports,35.6
+Jul-20,Machinery & transport equipment ,Imports,33.5
+Oct-20,Machinery & transport equipment ,Imports,38.2
+Jan-21,Machinery & transport equipment ,Imports,41.7
+Apr-08,Miscellaneous manufactures ,Exports,6.8
+Jul-08,Miscellaneous manufactures ,Exports,6.8
+Oct-08,Miscellaneous manufactures ,Exports,7
+Jan-09,Miscellaneous manufactures ,Exports,6.7
+Apr-09,Miscellaneous manufactures ,Exports,6.7
+Jul-09,Miscellaneous manufactures ,Exports,6.6
+Oct-09,Miscellaneous manufactures ,Exports,6.5
+Jan-10,Miscellaneous manufactures ,Exports,6.9
+Apr-10,Miscellaneous manufactures ,Exports,7.4
+Jul-10,Miscellaneous manufactures ,Exports,7.5
+Oct-10,Miscellaneous manufactures ,Exports,7.4
+Jan-11,Miscellaneous manufactures ,Exports,7.7
+Apr-11,Miscellaneous manufactures ,Exports,8
+Jul-11,Miscellaneous manufactures ,Exports,8.1
+Oct-11,Miscellaneous manufactures ,Exports,8.2
+Jan-12,Miscellaneous manufactures ,Exports,8.1
+Apr-12,Miscellaneous manufactures ,Exports,8.1
+Jul-12,Miscellaneous manufactures ,Exports,8.4
+Oct-12,Miscellaneous manufactures ,Exports,8.6
+Jan-13,Miscellaneous manufactures ,Exports,8.6
+Apr-13,Miscellaneous manufactures ,Exports,8.5
+Jul-13,Miscellaneous manufactures ,Exports,9
+Oct-13,Miscellaneous manufactures ,Exports,8.9
+Jan-14,Miscellaneous manufactures ,Exports,8.8
+Apr-14,Miscellaneous manufactures ,Exports,8.9
+Jul-14,Miscellaneous manufactures ,Exports,9.1
+Oct-14,Miscellaneous manufactures ,Exports,9.4
+Jan-15,Miscellaneous manufactures ,Exports,9.9
+Apr-15,Miscellaneous manufactures ,Exports,9.7
+Jul-15,Miscellaneous manufactures ,Exports,9.6
+Oct-15,Miscellaneous manufactures ,Exports,9.9
+Jan-16,Miscellaneous manufactures ,Exports,10
+Apr-16,Miscellaneous manufactures ,Exports,10.5
+Jul-16,Miscellaneous manufactures ,Exports,10.6
+Oct-16,Miscellaneous manufactures ,Exports,10.8
+Jan-17,Miscellaneous manufactures ,Exports,11.1
+Apr-17,Miscellaneous manufactures ,Exports,11.3
+Jul-17,Miscellaneous manufactures ,Exports,11.5
+Oct-17,Miscellaneous manufactures ,Exports,11.8
+Jan-18,Miscellaneous manufactures ,Exports,11.7
+Apr-18,Miscellaneous manufactures ,Exports,11.7
+Jul-18,Miscellaneous manufactures ,Exports,11.6
+Oct-18,Miscellaneous manufactures ,Exports,12.1
+Jan-19,Miscellaneous manufactures ,Exports,12
+Apr-19,Miscellaneous manufactures ,Exports,13.7
+Jul-19,Miscellaneous manufactures ,Exports,14
+Oct-19,Miscellaneous manufactures ,Exports,14.4
+Jan-20,Miscellaneous manufactures ,Exports,13.3
+Apr-20,Miscellaneous manufactures ,Exports,10
+Jul-20,Miscellaneous manufactures ,Exports,10.2
+Oct-20,Miscellaneous manufactures ,Exports,11.4
+Jan-21,Miscellaneous manufactures ,Exports,11.9
+Apr-08,Miscellaneous manufactures ,Imports,11.8
+Jul-08,Miscellaneous manufactures ,Imports,12
+Oct-08,Miscellaneous manufactures ,Imports,12.2
+Jan-09,Miscellaneous manufactures ,Imports,12.3
+Apr-09,Miscellaneous manufactures ,Imports,12.1
+Jul-09,Miscellaneous manufactures ,Imports,11.5
+Oct-09,Miscellaneous manufactures ,Imports,11.6
+Jan-10,Miscellaneous manufactures ,Imports,12
+Apr-10,Miscellaneous manufactures ,Imports,12.4
+Jul-10,Miscellaneous manufactures ,Imports,13.1
+Oct-10,Miscellaneous manufactures ,Imports,13.2
+Jan-11,Miscellaneous manufactures ,Imports,13.3
+Apr-11,Miscellaneous manufactures ,Imports,13
+Jul-11,Miscellaneous manufactures ,Imports,13.8
+Oct-11,Miscellaneous manufactures ,Imports,13.7
+Jan-12,Miscellaneous manufactures ,Imports,13.5
+Apr-12,Miscellaneous manufactures ,Imports,13.8
+Jul-12,Miscellaneous manufactures ,Imports,13.8
+Oct-12,Miscellaneous manufactures ,Imports,13.9
+Jan-13,Miscellaneous manufactures ,Imports,13.9
+Apr-13,Miscellaneous manufactures ,Imports,13.9
+Jul-13,Miscellaneous manufactures ,Imports,14.3
+Oct-13,Miscellaneous manufactures ,Imports,14.5
+Jan-14,Miscellaneous manufactures ,Imports,14.7
+Apr-14,Miscellaneous manufactures ,Imports,14.5
+Jul-14,Miscellaneous manufactures ,Imports,14.9
+Oct-14,Miscellaneous manufactures ,Imports,15.1
+Jan-15,Miscellaneous manufactures ,Imports,15.3
+Apr-15,Miscellaneous manufactures ,Imports,15.5
+Jul-15,Miscellaneous manufactures ,Imports,15.6
+Oct-15,Miscellaneous manufactures ,Imports,15.7
+Jan-16,Miscellaneous manufactures ,Imports,16.1
+Apr-16,Miscellaneous manufactures ,Imports,17.9
+Jul-16,Miscellaneous manufactures ,Imports,16.8
+Oct-16,Miscellaneous manufactures ,Imports,17.6
+Jan-17,Miscellaneous manufactures ,Imports,18.2
+Apr-17,Miscellaneous manufactures ,Imports,17.8
+Jul-17,Miscellaneous manufactures ,Imports,18.8
+Oct-17,Miscellaneous manufactures ,Imports,18.6
+Jan-18,Miscellaneous manufactures ,Imports,18.7
+Apr-18,Miscellaneous manufactures ,Imports,17.9
+Jul-18,Miscellaneous manufactures ,Imports,18.4
+Oct-18,Miscellaneous manufactures ,Imports,18.8
+Jan-19,Miscellaneous manufactures ,Imports,19.1
+Apr-19,Miscellaneous manufactures ,Imports,20.1
+Jul-19,Miscellaneous manufactures ,Imports,20.3
+Oct-19,Miscellaneous manufactures ,Imports,19.5
+Jan-20,Miscellaneous manufactures ,Imports,17.8
+Apr-20,Miscellaneous manufactures ,Imports,15.5
+Jul-20,Miscellaneous manufactures ,Imports,15.2
+Oct-20,Miscellaneous manufactures ,Imports,20.1
+Jan-21,Miscellaneous manufactures ,Imports,18.3

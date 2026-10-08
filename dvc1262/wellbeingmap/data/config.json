@@ -1,0 +1,12 @@
+{"ons":{
+"maptitle": "Interactive map: Personal well-being scores by local authority ",
+"varcolour": [["#d5f690","#5bc4b1","#2e9daa","#0079a2","#005583"],["#005583","#0079a2","#2e9daa","#5bc4b1","#d5f690"],["#005583","#0079a2","#2e9daa","#5bc4b1","#d5f690"],["#005583","#0079a2","#2e9daa","#5bc4b1","#d5f690"]],
+"varlabels": ["Anxiety","Happiness","Life satisfaction","Worthwhile"],
+"varload": 0,
+"varunit": ["Average score out of 10","Average score out of 10","Average score out of 10","Average score out of 10"],
+"displaydecimals": 1,
+"legenddecimals": 1,
+"breaks": [["jenks"],["jenks"],["jenks"],["jenks"]],
+"dropticks": false,
+"numberBreaks": [5,5,5,5]
+}}

@@ -1,0 +1,175 @@
+name,group,migrant_ratio,migrant_HE_plus_perc
+Hartlepool,grp1,0.23,33.33
+Middlesbrough,grp1,0.72,36.85
+Redcar and Cleveland,grp1,0.17,36.01
+Stockton-on-Tees,grp1,0.37,43.10
+Darlington,grp1,0.45,37.18
+Halton,grp1,0.28,35.20
+Warrington,grp1,0.54,41.53
+Blackburn with Darwen,grp1,1.11,20.17
+Blackpool,grp1,0.46,34.00
+Kingston upon Hull,grp1,0.76,28.72
+East Riding of Yorkshire,grp1,0.28,41.82
+North East Lincolnshire,grp1,0.38,30.51
+North Lincolnshire,grp1,0.55,27.09
+York,grp1,0.61,53.54
+Derby,grp1,1.16,32.58
+Leicester,grp1,2.50,25.46
+Rutland,grp1,0.45,47.97
+Nottingham,grp1,1.43,37.73
+Herefordshire,grp1,0.49,39.41
+Telford and Wrekin,grp1,0.67,33.01
+Stoke-on-Trent,grp1,0.77,31.41
+Bath and North East Somerset,grp1,0.70,53.30
+Bristol,grp1,1.12,48.39
+North Somerset,grp1,0.49,44.99
+South Gloucestershire,grp1,0.62,50.84
+Plymouth,grp1,0.54,40.43
+Torbay,grp1,0.41,40.18
+Swindon,grp1,1.21,37.67
+Peterborough,grp1,1.72,29.84
+Luton,grp1,2.41,32.62
+Southend-on-Sea,grp1,0.75,43.01
+Thurrock,grp1,1.32,45.98
+Medway,grp1,0.85,43.38
+Bracknell Forest,grp1,1.05,50.35
+West Berkshire,grp1,0.71,52.40
+Reading,grp1,1.98,48.91
+Slough,grp1,2.83,38.19
+Windsor and Maidenhead,grp1,1.28,55.50
+Wokingham,grp1,1.12,62.13
+Milton Keynes,grp1,1.57,47.67
+Brighton and Hove,grp1,1.14,53.41
+Portsmouth,grp1,1.00,42.72
+Southampton,grp1,1.42,44.00
+Isle of Wight,grp1,0.35,44.69
+County Durham,grp1,0.25,46.10
+Cheshire East,grp1,0.48,44.87
+Cheshire West and Chester,grp1,0.42,47.30
+Shropshire,grp1,0.34,41.94
+Cornwall,grp1,0.31,43.79
+Isles of Scilly,grp1,0.29,57.89
+Wiltshire,grp1,0.58,42.80
+Bedford,grp1,1.30,36.96
+Central Bedfordshire,grp1,0.67,48.01
+Northumberland,grp1,0.20,46.31
+"Bournemouth, Christchurch and Poole",grp1,0.90,45.80
+Dorset,grp1,0.37,43.39
+Buckinghamshire,grp1,1.01,49.18
+North Northamptonshire,grp1,0.92,33.99
+West Northamptonshire,grp1,1.12,37.66
+Bolton,grp1,0.98,26.08
+Bury,grp1,0.70,34.09
+Manchester,grp1,1.83,40.92
+Oldham,grp1,0.99,21.27
+Rochdale,grp1,0.92,26.93
+Salford,grp1,1.11,45.12
+Stockport,grp1,0.56,49.84
+Tameside,grp1,0.61,31.44
+Trafford,grp1,0.89,53.71
+Wigan,grp1,0.36,36.84
+Knowsley,grp1,0.30,44.19
+Liverpool,grp1,0.85,42.58
+St. Helens,grp1,0.29,39.67
+Sefton,grp1,0.37,37.31
+Wirral,grp1,0.32,43.83
+Barnsley,grp1,0.38,31.17
+Doncaster,grp1,0.61,28.05
+Rotherham,grp1,0.40,30.01
+Sheffield,grp1,0.86,41.67
+Newcastle upon Tyne,grp1,0.98,46.41
+North Tyneside,grp1,0.32,50.24
+South Tyneside,grp1,0.26,39.04
+Sunderland,grp1,0.30,45.67
+Birmingham,grp1,1.64,31.15
+Coventry,grp1,1.65,37.32
+Dudley,grp1,0.47,31.20
+Sandwell,grp1,1.44,24.70
+Solihull,grp1,0.61,52.52
+Walsall,grp1,0.89,27.75
+Wolverhampton,grp1,1.37,28.65
+Bradford,grp1,1.17,23.55
+Calderdale,grp1,0.51,31.43
+Kirklees,grp1,0.77,27.23
+Leeds,grp1,0.93,41.24
+Wakefield,grp1,0.50,32.37
+Gateshead,grp1,0.42,41.82
+City of London,grp1,2.70,76.16
+Barking and Dagenham,grp1,2.70,42.19
+Barnet,grp1,2.65,49.16
+Bexley,grp1,1.30,50.68
+Brent,grp1,3.41,36.59
+Bromley,grp1,1.24,59.31
+Camden,grp1,2.64,60.26
+Croydon,grp1,2.16,44.54
+Ealing,grp1,3.09,41.08
+Enfield,grp1,2.55,33.84
+Greenwich,grp1,2.33,52.91
+Hackney,grp1,2.48,50.23
+Hammersmith and Fulham,grp1,2.67,60.31
+Haringey,grp1,2.78,40.88
+Harrow,grp1,3.12,43.57
+Havering,grp1,1.19,48.70
+Hillingdon,grp1,2.38,42.40
+Hounslow,grp1,3.03,43.05
+Islington,grp1,2.38,59.52
+Kensington and Chelsea,grp1,3.07,63.71
+Kingston upon Thames,grp1,2.03,57.04
+Lambeth,grp1,2.30,49.49
+Lewisham,grp1,2.21,49.14
+Merton,grp1,2.51,50.37
+Newham,grp1,3.31,40.16
+Redbridge,grp1,2.70,43.06
+Richmond upon Thames,grp1,1.71,65.40
+Southwark,grp1,2.46,54.62
+Sutton,grp1,1.72,53.77
+Tower Hamlets,grp1,2.86,51.90
+Waltham Forest,grp1,2.41,39.57
+Wandsworth,grp1,2.26,59.54
+Westminster,grp1,3.17,60.57
+Cambridgeshire,grp1,1.10,57.46
+Cumbria,grp1,0.28,42.67
+Derbyshire,grp1,0.27,42.14
+Devon,grp1,0.41,47.77
+East Sussex,grp1,0.58,46.40
+Essex,grp1,0.61,48.23
+Gloucestershire,grp1,0.58,44.96
+Hampshire,grp1,0.63,46.60
+Hertfordshire,grp1,1.10,51.05
+Kent,grp1,0.74,46.31
+Lancashire,grp1,0.53,31.97
+Leicestershire,grp1,0.57,41.38
+Lincolnshire,grp1,0.58,31.48
+Norfolk,grp1,0.55,39.83
+North Yorkshire,grp1,0.37,41.64
+Nottinghamshire,grp1,0.47,42.15
+Oxfordshire,grp1,1.10,54.60
+Somerset,grp1,0.49,41.83
+Staffordshire,grp1,0.37,38.45
+Suffolk,grp1,0.61,39.16
+Surrey,grp1,1.07,55.10
+Warwickshire,grp1,0.73,44.83
+West Sussex,grp1,0.76,43.60
+Worcestershire,grp1,0.47,38.64
+Isle of Anglesey,grp1,0.20,42.62
+Gwynedd,grp1,0.32,48.57
+Conwy,grp1,0.30,44.90
+Denbighshire,grp1,0.27,43.39
+Flintshire,grp1,0.38,32.57
+Wrexham,grp1,0.46,35.61
+Ceredigion,grp1,0.40,47.03
+Pembrokeshire,grp1,0.28,42.15
+Carmarthenshire,grp1,0.29,39.90
+Swansea,grp1,0.54,45.32
+Neath Port Talbot,grp1,0.21,33.33
+Bridgend,grp1,0.25,41.29
+Vale of Glamorgan,grp1,0.34,51.29
+Cardiff,grp1,0.97,46.70
+Rhondda Cynon Taf,grp1,0.22,42.30
+Caerphilly,grp1,0.18,40.02
+Blaenau Gwent,grp1,0.19,29.57
+Torfaen,grp1,0.21,36.97
+Monmouthshire,grp1,0.31,51.54
+Newport,grp1,0.72,38.01
+Powys,grp1,0.28,39.32
+Merthyr Tydfil,grp1,0.33,31.40

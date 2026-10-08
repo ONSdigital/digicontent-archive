@@ -1,0 +1,92 @@
+﻿AREACD,AREANM,SOC1,Employees,Change in over 55 years,Proportion over 55 years
+SOC111,Chief Executives and Senior Officials,"Managers, Driector & Senior Officials",120910,0.1,42
+SOC112,Production Managers and Directors,"Managers, Driector & Senior Officials",438240,1.9,30.4
+SOC113,Functional Managers and Directors,"Managers, Driector & Senior Officials",1128550,0.5,21.6
+SOC115,Financial Institution Managers and Directors,"Managers, Driector & Senior Officials",129380,12.3,25.3
+SOC116,Managers and Directors in Transport and Logistics,"Managers, Driector & Senior Officials",210660,6.4,21.2
+SOC117,Senior Officers in Protective Services,"Managers, Driector & Senior Officials",52590,2.4,8.8
+SOC118,Health and Social Services Managers and Directors,"Managers, Driector & Senior Officials",98960,5.6,31.9
+SOC119,Managers and Directors in Retail and Wholesale,"Managers, Driector & Senior Officials",300290,0.4,20.7
+SOC121,Managers and Proprietors in Agriculture Related Srvcs,"Managers, Driector & Senior Officials",35530,3.3,44.3
+SOC122,Managers and Proprietors in Hsptlty and Leisure Srvcs,"Managers, Driector & Senior Officials",258580,-0.9,21.2
+SOC124,Managers and Proprietors in Health and Care Services,"Managers, Driector & Senior Officials",81280,1.7,29
+SOC125,Managers and Proprietors in Other Services,"Managers, Driector & Senior Officials",545540,1.5,33.4
+SOC211,Natural and Social Science Professionals,Professional Occupations,289030,-0.7,13.6
+SOC212,Engineering Professionals,Professional Occupations,532280,-2.5,16.7
+SOC213,IT and Telecommunications Professionals,Professional Occupations,1372970,1.5,11.8
+SOC214,Conservation and Environment Professionals,Professional Occupations,63490,4.7,22.7
+SOC215,Research and Development Managers ,Professional Occupations,71060,0.9,14.5
+SOC221,Health Professionals,Professional Occupations,649530,0.9,16.4
+SOC222,Therapy Professionals,Professional Occupations,205760,0.2,18.3
+SOC223,Nursing and Midwifery Professionals,Professional Occupations,587700,5.8,23.9
+SOC231,Teaching and Educational Professionals,Professional Occupations,1653170,-0.2,19.2
+SOC241,Legal Professionals,Professional Occupations,241710,-1.4,17
+SOC242,"Business, Research and Administrative Professionals",Professional Occupations,919690,0.8,17.2
+SOC243,"Architects, Town Planners and Surveyors",Professional Occupations,248150,1.9,21.3
+SOC244,Welfare Professionals,Professional Occupations,223600,5.3,32.7
+SOC245,Librarians and Related Professionals,Professional Occupations,41320,2,29.5
+SOC246,Quality and Regulatory Professionals,Professional Occupations,178070,-1.5,17.2
+SOC247,Media Professionals,Associate Professional and Technical Occupations,221290,2,15.1
+SOC311,"Science, Engineering and Production Technicians",Associate Professional and Technical Occupations,315280,-0.7,18.2
+SOC312,Draughtspersons and Related Architectural Technicians,Associate Professional and Technical Occupations,70830,-1.3,18
+SOC313,Information Technology Technicians,Associate Professional and Technical Occupations,256460,2.7,11.4
+SOC321,Health Associate Professionals,Associate Professional and Technical Occupations,182340,2.4,23
+SOC323,Welfare and Housing Associate Professionals,Associate Professional and Technical Occupations,372560,3.5,24.9
+SOC331,Protective Service Occupations,Associate Professional and Technical Occupations,337240,3.9,10.4
+SOC341,"Artistic, Literary and Media Occupations",Associate Professional and Technical Occupations,424580,0.9,23.5
+SOC342,Design Occupations,Associate Professional and Technical Occupations,188480,-0.4,13.2
+SOC344,Sports and Fitness Occupations,Associate Professional and Technical Occupations,168060,6.4,17.6
+SOC351,Transport Associate Professionals,Associate Professional and Technical Occupations,43930,4.4,22.1
+SOC352,Legal Associate Professionals,Associate Professional and Technical Occupations,105330,2.4,16.9
+SOC353,"Business, Finance and Related Associate Professionals",Associate Professional and Technical Occupations,892070,-1.4,14.5
+SOC354,"Sales, Marketing and Related Associate Professionals",Associate Professional and Technical Occupations,1003680,0.7,14.2
+SOC355,Conservation and Environmental Assct Professionals,Associate Professional and Technical Occupations,7540,24.8,42.5
+SOC356,Public Services and Other Associate Professionals,Associate Professional and Technical Occupations,584620,-0.7,20.5
+SOC411,Administrative Occupations: Gvrnmnt and Related Orgs,Administrative &Secretarial Occupations,471110,5.2,26.2
+SOC412,Administrative Occupations: Finance,Administrative &Secretarial Occupations,805210,2.7,23.4
+SOC413,Administrative Occupations: Records,Administrative &Secretarial Occupations,415370,3,19.5
+SOC415,Other Administrative Occupations,Administrative &Secretarial Occupations,791400,1.2,22.1
+SOC416,Administrative Occupations: Office Mngrs and Sprvsrs,Administrative &Secretarial Occupations,216660,2.4,22.8
+SOC421,Secretarial and Related Occupations,Administrative &Secretarial Occupations,587610,3.2,30.2
+SOC511,Agricultural and Related Trades,Skilled Trades Occupations,315200,-1.1,36.6
+SOC521,"Metal Forming, Welding and Related Trades",Skilled Trades Occupations,63750,8.8,29.7
+SOC522,"Metal Machining, Fitting and Instrument Making Trades",Skilled Trades Occupations,248400,1.5,24.4
+SOC523,Vehicle Trades,Skilled Trades Occupations,281990,6.6,21.9
+SOC524,Electrical and Electronic Trades,Skilled Trades Occupations,402050,-0.8,18.6
+SOC525,"Skilled Metal, Electrical and Electronic Trds Sprvsrs",Skilled Trades Occupations,34030,-9.2,21.2
+SOC531,Construction and Building Trades,Skilled Trades Occupations,705650,2.8,22.2
+SOC532,Building Finishing Trades,Skilled Trades Occupations,162630,7.9,29
+SOC533,Construction and Building Trades Supervisors,Skilled Trades Occupations,49170,0.6,23.6
+SOC541,Textiles and Garments Trades,Skilled Trades Occupations,41260,13.6,38.7
+SOC542,Printing Trades,Skilled Trades Occupations,27280,8.6,33.4
+SOC543,Food Preparation and Hospitality Trades,Skilled Trades Occupations,406500,3.9,18.1
+SOC544,Other Skilled Trades,Skilled Trades Occupations,111880,1.1,26.7
+SOC612,Childcare and Related Personal Services,"Caring, Leisure & Other Service Occupations",812160,4.4,17.4
+SOC613,Animal Care and Control Services,"Caring, Leisure & Other Service Occupations",110030,2.1,15.6
+SOC614,Caring Personal Services,"Caring, Leisure & Other Service Occupations",1436760,3.4,23.9
+SOC621,Leisure and Travel Services,"Caring, Leisure & Other Service Occupations",152940,3.2,18.4
+SOC622,Hairdressers and Related Services,"Caring, Leisure & Other Service Occupations",236610,6.8,14.5
+SOC623,Housekeeping and Related Services,"Caring, Leisure & Other Service Occupations",100900,1.9,44
+SOC624,Cleaning and Housekeeping Managers and Supervisors,"Caring, Leisure & Other Service Occupations",70170,7.1,23.6
+SOC711,Sales Assistants and Retail Cashiers,Sales & Customer Service Occupations,1254800,3.6,18.6
+SOC712,Sales Related Occupations,Sales & Customer Service Occupations,159610,2.5,19.9
+SOC713,Sales Supervisors,Sales & Customer Service Occupations,158790,2.7,11.5
+SOC721,Customer Service Occupations,Sales & Customer Service Occupations,501330,2.9,14.4
+SOC722,Customer Service Managers and Supervisors,Sales & Customer Service Occupations,198300,4.5,15.8
+SOC811,Process Operatives,"Process, Plant & Machine Occupations",245680,5.5,22.1
+SOC812,Plant and Machine Operatives,"Process, Plant & Machine Occupations",143050,5.7,25
+SOC813,Assemblers and Routine Operatives,"Process, Plant & Machine Occupations",216930,4.6,22.8
+SOC814,Construction Operatives,"Process, Plant & Machine Occupations",129760,5.1,24.4
+SOC821,Road Transport Drivers,"Process, Plant & Machine Occupations",864900,6.3,35.1
+SOC822,Mobile Machine Drivers and Operatives,"Process, Plant & Machine Occupations",125320,10.8,26.1
+SOC823,Other Drivers and Transport Operatives,"Process, Plant & Machine Occupations",71240,4.5,24.3
+SOC911,Elementary Agricultural Occupations,Elementary Occupations,80980,0.1,26.7
+SOC912,Elementary Construction Occupations,Elementary Occupations,139720,6.7,20.3
+SOC913,Elementary Process Plant Occupations,Elementary Occupations,380980,10.1,25.9
+SOC921,Elementary Administration Occupations,Elementary Occupations,216580,9.2,28.5
+SOC923,Elementary Cleaning Occupations,Elementary Occupations,470700,8,33.2
+SOC924,Elementary Security Occupations,Elementary Occupations,306450,-0.3,24.2
+SOC925,Elementary Sales Occupations,Elementary Occupations,93180,4.5,19.1
+SOC926,Elementary Storage Occupations,Elementary Occupations,448720,2.5,17.4
+SOC927,Other Elementary Services Occupations,Elementary Occupations,850260,1.8,11.5
+A,Average,0,32041740,2.2,20.9

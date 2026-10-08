@@ -1,0 +1,102 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "reference": "max",
+    "comparison": "min",
+    "dateFormat": "%d/%m/%Y",
+    "legendLabels": [],
+    "LegendPosition_x": [-30, -30, -30],
+    "LegendPosition_y":[-70,-50, -30],
+    "colour_palette": ["#206095", "#E2E2E3","#E2E2E3","#206095"],
+    "legendStyle": ["line", "rect","rect","line"],
+    "plotLines": [{
+      "key": "mean",
+      "colour": "#206095",
+
+      "strokewidth":"2px",
+      "strokedasharray": ""
+    },
+    {
+      "key": "latest",
+      "colour": "#206095",
+
+      "strokewidth":"2px",
+      "strokedasharray":"7 7"
+    }
+
+  ],
+    "directLabels": [{
+        "variable": "mean",
+        "label": "",
+        "colour": "#206095"
+      }
+    ],
+    "sourceText": ["Office for National Statistics – COVID-19 Infection Survey"],
+    "circles": false,
+    "yAxisLabel": "Percentage testing positive for COVID-19",
+    "xAxisLabel": "",
+    "yAxisScale": [0, 2.8],
+    "yAxisBreak": false,
+    "yAxisBreakValue": {
+      "sm": 11,
+      "md": 11,
+      "lg": 11
+    },
+    "altmeans": [0.26,0.22,0.41,1.01,1.32,1.36
+    ],
+    "altmins": [0.08,0.05,0.19,0.64,0.68,0.73
+    ],
+    "altmaxs": [0.64,0.60,0.78,1.50,2.38,2.31
+    ],
+    "altdates":["24/09/2020","01/10/2020","08/10/2020","16/10/2020","20/10/2020","28/10/2020"
+    ]
+  },
+
+
+
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 40,
+        "right": 40,
+        "bottom": 50,
+        "left": 20
+      },
+      "md": {
+        "top": 40,
+        "right": 100,
+        "bottom": 50,
+        "left": 20
+      },
+      "lg": {
+        "top": 40,
+        "right": 100,
+        "bottom": 50,
+        "left": 20
+      }
+    },
+
+    "aspectRatio": {
+      "sm": [16, 10],
+      "md": [16, 8],
+      "lg": [16, 8]
+    },
+
+    "mobileBreakpoint": 500,
+    "middleBreakpoint": 600,
+
+    "x_ticks_every": {
+      "sm": 7,
+      "md": 7,
+      "lg": 7
+    },
+    "y_num_ticks": {
+      "sm": 4,
+      "md": 4,
+      "lg": 4
+    },
+
+    "lineMarkers": false
+
+  }
+}

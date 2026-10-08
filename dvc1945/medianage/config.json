@@ -1,0 +1,70 @@
+{
+  "essential": {
+    "graphic_data_url": "regions.csv",
+    "dateFormat": "%d/%m/%Y",
+    "displayTicksFormat":"%b %y",
+    "colour_palette": [{
+        "key": "COVID-19",
+        "colour": "#206095"
+      },
+      {
+        "key": "Flu and pnuemonia",
+        "colour": "#118C7B"
+      }
+    ],
+    "categorySort": {
+      "on":true,
+      "sortby":["South East","North West","East","West Midlands","London","Yorkshire and The Humber","South West","East Midlands","North East","Wales"]
+      },
+    "sourceText": ["Office for National Statistics"],
+    "xAxisLabel": "",
+    "yAxisLabel": "Mean age of monthly deaths",
+    "yAxisScale": [70,92],
+    "screenreadertext":"The chart canvas is hidden from screen readers. The main message is summarised by the chart title and the data behind the chart is available to download below."
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 30,
+        "right": 23,
+        "bottom": 45,
+        "left": 50
+      },
+      "md": {
+        "top": 30,
+        "right": 23,
+        "bottom": 50,
+        "left": 50
+      },
+      "lg": {
+        "top": 30,
+        "right": 23,
+        "bottom": 45,
+        "left": 35
+      }
+    },
+    "chart_every":{
+      "sm": 1,
+      "md": 2,
+      "lg": 3
+    },
+    "aspectRatio": {
+      "sm": [16, 8],
+      "md": [16, 8],
+      "lg": [16, 16]
+    },
+    "legendHeight":{
+      "sm": 45,
+      "md": 30,
+      "lg": 30
+    },
+
+    "mobileBreakpoint": 480,
+    "middleBreakpoint": 670,
+    "x_ticks_every": {
+      "sm": 12,
+      "md": 12,
+      "lg": 12
+    }
+  }
+}

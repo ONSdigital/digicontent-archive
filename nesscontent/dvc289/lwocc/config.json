@@ -1,0 +1,59 @@
+{
+    "essential" : {
+		
+			"GraphType" : "clusterBar" , 
+			
+            "graphic_data_url": "Cluster.csv",
+        
+            "dateFormat":"%Y-%y",
+        
+            "legendLabels" :[ "London" , "The rest of the UK" ],
+			
+			"sourceText":["Annual Survey of Hours and Earnings, ONS"],
+            "sourceURL":["http://www.ons.gov.uk/ons/rel/ashe/annual-survey-of-hours-and-earnings/index.html"],
+        
+            "annotationChart": [
+                ""
+            ],
+            "annotationBullet": [
+                ""
+            ],
+            "annotationXY":[
+                [30, "2013-14"]
+            ],
+            "annotationAlign":[
+                "start"
+            ],
+        
+            "circles" : false,    
+            "annotationCXCY":[
+                ["Apr-93","68.4"],
+                ["Apr-08","73"]
+            ],
+        
+            "yAxisLabel":"%",
+            "yAxisScale":[0,70],  
+            "yAxisBreak": false,
+            "yAxisBreak_sm_md_lg": [65,65,65]            
+    },
+    "optional" : {
+            "margin_sm": [5, 20, 35, 135],
+            "margin_md": [5, 20, 35, 135],
+            "margin_lg": [5, 20, 35, 135],
+        
+            "aspectRatio_sm" : [8,11],
+            "aspectRatio_md" : [8,5],
+            "aspectRatio_lg" : [8,5],
+        
+            "mobileBreakpoint" : 610, 
+            
+            "xAxisTextFormat_sm_md_lg" : ["%Y-%y", "%Y-%y", "%Y-%y"], 
+                
+            "x_num_ticks_sm_md_lg" : [5,10,10],    
+            "y_num_ticks_sm_md_lg" : [2,8,10],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}
+
+

@@ -1,0 +1,42 @@
+{
+    "essential" : {
+            "graphic_data_url": "data2.csv",
+        
+            "dateFormat":"%Y",
+        
+            "legendLabels" : [],
+        
+            "sourceText":["Census 2011, Office for National Statistics"],
+            "sourceURL":["http://www.ons.gov.uk/ons/rel/census/2011-census-analysis/social-and-economic-characteristics-by-length-of-residence-of-migrant-populations-in-england-and-wales/characteristics-by-length-of-residence-of-migrant-populations.html#tab-introduction"],
+        
+            "annotationChart": [],
+            "annotationBullet": [],
+            "annotationXY":[
+                ["2001","2800000"]
+            ],
+            "annotationAlign":["start"],
+			"circles" : true,
+        
+            "yAxisLabel":"millions",
+            "yAxisScale":[0,4],   
+            "yAxisBreak": false,
+            "yAxisBreak_sm_md_lg": [65,65,65]            
+    },
+    "optional" : {
+            "margin_sm": [10, 5, 0, 30],
+            "margin_md": [10, 10, 0, 30],
+            "margin_lg": [10, 10, 0, 30],
+        
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+        
+            "mobileBreakpoint" : 610, 
+                           
+            "y_num_ticks_sm_md_lg" : [6,8,10],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}
+
+

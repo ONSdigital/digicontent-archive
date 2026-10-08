@@ -1,0 +1,289 @@
+date,category,chiffre,series
+01/01/2020,EU (total),1.31,Departures
+01/02/2020,EU (total),-0.2,Departures
+01/03/2020,EU (total),-60.18,Departures
+01/04/2020,EU (total),-99,Departures
+01/05/2020,EU (total),-98.86,Departures
+01/06/2020,EU (total),-97.6,Departures
+01/07/2020,EU (total),-83.41,Departures
+01/08/2020,EU (total),-75.7,Departures
+01/09/2020,EU (total),-81.41696515,Departures
+01/01/2020,EU Other,5.41,Departures
+01/02/2020,EU Other,11.08,Departures
+01/03/2020,EU Other,-56.89,Departures
+01/04/2020,EU Other,-99.51,Departures
+01/05/2020,EU Other,-99.95,Departures
+01/06/2020,EU Other,-99.28,Departures
+01/07/2020,EU Other,-86.42,Departures
+01/08/2020,EU Other,-66,Departures
+01/09/2020,EU Other,-92.6945401,Departures
+01/01/2020,EU8,7.4,Departures
+01/02/2020,EU8,6.44,Departures
+01/03/2020,EU8,-55.62,Departures
+01/04/2020,EU8,-98.92,Departures
+01/05/2020,EU8,-99.14,Departures
+01/06/2020,EU8,-97.92,Departures
+01/07/2020,EU8,-65.73,Departures
+01/08/2020,EU8,-55.25,Departures
+01/09/2020,EU8,-66.07795549,Departures
+01/01/2020,EU15,-0.12,Departures
+01/02/2020,EU15,-1.78,Departures
+01/03/2020,EU15,-61.86,Departures
+01/04/2020,EU15,-99.19,Departures
+01/05/2020,EU15,-98.97,Departures
+01/06/2020,EU15,-97.77,Departures
+01/07/2020,EU15,-85.71,Departures
+01/08/2020,EU15,-78.63,Departures
+01/09/2020,EU15,-83.26923519,Departures
+01/01/2020,EU2,13.12,Departures
+01/02/2020,EU2,12.64,Departures
+01/03/2020,EU2,-31.33,Departures
+01/04/2020,EU2,-93.49,Departures
+01/05/2020,EU2,-93.73,Departures
+01/06/2020,EU2,-90.71,Departures
+01/07/2020,EU2,-67.08,Departures
+01/08/2020,EU2,-60.23,Departures
+01/09/2020,EU2,-59.88192502,Departures
+01/01/2020,Non-EU (total),1.17,Departures
+01/02/2020,Non-EU (total),-1.92,Departures
+01/03/2020,Non-EU (total),-50.63,Departures
+01/04/2020,Non-EU (total),-98.04,Departures
+01/05/2020,Non-EU (total),-97.92,Departures
+01/06/2020,Non-EU (total),-96.69,Departures
+01/07/2020,Non-EU (total),-92.97,Departures
+01/08/2020,Non-EU (total),-85.44,Departures
+01/09/2020,Non-EU (total),-83.56495995,Departures
+01/01/2020,Oceania,1.12,Departures
+01/02/2020,Oceania,-2.69,Departures
+01/03/2020,Oceania,-21.86,Departures
+01/04/2020,Oceania,-98.32,Departures
+01/05/2020,Oceania,-98.35,Departures
+01/06/2020,Oceania,-99.45,Departures
+01/07/2020,Oceania,-100,Departures
+01/08/2020,Oceania,-100,Departures
+01/09/2020,Oceania,-100,Departures
+01/01/2020,North Africa,-4.7,Departures
+01/02/2020,North Africa,-1.3,Departures
+01/03/2020,North Africa,-56.25,Departures
+01/04/2020,North Africa,-99.92,Departures
+01/05/2020,North Africa,-99.08,Departures
+01/06/2020,North Africa,-99.21,Departures
+01/07/2020,North Africa,-93.34,Departures
+01/08/2020,North Africa,-94.93,Departures
+01/09/2020,North Africa,-94.42726463,Departures
+01/01/2020,South East Asia,-2.01,Departures
+01/02/2020,South East Asia,-8.35,Departures
+01/03/2020,South East Asia,-38.4,Departures
+01/04/2020,South East Asia,-96.61,Departures
+01/05/2020,South East Asia,-97.55,Departures
+01/06/2020,South East Asia,-96.38,Departures
+01/07/2020,South East Asia,-96.21,Departures
+01/08/2020,South East Asia,-95.53,Departures
+01/09/2020,South East Asia,-95.32248893,Departures
+01/01/2020,Other Europe,4.7,Departures
+01/02/2020,Other Europe,2.01,Departures
+01/03/2020,Other Europe,-55.66,Departures
+01/04/2020,Other Europe,-98.63,Departures
+01/05/2020,Other Europe,-98.57,Departures
+01/06/2020,Other Europe,-96.19,Departures
+01/07/2020,Other Europe,-85.51,Departures
+01/08/2020,Other Europe,-62.85,Departures
+01/09/2020,Other Europe,-61.22885296,Departures
+01/01/2020,Central and South America,-10.13,Departures
+01/02/2020,Central and South America,-1.44,Departures
+01/03/2020,Central and South America,-43.79,Departures
+01/04/2020,Central and South America,-99.06,Departures
+01/05/2020,Central and South America,-99.31,Departures
+01/06/2020,Central and South America,-98.86,Departures
+01/07/2020,Central and South America,-97.48,Departures
+01/08/2020,Central and South America,-93.96,Departures
+01/09/2020,Central and South America,-92.76987847,Departures
+01/01/2020,East Asia,2.39,Departures
+01/02/2020,East Asia,-45.08,Departures
+01/03/2020,East Asia,-56.63,Departures
+01/04/2020,East Asia,-92.87,Departures
+01/05/2020,East Asia,-94.19,Departures
+01/06/2020,East Asia,-93.9,Departures
+01/07/2020,East Asia,-92.79,Departures
+01/08/2020,East Asia,-94.6,Departures
+01/09/2020,East Asia,-91.52117523,Departures
+01/01/2020,North America,1.42,Departures
+01/02/2020,North America,3.21,Departures
+01/03/2020,North America,-52.58,Departures
+01/04/2020,North America,-99.02,Departures
+01/05/2020,North America,-98.88,Departures
+01/06/2020,North America,-98.35,Departures
+01/07/2020,North America,-97.86,Departures
+01/08/2020,North America,-97.07,Departures
+01/09/2020,North America,-96.66811145,Departures
+01/01/2020,Sub-Saharan Africa,-6.83,Departures
+01/02/2020,Sub-Saharan Africa,-4.41,Departures
+01/03/2020,Sub-Saharan Africa,-48.08,Departures
+01/04/2020,Sub-Saharan Africa,-99.54,Departures
+01/05/2020,Sub-Saharan Africa,-98.31,Departures
+01/06/2020,Sub-Saharan Africa,-98.15,Departures
+01/07/2020,Sub-Saharan Africa,-96.31,Departures
+01/08/2020,Sub-Saharan Africa,-91.9,Departures
+01/09/2020,Sub-Saharan Africa,-85.70908429,Departures
+01/01/2020,Middle East and Central Asia,8.06,Departures
+01/02/2020,Middle East and Central Asia,6.72,Departures
+01/03/2020,Middle East and Central Asia,-42.73,Departures
+01/04/2020,Middle East and Central Asia,-95.96,Departures
+01/05/2020,Middle East and Central Asia,-95.55,Departures
+01/06/2020,Middle East and Central Asia,-94.76,Departures
+01/07/2020,Middle East and Central Asia,-93.28,Departures
+01/08/2020,Middle East and Central Asia,-90.12,Departures
+01/09/2020,Middle East and Central Asia,-87.07503789,Departures
+01/01/2020,South Asia,-7.62,Departures
+01/02/2020,South Asia,-11.15,Departures
+01/03/2020,South Asia,-50.75,Departures
+01/04/2020,South Asia,-99.02,Departures
+01/05/2020,South Asia,-93.09,Departures
+01/06/2020,South Asia,-89.67,Departures
+01/07/2020,South Asia,-92.27,Departures
+01/08/2020,South Asia,-88.16,Departures
+01/09/2020,South Asia,-81.15188593,Departures
+01/01/2020,EU (total),1.25,Arrivals
+01/02/2020,EU (total),-0.65,Arrivals
+01/03/2020,EU (total),-57.04,Arrivals
+01/04/2020,EU (total),-99.5,Arrivals
+01/05/2020,EU (total),-99.06,Arrivals
+01/06/2020,EU (total),-98.55,Arrivals
+01/07/2020,EU (total),-89.1,Arrivals
+01/08/2020,EU (total),-74.32,Arrivals
+01/09/2020,EU (total),-77.57626708,Arrivals
+01/01/2020,EU Other,6.88,Arrivals
+01/02/2020,EU Other,10.44,Arrivals
+01/03/2020,EU Other,-45.02,Arrivals
+01/04/2020,EU Other,-99.54,Arrivals
+01/05/2020,EU Other,-99.79,Arrivals
+01/06/2020,EU Other,-99.69,Arrivals
+01/07/2020,EU Other,-93.18,Arrivals
+01/08/2020,EU Other,-63.55,Arrivals
+01/09/2020,EU Other,-89.75508198,Arrivals
+01/01/2020,EU8,7.45,Arrivals
+01/02/2020,EU8,5.24,Arrivals
+01/03/2020,EU8,-56,Arrivals
+01/04/2020,EU8,-99.69,Arrivals
+01/05/2020,EU8,-99.54,Arrivals
+01/06/2020,EU8,-98.95,Arrivals
+01/07/2020,EU8,-78.18,Arrivals
+01/08/2020,EU8,-50.7,Arrivals
+01/09/2020,EU8,-58.51832689,Arrivals
+01/01/2020,EU15,-0.33,Arrivals
+01/02/2020,EU15,-2.1,Arrivals
+01/03/2020,EU15,-57.99,Arrivals
+01/04/2020,EU15,-99.57,Arrivals
+01/05/2020,EU15,-99.21,Arrivals
+01/06/2020,EU15,-98.62,Arrivals
+01/07/2020,EU15,-90.31,Arrivals
+01/08/2020,EU15,-77.75,Arrivals
+01/09/2020,EU15,-80.13600489,Arrivals
+01/01/2020,EU2,12.88,Arrivals
+01/02/2020,EU2,11.71,Arrivals
+01/03/2020,EU2,-39.86,Arrivals
+01/04/2020,EU2,-96.74,Arrivals
+01/05/2020,EU2,-92.87,Arrivals
+01/06/2020,EU2,-94.49,Arrivals
+01/07/2020,EU2,-79.64,Arrivals
+01/08/2020,EU2,-55.91,Arrivals
+01/09/2020,EU2,-51.91435488,Arrivals
+01/01/2020,Non-EU (total),1.87,Arrivals
+01/02/2020,Non-EU (total),0.3,Arrivals
+01/03/2020,Non-EU (total),-44.77,Arrivals
+01/04/2020,Non-EU (total),-97.26,Arrivals
+01/05/2020,Non-EU (total),-97.88,Arrivals
+01/06/2020,Non-EU (total),-97.38,Arrivals
+01/07/2020,Non-EU (total),-94.4,Arrivals
+01/08/2020,Non-EU (total),-85.97,Arrivals
+01/09/2020,Non-EU (total),-82.15750852,Arrivals
+01/01/2020,Oceania,4.2,Arrivals
+01/02/2020,Oceania,3.3,Arrivals
+01/03/2020,Oceania,-27.03,Arrivals
+01/04/2020,Oceania,-93.45,Arrivals
+01/05/2020,Oceania,-99.29,Arrivals
+01/06/2020,Oceania,-99.45,Arrivals
+01/07/2020,Oceania,-100,Arrivals
+01/08/2020,Oceania,-100,Arrivals
+01/09/2020,Oceania,-100,Arrivals
+01/01/2020,North Africa,-3.43,Arrivals
+01/02/2020,North Africa,-0.04,Arrivals
+01/03/2020,North Africa,-36.77,Arrivals
+01/04/2020,North Africa,-98.66,Arrivals
+01/05/2020,North Africa,-99.35,Arrivals
+01/06/2020,North Africa,-99.14,Arrivals
+01/07/2020,North Africa,-97.03,Arrivals
+01/08/2020,North Africa,-94.29,Arrivals
+01/09/2020,North Africa,-92.5486266,Arrivals
+01/01/2020,South East Asia,1.76,Arrivals
+01/02/2020,South East Asia,0.27,Arrivals
+01/03/2020,South East Asia,-30.57,Arrivals
+01/04/2020,South East Asia,-97.77,Arrivals
+01/05/2020,South East Asia,-98.94,Arrivals
+01/06/2020,South East Asia,-98.37,Arrivals
+01/07/2020,South East Asia,-97.04,Arrivals
+01/08/2020,South East Asia,-95.81,Arrivals
+01/09/2020,South East Asia,-93.12056507,Arrivals
+01/01/2020,Other Europe,5.03,Arrivals
+01/02/2020,Other Europe,2.04,Arrivals
+01/03/2020,Other Europe,-51.31,Arrivals
+01/04/2020,Other Europe,-99.36,Arrivals
+01/05/2020,Other Europe,-99.07,Arrivals
+01/06/2020,Other Europe,-98.18,Arrivals
+01/07/2020,Other Europe,-91.42,Arrivals
+01/08/2020,Other Europe,-66.56,Arrivals
+01/09/2020,Other Europe,-61.12431121,Arrivals
+01/01/2020,Central and South America,-11.07,Arrivals
+01/02/2020,Central and South America,-0.79,Arrivals
+01/03/2020,Central and South America,-21.22,Arrivals
+01/04/2020,Central and South America,-98.97,Arrivals
+01/05/2020,Central and South America,-98.67,Arrivals
+01/06/2020,Central and South America,-98.17,Arrivals
+01/07/2020,Central and South America,-96.86,Arrivals
+01/08/2020,Central and South America,-93.39,Arrivals
+01/09/2020,Central and South America,-91.87413691,Arrivals
+01/01/2020,East Asia,4.79,Arrivals
+01/02/2020,East Asia,-36.37,Arrivals
+01/03/2020,East Asia,-79.17,Arrivals
+01/04/2020,East Asia,-98.32,Arrivals
+01/05/2020,East Asia,-98.19,Arrivals
+01/06/2020,East Asia,-98.1,Arrivals
+01/07/2020,East Asia,-95.78,Arrivals
+01/08/2020,East Asia,-91.25,Arrivals
+01/09/2020,East Asia,-86.46382264,Arrivals
+01/01/2020,North America,1.02,Arrivals
+01/02/2020,North America,3.31,Arrivals
+01/03/2020,North America,-52.6,Arrivals
+01/04/2020,North America,-98.41,Arrivals
+01/05/2020,North America,-98.52,Arrivals
+01/06/2020,North America,-98.07,Arrivals
+01/07/2020,North America,-96.71,Arrivals
+01/08/2020,North America,-96.03,Arrivals
+01/09/2020,North America,-95.55913603,Arrivals
+01/01/2020,Sub-Saharan Africa,-6.23,Arrivals
+01/02/2020,Sub-Saharan Africa,-3.53,Arrivals
+01/03/2020,Sub-Saharan Africa,-27.49,Arrivals
+01/04/2020,Sub-Saharan Africa,-96.05,Arrivals
+01/05/2020,Sub-Saharan Africa,-96.56,Arrivals
+01/06/2020,Sub-Saharan Africa,-96.62,Arrivals
+01/07/2020,Sub-Saharan Africa,-97.78,Arrivals
+01/08/2020,Sub-Saharan Africa,-94.81,Arrivals
+01/09/2020,Sub-Saharan Africa,-86.57197535,Arrivals
+01/01/2020,Middle East and Central Asia,8.65,Arrivals
+01/02/2020,Middle East and Central Asia,11.63,Arrivals
+01/03/2020,Middle East and Central Asia,-31.91,Arrivals
+01/04/2020,Middle East and Central Asia,-96.27,Arrivals
+01/05/2020,Middle East and Central Asia,-96.57,Arrivals
+01/06/2020,Middle East and Central Asia,-95.79,Arrivals
+01/07/2020,Middle East and Central Asia,-92.21,Arrivals
+01/08/2020,Middle East and Central Asia,-89.82,Arrivals
+01/09/2020,Middle East and Central Asia,-85.88226796,Arrivals
+01/01/2020,South Asia,-5.78,Arrivals
+01/02/2020,South Asia,-9.88,Arrivals
+01/03/2020,South Asia,-41.8,Arrivals
+01/04/2020,South Asia,-77.61,Arrivals
+01/05/2020,South Asia,-84.79,Arrivals
+01/06/2020,South Asia,-84.58,Arrivals
+01/07/2020,South Asia,-91.67,Arrivals
+01/08/2020,South Asia,-87.69,Arrivals
+01/09/2020,South Asia,-75.58528428,Arrivals

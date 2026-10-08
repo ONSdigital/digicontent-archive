@@ -1,0 +1,75 @@
+﻿indexind,chiffre,domain,subdomain
+Health Index,100.0938656,Health,
+Healthy People,99.53757594,Healthy People,
+Difficulties in daily life,98.55915431,Subheading,
+Disability,94.69252282,Healthy People,Daily life
+Frailty,102.4257858,Healthy People,Daily life
+Mental health,97.88500381,Subheading,
+"Children's social, emotional and mental health",95.24899292,Healthy People,Mental health
+Mental health conditions,91.95076417,Healthy People,Mental health
+Self-harm,100.5125569,Healthy People,Mental health
+Suicides,100.1087571,Healthy People,Mental health
+Mortality,101.4810951,Subheading,
+Avoidable mortality,101.6725755,Healthy People,Mortality
+Infant mortality,99.6897399,Healthy People,Mortality
+Life expectancy,102.1931766,Healthy People,Mortality
+Personal well-being,99.61071424,Subheading,
+Activities in life are worthwhile,101.4175432,Healthy People,Well-being
+Feelings of anxiety,93.8588413,Healthy People,Well-being
+Happiness,100.0960677,Healthy People,Well-being
+Life satisfaction,100.6892372,Healthy People,Well-being
+Physical health conditions,100.1519123,Subheading,
+Cancer,102.1009008,Healthy People,Physical
+Cardiovascular conditions,98.9450822,Healthy People,Physical
+Dementia,100.2249588,Healthy People,Physical
+Diabetes,101.6553198,Healthy People,Physical
+Kidney disease,100.4395664,Healthy People,Physical
+Musculoskeletal conditions,95.79017008,Healthy People,Physical
+Respiratory conditions,101.8335296,Healthy People,Physical
+Healthy Lives,101.1204919,Healthy Lives,
+Behavioural risk factors,100.1006137,Subheading,
+Alcohol misuse,97.32390821,Healthy Lives,Behavioural
+Drug misuse,97.14912479,Healthy Lives,Behavioural
+Healthy eating,95.54967589,Healthy Lives,Behavioural
+Physical activity,102.2471343,Healthy Lives,Behavioural
+Sedentary behaviour,98.60261339,Healthy Lives,Behavioural
+Smoking,108.8360465,Healthy Lives,Behavioural
+Children and young people,105.9898434,Subheading,
+Early years development,111.1164574,Healthy Lives,Children
+Low birth weight,98.19269873,Healthy Lives,Children
+Pupil absences,100.5657499,Healthy Lives,Children
+Pupil attainment,108.9249583,Healthy Lives,Children
+Teenage pregnancy,107.9383487,Healthy Lives,Children
+"Young people in education, employment and apprenticeships",100.6220106,Healthy Lives,Children
+Physiological risk factors,98.66853804,Subheading,
+High blood pressure,103.0311436,Healthy Lives,Physiological
+Overweight and obesity in adults,98.07101076,Healthy Lives,Physiological
+Overweight and obesity in children,97.61826749,Healthy Lives,Physiological
+Protective measures,99.72297249,Subheading,
+Cancer screening attendance,99.65347366,Healthy Lives,Protective
+Child vaccination coverage,100.2981456,Healthy Lives,Protective
+Sexually transmitted infections,99.30774506,Healthy Lives,Protective
+Healthy Places,99.62352897,Healthy Places,
+Access to green space,99.96651882,Healthy Places,
+Private outdoor space,99.93260562,Healthy Places,Green space
+Public green space,100.000432,Healthy Places,Green space
+Access to services,100.0731569,Subheading,
+Distance to GP services,99.44321997,Healthy Places,Services
+Distance to pharmacies,100.0098354,Healthy Places,Services
+Distance to sports or leisure facilities,99.47005337,Healthy Places,Services
+Internet access,101.5815965,Healthy Places,Services
+Crime,96.04064084,Subheading,
+Low-level crime,99.16717638,Healthy Places,Crime
+Personal crime,92.91410529,Healthy Places,Crime
+Economic and working conditions,101.9374465,Subheading,
+Child poverty,99.95773258,Healthy Places,Economic
+Housing affordability,98.85647446,Healthy Places,Economic
+Job-related training,98.78061588,Healthy Places,Economic
+Unemployment,107.8414779,Healthy Places,Economic
+Workplace safety,103.9976635,Healthy Places,Economic
+Living conditions,100.0998817,Subheading,
+Air pollution,98.92652051,Healthy Places,Conditions
+Household overcrowding,99.99018211,Healthy Places,Conditions
+Noise complaints,100.874502,Healthy Places,Conditions
+Road safety,101.1261511,Healthy Places,Conditions
+Rough sleeping,98.84659308,Healthy Places,Conditions

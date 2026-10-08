@@ -1,0 +1,43 @@
+{
+    "essential" : {
+            "graphic_data_url": "data2.csv",
+        
+            "dateFormat":"%Y-y%",
+        
+            "legendLabels" : ["Net outflows"],
+        
+            "sourceText":["Office for National Statistics"],
+            "sourceURL":["http://www.ons.gov.uk/ons/rel/migration1/internal-migration-by-local-authorities-in-england-and-wales/year-ending-june-2014/stb-internal-migration--england-and-wales--year-ending-june-2014.html"],
+        
+            "annotationChart": [""],
+            "annotationBullet": [],
+            "annotationXY":[
+                ["50","Cambridge"],
+                ["60","Wales"]
+            ],
+            "annotationAlign":[
+                "middle",
+                "middle"
+            ],
+        
+            "xAxisLabel":"Number of people",
+            "xAxisScale":[0,10000]            
+    },
+    "optional" : {
+            "margin_sm": [45, 40, 10, 100],
+            "margin_md": [45, 40, 10, 100],
+            "margin_lg": [45, 40, 10, 100],
+        
+            "aspectRatio_sm" : [4,7],
+            "aspectRatio_md" : [1,1],
+            "aspectRatio_lg" : [16,10],
+        
+            "mobileBreakpoint" : 510, 
+                           
+            "x_num_ticks_sm_md_lg" : [6,8,10],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}
+
+

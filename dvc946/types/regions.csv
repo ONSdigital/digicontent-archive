@@ -1,0 +1,91 @@
+date,category,chiffre,series
+Jan-20,Violence against the person offences,0.9346,2019
+Feb-20,Violence against the person offences,0.8792,2019
+Mar-20,Violence against the person offences,1.0079,2019
+Apr-20,Violence against the person offences,0.9564,2019
+May-20,Violence against the person offences,1.0089,2019
+Jan-20,Violence against the person offences,1.0284,2020
+Feb-20,Violence against the person offences,0.9816,2020
+Mar-20,Violence against the person offences,0.9840,2020
+Apr-20,Violence against the person offences,0.8572,2020
+May-20,Violence against the person offences,0.9694,2020
+Jan-20,Sexual offences,1.0037,2019
+Feb-20,Sexual offences,0.9428,2019
+Mar-20,Sexual offences,1.0556,2019
+Apr-20,Sexual offences,0.9605,2019
+May-20,Sexual offences,1.0439,2019
+Jan-20,Sexual offences,1.0641,2020
+Feb-20,Sexual offences,1.0566,2020
+Mar-20,Sexual offences,0.9097,2020
+Apr-20,Sexual offences,0.6429,2020
+May-20,Sexual offences,0.7656,2020
+Jan-20,Robbery offences,0.9444,2019
+Feb-20,Robbery offences,0.9546,2019
+Mar-20,Robbery offences,1.0300,2019
+Apr-20,Robbery offences,0.9972,2019
+May-20,Robbery offences,1.0097,2019
+Jan-20,Robbery offences,1.0096,2020
+Feb-20,Robbery offences,0.9631,2020
+Mar-20,Robbery offences,0.8264,2020
+Apr-20,Robbery offences,0.4244,2020
+May-20,Robbery offences,0.5216,2020
+Jan-20,Theft offences,1.0129,2019
+Feb-20,Theft offences,0.9447,2019
+Mar-20,Theft offences,1.0430,2019
+Apr-20,Theft offences,0.9963,2019
+May-20,Theft offences,1.0193,2019
+Jan-20,Theft offences,0.9925,2020
+Feb-20,Theft offences,0.9464,2020
+Mar-20,Theft offences,0.8085,2020
+Apr-20,Theft offences,0.5238,2020
+May-20,Theft offences,0.5603,2020
+Jan-20,Criminal damage and arson,1.00,2019
+Feb-20,Criminal damage and arson,0.92,2019
+Mar-20,Criminal damage and arson,1.02,2019
+Apr-20,Criminal damage and arson,1.01,2019
+May-20,Criminal damage and arson,1.03,2019
+Jan-20,Criminal damage and arson,1.02,2020
+Feb-20,Criminal damage and arson,0.93,2020
+Mar-20,Criminal damage and arson,0.93,2020
+Apr-20,Criminal damage and arson,0.69,2020
+May-20,Criminal damage and arson,0.77,2020
+Jan-20,Drug offences,0.93,2019
+Feb-20,Drug offences,0.88,2019
+Mar-20,Drug offences,1.05,2019
+Apr-20,Drug offences,0.95,2019
+May-20,Drug offences,1.01,2019
+Jan-20,Drug offences,1.12,2020
+Feb-20,Drug offences,1.01,2020
+Mar-20,Drug offences,1.00,2020
+Apr-20,Drug offences,1.16,2020
+May-20,Drug offences,1.45,2020
+Jan-20,Possession of weapons offences,0.92,2019
+Feb-20,Possession of weapons offences,0.88,2019
+Mar-20,Possession of weapons offences,1.16,2019
+Apr-20,Possession of weapons offences,0.99,2019
+May-20,Possession of weapons offences,1.03,2019
+Jan-20,Possession of weapons offences,0.97,2020
+Feb-20,Possession of weapons offences,0.89,2020
+Mar-20,Possession of weapons offences,0.94,2020
+Apr-20,Possession of weapons offences,0.83,2020
+May-20,Possession of weapons offences,0.97,2020
+Jan-20,Public order offences,0.84,2019
+Feb-20,Public order offences,0.84,2019
+Mar-20,Public order offences,0.98,2019
+Apr-20,Public order offences,0.97,2019
+May-20,Public order offences,1.03,2019
+Jan-20,Public order offences,0.95,2020
+Feb-20,Public order offences,0.92,2020
+Mar-20,Public order offences,0.96,2020
+Apr-20,Public order offences,0.88,2020
+May-20,Public order offences,1.08,2020
+Jan-20,Miscellaneous crimes against society,1.07,2019
+Feb-20,Miscellaneous crimes against society,0.93,2019
+Mar-20,Miscellaneous crimes against society,1.03,2019
+Apr-20,Miscellaneous crimes against society,0.98,2019
+May-20,Miscellaneous crimes against society,1.05,2019
+Jan-20,Miscellaneous crimes against society,1.05,2020
+Feb-20,Miscellaneous crimes against society,0.99,2020
+Mar-20,Miscellaneous crimes against society,1.03,2020
+Apr-20,Miscellaneous crimes against society,0.92,2020
+May-20,Miscellaneous crimes against society,1.04,2020

@@ -1,0 +1,88 @@
+source,target,value
+"Managers, directors and senior officials","Managers, directors and senior officials",0.0
+"Managers, directors and senior officials",Professional occupations,2.7
+"Managers, directors and senior officials",Associate professional and technical occupations,1.7
+"Managers, directors and senior officials",Administrative and secretarial occupations,0.7
+"Managers, directors and senior officials",Skilled trades occupations,0.2
+"Managers, directors and senior officials","Caring, leisure and other service occupations",0.2
+"Managers, directors and senior officials",Sales and customer service occupations,0.2
+"Managers, directors and senior officials","Process, plant and machine operatives",0.3
+"Managers, directors and senior officials",Elementary occupations,0.3
+"Managers, directors and senior officials",Inactive,2.9
+"Managers, directors and senior officials",Unemployed,1.4
+Professional occupations,"Managers, directors and senior officials",2.6
+Professional occupations,Associate professional and technical occupations,3.2
+Professional occupations,Administrative and secretarial occupations,0.7
+Professional occupations,Skilled trades occupations,0.4
+Professional occupations,"Caring, leisure and other service occupations",0.5
+Professional occupations,Sales and customer service occupations,0.4
+Professional occupations,"Process, plant and machine operatives",0.1
+Professional occupations,Elementary occupations,0.3
+Professional occupations,Inactive,5.5
+Professional occupations,Unemployed,1.8
+Associate professional and technical occupations,"Managers, directors and senior officials",1.8
+Associate professional and technical occupations,Professional occupations,4.1
+Associate professional and technical occupations,Administrative and secretarial occupations,1.3
+Associate professional and technical occupations,Skilled trades occupations,0.4
+Associate professional and technical occupations,"Caring, leisure and other service occupations",0.7
+Associate professional and technical occupations,Sales and customer service occupations,0.8
+Associate professional and technical occupations,"Process, plant and machine operatives",0.5
+Associate professional and technical occupations,Elementary occupations,1.0
+Associate professional and technical occupations,Inactive,3.8
+Associate professional and technical occupations,Unemployed,1.4
+Administrative and secretarial occupations,"Managers, directors and senior officials",0.6
+Administrative and secretarial occupations,Professional occupations,1.3
+Administrative and secretarial occupations,Associate professional and technical occupations,2.6
+Administrative and secretarial occupations,Skilled trades occupations,0.1
+Administrative and secretarial occupations,"Caring, leisure and other service occupations",0.2
+Administrative and secretarial occupations,Sales and customer service occupations,0.8
+Administrative and secretarial occupations,Elementary occupations,0.6
+Administrative and secretarial occupations,Inactive,3.9
+Administrative and secretarial occupations,Unemployed,2.1
+Skilled trades occupations,"Managers, directors and senior officials",0.2
+Skilled trades occupations,Professional occupations,0.2
+Skilled trades occupations,Associate professional and technical occupations,0.6
+Skilled trades occupations,"Caring, leisure and other service occupations",0.2
+Skilled trades occupations,Sales and customer service occupations,0.5
+Skilled trades occupations,"Process, plant and machine operatives",0.2
+Skilled trades occupations,Elementary occupations,0.4
+Skilled trades occupations,Inactive,2.2
+Skilled trades occupations,Unemployed,0.7
+"Caring, leisure and other service occupations","Managers, directors and senior officials",0.3
+"Caring, leisure and other service occupations",Professional occupations,0.5
+"Caring, leisure and other service occupations",Associate professional and technical occupations,0.7
+"Caring, leisure and other service occupations",Administrative and secretarial occupations,0.6
+"Caring, leisure and other service occupations",Sales and customer service occupations,0.6
+"Caring, leisure and other service occupations","Process, plant and machine operatives",0.1
+"Caring, leisure and other service occupations",Elementary occupations,0.9
+"Caring, leisure and other service occupations",Inactive,3.4
+"Caring, leisure and other service occupations",Unemployed,1.0
+Sales and customer service occupations,"Managers, directors and senior officials",0.6
+Sales and customer service occupations,Professional occupations,0.4
+Sales and customer service occupations,Associate professional and technical occupations,1.5
+Sales and customer service occupations,Administrative and secretarial occupations,1.2
+Sales and customer service occupations,Skilled trades occupations,0.2
+Sales and customer service occupations,"Caring, leisure and other service occupations",0.6
+Sales and customer service occupations,"Process, plant and machine operatives",0.2
+Sales and customer service occupations,Elementary occupations,0.8
+Sales and customer service occupations,Inactive,3.2
+Sales and customer service occupations,Unemployed,2.4
+"Process, plant and machine operatives","Managers, directors and senior officials",0.2
+"Process, plant and machine operatives",Associate professional and technical occupations,0.3
+"Process, plant and machine operatives",Administrative and secretarial occupations,0.2
+"Process, plant and machine operatives",Skilled trades occupations,0.6
+"Process, plant and machine operatives","Caring, leisure and other service occupations",0.3
+"Process, plant and machine operatives",Sales and customer service occupations,0.1
+"Process, plant and machine operatives",Elementary occupations,1.4
+"Process, plant and machine operatives",Inactive,2.1
+"Process, plant and machine operatives",Unemployed,0.7
+Elementary occupations,"Managers, directors and senior officials",0.3
+Elementary occupations,Professional occupations,0.5
+Elementary occupations,Associate professional and technical occupations,0.9
+Elementary occupations,Administrative and secretarial occupations,0.5
+Elementary occupations,Skilled trades occupations,0.8
+Elementary occupations,"Caring, leisure and other service occupations",1.4
+Elementary occupations,Sales and customer service occupations,0.9
+Elementary occupations,"Process, plant and machine operatives",2.5
+Elementary occupations,Inactive,3.9
+Elementary occupations,Unemployed,3.2

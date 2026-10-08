@@ -1,0 +1,72 @@
+{
+  "essential": {
+    "graphic_data_url": "regions.csv",
+    "dateFormat": "%d/%m/%Y",
+
+    "colour_palette": [
+      {
+        "key": "Adjusted for age",
+        "colour": "#A8BD3A"
+      },
+      {
+        "key": "+ Geography",
+        "colour": "#549E99"
+      },
+      {
+        "key": "+ Health status",
+        "colour": "#175A7A"
+      }
+    ],
+    "categorySort": ["Cardiovascular disease","Metabolic","East","Respiratory","Cancer","Musculoskeletal","Renal","Renal","Mental/behavioural","Neurological"],
+    "sourceText": ["Office for National Statistics – Explaining ethnic background contrasts in deaths involving Coronavirus (COVID-19)"],
+    "xAxisLabel": "Rate of death compared to White ethnic group",
+    "yAxisLabel": "Regions and Countries",
+    "yAxisScale": "auto_zero_max_total"
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 40,
+        "right": 20,
+        "bottom": 60,
+        "left": 8
+      },
+      "md": {
+        "top": 40,
+        "right": 20,
+        "bottom": 60,
+        "left": 8
+      },
+      "lg": {
+        "top": 40,
+        "right": 20,
+        "bottom": 60,
+        "left": 8
+      }
+    },
+    "margin_special_left":50,
+    "chart_every":{
+      "sm": 1,
+      "md": 2,
+      "lg": 2
+    },
+    "aspectRatio": {
+      "sm": [10, 6],
+      "md": [8, 8],
+      "lg": [8, 6]
+    },
+    "legendHeight":{
+      "sm": 60,
+      "md": 45,
+      "lg": 45
+    },
+
+    "mobileBreakpoint": 480,
+    "middleBreakpoint": 670,
+    "x_ticks_every": {
+      "sm": 1,
+      "md": 1,
+      "lg": 1
+    }
+  }
+}

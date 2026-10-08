@@ -1,0 +1,6 @@
+name,value,lowerCI,upperCI
+Individuals reporting any symptoms on the day of the test,2.7272727,1.7550601,4.030911
+Individuals not reporting any symptoms on the day of the test,0.2588771,0.2179545,0.305235
+gap1,,,
+"Individuals reporting a cough, and/or fever, and/or loss of taste/smell on the day of the test",6.870229,4.1222628,10.6407685
+Individuals reporting no cough or fever or loss of taste/smell on the day of the test,0.2668652,0.225514,0.3135867

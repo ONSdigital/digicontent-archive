@@ -1,0 +1,104 @@
+{
+  "essential": {
+    "graphic_data_url": "total.csv",
+    "dateFormat": "%d/%m/%Y",
+    "legendLabels": ["All deaths - 2020", "Deaths not involving COVID-19","Normal range for the last 5 years", "Excess non-COVID-19 deaths"],
+    "colour_palette": ["#206095", "#d32f2f","url(#hash)","#e99797"],
+    "legendStyle": ["line", "line","rect","rect"],
+    "plotLines": [{
+      "key": "2020",
+      "colour": "#206095"
+    }, {
+      "key": "mean",
+      "colour": "#666",
+      "strokedasharray": "5 13",
+      "strokewidth":"2px"
+    },{
+      "key":"covid",
+      "colour":"#d32f2f"
+    }
+
+  ],
+    "directLabels": [{
+        "variable": "mean",
+        "label": "Average (dotted) and normal (hashed) range for past 5 years",
+        "colour": "#414042",
+        "dx":7,
+        "dy":-10
+      },
+      {
+        "variable": "2020",
+        "label": "All deaths - 2020",
+        "colour": "#206095",
+        "dx":7,
+        "dy":-50
+      },
+      {
+        "variable": "covid",
+        "label": "Deaths not involving COVID-19",
+        "colour":"#d32f2f",
+        "dx":7,
+        "dy":57
+      }
+
+    ],
+    "sourceText": "Office for National Statistics – Analysis of death registrations not involving coronavirus (COVID-19)",
+    "circles": false,
+    "yAxisLabel": "Weekly deaths",
+    "xAxisLabel": "Week ending",
+    "yAxisScale": [0, 25000],
+    "yAxisBreak": false,
+    "yAxisBreakValue": {
+      "sm": 12,
+      "md": 10,
+      "lg": 10
+    }
+  },
+
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 120,
+        "right": 20,
+        "bottom": 50,
+        "left": 40
+      },
+      "md": {
+        "top": 30,
+        "right": 120,
+        "bottom": 50,
+        "left": 40
+      },
+      "lg": {
+        "top": 30,
+        "right": 140,
+        "bottom": 50,
+        "left": 40
+      }
+    },
+
+    "aspectRatio": {
+      "sm": [16, 8],
+      "md": [16, 8],
+      "lg": [16, 8]
+    },
+
+    "mobileBreakpoint": 600,
+    "middleBreakpoint": 601,
+
+    "x_ticks_every": {
+      "sm": 5,
+      "md": 4,
+      "lg": 3
+    },
+    "y_num_ticks": {
+      "sm": 5,
+      "md": 5,
+      "lg": 5
+    },
+
+    "lineMarkers": false
+
+
+  }
+}

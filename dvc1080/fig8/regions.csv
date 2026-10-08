@@ -1,0 +1,253 @@
+date,category,chiffre,series
+01/01/2019,Production,106.055233,lbwregion
+01/02/2019,Production,106.6943594,lbwregion
+01/03/2019,Production,101.5622296,lbwregion
+01/04/2019,Production,98.13447716,lbwregion
+01/05/2019,Production,102.1950644,lbwregion
+01/06/2019,Production,103.1753801,lbwregion
+01/07/2019,Production,108.0267559,lbwregion
+01/08/2019,Production,108.4420201,lbwregion
+01/09/2019,Production,116.2716587,lbwregion
+01/10/2019,Production,118.1303046,lbwregion
+01/11/2019,Production,112.3210786,lbwregion
+01/12/2019,Production,119.9353482,lbwregion
+01/01/2020,Production,105.0869494,lbwregion
+01/02/2020,Production,113.3542998,lbwregion
+01/03/2020,Production,100.3523196,lbwregion
+01/04/2020,Production,67.00736232,lbwregion
+01/05/2020,Production,52.91463098,lbwregion
+01/06/2020,Production,72.52634464,lbwregion
+01/07/2020,Production,75.73891562,lbwregion
+01/08/2020,Production,82.15416415,lbwregion
+01/09/2020,Production,77.0611995,lbwregion
+01/01/2019,Post-production,60.43561513,lbwregion
+01/02/2019,Post-production,64.11390826,lbwregion
+01/03/2019,Post-production,66.8634664,lbwregion
+01/04/2019,Post-production,63.93694681,lbwregion
+01/05/2019,Post-production,68.52530766,lbwregion
+01/06/2019,Post-production,84.01660566,lbwregion
+01/07/2019,Post-production,87.48343691,lbwregion
+01/08/2019,Post-production,68.51269667,lbwregion
+01/09/2019,Post-production,68.75568908,lbwregion
+01/10/2019,Post-production,67.65243946,lbwregion
+01/11/2019,Post-production,60.98798721,lbwregion
+01/12/2019,Post-production,72.86372667,lbwregion
+01/01/2020,Post-production,62.15611057,lbwregion
+01/02/2020,Post-production,59.32469241,lbwregion
+01/03/2020,Post-production,48.96261488,lbwregion
+01/04/2020,Post-production,54.26757322,lbwregion
+01/05/2020,Post-production,39.63995793,lbwregion
+01/06/2020,Post-production,34.93588337,lbwregion
+01/07/2020,Post-production,35.21041125,lbwregion
+01/08/2020,Post-production,27.70284767,lbwregion
+01/09/2020,Post-production,32.06737807,lbwregion
+01/01/2019,Distribution,110.3880169,lbwregion
+01/02/2019,Distribution,114.9183483,lbwregion
+01/03/2019,Distribution,130.4423543,lbwregion
+01/04/2019,Distribution,155.0612663,lbwregion
+01/05/2019,Distribution,127.6172443,lbwregion
+01/06/2019,Distribution,116.0094594,lbwregion
+01/07/2019,Distribution,122.9581158,lbwregion
+01/08/2019,Distribution,128.8257814,lbwregion
+01/09/2019,Distribution,135.7118267,lbwregion
+01/10/2019,Distribution,125.5789314,lbwregion
+01/11/2019,Distribution,115.5113451,lbwregion
+01/12/2019,Distribution,122.0982546,lbwregion
+01/01/2020,Distribution,91.67467113,lbwregion
+01/02/2020,Distribution,131.5517683,lbwregion
+01/03/2020,Distribution,122.2766575,lbwregion
+01/04/2020,Distribution,92.11715155,lbwregion
+01/05/2020,Distribution,86.49932859,lbwregion
+01/06/2020,Distribution,72.50526205,lbwregion
+01/07/2020,Distribution,144.5520386,lbwregion
+01/08/2020,Distribution,91.44406874,lbwregion
+01/09/2020,Distribution,50.35092323,lbwregion
+01/01/2019,Cinema,80.01834753,lbwregion
+01/02/2019,Cinema,72.69705634,lbwregion
+01/03/2019,Cinema,89.38691871,lbwregion
+01/04/2019,Cinema,107.3570049,lbwregion
+01/05/2019,Cinema,116.4335212,lbwregion
+01/06/2019,Cinema,110.6629902,lbwregion
+01/07/2019,Cinema,114.7072716,lbwregion
+01/08/2019,Cinema,90.00087522,lbwregion
+01/09/2019,Cinema,96.11891573,lbwregion
+01/10/2019,Cinema,99.20619171,lbwregion
+01/11/2019,Cinema,85.84798934,lbwregion
+01/12/2019,Cinema,103.6661554,lbwregion
+01/01/2020,Cinema,108.850493,lbwregion
+01/02/2020,Cinema,93.70605729,lbwregion
+01/03/2020,Cinema,54.89130462,lbwregion
+01/04/2020,Cinema,1.178753982,lbwregion
+01/05/2020,Cinema,15.34463406,lbwregion
+01/06/2020,Cinema,19.45791671,lbwregion
+01/07/2020,Cinema,3.503306352,lbwregion
+01/08/2020,Cinema,13.42391855,lbwregion
+01/09/2020,Cinema,40.26677654,lbwregion
+01/01/2019,Music,121.3006213,lbwregion
+01/02/2019,Music,112.3365854,lbwregion
+01/03/2019,Music,106.2577509,lbwregion
+01/04/2019,Music,96.35190097,lbwregion
+01/05/2019,Music,94.8336605,lbwregion
+01/06/2019,Music,118.2692838,lbwregion
+01/07/2019,Music,121.297615,lbwregion
+01/08/2019,Music,110.4997159,lbwregion
+01/09/2019,Music,124.5218451,lbwregion
+01/10/2019,Music,114.4813677,lbwregion
+01/11/2019,Music,64.62998173,lbwregion
+01/12/2019,Music,122.7254855,lbwregion
+01/01/2020,Music,92.94511986,lbwregion
+01/02/2020,Music,88.99838972,lbwregion
+01/03/2020,Music,90.75207861,lbwregion
+01/04/2020,Music,83.80641403,lbwregion
+01/05/2020,Music,84.09825896,lbwregion
+01/06/2020,Music,124.073465,lbwregion
+01/07/2020,Music,94.13019003,lbwregion
+01/08/2020,Music,108.7163302,lbwregion
+01/09/2020,Music,102.4352157,lbwregion
+01/01/2019,Production,100,baseline
+01/02/2019,Production,100,baseline
+01/03/2019,Production,100,baseline
+01/04/2019,Production,100,baseline
+01/05/2019,Production,100,baseline
+01/06/2019,Production,100,baseline
+01/07/2019,Production,100,baseline
+01/08/2019,Production,100,baseline
+01/09/2019,Production,100,baseline
+01/10/2019,Production,100,baseline
+01/11/2019,Production,100,baseline
+01/12/2019,Production,100,baseline
+01/01/2020,Production,100,baseline
+01/02/2020,Production,100,baseline
+01/03/2020,Production,100,baseline
+01/04/2020,Production,100,baseline
+01/05/2020,Production,100,baseline
+01/06/2020,Production,100,baseline
+01/07/2020,Production,100,baseline
+01/08/2020,Production,100,baseline
+01/09/2020,Production,100,baseline
+01/01/2019,Post-production,100,baseline
+01/02/2019,Post-production,100,baseline
+01/03/2019,Post-production,100,baseline
+01/04/2019,Post-production,100,baseline
+01/05/2019,Post-production,100,baseline
+01/06/2019,Post-production,100,baseline
+01/07/2019,Post-production,100,baseline
+01/08/2019,Post-production,100,baseline
+01/09/2019,Post-production,100,baseline
+01/10/2019,Post-production,100,baseline
+01/11/2019,Post-production,100,baseline
+01/12/2019,Post-production,100,baseline
+01/01/2020,Post-production,100,baseline
+01/02/2020,Post-production,100,baseline
+01/03/2020,Post-production,100,baseline
+01/04/2020,Post-production,100,baseline
+01/05/2020,Post-production,100,baseline
+01/06/2020,Post-production,100,baseline
+01/07/2020,Post-production,100,baseline
+01/08/2020,Post-production,100,baseline
+01/09/2020,Post-production,100,baseline
+01/01/2019,Distribution,100,baseline
+01/02/2019,Distribution,100,baseline
+01/03/2019,Distribution,100,baseline
+01/04/2019,Distribution,100,baseline
+01/05/2019,Distribution,100,baseline
+01/06/2019,Distribution,100,baseline
+01/07/2019,Distribution,100,baseline
+01/08/2019,Distribution,100,baseline
+01/09/2019,Distribution,100,baseline
+01/10/2019,Distribution,100,baseline
+01/11/2019,Distribution,100,baseline
+01/12/2019,Distribution,100,baseline
+01/01/2020,Distribution,100,baseline
+01/02/2020,Distribution,100,baseline
+01/03/2020,Distribution,100,baseline
+01/04/2020,Distribution,100,baseline
+01/05/2020,Distribution,100,baseline
+01/06/2020,Distribution,100,baseline
+01/07/2020,Distribution,100,baseline
+01/08/2020,Distribution,100,baseline
+01/09/2020,Distribution,100,baseline
+01/01/2019,Cinema,100,baseline
+01/02/2019,Cinema,100,baseline
+01/03/2019,Cinema,100,baseline
+01/04/2019,Cinema,100,baseline
+01/05/2019,Cinema,100,baseline
+01/06/2019,Cinema,100,baseline
+01/07/2019,Cinema,100,baseline
+01/08/2019,Cinema,100,baseline
+01/09/2019,Cinema,100,baseline
+01/10/2019,Cinema,100,baseline
+01/11/2019,Cinema,100,baseline
+01/12/2019,Cinema,100,baseline
+01/01/2020,Cinema,100,baseline
+01/02/2020,Cinema,100,baseline
+01/03/2020,Cinema,100,baseline
+01/04/2020,Cinema,100,baseline
+01/05/2020,Cinema,100,baseline
+01/06/2020,Cinema,100,baseline
+01/07/2020,Cinema,100,baseline
+01/08/2020,Cinema,100,baseline
+01/09/2020,Cinema,100,baseline
+01/01/2019,Music,100,baseline
+01/02/2019,Music,100,baseline
+01/03/2019,Music,100,baseline
+01/04/2019,Music,100,baseline
+01/05/2019,Music,100,baseline
+01/06/2019,Music,100,baseline
+01/07/2019,Music,100,baseline
+01/08/2019,Music,100,baseline
+01/09/2019,Music,100,baseline
+01/10/2019,Music,100,baseline
+01/11/2019,Music,100,baseline
+01/12/2019,Music,100,baseline
+01/01/2020,Music,100,baseline
+01/02/2020,Music,100,baseline
+01/03/2020,Music,100,baseline
+01/04/2020,Music,100,baseline
+01/05/2020,Music,100,baseline
+01/06/2020,Music,100,baseline
+01/07/2020,Music,100,baseline
+01/08/2020,Music,100,baseline
+01/09/2020,Music,100,baseline
+01/01/2019,"All Music, Film and TV",99.35509334,lbwregion
+01/02/2019,"All Music, Film and TV",104.9025452,lbwregion
+01/03/2019,"All Music, Film and TV",104.3202928,lbwregion
+01/04/2019,"All Music, Film and TV",105.3911693,lbwregion
+01/05/2019,"All Music, Film and TV",102.5736971,lbwregion
+01/06/2019,"All Music, Film and TV",108.0145374,lbwregion
+01/07/2019,"All Music, Film and TV",112.727195,lbwregion
+01/08/2019,"All Music, Film and TV",108.3909525,lbwregion
+01/09/2019,"All Music, Film and TV",122.5255935,lbwregion
+01/10/2019,"All Music, Film and TV",118.8613986,lbwregion
+01/11/2019,"All Music, Film and TV",111.1442998,lbwregion
+01/12/2019,"All Music, Film and TV",120.9141758,lbwregion
+01/01/2020,"All Music, Film and TV",112.5332909,lbwregion
+01/02/2020,"All Music, Film and TV",113.9759863,lbwregion
+01/03/2020,"All Music, Film and TV",110.6748123,lbwregion
+01/04/2020,"All Music, Film and TV",74.63031514,lbwregion
+01/05/2020,"All Music, Film and TV",66.12886788,lbwregion
+01/06/2020,"All Music, Film and TV",76.85907311,lbwregion
+01/07/2020,"All Music, Film and TV",81.82422985,lbwregion
+01/08/2020,"All Music, Film and TV",83.22770609,lbwregion
+01/09/2020,"All Music, Film and TV",75.73761849,lbwregion
+01/01/2019,"All Music, Film and TV",100,baseline
+01/02/2019,"All Music, Film and TV",100,baseline
+01/03/2019,"All Music, Film and TV",100,baseline
+01/04/2019,"All Music, Film and TV",100,baseline
+01/05/2019,"All Music, Film and TV",100,baseline
+01/06/2019,"All Music, Film and TV",100,baseline
+01/07/2019,"All Music, Film and TV",100,baseline
+01/08/2019,"All Music, Film and TV",100,baseline
+01/09/2019,"All Music, Film and TV",100,baseline
+01/10/2019,"All Music, Film and TV",100,baseline
+01/11/2019,"All Music, Film and TV",100,baseline
+01/12/2019,"All Music, Film and TV",100,baseline
+01/01/2020,"All Music, Film and TV",100,baseline
+01/02/2020,"All Music, Film and TV",100,baseline
+01/03/2020,"All Music, Film and TV",100,baseline
+01/04/2020,"All Music, Film and TV",100,baseline
+01/05/2020,"All Music, Film and TV",100,baseline
+01/06/2020,"All Music, Film and TV",100,baseline
+01/07/2020,"All Music, Film and TV",100,baseline
+01/08/2020,"All Music, Film and TV",100,baseline
+01/09/2020,"All Music, Film and TV",100,baseline

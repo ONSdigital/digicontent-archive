@@ -1,0 +1,64 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+        
+            "dateFormat":"%Y",
+        
+            "legendLabels" : ["Death from use of Heroin and Morphine"],
+        
+            "sourceText":["Deaths related to drug poisoning, 2014 registrations"],
+            "sourceURL":["http://www.ons.gov.uk/ons/rel/subnational-health3/deaths-related-to-drug-poisoning/england-and-wales---2014/index.html"],
+        
+            "annotationChart": [
+                "Deaths involving heroin/morphine  increased through the 1990s  to peak at 981 in 2001",
+				 "579 deaths   registered in 2012",
+                "952 deaths  registered in 2014   up 64% on 2012"
+            ],
+            "annotationBullet": [
+			  "Deaths from heroin and morphine increased through the 1990s to peak at 981 in 2001",
+                "579 deaths  registered in 2012",
+                "952 deaths registered in 2014 up 64% on 2012"
+            ],
+            "annotationXY":[
+                ["2001","1130"],
+				["2012","520"],
+				["2014","1086"]
+            ],
+            "annotationAlign":[
+                "middle","end","end"
+            ],
+        
+            "circles" : true,    
+            "annotationCXCY":[
+				["2001","980"],
+                ["2012","580"],
+                ["2014","950"]
+            ],
+        	
+			"xAxisLabel":"Registration year",
+            "yAxisLabel":"Number of deaths",
+            "yAxisScale":[0,1100],   
+            "yAxisBreak": false,
+            "yAxisBreak_sm_md_lg": [65,65,65]            
+    },
+    "optional" : {
+            "margin_sm": [5, 20, 10, 40],
+            "margin_md": [30, 15, 10, 40],
+            "margin_lg": [25, 20, 10, 40],
+        
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+        
+            "mobileBreakpoint" : 610, 
+            
+            "xAxisTextFormat_sm_md_lg" : ["%y", "%y", "%Y"], 
+                
+            "x_num_ticks_sm_md_lg" : [7,11,22],    
+            "y_num_ticks_sm_md_lg" : [6,8,10],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}
+
+

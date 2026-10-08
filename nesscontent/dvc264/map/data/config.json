@@ -1,0 +1,15 @@
+{"ons":{
+"varlabel": ["Population change from 2004-2013"],
+"varchartlabel": ["Births","Deaths","Internal Migration Net","International  Migration  Net","Other*"],
+"varcolour": ["#c7cae2","#fddbc7","#f4a582","#d6604d","#b2182b"],
+"varname": ["change_2004_2014"],
+"varload": "change_2004_2014",
+"varunit":["% change since 2004"],
+"varprefix":["",""],
+"breaks":[[-5.8,0,6.4,10,16,35]],
+"average":[63.5,65.4],
+"averagelabel":"E&W",
+"centre":[53.344,-1.91],
+"zoom":6
+
+}}

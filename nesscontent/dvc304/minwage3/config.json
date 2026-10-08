@@ -1,0 +1,55 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+        
+            "dateFormat":"%Y",
+        
+            "legendLabels" : ["Below -10%","-10% to -5%","-5% to -2.5%","-2.5% to -0.5%","-0.5% to 0.5%","0.5% to 2.5%","2.5% to 5%","5% to 10%","Above 10%"],
+        
+            "sourceText":["Annual Survey of Hours and Earnings, ONS"],
+            "sourceURL":["http://www.ons.gov.uk/ons/rel/ashe/annual-survey-of-hours-and-earnings/index.html"],
+        
+            "annotationChart": [
+                
+            ],
+            "annotationBullet": [
+               
+            ],
+            "annotationXY":[
+                ["1921","75"]
+                
+            ],
+            "annotationAlign":[
+                "middle"
+            ],
+        
+            "circles" : false,    
+            "annotationCXCY":[
+                ["Rail","68.4"],
+                ["Underground","73"]
+            ],
+        
+            "yAxisLabel":"%",
+            "yAxisScale":[0,100],   
+            "yAxisBreak": true,
+            "yAxisBreak_sm_md_lg": [65,65,65]            
+    },
+    "optional" : {
+            "margin_sm": [35, 10, 25, 30],
+            "margin_md": [35, 10, 25, 30],
+            "margin_lg": [35, 10, 25, 30],
+        
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+        
+            "mobileBreakpoint" : 610, 
+            
+            "xAxisTextFormat_sm_md_lg" : ["%y", "%Y", "%Y"], 
+                
+            "x_num_ticks_sm_md_lg" : [4,2,2],    
+            "y_num_ticks_sm_md_lg" : [6,8,10]
+    }
+}
+
+

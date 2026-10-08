@@ -1,0 +1,62 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+            "pickxdata":"oftenalways",
+            "pickydata":"unemrate",
+
+            "sourceText":["Office for National Statistics"],
+            "sourceURL":["http://www.ons.gov.uk/"],
+            "rectannotations":[{
+              "x":-222,
+              "y":-5000,
+              "width":5000,
+              "height":5000,
+              "colour":"grey",
+              "opacity":0.1
+            },
+            {
+              "x":-8000,
+              "y":-1000,
+              "width":8000,
+              "height":8000,
+              "colour":"grey",
+              "opacity":0.1
+            }],
+            "textAnnotations":[{
+                "x":16,
+                "y":-100,
+                "text":"R² = 0.1597"
+              },{
+                "x":-7000,
+                "y":-1000,
+                "text":"example annotation text"
+                }],
+            "textAnnotationWrap":100,
+            "d3AnnotationWrap":300,
+            "xAxisLabel":"People reporting often or always lonely (%)",
+            "yAxisLabel":"Unemployment rate (%)",
+            "AxisScale":"auto_zero_max",
+      			"xAxisScale":[0,20],
+      			"yAxisScale":[0,9]
+
+	},
+    "optional" : {
+            "margin_sm": [30 ,20, 20, 40],
+            "margin_md": [30, 20, 0, 40],
+            "margin_lg": [50, 50, 0, 40],
+
+            "aspectRatio_sm" : [1.5,1],
+            "aspectRatio_md" : [1.5,1],
+            "aspectRatio_lg" : [1.5,1],
+
+            "mobileBreakpoint" : 610,
+
+            "x_num_ticks_sm_md_lg" : [4,4,5],
+            "y_num_ticks_sm_md_lg" : [4,4,5],
+
+            "annotateLineX1_Y1_X2_Y2":[[[1.47,2.725628],[17.9,5.39386]],[[-6000,2000],[-1000,-100]]],
+            "lineColor_opcty" : [["#206095", 1],["#36ADD9", 0.5]]
+
+
+    }
+}

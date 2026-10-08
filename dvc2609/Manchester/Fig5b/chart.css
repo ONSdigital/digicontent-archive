@@ -1,0 +1,99 @@
+#legendwrapper{width: 100vw}
+
+
+#legend{
+  float:left;
+  width:200px;
+}
+#legend2{
+  /* position: relative */
+  float:left;
+  width:200px;
+}
+.chartlabel{
+  fill: #707071;
+  font-size: 16px;
+  font-weight: 700;
+}
+.dataLabels{
+  font-weight: 600;
+  font-size: 14px;
+  text-anchor: middle;
+}
+.medianlinetext{
+  font-size: 14px;
+  fill:#414042;
+}
+.femaletext {
+  font-size: 14px;
+  fill:#9a86e9;
+  font-weight: 600;
+}
+.maletext {
+  font-size: 14px;
+  fill:#3fb0b3;
+  font-weight: 600;
+}
+.subhead{
+  font-weight: 600;
+  font-size: 14px;
+  max-width:300px;
+}
+.subhead2{
+  font-weight: 400;
+  font-size: 14px !important;
+  max-width:300px;
+}
+
+.area {
+    /* stroke: yellow;
+  stroke-width: 3px; */
+  fill:#27A0CC;
+  /* stroke-linecap: round;
+  stroke-linejoin: round; */
+}
+.arealeft{
+  fill:#9a86e9;
+}
+.arearight{
+  fill:#3fb0b3;
+}
+.areazero{
+  fill:#d3d3d3;
+}
+  #zero-line{stroke:#b3b3b3;
+  stroke-width: 1.5px;}
+
+  .annotation-line{stroke:#B3B3B3;
+  stroke-width: 2px;
+  stroke-dasharray: 4 4;}
+/*
+
+    .annotation-line{stroke:#707071;
+  stroke-width: 2px;
+  stroke-dasharray: 4 4;} */
+
+
+  #ticky11{
+    fill:#414042;
+    font-weight: 600;
+    font-size: 14px;
+  }
+
+
+
+  .annotation-text{
+    fill:#414042;
+    font-weight: 600;
+    font-size: 14px;
+  }
+
+
+  .confidence-line{
+    stroke:#424242;
+    stroke-width: 2px;
+  }
+
+  .legend-text{
+    font-size: 14px;
+  }

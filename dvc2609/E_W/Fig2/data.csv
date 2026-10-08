@@ -1,0 +1,330 @@
+id,unique,value
+London,Tower Hamlets,0.0478
+London,Westminster,0.0354
+London,Newham,0.0301
+London,Camden,0.0283
+London,Kensington and Chelsea,0.0283
+East Midlands,South Derbyshire,0.0282
+South West,Exeter,0.0265
+North West,Manchester,0.0255
+North East,Middlesbrough,0.0246
+North West,Salford,0.0246
+North East,Newcastle upon Tyne,0.0242
+West Midlands,Coventry,0.0238
+East Midlands,Nottingham,0.0231
+London,Southwark,0.0229
+North West,Preston,0.0228
+South East,Winchester,0.0216
+West Midlands,Warwick,0.0213
+South East,Dartford,0.0207
+South East,Ashford,0.0206
+South East,Maidstone,0.0206
+East,Central Bedfordshire,0.0202
+East Midlands,Harborough,0.0199
+London,Hillingdon,0.0197
+South East,Vale of White Horse,0.0197
+Wales,Cardiff,0.0195
+South East,Crawley,0.0193
+London,Hammersmith and Fulham,0.0187
+North West,Liverpool,0.0185
+South East,Southampton,0.0185
+East Midlands,North West Leicestershire,0.0184
+London,Hackney,0.0184
+London,Hounslow,0.0181
+South East,Bracknell Forest,0.0178
+London,Brent,0.0176
+West Midlands,Stratford-on-Avon,0.0176
+East,Mid Suffolk,0.0174
+South East,Wokingham,0.0173
+South East,Runnymede,0.017
+East,Cambridge,0.0167
+Yorkshire and The Humber,Sheffield,0.0166
+London,Islington,0.0164
+East,Babergh,0.016
+South West,Tewkesbury,0.0159
+North West,Ribble Valley,0.0159
+North West,Wyre,0.0155
+West Midlands,Rugby,0.0154
+North West,West Lancashire,0.015
+East,Maldon,0.0147
+South East,Slough,0.0147
+East Midlands,South Holland,0.0147
+South West,South Gloucestershire,0.0145
+North West,Bolton,0.0143
+East,Bedford,0.0142
+West Midlands,Telford and Wrekin,0.0141
+London,Barking and Dagenham,0.0141
+Yorkshire and The Humber,Selby,0.0139
+East,South Norfolk,0.0139
+South East,South Oxfordshire,0.0139
+North West,Burnley,0.0139
+East,Huntingdonshire,0.0138
+South East,Basingstoke and Deane,0.0138
+North West,Knowsley,0.0137
+East,Tendring,0.0136
+West Midlands,Birmingham,0.0136
+South East,Cherwell,0.0134
+Yorkshire and The Humber,Wakefield,0.0134
+East Midlands,Leicester,0.0133
+South West,"Bristol, City of",0.0133
+East,Watford,0.0132
+North West,Rochdale,0.0131
+West Midlands,Wolverhampton,0.0131
+South East,Reigate and Banstead,0.0131
+South East,Milton Keynes,0.013
+East,South Cambridgeshire,0.0128
+East,Colchester,0.0128
+East Midlands,Derby,0.0127
+East Midlands,West Lindsey,0.0126
+London,Redbridge,0.0126
+South East,Wealden,0.0125
+East,East Cambridgeshire,0.0125
+South East,Surrey Heath,0.0124
+North West,Pendle,0.0124
+East,Harlow,0.0123
+North West,Cheshire East,0.0123
+East Midlands,Bolsover,0.0122
+South West,Stroud,0.0121
+East,Broadland,0.0121
+Yorkshire and The Humber,Bradford,0.0119
+London,Ealing,0.0119
+South East,Reading,0.0119
+London,Greenwich,0.0118
+North West,Blackburn with Darwen,0.0118
+London,Croydon,0.0118
+South East,Eastleigh,0.0117
+South East,Buckinghamshire,0.0116
+South East,Mid Sussex,0.0116
+North West,Hyndburn,0.0115
+London,Harrow,0.0115
+West Midlands,Wychavon,0.0115
+East,Thurrock,0.0115
+Yorkshire and The Humber,York,0.0115
+East Midlands,Broxtowe,0.0115
+North West,Oldham,0.0114
+West Midlands,North Warwickshire,0.0113
+Wales,Newport,0.0113
+South West,Swindon,0.0112
+East,Uttlesford,0.0112
+Yorkshire and The Humber,Leeds,0.0111
+North East,Hartlepool,0.0111
+West Midlands,Sandwell,0.0111
+East Midlands,Rushcliffe,0.011
+North West,Carlisle,0.011
+South West,East Devon,0.011
+London,Havering,0.011
+Yorkshire and The Humber,Hambleton,0.0109
+South East,West Oxfordshire,0.0109
+East Midlands,Newark and Sherwood,0.0108
+Wales,Swansea,0.0108
+South East,Oxford,0.0107
+South East,Tonbridge and Malling,0.0107
+London,Barnet,0.0106
+North West,Lancaster,0.0106
+South East,Horsham,0.0105
+South East,East Hampshire,0.0104
+East,Welwyn Hatfield,0.0104
+North East,Darlington,0.0104
+West Midlands,Nuneaton and Bedworth,0.0101
+Yorkshire and The Humber,Craven,0.0101
+West Midlands,Malvern Hills,0.0101
+East,Luton,0.0101
+South West,Wiltshire,0.0099
+Yorkshire and The Humber,Harrogate,0.0099
+South West,Bath and North East Somerset,0.0099
+East Midlands,Rutland,0.0099
+West Midlands,Stoke-on-Trent,0.0098
+East,Peterborough,0.0097
+London,Lambeth,0.0097
+London,Wandsworth,0.0096
+North West,Fylde,0.0096
+East,Chelmsford,0.0096
+North East,North Tyneside,0.0095
+Wales,Ceredigion,0.0094
+South East,Waverley,0.0094
+East,Basildon,0.0093
+South East,Hart,0.0093
+East Midlands,West Northamptonshire,0.0093
+East,Rochford,0.0093
+South East,Tandridge,0.0093
+East Midlands,Blaby,0.0093
+East Midlands,North East Derbyshire,0.0092
+South East,Spelthorne,0.0091
+West Midlands,Lichfield,0.0091
+East,Braintree,0.0091
+East Midlands,North Northamptonshire,0.0091
+North West,Wigan,0.009
+South West,Mid Devon,0.009
+South East,Test Valley,0.009
+West Midlands,Tamworth,0.0089
+North West,Cheshire West and Chester,0.0089
+East Midlands,Charnwood,0.0088
+East,East Hertfordshire,0.0088
+Yorkshire and The Humber,Kirklees,0.0088
+South East,Windsor and Maidenhead,0.0088
+Wales,Vale of Glamorgan,0.0087
+North West,St. Helens,0.0086
+Yorkshire and The Humber,Ryedale,0.0085
+South West,Somerset West and Taunton,0.0084
+North West,Tameside,0.0083
+South East,Elmbridge,0.0082
+North East,Stockton-on-Tees,0.0082
+Wales,Monmouthshire,0.0082
+South West,"Bournemouth, Christchurch and Poole",0.0082
+West Midlands,Walsall,0.0082
+East Midlands,Ashfield,0.0081
+North West,Eden,0.0081
+South East,Guildford,0.0081
+East,Brentwood,0.0081
+North East,Gateshead,0.0081
+Yorkshire and The Humber,Rotherham,0.0081
+East Midlands,North Kesteven,0.008
+East,King's Lynn and West Norfolk,0.0078
+London,Lewisham,0.0078
+London,Kingston upon Thames,0.0078
+South West,North Somerset,0.0077
+South West,North Devon,0.0076
+Wales,Pembrokeshire,0.0075
+East,Hertsmere,0.0074
+Yorkshire and The Humber,Barnsley,0.0073
+Wales,Bridgend,0.0072
+South East,Dover,0.0071
+Yorkshire and The Humber,East Riding of Yorkshire,0.007
+South West,West Devon,0.007
+South West,Plymouth,0.007
+East Midlands,Oadby and Wigston,0.0069
+Yorkshire and The Humber,Calderdale,0.0069
+West Midlands,"Herefordshire, County of",0.0069
+South West,Cornwall,0.0068
+North West,Halton,0.0068
+North West,Bury,0.0067
+South East,Medway,0.0067
+London,Enfield,0.0067
+North West,South Ribble,0.0067
+West Midlands,Shropshire,0.0066
+South East,Sevenoaks,0.0066
+East Midlands,Hinckley and Bosworth,0.0066
+East Midlands,Mansfield,0.0065
+South West,South Somerset,0.0065
+South East,Swale,0.0064
+Wales,Carmarthenshire,0.0064
+North West,Stockport,0.0063
+East,Broxbourne,0.0063
+North East,Sunderland,0.0062
+London,Sutton,0.0062
+North West,Rossendale,0.0062
+East,Three Rivers,0.0062
+South East,West Berkshire,0.0061
+Yorkshire and The Humber,"Kingston upon Hull, City of",0.0061
+East Midlands,Melton,0.0061
+South East,Brighton and Hove,0.0061
+West Midlands,Dudley,0.006
+North East,South Tyneside,0.006
+South East,Worthing,0.006
+North West,Sefton,0.0059
+West Midlands,Stafford,0.0059
+East,Fenland,0.0059
+South West,Sedgemoor,0.0058
+London,Bexley,0.0057
+East Midlands,East Lindsey,0.0057
+East Midlands,Amber Valley,0.0057
+North East,County Durham,0.0057
+South West,Gloucester,0.0057
+North East,Northumberland,0.0056
+London,Haringey,0.0056
+West Midlands,Newcastle-under-Lyme,0.0056
+Wales,Gwynedd,0.0055
+Wales,Torfaen,0.0055
+Wales,Denbighshire,0.0054
+South West,Mendip,0.0054
+London,Merton,0.0053
+East,St Albans,0.0053
+South West,South Hams,0.0053
+South East,Rother,0.0053
+West Midlands,East Staffordshire,0.0052
+East Midlands,Chesterfield,0.0051
+South East,Chichester,0.005
+South East,Portsmouth,0.0049
+London,Waltham Forest,0.0048
+Wales,Wrexham,0.0048
+South East,Folkestone and Hythe,0.0046
+Wales,Rhondda Cynon Taf,0.0046
+South East,Mole Valley,0.0046
+East Midlands,Bassetlaw,0.0046
+South East,Tunbridge Wells,0.0046
+Yorkshire and The Humber,North East Lincolnshire,0.0045
+West Midlands,Solihull,0.0044
+North West,Wirral,0.0043
+East,Norwich,0.0043
+South East,Epsom and Ewell,0.0043
+East Midlands,Derbyshire Dales,0.0042
+East,North Hertfordshire,0.0042
+North East,Redcar and Cleveland,0.0041
+East,Dacorum,0.0041
+South West,Forest of Dean,0.004
+London,Richmond upon Thames,0.0039
+West Midlands,Redditch,0.0038
+South East,Gravesham,0.0038
+North West,Trafford,0.0038
+East,Stevenage,0.0038
+South West,Teignbridge,0.0038
+Yorkshire and The Humber,North Lincolnshire,0.0037
+West Midlands,Cannock Chase,0.0036
+South West,Torridge,0.0035
+South East,Woking,0.0035
+Wales,Flintshire,0.0035
+Yorkshire and The Humber,Richmondshire,0.0034
+North West,Chorley,0.0034
+East Midlands,Gedling,0.0033
+South East,Rushmoor,0.0033
+South West,Cotswold,0.0033
+South East,Arun,0.0033
+West Midlands,Wyre Forest,0.0032
+Wales,Powys,0.0032
+Yorkshire and The Humber,Doncaster,0.0031
+East,West Suffolk,0.0031
+North West,Barrow-in-Furness,0.0031
+South East,Eastbourne,0.003
+East,Epping Forest,0.0029
+South East,Canterbury,0.0029
+North West,Blackpool,0.0028
+North West,Copeland,0.0028
+North West,Allerdale,0.0027
+South West,Dorset,0.0027
+London,Bromley,0.0026
+East,Southend-on-Sea,0.0026
+Wales,Isle of Anglesey,0.0025
+South East,Havant,0.0025
+North West,South Lakeland,0.0024
+Wales,Neath Port Talbot,0.0024
+South West,Cheltenham,0.0023
+Wales,Caerphilly,0.0022
+East,East Suffolk,0.0021
+West Midlands,Worcester,0.002
+South East,Gosport,0.0015
+West Midlands,Bromsgrove,0.0014
+East,Castle Point,0.0013
+South East,Adur,0.0013
+East,Breckland,0.001
+East Midlands,Erewash,0.0008
+Wales,Merthyr Tydfil,0.0008
+South East,Thanet,0.0007
+East Midlands,High Peak,0.0007
+Wales,Blaenau Gwent,0.0003
+South East,New Forest,0.0001
+West Midlands,Staffordshire Moorlands,0
+East Midlands,South Kesteven,-0.0002
+South East,Lewes,-0.0006
+North West,Warrington,-0.0006
+South East,Isle of Wight,-0.0009
+South West,Torbay,-0.001
+South East,Fareham,-0.001
+Wales,Conwy,-0.0012
+East,Great Yarmouth,-0.0013
+Yorkshire and The Humber,Scarborough,-0.0016
+South East,Hastings,-0.0019
+East Midlands,Boston,-0.0025
+East,North Norfolk,-0.0028
+East,Ipswich,-0.0038
+East Midlands,Lincoln,-0.0039
+West Midlands,South Staffordshire,-0.0089

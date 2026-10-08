@@ -1,0 +1,45 @@
+{
+    "essential" : {
+            "graphic_data_url": "data2.csv",
+        
+            "dateFormat":"%Y",
+        
+            "legendLabels" : [],
+        
+            "sourceText":["Office for National Statistics"],
+            "sourceURL":["http://www.ons.gov.uk/ons/rel/vsob1/cancer-statistics-registrations--england--series-mb1-/no--44--2013/stb-cancer-registration-2013.html#tab-Cancer-incidence-in-England-"],
+        
+            "annotationChart": ["Cancer cases  have doubled  in the past  40 years"],
+            "annotationBullet": [],
+            "annotationXY":[
+                ["1971","280000"],
+                ["2008","3"]
+            ],
+            "annotationAlign":[
+                "middle",
+                "middle"
+            ],
+        
+            "yAxisLabel":"number of cases",
+            "yAxisScale":[0,300000],   
+            "yAxisBreak": true,
+            "yAxisBreak_sm_md_lg": [65,65,65]            
+    },
+    "optional" : {
+            "margin_sm": [20, 10, 0, 60],
+            "margin_md": [20, 10, 0, 60],
+            "margin_lg": [20, 10, 0, 60],
+        
+            "aspectRatio_sm" : [16,14],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+        
+            "mobileBreakpoint" : 650, 
+                           
+            "y_num_ticks_sm_md_lg" : [6,8,10],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}
+
+

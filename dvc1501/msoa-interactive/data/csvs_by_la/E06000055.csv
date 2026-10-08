@@ -1,0 +1,61 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02003616,Bedford 001,Riseley & Sharnbrook,0,2,1,0,1,0,0,0,0,2,3,1,1,0,covid
+E02003617,Bedford 002,"Harrold, Chellington & Turvey",0,2,0,2,1,0,0,1,0,2,6,2,0,0,covid
+E02003618,Bedford 003,"Clapham, Oakley & Thurleigh",1,2,1,0,0,1,0,0,1,0,4,6,0,0,covid
+E02003619,Bedford 004,"Wyboston, Great Barford & Cople",0,5,5,1,1,1,0,0,5,3,6,9,0,0,covid
+E02003620,Bedford 005,Brickhill,0,6,2,2,0,0,1,0,4,2,3,8,0,0,covid
+E02003621,Bedford 006,Putnoe,2,3,0,0,1,0,0,0,1,1,8,5,0,0,covid
+E02003622,Bedford 007,Goldington,1,5,0,1,1,0,0,1,0,4,12,8,1,0,covid
+E02003623,Bedford 008,Bromham & Biddenham,2,2,3,1,0,0,0,0,2,1,6,2,0,0,covid
+E02003624,Bedford 009,De Parys,1,8,5,0,0,0,0,0,1,2,7,11,0,0,covid
+E02003625,Bedford 010,Harpur,2,8,9,3,3,0,1,1,0,2,9,7,2,0,covid
+E02003626,Bedford 011,Newnham,1,2,0,0,0,0,0,0,0,0,3,0,1,1,covid
+E02003627,Bedford 012,Castle & Kingsway,0,6,3,3,0,1,0,0,0,8,10,4,1,0,covid
+E02003628,Bedford 013,Queens Park,0,4,4,0,1,0,0,0,1,6,4,5,0,1,covid
+E02003629,Bedford 014,Kingsbrook,0,2,5,0,1,0,0,0,1,3,2,4,4,0,covid
+E02003630,Bedford 015,Cauldwell,0,1,1,0,3,0,0,0,1,2,9,7,0,0,covid
+E02003631,Bedford 016,Kempston North,0,4,2,0,0,0,0,0,0,0,5,6,1,0,covid
+E02003632,Bedford 017,Kempston Central & East,0,1,4,0,0,0,0,0,0,2,2,1,1,1,covid
+E02003633,Bedford 018,Kempston West & South,1,1,5,3,0,0,0,0,1,0,11,7,1,0,covid
+E02003634,Bedford 019,"Elstow, Shortstown & Wixams",1,3,1,0,0,0,0,0,4,4,6,5,0,1,covid
+E02003635,Bedford 020,Wootton & Stewartby,0,2,0,1,0,0,0,0,1,1,6,4,0,0,covid
+E02003616,Bedford 001,Riseley & Sharnbrook,2,5,1,5,1,3,6,8,9,5,3,4,5,1,noncovid
+E02003617,Bedford 002,"Harrold, Chellington & Turvey",6,8,6,7,2,7,4,6,5,4,7,12,7,4,noncovid
+E02003618,Bedford 003,"Clapham, Oakley & Thurleigh",3,6,1,7,3,6,7,4,8,8,11,10,7,10,noncovid
+E02003619,Bedford 004,"Wyboston, Great Barford & Cople",9,12,6,5,11,8,7,11,8,7,19,9,6,4,noncovid
+E02003620,Bedford 005,Brickhill,5,9,6,8,8,9,5,8,7,6,11,6,3,9,noncovid
+E02003621,Bedford 006,Putnoe,4,7,6,7,3,4,8,9,5,8,8,9,8,6,noncovid
+E02003622,Bedford 007,Goldington,5,9,7,7,6,5,8,4,9,6,10,6,4,12,noncovid
+E02003623,Bedford 008,Bromham & Biddenham,6,10,2,5,7,4,6,6,9,6,6,5,4,3,noncovid
+E02003624,Bedford 009,De Parys,13,15,8,8,8,7,3,12,12,11,8,7,10,3,noncovid
+E02003625,Bedford 010,Harpur,17,26,10,13,8,10,10,10,13,11,15,8,15,15,noncovid
+E02003626,Bedford 011,Newnham,8,2,7,1,3,3,2,2,0,1,1,4,4,3,noncovid
+E02003627,Bedford 012,Castle & Kingsway,7,18,8,5,9,5,3,3,9,11,9,7,7,6,noncovid
+E02003628,Bedford 013,Queens Park,1,7,2,3,4,2,3,4,2,4,3,3,2,6,noncovid
+E02003629,Bedford 014,Kingsbrook,6,15,9,5,4,6,5,6,5,2,10,7,9,12,noncovid
+E02003630,Bedford 015,Cauldwell,1,5,5,4,4,8,7,4,5,3,5,3,3,3,noncovid
+E02003631,Bedford 016,Kempston North,5,7,1,2,5,4,4,6,1,2,3,3,3,2,noncovid
+E02003632,Bedford 017,Kempston Central & East,3,5,4,5,1,2,5,1,1,3,8,2,6,1,noncovid
+E02003633,Bedford 018,Kempston West & South,3,5,5,5,6,2,3,4,3,8,2,6,7,6,noncovid
+E02003634,Bedford 019,"Elstow, Shortstown & Wixams",6,4,10,3,10,1,8,8,7,6,6,5,7,7,noncovid
+E02003635,Bedford 020,Wootton & Stewartby,9,4,7,5,6,5,2,6,1,5,8,3,4,4,noncovid
+E02003616,Bedford 001,Riseley & Sharnbrook,6,4,4,6,5,3,5,4,3,6,6,5,6,4,average
+E02003617,Bedford 002,"Harrold, Chellington & Turvey",7,8,5,5,5,5,6,5,4,7,9,9,7,8,average
+E02003618,Bedford 003,"Clapham, Oakley & Thurleigh",7,5,5,5,5,6,6,6,4,7,6,9,7,5,average
+E02003619,Bedford 004,"Wyboston, Great Barford & Cople",9,9,8,8,8,9,9,7,7,11,12,10,9,9,average
+E02003620,Bedford 005,Brickhill,5,7,5,6,5,6,8,5,6,8,8,8,5,7,average
+E02003621,Bedford 006,Putnoe,5,7,6,6,8,7,6,7,8,6,10,7,5,7,average
+E02003622,Bedford 007,Goldington,5,6,5,5,6,6,5,6,6,5,9,8,5,6,average
+E02003623,Bedford 008,Bromham & Biddenham,6,4,3,3,5,4,5,5,7,4,6,6,6,4,average
+E02003624,Bedford 009,De Parys,13,8,9,8,7,8,8,7,8,9,11,10,13,8,average
+E02003625,Bedford 010,Harpur,18,18,15,15,14,13,13,12,16,18,22,16,18,18,average
+E02003626,Bedford 011,Newnham,4,3,2,3,4,3,2,2,2,3,3,2,4,3,average
+E02003627,Bedford 012,Castle & Kingsway,9,10,8,7,7,9,9,9,10,9,10,8,9,10,average
+E02003628,Bedford 013,Queens Park,6,3,3,4,4,3,2,3,4,4,6,3,6,3,average
+E02003629,Bedford 014,Kingsbrook,7,6,8,4,5,5,6,6,8,7,10,8,7,6,average
+E02003630,Bedford 015,Cauldwell,5,5,4,6,5,5,7,5,6,4,8,4,5,5,average
+E02003631,Bedford 016,Kempston North,3,6,4,3,4,5,4,5,4,5,6,6,3,6,average
+E02003632,Bedford 017,Kempston Central & East,4,5,3,3,4,3,4,4,3,3,6,3,4,5,average
+E02003633,Bedford 018,Kempston West & South,5,5,4,4,3,3,4,4,4,6,6,4,5,5,average
+E02003634,Bedford 019,"Elstow, Shortstown & Wixams",6,6,4,8,6,5,6,6,6,7,7,6,6,6,average
+E02003635,Bedford 020,Wootton & Stewartby,3,4,3,4,4,3,4,4,4,5,4,3,3,4,average

@@ -1,0 +1,100 @@
+{   "area_on_off": false,
+    
+    "area_on_off_2": false,
+    
+    "axis_scale_max": 40000,
+    
+    "essential" : {
+            "graphic_data_url": "data.csv",
+        
+            "dateFormat":"%Y",
+            
+            "legendLabels" : ["imports","exports"],
+            "legendStyle": "line", 
+            "colour_palette": [ "rgb(237, 2 , 140)", "rgb(16, 116, 188)" ],
+            
+            "sourceText":["Balance of Payments annual geographical data tables, 2015, ONS"],
+            "sourceURL":["https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/adhocs/006656balanceofpaymentsannualgeographicaldatatables"],
+			
+			"annotationPlace":[0,0,1,1],
+                
+            "annotationChart": [
+				"The UK has imported more goods  than it has exported with commonwealth  countries since 1999",
+				"Million (£)",
+				"Million (£)",
+				"The UK has exported more services  than it has imported with commonwealth  countries since 2003"
+            ],
+            "annotationXY":[
+				["2009","15000"],
+				["2016","45000"],
+				["2016","45000"],
+				["2010","35000"]
+            ],
+            "annotationAlign":[
+				"start",
+				"end",
+				"end",
+				"end"
+            ],
+        
+            "circles" : false,    
+            "annotationCXCY":[
+                ["2003","68.4"],
+                ["2008","73"]
+            ],
+
+            "yAxisLabel":"",
+            "yAxisScale":[0,40000],   
+            "yAxisBreak": false,
+            "yAxisBreak_sm_md_lg": [65,65,65]            
+    },
+    
+    "optional" : {
+            "margin_sm": [40, 70, 10, 0],
+            "margin_md": [40, 70, 10, 0],
+            "margin_lg": [40, 70, 10, 0],
+        
+            "aspectRatio_sm" : [4,2],
+            "aspectRatio_md" : [4,1],
+            "aspectRatio_lg" : [4,1],
+        
+            "mobileBreakpoint" : 480, 
+            
+            "xAxisTextFormat_sm_md_lg" : ["%Y", "%Y", "%Y"], 
+                
+            "x_num_ticks_sm_md_lg" : [20,20,20],    
+            "y_num_ticks_sm_md_lg" : [5,11,11],
+        
+            "lineMarkers" : true,
+        
+            "vertical_line" : true,
+			"vertical_lines_on": [0,1],
+            "annotateLineX1_Y1_X2_Y2" : [ [["2009", "22000"],["2009", "29000"]],[["2010", "15000"],["2010", "21000"]] ],
+        
+            "annotateRect" : true,
+			"annotateRect_on" : [],
+            "annotateRectX_Y" : [ [["2015", 230],["2015", 0]], 
+								  [["2008", 230],["2010", 0]],
+								  [["2008", 230],["2010", 0]], 
+								  [["2008", 230],["2010", 0]],
+								  [["2008", 230],["2010", 0]], 
+								  [["2008", 230],["2010", 0]],
+								  [["2008", 230],["2010", 0]],
+								  [["2008", 230],["2010", 0]]
+							 ],
+            "lineColor_opcty" : [["#dadada", 1],
+								 ["#dadada", 1],
+								 ["#dadada", 0.5],
+								 ["#dadada", 0.5],
+								 ["#dadada", 0.5],
+								 ["#dadada", 0.5],
+								 ["#dadada", 0.5],
+								 ["#dadada", 0.5]
+							],
+        
+            "centre_line" : true,
+            "centre_line_value" : 25
+    }
+}
+
+

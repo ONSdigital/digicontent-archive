@@ -1,0 +1,173 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "dateFormat": "%d-%b-%Y",
+    "legendLabels": [
+      "75 years and above",
+      "0 to 74 years"
+    ],
+    "legendStyle": "rect",
+    "colour_palette": [
+      "#206095",
+      "#118C7B",
+      "#003C57",
+      "#A8BD3A",
+      "27A0CC"
+    ],
+    "sourceText": [
+      "Office for National Statistics - Deaths registered weekly in England and Wales, NHS England"
+    ],
+    "sourceURL": [
+      "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/publicsectorpersonnel/bulletins/publicsectoremployment/previousReleases"
+    ],
+    "draggable": false,
+    "annotationsChart": [
+      {
+        "xVal": "07-Feb-21",
+        "yVal": 0.6,
+        "path": "",
+        "text": "Approximately 90% of adults aged 75 and over received their first dose",
+        "textOffset": [
+          -4,
+          0]
+      },
+
+      {
+        "xVal": "25-Apr-21",
+        "yVal": 0.3,
+        "path": "",
+        "text": "Approximately 90% of adults aged 75 and over received their second dose",
+        "textOffset": [
+          4,
+          0]
+      }
+
+    ],
+    "wordwrap": [
+      15,
+      15
+    ],
+    "annoAlign": [
+      "end",
+      "start"
+    ],
+    "annotationBullet": [],
+    "circles": false,
+    "annotationCXCY": [],
+    "yAxisLabel": "",
+    "yAxisScale": "auto_zero_max",
+    "yAxisBreak": false,
+    "yAxisBreak_sm_md_lg": [
+      65,
+      65,
+      65
+    ]
+  },
+  "optional": {
+    "margin_sm": [
+      50,
+      20,
+      55,
+      55
+    ],
+    "margin_md": [
+      50,
+      20,
+      55,
+      55
+    ],
+    "margin_lg": [
+      50,
+      20,
+      10,
+      55
+    ],
+    "aspectRatio_sm": [
+      13,
+      13
+    ],
+    "aspectRatio_md": [
+      16,
+      12
+    ],
+    "aspectRatio_lg": [
+      16,
+      12
+    ],
+    "mobileBreakpoint": 610,
+    "xAxisTextFormat_sm_md_lg": [
+      "%b '%y",
+      "%b '%y",
+      "%b '%y"
+    ],
+    "x_num_ticks_sm_md_lg": [
+      0,
+      8,
+      8
+    ],
+    "y_num_ticks_sm_md_lg": [
+      5,
+      5,
+      5
+    ],
+    "lineMarkers": false,
+    "vertical_line": true,
+    "annotateLineX1_Y1_X2_Y2": [
+      [
+        [
+          "07-Feb-21",
+          "1"
+        ],
+        [
+          "07-Feb-21",
+          "0"
+        ]
+      ],
+      [
+        [
+          "25-Apr-21",
+          "1"
+        ],
+        [
+          "25-Apr-21",
+          "0"
+        ]
+      ]
+    ],
+    "annotateRect": false,
+    "annotateRectX_Y": [
+      [
+        [
+          "Jan-94",
+          200
+        ],
+        [
+          "Jan-96",
+          0
+        ]
+      ],
+      [
+        [
+          "Jul-04",
+          180
+        ],
+        [
+          "Jul-06",
+          40
+        ]
+      ]
+    ],
+    "lineColor_opcty": [
+      [
+        "#ABCDEF",
+        0.2
+      ],
+      [
+        "#888",
+        0.4
+      ]
+    ],
+    "centre_line": false,
+    "centre_line_value": 0
+  }
+}

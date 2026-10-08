@@ -1,0 +1,16 @@
+{
+    "essential" : {
+            "Labels": ["Employment and business","Study","Other (inc holidays, travelling, visiting family and friends)"],
+                
+            "Values": [191000,41000,2215000],
+        
+            "Question" : "What are the main reasons for short-term (1 to 12 months) international visits away from England and Wales?",
+        
+            "Reveal" : "",
+        
+            "sourceText":["Short-Term International Migration Estimates, ONS"],
+            "sourceURL":["https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/datasets/shorttermmigrationestimatesforenglandandwalesstim01citizenshipbymainreasonformigrationflows"]
+    }
+}
+
+

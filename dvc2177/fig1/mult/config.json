@@ -1,0 +1,110 @@
+{
+  "essential": {
+    "graphic_data_url": "ages.csv",
+    "dateFormat": "%d/%m/%Y",
+    "colour_palette": [
+      {
+        "key": "Region",
+        "colour": "#206095",
+        "smallkey": "Region",
+        "legendstyle": "line",
+        "opacity": "1",
+        "dash": "false"
+      },
+      {
+        "key": "95% credible interval",
+        "colour": "#c6c6c6",
+        "smallkey": "95% credible interval",
+        "legendstyle": "rect",
+        "opacity": "0.9",
+        "dash": "false"
+      },
+      {
+        "key": "England",
+        "colour": "#808080",
+        "smallkey": "England",
+        "legendstyle": "line",
+        "opacity": "1",
+        "dash": "true"
+      }
+    ],
+    "categorySort": [
+      "North East",
+      "North West",
+      "Yorkshire and The Humber",
+      "East Midlands",
+      "West Midlands",
+      "East of England",
+      "London",
+      "South East",
+      "South West"
+    ],
+    "sourceText": [
+      "Source: Office for National Statistics – Coronavirus (COVID-19) Infection Survey"
+    ],
+    "xAxisLabel": "Week beginning",
+    "yAxisLabel": "%",
+    "yAxisScale": [
+      0,
+      4
+    ]
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 15,
+        "right": 35,
+        "bottom": 45,
+        "left": 30
+      },
+      "md": {
+        "top": 15,
+        "right": 35,
+        "bottom": 50,
+        "left": 30
+      },
+      "lg": {
+        "top": 15,
+        "right": 35,
+        "bottom": 45,
+        "left": 30
+      }
+    },
+    "chart_every": {
+      "sm": 1,
+      "md": 3,
+      "lg": 3
+    },
+    "aspectRatio": {
+      "sm": [
+        16,
+        8
+      ],
+      "md": [
+        16,
+        8
+      ],
+      "lg": [
+        16,
+        10
+      ]
+    },
+    "legendHeight": {
+      "sm": 40,
+      "md": 40,
+      "lg": 40
+    },
+    "anno_rectangle": [
+      "01/01/2022",
+      "27/02/2022"
+    ],
+    "anno_rectangle_colour": "#d3d3d3",
+    "mobileBreakpoint": 480,
+    "middleBreakpoint": 670,
+    "x_ticks_every": {
+      "sm": 10,
+      "md": 10,
+      "lg": 10
+    }
+  }
+}

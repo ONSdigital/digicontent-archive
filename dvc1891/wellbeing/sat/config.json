@@ -1,0 +1,80 @@
+{
+  "essential": {
+    "graphic_data_url": "../data.csv",
+    "dateFormat": "%d/%m/%Y",
+    "legendLabels": [],
+    "colour_palette": ["#206095","#27A0CC"],
+    "legendStyle": ["line", "line"],
+    "plotLines": [
+      {
+        "key": "satav",
+        "colour": "#878787",
+        "strokedasharray": "4 12",
+        "strokewidth":"2px"
+      },{
+      "key": "sat",
+      "colour": "#206095"
+    }
+
+  ],
+  "directLabels": [],
+    "sourceText": ["Office for National Statistics"],
+    "circles": false,
+    "yAxisLabel": "Score",
+    "xAxisLabel": "",
+    "yAxisScale": [7, 8.2],
+    "yAxisBreak": false,
+    "yAxisBreakValue": {
+      "sm": 12,
+      "md": 10,
+      "lg": 10
+    }
+  },
+
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 36,
+        "right": 30,
+        "bottom": 73,
+        "left": 30
+      },
+      "md": {
+        "top": 36,
+        "right": 120,
+        "bottom": 73,
+        "left": 20
+      },
+      "lg": {
+        "top": 36,
+        "right": 140,
+        "bottom": 73,
+        "left": 20
+      }
+    },
+
+    "aspectRatio": {
+      "sm": [16, 8],
+      "md": [16, 8],
+      "lg": [16, 8]
+    },
+
+    "mobileBreakpoint": 500,
+    "middleBreakpoint": 600,
+
+    "x_ticks_every": {
+      "sm": 10,
+      "md": 10,
+      "lg": 10
+    },
+    "y_num_ticks": {
+      "sm": 6,
+      "md": 6,
+      "lg": 6
+    },
+
+    "lineMarkers": false
+
+
+  }
+}

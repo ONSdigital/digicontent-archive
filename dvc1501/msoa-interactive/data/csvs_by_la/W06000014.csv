@@ -1,0 +1,46 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+W02000237,The Vale of Glamorgan 001,Ogmore-by-Sea & Llandow,0,1,0,0,0,0,0,0,2,0,2,1,0,0,covid
+W02000238,The Vale of Glamorgan 002,Cowbridge,0,3,2,0,0,0,0,0,2,1,4,1,0,0,covid
+W02000239,The Vale of Glamorgan 003,Peterston-super-Ely & Wenvoe,0,2,0,0,0,0,0,1,0,0,1,1,0,0,covid
+W02000240,The Vale of Glamorgan 004,Llandough & Cogan,0,4,2,1,0,0,0,0,10,3,3,7,0,0,covid
+W02000241,The Vale of Glamorgan 005,Penarth,1,5,2,0,0,0,0,0,1,4,9,6,4,0,covid
+W02000242,The Vale of Glamorgan 006,Dinas Powys,0,2,1,2,0,0,0,0,2,1,2,2,0,0,covid
+W02000243,The Vale of Glamorgan 007,Gibbonsdown,0,3,2,0,0,1,0,0,2,3,2,4,1,0,covid
+W02000244,The Vale of Glamorgan 008,Lower Penarth & Sully,0,4,1,1,0,0,0,0,1,8,5,3,2,0,covid
+W02000245,The Vale of Glamorgan 009,Palmerstown,0,6,1,2,0,0,0,0,2,2,6,1,0,0,covid
+W02000246,The Vale of Glamorgan 010,Barry Dyfan & Illtyd,0,2,2,1,0,0,0,0,0,2,2,1,0,0,covid
+W02000247,The Vale of Glamorgan 011,Llantwit Major,1,3,1,0,0,0,0,1,2,2,6,0,0,0,covid
+W02000248,The Vale of Glamorgan 012,Barry East,0,4,2,0,0,0,0,0,1,2,8,4,1,0,covid
+W02000249,The Vale of Glamorgan 013,Barry West,0,13,2,0,2,1,0,0,2,1,4,0,1,0,covid
+W02000250,The Vale of Glamorgan 014,Rhoose & Airport,0,2,2,1,0,0,0,0,0,1,11,4,0,0,covid
+W02000251,The Vale of Glamorgan 015,Barry Island,0,3,3,1,0,0,0,0,2,4,4,2,2,0,covid
+W02000237,The Vale of Glamorgan 001,Ogmore-by-Sea & Llandow,3,5,7,6,3,2,3,7,4,6,3,4,4,1,noncovid
+W02000238,The Vale of Glamorgan 002,Cowbridge,7,8,9,5,11,6,5,6,6,7,13,3,6,5,noncovid
+W02000239,The Vale of Glamorgan 003,Peterston-super-Ely & Wenvoe,2,3,5,2,6,3,4,3,7,8,7,10,3,3,noncovid
+W02000240,The Vale of Glamorgan 004,Llandough & Cogan,12,9,5,7,7,4,6,11,8,7,8,8,7,7,noncovid
+W02000241,The Vale of Glamorgan 005,Penarth,16,9,10,13,13,10,5,10,11,17,3,11,9,6,noncovid
+W02000242,The Vale of Glamorgan 006,Dinas Powys,7,5,7,4,3,11,9,3,7,7,10,9,15,4,noncovid
+W02000243,The Vale of Glamorgan 007,Gibbonsdown,8,9,6,2,9,7,4,7,4,7,5,8,5,6,noncovid
+W02000244,The Vale of Glamorgan 008,Lower Penarth & Sully,8,13,10,7,9,11,6,13,10,11,7,9,7,7,noncovid
+W02000245,The Vale of Glamorgan 009,Palmerstown,9,5,5,4,8,3,2,4,3,6,5,6,3,1,noncovid
+W02000246,The Vale of Glamorgan 010,Barry Dyfan & Illtyd,4,4,3,5,3,4,4,2,5,2,2,3,4,7,noncovid
+W02000247,The Vale of Glamorgan 011,Llantwit Major,7,3,5,6,7,4,3,5,5,5,9,11,4,7,noncovid
+W02000248,The Vale of Glamorgan 012,Barry East,10,8,3,8,3,9,6,7,6,5,8,8,2,10,noncovid
+W02000249,The Vale of Glamorgan 013,Barry West,21,13,5,8,11,6,9,9,6,12,15,13,9,16,noncovid
+W02000250,The Vale of Glamorgan 014,Rhoose & Airport,2,5,5,5,4,8,6,9,10,7,6,9,7,6,noncovid
+W02000251,The Vale of Glamorgan 015,Barry Island,6,15,6,7,9,5,8,11,5,7,9,7,7,7,noncovid
+W02000237,The Vale of Glamorgan 001,Ogmore-by-Sea & Llandow,3,4,4,4,4,4,2,5,3,3,5,5,3,4,average
+W02000238,The Vale of Glamorgan 002,Cowbridge,7,4,6,6,6,7,8,6,8,7,7,7,7,4,average
+W02000239,The Vale of Glamorgan 003,Peterston-super-Ely & Wenvoe,6,4,3,4,2,5,4,6,5,7,7,5,6,4,average
+W02000240,The Vale of Glamorgan 004,Llandough & Cogan,9,6,6,6,7,9,4,6,5,9,9,7,9,6,average
+W02000241,The Vale of Glamorgan 005,Penarth,14,11,12,11,11,10,10,11,15,15,16,13,14,11,average
+W02000242,The Vale of Glamorgan 006,Dinas Powys,8,7,9,8,6,7,6,8,5,7,9,7,8,7,average
+W02000243,The Vale of Glamorgan 007,Gibbonsdown,7,7,8,7,7,5,6,6,6,6,8,10,7,7,average
+W02000244,The Vale of Glamorgan 008,Lower Penarth & Sully,11,7,9,9,7,9,7,10,11,7,10,10,11,7,average
+W02000245,The Vale of Glamorgan 009,Palmerstown,6,6,6,4,3,6,4,3,6,4,6,4,6,6,average
+W02000246,The Vale of Glamorgan 010,Barry Dyfan & Illtyd,3,4,4,3,3,4,5,5,6,4,5,4,3,4,average
+W02000247,The Vale of Glamorgan 011,Llantwit Major,8,8,9,7,7,5,5,9,9,7,12,8,8,8,average
+W02000248,The Vale of Glamorgan 012,Barry East,7,7,6,5,7,6,5,7,6,8,10,7,7,7,average
+W02000249,The Vale of Glamorgan 013,Barry West,14,12,13,10,11,11,14,11,12,14,15,14,14,12,average
+W02000250,The Vale of Glamorgan 014,Rhoose & Airport,8,7,5,6,9,8,8,10,5,8,9,7,8,7,average
+W02000251,The Vale of Glamorgan 015,Barry Island,8,7,6,9,9,7,5,6,7,7,11,8,8,7,average

@@ -1,0 +1,43 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02005162,Tunbridge Wells 001,Paddock Wood & Five Oak Green,0,2,0,3,0,0,0,0,0,2,4,1,0,1,covid
+E02005163,Tunbridge Wells 002,Southborough West,0,2,0,1,0,0,0,0,0,2,1,0,0,0,covid
+E02005164,Tunbridge Wells 003,Southborough East & Longfield Road,0,2,1,0,1,0,0,0,0,0,3,1,0,0,covid
+E02005165,Tunbridge Wells 004,Pembury & Matfield,0,1,2,6,0,2,0,0,1,5,8,0,1,0,covid
+E02005166,Tunbridge Wells 005,High Brooms & Sherwood,0,1,1,0,0,0,0,1,0,2,1,1,0,1,covid
+E02005167,Tunbridge Wells 006,"Langton Green, Speldhurst & Bidborough",0,2,2,3,1,0,0,0,1,1,4,2,1,1,covid
+E02005168,Tunbridge Wells 007,Tunbridge Wells West,0,1,1,3,1,1,0,0,0,0,9,1,0,0,covid
+E02005169,Tunbridge Wells 008,Tunbridge Wells Central,0,1,1,2,0,0,0,0,1,0,2,0,0,0,covid
+E02005170,Tunbridge Wells 009,Ferndale & Hawkenbury,0,6,0,0,0,0,0,0,0,3,6,2,0,0,covid
+E02005171,Tunbridge Wells 010,Ramslye & Rusthall,0,4,6,2,0,0,0,0,0,1,3,2,0,0,covid
+E02005172,Tunbridge Wells 011,"Goudhurst, Horsmonden & Lamberhurst",0,1,1,0,0,0,0,0,0,1,4,2,0,1,covid
+E02005173,Tunbridge Wells 012,Tunbridge Wells South,0,1,2,0,0,0,0,0,0,1,1,1,0,0,covid
+E02005174,Tunbridge Wells 013,"Cranbrook, Sissinghurst & Frittenden",0,5,2,0,0,0,0,0,0,15,2,1,0,0,covid
+E02005175,Tunbridge Wells 014,"Hawkhurst, Benenden & Sandhurst",0,1,2,1,0,0,0,0,0,1,18,7,0,0,covid
+E02005162,Tunbridge Wells 001,Paddock Wood & Five Oak Green,12,7,9,4,7,5,8,4,9,10,11,6,10,10,noncovid
+E02005163,Tunbridge Wells 002,Southborough West,8,9,4,2,6,8,4,5,4,3,2,6,4,5,noncovid
+E02005164,Tunbridge Wells 003,Southborough East & Longfield Road,7,11,1,4,2,4,5,4,5,8,8,6,1,5,noncovid
+E02005165,Tunbridge Wells 004,Pembury & Matfield,9,5,12,10,4,2,11,12,5,14,16,4,4,10,noncovid
+E02005166,Tunbridge Wells 005,High Brooms & Sherwood,4,7,6,5,2,1,2,4,4,6,6,4,2,2,noncovid
+E02005167,Tunbridge Wells 006,"Langton Green, Speldhurst & Bidborough",4,2,4,3,4,4,6,6,4,5,6,7,4,9,noncovid
+E02005168,Tunbridge Wells 007,Tunbridge Wells West,8,9,15,1,4,4,12,5,5,3,9,4,3,3,noncovid
+E02005169,Tunbridge Wells 008,Tunbridge Wells Central,5,2,2,1,2,5,6,4,1,5,11,5,4,3,noncovid
+E02005170,Tunbridge Wells 009,Ferndale & Hawkenbury,14,8,4,6,5,13,9,10,8,11,11,8,2,8,noncovid
+E02005171,Tunbridge Wells 010,Ramslye & Rusthall,11,8,5,3,6,4,5,4,4,8,6,2,6,1,noncovid
+E02005172,Tunbridge Wells 011,"Goudhurst, Horsmonden & Lamberhurst",4,6,2,3,2,4,3,3,7,4,4,4,5,4,noncovid
+E02005173,Tunbridge Wells 012,Tunbridge Wells South,8,7,7,6,13,1,7,3,9,6,5,1,12,9,noncovid
+E02005174,Tunbridge Wells 013,"Cranbrook, Sissinghurst & Frittenden",16,8,7,2,4,7,4,11,8,9,8,6,10,5,noncovid
+E02005175,Tunbridge Wells 014,"Hawkhurst, Benenden & Sandhurst",20,9,4,7,4,8,7,10,10,10,8,3,8,4,noncovid
+E02005162,Tunbridge Wells 001,Paddock Wood & Five Oak Green,6,8,8,8,8,6,7,8,6,7,12,7,6,8,average
+E02005163,Tunbridge Wells 002,Southborough West,5,3,5,4,4,3,4,7,6,6,6,4,5,3,average
+E02005164,Tunbridge Wells 003,Southborough East & Longfield Road,6,7,6,5,5,6,5,5,5,5,7,9,6,7,average
+E02005165,Tunbridge Wells 004,Pembury & Matfield,9,9,8,9,10,7,9,8,9,10,10,9,9,9,average
+E02005166,Tunbridge Wells 005,High Brooms & Sherwood,4,4,5,5,5,3,3,4,4,2,5,7,4,4,average
+E02005167,Tunbridge Wells 006,"Langton Green, Speldhurst & Bidborough",8,9,8,8,9,7,9,8,7,9,9,8,8,9,average
+E02005168,Tunbridge Wells 007,Tunbridge Wells West,7,7,7,6,5,8,6,5,4,6,11,9,7,7,average
+E02005169,Tunbridge Wells 008,Tunbridge Wells Central,5,4,5,4,4,3,2,4,7,4,4,4,5,4,average
+E02005170,Tunbridge Wells 009,Ferndale & Hawkenbury,9,12,11,10,9,9,10,12,8,11,9,11,9,12,average
+E02005171,Tunbridge Wells 010,Ramslye & Rusthall,5,7,5,6,5,4,5,7,5,4,8,5,5,7,average
+E02005172,Tunbridge Wells 011,"Goudhurst, Horsmonden & Lamberhurst",6,3,5,4,3,4,4,4,5,3,5,3,6,3,average
+E02005173,Tunbridge Wells 012,Tunbridge Wells South,8,6,7,5,5,6,6,7,7,6,9,5,8,6,average
+E02005174,Tunbridge Wells 013,"Cranbrook, Sissinghurst & Frittenden",6,5,7,7,5,5,7,7,6,8,11,5,6,5,average
+E02005175,Tunbridge Wells 014,"Hawkhurst, Benenden & Sandhurst",6,7,7,5,3,5,5,5,6,6,7,6,6,7,average

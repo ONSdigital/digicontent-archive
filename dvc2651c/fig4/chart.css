@@ -1,0 +1,16 @@
+line.between{
+  stroke:#E5E6E7;
+  stroke-width:3px;
+}
+
+
+.dataLabels{
+font-size: 14px;
+font-weight: 600;
+}
+
+#legend{display: none;}
+
+@media (max-width: 460px){
+#annotation-south-west, #annotation-arrow-south-west {display:none;}
+}

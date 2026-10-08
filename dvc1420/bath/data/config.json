@@ -1,0 +1,10 @@
+{"ons":{
+"maptitle": "Map showing percentage homes without fixed bath in 1961",
+"varcolour": "RdPu",
+"varunit": "% homes without a fixed bath",
+"displaydecimals": 2,
+"legenddecimals": 0,
+"breaks": "equal",
+"dropticks": false,
+"numberBreaks": 5
+}}

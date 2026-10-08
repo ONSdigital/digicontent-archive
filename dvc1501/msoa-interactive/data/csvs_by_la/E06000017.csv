@@ -1,0 +1,16 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02002863,Rutland 001,"Market Overton, Cottesmore & Empingham",0,0,0,0,0,0,0,0,0,0,3,1,2,0,covid
+E02002864,Rutland 002,"Oakham West, Langham & Whissendine",0,2,0,0,0,0,0,0,1,0,1,6,2,0,covid
+E02002865,Rutland 003,Oakham East,0,4,4,1,1,0,0,0,2,0,0,3,0,0,covid
+E02002866,Rutland 004,"Ketton, Ryhall & Luffenham",0,0,5,0,0,0,0,0,0,0,5,3,0,0,covid
+E02002867,Rutland 005,"Uppingham, Lyddington & Braunston",0,1,2,1,0,0,0,0,6,2,2,5,0,0,covid
+E02002863,Rutland 001,"Market Overton, Cottesmore & Empingham",4,4,3,4,3,2,2,5,11,6,8,7,4,3,noncovid
+E02002864,Rutland 002,"Oakham West, Langham & Whissendine",6,9,5,7,7,4,9,4,9,11,7,7,11,4,noncovid
+E02002865,Rutland 003,Oakham East,10,6,5,4,6,5,10,6,6,5,7,3,7,10,noncovid
+E02002866,Rutland 004,"Ketton, Ryhall & Luffenham",4,11,8,7,8,6,5,5,7,7,14,6,4,6,noncovid
+E02002867,Rutland 005,"Uppingham, Lyddington & Braunston",12,13,8,4,5,5,4,7,6,4,8,6,10,4,noncovid
+E02002863,Rutland 001,"Market Overton, Cottesmore & Empingham",5,4,5,4,4,4,5,6,5,4,5,4,5,4,average
+E02002864,Rutland 002,"Oakham West, Langham & Whissendine",8,6,7,6,8,9,7,5,8,8,10,7,8,6,average
+E02002865,Rutland 003,Oakham East,6,5,7,7,5,5,5,5,5,7,8,6,6,5,average
+E02002866,Rutland 004,"Ketton, Ryhall & Luffenham",8,5,6,9,6,9,5,8,7,7,9,6,8,5,average
+E02002867,Rutland 005,"Uppingham, Lyddington & Braunston",6,6,6,5,6,7,6,8,7,5,10,9,6,6,average

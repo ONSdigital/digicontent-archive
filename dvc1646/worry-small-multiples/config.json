@@ -1,0 +1,28 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "graphic_data_url_2": "data2.csv",
+    "colour_palette": ["#206095", "#118C7B", "#003C57", "#A8BD3A", "#27A0CC"],
+    "accessibleSummary":"This chart shows the proportion respondents who were unworried about climate change, and the reasons they gave for not being worried. It showes the most common reason was that they did not know much about climate change, followed by thinking there were more urgent issues to be worried about. There were differences by age, parental status and whether they could afford an unexpected expense of more than £850 and this is explained in the article text",
+    "sourceText":["Office for National Statistics – Opinions and Lifestyle Survey"],
+    "numberFormat":".0f",
+    "legendStyle": "rect",
+    "xAxisScale": [0, 70],
+    "xAxisLabel": "% of group not worried about climate change",
+    "xAxisLabel2": "% of those who gave the following reason",
+    "barHeight": {
+      "sm": 30,
+      "md": 30,
+      "lg": 40
+    },
+    "margin":{
+      "sm":{"top":50,"right":5,"bottom":25,"left":155},
+      "md":{"top":8,"right":5,"bottom":25,"left":155},
+      "lg":{"top":8,"right":5,"bottom":25,"left":155}
+    }
+  },
+  "optional": {
+    "mobileBreakpoint": 414,
+    "middleBreakpoint": 600
+  }
+}

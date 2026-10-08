@@ -1,0 +1,17 @@
+xcategory,ycategory,amount
+Single adult,Full-time employee,49
+Single parent,Full-time employee,29
+Two adults,Full-time employee,65
+Two parents,Full-time employee,71
+Single adult,Part-time employee,14
+Single parent,Part-time employee,34
+Two adults,Part-time employee,10
+Two parents,Part-time employee,12
+Single adult,Self-employed,9
+Single parent,Self-employed,null
+Two adults,Self-employed,9
+Two parents,Self-employed,9
+Single adult,Inactive,24
+Single parent,Inactive,24
+Two adults,Inactive,14
+Two parents,Inactive,6

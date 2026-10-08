@@ -1,0 +1,43 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02005570,North Norfolk 001,Sheringham,0,2,1,0,1,0,0,0,0,0,3,2,0,0,covid
+E02005571,North Norfolk 002,Wells & Blakeney,0,2,2,0,0,0,0,0,1,0,13,1,0,0,covid
+E02005572,North Norfolk 003,Cromer,0,4,5,1,0,0,0,0,0,2,6,3,2,0,covid
+E02005573,North Norfolk 004,Holt & Weybourne,0,2,0,0,0,0,0,0,2,0,3,1,0,0,covid
+E02005574,North Norfolk 005,"Overstrand, Roughton & the Runtons",0,0,3,0,0,0,0,0,0,0,4,1,1,0,covid
+E02005575,North Norfolk 006,"Beeston Regis, Saxthorpe & Aldborough",0,1,1,0,0,0,0,0,0,1,2,2,1,0,covid
+E02005576,North Norfolk 007,"Mundesley, Trunch & Bacton",1,3,1,0,0,0,0,0,1,0,6,2,1,0,covid
+E02005577,North Norfolk 008,"Melton Constable, Briston & Little Snoring",0,0,0,0,0,0,0,0,0,0,2,0,0,0,covid
+E02005578,North Norfolk 009,Walsingham & Raynham,0,1,2,0,0,0,0,0,0,1,1,1,0,0,covid
+E02005579,North Norfolk 010,North Walsham,0,4,3,0,0,0,0,0,1,11,6,6,1,0,covid
+E02005580,North Norfolk 011,Fakenham,0,2,1,1,0,0,0,0,0,3,17,5,0,0,covid
+E02005581,North Norfolk 012,"Felmingham, Worstead & Happisburgh",0,0,1,0,0,0,0,0,0,0,0,1,0,0,covid
+E02005582,North Norfolk 013,Stalham & Sea Palling,0,2,1,0,0,1,0,0,1,1,1,6,0,0,covid
+E02005583,North Norfolk 014,"Hoveton, Horning & Potter Heigham",0,0,1,0,0,0,0,0,1,2,3,3,0,0,covid
+E02005570,North Norfolk 001,Sheringham,14,15,11,14,15,9,14,10,19,11,12,12,7,10,noncovid
+E02005571,North Norfolk 002,Wells & Blakeney,7,5,9,9,4,8,5,10,3,10,7,4,5,2,noncovid
+E02005572,North Norfolk 003,Cromer,14,10,6,16,11,6,9,10,12,17,14,21,10,13,noncovid
+E02005573,North Norfolk 004,Holt & Weybourne,5,10,9,6,2,8,8,9,13,11,11,7,9,5,noncovid
+E02005574,North Norfolk 005,"Overstrand, Roughton & the Runtons",6,9,6,6,12,7,8,10,10,8,9,9,9,10,noncovid
+E02005575,North Norfolk 006,"Beeston Regis, Saxthorpe & Aldborough",2,4,7,9,9,7,8,4,10,7,6,10,7,8,noncovid
+E02005576,North Norfolk 007,"Mundesley, Trunch & Bacton",14,6,15,6,13,6,10,13,10,8,9,10,8,10,noncovid
+E02005577,North Norfolk 008,"Melton Constable, Briston & Little Snoring",10,8,2,2,1,1,6,14,5,12,9,6,3,8,noncovid
+E02005578,North Norfolk 009,Walsingham & Raynham,2,7,6,5,3,2,4,3,6,3,9,1,5,8,noncovid
+E02005579,North Norfolk 010,North Walsham,25,20,22,16,14,18,18,16,13,23,15,24,13,13,noncovid
+E02005580,North Norfolk 011,Fakenham,10,17,9,8,7,4,11,10,7,11,13,3,13,10,noncovid
+E02005581,North Norfolk 012,"Felmingham, Worstead & Happisburgh",3,7,5,5,8,6,4,8,3,9,6,3,3,4,noncovid
+E02005582,North Norfolk 013,Stalham & Sea Palling,7,7,3,5,5,4,12,5,10,10,8,9,6,7,noncovid
+E02005583,North Norfolk 014,"Hoveton, Horning & Potter Heigham",19,14,5,8,15,12,14,10,18,20,6,14,19,9,noncovid
+E02005570,North Norfolk 001,Sheringham,12,11,11,13,8,11,9,9,12,11,15,11,12,11,average
+E02005571,North Norfolk 002,Wells & Blakeney,8,6,7,7,7,8,6,9,6,7,8,8,8,6,average
+E02005572,North Norfolk 003,Cromer,12,10,11,11,10,11,10,11,11,12,16,14,12,10,average
+E02005573,North Norfolk 004,Holt & Weybourne,9,9,7,6,7,8,7,8,7,5,13,8,9,9,average
+E02005574,North Norfolk 005,"Overstrand, Roughton & the Runtons",9,8,8,7,4,7,5,7,8,6,7,7,9,8,average
+E02005575,North Norfolk 006,"Beeston Regis, Saxthorpe & Aldborough",8,6,6,5,6,3,5,6,4,5,5,5,8,6,average
+E02005576,North Norfolk 007,"Mundesley, Trunch & Bacton",10,9,4,6,6,7,7,7,8,9,10,7,10,9,average
+E02005577,North Norfolk 008,"Melton Constable, Briston & Little Snoring",5,4,6,4,3,5,5,5,4,4,7,5,5,4,average
+E02005578,North Norfolk 009,Walsingham & Raynham,5,5,5,4,4,4,4,3,5,4,5,5,5,5,average
+E02005579,North Norfolk 010,North Walsham,20,17,17,15,14,17,18,18,18,16,24,19,20,17,average
+E02005580,North Norfolk 011,Fakenham,11,9,10,8,9,8,6,9,10,8,15,10,11,9,average
+E02005581,North Norfolk 012,"Felmingham, Worstead & Happisburgh",7,8,5,6,7,5,7,5,6,5,6,6,7,8,average
+E02005582,North Norfolk 013,Stalham & Sea Palling,8,6,8,7,8,5,6,8,9,6,9,8,8,6,average
+E02005583,North Norfolk 014,"Hoveton, Horning & Potter Heigham",12,11,11,11,10,12,10,11,13,10,15,11,12,11,average

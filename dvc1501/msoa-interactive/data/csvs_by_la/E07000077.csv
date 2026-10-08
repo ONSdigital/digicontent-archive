@@ -1,0 +1,28 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02004591,Uttlesford 001,"Audley End, Ashdon & the Chesterfords",0,1,0,0,0,0,0,0,0,0,1,3,0,0,covid
+E02004592,Uttlesford 002,Saffron Walden Town,0,0,0,1,0,0,0,0,0,0,0,1,2,0,covid
+E02004593,Uttlesford 003,"Newport, Littlebury & Clavering",0,1,0,0,0,0,0,0,0,0,3,1,1,1,covid
+E02004594,Uttlesford 004,"Thaxted, Great Sampford & Radwinter",0,3,0,0,0,0,0,0,0,0,0,2,0,0,covid
+E02004595,Uttlesford 005,Stansted Mountfitchet & Elsenham,0,13,7,0,0,0,0,0,0,1,7,4,2,0,covid
+E02004596,Uttlesford 006,"Takeley, Airport & Mountfitchet South",0,4,0,0,0,0,0,0,0,1,4,2,0,0,covid
+E02004597,Uttlesford 007,Great Dunmow,0,10,4,3,0,0,1,0,1,0,5,5,0,0,covid
+E02004598,Uttlesford 008,"Flitch Green, Felsted & High Easter",0,1,6,0,0,0,0,0,1,0,5,4,0,0,covid
+E02004599,Uttlesford 009,"Hatfield Heath, Hallingburys & Rodings",0,4,0,0,0,0,0,0,0,1,7,4,0,1,covid
+E02004591,Uttlesford 001,"Audley End, Ashdon & the Chesterfords",5,9,3,4,8,3,1,7,5,7,4,2,6,4,noncovid
+E02004592,Uttlesford 002,Saffron Walden Town,9,15,6,9,12,10,7,8,15,10,12,8,23,10,noncovid
+E02004593,Uttlesford 003,"Newport, Littlebury & Clavering",4,7,5,4,7,8,3,3,5,7,8,3,6,4,noncovid
+E02004594,Uttlesford 004,"Thaxted, Great Sampford & Radwinter",7,8,5,4,5,9,2,5,8,5,8,5,5,9,noncovid
+E02004595,Uttlesford 005,Stansted Mountfitchet & Elsenham,16,21,7,8,12,10,2,12,12,6,7,4,12,8,noncovid
+E02004596,Uttlesford 006,"Takeley, Airport & Mountfitchet South",5,9,4,3,2,5,4,4,2,5,7,3,5,4,noncovid
+E02004597,Uttlesford 007,Great Dunmow,3,13,8,2,6,7,5,1,5,9,5,3,5,3,noncovid
+E02004598,Uttlesford 008,"Flitch Green, Felsted & High Easter",8,9,9,7,6,5,8,7,12,13,7,5,6,9,noncovid
+E02004599,Uttlesford 009,"Hatfield Heath, Hallingburys & Rodings",2,7,3,4,1,7,5,6,3,8,5,5,4,5,noncovid
+E02004591,Uttlesford 001,"Audley End, Ashdon & the Chesterfords",5,3,5,4,4,4,3,4,7,5,8,5,5,3,average
+E02004592,Uttlesford 002,Saffron Walden Town,13,10,11,7,9,12,10,10,11,13,13,12,13,10,average
+E02004593,Uttlesford 003,"Newport, Littlebury & Clavering",4,5,6,5,3,4,3,4,3,5,6,4,4,5,average
+E02004594,Uttlesford 004,"Thaxted, Great Sampford & Radwinter",7,5,3,4,5,4,5,5,5,5,7,6,7,5,average
+E02004595,Uttlesford 005,Stansted Mountfitchet & Elsenham,9,11,10,8,9,7,7,9,10,9,13,12,9,11,average
+E02004596,Uttlesford 006,"Takeley, Airport & Mountfitchet South",7,6,6,5,6,6,4,7,4,6,6,5,7,6,average
+E02004597,Uttlesford 007,Great Dunmow,5,6,7,5,4,5,3,5,6,5,5,7,5,6,average
+E02004598,Uttlesford 008,"Flitch Green, Felsted & High Easter",10,10,8,8,10,9,8,8,7,11,14,11,10,10,average
+E02004599,Uttlesford 009,"Hatfield Heath, Hallingburys & Rodings",5,5,4,5,4,4,7,6,6,4,5,4,5,5,average

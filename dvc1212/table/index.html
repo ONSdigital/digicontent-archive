@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+  <title>OPN Table</title>
+
+  <meta name="description" content="Stack">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+  <link rel="stylesheet" href="../lib/globalStyle.css" />
+
+  <style type="text/css">
+    body {
+      margin: 0px auto;
+      color: #206095;
+      font-family: 'Open Sans';
+    }
+
+    tbody{
+      color: #206095;
+    }
+
+    td, th{
+      padding:5px;
+    }
+
+    tr th{
+      border-bottom: 3px solid #ddd;
+      font-weight: 700;
+      vertical-align: bottom;
+    }
+
+    td {
+      border-bottom: 2px solid #ddd;
+      font-size: 16px;
+      text-align: left;
+      min-width: 80px;
+
+    }
+
+    /* icons */
+    td:first-child, th:first-child{
+      min-width: 25px;
+      border:none;
+    }
+
+    /* indicators heading */
+    th:nth-child(2){
+      text-align:left;
+    }
+
+    /* indicator text */
+    td:nth-child(2){
+      text-decoration: underline dashed;
+      text-underline-position:under;
+      cursor:pointer;
+    }
+
+    /* this week and change */
+    th:nth-child(n+3), td:nth-child(n+3){
+      text-align:right;
+    }
+
+    td img{
+      vertical-align: text-top;
+      max-width:40px;
+    }
+
+    @media only screen and (max-width: 500px) {
+      td img{
+        max-width:20px;
+      }
+
+      td{
+        max-width: 50px;
+      }
+    }
+
+    /* tippy styling */
+    .tippy-tooltip.ons-theme[x-placement^='top'] .tippy-arrow {
+      border-top-color: #206095;
+    }
+
+    .tippy-tooltip.ons-theme[x-placement^='bottom'] .tippy-arrow {
+      border-bottom-color: #206095;
+    }
+
+    .tippy-tooltip.ons-theme[x-placement^='left'] .tippy-arrow {
+      border-left-color: #206095;
+    }
+
+    .tippy-tooltip.ons-theme[x-placement^='right'] .tippy-arrow {
+      border-right-color: #206095;
+    }
+
+    .tippy-tooltip.ons-theme .tippy-roundarrow {
+      fill: #206095;
+    }
+
+    .tippy-tooltip.ons-theme {
+      background-color: #206095;
+      color: white;
+    }
+
+    .tippy-tooltip.ons-theme[data-animatefill] {
+      background-color: transparent;
+    }
+
+    .tippy-tooltip.ons-theme .tippy-backdrop {
+      background-color: #206095;
+    }
+
+    h5,h6 {
+         font-size: 16px;
+         padding-top: 0px;
+         padding: 0px;
+         font-weight: 700;
+         color:#323132;
+         font-family: "Open Sans";
+      }
+
+    .visuallyhidden {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      margin: -1px;
+      padding: 0;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      border: 0;
+    }
+  </style>
+
+  <script src="../lib/modernizr.svg.min.js" type="text/javascript"></script>
+  <script src="../lib/bluebird.min.js" type="text/javascript"></script>
+  <script src="../lib/fetch.js"></script>
+  <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js" type='text/javascript'></script>
+  <script src="../lib/d3.v5.min.js" type="text/javascript"></script>
+  <script src="https://cdn.ons.gov.uk/vendor/jquery/2.1.4/jquery.min.js" type='text/javascript'></script>
+  <script src="../lib/popper.min.js" type="text/javascript"></script>
+  <script src="../lib/tippy.min.js" type="text/javascript"></script>
+
+</head>
+
+<body>
+
+  <div id="graphic">
+    <img src='fallback.png' alt="">
+  </div>
+  <h6 style="padding-top:24px">Source: Office for National Statistics – Opinions and Lifestyle Survey</h6>
+
+  <script>
+    //var pymChild = null;
+    var graphic = d3.select('#graphic');
+    var dvc = {};
+
+
+    //start tooltips
+    tippy.setDefaults({
+      animation: 'fade',
+      arrow: true,
+      allowHTML: true,
+      a11y:true,
+      maxWidth: 375,
+      theme: 'ons',
+    });
+
+
+    function drawTable() {
+      d3.select('#graphic').selectAll("*").remove();
+
+      //  create Table using d3
+      var table = d3.select('#graphic')
+      .append('table')
+
+      table.append("caption")
+      .attr("class", "visuallyhidden").text(dvc.caption)
+
+      var headers = table.append('thead').append('tr');
+
+      tableData = graphicData.map(function(d,i){
+        return ["images/OPN"+i+".svg",d.Indicator,d["This week"],d["Last week"]]
+      })
+
+      notes = {}
+      graphicData.forEach(function(d){
+        notes[d.Indicator]=d.Note
+      })
+
+      var tdata = headers.selectAll('td')
+        .data(dvc.headings)
+        .enter()
+        .append('th')
+        .attr('scope', 'col')
+        .text(function(d) {
+          return d;
+        });
+
+      var rows = table.append('tbody').selectAll('tr')
+        .data(tableData).enter()
+        .append('tr')
+        .attr('id', function(d, i) {
+          return 'row' + i;
+        });
+
+      rows.selectAll('td').data(function(d){return d;})
+      .enter()
+      .append('td')
+      .each(function(d,i){
+        if(i==0){
+          d3.select(this).append('img').attr('alt',"").attr('src',d).attr("height",50).attr("width","100%")
+        }else{
+          d3.select(this).append('text').html(d)
+
+          if(i==1){
+            tippy(this,{'content':notes[d]})
+          }
+        }
+      })
+
+      //use pym to calculate chart dimensions
+      setTimeout(function() {
+        pymChild = new pym.Child();
+        pymChild.sendHeight();
+      }, 750)
+    } // ends drawTable
+
+    //check whether browser can cope with svg
+    if (Modernizr.svg) {
+
+      d3.json('config.json').then(function(config) {
+        dvc = config;
+
+        d3.csv('data/datanew.csv').then(function(data) {
+          graphicData = data;
+
+          pymChild = new pym.Child({
+            renderCallback: drawTable
+          });
+        });
+      });
+    } else {
+      //use pym to create iframe containing fallback image (which is set as default 700-900px ?!?)
+      pymChild = new pym.Child();
+      if (pymChild) {
+        pymChild.sendHeight();
+      }
+    }
+  </script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a40b39057bb8944f',t:'MTc5MDM1MTgyNg=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+
+</html>

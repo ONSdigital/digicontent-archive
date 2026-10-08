@@ -1,0 +1,88 @@
+{
+"imageSrc":[
+    "images/chocolate.svg",
+    "images/wine.svg",
+    "images/entertainment.svg",
+    "images/footwear.svg",
+    "images/gym.svg",
+    "images/lottery.svg",
+    "images/mobilephone.svg",
+    "images/newspaper.svg",
+    "images/petfood.svg",
+    "images/plants.svg",
+    "images/tea.svg",
+    "images/takeaway.svg"
+],
+"topicName":[
+    "Chocolate",
+    "Wine taken home",
+    "Live entertainment",
+    "Footwear for women",
+    "Leisure/ gym fees",
+    "Lottery",
+    "Mobile phone fees",
+    "Newspapers",
+    "Pet food",
+    "Plants & fertilisers",
+    "Tea at home",
+    "Takeaway meals"
+],
+"iconIds":[
+    "Choc",
+    "Wine",
+    "Entertain",
+    "Footwear",
+    "Gym",
+    "Lottery",
+    "Mobile",
+    "News",
+    "Pet",
+    "Plants",
+    "Tea",
+    "Takeaway"
+],
+"topicValue":[
+    "£1.90",
+    "£4.00",
+    "£1.40",
+    "£2.20",
+    "£1.90",
+    "£2.00",
+    "£6.40",
+    "£1.60",
+    "£2.20",
+    "£2.60",
+    "£0.50",
+    "£4.40"
+],
+"highlightId":[
+    "c1_1_30",
+    "c2_1_2",
+    "c9_4_2_2",
+    "c3_2_2",
+    "c9_4_1_4",
+    "c9_4_6_3",
+    "c8_3_3",
+    "c9_5_4",
+    "c9_3_5_1",
+    "c9_3_4_2",
+    "c1_2_2",
+    "c11_1_3"
+    
+],
+"storyIds":[
+    ["c1", "c1_1"],
+    ["c2", "c2_1"],
+    ["c9", "c9_4", "c9_4_2"],
+    ["c3", "c3_2"],
+    ["c9", "c9_4", "c9_4_1"],
+    ["c9", "c9_4", "c9_4_6"],
+    ["c8", "c8_3"],
+    ["c9", "c9_5"],
+    ["c9", "c9_3", "c9_3_5"],
+    ["c9", "c9_3", "c9_3_4"],
+    ["c1", "c1_2"],
+    ["c11", "c11_1"]
+]
+    
+}

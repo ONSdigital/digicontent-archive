@@ -1,0 +1,18 @@
+{"ons":{
+"maptitle": "Use of greenspace during and after lockdown",
+"sourceText": "Google – COVID-19 Community Mobility Reports",
+"varcolour": ["#854a77","#d97c73","#ffffbf","#9ac6e9","#6294cf","#225980"],
+"varunit": "% change in visits to and time spent in parks compared to Jan 3 - Feb 6",
+"displaydecimals": 0,
+"legenddecimals": 0,
+"breaks": [-82,-30,-10,10,60,120,430],
+"dropticks": true,
+"numberBreaks": 6,
+"keyMarginRight": 120,
+"varname1":"lockdown_mobility",
+"varname2":"post_lockdown_mobility",
+"legendLabel1":"Lockdown: ",
+"legendLabel2":"July/August: ",
+"mapLeftLabel":"Spring 2020 lockdown",
+"mapRightLabel":"July and August 2020"
+}}

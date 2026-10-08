@@ -1,0 +1,12 @@
+{"ons":{
+"maptitle": "Multi Map about foreign workers",
+"varcolour": "YlGnBu",
+"varlabels": ["All workers","Key workers"],
+"varload": 0,
+"varunit": ["% non-British nationals" ,"% non-British nationals"],
+"displaydecimals": 0,
+"legenddecimals": 0,
+"breaks": [0,5,10,20,50,70],
+"dropticks": false,
+"numberBreaks": 5
+}}

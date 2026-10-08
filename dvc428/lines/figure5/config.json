@@ -1,0 +1,55 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+        
+            "dateFormat":"%d-%b-%y",
+        
+            "legendLabels" : [""],
+        
+            "sourceText":["State Pension Administrative Data, Department for Work and Pensions"," Bank of England"],
+            "sourceURL":["https://stat-xplore.dwp.gov.uk/webapi/jsf/login.xhtml", "http://www.bankofengland.co.uk/boeapps/iadb/Rates.asp"],
+        
+            "annotationChart": [
+               
+            ],
+            "annotationBullet": [
+                
+            ],
+            "annotationXY":[
+               
+            ],
+            "annotationAlign":[
+                
+            ],
+        
+            "circles" : true,    
+            "annotationCXCY":[
+               
+            ],
+        
+            "yAxisLabel":"£s",
+            "yAxisScale":[80,130],   
+            "yAxisBreak": false,
+            "yAxisBreak_sm_md_lg": [65,65,65]            
+    },
+    "optional" : {
+            "margin_sm": [10, 10, 25, 30],
+            "margin_md": [10, 10, 25, 30],
+            "margin_lg": [10, 10, 25, 30],
+        
+            "aspectRatio_sm" : [8,4],
+            "aspectRatio_md" : [14,4],
+            "aspectRatio_lg" : [14,3],
+        
+            "mobileBreakpoint" : 610, 
+            
+    "xAxisTextFormat_sm_md_lg" : ["%b %y", "%b %Y", "%b %y"], 
+                
+            "x_num_ticks_sm_md_lg" : [7,9,10],    
+            "y_num_ticks_sm_md_lg" : [5,5,5],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}
+
+

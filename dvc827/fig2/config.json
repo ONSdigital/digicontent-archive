@@ -1,0 +1,58 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "dateFormat": "%d/%m/%Y",
+
+    "sort_data": false,
+    "colour_palette": ["#d32f2f", "#16B9C3","#206095"],
+    "legendLabels": ["Non-COVID-19 excess deaths", "Deaths involving but not due to COVID-19","Deaths due to COVID-19"],
+    "sourceText": "Office for National Statistics – Analysis of death registrations not involving coronavirus (COVID-19)",
+    "xAxisLabel":"Week ending",
+    "yAxisLabel": "Weekly deaths above or below 5 year average",
+    "yAxisScale": [0,12000],
+    "mediumBreakpoint": 681,
+    "mobileBreakpoint": 468
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 100,
+        "right": 15,
+        "bottom": 40,
+        "left": 40
+      },
+      "md": {
+        "top": 80,
+        "right": 25,
+        "bottom": 50,
+        "left": 40
+      },
+      "lg": {
+        "top": 60,
+        "right": 10,
+        "bottom": 40,
+        "left": 40
+      }
+    },
+
+    "aspectRatio": {
+      "sm": [12, 8],
+      "md": [16, 8],
+      "lg": [16, 8]
+    },
+
+
+    "x_ticks_every": {
+      "sm": 2,
+      "md": 1,
+      "lg": 1
+    },
+    "y_num_ticks": {
+      "sm": 5,
+      "md": 5,
+      "lg": 6
+    },
+    "centre_line": false,
+    "centre_line_value": 0
+  }
+}

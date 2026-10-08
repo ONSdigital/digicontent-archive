@@ -1,0 +1,54 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+        
+            "dateFormat":"%Y",
+        
+            "legendLabels" : ["British", "EU", "Non-EU"],
+        
+           
+    		"sourceText0":["International Migration Time Series"], 
+        	"sourceText1":["Long-Term International Migration Estimates, ONS"],
+        
+            "sourceURL0":["http://www.neighbourhood.statistics.gov.uk/HTMLDocs/dvc123/data14.xls"],
+            "sourceURL1":["https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/datasets/migrationstatisticsquarterlyreportprovisionallongterminternationalmigrationltimestimates"],
+        
+	
+	    
+            "annotationChart": ["EU8  join", "EU2  join", "onset of  economic  downturn", "EU2 work  restrictions  lifted"],
+            "annotationBullet": ["2004 EU8 accession", "2007 EU2 accession", "2008: onset of economic downturn", "2014 EU2 work restrictions lifted"],
+            "annotationXY":[["2004", 270], ["2007", 270], ["2008", 280], ["2014", 280]],
+            "annotationAlign":["middle", "middle", "start", "middle"],
+        
+            "circles" : false,    
+            "annotationCXCY":[["2004", 260], ["2007", 220], ["2008", 175], ["2014", 220]],
+        
+            "yAxisLabel":"thousands",
+            "yAxisScale":[0,280],   
+            "yAxisBreak": true,
+            "yAxisBreak_sm_md_lg": [65,65,65]            
+    },
+    "optional" : {
+            "margin_sm": [20, 15, 5, 30],
+            "margin_md": [25, 20, 5, 30],
+            "margin_lg": [25, 20, 5, 30],
+        
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,11],
+            "aspectRatio_lg" : [16,9],
+        
+            "mobileBreakpoint" : 610, 
+            
+            "xAxisTextFormat_sm_md_lg" : ["%y", "%Y", "%Y"], 
+                
+            "x_num_ticks_sm_md_lg" : [6,12,25],    
+            "y_num_ticks_sm_md_lg" : [5,7,7],
+        
+            "vertical_line" : true,
+            "annotateLineX1_Y1_X2_Y2":[ [["2004",250],["2004",0]], [["2007",250],["2007",0]], [["2008",250],["2008",0]], [["2014",250],["2014",0]] ],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}
+
+

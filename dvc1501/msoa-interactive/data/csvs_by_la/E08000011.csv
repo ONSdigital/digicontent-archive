@@ -1,0 +1,61 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02001327,Knowsley 001,Kirkby North East,0,9,0,0,0,0,0,5,4,1,3,5,1,0,covid
+E02001328,Knowsley 002,Kirkby North West,1,1,1,0,0,0,0,7,0,1,4,7,1,2,covid
+E02001329,Knowsley 003,Kirkby South East,0,2,3,0,0,0,1,1,5,0,3,9,5,0,covid
+E02001330,Knowsley 004,Kirkby South West & Field Lane,0,0,2,1,0,0,0,4,3,4,2,2,1,0,covid
+E02001331,Knowsley 005,Knowsley Village & Southdene,0,7,2,0,0,0,0,2,2,0,6,9,0,0,covid
+E02001332,Knowsley 006,Stockbridge Village,0,7,6,0,0,0,1,2,0,0,2,3,0,0,covid
+E02001333,Knowsley 007,Prescot,0,5,1,0,0,0,0,4,4,1,2,4,3,0,covid
+E02001334,Knowsley 008,Page Moss & Fincham,0,4,2,0,0,0,0,2,0,0,3,6,1,0,covid
+E02001335,Knowsley 009,Whiston North,0,5,1,0,0,0,0,2,1,0,2,4,1,0,covid
+E02001336,Knowsley 010,Longview & Knowsley Park,0,2,4,0,0,0,0,5,0,1,6,6,0,0,covid
+E02001337,Knowsley 011,Mosscroft & Bakers Green,0,5,3,0,0,0,0,0,1,0,6,0,1,0,covid
+E02001338,Knowsley 012,Huyton Farm,0,4,4,1,0,0,0,1,1,0,2,3,1,0,covid
+E02001339,Knowsley 013,Whiston South,0,1,1,0,0,0,0,5,0,0,0,1,1,0,covid
+E02001340,Knowsley 014,Court Hey & Swanside,0,0,1,0,0,0,0,1,4,1,1,4,1,0,covid
+E02001341,Knowsley 015,Huyton East,0,4,1,1,0,0,2,2,1,0,2,4,1,0,covid
+E02001342,Knowsley 016,Huyton West & Roby,0,10,5,0,0,0,0,2,1,2,7,0,1,0,covid
+E02001343,Knowsley 017,"Halsnead, Cronton & Halewood East",0,2,0,0,0,0,0,0,1,0,2,1,0,0,covid
+E02001344,Knowsley 018,Halewood North,0,5,4,1,0,0,0,1,2,0,1,5,0,0,covid
+E02001345,Knowsley 019,Halewood Central,0,3,0,0,0,0,0,2,0,3,1,5,0,0,covid
+E02001346,Knowsley 020,Halewood South,1,7,0,0,1,0,0,1,4,1,2,5,0,1,covid
+E02001327,Knowsley 001,Kirkby North East,8,4,1,8,10,4,6,7,8,5,3,12,5,4,noncovid
+E02001328,Knowsley 002,Kirkby North West,7,10,3,10,7,4,19,8,3,5,9,6,10,3,noncovid
+E02001329,Knowsley 003,Kirkby South East,8,11,3,5,6,3,10,5,10,10,13,6,7,4,noncovid
+E02001330,Knowsley 004,Kirkby South West & Field Lane,8,6,11,4,7,5,9,10,7,8,8,7,7,9,noncovid
+E02001331,Knowsley 005,Knowsley Village & Southdene,8,11,10,10,10,9,12,11,7,5,10,6,7,7,noncovid
+E02001332,Knowsley 006,Stockbridge Village,4,10,11,8,6,3,9,9,7,10,14,8,10,5,noncovid
+E02001333,Knowsley 007,Prescot,15,18,5,11,8,6,9,9,9,10,7,4,7,8,noncovid
+E02001334,Knowsley 008,Page Moss & Fincham,6,2,2,3,6,6,8,6,6,7,4,6,2,3,noncovid
+E02001335,Knowsley 009,Whiston North,6,9,7,6,9,7,5,6,4,2,2,4,9,5,noncovid
+E02001336,Knowsley 010,Longview & Knowsley Park,10,8,5,8,7,4,12,11,3,7,5,3,5,4,noncovid
+E02001337,Knowsley 011,Mosscroft & Bakers Green,9,3,5,4,4,5,3,3,1,8,3,3,3,7,noncovid
+E02001338,Knowsley 012,Huyton Farm,8,7,4,12,6,4,3,4,4,4,2,7,3,4,noncovid
+E02001339,Knowsley 013,Whiston South,4,7,1,3,5,6,4,4,5,2,3,2,5,2,noncovid
+E02001340,Knowsley 014,Court Hey & Swanside,10,9,11,5,4,3,3,6,8,5,9,7,12,5,noncovid
+E02001341,Knowsley 015,Huyton East,5,8,8,3,6,8,3,5,5,7,13,6,9,12,noncovid
+E02001342,Knowsley 016,Huyton West & Roby,7,18,8,6,7,8,9,12,9,5,10,13,8,10,noncovid
+E02001343,Knowsley 017,"Halsnead, Cronton & Halewood East",4,9,1,5,6,3,6,6,6,9,4,3,4,7,noncovid
+E02001344,Knowsley 018,Halewood North,7,15,2,7,4,5,5,4,4,2,6,5,2,6,noncovid
+E02001345,Knowsley 019,Halewood Central,6,2,3,6,3,6,1,2,3,5,7,3,3,8,noncovid
+E02001346,Knowsley 020,Halewood South,5,8,6,5,11,5,3,5,5,7,3,2,4,8,noncovid
+E02001327,Knowsley 001,Kirkby North East,6,5,4,5,5,5,4,4,5,5,8,6,6,5,average
+E02001328,Knowsley 002,Kirkby North West,8,7,6,5,7,7,7,7,7,8,5,7,8,7,average
+E02001329,Knowsley 003,Kirkby South East,6,7,8,6,7,7,6,4,8,10,9,8,6,7,average
+E02001330,Knowsley 004,Kirkby South West & Field Lane,8,10,8,7,7,6,5,8,6,8,10,9,8,10,average
+E02001331,Knowsley 005,Knowsley Village & Southdene,10,10,9,6,9,7,9,8,12,8,11,9,10,10,average
+E02001332,Knowsley 006,Stockbridge Village,10,5,6,8,7,8,10,8,6,8,10,10,10,5,average
+E02001333,Knowsley 007,Prescot,10,8,7,9,10,11,7,9,9,10,10,10,10,8,average
+E02001334,Knowsley 008,Page Moss & Fincham,5,7,5,5,6,4,4,4,4,3,7,5,5,7,average
+E02001335,Knowsley 009,Whiston North,5,6,5,6,4,5,6,7,5,7,7,6,5,6,average
+E02001336,Knowsley 010,Longview & Knowsley Park,7,5,5,4,7,6,7,6,7,7,9,8,7,5,average
+E02001337,Knowsley 011,Mosscroft & Bakers Green,5,3,6,5,5,5,7,4,5,7,5,4,5,3,average
+E02001338,Knowsley 012,Huyton Farm,8,7,5,5,6,4,5,6,4,6,8,4,8,7,average
+E02001339,Knowsley 013,Whiston South,6,5,4,5,5,6,5,4,5,4,6,5,6,5,average
+E02001340,Knowsley 014,Court Hey & Swanside,5,8,7,7,9,7,7,6,7,7,8,5,5,8,average
+E02001341,Knowsley 015,Huyton East,7,4,6,8,6,6,7,6,5,6,8,9,7,4,average
+E02001342,Knowsley 016,Huyton West & Roby,14,10,8,10,8,7,11,9,11,12,15,12,14,10,average
+E02001343,Knowsley 017,"Halsnead, Cronton & Halewood East",5,7,4,2,3,3,4,5,4,4,5,3,5,7,average
+E02001344,Knowsley 018,Halewood North,7,7,5,7,3,6,7,6,7,6,12,9,7,7,average
+E02001345,Knowsley 019,Halewood Central,4,3,5,3,4,3,4,3,5,3,3,5,4,3,average
+E02001346,Knowsley 020,Halewood South,5,6,7,6,7,5,5,7,6,6,7,6,5,6,average

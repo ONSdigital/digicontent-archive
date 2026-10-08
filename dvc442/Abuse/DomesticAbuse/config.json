@@ -1,0 +1,55 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+        
+            "colour_palette": ["#395E7E"],
+        
+            "dateFormat":"%Y",
+        
+       
+            "sourceText":["Crime Survey for England and Wales, Office for National Statistics"],
+            "sourceURL":["https://www.ons.gov.uk/surveys/informationforhouseholdsandindividuals/householdandindividualsurveys/crimesurveyforenglandwales"],
+        
+            "annotationChart": ["The more types of abuse suffered  as a child, the higher the likelihood  of experiencing abuse as an adult"
+
+            ], 
+            "annotationBullet": [
+
+            ],
+            "annotationXY":[[75,"One type of  child abuse"]
+
+            ],
+            "annotationAlign":[
+                "middle",
+                "middle"
+            ],
+        
+            "barHeight_sm_md_lg" : [50,50,50],
+        
+        
+            "xAxisLabel":"% who experienced adult domestic abuse",
+            "xAxisScale":[0,100]            
+    },
+    "optional" : {
+            "margin_sm": [5, 20, 25, 135],
+            "margin_md": [5, 20, 10, 135],
+            "margin_lg": [5, 20, 10, 135],
+        
+            "aspectRatio_sm" : [4,7],
+            "aspectRatio_md" : [1,1],
+            "aspectRatio_lg" : [16,10],
+        
+            "mobileBreakpoint" : 510, 
+                           
+            "x_num_ticks_sm_md_lg" : [6,8,10],
+            "vertical_line" : true,
+            "annotateLineX1_Y1_X2_Y2":[ [["2004",225],["2004",0]], [["2007",250],["2007",0]], [["2014",225],["2014",0]] ],
+            "annotateRect" : true,
+            "annotateRectX_Y" : [ [["Jan-94", 200],["Jan-96", 0]], [["Jul-04", 180],["Jul-06", 40]] ],
+            "lineColor_opcty" : [["#888", 0.2], ["#888", 0.4]],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}
+
+

@@ -1,0 +1,52 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02003279,Southend-on-Sea 001,Eastwood Park,1,6,1,2,1,0,0,0,1,5,9,5,0,0,covid
+E02003280,Southend-on-Sea 002,Eastwood,0,8,0,1,2,1,0,0,0,5,15,5,1,0,covid
+E02003281,Southend-on-Sea 003,Belfairs,1,8,5,1,0,0,0,0,2,3,13,5,1,0,covid
+E02003282,Southend-on-Sea 004,Prittlewell,0,9,3,1,0,0,0,0,1,5,6,4,0,0,covid
+E02003283,Southend-on-Sea 005,Blenheim Park,0,7,1,1,2,1,0,0,0,1,31,11,4,1,covid
+E02003284,Southend-on-Sea 006,St Lukes,0,5,0,1,0,0,0,0,1,2,16,0,3,0,covid
+E02003285,Southend-on-Sea 007,Westborough,0,2,2,0,0,0,0,0,0,2,1,3,1,0,covid
+E02003286,Southend-on-Sea 008,West Leigh,1,1,1,1,0,0,0,0,1,4,9,4,1,1,covid
+E02003287,Southend-on-Sea 009,Southchurch,0,10,6,2,1,0,0,0,0,4,15,8,2,0,covid
+E02003288,Southend-on-Sea 010,Victoria,0,7,4,2,0,0,0,0,2,4,9,6,9,0,covid
+E02003289,Southend-on-Sea 011,Leigh,0,2,3,5,0,0,0,0,1,3,4,2,0,0,covid
+E02003290,Southend-on-Sea 012,Chalkwell,1,13,5,2,0,0,0,0,0,3,26,8,2,1,covid
+E02003291,Southend-on-Sea 013,Shoeburyness,1,7,2,1,0,0,0,1,0,1,14,4,2,1,covid
+E02003292,Southend-on-Sea 014,Kursaal,0,3,1,0,3,0,0,0,1,2,10,8,0,1,covid
+E02003293,Southend-on-Sea 015,Southend Central,0,8,8,1,2,0,0,0,0,4,21,5,1,0,covid
+E02003294,Southend-on-Sea 016,Thorpe Bay,0,5,6,0,1,1,0,0,0,3,7,6,2,0,covid
+E02003295,Southend-on-Sea 017,West Shoebury,0,2,1,1,0,0,0,0,1,5,13,6,2,0,covid
+E02003279,Southend-on-Sea 001,Eastwood Park,10,13,12,3,10,5,13,11,11,16,12,15,9,9,noncovid
+E02003280,Southend-on-Sea 002,Eastwood,15,15,5,4,6,14,6,12,6,12,8,6,6,8,noncovid
+E02003281,Southend-on-Sea 003,Belfairs,12,10,5,11,6,4,13,15,10,9,9,14,8,16,noncovid
+E02003282,Southend-on-Sea 004,Prittlewell,8,11,5,11,8,5,7,9,12,8,10,9,4,10,noncovid
+E02003283,Southend-on-Sea 005,Blenheim Park,8,8,11,13,15,10,14,11,5,11,11,8,9,8,noncovid
+E02003284,Southend-on-Sea 006,St Lukes,7,8,3,5,6,7,5,5,7,7,7,10,5,5,noncovid
+E02003285,Southend-on-Sea 007,Westborough,3,8,5,4,4,7,7,0,6,4,6,6,12,3,noncovid
+E02003286,Southend-on-Sea 008,West Leigh,7,6,5,5,8,9,5,4,7,5,1,9,3,11,noncovid
+E02003287,Southend-on-Sea 009,Southchurch,13,13,6,11,10,10,7,9,6,9,6,9,9,13,noncovid
+E02003288,Southend-on-Sea 010,Victoria,11,21,11,7,11,6,16,10,14,7,11,10,10,8,noncovid
+E02003289,Southend-on-Sea 011,Leigh,2,9,5,7,2,8,6,4,5,4,5,4,5,6,noncovid
+E02003290,Southend-on-Sea 012,Chalkwell,19,32,17,17,11,15,18,15,20,14,14,8,13,13,noncovid
+E02003291,Southend-on-Sea 013,Shoeburyness,7,10,6,7,11,5,1,11,12,5,8,4,4,8,noncovid
+E02003292,Southend-on-Sea 014,Kursaal,6,12,11,10,4,5,4,10,10,12,15,13,9,12,noncovid
+E02003293,Southend-on-Sea 015,Southend Central,12,20,11,17,13,6,14,7,14,16,12,25,13,3,noncovid
+E02003294,Southend-on-Sea 016,Thorpe Bay,7,12,5,3,7,5,9,8,7,15,5,7,5,8,noncovid
+E02003295,Southend-on-Sea 017,West Shoebury,17,9,10,8,12,4,3,10,8,11,8,7,11,9,noncovid
+E02003279,Southend-on-Sea 001,Eastwood Park,12,11,8,7,12,7,10,11,10,10,11,12,12,11,average
+E02003280,Southend-on-Sea 002,Eastwood,10,9,11,7,5,8,7,8,9,7,11,10,10,9,average
+E02003281,Southend-on-Sea 003,Belfairs,14,10,9,11,11,8,8,10,8,10,16,13,14,10,average
+E02003282,Southend-on-Sea 004,Prittlewell,11,10,10,12,11,10,10,10,10,9,14,12,11,10,average
+E02003283,Southend-on-Sea 005,Blenheim Park,12,11,12,10,9,9,10,9,11,10,14,11,12,11,average
+E02003284,Southend-on-Sea 006,St Lukes,6,7,6,8,5,7,5,8,5,8,10,6,6,7,average
+E02003285,Southend-on-Sea 007,Westborough,6,4,6,4,5,5,4,4,6,4,6,4,6,4,average
+E02003286,Southend-on-Sea 008,West Leigh,8,7,5,7,7,8,5,7,7,8,8,6,8,7,average
+E02003287,Southend-on-Sea 009,Southchurch,13,12,11,12,8,7,9,11,12,9,13,13,13,12,average
+E02003288,Southend-on-Sea 010,Victoria,10,13,10,9,10,11,10,11,11,10,16,13,10,13,average
+E02003289,Southend-on-Sea 011,Leigh,7,6,5,6,5,5,5,7,6,6,7,7,7,6,average
+E02003290,Southend-on-Sea 012,Chalkwell,23,18,19,17,13,15,18,17,19,17,21,18,23,18,average
+E02003291,Southend-on-Sea 013,Shoeburyness,11,8,5,6,8,7,8,7,8,10,10,7,11,8,average
+E02003292,Southend-on-Sea 014,Kursaal,12,8,11,8,8,7,8,8,10,9,14,10,12,8,average
+E02003293,Southend-on-Sea 015,Southend Central,15,12,14,12,11,12,12,10,14,14,20,11,15,12,average
+E02003294,Southend-on-Sea 016,Thorpe Bay,11,8,8,7,7,7,7,8,5,8,11,9,11,8,average
+E02003295,Southend-on-Sea 017,West Shoebury,12,10,9,10,9,9,12,9,10,10,13,10,12,10,average

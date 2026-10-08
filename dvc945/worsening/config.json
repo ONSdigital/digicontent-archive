@@ -1,0 +1,93 @@
+{
+  "essential": {
+    "graphic_data_url": "worsening.csv",
+    "colour_palette": [{
+        "key": "Excess deaths",
+        "colour": "#206095"
+      }
+    ],
+    "sourceText": "Office for National Statistics - Opinions and Lifestyle Survey",
+    "yAxisScale": "auto_min_max",
+    "mediumBreakpoint": 650,
+    "mobileBreakpoint": 414,
+    "oddsOf":"reporting moderate or severe depression",
+    "comparisonLabels":[
+      "16 to 39 years",
+      "Can afford an unexpected, but necessary, expense of £850",
+      "Non-disabled"
+    ],
+    "barHeight":{
+      "sm": 25,
+      "md": 25,
+      "lg": 25
+    },
+    "tickValues":{
+      "sm": ["1/6x the odds","The same odds"],
+      "md": ["1/6x the odds","The same odds","6x the odds"],
+      "lg": ["1/6x the odds","The same odds","4x the odds","6x the odds"]
+    }
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 70,
+        "right": 5,
+        "bottom": 100,
+        "left": 200
+      },
+      "md": {
+        "top": 70,
+        "right": 20,
+        "bottom": 50,
+        "left": 200
+      },
+      "lg": {
+        "top": 50,
+        "right": 50,
+        "bottom": 50,
+        "left": 200
+      }
+    },
+    "dotSize":{
+      "sm": 4,
+      "md": 4,
+      "lg": 5
+    },
+    "comparisonNudge":{
+      "sm": -40,
+      "md": -30,
+      "lg": -20
+    },
+    "xtickwrapwidth":{
+      "sm": 50,
+      "md": 100,
+      "lg": 150
+    },
+    "xaxislabelydrop":{
+      "sm": 60,
+      "md": 30,
+      "lg": 30
+    },
+
+    "aspectRatio": {
+      "sm": [16, 8],
+      "md": [16, 8],
+      "lg": [16, 8]
+    },
+    "chart_every":{
+      "sm": 1,
+      "md": 1,
+      "lg": 1
+    },
+    "x_ticks_every": {
+      "sm": 2,
+      "md": 2,
+      "lg": 2
+    },
+    "y_num_ticks": {
+      "sm": 4,
+      "md": 4,
+      "lg": 4
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{"ons":{
+"varlabel": ["rate","rate"],
+"varcolour": ["#762a83", "#af8dc3", "#e7d4e8", "#e0e0e0", "#a6dba0", "#008837"],
+"varcolour_old": "BuPu[5]",
+"varname": ["rate"],
+"varload": "rate",
+"varunit":[""],
+"varprefix":["",""],
+"average":[0.00],
+"averagelabel":"EU average"
+}}

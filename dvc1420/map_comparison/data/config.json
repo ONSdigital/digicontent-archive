@@ -1,0 +1,17 @@
+{"ons":{
+    "maptitle": "Population comparison between 1961 and 2016, 1961 Boundaries",
+    "varcolour": "RdPu",
+    "varunit": "Population (Thousands)",
+    "displaydecimals": 0,
+    "legenddecimals": 0,
+    "breaks": "jenks",
+    "dropticks": true,
+    "numberBreaks": 5,
+    "varname1":"census1961",
+    "varname2":"census2011",
+    "legendLabel1":"1961: ",
+    "legendLabel2":"2011: ",
+    "mapLeftLabel":"1961",
+    "mapRightLabel":"2011"
+    }}
+    

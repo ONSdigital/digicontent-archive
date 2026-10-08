@@ -1,0 +1,23 @@
+{
+    "essential" : {
+            "dataFile":"data.csv",
+            "sourceText":["Office for National Statistics"],
+            "yAxisScale":[0,0.6],
+            "numberFormat":".0%",
+            "gHeight_sm_md_lg":[50,50,50],
+            "legendLabels":["In high skilled job", "In mid-skilled job", "In low-skilled job"],
+            "colour_palette":{
+              "In high skilled job":"#053D58",
+              "In mid-skilled job":"#3A7899",
+              "In low-skilled job":"#24A79B"
+            }
+    },
+    "optional" : {
+            "margin_sm": [90, 20, 40, 30],
+            "margin_md": [70, 20, 40, 30],
+            "margin_lg": [50, 40, 30, 30],
+
+            "mobileBreakpoint" : 501,
+            "mediumBreakpoint":600
+    }
+}

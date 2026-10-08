@@ -1,0 +1,72 @@
+{
+  "essential": {
+    "GraphType": "clusterBar",
+    "graphic_data_url": "data.csv",
+    "colour_palette": [
+      "#206095",
+      "#118C7B"
+    ],
+    "colourcats": [
+      "#206095",
+      "#206095",
+      "#206095",
+      "#27A0CC",
+      "#27A0CC",
+      "#27A0CC",
+      "#27A0CC",
+      "#27A0CC",
+      "#27A0CC",
+      "#003C57",
+      "#003C57",
+      "#118C7B",
+      "#118C7B",
+      "#118C7B",
+      "#8A9B2E",
+      "#8A9B2E",
+      "#8A9B2E",
+      "#8A9B2E",
+      "#8A9B2E",
+      "#871A5B",
+      "#871A5B"
+    ],
+    "legendLabels": [
+      "",
+      ""  ],
+    "legendStyle": "rect",
+    "sourceText": "Office for National Statistics – Department for Levelling Up, Housing and Communities – Energy Performance Certificate data on Open Data Communities and Valuation Office Agency – Property Attributes data",
+    "annotationChart": [],
+    "annotationBullet": [],
+    "annotationXY": [],
+    "annotationAlign": [],
+    "circles": false,
+    "annotationCXCY": [],
+    "comparisonGroup": "▶ more likely",
+    "comparisonGroup2": "less likely ◀",
+    "xAxisLabel": "Likelihood of having an energy rating of band C or above",
+    "xAxisScale": [-48,400],
+    "barHeight_sm_md_lg": [180, 180, 180],
+    "title": "",
+    "desc": "",
+    "desc2": "",
+    "title2": ""
+  },
+  "optional": {
+    "margin_sm": [40, 15, 50, 130],
+    "margin_md": [40, 15, 50, 140],
+    "margin_lg": [40, 15, 50, 140],
+    "mobileBreakpoint": 414,
+    "xAxisValues": [-48,1,50,100,150,200,250,300,350,400],
+    "x_num_ticks_sm_md_lg": [
+      ["1/50","same","","100x","","200x","","300x","","400x"],
+      ["1/50","same","50x","100x","150x","200x","250x","300x","350x","400x"],
+      ["1/50","same","50x","100x","150x","200x","250x","300x","350x","400x"]
+    ],
+    "y_num_ticks_sm_md_lg": [
+      4,
+      4,
+      4
+    ],
+    "centre_line": true,
+    "centre_line_value": 1
+  }
+}

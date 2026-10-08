@@ -1,0 +1,2375 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    
+		<meta property="og:title" content="How long will I live?"/>
+        <meta property="og:type" content="calculator"/>
+        <meta property="og:url" content="http://visual.ons.gov.uk/how-long-will-i-live/"/>
+        <meta property="og:image" content="http://www.neighbourhood.statistics.gov.uk/HTMLDocs/dvc221/images/LEC-tweet.png"/>
+    
+    
+    <title>How long will your pension pot need to last?</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/styles.css" media="screen">
+    <link rel="stylesheet" href="css/jquery-ui-1.10.4.custom.min.css">
+    
+    <style type="text/css">
+        html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;y
+	vertical-align: baseline;
+}
+	  
+	  
+	  #ieMsg{
+		/*position:absolute;
+		left:0px;
+		top:0px;
+		height:100%;
+		width:100%;
+		background-color:rgb(235,235,235);
+		border-color:rgba(102,102,102,1);
+		border-width:5px;
+		padding:50px;
+		z-index:2;*/
+		width:100%;
+		
+		
+	}
+
+
+
+	
+	.container-fluid {
+	  margin-right: auto;
+	  margin-left: auto;
+	  padding-left: 0px !important;
+	  padding-right: 0px !important;
+	}
+
+
+	#MyAgeLine
+	{
+		stroke:solid;
+		stroke-width:1px;
+		stroke:#666;
+		stroke-dasharray:5,5;
+	}
+	
+	
+		
+	#selectAgeProbabilites
+	{
+		position:absolute;
+		background-color:white;
+		opacity:1;
+		width:150px;
+		height:100px;				
+		display:none;
+		border:solid;
+		border-radius:5px;
+		border-width:1px;
+		color:#666;	
+		pointer-events:none;
+		box-shadow: 5px 5px 5px #666;	
+	}
+		
+		.valuet {
+			padding:25px 10px 10px 0px;		
+			color:#007F7F;
+			width:100%;
+			text-align:left;
+		}
+		
+		.valuet2 {
+			color:#007F7F;
+			width:50px;
+			text-align:left;
+		}
+		
+		.labels
+		{
+			height:100px;
+			text-align:left;
+		}
+		
+		.labels2 {
+			text-align:left;
+			margin:10px 0px 5px 0px;
+			display:block;
+	
+		}
+		
+		
+		
+		
+		
+/* Bootstrap Grid */	
+
+			.col-xs-1p, .col-xs-2p, .col-xs-3p, .col-xs-4p, .col-xs-5p, .col-xs-6p, .col-xs-7p, .col-xs-8p, .col-xs-9p, .col-xs-10p, .col-xs-11p, .col-xs-12p {
+			  float: left;
+			  padding: 0px;
+			}
+			.col-xs-12p {
+			  width: 100%;
+			}
+			.col-xs-11p {
+			  width: 91.66666667%;
+			}
+			.col-xs-10p {
+			  width: 83.33333333%;
+			}
+			.col-xs-9p {
+			  width: 75%;
+			}
+			.col-xs-8p {
+			  width: 66.66666667%;
+			}
+			.col-xs-7p {
+			  width: 58.33333333%;
+			}
+			.col-xs-6p {
+			  width: 50%;
+			}
+			.col-xs-5p {
+			  width: 41.66666667%;
+			}
+			.col-xs-4p {
+			  width: 33.33333333%;
+			}
+			.col-xs-3p {
+			  width: 25%;
+			}
+			.col-xs-2p {
+			  width: 16.66666667%;
+			}
+			.col-xs-1p {
+			  width: 8.33333333%;
+			}
+
+@media (min-width: 768px) {
+			
+			
+		  	.jumbotron h1,
+		  	.jumbotron .h1
+		  	{
+				font-size: 40px !important;
+			}
+		  
+		  	.jumbotron p,
+		  	.jumbotron .p
+			{
+				font-size: 20px !important;
+			}
+			
+	  .col-sm-1p, .col-sm-2p, .col-sm-3p, .col-sm-4p, .col-sm-5p, .col-sm-6p, .col-sm-7p, .col-sm-8p, .col-sm-9p, .col-sm-10p, .col-sm-11p, .col-sm-12p {
+			float: left;
+			padding: 0px;
+		
+		  }
+		  .col-sm-12p {
+			width: 100%;
+		  }
+		  .col-sm-11p {
+			width: 91.66666667%;
+		  }
+		  .col-sm-10p {
+			width: 83.33333333%;
+		  }
+		  .col-sm-9p {
+			width: 75%;
+		  }
+		  .col-sm-8p {
+			width: 66.66666667%;
+		  }
+		  .col-sm-7p {
+			width: 58.33333333%;
+		  }
+		  .col-sm-6p {
+			width: 50%;
+		  }
+		  .col-sm-5p {
+			width: 41.66666667%;
+		  }
+		  .col-sm-4p {
+			width: 33.33333333%;
+		  }
+		  .col-sm-3p {
+			width: 25%;
+		  }
+		  .col-sm-2p {
+			width: 16.66666667%;
+		  }
+		  .col-sm-1p {
+			width: 8.33333333%;
+		  }		
+
+}
+		
+		
+		
+		
+		@media (max-width: 400px) {
+			
+			
+			#svgpicto{
+				padding-top:10px;	
+			}
+			
+			.labels
+			{
+				height:45px;
+				text-align:left;
+			}
+			
+			
+			.labelsBottom
+			{
+				height:45px;
+				text-align:left;
+			}
+			
+			#LEDiv{
+				height:50px;
+				line-height:50px;			
+			}
+			
+			#pictoActualLabel,
+			#pictoNatLabel,
+			#pictoGuessLabel{
+				padding-top:10px;
+			}
+			
+		  	.jumbotron h1,
+		  	.jumbotron .h1
+		  	{
+				font-size: 40px !important;
+			}
+		  
+		  
+		  
+		  	.jumbotron p,
+		  	.jumbotron .p
+			{
+				font-size: 20px !important;
+			}
+			.picaarticle {
+				font-size:15px;
+			    line-height:20px;					
+			}
+			
+			.doublepica {
+				font-size:20px;
+				line-height:24px;					
+					
+			}
+			
+			.trafalger {
+				font-size:20px;
+				line-height:0px;					
+			}
+			
+
+			
+			#hundredYearProbValue1,
+			#hundredYearProbValue2
+			{
+				font-size:8px;
+				font-weight:normal;
+				line-height:16px;
+				font-family:"open_sanssemibold",sans-serif,Helvetica,Arial;	
+				display:none;
+			}
+			
+
+			
+			#SPAValue1,
+			#SPAValue2
+			{
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;	
+				font-size:12px;
+				font-weight:normal;
+				line-height:16px;
+			}
+			
+			#LE
+			{
+				font-family:"open_sansbold",sans-serif,Helvetica,Arial;
+				font-size:7.5em;
+				color:white;
+				vertical-align:middle;
+				text-align:center;				
+			}
+			
+			#yearsPastSPA, #yearsFromNow
+			{
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				font-size:2.0em;
+				vertical-align:middle;
+				text-align:center;
+				padding-top:0px;
+			}
+		   
+		   .static{
+			   
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				color:#4f4f4f;
+				font-size:2.0em;
+		   }
+
+		   .staticLink{
+			   
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				color:#4f4f4f;
+				font-size:1.1em;
+		   }
+		   
+		   .sub_static{
+			   
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				color:#4f4f4f;
+				font-size:1.0em;
+		   }
+		   
+			.caveat
+		   {
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				color:#4f4f4f;
+				font-size:1.6em;
+		   }
+			
+			#pictoText{
+				padding-top:20px;
+			}
+		  
+			#pictoGuessLabel{
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				font-size:0.8em;
+			}
+		  
+			#pictoGuessValue{
+				font-family:"open_sanssemibold",sans-serif,Helvetica,Arial;
+				font-size:1.4em;
+				color:#008cba;
+			}
+		  
+			#pictoActualLabel{
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				font-size:0.8em;
+			}
+		  
+			#pictoActualValue{
+				font-family:"open_sanssemibold",sans-serif,Helvetica,Arial;
+				font-size:1.4em;
+				color:#090;			
+			}
+					  
+			.spanClass{
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				font-size:0.6em /*!important*/;
+				color:#4f4f4f;			
+			}
+		  
+			#pictoNatLabel{
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				font-size:0.8em;
+			 }
+		  
+			#pictoNatValue{
+				font-family:"open_sanssemibold",sans-serif,Helvetica,Arial;
+				font-size:1.4em;
+				color:#F5A529;
+		   }
+		   
+		   #OneInFourLabel
+		   {
+				font-family:"open_sanssemibold",sans-serif,Helvetica,Arial;
+				font-size:1.8em;
+				color:#090;	
+				display:inline;
+		   }
+		   
+		   #OneInTenLabel
+		   {
+				font-family:"open_sanssemibold",sans-serif,Helvetica,Arial;
+				font-size:1.8em;
+				color:#8DA0CB;
+				display:inline;
+		   }
+		   
+		   #idYourSPA,
+		   #circleSPA,
+		   #innercircleSPA
+		   {			   
+				display:none;
+		   }
+			
+			#YearsLabel
+			{
+				vertical-align:middle;
+				text-align:center;
+				font-family:"open_sanslight",sans-serif,Helvetica,Arial;
+				font-size:2.0em;
+				color:white;
+				padding-top:7px;
+			}	
+			#introLine4
+			{
+				padding-top:0px;				
+			}
+		
+			
+			#LEDiv2{
+				background-color:#008cba;
+				font-family:"open_sanslight",sans-serif,Helvetica,Arial;	
+				height:100px;
+				line-height:38px;
+				padding-top:15px;
+				
+			}
+			
+			
+			#LEDiv3{
+				background-color:white;
+				font-family:"open_sanslight",sans-serif,Helvetica,Arial;
+				height:70px;
+				line-height:38px;
+				padding-top:15px;
+				
+			}		
+		}
+
+
+		@media (min-width: 401px) {
+			
+			
+			#svgpicto{
+				padding-top:10px;	
+			}
+			
+			.labels
+			{
+				height:45px;
+				text-align:left;
+			}
+			
+			
+			.labelsBottom
+			{
+				height:45px;
+				text-align:left;
+			}
+			
+			
+			
+			#LEDiv{
+				height:50px;
+				line-height:50px;				
+			}
+			
+			#pictoActualLabel,
+			#pictoNatLabel,
+			#pictoGuessLabel{
+				padding-top:10px;
+			}
+			
+		  	.jumbotron h1,
+		  	.jumbotron .h1
+		  	{
+				font-size: 40px !important;
+			}
+		  
+		  
+		  
+		  	.jumbotron p,
+		  	.jumbotron .p
+			{
+				font-size: 20px !important;
+			}
+			.picaarticle {
+				font-size:16px;
+				line-height:22px;					
+			}
+			
+			.doublepica {
+				font-size:14px;
+				line-height:24px;					
+			}
+			
+			.trafalger {
+				font-size:14px;
+				line-height:0px;					
+			}	
+			
+
+			#hundredYearProbValue1,
+			#hundredYearProbValue2
+			{
+				font-size:8px;
+				font-weight:normal;
+				line-height:16px;
+				font-family:"open_sanssemibold",sans-serif,Helvetica,Arial;	
+				display:none;
+			}
+			
+			#SPAValue1,
+			#SPAValue2
+			{
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;	
+				font-size:12px;
+				font-weight:normal;
+				line-height:16px;
+			}
+			
+			#LE
+			{
+				font-family:"open_sansbold",sans-serif,Helvetica,Arial;
+				font-size:7.5em;
+				color:white;
+				vertical-align:middle;
+				text-align:center;					
+			}
+			
+			#yearsPastSPA, #yearsFromNow
+			{
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				font-size:2.0em;
+				vertical-align:middle;
+				text-align:center;
+				padding-top:0px;
+			}
+		   
+		   .static{
+			   
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				color:#4f4f4f;
+				font-size:2.0em;
+		   }
+
+		   .staticLink{
+			   
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				color:#4f4f4f;
+				font-size:1.1em;
+		   }
+		   
+		   .sub_static{
+			   
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				color:#4f4f4f;
+				font-size:1.0em;
+		   }
+		   
+			.caveat
+		   {
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				color:#4f4f4f;
+				font-size:1.6em;
+		   }
+			
+			#pictoText{
+				padding-top:20px;
+			}
+		  
+			#pictoGuessLabel{
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				font-size:0.8em;
+			}
+		  
+			#pictoGuessValue{
+				font-family:"open_sanssemibold",sans-serif,Helvetica,Arial;
+				font-size:1.4em;
+				color:#008cba;
+			}
+		  
+			#pictoActualLabel{
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				font-size:0.8em;
+			}
+		  
+			#pictoActualValue{
+				font-family:"open_sanssemibold",sans-serif,Helvetica,Arial;
+				font-size:1.4em;
+				color:#090;	
+			}		  
+			.spanClass{
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				font-size:0.6em /*!important*/;
+				color:#4f4f4f;			
+			}
+		  
+			#pictoNatLabel{
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				font-size:0.8em;
+			 }
+		  
+			#pictoNatValue{
+				font-family:"open_sanssemibold",sans-serif,Helvetica,Arial;
+				font-size:1.4em;
+				color:#F5A529;
+		   }
+		   
+		   #OneInFourLabel
+		   {
+				font-family:"open_sanssemibold",sans-serif,Helvetica,Arial;
+				font-size:1.8em;
+				color:#090;	
+				display:inline;
+		   }
+		   
+		   #OneInTenLabel
+		   {
+				font-family:"open_sanssemibold",sans-serif,Helvetica,Arial;
+				font-size:1.8em;
+				color:#8DA0CB;
+				display:inline;
+		   }	
+		   
+		   #idYourSPA,
+		   #circleSPA,
+		   #innercircleSPA{
+				display:none;
+		   }
+			
+			#YearsLabel
+			{
+				vertical-align:middle;
+				text-align:center;
+				font-family:"open_sanslight",sans-serif,Helvetica,Arial;
+				font-size:2.0em;
+				color:white;
+				padding-top:7px;
+			}	
+			#introLine4
+			{
+				padding-top:0px;				
+			}
+		
+			
+			#LEDiv2{
+				background-color:#008cba;
+				font-family:"open_sanslight",sans-serif,Helvetica,Arial;	
+				height:100px;
+				line-height:38px;
+				padding-top:15px;
+				
+			}
+			
+			
+			#LEDiv3{
+				background-color:white;
+				font-family:"open_sanslight",sans-serif,Helvetica,Arial;
+				height:70px;
+				line-height:38px;
+				padding-top:15px;
+				
+			}		
+			
+		}
+		
+		@media (min-width: 700px) {
+			
+			
+			#svgpicto{
+				padding-top:10px;	
+			}
+			
+			.labels
+			{
+				height:45px;
+				text-align:left;
+			}
+			
+			
+			.labelsBottom
+			{
+				height:70px;
+				text-align:left;
+			}
+			
+			#LEDiv{
+				height:50px;
+				line-height:50px;			
+			}
+			
+			#pictoActualLabel,
+			#pictoNatLabel,
+			#pictoGuessLabel{
+				padding-top:10px;
+			}
+			
+		  	.jumbotron h1,
+		  	.jumbotron .h1
+		  	{
+				font-size: 40px !important;
+			}
+		  
+		  
+		  
+		  	.jumbotron p,
+		  	.jumbotron .p
+			{
+				font-size: 20px !important;
+			}
+			
+			.picaarticle {
+				font-size:18px;
+				line-height:24px;	
+			}
+			
+			.doublepica {
+				font-size:20px;	
+				line-height:24px;				
+			}
+			
+			.trafalger {
+				font-size:18px;
+				line-height:0px;					
+			}	
+			
+			
+			
+			#hundredYearProbValue1,
+			#hundredYearProbValue2
+			{
+				font-size:8px;
+				font-weight:normal;
+				line-height:16px;
+				font-family:"open_sanssemibold",sans-serif,Helvetica,Arial;
+				display:none;		
+			}
+			
+
+			
+			#SPAValue1,
+			#SPAValue2
+			{
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;	
+				font-size:12px;
+				font-weight:normal;
+				line-height:16px;
+			}
+			
+			#LE
+			{
+				font-family:"open_sansbold",sans-serif,Helvetica,Arial;
+				font-size:7.5em;
+				color:white;
+				vertical-align:middle;
+				text-align:center;					
+			}
+			
+			#yearsPastSPA, #yearsFromNow
+			{
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				font-size:2.0em;
+				vertical-align:middle;
+				text-align:center;
+				padding-top:0px;
+			}
+		   
+		   .static{
+			   
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				color:#4f4f4f;
+				font-size:2.4em;
+		   }
+
+		   .staticLink{
+			   
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				color:#4f4f4f;
+				font-size:1.1em;
+		   }
+		   
+		   .sub_static{
+			   
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				color:#4f4f4f;
+				font-size:1.0em;
+		   }
+		   
+			.caveat
+		   {
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				color:#4f4f4f;
+				font-size:1.6em;
+		   }
+			
+			#pictoText{
+				padding-top:20px;
+			}
+		  
+			#pictoGuessLabel{
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				font-size:0.8em;
+			}
+		  
+			#pictoGuessValue{
+				font-family:"open_sanssemibold",sans-serif,Helvetica,Arial;
+				font-size:1.4em;
+				color:#008cba;
+			}
+		  
+			#pictoActualLabel{
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				font-size:0.8em;
+			}
+		  
+			#pictoActualValue{
+				font-family:"open_sanssemibold",sans-serif,Helvetica,Arial;
+				font-size:1.4em;
+				color:#090;	
+			}
+		  
+			.spanClass{
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				font-size:0.6em /*!important*/;
+				color:#4f4f4f;			
+			}
+		  
+			#pictoNatLabel{
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				font-size:0.8em;
+			 }
+		  
+			#pictoNatValue{
+				font-family:"open_sanssemibold",sans-serif,Helvetica,Arial;
+				font-size:1.4em;
+				color:#F5A529;
+		   }	
+		   
+		   #OneInFourLabel
+		   {
+				font-family:"open_sanssemibold",sans-serif,Helvetica,Arial;
+				font-size:1.8em;
+				color:#090;	
+				display:inline;		
+		   }	
+		   
+		   #OneInTenLabel
+		   {
+				font-family:"open_sanssemibold",sans-serif,Helvetica,Arial;
+				font-size:1.8em;
+				color:#8DA0CB;
+				display:inline;		
+		   }
+		   
+		   #idYourSPA,
+		   #circleSPA,
+		   #innercircleSPA{
+				display:none;
+		   }
+			
+			#YearsLabel
+			{
+				vertical-align:middle;
+				text-align:center;
+				font-family:"open_sanslight",sans-serif,Helvetica,Arial;
+				font-size:2.0em;
+				color:white;
+				padding-top:7px;
+			}	
+			#introLine4
+			{
+				padding-top:15px;				
+			}
+		
+			
+			#LEDiv2{
+				background-color:#008cba;
+				font-family:"open_sanslight",sans-serif,Helvetica,Arial;	
+				height:100px;
+				line-height:38px;
+				padding-top:15px;
+				
+			}	
+			
+			
+			#LEDiv3{
+				background-color:white;
+				font-family:"open_sanslight",sans-serif,Helvetica,Arial;
+				height:70px;
+				line-height:38px;
+				padding-top:25px;
+				
+			}			
+						
+		}
+		
+		
+		@media screen and (min-width: 768px)
+		{
+			
+			
+			#svgpicto{
+				padding-top:0px;	
+			}
+			
+			.labels
+			{
+				height:100px;
+				text-align:left;
+			}
+			
+			
+			.labelsBottom
+			{
+				height:45px;
+				text-align:left;
+			}
+			
+			#LEDiv{
+				height:100px;
+				line-height:100px;			
+			}
+			
+			#pictoActualLabel,
+			#pictoNatLabel,
+			#pictoGuessLabel{
+				padding-top:0px;
+			}
+			
+		  	.picaarticle {
+				font-size:14px;
+				line-height:24px;	
+			}
+			
+			.doublepica {
+				font-size:14px;	
+				line-height:24px;				
+			}
+			
+			.trafalger {
+				font-size:14px;
+				line-height:0px;					
+			}
+			
+			#LE
+			{
+				font-family:"open_sansbold",sans-serif,Helvetica,Arial;
+				font-size:8em;
+				color:white;
+				vertical-align:middle;
+				text-align:center;				
+			}
+			
+			#yearsPastSPA, #yearsFromNow
+			{
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				font-size:2.2em;
+				vertical-align:middle;
+				text-align:center;
+				padding-top:0px;
+			}
+		   
+		   .static{
+			   
+				font-family:"open_sanssemibold",sans-serif,Helvetica,Arial;
+				color:#4f4f4f;
+				font-size:2.2em;
+		   }
+
+		   .staticLink{
+			   
+				font-family:"open_sanssemibold",sans-serif,Helvetica,Arial;
+				color:#4f4f4f;
+				font-size:1.1em;
+		   }
+		   
+		   .sub_static{
+			   
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				color:#4f4f4f;
+				font-size:1.3em;
+		   }
+		   
+			.caveat
+		   {
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				color:#4f4f4f;
+				font-size:2.0em;
+		   }
+			
+			
+		  	.jumbotron h1,
+		  	.jumbotron .h1
+		  	{
+				font-size: 40px !important;
+			}
+			
+			#hundredYearProbValue1,
+			#hundredYearProbValue2
+			{
+				font-size:1.8em;
+				font-weight:normal;
+				line-height:22px;
+				font-family:"open_sanssemibold",sans-serif,Helvetica,Arial;
+				display:none;		
+			}
+		  
+		  
+		  
+		  	.jumbotron p,
+		  	.jumbotron .p
+			{
+				font-size: 20px !important;
+			}
+			
+			#pictoText{
+				padding-top:20px;
+			}
+		  
+			#pictoGuessLabel{
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				font-size:0.8em;
+			}
+		  
+			#pictoGuessValue{
+				font-family:"open_sanssemibold",sans-serif,Helvetica,Arial;
+				font-size:2.8em;
+				color:#008cba;
+			}
+		  
+			#pictoActualLabel{
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				font-size:0.8em;
+			}
+		  
+			#pictoActualValue{
+				font-family:"open_sanssemibold",sans-serif,Helvetica,Arial;
+				font-size:2.8em;
+				color:#090;	
+			}
+			.spanClass{
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				font-size:0.6em /*!important*/;
+				color:#4f4f4f;			
+			}
+		  
+			#pictoNatLabel{
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				font-size:0.8em;
+			 }
+		  
+			#pictoNatValue{
+				font-family:"open_sanssemibold",sans-serif,Helvetica,Arial;
+				font-size:2.8em;
+				color:#F5A529;
+		   }
+		   
+		   #OneInFourLabel
+		   {
+				font-family:"open_sanssemibold",sans-serif,Helvetica,Arial;
+				font-size:1.8em;
+				color:#090;	
+				display:inline;	
+		   }	
+		   
+		   #OneInTenLabel
+		   {
+				font-family:"open_sanssemibold",sans-serif,Helvetica,Arial;
+				font-size:1.8em;
+				color:#8DA0CB;
+				display:inline;		
+		   }
+		   
+		   #idYourSPA,
+		   #circleSPA,
+		   #innercircleSPA{
+				display:inline;
+		   }
+			
+			#YearsLabel
+			{
+				vertical-align:middle;
+				text-align:center;
+				font-family:"open_sanslight",sans-serif,Helvetica,Arial;
+				font-size:2.3em;
+				color:white;
+				padding-top:4px;
+			}	
+			#introLine4
+			{
+				padding-top:25px;				
+			}
+		
+			
+			#LEDiv2{
+				background-color:#008cba;
+				font-family:"open_sanslight",sans-serif,Helvetica,Arial;	
+				height:100px;
+				line-height:38px;
+				padding-top:20px;
+				
+			}
+			
+			
+			#LEDiv3{
+				background-color:white;
+				font-family:"open_sanslight",sans-serif,Helvetica,Arial;
+				height:100px;
+				line-height:50px;
+				padding-top:25px;
+				
+			}
+		}
+		
+
+		@media (min-width: 1000px) {
+			
+			
+			#svgpicto{
+				padding-top:0px;	
+			}
+			
+			.labels
+			{
+				height:100px;
+				text-align:left;
+			}
+			
+			
+			.labelsBottom
+			{
+				height:45px;
+				text-align:left;
+			}
+			
+			#LEDiv{
+				height:100px;
+				line-height:100px;				
+			}
+			
+		  	.picaarticle {
+				font-size:18px;
+				line-height:24px;	
+			}
+			
+			.doublepica {
+				font-size:18px;	
+				line-height:24px;
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;					
+			}
+			
+			.trafalger {
+				font-size:18px;
+				font-weight:normal;
+				line-height:0px;
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;					
+			}
+			
+			#hundredYearProbValue1,
+			#hundredYearProbValue2
+			{
+				font-size:1.8em;
+				font-weight:normal;
+				line-height:22px;
+				font-family:"open_sanssemibold",sans-serif,Helvetica,Arial;	
+				display:inline;	
+			}
+						
+			#SPAValue1,
+			#SPAValue2
+			{
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;	
+				font-size:18px;
+				font-weight:normal;
+				line-height:22px;
+			}
+			
+			#LE
+			{
+				font-family:"open_sansbold",sans-serif,Helvetica,Arial;
+				font-size:8em;
+				color:white;
+				vertical-align:middle;
+				text-align:center;		
+			}
+			
+			#yearsPastSPA, #yearsFromNow
+			{
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				font-size:2.3em;
+				vertical-align:middle;
+				text-align:center;
+				padding-top:0px;
+			}
+		   
+		   .static{
+			   
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				color:#4f4f4f;
+				font-size:2.3em;
+		   }
+
+		   .staticLink{
+			   
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				color:#4f4f4f;
+				font-size:1.1em;
+		   }
+		   
+		   .sub_static{
+			   
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				color:#4f4f4f;
+				font-size:1.3em;
+		   }
+		   
+			.caveat
+		   {
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				color:#4f4f4f;
+				font-size:2.0em;
+		   }
+			
+			#pictoText{
+				padding-top:20px;
+			}
+		  
+			#pictoGuessLabel{
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				font-size:0.8em;
+			}
+		  
+			#pictoGuessValue{
+				font-family:"open_sanssemibold",sans-serif,Helvetica,Arial;
+				font-size:2.8em;
+				color:#008cba;
+			}
+		  
+			#pictoActualLabel{
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				font-size:0.8em;
+			}
+		  
+			#pictoActualValue{
+				font-family:"open_sanssemibold",sans-serif,Helvetica,Arial;
+				font-size:2.8em;
+				color:#090;	
+			}
+		  
+			.spanClass{
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				font-size:0.6em /*!important*/;
+				color:#4f4f4f;			
+			}
+		  
+			#pictoNatLabel{
+				font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+				font-size:0.8em;
+			 }
+		  
+			#pictoNatValue{
+				font-family:"open_sanssemibold",sans-serif,Helvetica,Arial;
+				font-size:2.8em;
+				color:#F5A529;
+		   }
+		   
+		   #OneInFourLabel
+		   {
+				font-family:"open_sanssemibold",sans-serif,Helvetica,Arial;
+				font-size:1.8em;
+				color:#090;	
+				display:inline;
+		   }
+		   
+		   #OneInTenLabel
+		   {
+				font-family:"open_sanssemibold",sans-serif,Helvetica,Arial;
+				font-size:1.8em;
+				color:#8DA0CB;
+				display:inline;	
+		   }
+		   
+		   #idYourSPA,
+		   #circleSPA,
+		   #innercircleSPA{
+				display:inline;
+		   }
+			
+			#YearsLabel
+			{
+				vertical-align:middle;
+				text-align:center;
+				font-family:"open_sanslight",sans-serif,Helvetica,Arial;
+				font-size:2.5em;
+				color:white;
+				padding-top:4px;
+			}	
+			#introLine4
+			{
+				padding-top:25px;				
+			}
+		
+			
+			#LEDiv2{
+				background-color:#008cba;
+				font-family:"open_sanslight",sans-serif,Helvetica,Arial;	
+				height:100px;
+				line-height:38px;
+				padding-top:20px;
+				
+			}
+			
+			
+			#LEDiv3{
+				background-color:white;
+				font-family:"open_sanslight",sans-serif,Helvetica,Arial;
+				height:100px;
+				line-height:50px;
+				padding-top:25px;
+				
+			}
+		}
+
+
+
+
+
+		
+		/* base styles */
+        html
+		{
+			-webkit-text-size-adjust: none; /* prevent font scaling in landscape */
+		}
+
+
+
+        body
+		{
+            margin: 0;
+            padding: 0%;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+		
+		
+		
+		h4
+		{
+			font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+			font-size:1.8em;	
+		}
+		
+
+		
+		
+	
+	
+		
+		@font-face
+		{
+			font-family: 'open_sansbold';		
+			src: url('fonts/OpenSans-Bold-webfont.woff') format('woff');
+			font-weight: normal;
+			font-style: normal;
+		}
+		
+		@font-face
+		{
+			font-family: 'open_sansregular';		
+			src: url('assets/OpenSans-Light-webfont.woff') format('woff');
+			font-weight: normal;
+			font-style: normal;		
+		}
+		
+		
+		
+		@font-face
+		{
+			font-family: 'open_sansitalic';		
+			src: url('assets/OpenSans-Italic-webfont.woff') format('woff');
+			font-weight: normal;
+			font-style: normal;		
+		}
+		
+		
+		
+		@font-face
+		{
+			font-family: 'open_sansregular';		
+			src: url('assets/OpenSans-Regular-webfont.woff') format('woff');
+			font-weight: normal;
+			font-style: normal;
+		}
+		
+		
+		
+		@font-face
+		{
+			font-family: 'open_sanssemibold';		
+			src: url('assets/OpenSans-Semibold-webfont.woff') format('woff');
+			font-weight: normal;
+			font-style: normal;		
+		}
+		
+		
+		.lead 
+		{
+			color:#000 !important;
+		}	
+				
+		
+		.jumbotron
+		{
+			padding-top:0px !important;
+			font-size:
+		}	
+		
+		
+				
+		.social
+		{
+			padding-top:25px;
+			padding-left:5px;
+			float:right;
+			opacity:0.5;
+			cursor:pointer;
+		}
+		
+		
+		
+		.social:hover
+		{
+			opacity:1;
+				
+		}
+		
+		
+		#embedrow
+		{
+			padding-bottom:10px;
+			
+		}
+		
+		
+		
+		#close
+		{
+			float:right;
+			opacity:0.5;
+			cursor:pointer;
+		}
+
+
+
+		#close:hover
+		{
+			opacity:1;
+		}
+		
+		
+			
+		.axis path
+		{
+			fill: none;
+		}
+		
+		
+		
+		.axis line
+		{
+			fill: none;
+			stroke: #ccc;
+			stroke-width: 0.1%
+		}
+		
+	
+		
+		.tick text
+		{
+			font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+			font-size:30px;
+			fill:/*#666*/#6d6d6d;
+			x:-6;
+		}
+		
+		
+		
+		#mainChart
+		{		
+			width:100%;
+		}
+	
+	
+			
+		#chart
+		{
+			height:600px;
+		}
+	
+	
+		
+		#chart1,
+		#chart2,
+		#chart3
+		{
+				width:100%;
+		}
+						
+		
+		
+		#bar0
+		{
+			fill: #8dd3c7;	
+			opacity:0.7;	
+		}
+		
+		
+		
+		#bar1
+		{
+			fill: #bebada;
+			opacity:0.7;			
+		}
+		
+		
+		
+		.labels
+		{
+			text-anchor:middle;
+			font-size:18px;
+		}
+		
+		
+		
+		.infoText
+		{
+			display:none;	
+		}
+
+
+
+		.row
+		{
+			padding-top:15px;
+			padding-bottom:15px;
+		}		
+		
+		
+		#male
+		{
+			position:absolute;
+			left:0px;
+			top:25px;
+			display:block;
+			width:50px;
+			width:50px;
+			background-position: right;
+			opacity:0.5;
+		}
+		
+		
+		
+		#male:hover
+		{
+			float:right;
+			opacity:1.0;
+		}
+		
+		
+		
+		#female
+		{
+			position:absolute;
+			left:125px;
+			top:25px;
+			display:block;
+			width:50px;
+			width:50px;
+			background-position: right;
+			opacity:0.5;	
+		}
+		
+		
+		
+		#female:hover
+		{
+			float:right;
+			opacity:1.0;
+			stroke:red;
+		}
+		
+		
+		
+		#chart
+		{
+			width:100%;
+			height:100%;			
+		}
+		
+		
+		
+		body
+		{
+		  font: 8px sans-serif;
+		  color:#666;
+		}
+		
+		
+		
+		.axis path,
+		.axis line
+		{
+		  fill: none;
+		  stroke: none;
+		  shape-rendering: crispEdges;
+		}
+		
+		
+		
+		.x.axis path
+		{
+		  display: inline;
+		  fill: none;
+		  stroke: black;
+		  stroke-width: 0.0em;
+		}
+		
+		
+		
+		#probabilityLine
+		{
+			fill: none;
+		  	stroke-width: 0.33em;
+		}
+		
+		
+		
+		#AltprobabilityLine
+		{
+			fill: none;
+		  	stroke-width: 0.33em;
+		}		
+		
+		
+		
+		#SPAbar
+		{
+		  fill: red;
+		  stroke: #666;
+		  stroke-width: 2px;
+		}
+		
+		
+		.axis text
+		{
+			font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+            font-weight: normal;
+            font-size: 1.1em;
+            fill: /*#333*/#6d6d6d;
+            text-align: right;
+		}
+	
+	
+		
+		.vertLines,
+		.horiLines
+		{
+			stroke-width:3px;
+		}
+     
+	 
+	 
+		#myAgeLine, 
+		#LegendmyAgeLine
+		{
+			stroke:#666;
+			stroke-dasharray:10,10;
+			stroke-width:1px;
+		}
+		
+		
+		
+		#LELine, 
+		#LegendLELine
+		{
+			stroke:#666;
+			fill:#666;
+			stroke-width:1px;
+		}
+		
+		
+		
+		#SPALine, 
+		#LegendSPALine,
+		#SPAYearline,
+		#SPAYear
+		{
+			stroke:#1881BF;
+			stroke-width:0.3em;
+		}
+		
+		
+		
+		#prob1Line
+		{
+			stroke:#683636;
+			stroke-width:0.3em;
+		}
+		
+		
+		
+	 	#OneinTwoline,
+		#OneinTwoYear {
+			stroke:#66c2a5;		
+			stroke-width:2px;
+		}
+		
+		
+		
+		#prob2Line
+		{
+			stroke:#B06666;
+			stroke-width:0.3em;
+		}
+		
+		
+		
+	 	#OneinFourline,
+		#OneinFourYear {
+			stroke:#fc8d62;		
+			stroke-width:2px;
+		}
+		
+		
+		
+		#prob3Line
+		{
+			stroke:#CEA0A0;
+			stroke-width:0.3em;
+		}
+		
+		
+		
+	 	#OneinTenline,
+		#OneinTenYear {
+			stroke:#8da0cb;		
+			stroke-width:2px;
+		}
+		
+		
+		
+		.tick text
+		{
+			font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+			font-size:1.5em;
+			fill:/*#666*/#6d6d6d;
+		}
+		
+		
+		
+		#xAxisTitle,
+		#yAxisTitle
+		{
+			font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+			font-size:1.8em;
+		}
+		
+		
+		/* y-axis horizontal gridlines */	
+		.axis.y .tick line
+		{
+			stroke-width:0.125em;
+			stroke:#CCC;
+			stroke-opacity:0.33;	
+		}
+		
+		
+		.axis.x .tick line
+		{
+			stroke-width:0.125em;
+			stroke:#666;
+			stroke-opacity:1.0;	
+		}
+		
+		
+		
+		.graphText,
+		.legendText
+		{
+			font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+			font-size:1.8em;
+			fill:/*#666*/#0581c9;
+		}
+		
+		
+		
+		.graphSubText
+		{
+			font-family:"open_sanssemibold",sans-serif,Helvetica,Arial;
+			font-size:1.5em;
+			fill:/*#666*/#6d6d6d;
+		}		
+		
+		
+		
+		.graphRect
+		{
+			op
+			
+			acity:0.66;
+		}
+		
+		
+		
+		#rect1
+		{
+			stroke:#878786;
+			stroke-width:0px;
+			fill:#878786;
+		}
+		
+		
+		
+		#rect2
+		{
+			stroke:#CECECD;
+			stroke-width:0px;
+			fill:#CECECD;
+		}
+		
+		
+		
+		#rect3
+		{
+			stroke:#F0F0F0;
+			stroke-width:0px;
+			fill:#F0F0F0;
+		}
+		
+		
+		
+	 	#centreline {
+			stroke:#666;		
+			stroke-width:1px;
+		}
+		
+		
+		
+	 	#hundredYearline,
+		#hundredYear {
+			stroke: /*"#5782BB"*/green;		
+			stroke-width:2px;
+		}
+		
+		
+		.area {
+		    stroke-width: 0;
+		}
+		
+		
+		#currentAge
+		{
+			width:80px;	
+		}
+		
+		.footnotes
+		{
+			color:#666;
+			font-size:12px;
+			font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+			line-height:1.42857143;
+		}
+		
+		.urlLink
+		{
+			color:#008cba;
+			font-size:15px;
+			font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+			line-height:1.42857143;
+		}
+
+		#rowOne	{
+			padding-bottom:0px !important;
+		}
+		
+		
+		.left {
+		    float: left;
+		    width: 100%;
+			font-size:14px;
+			font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+		}
+		
+		
+		#tweet {
+		    position:absolute;
+			top:0px;
+			left:0px;
+		}
+		
+		#twitter
+		{
+			width:30px;
+			height:30px;	
+		}
+		
+		#faceb
+		{
+			width:30px;
+			height:30px;	
+		}
+		
+		
+		#introLine1
+		{
+			color:white;
+			vertical-align:middle;
+			text-align:center;
+		}
+		
+		
+		#introLine2
+		{
+			color:white;
+			vertical-align:middle;
+			text-align:center;		
+			height:100px;
+			line-height:100px;
+		}
+		
+		
+		#introLine3a
+		{
+			vertical-align:middle;
+			text-align:center;	
+			height:100px;
+			line-height:100px;	
+		}
+		
+	/*	
+		#introLine4
+		{
+			padding-top:25px;				
+		}*/
+		
+		
+		#introLine5
+		{
+			/*padding-left:25px;*/
+		/*	padding-top:25px;
+			padding-left:25px;
+			padding-right:25px;	
+			padding-bottom:25px;*/	
+		}
+		
+		
+		
+		#birthYearLabel
+		{
+			font-size:14px;
+			font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+		}
+		
+		
+		#genderLabel
+		{
+			font-size:14px;
+			font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+		}
+		.panel-default {
+		  border-color: white;
+		}
+		
+		
+		#tweetSub
+		{
+			padding-top:30px;	
+		}
+		
+		#errorLabel
+		{
+			font-size:16px;
+			font-family:"open_sansregular",sans-serif,Helvetica,Arial;
+		}
+		
+		.errorLabel {
+	    	margin-left: auto;
+    		margin-right: auto;
+		    width: 90%;
+    		background-color: white;
+			position: relative;
+			top: 50%;
+			transform: translateY(-125%);
+		}	
+		
+		
+		#LEDiv{
+			background-color:#008cba;
+			font-family:"open_sanslight",sans-serif,Helvetica,Arial;
+			
+		}/*
+		
+		
+		#LEDiv2{
+			background-color:#008cba;
+			font-family:"open_sanslight",sans-serif,Helvetica,Arial;	
+			height:100px;
+			line-height:38px;
+			padding-top:25px;
+			
+		}*//*
+		
+		
+		#LEDiv3{
+			background-color:white;
+			font-family:"open_sanslight",sans-serif,Helvetica,Arial;
+			height:100px;
+			line-height:38px;
+			padding-top:25px;
+			
+		}*/
+		
+		#fromNowSpan{
+			vertical-align:middle;
+			text-align:center;
+		}
+		
+		#yearsDiv
+		{
+			vertical-align:middle;
+			text-align:center;
+		}
+		
+		#YFNValue
+		{
+			font-family:"open_sansbold",sans-serif,Helvetica,Arial;
+			font-size:25px;
+			color:rgb(0, 114, 152);
+		}
+		
+		#YFN{
+			vertical-align:middle;
+			font-family:"open_sansbold",sans-serif,Helvetica,Arial;
+			text-align:center;
+			font-size:2.4em;
+			color:rgb(0, 114, 152);
+			vertical-align:middle;
+			text-align:center;
+		}
+		
+		#ID1in4{
+			font-family:"open_sansbold",sans-serif,Helvetica,Arial;
+			font-size:1.1em;
+			color:#090;
+		}
+		
+		#ID1in10{
+			font-family:"open_sansbold",sans-serif,Helvetica,Arial;
+			font-size:1.1em;
+			color:#F5A529;
+		}
+		
+			
+	
+	</style>
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../bower_components/html5shiv/dist/html5shiv.js"></script>
+      <script src="../bower_components/respond/dest/respond.min.js"></script>
+    <![endif]-->
+    <script>
+
+
+		  // var _gaq = _gaq || [];
+		  // _gaq.push(['_setAccount', 'UA-37894017-1']);
+		  // _gaq.push(['_trackPageview']);
+		
+		
+		  (function() {
+			// var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			// ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			// var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+
+    </script>
+  </head>
+  <body>
+  
+    
+
+<div class="container-fluid">
+
+	<div class="row hide" id="embedrow">
+  	
+		 <div class="col-sm-offset-6 col-sm-6 col-xs-12">
+
+            <div id="embedbox">
+            
+                    <img id="close" src="images/cross.svg"/>
+                    <label class="control-label" for="inputType"></label>
+                    <input type="text" class="form-control" id="inputType" value="longevity.html">
+                    
+            </div>  <!-- end id="embedbox"-->
+        
+	     </div>  <!-- end class="col-sm-offset-6 col-sm-6 col-xs-12"-->
+         
+    </div>  <!-- end class="row hide" id="embedrow"-->     
+   
+   
+   
+	<div class="row" id="rowOne">
+           
+		<div class="col-sm-12 col-xs-12"> 
+              
+			<form id="longevityCalculator">
+  
+				<div class="col-sm-3 col-xs-6" id="AgeDiv">      
+
+            		<div id="byear" class="form-group">              
+                
+                        <label id="birthYearLabel" for="currentAge">What is your age?</label> </br> </br>
+                        <input type="number" pattern="\d*" maxlength="3" class="form-control" id="currentAge" onblur="onblurYourAge()">
+                            
+					</div> 
+                    
+				</div> 
+		</div>
+        
+	</div><!-- end row --> 
+                
+                
+                
+
+   
+	<div class="row" id="rowNine">  
+           
+		<div class="col-sm-12 col-xs-12"> 
+				
+				<div class="col-sm-12 col-xs-12" id="btnGrpDiv">
+				
+					<div id="myear" class="form-group">
+				
+						<label id="genderLabel" for="birthYear">Are you male or female?</label> </br> </br>
+                        
+                        <div class="btn-group" id="btn-group_this" data-toggle="buttons">
+                            <label class="btn btn-default" id="btn-primary1">
+                                <input type="radio" name="options" id="option1" onClick="makeChart()">Male
+                            </label>
+                            
+                            <label class="btn btn-default" id="btn-primary2" >
+                                <input type="radio" name="options" id="option2" onClick="makeChart()">Female
+                            </label>
+                        </div>
+
+					</div>  <!-- end id="myear" class="form-group"-->
+			
+            	</div>  <!-- end class="col-sm-6 col-xs-12--> 
+
+            	<div class="col-sm-12 col-xs-12" id="CalculateDiv">        
+
+                	<br>                                                          
+                	<button type="submit" id="compareBtn" class="btn btn-primary disabled" >Calculate your life expectancy</button>    
+            
+				</div><!-- end  class="col-sm-12 col-xs-12" --> 
+            
+			</form>    
+              
+		</div><!-- end  class="col-sm-12 col-xs-12" -->
+        
+	</div><!-- end row --> 
+
+	</br>
+    
+    <div class="col-sm-12p col-xs-12p panel panel-default" id="quizContent" style="display: none;">
+
+		
+        <div id="LEDiv" class="col-sm-5p col-xs-12p">
+	        <p style="display: none;" id="introLine1" class="static">Your average life expectancy</p>
+            <!-- <p style="display: none;" id="LE"></p> &nbsp; <p id="introLine2" class="static" style="display: none;" > years</p> -->
+        </div>
+        		
+        <div id="LEDiv2" class="col-sm-3p col-xs-12p"><!--
+	        <p style="display: none;" id="introLine1" class="static">Your average life expectancy</p>-->
+			<p style="display: none;" id="LE"></p><!-- &nbsp; <p id="introLine2" class="static" style="display: none;" >years</p>-->
+            <div id='YearsLabel'>years</div>
+        </div>
+        
+        <div id="LEDiv3" class="col-sm-4p col-xs-12p">
+			<p id="yearsFromNow" style="display: none;" ></p>
+            <!-- &nbsp; <p id="yearsFromNow2" class="static" style="display: none;" > years from now.</p>-->
+         <!--   <div id='YFN'>from now</div>-->
+        </div>
+        
+        
+        
+        
+        
+        
+        
+        <div class="col-sm-12p col-xs-12p">
+	        <p style="display: none;" id="introLine4" class="caveat">Life expectancy is influenced by many factors (for example, your lifestyle choices and health) and can vary hugely from person to person. The graphic illustrates the chances you will reach different ages.</p>
+<!--    	    <p style="display: none;" id="introLine5" class="caveat">The graphic below illustrates the chances you will reach different ages.</p>
+-->        </div>
+        
+        
+        
+<!--        
+        
+        <div class="col-sm-12p col-xs-12p" id="pictoText" style="display: none;">
+            
+            <div id="actualDiv" class="labels col-sm-4p col-xs-12p hide">
+            
+				<div class="labelt doublepica" id="pictoActualLabel"><p class="sub_static">You have a 1 in 4 chance of reaching</p></div>
+                <div class="valuet trafalger" id="pictoActualValue"></div>
+                <div id="yearsDiv"><span class='spanClass'> years</span></div>
+            
+            </div>
+            
+            <div id="natDiv" class="labels col-sm-4p col-xs-12p hide">
+                
+                <div class="labelt doublepica" id="pictoNatLabel"><p class="sub_static">You have a 1 in 10 chance of reaching</p></div>
+                <div class="valuet trafalger" id="pictoNatValue"></div>
+                <div class="valuet trafalger""><span class='spanClass'> years</span></div>
+            
+            </div> 
+            
+			<div id="guessDiv" class="labels col-sm-4p col-xs-12p hide">
+
+				<div class="labelt doublepica" id="pictoGuessLabel" ><label class="sub_static">Your chances of reaching 100 years</label></div>
+				<div class="valuet trafalger" id="pictoGuessValue"></div>
+            
+            </div>
+            
+        </div>  -->
+        
+        
+        
+        <div class="col-sm-12p col-xs-12p" id="pictoText" style="display: none;">
+            
+            <div id="actualDiv" class="labels col-sm-2p col-xs-8p hide">
+            
+				<div class="labelt doublepica" id="pictoActualLabel"><p class="sub_static"><span id='ID1in4'> 1 in 4</span> chance of reaching</p></div>
+        <!--        <div class="valuet trafalger" id="pictoActualValue"></div>-->
+            </div>
+            
+            
+            <div id="actualDiv2" class="labels col-sm-2p col-xs-4p hide">
+            
+			<!--	<div class="labelt doublepica" id="pictoActualLabel"><p class="sub_static">You have a 1 in 4 chance of reaching</p></div>-->
+                <div class="valuet trafalger" id="pictoActualValue"></div>
+            
+            </div>     
+            
+            
+            <div id="natDiv" class="labels col-sm-2p col-xs-8p hide">
+                
+                <div class="labelt doublepica" id="pictoNatLabel"><p class="sub_static"><span id='ID1in10'> 1 in 10</span> chance of reaching</p></div>
+                <!--<div class="valuet trafalger" id="pictoNatValue"></div>-->
+            
+            </div> 
+             
+            
+            <div id="natDiv2" class="labels col-sm-2p col-xs-4p hide">
+                
+                <!--<div class="labelt doublepica" id="pictoNatLabel"><p class="sub_static">You have a 1 in 10 chance of reaching</p></div>-->
+                <div class="valuet trafalger" id="pictoNatValue"></div>
+            
+            </div> 
+            
+            
+			<div id="guessDiv" class="labels col-sm-2p col-xs-8p hide">
+
+				<div class="labelt doublepica" id="pictoGuessLabel" ><label class="sub_static">Chance of reaching 100</label></div>
+		<!--		<div class="valuet trafalger" id="pictoGuessValue"></div>-->
+            
+            </div>
+            
+  
+			<div id="guessDiv2" class="labels col-sm-2p col-xs-4p hide">
+
+<!--				<div class="labelt doublepica" id="pictoGuessLabel" ><label class="sub_static">Your chances of reaching 100 years</label></div>
+-->				<div class="valuet trafalger" id="pictoGuessValue"></div>
+            
+            </div>            
+            
+        </div>          
+          
+    
+		<div class="col-sm-12p col-xs-12p" id="picto" style="display: none;"> </div> 
+        
+		</br> </br>
+           
+		<div id="tweetSub" class="col-sm-12 col-xs-12">
+        
+        	<div class="left">Share your life expectancy: <img id="twitter" src="images/twitter.svg"/> &nbsp;<img id="face" src="images/facebook.svg"/></div>
+			
+        </div>
+        
+        
+    </div> 
+    
+        
+    <div class="row">
+           
+		<div id="footnotes" class="col-sm-12 col-xs-12">
+     		<p class="footnotes">1. Life expectancy is calculated using the 2014-based principal projection for 2016 in the UK produced by the ONS.<br><br>
+     		<p class="footnotes">2. Your state pension age as of 1st January depends on your particular date of birth.  <br><br>            
+            
+		</div>
+    
+    </div> 
+    
+<!--        <div class="col-sm-12p col-xs-12p" id="pictoError" style="display: none;"> -->
+		<div class="col-sm-12p col-xs-12p hide" id="pictoError"> 
+			<div class="errorLabel" id="errorLabel">
+            	<p style="font-size:15px">For a safer, faster, better experience online you should upgrade your browser.</p>
+                <p style="font-size:15px">You would then be able to play with this lovely interactive graphic.</p>
+                <p style="font-size:15px"><a style="color:rgba(255,255,255,1)" href="https://www.gov.uk/support/browsers" target="_blank">Find out more about browsers</a></p>
+            </div>
+        </div>     
+
+        
+</div> <!--end container -->
+<!--
+    <script src="js/jquery-1.10.1.min.js"></script>-->
+    <script src="js/jquery.js"></script> 
+    <script src="js/bootstrap.min.js"></script>
+ 	<script src="js/modernizr.custom.56904.js"></script>
+    <script src="js/d3.v3.min.js" charset="utf-8"></script>
+    <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="js/script.js"></script>
+    
+    <script>
+	
+		d3.select("#twitter").on("click",tweet);
+		d3.select("#face").on("click",faceb);
+		
+		function tweet() {
+//				var myString="http://twitter.com/home?status="+escape("I have a 1 in 4 chance of reaching "+ dvc.var1 + window.location.href + "#pensionreform");
+				var myString="http://twitter.com/home?status="+escape("I have a "+ dvc.hundredYearProb[0] + "% chance of living to be 100. Calculate your chances here: http://visual.ons.gov.uk/what-are-your-chances-of-living-to-100/");
+				window.open(myString);
+		}
+		
+		function faceb() {
+//				var face = 'http://www.facebook.com/share.php?u=' + window.location.href;
+				var face = 'http://www.facebook.com/share.php?u=' + "http://visual.ons.gov.uk/what-are-your-chances-of-living-to-100/";
+				
+				
+				
+				window.open(face);
+		}
+    
+    </script>
+  <script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a40b5979afc1d857',t:'MTc5MDM1MzE1Ng=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

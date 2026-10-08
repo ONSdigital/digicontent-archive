@@ -1,0 +1,37 @@
+category,series,value,min,max
+White British,Unadjusted,76,75,78
+White British,Age adjusted,77,76,78
+White British,"Age, sex, education, socioeconomic adjusted",79,78,80
+White British,Fully adjusted,80,79,82
+Other White,Unadjusted,76,70,81
+Other White,Age adjusted,79,74,84
+Other White,"Age, sex, education, socioeconomic adjusted",82,77,87
+Other White,Fully adjusted,85,81,89
+Mixed/Multiple,Unadjusted,77,64,86
+Mixed/Multiple,Age adjusted,78,66,87
+Mixed/Multiple,"Age, sex, education, socioeconomic adjusted",80,67,89
+Mixed/Multiple,Fully adjusted,85,74,92
+Indian,Unadjusted,84,76,90
+Indian,Age adjusted,86,78,91
+Indian,"Age, sex, education, socioeconomic adjusted",84,77,90
+Indian,Fully adjusted,86,78,91
+Pakistani or Bangladeshi,Unadjusted,73,63,81
+Pakistani or Bangladeshi,Age adjusted,77,67,84
+Pakistani or Bangladeshi,"Age, sex, education, socioeconomic adjusted",79,68,86
+Pakistani or Bangladeshi,Fully adjusted,80,70,88
+Chinese or Other Asian groups,Unadjusted,73,58,84
+Chinese or Other Asian groups,Age adjusted,76,61,86
+Chinese or Other Asian groups,"Age, sex, education, socioeconomic adjusted",75,61,86
+Chinese or Other Asian groups,Fully adjusted,80,65,89
+Black Caribbean ,Unadjusted,61,43,76
+Black Caribbean ,Age adjusted,58,40,74
+Black Caribbean ,"Age, sex, education, socioeconomic adjusted",68,45,84
+Black Caribbean ,Fully adjusted,75,53,89
+Black African or Other Black,Unadjusted,48,36,60
+Black African or Other Black,Age adjusted,50,39,62
+Black African or Other Black,"Age, sex, education, socioeconomic adjusted",50,36,63
+Black African or Other Black,Fully adjusted,64,50,77
+Any other ethnic group,Unadjusted,71,59,81
+Any other ethnic group,Age adjusted,76,65,84
+Any other ethnic group,"Age, sex, education, socioeconomic adjusted",79,66,88
+Any other ethnic group,Fully adjusted,82,71,90

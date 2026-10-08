@@ -1,0 +1,15 @@
+﻿category,series,or,min,max
+Sex,Male,1.03,0.64,1.67
+Age,2 to 11,0.61,0.19,1.93
+Age,12 to 19,0.64,0.21,2.01
+Age,20 to 49,0.62,0.33,1.17
+Age,70 and above,0.74,0.37,1.47
+Ethnic group,Asian / Asian British,4.78,2.09,10.93
+Ethnic group,Black / African / Caribbean / Black British,2.14,0.29,15.88
+Ethnic group,Mixed / Multiple ethnic groups,2.44,0.58,10.23
+Ethnic group,Other ethnic groups,3.85,0.52,28.33
+Household size,One-person household,2.12,1.15,3.90
+Household size,Three-person household,0.78,0.34,1.80
+Household size,Four-person household,0.91,0.40,2.03
+Household size,Five or more person household,0.88,0.30,2.55
+Contact with known or suspected COVID-19 cases,Recent contact,3.76,1.78,7.94

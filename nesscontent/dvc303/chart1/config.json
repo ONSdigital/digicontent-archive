@@ -1,0 +1,45 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+        
+            "dateFormat":"%Y",
+        
+            "legendLabels" : [],
+        
+            "sourceText":["Census of Employment (1971-1991), the Annual Employment Survey (1991-1998), the Annual Business Inquiry (1998-2008) and the Business Register and Employment Survey (2009-2014)"],
+            "sourceURL":["http://www.ons.gov.uk/ons/guide-method/method-quality/specific/labour-market/business-register-and-employment-survey--bres-/annual-employment-statistics-history-and-background/index.html"],
+        
+            "annotationChart": [],
+            "annotationBullet": [],
+            "annotationXY":[],
+            "annotationAlign":[],
+        
+            "circles" : false,    
+            "annotationCXCY":[],
+        
+            "yAxisLabel":"",
+            "yAxisScale":[0,350000],   
+            "yAxisBreak": false,
+            "yAxisBreak_sm_md_lg": [65,65,65]            
+    },
+    "optional" : {
+            "margin_sm": [10, 15, 5, 55],
+            "margin_md": [20, 10, 5, 55],
+            "margin_lg": [20, 20, 5, 55],
+        
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+        
+            "mobileBreakpoint" : 610, 
+            
+            "xAxisTextFormat_sm_md_lg" : ["%y", "%Y", "%Y"], 
+                
+            "x_num_ticks_sm_md_lg" : [5,10,21],    
+            "y_num_ticks_sm_md_lg" : [4,8,8],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}
+
+

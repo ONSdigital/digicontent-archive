@@ -1,0 +1,89 @@
+h5,h6 {
+  font-size: 16px;
+  margin: 16px 0 8px 0;
+  font-weight: 700;
+  color: #323132;
+}
+
+g#legend {
+  font-size: 14px;
+}
+
+#postcodeInput {
+  text-transform: uppercase;
+}
+::-webkit-input-placeholder { /* WebKit browsers */
+    text-transform: none;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    text-transform: none;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+    text-transform: none;
+}
+:-ms-input-placeholder { /* Internet Explorer 10+ */
+    text-transform: none;
+}
+::placeholder { /* Recent browsers */
+    text-transform: none;
+}
+
+.incorrect {
+  height: 40px;
+  line-height: 40px;
+  padding-left: 10px;
+  background-color: #db4742;
+  color: #fff;
+  margin-bottom: 20px;
+}
+/* .incorrect p {
+  ver
+} */
+
+.text-label-container {
+  font-size: 13px;
+  text-anchor: middle;
+}
+/* g#annotations {
+  font-size: 14px;
+} */
+
+#annotations rect {
+  fill: #a0a0a0;
+  opacity: 0.3;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+#annotations text {
+  font-size: 12px;
+}
+
+
+.text-halo {
+  stroke: #eee;
+  stroke-width: 3px;
+}
+
+.average {
+  stroke: #3a4c54;
+  stroke-width: 4px;
+  stroke-dasharray: 4 2;
+}
+body {
+  color:#206095;
+  max-width: 500px;
+}
+
+.visuallyhidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}

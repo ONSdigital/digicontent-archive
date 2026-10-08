@@ -1,0 +1,15 @@
+{"ons":{
+"graphictitle": "histogram",
+"graphic_data_url":"data.csv",
+"bin_width":0.05,
+"margin_top_right_bottom_left" : [30,25,50,33],
+"thresholds_sm_md":[420,800],
+"aspectRatio_sm_md_lg" : [[1,1],[16,9],[16,9]],
+"xAxisScale":[0,1],
+"yAxisScale":[0,0.65],
+"varunit": "change in months",
+"numberrows_sm_md_lg":[2,3,6],
+"xaxislabel":"more green &rarr;",
+"yaxislabel":"% streets",
+"source":"Office for National Statistics"
+}}

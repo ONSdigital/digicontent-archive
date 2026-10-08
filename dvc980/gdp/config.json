@@ -1,0 +1,78 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+            "colour_palette": [ "#234D70" ],
+            "negative_colour":["#D32F2F"],
+            "dateFormat":"%b-%y",
+
+            "legendLabels" : ["Pos", "Neg"],
+
+            "sourceText":["Office for National Statistics"],
+            "sourceURL":["http://www.ons.gov.uk/ons/publications/re-reference-tables.html?edition=tcm%3A77-350752"],
+
+            "annotationChart": [
+              "Throughout the 2008 Recession,  GDP shrunk by no more than 2.1%  in a single quarter",
+               "In Q2 of 2020,  GDP shrunk by -20.4%",
+               "Growing economy ▲",
+               "Shrinking economy ▼",
+               "On March 23 (late Q1), UK  begins the Covid-19 lockdown",
+               "Quarterly  data",
+               "Rolling three  month data"
+            ],
+            "annotationBullet": [
+
+            ],
+            "annotationXY":[
+                ["2008-Q3","-3"],
+                ["2020-Q1","-17.4"],
+                ["2012-Q1","2.5"],
+                ["2012-Q1","-11"],
+                ["2019-Q2","-3.1"],
+                ["2020 - May to July","2.6"],
+                ["2020 - May to July","2.6"]
+            ],
+            "annotationAlign":[
+                "middle",
+                "end",
+                "middle",
+                "middle",
+                "end",
+                "end",
+                "start"
+            ],
+
+            "yAxisLabel":"Quarter on quarter growth and rolling three-month growth, %",
+            "yAxisScale":[-20,5],
+            "yAxisBreak": true,
+            "yAxisBreak_sm_md_lg": [65,65,65]
+    },
+    "optional" : {
+            "margin_sm": [40, 100, 55, 20],
+            "margin_md": [40, 100, 45, 20],
+            "margin_lg": [40, 100, 45, 20],
+
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+
+            "mobileBreakpoint" : 400,
+
+            "y_num_ticks_sm_md_lg" : [5,5,5],
+            "vertical_line" : true,
+            "annotateLineX1_Y1_X2_Y2":[
+                [["2020-Q1",-2],["2019-Q3",-3]],
+                [["2020 - May to July",0],["2020 - May to July",3]]
+            ],
+            "annotateRect" : false,
+            "annotateRectX_Y" : [
+                [["1990", 6],["1993", -3]],
+                [["1999", 6],["2001", -3]]
+            ],
+            "lineColor_opcty" : [
+                ["#888", 0.2],
+                ["red", 0.2]
+            ],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}

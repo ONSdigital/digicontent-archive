@@ -1,0 +1,24 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "colour_palette": ["#A8BD3A", "#27A0CC", "#206095"],
+    "accessibleSummary":"Split bar chart showing the actions taken by people who reported their cost of living had increased over the past month by parental status in Great Britain between 30 March and 19 June 2022. The chart shows that parents are more likely than those without children to have used more credit because of the rising cost of living.",
+    "sourceText":["Office for National Statistics - Opinions and Lifestyle Survey"],
+    "numberFormat":".0f",
+    "xAxisScale": [0,65],
+    "barHeight": {
+      "sm": 45,
+      "md": 45,
+      "lg": 45
+    },
+    "margin":{
+      "sm":{"top":8,"right":10,"bottom":25,"left":100},
+      "md":{"top":8,"right":10,"bottom":25,"left":100},
+      "lg":{"top":8,"right":10,"bottom":25,"left":100}
+    }
+  },
+  "optional": {
+    "mobileBreakpoint": 414,
+    "middleBreakpoint": 600
+  }
+}

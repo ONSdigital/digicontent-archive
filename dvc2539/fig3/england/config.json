@@ -1,0 +1,84 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "screenreadertext":"Antibodies results at the 179, 800, 2000, 4000, and6000 ng/ml levels across age groups.",
+    "dateFormat": "%d/%m/%Y",
+    "displayTicksFormat":"%-d %b",
+    "colour_palette":[{
+      "key": "Less than 179 ng/ml",
+      "colour": "#eff3ff"
+    },
+    {
+        "key": "179 to less than 800 ng/ml",
+        "colour": "#c6dbef"
+    },
+    {
+        "key": "800 to less than 2,000 ng/ml",
+        "colour": "#9ecae1"
+    },
+    {
+        "key": "2,000 to less than 4,000 ng/ml",
+        "colour": "#6baed6"
+    },
+    {
+        "key": "4,000 to less than 6,000 ng/ml",
+        "colour": "#3182bd"
+    },
+    {
+        "key": "6,000 ng/ml or above",
+        "colour": "#08519c"
+    }
+  ],
+    "categorySort": [],
+    "sourceText": ["Coronavirus (COVID-19) Infection Survey from the Office for National Statistics"],
+    "xAxisLabel": "Week beginning",
+    "yAxisLabel": "%",
+    "yAxisScale": "auto_zero_max_total"
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 25,
+        "right": 30,
+        "bottom": 45,
+        "left": 26
+      },
+      "md": {
+        "top": 25,
+        "right": 30,
+        "bottom": 45,
+        "left": 26
+      },
+      "lg": {
+        "top": 25,
+        "right": 30,
+        "bottom": 45,
+        "left": 26
+      }
+    },
+    "chart_every":{
+      "sm": 1,
+      "md": 3,
+      "lg": 3
+    },
+    "aspectRatio": {
+      "sm": [16, 13],
+      "md": [16, 13],
+      "lg": [16, 15]
+    },
+    "legendHeight":{
+      "sm": 115,
+      "md": 80,
+      "lg": 60
+    },
+    "legendStyle": "rect",
+
+    "mobileBreakpoint": 480,
+    "middleBreakpoint": 645,
+    "x_ticks_every": {
+      "sm": 20,
+      "md": 20,
+      "lg": 20
+    }
+  }
+}

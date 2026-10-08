@@ -1,0 +1,34 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02004368,Hastings 001,Ashdown,1,0,0,0,0,0,0,0,1,1,3,2,0,0,covid
+E02004369,Hastings 002,Conquest & St Helens,0,0,0,0,0,0,0,0,0,5,16,7,0,0,covid
+E02004370,Hastings 003,Hollington,0,1,0,1,0,0,0,0,0,0,7,1,1,0,covid
+E02004371,Hastings 004,Ore,0,0,0,0,0,0,0,0,1,4,7,2,0,0,covid
+E02004372,Hastings 005,Broomgrove,0,0,0,0,0,0,0,0,0,2,3,4,0,0,covid
+E02004373,Hastings 006,Silverhill,0,2,0,0,0,0,0,0,0,2,6,1,1,0,covid
+E02004374,Hastings 007,Old Hastings,0,1,0,0,0,0,1,0,0,8,14,3,3,1,covid
+E02004375,Hastings 008,Braybrooke & Bohemia,0,1,1,0,0,0,0,0,0,4,13,7,0,0,covid
+E02004376,Hastings 009,Central Hastings,0,0,0,0,0,0,0,0,0,3,8,4,0,0,covid
+E02004377,Hastings 010,West St Leonards,0,0,1,0,0,0,0,0,0,11,50,7,2,0,covid
+E02004378,Hastings 011,Central St Leonards,0,1,0,0,0,0,0,0,0,2,9,3,0,0,covid
+E02004368,Hastings 001,Ashdown,6,5,1,4,2,5,8,4,5,5,7,6,6,6,noncovid
+E02004369,Hastings 002,Conquest & St Helens,16,15,7,13,9,9,14,14,8,16,15,13,13,7,noncovid
+E02004370,Hastings 003,Hollington,9,8,7,4,6,10,4,6,8,5,1,6,4,4,noncovid
+E02004371,Hastings 004,Ore,5,3,1,4,6,6,4,3,5,5,3,5,0,3,noncovid
+E02004372,Hastings 005,Broomgrove,3,7,1,3,3,1,3,0,6,4,3,4,4,1,noncovid
+E02004373,Hastings 006,Silverhill,6,6,9,13,7,6,8,9,16,5,11,2,6,5,noncovid
+E02004374,Hastings 007,Old Hastings,4,8,6,6,9,5,4,6,11,5,7,3,5,8,noncovid
+E02004375,Hastings 008,Braybrooke & Bohemia,7,10,8,2,2,6,10,5,6,8,9,8,10,6,noncovid
+E02004376,Hastings 009,Central Hastings,4,8,6,3,6,6,1,1,3,5,9,5,4,6,noncovid
+E02004377,Hastings 010,West St Leonards,15,20,15,15,20,13,6,19,17,26,16,13,17,15,noncovid
+E02004378,Hastings 011,Central St Leonards,11,12,6,4,9,9,9,11,5,5,9,9,8,4,noncovid
+E02004368,Hastings 001,Ashdown,5,5,3,4,3,5,4,7,6,4,6,6,5,5,average
+E02004369,Hastings 002,Conquest & St Helens,14,10,12,10,7,10,13,10,13,16,13,11,14,10,average
+E02004370,Hastings 003,Hollington,5,7,7,6,4,7,4,6,6,6,7,8,5,7,average
+E02004371,Hastings 004,Ore,6,5,4,5,5,4,3,8,6,5,7,4,6,5,average
+E02004372,Hastings 005,Broomgrove,4,3,3,5,4,3,3,5,3,7,7,6,4,3,average
+E02004373,Hastings 006,Silverhill,7,9,9,8,6,6,6,8,7,9,8,7,7,9,average
+E02004374,Hastings 007,Old Hastings,6,7,9,4,8,6,6,6,9,7,10,4,6,7,average
+E02004375,Hastings 008,Braybrooke & Bohemia,9,12,7,7,7,6,8,9,9,8,14,11,9,12,average
+E02004376,Hastings 009,Central Hastings,6,5,4,6,5,3,4,4,5,5,6,5,6,5,average
+E02004377,Hastings 010,West St Leonards,14,22,16,13,16,13,15,19,16,16,21,18,14,22,average
+E02004378,Hastings 011,Central St Leonards,8,10,8,9,6,7,5,8,10,7,12,7,8,10,average

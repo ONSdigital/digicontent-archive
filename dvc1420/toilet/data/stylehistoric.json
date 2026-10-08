@@ -1,0 +1,180 @@
+{
+  "version": 8,
+	"sprite": "https://bothness.github.io/ons-basemaps/data/sprite",
+  "glyphs": "https://cdn.ons.gov.uk/maptiles/osm/fontsv1/{fontstack}/{range}.pbf",
+  "sources": {
+    "1960s-low": {
+      "type": "raster",
+      "tiles": [
+        "https://mapseries-tilesets.s3.amazonaws.com/ten_mile/roads_56/{z}/{x}/{y}.png"
+      ],
+      "tileSize": 256,
+      "attribution": "<a href=\"https://maps.nls.uk/geo/explore/side-by-side/\" target=\"_blank\">National Library of Scotland | &copy; Ordnance Survey</a>",
+      "maxzoom": 10
+    },
+		"1960s-med": {
+      "type": "raster",
+      "tiles": [
+        "https://api.maptiler.com/tiles/uk-osgb63k1955/{z}/{x}/{y}.jpg?key=ncUdmgc5zRybmdoXhFDX"
+      ],
+      "tileSize": 256,
+      "attribution": "<a href=\"https://maps.nls.uk/geo/explore/side-by-side/\" target=\"_blank\">National Library of Scotland | &copy; Ordnance Survey</a>",
+      "maxzoom": 13
+    },
+		"1960s-hi": {
+      "type": "raster",
+      "tiles": [
+        "https://api.maptiler.com/tiles/uk-osgb25k1937/{z}/{x}/{y}.jpg?key=ncUdmgc5zRybmdoXhFDX"
+      ],
+      "tileSize": 256,
+      "attribution": "<a href=\"https://maps.nls.uk/geo/explore/side-by-side/\" target=\"_blank\">National Library of Scotland | &copy; Ordnance Survey</a>",
+      "maxzoom": 17
+		},
+		"openmaptiles": {
+      "type": "vector",
+      "tiles": [
+        "https://cdn.ons.gov.uk/maptiles/osm/v2/{z}/{x}/{y}.pbf"
+      ],
+      "buffer": 0,
+      "minzoom": 0,
+      "maxzoom": 14,
+      "attribution": "<a href=\"https://www.openstreetmap.org\" target=\"_blank\">&copy; OpenStreetMap</a>"
+    }
+  },
+  "layers": [
+		{
+      "id": "background",
+      "type": "background",
+      "paint": {"background-color": "rgb(242,243,240)"}
+    },
+    {
+      "id": "1960s-low",
+      "type": "raster",
+      "source": "1960s-low",
+      "paint": {
+        "raster-saturation": -1,
+				"raster-contrast": 0.3
+      },
+			"maxzoom": 9.999
+    },
+		{
+      "id": "1960s-med",
+      "type": "raster",
+      "source": "1960s-med",
+      "paint": {
+        "raster-saturation": -1,
+				"raster-contrast": 0.3
+      },
+			"minzoom": 10,
+			"maxzoom": 12.999
+    },
+		{
+      "id": "1960s-hi",
+      "type": "raster",
+      "source": "1960s-hi",
+      "paint": {
+        "raster-saturation": -1,
+				"raster-contrast": 0.3
+      },
+			"minzoom": 13
+    },
+    {
+      "id": "water",
+      "type": "fill",
+      "source": "openmaptiles",
+      "source-layer": "water",
+      "filter": ["==", "$type", "Polygon"],
+      "layout": {"visibility": "visible"},
+      "paint": {
+        "fill-color": "rgb(223, 244, 245)",
+        "fill-antialias": true,
+        "fill-pattern": "bluegreen-pattern",
+        "fill-opacity": 1
+			},
+			"maxzoom": 9
+    },
+
+    {
+      "id": "place_city",
+      "type": "symbol",
+      "source": "openmaptiles",
+      "source-layer": "place",
+      "maxzoom": 8,
+      "filter": [
+        "all",
+        ["==", "$type", "Point"],
+        ["all", ["!=", "capital", 2], ["==", "class", "city"], [">", "rank", 3]]
+      ],
+      "layout": {
+        "text-size": 10,
+        "text-font": ["Noto Sans Regular"],
+        "text-justify": "left",
+        "visibility": "visible",
+        "text-anchor": {"base": 1, "stops": [[0, "left"], [8, "center"]]},
+        "text-field": "{name:latin}\n{name:nonlatin}"
+      },
+      "paint": {
+        "text-color": "rgb(255,255,255)",
+        "text-halo-color": "rgb(255,255,255)",
+        "text-halo-width": 1,
+        "text-halo-blur": 1
+      }
+    },
+    {
+      "id": "place_city_large",
+      "type": "symbol",
+      "source": "openmaptiles",
+      "source-layer": "place",
+      "maxzoom": 8,
+      "filter": [
+        "all",
+        ["==", "$type", "Point"],
+        [
+          "all",
+          ["!=", "capital", 2],
+          ["<=", "rank", 3],
+          ["==", "class", "city"]
+        ]
+      ],
+      "layout": {
+        "text-size": 14,
+        "text-font": ["Noto Sans Regular"],
+        "text-justify": "left",
+        "visibility": "visible",
+        "text-field": "{name:latin}\n{name:nonlatin}"
+      },
+      "paint": {
+        "text-color": "rgb(255,255,255)",
+        "text-halo-color": "rgb(255,255,255)",
+        "text-halo-width": 1,
+        "text-halo-blur": 1
+      }
+    },
+    {
+      "id": "place_capital",
+      "type": "symbol",
+      "source": "openmaptiles",
+      "source-layer": "place",
+      "maxzoom": 8,
+      "filter": [
+        "all",
+        ["==", "$type", "Point"],
+        ["all", ["==", "capital", 2], ["==", "class", "city"]]
+      ],
+      "layout": {
+        "text-size": 14,
+        "text-font": ["Noto Sans Regular"],
+        "text-justify": "left",
+        "visibility": "visible",
+        "text-offset": [0.5, 0.2],
+        "text-field": "{name:latin}\n{name:nonlatin}"
+      },
+      "paint": {
+        "text-color": "rgb(255,255,255)",
+        "text-halo-color": "rgb(255,255,255)",
+        "text-halo-width": 1,
+        "text-halo-blur": 1
+      }
+    }
+  ]
+}

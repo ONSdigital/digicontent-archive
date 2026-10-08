@@ -1,0 +1,72 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+        
+            "dateFormat":"%Y",
+        
+            "legendLabels" : ["births", "deaths"],
+        
+            "sourceText":["Births in England and Wales, 2012, ONS. Deaths in England and Wales, 2012, ONS. "],
+            "sourceURL":["http://www.ons.gov.uk/ons/rel/vsob1/birth-summary-tables--england-and-wales/2012/stb-births-in-england-and-wales-2012.html"],
+        
+            "annotationChart": [
+                "WW2",
+                "deaths peak  during WW2",
+                "peak in  births after  WW2",
+                "'baby boom'  peak in  births"
+            ],
+            "annotationBullet": [
+                "World War II: 1939 - 1945",
+                "The number of deaths peaks in 1940",
+                "The number of births peak after World War II in 1947 ",
+                "The 'baby boom' causes another peak in births in 1964"
+            ],
+          
+            "annotationXY":[
+                ["1942", "870000"],
+                ["1942","580000"],
+                ["1948","865000"],
+                ["1972","875000"]
+            ],
+            "annotationAlign":[
+                "middle",
+                "left",
+                "left",
+                "middle"
+            ],
+           
+           "circles" : true,    
+            "annotationCXCY":[
+                ["190", "0"],
+                ["1940","581537"],
+                ["1947","881026"],
+                ["1964","875972"]
+            ],
+        
+           
+            "yAxisLabel":"",
+            "yAxisScale":[450000,900000],   
+            "yAxisBreak": true,
+            "yAxisBreak_sm_md_lg": [450000,450000,450000]            
+    },
+    "optional" : {
+            "margin_sm": [5, 20, 35, 60],
+            "margin_md": [5, 20, 35, 60],
+            "margin_lg": [5, 20, 35, 60],
+        
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+        
+            "mobileBreakpoint" : 610, 
+            
+            "xAxisTextFormat_sm_md_lg" : ["%y", "%Y", "%Y"], 
+                
+            "x_num_ticks_sm_md_lg" : [7,17,17],    
+            "y_num_ticks_sm_md_lg" : [6,8,10],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}
+
+

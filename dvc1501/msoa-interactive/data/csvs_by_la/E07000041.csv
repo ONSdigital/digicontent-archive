@@ -1,0 +1,46 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02004149,Exeter 001,Pennsylvania & University,0,9,0,0,0,0,0,0,1,1,0,0,0,0,covid
+E02004150,Exeter 002,Mincinglake & Beacon Heath,1,0,0,0,0,0,0,0,0,0,1,7,1,0,covid
+E02004151,Exeter 003,Pinhoe & Whipton North,1,0,0,0,0,0,0,0,1,1,2,0,1,0,covid
+E02004152,Exeter 004,St James's Park & Hoopern,1,1,0,0,0,0,0,0,0,0,0,0,0,0,covid
+E02004153,Exeter 005,Exwick & Foxhayes,1,0,0,0,0,0,0,0,1,0,0,0,0,0,covid
+E02004154,Exeter 006,Heavitree West & Polsloe,0,0,0,0,0,0,0,0,1,2,0,0,0,0,covid
+E02004155,Exeter 007,Heavitree East & Whipton South,0,1,0,0,0,0,0,0,0,0,1,1,1,0,covid
+E02004156,Exeter 008,Central Exeter,0,1,0,0,0,0,0,0,1,0,3,0,0,0,covid
+E02004157,Exeter 009,St Leonard's,0,1,0,0,0,0,0,0,0,0,4,0,0,0,covid
+E02004158,Exeter 010,St Thomas East,0,1,0,0,0,0,0,0,0,1,1,0,0,0,covid
+E02004159,Exeter 011,Middlemoor & Sowton,0,2,0,0,0,0,0,0,2,2,0,1,0,0,covid
+E02004160,Exeter 012,St Thomas West,1,10,1,1,0,0,0,0,0,1,8,2,1,0,covid
+E02004161,Exeter 013,Wonford & St Loye's,0,0,1,0,0,0,0,0,3,5,2,0,0,0,covid
+E02004162,Exeter 014,Alphington & Marsh Barton,0,4,0,0,0,0,0,0,0,2,9,0,0,0,covid
+E02004163,Exeter 015,Countess Wear & Topsham,0,1,0,0,0,0,0,0,0,0,2,0,1,1,covid
+E02004149,Exeter 001,Pennsylvania & University,12,6,4,5,4,3,4,3,9,3,6,5,3,3,noncovid
+E02004150,Exeter 002,Mincinglake & Beacon Heath,9,3,2,2,6,5,5,5,9,4,5,6,7,4,noncovid
+E02004151,Exeter 003,Pinhoe & Whipton North,8,14,6,2,6,6,11,5,4,10,9,5,5,5,noncovid
+E02004152,Exeter 004,St James's Park & Hoopern,3,2,2,3,4,5,4,4,2,3,2,5,6,8,noncovid
+E02004153,Exeter 005,Exwick & Foxhayes,6,2,2,1,7,1,4,2,5,3,4,1,0,0,noncovid
+E02004154,Exeter 006,Heavitree West & Polsloe,5,7,4,3,4,1,5,8,1,5,6,4,2,5,noncovid
+E02004155,Exeter 007,Heavitree East & Whipton South,8,8,4,10,3,3,7,9,5,6,11,6,2,2,noncovid
+E02004156,Exeter 008,Central Exeter,5,10,6,6,5,0,5,5,8,8,7,7,12,7,noncovid
+E02004157,Exeter 009,St Leonard's,5,3,2,4,2,2,3,6,6,4,5,5,1,8,noncovid
+E02004158,Exeter 010,St Thomas East,2,9,5,6,4,3,3,10,5,7,5,3,4,4,noncovid
+E02004159,Exeter 011,Middlemoor & Sowton,8,4,4,0,8,2,7,3,3,5,5,5,2,4,noncovid
+E02004160,Exeter 012,St Thomas West,5,12,6,13,9,7,6,8,5,9,5,8,9,6,noncovid
+E02004161,Exeter 013,Wonford & St Loye's,5,6,3,7,7,5,6,14,1,4,7,9,7,3,noncovid
+E02004162,Exeter 014,Alphington & Marsh Barton,8,20,4,8,9,11,13,13,14,8,10,5,8,6,noncovid
+E02004163,Exeter 015,Countess Wear & Topsham,6,5,6,6,5,4,9,2,7,5,11,4,5,1,noncovid
+E02004149,Exeter 001,Pennsylvania & University,6,3,4,4,7,6,5,5,5,8,6,8,6,3,average
+E02004150,Exeter 002,Mincinglake & Beacon Heath,6,6,5,7,6,3,6,5,6,7,8,5,6,6,average
+E02004151,Exeter 003,Pinhoe & Whipton North,10,6,7,9,6,9,7,7,7,7,10,9,10,6,average
+E02004152,Exeter 004,St James's Park & Hoopern,4,3,4,2,3,5,3,4,3,3,4,6,4,3,average
+E02004153,Exeter 005,Exwick & Foxhayes,4,4,3,5,5,3,4,3,4,2,5,3,4,4,average
+E02004154,Exeter 006,Heavitree West & Polsloe,6,5,4,4,4,3,3,4,4,5,6,5,6,5,average
+E02004155,Exeter 007,Heavitree East & Whipton South,6,5,5,7,7,5,5,5,8,5,6,7,6,5,average
+E02004156,Exeter 008,Central Exeter,5,9,6,7,6,6,4,8,7,6,8,7,5,9,average
+E02004157,Exeter 009,St Leonard's,7,7,5,5,5,4,5,6,5,6,10,6,7,7,average
+E02004158,Exeter 010,St Thomas East,6,6,4,5,6,4,4,5,7,4,4,4,6,6,average
+E02004159,Exeter 011,Middlemoor & Sowton,6,4,6,5,6,5,4,8,5,5,6,6,6,4,average
+E02004160,Exeter 012,St Thomas West,9,7,11,6,6,8,8,7,9,8,10,9,9,7,average
+E02004161,Exeter 013,Wonford & St Loye's,6,7,5,6,6,6,6,6,5,7,8,6,6,7,average
+E02004162,Exeter 014,Alphington & Marsh Barton,13,10,11,10,9,8,9,9,11,11,12,12,13,10,average
+E02004163,Exeter 015,Countess Wear & Topsham,6,7,6,7,6,7,6,6,7,8,9,5,6,7,average

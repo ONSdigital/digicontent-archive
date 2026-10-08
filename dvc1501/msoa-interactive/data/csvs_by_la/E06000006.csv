@@ -1,0 +1,49 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02002574,Halton 001,Farnworth,0,1,0,0,1,0,0,0,0,2,4,1,1,0,covid
+E02002575,Halton 002,Upton Rocks,2,6,0,0,0,0,0,0,0,0,3,1,1,0,covid
+E02002576,Halton 003,Halton View,0,3,1,6,0,0,0,1,0,1,2,2,1,0,covid
+E02002577,Halton 004,Hough Green,0,3,0,1,0,0,0,3,1,1,8,2,1,0,covid
+E02002578,Halton 005,Victoria Park,0,2,1,0,0,0,0,3,2,0,9,6,0,0,covid
+E02002579,Halton 006,Ditton,0,11,1,1,0,0,0,3,2,1,2,2,1,0,covid
+E02002580,Halton 007,Widnes Riverside,0,6,1,0,0,1,0,1,0,0,2,3,2,0,covid
+E02002581,Halton 008,Hale Bank,0,7,2,0,0,0,0,2,2,1,2,1,0,0,covid
+E02002582,Halton 009,"Sandymoor, Daresbury & Preston Brook",1,1,1,1,0,0,0,0,1,0,1,3,0,0,covid
+E02002583,Halton 010,Halton Castlefield,0,1,0,1,0,0,0,2,0,0,3,2,0,0,covid
+E02002584,Halton 011,Runcorn Halton Road,0,5,1,0,0,0,0,3,4,0,1,7,0,1,covid
+E02002585,Halton 012,Runcorn Town & Westfield,1,4,3,2,0,0,1,1,0,0,5,2,0,0,covid
+E02002586,Halton 013,"Grange, Halton Brook & Hallwood Park",0,2,2,1,0,0,0,3,2,2,4,5,0,0,covid
+E02002587,Halton 014,Norton,0,2,0,0,0,0,0,0,1,0,3,0,0,0,covid
+E02002588,Halton 015,Halton Lea & Brookvale,0,14,7,8,0,0,0,1,3,0,0,4,1,1,covid
+E02002589,Halton 016,Beechwood & Heath,1,2,0,0,0,0,0,1,0,0,2,1,2,0,covid
+E02002574,Halton 001,Farnworth,5,5,1,5,5,1,2,3,8,7,6,1,7,5,noncovid
+E02002575,Halton 002,Upton Rocks,7,4,8,4,4,3,5,5,8,3,3,5,5,2,noncovid
+E02002576,Halton 003,Halton View,5,10,11,7,9,6,9,8,7,11,8,12,6,5,noncovid
+E02002577,Halton 004,Hough Green,7,7,3,3,4,4,5,14,4,9,10,4,8,1,noncovid
+E02002578,Halton 005,Victoria Park,7,4,11,7,5,3,5,3,10,6,6,5,3,3,noncovid
+E02002579,Halton 006,Ditton,8,11,14,10,6,6,4,3,10,5,4,11,5,5,noncovid
+E02002580,Halton 007,Widnes Riverside,12,8,7,8,6,3,6,7,4,2,4,8,4,4,noncovid
+E02002581,Halton 008,Hale Bank,9,8,9,12,7,7,8,5,7,6,8,8,1,3,noncovid
+E02002582,Halton 009,"Sandymoor, Daresbury & Preston Brook",1,5,3,4,7,4,2,3,3,4,3,3,6,4,noncovid
+E02002583,Halton 010,Halton Castlefield,10,9,6,5,8,4,5,2,6,1,1,6,5,4,noncovid
+E02002584,Halton 011,Runcorn Halton Road,6,12,3,2,2,11,4,6,5,6,8,7,5,3,noncovid
+E02002585,Halton 012,Runcorn Town & Westfield,5,9,8,13,7,5,8,3,10,17,4,6,6,6,noncovid
+E02002586,Halton 013,"Grange, Halton Brook & Hallwood Park",11,10,8,7,4,4,7,9,8,5,5,9,7,6,noncovid
+E02002587,Halton 014,Norton,5,4,3,4,4,1,4,4,5,3,2,6,9,5,noncovid
+E02002588,Halton 015,Halton Lea & Brookvale,10,9,12,3,5,3,10,5,9,7,6,4,11,7,noncovid
+E02002589,Halton 016,Beechwood & Heath,2,5,3,7,1,3,5,2,5,4,5,7,5,2,noncovid
+E02002574,Halton 001,Farnworth,6,4,4,4,4,5,5,7,4,6,7,6,6,4,average
+E02002575,Halton 002,Upton Rocks,7,5,5,4,4,4,4,5,5,4,7,6,7,5,average
+E02002576,Halton 003,Halton View,10,9,9,8,7,9,9,6,9,8,12,8,10,9,average
+E02002577,Halton 004,Hough Green,7,6,6,8,7,5,7,5,7,6,9,7,7,6,average
+E02002578,Halton 005,Victoria Park,7,7,6,5,6,6,4,6,6,7,8,5,7,7,average
+E02002579,Halton 006,Ditton,6,8,7,7,6,9,8,6,6,6,6,6,6,8,average
+E02002580,Halton 007,Widnes Riverside,7,7,5,6,9,3,6,9,7,6,10,6,7,7,average
+E02002581,Halton 008,Hale Bank,7,8,8,7,6,10,8,6,9,10,9,9,7,8,average
+E02002582,Halton 009,"Sandymoor, Daresbury & Preston Brook",3,4,4,4,3,4,5,3,3,4,5,3,3,4,average
+E02002583,Halton 010,Halton Castlefield,5,6,6,3,4,4,6,4,5,5,9,5,5,6,average
+E02002584,Halton 011,Runcorn Halton Road,8,7,6,6,5,6,7,6,6,7,9,4,8,7,average
+E02002585,Halton 012,Runcorn Town & Westfield,6,7,6,9,8,8,8,7,8,10,9,9,6,7,average
+E02002586,Halton 013,"Grange, Halton Brook & Hallwood Park",10,7,8,9,6,5,9,8,11,7,11,9,10,7,average
+E02002587,Halton 014,Norton,5,3,3,3,3,4,2,3,3,5,4,3,5,3,average
+E02002588,Halton 015,Halton Lea & Brookvale,7,9,9,8,8,9,5,10,8,9,14,10,7,9,average
+E02002589,Halton 016,Beechwood & Heath,4,5,5,5,4,6,5,4,5,6,5,4,4,5,average

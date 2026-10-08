@@ -1,0 +1,68 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "screenreadertext":"The chart canvas is hidden from screen readers. The main message is summarised by the chart title and the data behind the chart is available to download below.",
+    "dateFormat": "%d/%m/%Y",
+    "displayTicksFormat":"%b '%y",
+    "colour_palette": [{
+        "key": "Flu and pneumonia",
+        "colour": "#118C7B"
+      },
+      {
+          "key": "COVID-19",
+          "colour": "#206095"
+      }
+    ],
+    "categorySort": [],
+    "sourceText": ["Office for National Statistics"],
+    "xAxisLabel": "",
+    "yAxisLabel": "Monthly deaths",
+    "yAxisScale": [1,15000]
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 0,
+        "right": 30,
+        "bottom": 45,
+        "left": 30
+      },
+      "md": {
+        "top": 0,
+        "right": 30,
+        "bottom": 45,
+        "left": 30
+      },
+      "lg": {
+        "top": 0,
+        "right": 30,
+        "bottom": 55,
+        "left": 30
+      }
+    },
+    "chart_every":{
+      "sm": 1,
+      "md": 2,
+      "lg": 4
+    },
+    "aspectRatio": {
+      "sm": [16, 16],
+      "md": [16, 20],
+      "lg": [16, 35]
+    },
+    "legendHeight":{
+      "sm": 40,
+      "md": 40,
+      "lg": 30
+    },
+    "legendStyle": "line",
+
+    "mobileBreakpoint": 480,
+    "middleBreakpoint": 645,
+    "x_ticks_every": {
+      "sm": 24,
+      "md": 24,
+      "lg": 24
+    }
+  }
+}

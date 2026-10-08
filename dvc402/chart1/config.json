@@ -1,0 +1,55 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+        
+            "dateFormat":"%Y",
+			
+            "legendLabels":[ "EU" ,	"Rest of world" ],
+        
+			"sourceText":[""],
+            "sourceURL":[""],
+        
+            "annotationChart": [],
+            "annotationBullet": [],
+			
+            "annotationXY":[
+                [0,0],
+                [-50,50]
+            ],
+            "annotationAlign":[
+                "middle",
+                "middle"
+            ],
+        
+            "circles" : false,    
+            "annotationCXCY":[
+                [0,0],
+                [-50,50]
+            ],
+        
+            "yAxisLabel":"yAxisUnit",
+            "yAxisScale":"auto_zero_max",   
+            "yAxisBreak": true,
+            "yAxisBreak_sm_md_lg": [65,65,65]            
+    },
+    "optional" : {
+            "margin_sm": [10, 50,35, 45],
+            "margin_md": [10, 50, 35, 45],
+            "margin_lg": [10, 50, 35, 45],
+        
+            "aspectRatio_sm" : [16,15],
+            "aspectRatio_md" : [16,15],
+            "aspectRatio_lg" : [16,15],
+        
+            "mobileBreakpoint" : 610, 
+            
+            "xAxisTextFormat_sm_md_lg" : ["%y", "%Y", "%b %y"], 
+                
+            "x_num_ticks_sm_md_lg" : [7,17,17],    
+            "y_num_ticks_sm_md_lg" : [6,8,10],
+            "centre_line" : true,
+            "centre_line_value" : 0
+    }
+}
+
+

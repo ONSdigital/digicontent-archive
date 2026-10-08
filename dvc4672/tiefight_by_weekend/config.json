@@ -1,0 +1,47 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+
+            "dateFormat":"",
+
+            "legendLabels" : ["Male","Female"],
+            "legendStyle": "rect",
+            "colour_palette": [ "#F5942F" , "#7BCAE2"],
+
+            "sourceText":["2015 UK Harmonised Time Use Survey"],
+            "sourceURL":["https://www.ons.gov.uk/economy/nationalaccounts/satelliteaccounts/articles/leisuretimeintheuk/2015"],
+
+            "annotationChart": [
+"Female", "Male"
+            ],
+            "annotationBullet": [],
+            "annotationXY":[
+                ["34.9","Under 5"],
+                ["43.4","Under 5"]
+            ],
+            "annotationAlign":[
+                "middle",
+                "middle"
+            ],
+
+            "xAxisLabel":"Hours",
+            "yAxisLabel":"",
+            "xAxisScale":[35,55]
+
+    },
+    "optional" : {
+            "margin_sm": [5, 20, 5, 150],
+            "margin_md": [5, 20, 5, 190],
+            "margin_lg": [15, 20, 5, 150],
+
+            "aspectRatio_sm" : [16,7],
+            "aspectRatio_md" : [16,3],
+            "aspectRatio_lg" : [16,4],
+
+            "mobileBreakpoint" : 510,
+
+            "x_num_ticks_sm_md_lg" : [6,8,5],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}

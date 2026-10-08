@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Multiple line charts showing antibody thresholds in age groups across the UK.</title>
+
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
+
+    <link rel="stylesheet" href="../lib/globalStyle.css" />
+	<style type="text/css">
+
+  h5,h6 {
+       font-size: 16px;
+       margin: 16px 0 8px 0;
+       font-weight: 700;
+       color:#323132;
+       font-family: "Open Sans";
+    }
+
+  ul, ol {
+    margin: 16px 0;
+    padding-left: 32px;
+  }
+
+  li {
+      margin: 0 0 8px 0;
+      line-height: 32px;
+      font-weight: 400;
+      font-size: 18px;
+      padding: 0;
+  }
+
+
+  a {
+      text-decoration: underline;
+      font-size: 18px;
+      font-weight: 400;
+      line-height: 32px;
+  }
+
+  .btn {
+      font-family: "Open Sans",Helvetica,Arial,sans-serif;
+      display: inline-block;
+      width: auto;
+      cursor: pointer;
+      padding: 6px 16px 10px 16px;
+      border: 0 none;
+      text-align: center;
+      -webkit-appearance: none;
+      transition: background-color 0.25s ease-out;
+  }
+
+  .btn--primary:focus {
+  background-color: #0b5d30;
+}
+
+  .btn--primary {
+  background-color: #0F8243;
+  color: #fff;
+}
+
+	  @media (max-width: 450px) {
+		#top, #btm {
+			width:100%;
+
+		};
+
+
+
+}
+
+    .visuallyhidden{
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      margin: -1px;
+      padding: 0;
+      overflow: hidden;
+      clip: rect(0,0,0,0);
+      border: 0;
+    }
+    #buttonGroup {
+      display:inline-block;
+    }
+
+    .bottonGroup{
+      height: 35px;
+      color: white;
+      font-family: "Open Sans";
+      margin-left:4px;
+      margin-top:10px;
+      margin-bottom:0px;
+      padding-left: 10px;
+      padding-right: 10px;
+      padding-bottom: 15px;
+      font-weight: 600;
+      font-size:18px;
+      padding-top: 5px;
+      float: left;
+      border-width: 0px;
+      cursor: pointer;
+      cursor: hand;
+    }
+    .bottonGroup:hover{
+      outline: 4px solid orange;
+    }
+    .bottonGroup:focus{
+      outline: 4px solid orange;
+    }
+    .readmore{
+      cursor: pointer;
+      cursor: hand;
+    }
+
+    .selectedButton{
+      outline: 4px solid orange;
+    }
+    .selecteddiv{
+      visibility: visible;
+    }
+    .hiddendiv{
+      visibility: hidden;
+    }
+    .collapsible{
+      color:#4774CC;
+      margin-top: 10px;
+      text-decoration: underline;
+      font-size: 16px;
+      cursor: pointer;
+      cursor: hand;
+    }
+    .collapsibleContent{
+      display: none;
+      min-width: 450px;
+      height: 40px;
+      margin-top: 10px;
+      background-color: #EAEAEA;
+      border-color: #dadada;
+      border-width: 4px;
+      border-style: solid;
+      font-size: 16px;
+    }
+    .collapsibleContent:focus{
+      border-color: orange;
+    }
+    .toptext{
+      font-size: 18px;
+      font-weight: 400;
+      line-height: 32px;
+      display:none;
+    }
+    .backtotop{
+      text-decoration: underline;
+      color: #4774CC;
+      cursor: pointer;
+      cursor: hand;
+    }
+
+
+
+    </style>
+
+</head>
+<body>
+
+<img id="smallimage" src="small.png" alt="Chart showing the estimated percentage of the population in England testing positive for the coronavirus (COVID-19) on nose and throat swabs since 26 April 2020. The most recent modelled estimate shows the number of infections in England has increased in recent weeks" width="350">
+<h5 class="visuallyhidden">The percentage of the population estimated to have antibodies against SARS-CoV-2 remained high for UK adults in the week beginning 13 February 2023.</h5>
+
+<button tabindex="0" aria-label="Select England" class="bottonGroup  selectedButton" heading="England"  style="background-color:#206095; margin-right:0px;  margin-bottom:15px;">England</button>
+<button tabindex="0" aria-label="Select Wales" class="bottonGroup  " heading="Wales" view="headlines" style="background-color:#206095; margin-right:0px;  margin-bottom:15px;">Wales</button>
+<button tabindex="0" aria-label="Select Northern Ireland" class="bottonGroup  " heading="Northern Ireland" style="background-color:#206095; margin-right:0px;  margin-bottom:15px;">Northern Ireland</button>
+<button tabindex="0" aria-label="Select Scotland" class="bottonGroup  " heading="Scotland" style="background-color:#206095; margin-right:0px;  margin-bottom:15px;">Scotland</button>
+
+<div style="clear:both;"></div>
+
+<!-- divs for legend items - the bottom one needs to have a margin-bottom of 20px to create a gap -->
+
+<p style="padding-right:20px; color:#666; margin-bottom:20px; min-height:30px; font-size:14px;">
+  <span style="font-weight:bold; color:#206095; font-size:14px;">&#9644;</span>
+  Modelled % of the population with antibodies against SARS-CoV-2 at or above the
+  <span style="font-weight:bold; color:#206095; font-size:14px;">179ng/ml level </span>
+with
+  <span style="font-weight:bold; color:#206095; font-size:14px; opacity: 0.6">▮</span>
+  95% credible intervals
+  and the
+  <span style="font-weight:bold; color:#8A9B2E; font-size:14px;">800ng/ml level </span>
+  with
+  <span style="font-weight:bold; color:#8A9B2E; font-size:14px; opacity: 0.6">▮</span>
+  95% credible intervals.
+  <br>Data for the period from 10th January 2022 to 27th February 2022
+  <!-- <span style="font-weight:bold; color:#d3d3d3; font-size:14px; opacity: 1">▮</span> -->
+  is not shown for the 800ng/ml level, due to a temporary quality issue.
+</p>
+
+
+
+
+<!-- <div id="ci-explainer" style="margin-bottom:30px;">
+  <img  src="ci.png" alt="I shape" height="30px; " style="margin-left:5px; float:left; vertical-align:middle"/>
+  <p style="float:left; max-width:80%; padding-left:10px; padding-top:5px;">Estimates with 95% credible intervals</p>
+</div> -->
+<div style="clear:both;"></div>
+
+<div id="age" aria-hidden="true"></div>
+
+<!-- <h6 style="clear:both;">Source: Office for National Statistics – Coronavirus (COVID-19) Infection Survey</h6> -->
+
+    <script src="https://cdn.ons.gov.uk/vendor/d3/4.2.7/d3.min.js" type="text/javascript"></script>
+    <script src="../lib/modernizr.svg.min.js" type="text/javascript"></script>
+    <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js" type="text/javascript"></script>
+
+    <script>
+
+    var pymChild = null;
+
+    pymChild = new pym.Child();
+
+
+	pym.Child({ renderCallback: drawgraphic })
+
+	function drawgraphic(){
+
+widthofscreen = d3.select("body").style("width")
+d3.select("#age").style("width",widthofscreen)
+
+var pymParent = new pym.Parent('age', 'england/index.html', {});
+
+pymChild.sendHeight();
+
+setTimeout(function(){
+  pymChild.sendHeight();
+},2000);
+setInterval(function(){
+  pymChild.sendHeight();
+},1000);
+
+//var countries = ["ageovertimee","ageovertimew","ageovertimen","ageovertimes"]
+var countries = ["england","wales","nireland","scotland"]
+
+
+d3.selectAll(".bottonGroup").on("click",function(d,i){
+
+      d3.selectAll(".bottonGroup").classed("selectedButton",false)
+      whichButton = d3.select(this).attr("whichButton")
+      d3.select("." + whichButton).classed("selectedButton",true)
+      //var pymParent = new pym.Parent('age', '../'+countries[i]+'/index.html', {});
+
+      var pymParent = new pym.Parent('age', ''+countries[i]+'/index.html', {});
+
+      pymChild.sendHeight();
+
+  		setTimeout(function(){
+  			pymChild.sendHeight();
+  		},2000);
+      setInterval(function(){
+        pymChild.sendHeight();
+      },1000);
+})
+
+			d3.select("#smallimage").remove();
+
+
+		pymChild.sendHeight();
+
+		setTimeout(function(){
+			pymChild.sendHeight();
+		},2000);
+    setInterval(function(){
+      pymChild.sendHeight();
+    },1000);
+	}
+
+    </script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a40b50ddac71d857',t:'MTc5MDM1MjgwMw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

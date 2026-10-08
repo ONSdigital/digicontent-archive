@@ -1,0 +1,55 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+W02000080,Wrexham 003,Llay South & Gwersyllt East,0,0,1,1,0,1,0,1,0,3,3,0,0,0,covid
+W02000081,Wrexham 004,Gwersyllt West & Summerhill,0,2,0,0,1,0,0,0,2,3,19,5,0,0,covid
+W02000082,Wrexham 005,New Broughton & Bryn Cefn,0,1,0,2,1,1,0,1,0,1,5,3,0,0,covid
+W02000083,Wrexham 006,Coedpoeth & Brymbo,0,1,2,0,2,2,0,0,1,5,4,1,0,1,covid
+W02000084,Wrexham 007,Borras & Rhosnesni,0,1,2,1,1,2,0,0,1,3,1,1,2,0,covid
+W02000085,Wrexham 008,"Town North, University & Rhos-ddu",0,3,1,1,1,1,0,0,1,4,17,4,0,1,covid
+W02000086,Wrexham 009,Acton & Maes-y-dre,0,0,3,3,1,0,0,0,0,1,4,1,0,0,covid
+W02000087,Wrexham 010,Caia Park,0,2,2,1,2,0,0,2,4,0,6,2,0,0,covid
+W02000088,Wrexham 011,Wrexham West,0,4,2,3,0,1,0,0,1,5,6,5,0,0,covid
+W02000089,Wrexham 012,Hermitage & Whitegate,0,0,2,1,0,0,0,0,0,0,4,4,0,0,covid
+W02000090,Wrexham 013,Pen-y-cae & Minera,0,1,2,0,0,1,0,0,1,0,0,1,1,1,covid
+W02000091,Wrexham 014,Johnstown North & Rhostyllen,1,2,0,0,0,0,0,0,1,4,0,3,0,0,covid
+W02000092,Wrexham 015,Rhosllannerchrugog & Johnstown South,0,0,3,1,0,1,0,0,0,0,2,2,0,0,covid
+W02000093,Wrexham 016,Ruabon & Marchwiel,0,1,0,0,0,0,0,1,2,2,0,1,0,0,covid
+W02000094,Wrexham 017,Cefn Mawr,0,2,1,1,0,1,0,2,2,1,5,0,1,1,covid
+W02000095,Wrexham 018,"Bangor-on-Dee, Overton & Penley",0,1,1,0,0,1,0,0,0,2,1,1,0,1,covid
+W02000096,Wrexham 019,Chirk & Ceiriog Valley,0,0,1,1,0,1,0,0,2,1,4,8,1,0,covid
+W02000420,Wrexham 020,"Gresford, Marford & Rossett",0,5,2,3,3,1,1,0,2,3,16,8,1,0,covid
+W02000080,Wrexham 003,Llay South & Gwersyllt East,6,7,8,6,2,9,7,7,9,4,7,4,3,6,noncovid
+W02000081,Wrexham 004,Gwersyllt West & Summerhill,10,7,6,9,4,6,5,6,6,7,14,5,12,4,noncovid
+W02000082,Wrexham 005,New Broughton & Bryn Cefn,7,6,4,7,3,5,5,8,6,5,3,8,13,7,noncovid
+W02000083,Wrexham 006,Coedpoeth & Brymbo,9,6,6,10,7,5,5,4,7,8,6,9,8,4,noncovid
+W02000084,Wrexham 007,Borras & Rhosnesni,2,7,5,4,7,2,5,10,4,6,6,3,6,3,noncovid
+W02000085,Wrexham 008,"Town North, University & Rhos-ddu",9,6,23,7,11,10,9,11,6,9,12,5,9,5,noncovid
+W02000086,Wrexham 009,Acton & Maes-y-dre,9,4,7,6,2,2,3,2,3,7,6,7,7,6,noncovid
+W02000087,Wrexham 010,Caia Park,6,6,5,8,2,6,5,7,7,2,8,6,8,5,noncovid
+W02000088,Wrexham 011,Wrexham West,9,8,6,6,11,2,12,7,7,11,10,4,7,3,noncovid
+W02000089,Wrexham 012,Hermitage & Whitegate,5,5,9,11,6,9,9,6,5,14,8,9,5,9,noncovid
+W02000090,Wrexham 013,Pen-y-cae & Minera,2,4,2,3,1,4,10,6,2,5,2,3,4,5,noncovid
+W02000091,Wrexham 014,Johnstown North & Rhostyllen,3,4,6,6,4,8,2,2,11,3,3,4,1,6,noncovid
+W02000092,Wrexham 015,Rhosllannerchrugog & Johnstown South,4,7,7,4,3,4,6,7,10,11,10,10,7,9,noncovid
+W02000093,Wrexham 016,Ruabon & Marchwiel,7,3,6,9,6,2,8,4,7,5,4,5,5,6,noncovid
+W02000094,Wrexham 017,Cefn Mawr,13,5,2,10,8,6,8,13,10,7,14,6,8,10,noncovid
+W02000095,Wrexham 018,"Bangor-on-Dee, Overton & Penley",5,6,5,1,3,2,4,3,2,8,9,4,10,4,noncovid
+W02000096,Wrexham 019,Chirk & Ceiriog Valley,5,10,3,4,4,7,1,6,5,7,5,8,9,5,noncovid
+W02000420,Wrexham 020,"Gresford, Marford & Rossett",14,12,10,16,19,11,17,9,10,12,16,11,9,10,noncovid
+W02000080,Wrexham 003,Llay South & Gwersyllt East,7,6,7,4,6,5,5,7,5,8,7,6,7,6,average
+W02000081,Wrexham 004,Gwersyllt West & Summerhill,10,6,6,9,7,6,6,8,9,8,9,8,10,6,average
+W02000082,Wrexham 005,New Broughton & Bryn Cefn,7,4,5,6,5,6,4,5,6,4,6,7,7,4,average
+W02000083,Wrexham 006,Coedpoeth & Brymbo,9,8,7,6,10,5,6,9,8,8,9,4,9,8,average
+W02000084,Wrexham 007,Borras & Rhosnesni,5,3,5,3,4,4,5,5,4,5,7,3,5,3,average
+W02000085,Wrexham 008,"Town North, University & Rhos-ddu",11,9,9,9,10,9,11,10,9,9,13,12,11,9,average
+W02000086,Wrexham 009,Acton & Maes-y-dre,8,7,4,3,5,6,5,4,6,6,9,6,8,7,average
+W02000087,Wrexham 010,Caia Park,6,5,7,5,6,5,6,9,5,4,9,6,6,5,average
+W02000088,Wrexham 011,Wrexham West,7,6,7,6,6,6,5,9,6,3,9,9,7,6,average
+W02000089,Wrexham 012,Hermitage & Whitegate,8,9,6,6,4,5,6,6,8,7,9,6,8,9,average
+W02000090,Wrexham 013,Pen-y-cae & Minera,5,5,5,6,3,2,4,3,5,5,4,4,5,5,average
+W02000091,Wrexham 014,Johnstown North & Rhostyllen,6,8,6,5,5,3,3,5,5,6,4,4,6,8,average
+W02000092,Wrexham 015,Rhosllannerchrugog & Johnstown South,8,9,5,7,5,8,3,6,5,6,8,8,8,9,average
+W02000093,Wrexham 016,Ruabon & Marchwiel,5,5,5,4,4,4,3,4,5,5,7,4,5,5,average
+W02000094,Wrexham 017,Cefn Mawr,9,8,7,7,4,9,7,8,7,9,12,9,9,8,average
+W02000095,Wrexham 018,"Bangor-on-Dee, Overton & Penley",6,4,4,4,5,5,3,4,4,4,7,3,6,4,average
+W02000096,Wrexham 019,Chirk & Ceiriog Valley,7,4,7,5,7,5,3,6,8,6,8,8,7,4,average
+W02000420,Wrexham 020,"Gresford, Marford & Rossett",15,13,10,10,12,10,11,14,19,12,20,15,15,13,average

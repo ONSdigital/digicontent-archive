@@ -1,0 +1,61 @@
+{
+    "essential" : {
+
+			"GraphType" : "clusterBar" ,
+
+            "graphic_data_url": "data.csv",
+
+            "colour_palette": [ "#80b1d3" , "#fb8072", "#bebada", "#ffffb3" ],
+
+            "dateFormat":"%Y-%y",
+
+            "legendLabels" :[ "Men" , "Women"],
+			"legendStyle": "rect",
+			"sourceText":["Marriages in England and Wales 2015"],
+            "sourceURL":["https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/marriagecohabitationandcivilpartnerships/datasets/marriagesinenglandandwales2013"],
+
+            "annotationChart": [
+
+            ],
+            "annotationBullet": [
+
+            ],
+            "annotationXY":[
+                [30, "2013-14"],
+                [5, "2011-12"]
+            ],
+            "annotationAlign":[
+                "start",
+                "start"
+            ],
+
+            "circles" : false,
+            "annotationCXCY":[
+                ["Apr-93","68.4"],
+                ["Apr-08","73"]
+            ],
+
+            "xAxisLabel":"Rate per 1000",
+            "xAxisScale":[0,8],
+            "barHeight_sm_md_lg" : [80,90,100]
+
+    },
+    "optional" : {
+            "margin_sm": [20, 10, 95, 65],
+            "margin_md": [20, 10, 95, 65],
+            "margin_lg": [20, 10, 95, 65],
+
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+
+            "mobileBreakpoint" : 610,
+
+            "xAxisTextFormat_sm_md_lg" : ["%Y-%y", "%Y-%y", "%Y-%y"],
+
+            "x_num_ticks_sm_md_lg" : [7,8,8],
+            "y_num_ticks_sm_md_lg" : [6,8,10],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}

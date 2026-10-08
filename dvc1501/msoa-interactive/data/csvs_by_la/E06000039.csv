@@ -1,0 +1,43 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02003407,Slough 001,Britwell,0,3,1,0,0,0,0,2,0,1,5,8,0,0,covid
+E02003408,Slough 002,Manor Park,0,7,1,0,0,1,0,0,1,0,6,6,2,1,covid
+E02003409,Slough 003,Haymill & Lynch Hill,0,1,1,0,0,0,0,0,1,2,2,4,0,0,covid
+E02003410,Slough 004,Baylis & Stoke,2,7,0,0,1,0,0,0,3,2,13,2,1,0,covid
+E02003411,Slough 005,Wexham Lea,0,5,1,1,0,0,0,0,4,3,15,9,3,0,covid
+E02003412,Slough 006,Cippenham Green,1,2,0,0,0,0,0,0,0,1,9,2,1,0,covid
+E02003413,Slough 007,Stoke Road & Wexham Road,1,9,0,0,0,0,1,0,3,2,5,2,0,0,covid
+E02003414,Slough 008,Cippenham Meadows,1,6,4,0,0,0,0,0,3,0,6,4,2,0,covid
+E02003415,Slough 009,Chalvey,1,7,3,1,0,0,0,0,2,4,4,2,3,0,covid
+E02003416,Slough 010,Langley St Mary's,2,4,2,0,0,0,0,0,0,2,4,3,0,0,covid
+E02003417,Slough 011,Central Slough & Upton Court,0,3,0,0,0,0,0,1,1,2,8,4,0,0,covid
+E02003418,Slough 012,Langley Kederminster,2,11,2,0,0,0,0,0,1,3,4,4,1,0,covid
+E02003419,Slough 013,Langley Foxborough,1,3,1,1,0,0,0,0,2,2,4,4,2,0,covid
+E02003420,Slough 014,Colnbrook & Poyle,1,2,0,0,0,0,0,0,0,1,3,2,0,0,covid
+E02003407,Slough 001,Britwell,6,6,2,6,5,1,6,5,3,3,7,1,3,4,noncovid
+E02003408,Slough 002,Manor Park,6,6,5,6,2,1,5,6,1,6,4,8,10,5,noncovid
+E02003409,Slough 003,Haymill & Lynch Hill,7,7,3,5,3,4,5,5,2,2,8,3,3,6,noncovid
+E02003410,Slough 004,Baylis & Stoke,7,6,3,5,3,7,8,4,7,6,6,5,2,9,noncovid
+E02003411,Slough 005,Wexham Lea,4,13,5,8,4,4,8,8,9,7,10,4,6,10,noncovid
+E02003412,Slough 006,Cippenham Green,5,3,2,8,3,4,5,8,4,3,4,1,4,6,noncovid
+E02003413,Slough 007,Stoke Road & Wexham Road,7,6,3,3,8,3,7,4,9,5,5,3,3,1,noncovid
+E02003414,Slough 008,Cippenham Meadows,7,7,4,2,3,5,2,4,4,3,7,4,3,2,noncovid
+E02003415,Slough 009,Chalvey,14,22,10,6,10,5,10,8,7,6,11,7,5,11,noncovid
+E02003416,Slough 010,Langley St Mary's,3,3,2,3,2,5,2,4,5,4,7,5,5,3,noncovid
+E02003417,Slough 011,Central Slough & Upton Court,4,8,4,8,3,1,4,4,4,5,6,4,6,1,noncovid
+E02003418,Slough 012,Langley Kederminster,9,2,3,2,6,2,5,1,5,3,6,5,3,4,noncovid
+E02003419,Slough 013,Langley Foxborough,7,8,5,4,1,3,2,4,1,1,4,4,6,3,noncovid
+E02003420,Slough 014,Colnbrook & Poyle,4,4,4,2,2,2,1,2,1,1,4,5,2,1,noncovid
+E02003407,Slough 001,Britwell,6,6,4,6,4,5,5,5,4,6,7,6,6,6,average
+E02003408,Slough 002,Manor Park,4,5,4,4,4,4,3,5,5,3,3,5,4,5,average
+E02003409,Slough 003,Haymill & Lynch Hill,4,6,5,4,4,5,5,4,5,5,6,6,4,6,average
+E02003410,Slough 004,Baylis & Stoke,6,6,5,5,4,6,5,5,6,5,7,4,6,6,average
+E02003411,Slough 005,Wexham Lea,9,9,6,7,9,6,8,7,10,9,8,10,9,9,average
+E02003412,Slough 006,Cippenham Green,5,5,5,4,5,4,5,3,3,4,5,5,5,5,average
+E02003413,Slough 007,Stoke Road & Wexham Road,5,5,5,6,5,5,4,6,4,4,7,4,5,5,average
+E02003414,Slough 008,Cippenham Meadows,3,4,5,4,3,4,3,4,5,4,5,4,3,4,average
+E02003415,Slough 009,Chalvey,8,6,7,5,8,6,6,7,6,10,9,6,8,6,average
+E02003416,Slough 010,Langley St Mary's,5,6,3,2,4,4,4,4,5,3,3,3,5,6,average
+E02003417,Slough 011,Central Slough & Upton Court,7,4,4,3,4,4,4,5,5,4,3,4,7,4,average
+E02003418,Slough 012,Langley Kederminster,6,7,7,6,5,4,4,5,8,6,7,7,6,7,average
+E02003419,Slough 013,Langley Foxborough,4,3,3,5,5,4,5,4,4,4,4,5,4,3,average
+E02003420,Slough 014,Colnbrook & Poyle,4,2,2,3,2,3,1,2,3,3,3,3,4,2,average

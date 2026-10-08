@@ -1,0 +1,95 @@
+{
+  "essential": {
+
+    "reference": "max",
+    "comparison": "min",
+    "dateFormat": "%d/%m/%Y",
+    "legendLabels": ["Official estimates","Upper/Lower credible intervals"],
+    "LegendPosition_x": [-25, 135, 70],
+    "LegendPosition_y":[-20,-20, -15],
+    "colour_palette": ["#206095", "#414042","#414042","#00a3a6"],
+    "legendStyle": ["line", "rect","rect","line"],
+    "plotLines": [{
+      "key": "mean",
+      "colour": "#00a3a6",
+
+      "strokewidth":"2px",
+      "strokedasharray": ""
+    }
+
+  ],
+    "directLabels": [{
+        "variable": "mean",
+        "label": "",
+        "colour": "#206095"
+      }
+    ],
+    "sourceText": ["Office for National Statistics – Coronavirus (COVID-19) Infection Survey"],
+    "circles": false,
+    "dotsize": 2,
+    "yAxisLabel": "Percentage testing positive for COVID-19",
+    "xAxisLabel": "",
+    "xAxisAlignlabels": "true",
+    "yAxisScale": [0, 10],
+    "rhsannotation": 9.4,
+    "yAxisBreak": false,
+    "yAxisBreakValue": {
+      "sm": 3,
+      "md": 3,
+      "lg": 3
+    }
+  },
+
+
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 34,
+        "right": 22,
+        "bottom": 40,
+        "left": 20
+      },
+      "md": {
+        "top": 34,
+        "right": 40,
+        "bottom": 40,
+        "left": 20
+      },
+      "lg": {
+        "top": 34,
+        "right": 40,
+        "bottom": 40,
+        "left": 20
+      }
+    },
+
+    "aspectRatio": {
+      "sm": [16, 6],
+      "md": [16, 6],
+      "lg": [16, 6]
+    },
+
+    "mobileBreakpoint": 500,
+    "middleBreakpoint": 600,
+
+    "x_ticks_every_left": {
+      "sm": 170,
+      "md": 170,
+      "lg": 170
+    },
+    "x_ticks_every_right": {
+      "sm": 20,
+      "md": 20,
+      "lg": 20
+    },
+    "y_num_ticks": {
+      "sm": 4,
+      "md": 4,
+      "lg": 4
+    },
+
+    "lineMarkers": false
+
+
+  }
+}

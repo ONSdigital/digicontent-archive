@@ -1,0 +1,68 @@
+﻿{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+        
+            "dateFormat":"%b-%y",
+        
+            "legendLabels" : ["Legend label 1"],
+        
+            "sourceText":["HPSSA - Million pound property sales, ONS"],
+            "sourceURL":["http://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/hpssaadditionaldataset1millionpropertysalesinenglandandwales"],
+        
+            "annotationChart": [
+                "84% of sales  in London",
+                "Pre economic  downturn peak",
+                "53% of  sales in  London, the  lowest for any year"
+            ],
+            "annotationBullet": [
+                "September 1995 - 84% of sales  were in London",
+                "December 2007 - Pre economic  downturn peak",
+                "September 2007 - London had 53% of sales, the lowest for any year"
+            ],
+            "annotationXY":[
+                ["Dec-95","1600"],
+                ["Dec-07","9900"],
+                ["Sep-07","5500"],
+                ["Sep-14","15000"]
+            ],
+            "annotationAlign":[
+                "start",
+                "end",
+                "middle",
+                "end"
+            ],
+        
+            "circles" : true,    
+            "annotationCXCY":[
+                ["Dec-95","185"],
+                ["Dec-07","8867"],
+                ["Sep-08","6300"],
+                ["Sep-14","14000"]
+            ],
+        
+            "yAxisLabel":"Number of sales",
+            "yAxisScale":[0,16000],   
+            "yAxisBreak": true,
+            "yAxisBreak_sm_md_lg": [150000,150000,150000]            
+    },
+    "optional" : {
+            "margin_sm": [20, 15, 15, 53],
+            "margin_md": [20, 15, 15, 53],
+            "margin_lg": [20, 15, 15, 53],
+        
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+        
+            "mobileBreakpoint" : 680, 
+            
+            "xAxisTextFormat_sm_md_lg" : ["%y", "%Y", "%Y"], 
+                
+            "x_num_ticks_sm_md_lg" : [7,17,17],    
+            "y_num_ticks_sm_md_lg" : [6,8,10],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}
+
+

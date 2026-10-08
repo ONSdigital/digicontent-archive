@@ -1,0 +1,43 @@
+{
+  "essential": {
+    "dataSets_url": ["data"],
+    "num_lines_url": ["data00.csv", "data01.csv"],
+    "chart_type": "line",
+    "dateFormat": "%y",
+
+    "legendLabels": ["Men", "Women"],
+
+    "sourceText": ["Office for National Statistics"],
+
+    "addline": false,
+    "lineText": "Add line text here",
+
+    "xAxisLabel": ["Age"],
+    "yDomain": [[0,30],[0, 20]],
+    "yAxisLabel": ["Minutes","£"],
+    "yAxisBreak": false,
+    "yAxisBreak_sm_md_lg": [85, 85, 85],
+    "numColumns_sm_md_lg": [1, 2, 2]
+
+  },
+  "optional": {
+    "margin_sm": [15, 5, 20, 10],
+    "margin_md": [15, 5, 15, 10],
+    "margin_lg": [15, 10, 15, 10],
+
+    "innersm": [50, 15, 40, 30],
+    "innermd": [35, 15, 50, 30],
+    "innerlg": [35, 15, 50, 30],
+
+    "aspectRatio_sm": [8, 7],
+    "aspectRatio_md": [4, 6],
+    "aspectRatio_lg": [9, 9],
+
+    "mobileBreakpoint": 414,
+    "xAxisTextFormat_sm_md_lg": ["%y", "%y", "%y"],
+    "x_num_ticks_sm_md_lg": [5, 5, 5],
+    "y_num_ticks_sm_md_lg": [1, 1, 1],
+    "centre_line": true,
+    "centre_line_value": 29
+  }
+}

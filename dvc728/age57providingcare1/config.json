@@ -1,0 +1,67 @@
+{
+    "essential" : {
+
+			"GraphType" : "clusterBar" ,
+
+            "graphic_data_url": "data.csv",
+
+            "colour_palette": [ "#234d70" , "#00a5a1"],
+
+            "dateFormat":"%Y",
+
+            "legendLabels" :[ "Men" , "Women" ],
+			"legendStyle": "rect",
+			"sourceText":["Office for National Statistics – 2011 Census England and Wales, National Records of Scotland - 2011 Census Scotland, Northern Ireland Statistics and Research Agency - 2011 Census Northern Ireland "],
+            "sourceURL":["http://www.ons.gov.uk/ons"],
+
+            "annotationChart": [
+                "Women's providing of care  peaks at age 56, men's at age 59",
+                "More men than women  providing care from age  74 onwards"
+            ],
+            "annotationBullet": [
+            ],
+            "annotationXY":[
+                ["50",28],
+                ["70",22]
+            ],
+            "annotationAlign":[
+                "start"
+            ],
+
+
+
+            "yAxisLabel":"%",
+            "yAxisScale":[0,30],
+            "yAxisBreak_sm_md_lg": [65,65,65]
+
+    },
+    "optional" : {
+            "margin_sm": [50, 30, 35, 18],
+            "margin_md": [50, 80, 35, 18],
+            "margin_lg": [40, 80, 55, 18],
+
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+
+            "mobileBreakpoint" : 610,
+
+            "xAxisTextFormat_sm_md_lg" : ["%y", "%y", "%y"],
+
+            "x_num_ticks_sm_md_lg" : [5,5,5],
+            "y_num_ticks_sm_md_lg" : [6,6,6],
+            "vertical_line" : false,
+            "annotateLineX1_Y1_X2_Y2":[
+                [["2010-11",40],["2010-11",0]],
+                [["2013-14",50],["2013-14",0]]
+            ],
+            "annotateRect" : false,
+            "annotateRectX_Y" : [
+                [["2010-11", 50],["2012-13", 0]],
+                [["2009-10", 50],["2010-11", 0]]
+            ],
+            "lineColor_opcty" : [["#888", 0.2], ["red", 0.2]],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}

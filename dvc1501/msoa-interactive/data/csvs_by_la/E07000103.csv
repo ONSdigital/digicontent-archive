@@ -1,0 +1,37 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02004968,Watford 001,Woodside & Leavesden Green,0,9,0,1,0,0,0,1,2,3,6,2,0,0,covid
+E02004969,Watford 002,Stanborough,0,5,1,1,0,0,0,0,2,1,5,2,0,1,covid
+E02004970,Watford 003,Garston,0,3,0,0,0,0,0,2,0,2,5,1,0,0,covid
+E02004971,Watford 004,Leggatts,0,4,1,1,1,0,1,1,0,1,5,2,0,0,covid
+E02004972,Watford 005,Tudor,0,2,0,0,0,0,0,0,1,1,3,1,1,0,covid
+E02004973,Watford 006,North Watford,0,4,0,0,0,0,0,0,0,1,4,3,0,0,covid
+E02004974,Watford 007,Nascot Wood,0,27,3,2,0,0,0,1,0,0,8,3,1,0,covid
+E02004975,Watford 008,Cassiobury,0,5,1,0,0,0,0,0,0,0,0,1,0,0,covid
+E02004976,Watford 009,Central Watford,0,6,0,0,0,0,1,1,0,0,3,2,0,1,covid
+E02004977,Watford 010,West Watford,0,5,1,1,0,0,0,1,1,1,8,4,0,0,covid
+E02004978,Watford 011,Holywell,0,15,7,1,3,0,0,0,1,3,6,4,2,0,covid
+E02004979,Watford 012,Oxhey,0,2,0,0,1,0,0,1,1,0,5,3,1,0,covid
+E02004968,Watford 001,Woodside & Leavesden Green,6,21,3,2,4,2,3,5,5,7,7,3,7,10,noncovid
+E02004969,Watford 002,Stanborough,0,3,4,4,3,7,5,7,1,3,9,4,4,9,noncovid
+E02004970,Watford 003,Garston,6,5,2,1,5,3,9,3,10,4,5,7,5,6,noncovid
+E02004971,Watford 004,Leggatts,7,5,6,8,1,4,6,6,6,4,4,4,4,4,noncovid
+E02004972,Watford 005,Tudor,1,4,2,3,3,0,10,1,8,2,2,3,1,4,noncovid
+E02004973,Watford 006,North Watford,1,6,1,1,2,1,3,2,2,1,5,2,1,1,noncovid
+E02004974,Watford 007,Nascot Wood,12,24,8,6,1,8,5,6,8,9,14,7,4,8,noncovid
+E02004975,Watford 008,Cassiobury,7,4,6,4,5,5,5,2,5,2,4,6,3,1,noncovid
+E02004976,Watford 009,Central Watford,3,8,5,1,4,1,4,3,5,6,3,2,4,5,noncovid
+E02004977,Watford 010,West Watford,7,2,2,4,1,3,2,4,4,4,3,3,0,4,noncovid
+E02004978,Watford 011,Holywell,5,19,7,6,3,5,2,5,6,5,15,8,5,7,noncovid
+E02004979,Watford 012,Oxhey,0,3,5,5,5,3,5,2,2,3,5,1,3,1,noncovid
+E02004968,Watford 001,Woodside & Leavesden Green,6,5,6,7,4,6,5,5,5,5,9,6,6,5,average
+E02004969,Watford 002,Stanborough,3,4,2,5,2,2,2,4,5,3,3,4,3,4,average
+E02004970,Watford 003,Garston,6,7,5,4,5,4,5,8,7,5,7,6,6,7,average
+E02004971,Watford 004,Leggatts,5,6,2,3,5,5,3,6,5,5,7,4,5,6,average
+E02004972,Watford 005,Tudor,4,3,4,2,2,2,3,3,2,4,5,4,4,3,average
+E02004973,Watford 006,North Watford,3,2,2,3,2,2,1,3,1,2,3,2,3,2,average
+E02004974,Watford 007,Nascot Wood,15,10,7,8,8,10,9,9,11,13,13,16,15,10,average
+E02004975,Watford 008,Cassiobury,5,4,4,3,4,3,4,4,4,3,4,4,5,4,average
+E02004976,Watford 009,Central Watford,5,4,4,4,5,3,3,3,6,3,6,5,5,4,average
+E02004977,Watford 010,West Watford,6,5,5,5,5,6,4,5,7,6,7,4,6,5,average
+E02004978,Watford 011,Holywell,8,8,7,6,5,7,6,9,9,8,10,9,8,8,average
+E02004979,Watford 012,Oxhey,4,5,4,5,6,4,4,4,4,5,6,4,4,5,average

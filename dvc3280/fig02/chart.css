@@ -1,0 +1,46 @@
+.dataLabels{
+  font-weight: 600;
+  font-size: 14px;
+}
+#main-flex {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 24px;
+}
+#map-container {
+  min-width: 0;
+  width: 50%;
+  height: 400px;
+  flex-shrink: 0;
+}
+#bars-container {
+  flex: 1 1 0;
+  min-width: 0;
+  width: 50%;
+}
+
+#bars-container, #graphic {
+  width: 100%;
+  min-width: 0;
+  box-sizing: border-box;
+}
+
+@media (max-width: 663px) {
+  #main-flex {
+    flex-direction: column;
+  }
+  #map-container {
+    width: 100%;
+    height: 300px;
+    margin-bottom: 16px;
+  }
+  #bars-container {
+    width: 100%;
+  }
+
+  #bars-container, #graphic {
+    width: 100%;
+    min-width: 0;
+  }
+}

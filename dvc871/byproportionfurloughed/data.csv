@@ -1,0 +1,15 @@
+xcategory,ycategory,amount
+Continued trading,No staff furloughed,0.202
+Continued trading,1% to 10% furloughed,0.192
+Continued trading,11% to 25% furloughed,0.16
+Continued trading,26% to 50% furloughed,0.228
+Continued trading,51% to 75% furloughed,0.121
+Continued trading,76% to 90% furloughed,0.065
+Continued trading,91% to 100% furloughed,0.031
+Temporarily closed or paused trading ,No staff furloughed,0.044
+Temporarily closed or paused trading ,1% to 10% furloughed,
+Temporarily closed or paused trading ,11% to 25% furloughed,0.011
+Temporarily closed or paused trading ,26% to 50% furloughed,0.04
+Temporarily closed or paused trading ,51% to 75% furloughed,0.086
+Temporarily closed or paused trading ,76% to 90% furloughed,0.211
+Temporarily closed or paused trading ,91% to 100% furloughed,0.599

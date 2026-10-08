@@ -1,0 +1,58 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02003296,Thurrock 001,Corringham North & London Gateway,0,5,1,1,0,0,0,0,0,4,10,3,0,0,covid
+E02003297,Thurrock 002,Corringham South,0,3,1,1,0,0,0,0,2,0,15,2,1,0,covid
+E02003298,Thurrock 003,Stanford East,0,6,2,2,0,0,0,1,4,2,6,3,0,1,covid
+E02003299,Thurrock 004,"Orsett, Bulphan & Hordon-on-the-Hill",0,5,0,0,0,0,0,2,2,3,7,0,0,0,covid
+E02003300,Thurrock 005,Stanford West,0,4,1,0,0,0,0,0,2,1,4,3,1,0,covid
+E02003301,Thurrock 006,North Ockendon,0,5,1,2,1,0,0,3,1,1,8,4,0,0,covid
+E02003302,Thurrock 007,South Ockendon,0,17,1,1,0,0,0,0,10,1,6,6,0,0,covid
+E02003303,Thurrock 008,Aveley,0,5,2,0,1,0,0,0,4,1,5,1,3,0,covid
+E02003304,Thurrock 009,Stifford Clays,0,11,1,0,0,0,0,0,2,1,17,8,2,0,covid
+E02003305,Thurrock 010,Little Thurrock North,0,5,1,0,0,0,0,0,3,1,6,4,1,0,covid
+E02003307,Thurrock 012,Chadwell St Mary,0,7,1,1,1,0,0,4,9,8,15,7,1,0,covid
+E02003308,Thurrock 013,East Tilbury,0,1,2,1,0,0,0,0,2,2,1,1,1,0,covid
+E02003309,Thurrock 014,Little Thurrock South,0,5,2,2,0,0,0,0,0,1,7,4,1,0,covid
+E02003310,Thurrock 015,"Purfleet, South Stifford & Lakeside",0,1,0,0,0,0,0,0,2,0,8,1,0,1,covid
+E02003311,Thurrock 016,Grays Chafford Gorges & Orsett Road,0,8,6,0,0,0,0,0,3,1,10,1,1,0,covid
+E02003312,Thurrock 017,Grays Town,0,2,1,0,0,0,0,0,1,1,2,0,0,0,covid
+E02003313,Thurrock 018,Tilbury,0,7,0,2,0,0,0,0,3,2,12,7,0,0,covid
+E02006859,Thurrock 019,South Chafford,0,1,0,0,0,0,0,0,1,0,4,0,0,0,covid
+E02006926,Thurrock 020,Chafford & North Stifford,0,3,0,1,0,0,0,0,0,0,1,1,1,0,covid
+E02003296,Thurrock 001,Corringham North & London Gateway,6,6,5,5,2,3,3,4,3,6,8,5,4,2,noncovid
+E02003297,Thurrock 002,Corringham South,11,12,6,2,4,5,8,5,5,5,7,3,5,5,noncovid
+E02003298,Thurrock 003,Stanford East,10,8,6,7,3,4,6,7,12,5,7,4,5,6,noncovid
+E02003299,Thurrock 004,"Orsett, Bulphan & Hordon-on-the-Hill",7,9,3,0,5,3,5,2,3,1,8,11,2,7,noncovid
+E02003300,Thurrock 005,Stanford West,1,5,1,2,4,3,9,5,1,5,6,5,6,7,noncovid
+E02003301,Thurrock 006,North Ockendon,9,10,5,6,10,4,7,6,5,4,10,6,2,6,noncovid
+E02003302,Thurrock 007,South Ockendon,10,12,5,7,4,4,4,4,4,5,4,1,4,5,noncovid
+E02003303,Thurrock 008,Aveley,7,9,1,5,4,4,6,6,5,5,7,4,6,4,noncovid
+E02003304,Thurrock 009,Stifford Clays,12,8,6,3,9,2,8,9,7,7,15,4,13,6,noncovid
+E02003305,Thurrock 010,Little Thurrock North,4,4,1,6,5,1,6,3,6,4,3,4,1,0,noncovid
+E02003307,Thurrock 012,Chadwell St Mary,12,15,7,7,5,4,11,11,8,9,8,4,9,7,noncovid
+E02003308,Thurrock 013,East Tilbury,5,10,2,2,5,2,5,3,2,2,1,3,5,3,noncovid
+E02003309,Thurrock 014,Little Thurrock South,6,4,2,1,2,3,3,8,4,5,4,5,6,5,noncovid
+E02003310,Thurrock 015,"Purfleet, South Stifford & Lakeside",4,47,3,1,6,4,6,2,2,4,4,4,6,1,noncovid
+E02003311,Thurrock 016,Grays Chafford Gorges & Orsett Road,11,19,3,4,6,3,8,11,11,5,6,4,5,5,noncovid
+E02003312,Thurrock 017,Grays Town,1,5,3,3,1,3,0,4,4,1,3,2,2,1,noncovid
+E02003313,Thurrock 018,Tilbury,8,17,14,8,9,5,7,4,6,6,7,9,8,8,noncovid
+E02006859,Thurrock 019,South Chafford,0,1,1,2,2,2,1,1,1,1,1,1,2,1,noncovid
+E02006926,Thurrock 020,Chafford & North Stifford,2,1,2,2,1,2,3,3,2,3,1,2,2,0,noncovid
+E02003296,Thurrock 001,Corringham North & London Gateway,4,4,5,3,5,3,4,5,5,3,5,5,4,4,average
+E02003297,Thurrock 002,Corringham South,5,6,4,6,7,6,9,8,5,6,6,6,5,6,average
+E02003298,Thurrock 003,Stanford East,9,7,5,5,8,6,6,6,5,5,7,7,9,7,average
+E02003299,Thurrock 004,"Orsett, Bulphan & Hordon-on-the-Hill",6,5,5,5,4,4,3,5,6,4,6,7,6,5,average
+E02003300,Thurrock 005,Stanford West,4,4,5,3,4,4,4,5,4,4,5,5,4,4,average
+E02003301,Thurrock 006,North Ockendon,7,8,5,7,5,6,5,7,8,6,8,6,7,8,average
+E02003302,Thurrock 007,South Ockendon,9,7,4,6,5,4,7,8,8,6,10,6,9,7,average
+E02003303,Thurrock 008,Aveley,6,4,4,5,6,5,6,4,6,5,8,7,6,4,average
+E02003304,Thurrock 009,Stifford Clays,7,9,9,6,9,6,9,8,8,8,14,9,7,9,average
+E02003305,Thurrock 010,Little Thurrock North,4,5,3,6,5,5,6,6,4,4,6,6,4,5,average
+E02003307,Thurrock 012,Chadwell St Mary,13,8,12,9,9,7,9,12,11,12,12,10,13,8,average
+E02003308,Thurrock 013,East Tilbury,3,4,3,3,4,3,4,3,3,4,6,5,3,4,average
+E02003309,Thurrock 014,Little Thurrock South,6,5,7,4,4,3,5,4,5,5,6,6,6,5,average
+E02003310,Thurrock 015,"Purfleet, South Stifford & Lakeside",3,5,5,3,3,4,3,4,3,3,4,2,3,5,average
+E02003311,Thurrock 016,Grays Chafford Gorges & Orsett Road,8,11,7,7,8,5,7,8,10,9,13,11,8,11,average
+E02003312,Thurrock 017,Grays Town,2,3,1,3,2,2,2,3,2,3,2,2,2,3,average
+E02003313,Thurrock 018,Tilbury,8,8,9,8,10,8,8,6,9,10,13,8,8,8,average
+E02006859,Thurrock 019,South Chafford,1,1,1,1,1,1,1,1,1,1,2,1,1,1,average
+E02006926,Thurrock 020,Chafford & North Stifford,1,3,2,2,2,2,1,2,2,3,4,3,1,3,average

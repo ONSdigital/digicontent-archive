@@ -1,0 +1,61 @@
+{
+    "essential" : {
+            "graphic_data_url": "data.csv",
+            "colour_palette": [ "#D2376D" ],
+            "dateFormat":"%b-%y",
+        
+            "legendLabels" : ["Pos", "Neg"],
+        
+            "sourceText":["UK consumer price inflation, ONS"],
+            "sourceURL":["https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/june2017"],
+        
+            "annotationChart": [
+                
+            ],
+            "annotationBullet": [
+                
+            ],
+            "annotationXY":[
+               
+            ],
+            "annotationAlign":[
+                
+            ],
+        
+            "yAxisLabel":"Number of product price quotes",
+            "yAxisScale":[0,140],   
+            "yAxisBreak": true,
+            "yAxisBreak_sm_md_lg": [65,65,65]            
+    },
+    "optional" : {
+            "margin_sm": [30, 0, 15, 25],
+            "margin_md": [30, 0, 15, 25],
+            "margin_lg": [30, 0, 25, 25],
+        
+            "aspectRatio_sm" : [16,13],
+            "aspectRatio_md" : [16,12],
+            "aspectRatio_lg" : [16,10],
+        
+            "mobileBreakpoint" : 610, 
+                           
+            "y_num_ticks_sm_md_lg" : [6,8,10],
+            "vertical_line" : false,
+            "annotateLineX1_Y1_X2_Y2":[ 
+                [["1995",6],["1995",-3]],  
+                [["2013",6],["2013",-3]] 
+            ],
+            "annotateRect" : true,
+            "annotateRectX_Y" : [ 
+                [["1990", 6],["1993", -3]], 
+                [["1999", 6],["2001", -3]] 
+            ],
+            "lineColor_opcty" : [
+                ["#888", 0.2], 
+                ["red", 0.2]
+            ],
+            "centre_line" : false,
+            "centre_line_value" : 0
+    }
+}
+
+

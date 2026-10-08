@@ -1,0 +1,61 @@
+msoacd,msoanm,msoanmhc,March 2020,April 2020,May 2020,June 2020,July 2020,August 2020,September 2020,October 2020,November 2020,December 2020,January 2021,February 2021,March 2021,April 2021,group
+E02003775,South Cambridgeshire 001,Willingham & Over,0,0,0,1,0,0,0,0,0,1,1,1,0,0,covid
+E02003776,South Cambridgeshire 002,Cottenham,0,0,0,0,0,0,0,0,0,2,0,12,0,0,covid
+E02003777,South Cambridgeshire 003,"Longstanton, Swavesey & Oakington",0,2,0,0,0,0,0,0,0,0,13,3,2,0,covid
+E02003778,South Cambridgeshire 004,Waterbeach and Landbeach,0,0,2,0,0,0,0,0,0,1,7,8,1,0,covid
+E02003779,South Cambridgeshire 005,Bar Hill & Boxworth,0,0,0,0,0,0,0,0,0,0,0,3,0,0,covid
+E02003780,South Cambridgeshire 006,"HIston, Impington & Orchard Park",0,3,0,1,0,0,0,0,0,1,3,11,0,0,covid
+E02003781,South Cambridgeshire 007,"Milton, Fen Ditton & Quy",0,0,0,0,0,0,0,0,0,0,1,0,1,0,covid
+E02003783,South Cambridgeshire 009,Girton & Barton,0,1,0,0,0,0,0,0,1,0,1,7,1,2,covid
+E02003784,South Cambridgeshire 010,Hardwick & Highfields,0,4,4,0,0,0,0,0,0,0,0,0,0,1,covid
+E02003785,South Cambridgeshire 011,Fulbourn & Teversham,0,1,2,0,0,0,0,0,0,0,1,1,1,0,covid
+E02003786,South Cambridgeshire 012,Great Shelford & Stapleford,0,0,1,1,0,0,0,0,0,0,1,0,0,0,covid
+E02003787,South Cambridgeshire 013,"Barrington, Orwell & Gamlingay",1,2,0,0,0,0,0,0,1,0,0,0,1,2,covid
+E02003788,South Cambridgeshire 014,"Little Shelford , Foxton & Haslingfield",0,2,2,0,0,0,0,0,0,0,1,0,1,0,covid
+E02003789,South Cambridgeshire 015,Sawston,0,3,0,1,0,0,0,0,0,0,8,3,0,0,covid
+E02003790,South Cambridgeshire 016,Linton & Balsham,0,3,2,0,0,0,1,0,0,1,2,1,0,0,covid
+E02003791,South Cambridgeshire 017,"Duxford, Whittlesford & the Abingtons",0,1,0,0,0,0,0,0,0,0,1,1,0,0,covid
+E02003792,South Cambridgeshire 018,"Meldreth, Melbourn & Great Chishill",0,3,0,0,0,0,0,0,0,1,2,3,2,0,covid
+E02003793,South Cambridgeshire 019,Bassingbourn & the Mordens,0,3,0,0,0,0,0,0,0,0,1,3,1,0,covid
+E02006873,South Cambridgeshire 020,Cambourne,0,1,0,0,0,0,0,0,0,0,0,0,0,1,covid
+E02006874,South Cambridgeshire 021,"Papworth, Caxton & Fen Drayton",1,2,1,1,0,0,0,0,0,0,1,0,2,0,covid
+E02003775,South Cambridgeshire 001,Willingham & Over,6,5,5,7,4,2,3,5,3,1,5,6,2,8,noncovid
+E02003776,South Cambridgeshire 002,Cottenham,5,4,8,6,9,2,7,6,7,8,4,5,2,10,noncovid
+E02003777,South Cambridgeshire 003,"Longstanton, Swavesey & Oakington",6,4,3,2,3,5,4,5,6,6,3,6,2,1,noncovid
+E02003778,South Cambridgeshire 004,Waterbeach and Landbeach,4,1,6,5,7,2,8,3,5,8,4,6,1,4,noncovid
+E02003779,South Cambridgeshire 005,Bar Hill & Boxworth,2,1,2,2,2,2,2,2,5,4,3,4,2,3,noncovid
+E02003780,South Cambridgeshire 006,"HIston, Impington & Orchard Park",6,11,9,9,6,9,9,8,3,6,11,15,11,5,noncovid
+E02003781,South Cambridgeshire 007,"Milton, Fen Ditton & Quy",2,4,3,2,2,3,3,3,2,2,5,3,1,3,noncovid
+E02003783,South Cambridgeshire 009,Girton & Barton,9,4,5,6,7,7,4,9,5,2,5,5,8,4,noncovid
+E02003784,South Cambridgeshire 010,Hardwick & Highfields,9,7,10,4,3,6,3,8,4,10,2,5,2,1,noncovid
+E02003785,South Cambridgeshire 011,Fulbourn & Teversham,8,6,5,5,10,4,6,12,5,6,8,4,9,4,noncovid
+E02003786,South Cambridgeshire 012,Great Shelford & Stapleford,3,8,8,7,8,5,9,2,9,5,5,9,6,7,noncovid
+E02003787,South Cambridgeshire 013,"Barrington, Orwell & Gamlingay",4,9,2,2,1,4,9,9,5,6,1,7,5,7,noncovid
+E02003788,South Cambridgeshire 014,"Little Shelford , Foxton & Haslingfield",5,7,3,4,4,1,6,6,2,7,7,6,5,3,noncovid
+E02003789,South Cambridgeshire 015,Sawston,6,6,8,8,6,3,5,3,5,9,3,3,8,8,noncovid
+E02003790,South Cambridgeshire 016,Linton & Balsham,6,9,8,10,4,10,15,6,10,7,13,5,2,6,noncovid
+E02003791,South Cambridgeshire 017,"Duxford, Whittlesford & the Abingtons",5,7,4,4,1,1,5,6,2,2,6,1,6,5,noncovid
+E02003792,South Cambridgeshire 018,"Meldreth, Melbourn & Great Chishill",5,8,9,5,12,6,5,9,4,9,5,5,7,6,noncovid
+E02003793,South Cambridgeshire 019,Bassingbourn & the Mordens,5,5,2,3,7,2,4,1,3,4,3,3,4,4,noncovid
+E02006873,South Cambridgeshire 020,Cambourne,2,1,4,2,4,2,3,1,1,2,2,3,5,1,noncovid
+E02006874,South Cambridgeshire 021,"Papworth, Caxton & Fen Drayton",2,5,7,1,1,2,4,2,5,8,4,4,2,1,noncovid
+E02003775,South Cambridgeshire 001,Willingham & Over,4,3,5,3,3,3,4,3,4,4,5,5,4,3,average
+E02003776,South Cambridgeshire 002,Cottenham,6,6,6,6,6,7,6,5,9,7,7,6,6,6,average
+E02003777,South Cambridgeshire 003,"Longstanton, Swavesey & Oakington",6,2,5,6,5,5,5,4,4,6,7,4,6,2,average
+E02003778,South Cambridgeshire 004,Waterbeach and Landbeach,4,3,4,4,4,5,3,5,4,5,5,4,4,3,average
+E02003779,South Cambridgeshire 005,Bar Hill & Boxworth,3,3,3,4,2,2,2,2,3,1,2,2,3,3,average
+E02003780,South Cambridgeshire 006,"HIston, Impington & Orchard Park",12,10,9,9,8,9,9,8,11,11,14,10,12,10,average
+E02003781,South Cambridgeshire 007,"Milton, Fen Ditton & Quy",2,2,3,4,3,2,2,3,2,1,4,4,2,2,average
+E02003783,South Cambridgeshire 009,Girton & Barton,5,5,6,4,4,5,4,6,5,3,6,5,5,5,average
+E02003784,South Cambridgeshire 010,Hardwick & Highfields,4,5,5,4,5,5,5,6,6,6,9,4,4,5,average
+E02003785,South Cambridgeshire 011,Fulbourn & Teversham,9,4,5,6,8,6,8,6,9,5,9,9,9,4,average
+E02003786,South Cambridgeshire 012,Great Shelford & Stapleford,7,4,5,4,6,6,4,5,5,3,6,6,7,4,average
+E02003787,South Cambridgeshire 013,"Barrington, Orwell & Gamlingay",9,6,4,5,5,4,4,7,3,5,7,6,9,6,average
+E02003788,South Cambridgeshire 014,"Little Shelford , Foxton & Haslingfield",3,3,2,3,3,5,3,3,5,2,5,4,3,3,average
+E02003789,South Cambridgeshire 015,Sawston,6,4,7,6,5,6,6,7,5,4,8,3,6,4,average
+E02003790,South Cambridgeshire 016,Linton & Balsham,8,6,7,8,8,7,6,5,7,8,10,10,8,6,average
+E02003791,South Cambridgeshire 017,"Duxford, Whittlesford & the Abingtons",5,4,6,3,3,4,4,2,3,5,6,6,5,4,average
+E02003792,South Cambridgeshire 018,"Meldreth, Melbourn & Great Chishill",6,7,7,8,7,4,6,5,6,8,9,7,6,7,average
+E02003793,South Cambridgeshire 019,Bassingbourn & the Mordens,5,3,4,3,3,4,3,4,4,4,7,4,5,3,average
+E02006873,South Cambridgeshire 020,Cambourne,1,3,2,2,1,1,1,3,2,1,2,3,1,3,average
+E02006874,South Cambridgeshire 021,"Papworth, Caxton & Fen Drayton",4,5,2,3,4,4,3,5,3,4,6,3,4,5,average

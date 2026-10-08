@@ -1,0 +1,62 @@
+{
+  "essential": {
+    "graphic_data_url": "data.csv",
+    "dateFormat": "%d/%m/%Y",
+    "displayTicksFormat":"%b %y",
+    "colour_palette": [{
+        "key": "%",
+        "colour": "#206095"
+      }
+    ],
+    "categorySort": [""],
+    "sourceText": ["Office for National Statistics – Retail Sales Inquiry"],
+    "xAxisLabel": "",
+    "yAxisLabel": "%",
+    "yAxisScale": "auto_zero_max_total"
+  },
+  "optional": {
+    "margin": {
+      "sm": {
+        "top": 25,
+        "right": 15,
+        "bottom": 40,
+        "left": 25
+      },
+      "md": {
+        "top": 25,
+        "right": 15,
+        "bottom": 40,
+        "left": 25
+      },
+      "lg": {
+        "top": 25,
+        "right": 15,
+        "bottom": 40,
+        "left": 25
+      }
+    },
+    "chart_every":{
+      "sm": 1,
+      "md": 2,
+      "lg": 3
+    },
+    "aspectRatio": {
+      "sm": [16, 10],
+      "md": [16, 10],
+      "lg": [16, 12]
+    },
+    "legendHeight":{
+      "sm": 45,
+      "md": 30,
+      "lg": 30
+    },
+
+    "mobileBreakpoint": 480,
+    "middleBreakpoint": 670,
+    "x_ticks_every": {
+      "sm": 2,
+      "md": 1,
+      "lg": 3
+    }
+  }
+}

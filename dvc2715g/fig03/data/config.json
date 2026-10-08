@@ -1,0 +1,13 @@
+{"ons":{
+"maptitle": "Interactive map of centenarians by local authorities",
+"varcolour": "YlGnBu",
+"varunit": "Centenarians per 100,000 people",
+"displaydecimals": 0,
+"legenddecimals": 0,
+"breaks": "jenks",
+"dropticks": false,
+"numberBreaks": 5,
+"fillOpacity": 0.7,
+"backgroundColour": "#f2f3f0",
+"legendRectHeight": 8
+}}
