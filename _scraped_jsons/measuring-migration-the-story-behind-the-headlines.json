@@ -168,7 +168,7 @@
       "h4": "How many migrants live in the UK",
       "h5": null,
       "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1542/stepthru/datadownload.xlsx)",
-      "text_new": "[Download the data](/visualisations/dvc1542/stepthru/datadownload.xlsx)"
+      "text_new": "[Download the data](https://onsdigital.github.io/visualisations/dvc1542/stepthru/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -261,7 +261,7 @@
       "h4": "Migration levels in the UK",
       "h5": null,
       "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1542/inmyarea/datadownload.xlsx)",
-      "text_new": "[Download the data](/visualisations/dvc1542/inmyarea/datadownload.xlsx)"
+      "text_new": "[Download the data](https://onsdigital.github.io/visualisations/dvc1542/inmyarea/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -450,7 +450,7 @@
       "h4": "Total UK immigration and emigration from January 2018 to June 2020",
       "h5": null,
       "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc1542/emigration/datadownload.xlsx)",
-      "text_new": "[Download the data](/visualisations/dvc1542/emigration/datadownload.xlsx)"
+      "text_new": "[Download the data](https://onsdigital.github.io/visualisations/dvc1542/emigration/datadownload.xlsx)"
     },
     {
       "type": "heading",

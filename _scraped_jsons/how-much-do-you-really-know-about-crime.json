@@ -133,7 +133,7 @@
       "h4": null,
       "h5": "Crime incidents, England and Wales",
       "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc652a/q1crimelevels/datadownload.csv)",
-      "text_new": "[Download the data](/visualisations/dvc652a/q1crimelevels/datadownload.csv)"
+      "text_new": "[Download the data](https://onsdigital.github.io/visualisations/dvc652a/q1crimelevels/datadownload.csv)"
     },
     {
       "type": "p",
@@ -212,7 +212,7 @@
       "h4": null,
       "h5": "Homicides by offence type, year ending March 2019, England and Wales",
       "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc652a/q2homicidespie/datadownload.csv)",
-      "text_new": "[Download the data](/visualisations/dvc652a/q2homicidespie/datadownload.csv)"
+      "text_new": "[Download the data](https://onsdigital.github.io/visualisations/dvc652a/q2homicidespie/datadownload.csv)"
     },
     {
       "type": "p",
@@ -282,7 +282,7 @@
       "h4": null,
       "h5": null,
       "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc652a/q3womenkilled/datadownload.csv)",
-      "text_new": "[Download the data](/visualisations/dvc652a/q3womenkilled/datadownload.csv)"
+      "text_new": "[Download the data](https://onsdigital.github.io/visualisations/dvc652a/q3womenkilled/datadownload.csv)"
     },
     {
       "type": "p",
@@ -344,7 +344,7 @@
       "h4": null,
       "h5": null,
       "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc652a/q5knifecrime/datadownload.csv)",
-      "text_new": "[Download the data](/visualisations/dvc652a/q5knifecrime/datadownload.csv)"
+      "text_new": "[Download the data](https://onsdigital.github.io/visualisations/dvc652a/q5knifecrime/datadownload.csv)"
     },
     {
       "type": "image",
@@ -451,7 +451,7 @@
       "h4": "Firearms offences, England and Wales, year ending March 2019",
       "h5": "Source: Home Office – Police recorded crime",
       "text": "[Download the data](https://www.ons.gov.uk/visualisations/dvc652a/q6guncrime/datadownload.csv)",
-      "text_new": "[Download the data](/visualisations/dvc652a/q6guncrime/datadownload.csv)"
+      "text_new": "[Download the data](https://onsdigital.github.io/visualisations/dvc652a/q6guncrime/datadownload.csv)"
     },
     {
       "type": "p",

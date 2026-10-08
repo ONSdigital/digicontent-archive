@@ -229,7 +229,7 @@
       "h4": "Smaller towns have the highest average educational attainment",
       "h5": "Educational attainment score, by town size, England",
       "text": "[Download the data for educational attainment scores by town size](https://www.ons.gov.uk/visualisations/dvc2651b/fig1/datadownload.xlsx)",
-      "text_new": "[Download the data for educational attainment scores by town size](/visualisations/dvc2651c/fig1/datadownload.xlsx)"
+      "text_new": "[Download the data for educational attainment scores by town size](https://onsdigital.github.io/visualisations/dvc2651c/fig1/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -347,7 +347,7 @@
       "h4": "Small towns are less likely to be classed as having high income deprivation",
       "h5": "Income deprivation group by town size, England",
       "text": "[Download the data for income deprivation group by town size](https://www.ons.gov.uk/visualisations/dvc2651b/fig2/datadownload.xlsx)",
-      "text_new": "[Download the data for income deprivation group by town size](/visualisations/dvc2651c/fig2/datadownload.xlsx)"
+      "text_new": "[Download the data for income deprivation group by town size](https://onsdigital.github.io/visualisations/dvc2651c/fig2/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -432,7 +432,7 @@
       "h4": "Towns with the highest educational attainment have low levels of income deprivation",
       "h5": "Educational attainment score of the 2012 to 2013 school year GCSE cohort, and income deprivation score, by town, England",
       "text": "[Download the data for income deprivation and educational attainment by town](https://www.ons.gov.uk/visualisations/dvc2651b/fig3/datadownload.xlsx)",
-      "text_new": "[Download the data for income deprivation and educational attainment by town](/visualisations/dvc2651c/fig3/datadownload.xlsx)"
+      "text_new": "[Download the data for income deprivation and educational attainment by town](https://onsdigital.github.io/visualisations/dvc2651c/fig3/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -526,7 +526,7 @@
       "h4": "Towns in the North West have the highest attainment scores at all income deprivation levels",
       "h5": "Average educational attainment score for towns, by region and income deprivation level, England",
       "text": "[Download the data for attainment scores by region and income deprivation level](https://www.ons.gov.uk/visualisations/dvc2651b/fig4/datadownload.xlsx)",
-      "text_new": "[Download the data for attainment scores by region and income deprivation level](/visualisations/dvc2651c/fig4/datadownload.xlsx)"
+      "text_new": "[Download the data for attainment scores by region and income deprivation level](https://onsdigital.github.io/visualisations/dvc2651c/fig4/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -587,7 +587,7 @@
       "h4": "Coastal and seaside towns have lower attainment scores on average than other towns",
       "h5": "Educational attainment scores for coastal and non-coastal towns, by size, England",
       "text": "[Download the data for attainment scores in coastal and non-coastal towns](https://www.ons.gov.uk/visualisations/dvc2651b/fig5/datadownload.xlsx)",
-      "text_new": "[Download the data for attainment scores in coastal and non-coastal towns](/visualisations/dvc2651c/fig5/datadownload.xlsx)"
+      "text_new": "[Download the data for attainment scores in coastal and non-coastal towns](https://onsdigital.github.io/visualisations/dvc2651c/fig5/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -697,7 +697,7 @@
       "h4": "The gap in educational attainment gets wider as young people progress through education",
       "h5": "Percentage point difference in the proportion of young people meeting specific attainment measures at age 11, 16 and 18 years, by town income deprivation groupings, England",
       "text": "[Download the data for difference in pupil attainment by income deprivation](https://www.ons.gov.uk/visualisations/dvc2651b/fig6/datadownload.xlsx)",
-      "text_new": "[Download the data for difference in pupil attainment by income deprivation](/visualisations/dvc2651c/fig6/datadownload.xlsx)"
+      "text_new": "[Download the data for difference in pupil attainment by income deprivation](https://onsdigital.github.io/visualisations/dvc2651c/fig6/datadownload.xlsx)"
     },
     {
       "type": "heading",
@@ -775,7 +775,7 @@
       "h4": "Cities (outside London) have lower average attainment at age 18 than towns, but similar levels of enrolment in higher education",
       "h5": "Proportion of the 2012 to 2013 GCSE cohort achieving Level 3 qualification at age 18, participating in further education or higher education at age 19, by towns and cities groupings, England",
       "text": "[Download the data for attainment at age 18 and 19 by settlement type](https://www.ons.gov.uk/visualisations/dvc2651b/fig6b/datadownload.xlsx)",
-      "text_new": "[Download the data for attainment at age 18 and 19 by settlement type](/visualisations/dvc2651c/fig6b/datadownload.xlsx)"
+      "text_new": "[Download the data for attainment at age 18 and 19 by settlement type](https://onsdigital.github.io/visualisations/dvc2651c/fig6b/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -870,7 +870,7 @@
       "h4": "Young people tend to have better attainment in towns where a high proportion of residents in the previous generation have some form of higher education",
       "h5": "Notes",
       "text": "[Download the data for residents with level 4 qualifications and attainment for 2012/13 GCSE cohort](https://www.ons.gov.uk/visualisations/dvc2651b/fig7/datadownload.xlsx)",
-      "text_new": "[Download the data for residents with level 4 qualifications and attainment for 2012/13 GCSE cohort](/visualisations/dvc2651c/fig7/datadownload.xlsx)"
+      "text_new": "[Download the data for residents with level 4 qualifications and attainment for 2012/13 GCSE cohort](https://onsdigital.github.io/visualisations/dvc2651c/fig7/datadownload.xlsx)"
     },
     {
       "type": "p",
@@ -962,7 +962,7 @@
       "h4": null,
       "h5": null,
       "text": "[Download the data for the explorer tool](https://www.ons.gov.uk/visualisations/dvc2651b/fig8b/datadownload.xlsx)",
-      "text_new": "[Download the data for the explorer tool](/visualisations/dvc2651c/fig8b/datadownload.xlsx)"
+      "text_new": "[Download the data for the explorer tool](https://onsdigital.github.io/visualisations/dvc2651c/fig8b/datadownload.xlsx)"
     },
     {
       "type": "heading",
