@@ -1,1 +1,1 @@
-var s;const e=((s=globalThis.__sveltekit_f13r12)==null?void 0:s.base)??"/visualisations/dvc-semi-automated-bulletins/housing_prices/build";var a;const t=((a=globalThis.__sveltekit_f13r12)==null?void 0:a.assets)??e;export{t as a,e as b};
+var s;const e=((s=globalThis.__sveltekit_f13r12)==null?void 0:s.base)??"/visualisations/housingpriceslocal/";var a;const t=((a=globalThis.__sveltekit_f13r12)==null?void 0:a.assets)??e;export{t as a,e as b};
