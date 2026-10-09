@@ -39,6 +39,6 @@ declare module "$app/types" {
 		};
 		Pathname(): "/" | `/${string}` & {};
 		ResolvedPathname(): `${"" | `/${string}`}${ReturnType<AppTypes['Pathname']>}`;
-		Asset(): "/.DS_Store" | "/.nojekyll" | "/data/chartbuilder_imgs/309cb5d6.png" | "/data/chartbuilder_imgs/58c9d16f.png" | "/data/chartbuilder_imgs/6417dc19.png" | "/data/chartbuilder_imgs/6b681373.png" | "/data/chartbuilder_imgs/91763b25.png" | "/data/chartbuilder_imgs/d4b73af4.png" | "/data/index.json" | "/data/scraped_jsons/a-million-fewer-people-are-gaining-health-benefits-from-nature-since-2020.json" | "/data/scraped_jsons/baby-names-since-1904-how-has-yours-performed.json" | "/data/scraped_jsons/gdp-and-events-in-history-how-the-covid-19-pandemic-shocked-the-uk-economy.json" | "/data/scraped_jsons/how-popular-is-your-birthday.json" | "/data/scraped_jsons/the-uk-contribution-to-the-eu-budget.json" | "/data/scraped_jsons/uk-population-pyramid-interactive.json" | "/data/scraped_jsons/understanding-ai-uptake-and-sentiment-among-people-and-businesses-in-the-uk-june-2023.json" | "/favicon.ico" | "/img/header.png" | "/img/og.png" | "/web.config" | string & {};
+		Asset(): "/.DS_Store" | "/.nojekyll" | "/data/index.json" | "/favicon.ico" | "/img/header.png" | "/img/og.png" | "/web.config" | string & {};
 	}
 }

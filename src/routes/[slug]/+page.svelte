@@ -1,5 +1,4 @@
 <script>
-  // import articleData from "$lib/data/scraped_jsons/understanding-ai-uptake-and-sentiment-among-people-and-businesses-in-the-uk-june-2023.json";
   import EmbedFrame from "$lib/components/EmbedFrame.svelte";
   import {
     Notice,
@@ -13,6 +12,7 @@
     Footer,
     Table,
     Details,
+    Container,
   } from "@onsvisual/svelte-components";
 
   let {data} = $props()
@@ -81,7 +81,8 @@
     return text.split(/\n\n+/).map((para) => renderInline(para).replace(/\n/g, "<br>"));
   }
 
-  let lede = $derived(Object.keys(article.lede).length > 0 ? article.lede : null);
+  let lede = $derived(article.lede ? Object.keys(article.lede).length > 0 ? article.lede : null : null);
+    $inspect(blocks)  
 </script>
 
 <PhaseBanner
@@ -91,13 +92,12 @@
 ></PhaseBanner>
 <Header theme="grey" />
 <Breadcrumb
-  links={article.breadcrumb.map((crumb) => ({
-    label: crumb.text,
-    href: crumb.href ?? undefined,
-  }))}
-  background="var(--ons-color-banner-bg)"
-  `
-/>
+  links="{[
+    {label: 'Back to digicontent archive directory', href:"/"},
+    ]}"
+  background="var(--ons-color-banner-bg)">
+ </Breadcrumb>
+
 <Main>
   <Hero
     title={article.title}
@@ -111,7 +111,7 @@
     {lede}
   ></Hero>
 
-  <Section>
+  <Container width="narrow">
     <div class="body">
       {#each blocks as block, i}
         {#if block.h2 !== "Table of contents"}
@@ -162,12 +162,12 @@
               </ul>
             {/if}
           </Notice>
-        {:else if block.type === "interactive"}
+        {:else if block.type === "interactive" & block.url != null}
           <div class="interactive">
             {#if block.title}<p class="caption">{block.title}</p>{/if}
             <EmbedFrame
               id="interactive-{i}"
-              url={block.url}
+              url={'https://onsdigital.github.io/' + block.url_new}
               title={block.title || "Interactive visualisation"}
             ></EmbedFrame>
           </div>
@@ -178,7 +178,7 @@
               </figcaption>{/if}
             {#if block.chartbuilder_h4}<p class="chart-subtitle">{block.chartbuilder_h4}</p>{/if}
             <img
-              src="/data/chartbuilder_imgs/{block.local_filename}"
+              src={"https://onsdigital.github.io/visualisations" + block.src_new}
               alt={block.chartbuilder_h3 || ""}
             />
           </figure>
@@ -202,20 +202,20 @@
           </figure>
         {:else if block.type === "image"}
           <figure class="body-image">
-            <img src={block.src} alt={block.alt || ""} />
+            <img 
+            src={"https://onsdigital.github.io/visualisations" + block.src_new} 
+            alt={block.alt || ""} />
           </figure>
         {/if}
         {/if}
       {/each}
     </div>
-  </Section>
+  </Container>
 </Main>
 <Footer compact />
 
 <style>
-  .interactive iframe {
-    border: none;
-  }
+
   .chartbuilder img {
     max-width: 100%;
   }
