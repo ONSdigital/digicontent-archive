@@ -215,7 +215,7 @@ function renderInline(text) {
     {:else if block.type === "image"}
       <figure class="body-image">
         <img
-          src={"https://onsdigital.github.io/visualisations" + block.src}
+          src={"https://onsdigital.github.io/" + block.src}
           alt={block.alt || ""}
         />
       </figure>
