@@ -1,4 +1,4 @@
-let base = "/sveltekit-starter";
+let base = "/digicontent-scrape-app";
 let assets = base;
 const app_dir = "_app";
 const relative = false;
