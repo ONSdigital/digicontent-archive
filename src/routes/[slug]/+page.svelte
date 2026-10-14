@@ -229,7 +229,7 @@ function renderInline(text) {
 ></PhaseBanner>
 <Header theme="grey" />
 <Breadcrumb
-  links={[{ label: "Back to digicontent archive directory", href: resolve("/") }]}
+  links={[{ label: "Back to digicontent archive directory", href: "https://onsdigital.github.io/digicontent-archive" }]}
   background="var(--ons-color-banner-bg)"
 ></Breadcrumb>
 
