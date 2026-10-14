@@ -1,8 +1,8 @@
-name: Deploy
+name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches: [main]  
   workflow_dispatch:
 
 permissions:
@@ -10,7 +10,6 @@ permissions:
   pages: write
   id-token: write
 
-# One deployment at a time; a newer push cancels an older one still waiting.
 concurrency:
   group: pages
   cancel-in-progress: true
@@ -20,16 +19,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-node@v4
         with:
-          node-version: 24
+          node-version: 20
           cache: npm
+
       - run: npm ci
-      - name: Build
-        run: npm run build
-        env:
-          # Pages serves the site at https://<owner>.github.io/<repo>/
-          BASE_PATH: /${{ github.event.repository.name }}
+
+      - run: npm run build:preview
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: build
