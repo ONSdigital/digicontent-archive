@@ -93,29 +93,29 @@
   }
   const has = (v) => v != null && v !== "";
 
-function resolve(entry) {
-  return {
-    ...entry,
-    text: has(entry.text_new) ? entry.text_new : entry.text,
-    url: has(entry.url_new) ? entry.url_new : entry.url,
-    src: has(entry.src_new) ? entry.src_new : entry.src,
-    box_text: has(entry.box_text_new) ? entry.box_text_new : entry.box_text,
-    box_items: entry.box_items_new?.length ? entry.box_items_new : entry.box_items,
-  };
-}
+  function resolve(entry) {
+    return {
+      ...entry,
+      text: has(entry.text_new) ? entry.text_new : entry.text,
+      url: has(entry.url_new) ? entry.url_new : entry.url,
+      src: has(entry.src_new) ? entry.src_new : entry.src,
+      box_text: has(entry.box_text_new) ? entry.box_text_new : entry.box_text,
+      box_items: entry.box_items_new?.length ? entry.box_items_new : entry.box_items,
+    };
+  }
 
   const blocks = $derived(
-    groupBody(article.body.map(resolve)).filter((b) => b.h2 !== "Table of contents")
+    groupBody(article.body.map(resolve)).filter((b) => b.h2 !== "Table of contents"),
   );
   const superblocks = $derived(groupSuperblocks(blocks));
 
-function renderInline(text) {
-  if (!text) return "";
-  return text.replace(
-    /\[((?:[^\[\]]|\[[^\]]*\])+)\]\(([^)\s]+)\)/g,
-    '<a href="$2" target="_blank" rel="noopener">$1</a>',
-  );
-}
+  function renderInline(text) {
+    if (!text) return "";
+    return text.replace(
+      /\[((?:[^\[\]]|\[[^\]]*\])+)\]\(([^)\s]+)\)/g,
+      '<a href="$2" target="_blank" rel="noopener">$1</a>',
+    );
+  }
   function renderBoxText(text) {
     if (!text) return [];
     return text.split(/\n\n+/).map((para) => renderInline(para).replace(/\n/g, "<br>"));
@@ -128,98 +128,103 @@ function renderInline(text) {
 </script>
 
 {#snippet renderBlock(block, i)}
-    {#if block.type === "heading"}
-      {#if block.level === 2}
-        <h2>{block.text}</h2>
-      {:else if block.level === 3}
-        <h3>{block.text}</h3>
-      {:else if block.level === 4}
-        <h4>{block.text}</h4>
-      {:else}
-        <h5>{block.text}</h5>
-      {/if}
-    {:else if block.type === "correction"}
-      <Details title={block.title}>
-        <p>{block.date}</p>
-        <p>{@html renderInline(block.text)}</p>
-        {#if block.superseded_text}
-          <p>{@html renderInline(block.superseded_text)}</p>
-        {/if}
-      </Details>
-    {:else if block.type === "p"}
+  {#if block.type === "heading"}
+    {#if block.level === 2}
+      <h2>{block.text}</h2>
+    {:else if block.level === 3}
+      <h3>{block.text}</h3>
+    {:else if block.level === 4}
+      <h4>{block.text}</h4>
+    {:else}
+      <h5>{block.text}</h5>
+    {/if}
+  {:else if block.type === "correction"}
+    <Details title={block.title}>
+      <p>{block.date}</p>
       <p>{@html renderInline(block.text)}</p>
-    {:else if block.type === "list"}
-      <ul>
-        {#each block.items as item}
-          <li>{@html renderInline(item)}</li>
+      {#if block.superseded_text}
+        <p>{@html renderInline(block.superseded_text)}</p>
+      {/if}
+    </Details>
+  {:else if block.type === "p"}
+    <p>{@html renderInline(block.text)}</p>
+  {:else if block.type === "list"}
+    <ul>
+      {#each block.items as item}
+        <li>{@html renderInline(item)}</li>
+      {/each}
+    </ul>
+  {:else if block.type === "quote"}
+    <Blockquote attribution={block.source}>
+      {block.text}</Blockquote
+    >
+  {:else if block.type === "box"}
+    <Notice>
+      {#if block.box_h2}<h2>{block.box_h2}</h2>{/if}
+      {#if block.box_h3}<h3>{block.box_h3}</h3>{/if}
+      {#if block.box_text}
+        {#each renderBoxText(block.box_text) as para}
+          <p>{@html para}</p>
         {/each}
-      </ul>
-    {:else if block.type === "quote"}
-      <Blockquote attribution={block.source}>
-        {block.text}</Blockquote
-      >
-    {:else if block.type === "box"}
-      <Notice>
-        {#if block.box_h2}<h2>{block.box_h2}</h2>{/if}
-        {#if block.box_h3}<h3>{block.box_h3}</h3>{/if}
-        {#if block.box_text}
-          {#each renderBoxText(block.box_text) as para}
-            <p>{@html para}</p>
+      {/if}
+      {#if block.box_items && block.box_items.length > 0}
+        <ul>
+          {#each block.box_items as item}
+            <li>{@html renderInline(item)}</li>
           {/each}
-        {/if}
-        {#if block.box_items && block.box_items.length > 0}
-          <ul>
-            {#each block.box_items as item}
-              <li>{@html renderInline(item)}</li>
-            {/each}
-          </ul>
-        {/if}
-      </Notice>
-    {:else if block.type === "interactive" && block.url != null}
-      <div class="interactive">
-        <EmbedFrame
-          id="interactive-{i}"
-          url={"https://onsdigital.github.io/" + block.url}
-          title={block.title || "Interactive visualisation"}
-        ></EmbedFrame>
-      </div>
-    {:else if block.type === "chartbuilder"}
-      <figure class="chartbuilder">
-        {#if block.chartbuilder_h3}<figcaption class="chart-title">
-            {block.chartbuilder_h3}
-          </figcaption>{/if}
-        {#if block.chartbuilder_h4}<p class="chart-subtitle">{block.chartbuilder_h4}</p>{/if}
-        <img
-          src={"https://onsdigital.github.io/visualisations" + block.src}
-          alt={block.chartbuilder_h3 || ""}
-        />
-      </figure>
-    {:else if block.type === "table"}
-      <figure class="table">
-        {#if block.caption}<h4 class="table-caption">{block.caption}</h4>{/if}
+        </ul>
+      {/if}
+    </Notice>
+  {:else if block.type === "interactive" && block.url != null}
+    <div class="interactive">
+      <EmbedFrame
+        id="interactive-{i}"
+        url={"https://onsdigital.github.io/" + block.url}
+        title={block.title || "Interactive visualisation"}
+      ></EmbedFrame>
+    </div>
+  {:else if block.type === "chartbuilder"}
+    <figure class="chartbuilder">
+      {#if block.chartbuilder_h3}<figcaption class="chart-title">
+          {block.chartbuilder_h3}
+        </figcaption>{/if}
+      {#if block.chartbuilder_h4}<p class="chart-subtitle">{block.chartbuilder_h4}</p>{/if}
+      {#if block.src}
+      <img
+        src={"https://onsdigital.github.io/visualisations" + block.src}
+        alt={block.chartbuilder_h3 || ""}
+      />
+      {:else}
+      <p class="chart-subtitle">Image link not found during archiving.</p>
+      {/if}
+    </figure>
+  {:else if block.type === "table"}
+    <figure class="table">
+      {#if block.caption}<h4 class="table-caption">{block.caption}</h4>{/if}
 
-        <Table data={block.data} columns={block.columns} />
+      <Table data={block.data} columns={block.columns} />
 
-        {#if block.source_note}
-          <p class="table-source">{block.source_note}</p>
-        {/if}
+      {#if block.source_note}
+        <p class="table-source">{block.source_note}</p>
+      {/if}
 
-        {#if block.footnotes && block.footnotes.length > 0}
-          <ol class="table-footnotes">
-            {#each block.footnotes as note}
-              <li>{@html renderInline(note)}</li>
-            {/each}
-          </ol>
-        {/if}
-      </figure>
-    {:else if block.type === "image"}
+      {#if block.footnotes && block.footnotes.length > 0}
+        <ol class="table-footnotes">
+          {#each block.footnotes as note}
+            <li>{@html renderInline(note)}</li>
+          {/each}
+        </ol>
+      {/if}
+    </figure>
+  {:else if block.type === "image"}
+    {#if block.src.includes("/resource?uri")}
+    <p class="chart-subtitle">Static image omitted from scrape as hosted on /resource</p>
+    {:else}
       <figure class="body-image">
-        <img
-          src={"https://onsdigital.github.io/" + block.src}
-          alt={block.alt || ""}
-        />
+        <img src={"https://onsdigital.github.io/" + block.src} alt={block.alt || ""} />
       </figure>
     {/if}
+  {/if}
 {/snippet}
 
 <PhaseBanner
@@ -229,7 +234,12 @@ function renderInline(text) {
 ></PhaseBanner>
 <Header theme="grey" />
 <Breadcrumb
-  links={[{ label: "Back to digicontent archive directory", href: "https://onsdigital.github.io/digicontent-archive" }]}
+  links={[
+    {
+      label: "Back to digicontent archive directory",
+      href: "https://onsdigital.github.io/digicontent-archive",
+    },
+  ]}
   background="var(--ons-color-banner-bg)"
 ></Breadcrumb>
 
@@ -255,7 +265,6 @@ function renderInline(text) {
       </div>
     </Container>
   {/each}
-
 </Main>
 <Footer compact />
 
@@ -275,8 +284,10 @@ function renderInline(text) {
     margin-top: 20px;
   }
 
-  h1,h2,h3,h4 {
+  h1,
+  h2,
+  h3,
+  h4 {
     margin-top: 40px;
   }
-
 </style>
