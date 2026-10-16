@@ -266,7 +266,8 @@
     </Container>
   {/each}
 </Main>
-<Footer compact />
+<!-- <Footer compact /> -->
+<Container width="full" height="100px"></Container>
 
 <style>
   .chartbuilder img {

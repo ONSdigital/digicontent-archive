@@ -86,7 +86,8 @@
 </Table> -->
 </Container>
 
-<Footer compact />
+<!-- <Footer compact /> -->
+<Container width="full" height="100px"></Container>
 
 <style>
   /* .jsons-list {
